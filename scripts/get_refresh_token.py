@@ -22,16 +22,14 @@ a password. This is the only interactive auth step in the project
 import http.server
 import os
 import secrets
-import sys
 import urllib.parse
 import webbrowser
 
 import requests
 from dotenv import load_dotenv, set_key
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
-from models import TokenResponse  # noqa: E402
-from token_auth import basic_auth_header  # noqa: E402
+from calbum.spotify.auth import basic_auth_header
+from calbum.spotify.schemas import TokenResponse
 
 load_dotenv()
 

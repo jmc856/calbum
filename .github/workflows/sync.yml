@@ -1,0 +1,63 @@
+name: sync
+
+# schedule + workflow_dispatch only — never a PR-shaped trigger. Good hygiene
+# for any repo holding GOOGLE_SA_JSON in secrets, private or not (see PLAN.md
+# "Key decisions"). Every 2 hours, not hourly, to keep headroom against the
+# private repo's 2,000 Actions-minutes/month budget.
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+
+# Single-writer discipline (constraint 5): only this workflow ever writes to
+# the repo. `git pull --rebase` before push handles a slow race; this
+# concurrency group handles the case of a manual dispatch overlapping the
+# cron — without it, that overlap is exactly the scenario constraint 5 rules
+# out. cancel-in-progress stays false: a poll run in flight should finish and
+# write, not be killed mid-write (the writer is atomic, but a cancelled run
+# still leaves the cache/commit state half-applied).
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v3
+        with:
+          version: "latest"
+
+      # Explicit version, not floating — a drifted interpreter is how a
+      # working local build becomes a red cron job nobody notices for weeks.
+      - name: Set up Python 3.13
+        run: uv python install 3.13
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Run poller
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          GITHUB_ACTIONS: "true"
+        run: uv run python -m calbum.poll
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "calbum-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git commit -m "sync: poll _selected [skip ci]"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

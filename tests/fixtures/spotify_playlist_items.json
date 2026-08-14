@@ -1,0 +1,480 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/69sECiGHH9HzovuxOZtwMA/items?offset=0&limit=5",
+  "items": [
+    {
+      "added_at": "2026-08-13T12:26:35Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jmc856"
+        },
+        "href": "https://api.spotify.com/v1/users/jmc856",
+        "id": "jmc856",
+        "type": "user",
+        "uri": "spotify:user:jmc856"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": true,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+          "id": "0qWcLfCZ8wtcoOdX14oGNI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026c26e4a2e4df94a55591c48f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516c26e4a2e4df94a55591c48f",
+              "width": 64
+            }
+          ],
+          "name": "Stranger in the Alps",
+          "release_date": "2017-09-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0qWcLfCZ8wtcoOdX14oGNI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+              "id": "1r1uxoy19fzMxunt3ONAkG",
+              "name": "Phoebe Bridgers",
+              "type": "artist",
+              "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 323711,
+        "external_ids": {
+          "isrc": "TCACW1749848"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5w52BJAqGkV1ewaCVLmjhi",
+        "id": "5w52BJAqGkV1ewaCVLmjhi",
+        "name": "Smoke Signals",
+        "uri": "spotify:track:5w52BJAqGkV1ewaCVLmjhi",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-13T12:26:35Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jmc856"
+        },
+        "href": "https://api.spotify.com/v1/users/jmc856",
+        "id": "jmc856",
+        "type": "user",
+        "uri": "spotify:user:jmc856"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+          "id": "0qWcLfCZ8wtcoOdX14oGNI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026c26e4a2e4df94a55591c48f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516c26e4a2e4df94a55591c48f",
+              "width": 64
+            }
+          ],
+          "name": "Stranger in the Alps",
+          "release_date": "2017-09-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0qWcLfCZ8wtcoOdX14oGNI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+              "id": "1r1uxoy19fzMxunt3ONAkG",
+              "name": "Phoebe Bridgers",
+              "type": "artist",
+              "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 229760,
+        "external_ids": {
+          "isrc": "USJ5G1714202"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xo8RrjJ9CVNrtRg2S3B1R",
+        "id": "5xo8RrjJ9CVNrtRg2S3B1R",
+        "name": "Motion Sickness",
+        "uri": "spotify:track:5xo8RrjJ9CVNrtRg2S3B1R",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-13T12:26:35Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jmc856"
+        },
+        "href": "https://api.spotify.com/v1/users/jmc856",
+        "id": "jmc856",
+        "type": "user",
+        "uri": "spotify:user:jmc856"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+          "id": "0qWcLfCZ8wtcoOdX14oGNI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026c26e4a2e4df94a55591c48f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516c26e4a2e4df94a55591c48f",
+              "width": 64
+            }
+          ],
+          "name": "Stranger in the Alps",
+          "release_date": "2017-09-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0qWcLfCZ8wtcoOdX14oGNI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+              "id": "1r1uxoy19fzMxunt3ONAkG",
+              "name": "Phoebe Bridgers",
+              "type": "artist",
+              "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 232373,
+        "external_ids": {
+          "isrc": "USJ5G1714203"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rJDsZjIaCfJQSqRUvl0BM",
+        "id": "3rJDsZjIaCfJQSqRUvl0BM",
+        "name": "Funeral",
+        "uri": "spotify:track:3rJDsZjIaCfJQSqRUvl0BM",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-13T12:26:35Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jmc856"
+        },
+        "href": "https://api.spotify.com/v1/users/jmc856",
+        "id": "jmc856",
+        "type": "user",
+        "uri": "spotify:user:jmc856"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+          "id": "0qWcLfCZ8wtcoOdX14oGNI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026c26e4a2e4df94a55591c48f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516c26e4a2e4df94a55591c48f",
+              "width": 64
+            }
+          ],
+          "name": "Stranger in the Alps",
+          "release_date": "2017-09-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0qWcLfCZ8wtcoOdX14oGNI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+              "id": "1r1uxoy19fzMxunt3ONAkG",
+              "name": "Phoebe Bridgers",
+              "type": "artist",
+              "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 4,
+        "duration_ms": 198532,
+        "external_ids": {
+          "isrc": "USJ5G1714204"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4b9SVTfCfMlH3o8amWk3dG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4b9SVTfCfMlH3o8amWk3dG",
+        "id": "4b9SVTfCfMlH3o8amWk3dG",
+        "name": "Demi Moore",
+        "uri": "spotify:track:4b9SVTfCfMlH3o8amWk3dG",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2026-08-13T12:26:35Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/jmc856"
+        },
+        "href": "https://api.spotify.com/v1/users/jmc856",
+        "id": "jmc856",
+        "type": "user",
+        "uri": "spotify:user:jmc856"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "item": {
+        "is_playable": true,
+        "explicit": true,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "is_playable": true,
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0qWcLfCZ8wtcoOdX14oGNI",
+          "id": "0qWcLfCZ8wtcoOdX14oGNI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c26e4a2e4df94a55591c48f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026c26e4a2e4df94a55591c48f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516c26e4a2e4df94a55591c48f",
+              "width": 64
+            }
+          ],
+          "name": "Stranger in the Alps",
+          "release_date": "2017-09-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0qWcLfCZ8wtcoOdX14oGNI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+              },
+              "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+              "id": "1r1uxoy19fzMxunt3ONAkG",
+              "name": "Phoebe Bridgers",
+              "type": "artist",
+              "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 5,
+        "duration_ms": 305000,
+        "external_ids": {
+          "isrc": "USJ5G1714205"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Uwi2Qk3H7fM4b4W4ExrAp",
+        "id": "6Uwi2Qk3H7fM4b4W4ExrAp",
+        "name": "Scott Street",
+        "uri": "spotify:track:6Uwi2Qk3H7fM4b4W4ExrAp",
+        "is_local": false
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/playlists/69sECiGHH9HzovuxOZtwMA/items?offset=5&limit=5",
+  "offset": 0,
+  "previous": null,
+  "total": 22
+}

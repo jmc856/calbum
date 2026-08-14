@@ -11,18 +11,26 @@
 # scripts/get_refresh_token.py locally and update the SPOTIFY_REFRESH_TOKEN
 # GitHub Actions secret by hand.
 
+import base64
 import os
 
 import requests
 from dotenv import load_dotenv, set_key
 
-from models import TokenResponse
-from token_auth import basic_auth_header
+from calbum.spotify.schemas import TokenResponse
 
 load_dotenv()
 
 TOKEN_URL = "https://accounts.spotify.com/api/token"
-ENV_PATH = os.path.join(os.path.dirname(__file__), "..", ".env")
+ENV_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "..", ".env")
+
+
+def basic_auth_header(client_id: str, client_secret: str) -> str:
+    """Shared helper for Spotify's client-credentials Basic auth header. Used
+    here (refresh -> access token) and by scripts/get_refresh_token.py (the
+    one-time authorization-code grant)."""
+    raw = f"{client_id}:{client_secret}".encode()
+    return f"Basic {base64.b64encode(raw).decode()}"
 
 
 def get_access_token() -> str:

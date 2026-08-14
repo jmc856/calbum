@@ -10,23 +10,36 @@ gets abandoned.
 
 One write path, N generated read-only projections.
 
-- **Write surface:** Spotify. Saving an album in the Spotify app IS the capture
-  action. No custom capture UI, no mobile app, no share-sheet shortcut.
+- **Write surface:** a single Spotify playlist, `_selected`. Adding the whole album to it
+  IS the capture action — the one and only commitment gesture. No custom capture UI, no
+  mobile app, no share-sheet shortcut.
+- **How you decide what goes into `_selected` is entirely your business and out of scope.**
+  Hearting, a scratch playlist, memory — whatever workflow you use to narrow candidates
+  down happens inside Spotify and the pipeline never sees it. Nothing downstream (the
+  Sheet, the site) needs to know what you considered and passed on — only what you kept.
 - **Canonical store:** JSON files in this git repo.
-- **Read surfaces:** Google Sheet (share with friends), static site (future-proofing),
-  Spotify year playlists (existing habit preserved).
+- **Read surfaces:** Google Sheet (share with friends), a React frontend (Stage 4).
 
 Nothing except the Sheet's `_overrides` tab is ever hand-edited. Everything else is
 generated and can be deleted and rebuilt.
 
 ## Key decisions (do not relitigate)
 
-- **Spotify-only.** Albums Spotify lacks are handled by hand-adding a JSON record
-  with `source: "manual"`. Do not build a general non-Spotify path.
-- **JSON over SQLite.** Data is ~200KB now, ~2MB at 5000 albums. Fits in memory,
-  no query planner needed. Git diffs give free version history; a static file is
-  directly fetchable by a browser with no host. JSON -> SQLite later is a 20-line
-  script if ever needed.
+- **`_selected` is the only write surface.** Spotify playlists can't hold albums (only
+  tracks/episodes) or be organized into folders via the API — folders are invisible to any
+  code we write, full stop. So capture means adding a whole album's tracks to one flat
+  playlist. Everything Sheet/site needs is derivable from `_selected` playlist items plus
+  one `GET /albums/{id}` per album for UPC — see Stage 0.
+- **Candidates are explicitly out of scope.** Do not build a queue/inbox surface, do not
+  poll any playlist except `_selected`, do not try to infer what was considered and
+  rejected. This was tried twice this session and reversed both times — see cut list.
+- **JSON over SQLite.** `albums.json` itself is ~200KB now, ~2MB at 5000 albums, and
+  fits in memory with no query planner needed. (The per-album raw Spotify blobs from
+  constraint 2 are on top of that and grow in git history on every re-fetch, but at
+  the actual growth rate — no bulk backfill, ~5-10 albums added at a time, see Stage
+  5 — that's kilobytes per poll run, not a practical concern.) Git diffs give free
+  version history; a static file is directly fetchable by a browser with no host.
+  JSON -> SQLite later is a 20-line script if ever needed.
 - **GitHub Actions cron, not a self-hosted daemon.** The Action already has the
   checkout. **Repo is private.** Secrets are encrypted at rest and unreadable from a
   public repo either way — visibility was never what protected them — but private
@@ -36,87 +49,146 @@ generated and can be deleted and rebuilt.
   to every 2 hours (not hourly) to keep comfortable headroom — see Stage 0. Private
   also means GitHub Pages needs a paid plan, so Stage 4 targets Netlify instead
   (already used for `house_planner/`, see root `CLAUDE.md`).
-- **Discogs primary for genre, MusicBrainz fallback.** Discogs `style[]` is the
-  granular sub-genre field we actually want. MusicBrainz genres are community tags:
-  sparser and coarser. Both support exact barcode/UPC lookup.
+- **Genre cascade, not single-source.** The requirement is a primary genre plus at least
+  one sub-genre per album. Only Discogs (`genre[]` + `style[]`) produces that shape;
+  MusicBrainz is flat community tags and Spotify's artist-level genres are flat and
+  deprecated. So the cascade is Discogs-by-barcode -> Discogs-by-search ->
+  MusicBrainz -> `_overrides`, in that order, never skipping straight to MusicBrainz —
+  see Stage 1.
 - **Identity = Spotify album ID.** No fuzzy matching, no MBIDs as primary key,
   no review queue.
 
-## Vet notes (2026-08-07)
+## Vet notes (2026-08-07, revised 2026-08-11)
 
 This plan was reviewed against live Spotify/Discogs docs before build start. Verdict:
-architecture is sound, build it. Two structural fixes are folded into the stages below:
+architecture is sound, build it. The write-surface design below was iterated three times
+during implementation planning as real usage habits surfaced; this section reflects the
+final design, not the history.
 
-- **`year` was circular** (derived from playlists in Stage 0, written back to playlists in
-  Stage 5). Resolved: `year` is dropped as a field. `release_year` (from `release_date`) is
-  the only grouping key. A separate sticky `keeper` boolean (from `^\d{4}$` playlist
-  membership) tracks curation status independently. Stage 5 may only *relocate* an already-
-  known keeper to its correct `release_year` playlist — it may never add a non-keeper or
-  remove a keeper. `keeper` is monotonic; demotion only via `_overrides`.
+- **The write surface is `_selected` alone — no queue, no `keeper` field, no
+  `/me/albums` involvement.** Earlier drafts of this plan considered `/me/albums`
+  (heart-save) as the capture action, then a two-playlist `_inbox`/`_selected` model, then
+  heart-as-queue with `_selected` as a separate promotion step. All were reversed once it
+  became clear no deliverable depends on knowing what was considered and rejected — only
+  what was kept. `_selected` is both the capture action and the keeper signal in one.
+- **This removes the `year`/`keeper` circularity that existed in earlier drafts entirely**,
+  rather than resolving it with a monotonic field. There is no `keeper` field anymore —
+  every album in `albums.json` is in `_selected` by construction. `release_year` (from
+  `release_date`) remains the only grouping key, used purely for read-surface grouping,
+  never written back to Spotify.
 - **`external_ids.upc` presence is unverified** — docs conflict (Feb 2026 changelog lists it
   as removed; live reference pages still show it, unflagged, while flagging other fields
-  Deprecated). Resolve with one real API call, not more doc reading: Stage 0 step 0 fetches
-  one saved album and asserts `external_ids.upc` is present. Gates Stage 1 only; does not
-  block Stage 0. If absent, MusicBrainz barcode lookup is *not* a fallback (same dependency)
-  — fall back to artist+title+release-year search instead.
+  Deprecated). Resolve with one real API call: Chunk 5 (`scripts/probe.py`) fetches one
+  album via `GET /albums/{id}` and checks for `external_ids.upc`. Gates Stage 1 only; does
+  not block Stage 0.
+- **The playlist-item album-ID JSON path is also unverified** and is the pipeline's critical
+  path now that everything derives from `_selected`. Feb 2026 renamed
+  `tracks.tracks.track -> items.items.item`, suggesting `item["item"]["album"]["id"]`, but
+  this has not been confirmed against a real response. `scripts/probe.py` confirms this
+  before `poll.py` is written against an assumption.
+- **Dropping `keeper` removes a safety property, so a new one replaces it.** A monotonic
+  `keeper` bit used to make a partial/failed playlist read inert. With `_selected` as the
+  sole input, a transient failure mid-pagination would make every unreturned album look
+  deleted. Stage 0 adds an explicit mass-removal guard for this — see below.
 
 ## Repo layout
 
+Python is a real installable package, not a flat script directory — the previous flat
+`src/*.py` layout only worked via a `sys.path` hack in `scripts/get_refresh_token.py`.
+
+    src/calbum/
+      models.py              # OUR canonical domain models (Album, Genre) — see constraint 6
+      writer.py               # deterministic JSON writer — see constraint 1
+      poll.py                 # Stage 0
+      enrich.py                # Stage 1
+      sheets.py                # Stage 2
+      site.py                  # Stage 4 data export
+      spotify/                 # all Spotify API code, isolated — see below
+        auth.py                 # refresh token -> access token
+        client.py                # HTTP session, pagination, 429/Retry-After handling
+        schemas.py                # pydantic models for SPOTIFY's response shapes
+    web/                      # React frontend (Vite + React + TS) — Stage 4
+      public/data/albums.json   # emitted by site.py, served same-origin, no cross-origin fetch
+    docker/                   # Dockerfile.pipeline, Dockerfile.web — local dev + self-host option
+    docker-compose.yml
     data/
       raw/spotify/{album_id}.json    # raw Spotify blobs, one file per album
       raw/discogs/{album_id}.json    # enrichment cache, one file per album
       albums.json                    # canonical normalized records
       overrides.json                 # snapshot of the Sheet's _overrides tab
       unmatched.json                 # backfill rows that failed to resolve
-    site/
-      data/albums.json               # generated, denormalized, minimal
-      index.html
-    src/
-      auth.py poll.py enrich.py sheets.py site.py playlists.py
+    scripts/
+      get_refresh_token.py     # one-time interactive OAuth grant
+      probe.py                 # throwaway: confirms API assumptions before poll.py is built
     .github/workflows/sync.yml
+
+**The module boundary that matters:** `spotify/schemas.py` models *Spotify's* response
+shapes; `models.py` models *ours*. Nothing outside `spotify/` touches a raw Spotify dict.
+The same pattern applies to `discogs/` and `musicbrainz/` once Stage 1 needs it.
+
+**Docker is convenience, not load-bearing.** Neither the pipeline (runs in GitHub Actions)
+nor the frontend (deploys as static files to Netlify) requires it in production. It exists
+for reproducible local dev and to keep self-hosting open. CI runs `uv run` directly, not
+through Docker, so a container problem can never break the sync job.
 
 ## Non-negotiable implementation constraints
 
 1. **Deterministic serialization.** Sorted object keys, records sorted by album ID,
    2-space indent, trailing newline. Without this every run emits a giant noise diff
    and the git-as-audit-log property is destroyed. Implement this in stage 0, not later.
+   Pydantic's `model_dump_json()` does **not** sort keys — models must go through
+   `model_dump(mode="json")` and then `src/calbum/writer.py`.
 2. **One file per album for raw blobs.** A run touching 3 albums must produce a
    3-file diff, not a whole-file rewrite.
 3. **Store raw Spotify JSON verbatim** alongside normalized fields. Batch fetch
-   endpoints were removed, so re-hydrating N albums costs N requests.
+   endpoints were removed, so re-hydrating N albums costs N requests. This cache is also
+   how the UPC gap gets filled — see Stage 0.
 4. **Enrichment cache is write-once.** Never re-query Discogs for an album that
-   already has a cached response.
+   already has a cached response. One escape hatch: deleting the cache file forces a
+   re-query, which is how a genre gets retroactively upgraded from a coarser source.
 5. **Single writer.** Only the scheduled Action writes. `git pull --rebase` before
    push. Never run two concurrently.
 6. **Genre records carry provenance:** `{name, kind, source}` where source is one of
-   `override | discogs_style | discogs_genre | musicbrainz`. This allows retroactive
-   upgrades.
+   `override | discogs_style | discogs_genre | discogs_search | musicbrainz`. This
+   allows retroactive upgrades and keeps it honest about which cascade step supplied
+   each genre.
+7. **Mass-removal guard.** Since `_selected` is the sole source of album identity (no
+   monotonic `keeper` field to fall back on), `poll.py` must abort before writing if the
+   resolved album count drops more than ~10% (or at all, on a small catalog) versus the
+   existing `albums.json`. A partial/failed playlist read must fail loudly, not silently
+   commit a mass deletion.
 
 ## Spotify Web API gotchas (current as of 2026)
 
 - Playlist endpoints use `/items`, not `/tracks`; the response field is `items`.
-  Most tutorials and older client libraries are wrong about this.
+  Most tutorials and older client libraries are wrong about this. The exact per-item
+  album path (`item["item"]["album"]["id"]` vs. the older `item["track"]["album"]["id"]`)
+  is unconfirmed — see Chunk 5.
 - Get Several Albums / Artists / Tracks batch endpoints were **removed**. One
   request per album. Pace accordingly.
 - Search `limit` maxes at 10 (default 5). Matters for backfill matching.
-- **Folders do not exist in the API** and never will. Year playlists are flat;
-  they get dragged into a folder once, by hand, in the client.
-- Album `external_ids.upc` is *probably* available and is the intended join key to
-  Discogs/MusicBrainz — but this is unverified against Feb 2026 changes (see Vet notes
-  above). Confirm with a live call before building Stage 1 on it.
+- **Folders do not exist in the API** and never will. This is why `_selected` must be a
+  single flat playlist, not a folder of per-year playlists.
+- Playlist items carry a `SimplifiedAlbumObject`, which does **not** include
+  `external_ids`. UPC requires a separate `GET /albums/{id}` per album — see Stage 0.
+- Album `external_ids.upc` on the full album object is *probably* available but
+  unverified against Feb 2026 changes (see Vet notes above). Confirmed via
+  `scripts/probe.py` (Chunk 5) before Stage 1 is built on it.
 - Dev mode requires the owner account to hold Premium. Fine here. Extended quota
   is not obtainable and is not needed.
 
 ## Prereqs
 
-- Spotify app, dev mode. Scopes: `user-library-read`, `playlist-read-private`,
-  `playlist-modify-private`.
+- Spotify app, dev mode. Scopes: `user-library-read`, `playlist-read-private`.
+  (`playlist-modify-private` is not needed — the pipeline never writes to Spotify.)
 - Run OAuth once locally to obtain a long-lived **refresh token**. This is the only
   interactive auth step in the project.
 - Discogs personal access token.
 - Google service account; share the target Sheet with its email as Editor.
 - GitHub Actions secrets: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`,
   `SPOTIFY_REFRESH_TOKEN`, `DISCOGS_TOKEN`, `GOOGLE_SA_JSON`, `SHEET_ID`.
+- A Spotify playlist named `_selected`, created by hand once, holding the whole albums you
+  consider keepers.
 
 ---
 
@@ -127,31 +199,33 @@ Do not start a stage before the previous one's "done when" is true.
 
 ## Stage 0 — Poller
 
-0. **UPC probe.** Fetch one saved album via `GET /me/albums` and assert
-   `external_ids.upc` is present in the response. Record the result — it gates Stage 1,
-   not this stage.
-1. `src/auth.py`: refresh token -> access token. Confirm the flow is authorization-code-
-   with-client-secret, not PKCE (PKCE rotates the refresh token on every use; a static
-   Actions secret would die on first refresh).
-2. `GET /me/albums`, paginated at limit 50. Write each album to
-   `data/raw/spotify/{id}.json`. Preserve `added_at`. If an album previously written is no
-   longer present in the response, do NOT delete its file or drop it from `albums.json` —
-   set `removed_at` on the normalized record instead. Silent deletion undermines the
-   audit-log property that is the point of this system.
-3. `GET /me/playlists`. Filter names matching `^\d{4}$`. Fetch their items via
-   `/playlists/{id}/items` (not `/tracks`). Map `item.album.id` -> `keeper = true`
-   (NOT `track.album.id` — the track object now sits under `.item`, per the gotchas above).
-4. Normalize into `data/albums.json`:
-   `id, artists[], title, release_date, release_year, upc, added_at, removed_at, keeper, source`
-   - `release_year` derives from `release_date`, NOT from `added_at`. There is no `year`
-     field — `release_year` is the only grouping key, and playlist membership carries only
-     the `keeper` bit, never a year. This avoids a circular dependency with Stage 5 (see
-     Vet notes above).
-   - `keeper` is monotonic: once observed `true` it never reverts to `false` except via an
-     explicit `_overrides` entry (Stage 3). A transient playlist-read failure must not
-     demote a keeper.
-5. Implement the deterministic writer.
-6. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */2 * * *` — every 2 hours,
+1. `src/calbum/spotify/auth.py`: refresh token -> access token. Confirm the flow is
+   authorization-code-with-client-secret, not PKCE (PKCE rotates the refresh token on
+   every use; a static Actions secret would die on first refresh).
+2. `GET /playlists/{_selected_id}/items`, paginated. Resolve the set of album IDs
+   currently in `_selected` from each item's album object, skipping `is_local` items.
+   `added_at` for each album = the earliest item `added_at` across its tracks in the
+   playlist — this is the commitment timestamp.
+3. For any resolved album ID without a cached raw blob in `data/raw/spotify/`, fetch
+   `GET /albums/{id}` (full `AlbumObject`, has `external_ids.upc`; the playlist item's
+   `SimplifiedAlbumObject` does not) and cache it. Write-once, same discipline as the
+   Discogs cache (constraint 4).
+4. **Mass-removal guard (constraint 7).** Compare the resolved album count against the
+   existing `albums.json`. If it dropped more than the threshold, abort without writing
+   and exit non-zero.
+5. Normalize into `data/albums.json`:
+   `id, artists[], title, release_date, release_year, album_type, upc, added_at, removed_at, genres, source`
+   - `release_year` derives from `release_date`, NOT from `added_at`.
+   - `album_type` (`album`/`single`/`compilation`) is captured but never filtered at
+     ingest — read surfaces filter later if they want to.
+   - There is no `keeper` field. Every record in `albums.json` is, by construction, an
+     album that is (or was) in `_selected`.
+   - `removed_at`: if a previously-recorded album is no longer resolvable from `_selected`
+     (and the mass-removal guard didn't trip), set `removed_at` rather than deleting the
+     record. This now means "you changed your mind about a favorite" — more consequential
+     than the old inbox-rejection case, which no longer exists.
+6. Implement the deterministic writer (`src/calbum/writer.py`).
+7. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */2 * * *` — every 2 hours,
    not hourly, to keep comfortable headroom against the private repo's 2,000
    Actions-minutes/month budget) and `workflow_dispatch` **only** (never a PR-shaped
    trigger — good hygiene for any repo holding `GOOGLE_SA_JSON` in secrets, private or
@@ -159,36 +233,54 @@ Do not start a stage before the previous one's "done when" is true.
    workflows after 60 days with no repo activity; the pipeline's own commits count as
    activity, so this only bites during an unusually quiet stretch.
 
-**Done when:** saving an album on your phone produces a commit within a couple of hours.
+**Known limitation, accepted:** adding an album to `_selected` and removing it again within
+a single ~2h poll window means it's never recorded. This is a documented property, not a
+bug — the interval is set for Actions-minutes headroom, not to catch every transient edit.
+
+**Done when:** adding a whole album to `_selected` on your phone produces a commit within
+a couple of hours.
 
 ## Stage 1 — Enrichment
 
-Gated on the Stage 0 UPC probe. If `external_ids.upc` was absent, skip to the search-based
-fallback in step 3b below for all albums (MusicBrainz barcode lookup shares the same
-missing-UPC dependency, so it is not a usable fallback in that case).
+Gated on the Stage 0 UPC probe (`scripts/probe.py`, Chunk 5). If `external_ids.upc` is
+absent from the album object entirely, every album skips straight to step 2 (Discogs
+search) — MusicBrainz is not a substitute fallback for a missing UPC, since it needs the
+same barcode.
 
-1. For albums with a `upc` and no genres:
+The cascade preserves the two-tier genre shape (`genre[]` primary + `style[]` sub) as long
+as possible, since that shape is the actual requirement — MusicBrainz can only ever fill
+the primary tier, so it's the last automated resort, not the first fallback.
+
+1. **Discogs by barcode.** For albums with a `upc` and no genres:
    `GET https://api.discogs.com/database/search?barcode={upc}&type=release`. Normalize the
-   barcode first (strip spaces/dashes, handle UPC-12 vs EAN-13 leading-zero mismatch) —
-   Discogs' barcode field is free text and a raw compare silently misses matches.
+   barcode for UPC-12/EAN-13 leading-zero mismatches; Discogs' own search already compares
+   digits-only and ignores spaces/dashes, so punctuation stripping is not needed on our end.
 2. Do not take `result[0]` unconditionally — it's an arbitrary pressing and breaks
    consistency across re-runs. Prefer the result whose `master_id` is set; resolve to the
    master release where one exists. Record the resolved release/master ID on the album
    record so the choice is auditable. Cache the full response to
    `data/raw/discogs/{album_id}.json`.
-3. MusicBrainz fallback on miss (only when UPC exists but Discogs has no match): barcode ->
-   release -> release-group with `inc=genres`.
-   3b. No-UPC fallback: Discogs search by artist + title + release year, strict matching,
-   flagged for manual review rather than auto-accepted.
-4. Rate limits: Discogs 60/min authenticated, tracked via the `X-Discogs-Ratelimit-*`
+3. **Discogs by artist + title + release_year search**, strict matching, on any album still
+   missing genres after step 1 (whether because there was no UPC, or the barcode search
+   missed — Discogs' barcode coverage skews physical media, so misses are expected on a
+   Spotify-native, digital-heavy catalog). This is the real coverage recovery step and
+   keeps the two-tier shape intact.
+4. **MusicBrainz fallback**, primary-genre-only, for anything still missing after step 3:
+   barcode -> release -> release-group with `inc=genres` (only when a UPC exists to look
+   up; otherwise skip straight to `_overrides`).
+5. Rate limits: Discogs 60/min authenticated, tracked via the `X-Discogs-Ratelimit-*`
    response headers. MusicBrainz 1 req/sec and requires a descriptive User-Agent with
    contact info.
-5. Write `genres[]` with the provenance shape above.
-6. Cache is write-once in normal operation, with one escape hatch: deleting
-   `data/raw/discogs/{album_id}.json` forces a re-query, which is how a genre gets
-   retroactively upgraded from a coarser source.
+6. Write `genres[]` with the provenance shape from constraint 6 — `source` records exactly
+   which cascade step supplied each genre.
+7. Cache is write-once in normal operation, with the escape hatch from constraint 4.
+8. **Report coverage after the run**: counts by source, and the number of albums still
+   lacking a sub-genre. This number — not an assumption — decides whether a fourth source
+   (Last.fm `album.getTopTags`, free, no auth needed for reads, but noisy and needing
+   tag-filtering) is worth adding.
 
-**Done when:** most albums have a sub-genre and you can see which source supplied it.
+**Done when:** the coverage report shows most albums have both a primary genre and a
+sub-genre, and you can see which cascade step supplied each one.
 
 ## Stage 2 — Sheets writer
 
@@ -204,52 +296,54 @@ missing-UPC dependency, so it is not a usable fallback in that case).
 
 ## Stage 3 — Overrides
 
-1. Create an `_overrides` tab: `spotify_album_id | genre | sub_genre | keeper | note`. The
-   `keeper` column is the only way to demote a keeper back to non-keeper (see Stage 0 —
-   `keeper` is otherwise monotonic).
+1. Create an `_overrides` tab: `spotify_album_id | genre | sub_genre | note`. There is no
+   keeper-demotion column — removing an album from `_selected` in Spotify is now the
+   demotion, handled entirely by Stage 0.
 2. Read it as the FIRST step of the pipeline. Snapshot to `data/overrides.json`.
-3. Apply at highest precedence, above Discogs and MusicBrainz.
+3. Apply at highest precedence, above the entire Stage 1 cascade.
 
 This tab is the only hand-editable surface in the system. It is editable from the
 Sheets mobile app, which is the intended correction workflow.
 
 **Done when:** a correction typed on your phone survives the next run.
 
-## Stage 4 — Static site
+## Stage 4 — React frontend
 
-1. `src/site.py` emits `site/data/albums.json` — denormalized, minimal fields only.
-2. `site/index.html`: single file. `fetch()` the JSON, filter client-side by year /
-   genre / artist. No build step, no framework, no bundler.
-3. Deploy `/site` to Netlify (already used for `house_planner/`; GitHub Pages needs a
-   paid plan on this private repo). Because the repo is private, `data/albums.json` is
-   not fetchable straight off GitHub — `site/data/albums.json` must ship as part of the
-   Netlify deploy, not be fetched cross-origin from the repo. Once automated, that's a
-   Netlify CLI/build-hook step in the Action, not drag-and-drop.
+Deliberately **not** the single-file/no-build-step design from the original plan — you
+asked for a proper React frontend, and this stage builds one.
+
+1. `src/calbum/site.py` emits `web/public/data/albums.json` — denormalized, minimal
+   fields only.
+2. `web/`: Vite + React + TS. Fetches `data/albums.json` same-origin (no cross-origin
+   fetch off GitHub — the repo is private and the JSON must ship as part of the deploy,
+   not be pulled from raw.githubusercontent). Filter/browse client-side by year, genre,
+   artist.
+3. `docker/Dockerfile.web` for local dev consistency. Production deploy target is Netlify
+   (already used for `house_planner/`; GitHub Pages needs a paid plan on this private
+   repo) — the build step is `vite build`, output is static files, so the deploy path
+   itself doesn't depend on Docker.
 
 **Done when:** there is a public URL you'd actually send to someone.
 
-## Stage 5 — Playlist reconciler
+## Stage 5 — Optional, whenever (RYM ratings import)
 
-1. Compute desired `YYYY` playlist membership from `albums.json`, scoped to records where
-   `keeper == true`, grouped by `release_year`. Diff against actual playlists.
-2. **Authority is scoped, not general sync.** This stage may only *relocate* an
-   already-known keeper into its correct `release_year` playlist. It must never add an
-   album that isn't a keeper, and must never remove an album that is one — `keeper` is the
-   upstream source of truth (Stage 0), not something this stage gets to revise.
-3. **Ship dry-run first.** Log the intended diff, write nothing, and eyeball it for
-   about a week. This is the only stage that writes to Spotify and a bug here
-   silently mangles playlists that are not easily recoverable.
-4. Then enable add/remove, still within the scoped authority above.
+(Renumbered from the original Stage 6 — the playlist-reconciler stage that used to sit here
+is deleted; see cut list. Also downgraded from a required "Backfill" stage — see below.)
 
-## Stage 6 — Backfill
+**There is no playlist backfill.** `_selected` starts empty; there are no legacy
+`{year} Best Of` playlists or old Sheet tabs predating it, and additions happen
+~5-10 albums at a time through normal Stage 0 polling from day one. The
+resolve-via-search-and-reconcile machinery this stage used to describe (limit-10
+search, strict artist+title+year matching, `data/unmatched.json`) has no input to
+run against and is not being built.
 
-1. Import existing Sheet tabs. Resolve each to Spotify via search (limit 10 — match
-   on artist + title + release year, and be strict).
-2. Anything unmatched goes to `data/unmatched.json` to be worked through by hand.
-3. Optional: import the RYM ratings export for release dates and RYM IDs. Note that
-   the RYM export does NOT contain genre data.
+The only thing that could still live here: **optionally importing the RYM
+ratings export**, if you ever want historical ratings/release-date data
+alongside the catalog. Note the RYM export does NOT contain genre data, so it
+would never substitute for Stage 1. This is speculative and not scoped — pick it
+up only if it becomes a real want, not as planned work.
 
-## Stage 7 — Optional, whenever
+## Stage 6 — Optional, whenever
 
 Browser extension (RYM chart annotation showing what's already in the catalog,
 one-click capture, chart CSV export for RYM-grade genre seeding). PWA. Neither is
@@ -261,10 +355,33 @@ load-bearing; capture stays mobile-native through Spotify regardless.
 
 Ratings. Ranking. Listen history. Multi-user. Any auth beyond a bearer token.
 Real-time anything. A general non-Spotify ingestion path. MusicBrainz as a primary
-source. Server-side RateYourMusic scraping (gets IPs banned; do not).
+source. Server-side RateYourMusic scraping (gets IPs banned; do not). **Any
+candidate/inbox/queue surface** — tried three ways during design (`/me/albums`,
+`_inbox` playlist, heart-as-queue) and reversed every time; no deliverable needs to know
+what was considered and rejected. **A Spotify playlist reconciler** — there is no per-year
+Spotify playlist to keep in sync anymore, since `_selected` is flat and `release_year` is
+a pure data field used only for grouping in read surfaces.
 
 ## Stopping point
 
 Stages 0-2 solve the original problem completely: after them you maintain exactly
 one place (Spotify) and the Sheet regenerates itself. Everything from Stage 3
 onward is improvement, not rescue. If momentum dies, dying after Stage 2 is a win.
+
+## Technical debt (not scheduled)
+
+Recorded, not applied — surfaced during code review, deliberately deferred.
+
+- **`poll.py` should be more class-based.** It's currently a flat module of
+  ~15 functions threading `client`, `existing`, `by_album`, etc. through
+  each other by parameter. Recommendation when this gets picked up: a single
+  `Poller` orchestrator class (`__init__(self, client: AlbumSource, data_dir:
+  Path)`), with the current module functions becoming its methods so shared
+  state (the client, the data dir, the loaded `existing` albums) lives on
+  `self` instead of being re-passed everywhere. `parse_release_date`,
+  `earliest_added_at`, `simplified_album`, `_below_threshold`, and
+  `check_mass_removal_guard` should stay free functions — they're pure,
+  don't touch `self`, and are exactly the pieces the test suite exercises in
+  isolation; forcing them onto the class would make them harder to test, not
+  easier. Net effect: fewer names in module scope, less parameter threading,
+  same test surface.
