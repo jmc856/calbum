@@ -24,7 +24,7 @@ permissions:
   contents: write
 
 jobs:
-  poll:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -49,7 +49,7 @@ jobs:
           GITHUB_ACTIONS: "true"
         run: uv run python -m calbum.poll
 
-      - name: Commit and push if changed
+      - name: Commit and push poll results if changed
         run: |
           git config user.name "calbum-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -60,4 +60,27 @@ jobs:
           fi
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git commit -m "sync: poll _selected [skip ci]"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # Separate step, separate commit — deliberately after the poll commit
+      # above has already landed. If Discogs is down or something outside
+      # enrich.py's own per-album degrade (decision 2) blows up, newly
+      # polled albums must still be committed; they must not wait on
+      # enrichment succeeding.
+      - name: Run enrichment
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: uv run python -m calbum.enrich
+
+      - name: Commit and push enrichment results if changed
+        run: |
+          git config user.name "calbum-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git commit -m "sync: enrich genres [skip ci]"
           git push origin "HEAD:${GITHUB_REF_NAME}"
