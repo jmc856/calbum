@@ -1,0 +1,861 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "656605144269",
+    "artist": "Phoebe Bridgers",
+    "title": "Stranger in the Alps",
+    "year": 2017
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 30537343,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/30537343-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/3A5fSYkJlYxGWB9YvsafaItM_8ixwC2Iq6nZiKVylgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTM3/MzQzLTE3MTQzOTI3/NTYtNDE1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hgd6chGoEQhI8HJbsDzsTkYtkcqV8HL9jfWyNSaJI38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTM3/MzQzLTE3MTQzOTI3/NTYtNDE1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30537343",
+      "community": {
+        "want": 18,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "16-Bit / 44.1-kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hostess Entertainment Unlimited",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 18761458,
+      "barcode": [
+        "4582214517537",
+        "ASCAP",
+        "BMI",
+        "DOC\u00b7\u00b7142 \u00b7 LP A 29019.1",
+        "DOC-142LP B re 1 Salt 29019.2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/18761458-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "HSE-6520",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/NrTS7cDfYGE7gin7BP94cv3VVzvq00OqJaUXlC_h9j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYx/NDU4LTE2MjEyMzA4/ODYtODAzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gyDaSgtpPpEM7CzWVhXIkqNPx6dbCLvxj73HdQVRPxY/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYx/NDU4LTE2MjEyMzA4/ODYtODAzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18761458",
+      "community": {
+        "want": 152,
+        "have": 52
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "id": 10876745,
+      "barcode": [
+        "6 5660-51442-4 5",
+        "6 5660514421 4",
+        "LC 29265",
+        "DOC-142-LP A",
+        "DOC-142 LP B Salt",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/10876745-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/h54Y8Ov5P3O7cBKxhOa0XejZ9aed2gLrPm5m0t0vV2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc2/NzQ1LTE1MDY3NzE1/ODYtOTI4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vKsOkxOwdE4Ul6zodEB9_kU67v5lXn1mYLmqC6TG-zo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc2/NzQ1LTE1MDY3NzE1/ODYtOTI4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10876745",
+      "community": {
+        "want": 3358,
+        "have": 1137
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lavender",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP",
+        "Words & Music",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 16328250,
+      "barcode": [
+        "6 5660514421 4",
+        "656605144214",
+        "DOC-142-LP A 29019.1",
+        "DOC-142LP B re 1 Salt 29019.2",
+        "LC 29265",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/16328250-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/j29cFYcFM0Moq0Ka45r7Te5KprGz5KzCBm1o_H0VAgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI4/MjUwLTE2MDcwOTQ0/NzAtODk4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LxZ5ITuSFJPKR8Tynhbxa6J6odmd-DZh1cEOjFor60c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI4/MjUwLTE2MDcwOTQ0/NzAtODk4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16328250",
+      "community": {
+        "want": 2017,
+        "have": 9970
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 10913059,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/10913059-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/QWiY7rcRK2A2Qo1FUuoof8twBB19REp3jCIjQ4NlbJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/MDU5LTE1MDY0MjQz/NjEtMjMyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Id3phtH1_sMXEwuusV9C-Wg9ejb4hXnBYvmKhVLCpsM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/MDU5LTE1MDY0MjQz/NjEtMjMyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10913059",
+      "community": {
+        "want": 126,
+        "have": 43
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 10901377,
+      "barcode": [
+        "6 5660514421 4",
+        "656605144214",
+        "LC 29265",
+        "DOC\u00b7\u00b7142 \u00b7 LP A 29019.1",
+        "DOC-142LP B re 1 Salt 29019.2",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/10901377-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/KGzh--1qtA6thaqT0oeXa35VakSYHciV_r80fYd5I0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/Mzc3LTE3MzA0MDYx/OTEtOTUzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EvKJS4nAKlVmyAHAv0HjDyF-Aqh68JHmUzuBR8dnFh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/Mzc3LTE3MzA0MDYx/OTEtOTUzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10901377",
+      "community": {
+        "want": 5369,
+        "have": 30962
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 11122698,
+      "barcode": [
+        " 6 56605 14427 6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/11122698-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/WHzInsCcAO2q3OsCIqYkMX87Zyuyu78eviN6dZw4jIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/Njk4LTE1MjY1ODI3/NTItNjE1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DYyrdMsyfq7cXi9QtUOB8gYToMFpFLm08UiopkpNboQ/rs:fit/g:sm/q:90/h:300/w:206/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/Njk4LTE1MjY1ODI3/NTItNjE1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11122698",
+      "community": {
+        "want": 659,
+        "have": 92
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Yellow",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 11052758,
+      "barcode": [
+        "656605144221",
+        "6 56605 14422 1",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC142CD 6745-CD-1820 17-324-11-2",
+        "IFPI LY89",
+        "IFPI L821",
+        "DOC142CD 6745-CD-1667 17-212-16",
+        "[nothing entered]",
+        "[nothing entered]",
+        "DOC142CD 6745-CD-1820 20-065-19-2",
+        "[nothing entered]",
+        "[nothing entered]",
+        "DOC142CD 6745-CD-1820 21-316-07-2",
+        "IFPI LY89",
+        "IFPI L813",
+        "DOC142CD 6745-CD-1820 21-316-07-2",
+        "IFPI LY89",
+        "IFPI L824",
+        "DOC142CD 6745-CD-1820 23-107-16-2",
+        "IFPI  LY89",
+        "IFPI L813"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/11052758-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/64LWCkKr8-fLF8WiolT-9eGGSzD09DDOOLnGLa72uaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUy/NzU4LTE2NDYwNjg2/NDAtMjg2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iX6SL-eci8JXHXDAAxu5E8h1zQ_n1HgSe89RseTjqu0/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUy/NzU4LTE2NDYwNjg2/NDAtMjg2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11052758",
+      "community": {
+        "want": 778,
+        "have": 3343
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Mispress"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 14850454,
+      "barcode": [
+        "656605144221",
+        "6 56605 14422 1",
+        "DOC142CD 6745-CD-1820 17-324-11-2",
+        "IFPI LY89",
+        "IFPI L821",
+        "LC 29265",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/14850454-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/IHQbDckSWTSStsyE9RfW4qoVFmDltKPc4vQgeg1-LC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUw/NDU0LTE1ODQxMDcw/NzgtODMxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/q0v9i_FRf-G5giOm8u4CEXINd8wdhrVSA9pYw14LQW0/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUw/NDU0LTE1ODQxMDcw/NzgtODMxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14850454",
+      "community": {
+        "want": 190,
+        "have": 455
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Mispress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 29674687,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/29674687-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/gn6bNhMfh_sZHmOcMjHbxsJb_uWpcQRuwSTkbq_dyYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc0/Njg3LTE3MDY4OTA3/NzYtNDA2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FSk6IE4sc-9ubx8hbq48tOxuDj6hiat7cPRNfVjZ98U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc0/Njg3LTE3MDY4OTA3/NzYtNDA2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29674687",
+      "community": {
+        "want": 18,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Zeitgeist Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Salt Mastering",
+        "Whatever Mom Music",
+        "Pizza Money Music",
+        "Harrison Whitford Music",
+        "Big Deal Beats",
+        "Moose And Squirrel Music",
+        "Words & Music",
+        "Big Deal Music, LLC",
+        "Album Leaf Music",
+        "Songs Of SMP"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 37859523,
+      "barcode": [
+        "6 5660514421 4",
+        "LC 29265",
+        "DOC-142-LP A",
+        "DOC-142 LP B Salt",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/37859523-Phoebe-Bridgers-Stranger-In-The-Alps",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Stranger In The Alps",
+      "thumb": "https://i.discogs.com/PwlKBj8ZsHKoQTt3ruJQEhintfjN7u7olk9PaKfbiCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU5/NTIzLTE3ODQwODM3/NzgtOTIyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BSawi_jR03POMTbZldir0zFj0aLsHdMogVYrP70h0EM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU5/NTIzLTE3ODQwODM3/NzgtOTIyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37859523",
+      "community": {
+        "want": 0,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 11859152,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/11859152-Phoebe-Bridgers-Strangers-In-The-Alps-",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Strangers In The Alps ",
+      "thumb": "https://i.discogs.com/k54ccvyiqSR8GalI-OKb35tut_jvznoKu56WW5IATjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/MTUyLTE1MjM2MTg1/MTEtMTQ3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pZzT9s-r0zyNbmE8Vc9SzSfecOcEGmxwM1xBUb20MsE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU5/MTUyLTE1MjM2MTg1/MTEtMTQ3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11859152",
+      "community": {
+        "want": 186,
+        "have": 116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Watermarked",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 20798833,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1242340,
+      "master_url": "https://api.discogs.com/masters/1242340",
+      "uri": "/release/20798833-Phoebe-Bridgers-Strangers-In-The-Alps-",
+      "catno": "DOC142",
+      "title": "Phoebe Bridgers - Strangers In The Alps ",
+      "thumb": "https://i.discogs.com/5t7glFUGG3J946oE5v5PnA0SgKYAUlb2Z1NOw7cNuu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk4/ODMzLTE2MzU2OTQ5/NDAtMzUzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f4bczhjLXiiDc_oz5gRw5v7yjvniWlEkAHAl2NmYJBo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk4/ODMzLTE2MzU2OTQ5/NDAtMzUzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20798833",
+      "community": {
+        "want": 96,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Watermarked",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1242340,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -5,8 +5,29 @@
     "artists": [
       "Phoebe Bridgers"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1242340,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0qWcLfCZ8wtcoOdX14oGNI",
     "release_date": "2017-09-22",
     "release_year": 2017,
@@ -21,8 +42,29 @@
     "artists": [
       "Phoebe Bridgers"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1757517,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6Pp6qGEywDdofgFC1oFbSH",
     "release_date": "2020-06-18",
     "release_year": 2020,

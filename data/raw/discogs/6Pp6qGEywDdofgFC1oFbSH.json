@@ -1,0 +1,1039 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "656605150062",
+    "artist": "Phoebe Bridgers",
+    "title": "Punisher",
+    "year": 2020
+  },
+  "results": [
+    {
+      "country": "Japan",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 18761569,
+      "barcode": [
+        "4526180523093",
+        "6 56605 15001 7",
+        "656605150048",
+        "LC 29265",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/18761569-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200JCD",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/-6E1fU2_KHA_xH8FMYR-TcMpwOx4wdD7CKMIdnMVJoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYx/NTY5LTE2MjEyMzI1/NDEtNzcwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m_W8LVBYzscf-epJFPCdF0oKG8BR9oUI-VwdZDfmXz0/rs:fit/g:sm/q:90/h:522/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYx/NTY5LTE2MjEyMzI1/NDEtNzcwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18761569",
+      "community": {
+        "want": 185,
+        "have": 79
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Open Sea Design Co.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Independent Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15483049,
+      "barcode": [
+        "656605150017",
+        "656605150048",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP-A cut 3-11-20 \u2661 CM \u2661",
+        "DOC200LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15483049-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/DFK9Yr6vMwgysQccFMjxbICEQ6Y6MJZcvEH91TVGZpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgz/MDQ5LTE3MjA1NTA5/NjQtMTQwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hrfEdClgImS5DK_UPqakwjl9b0o4Qg_oM9kGoyUGl90/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgz/MDQ5LTE3MjA1NTA5/NjQtMTQwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15483049",
+      "community": {
+        "want": 3705,
+        "have": 3983
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue With Kind Of Swirly Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Special Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Independent Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 29191429,
+      "barcode": [
+        "656605150017",
+        "6 56605 15001 7",
+        "656605150048",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP-A cut 3-11-20 \u2661 cm \u2661",
+        "DOC200LP-B cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/29191429-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/tsIrN3yISXDGXjJZZuOQgBjC8nZbbw9uA8-rjmtYAT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/NDI5LTE3MDI0NzYz/MjYtNzg0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rvlai9vTvG-yzVekoVD2XtiwAqy6FR8ZutekK26EPos/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTkx/NDI5LTE3MDI0NzYz/MjYtNzg0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29191429",
+      "community": {
+        "want": 352,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Seaglass Wave Vinyl with signed Artprint",
+          "descriptions": [
+            "LP",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Open Sea Design Co.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion"
+      ],
+      "type": "release",
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15494609,
+      "barcode": [
+        "656605150017",
+        "656605150093",
+        "LC29265",
+        "DOC200-LP A cut 3-11-20 \u2661 CM \u2661",
+        "DOC200-LP B CM",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15494609-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/4nblagZaoTYBVKsDmwn4FYOQkGSLd-4ZwIYhyUjVNck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/NjA5LTE1OTMwMjg2/MDItNDk0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jPwuzQwHnnjz5wTwq46E64JdfTU94pTG1RotGoPfj2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/NjA5LTE1OTMwMjg2/MDItNDk0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15494609",
+      "community": {
+        "want": 2542,
+        "have": 1783
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue And Green And Swirly [Peacock Splash]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 19925227,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/19925227-Phoebe-Bridgers-Punisher",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/vGD4jTsad55pGwYMdi4iPXz_wGeWwVqBlB2-wDENOc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MjI3LTE2Mjk0Mzk4/NjAtMTc3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5_HAZtDOf_nFKRYCXP1diy-zRBRyBwgGjKYqv_UMeVg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MjI3LTE2Mjk0Mzk4/NjAtMTc3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19925227",
+      "community": {
+        "want": 782,
+        "have": 1195
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-Bit / 96.0 kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Open Sea Design Co.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Magnolia Record Club"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15618905,
+      "barcode": [
+        "656605150017",
+        "656605150048",
+        "656605358291",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP-A cut 3-11-20",
+        "DOC200LP-B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15618905-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/IHpA5kszprNraG8wDYo8kL6jvBTs7FtGbIk6fgtKpRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE4/OTA1LTE1OTQ2NTQ2/NTktNDgzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ck9wb5eGDnTGZb6IKhrWyKMukxzL7vIIZgF8_GDC8u8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE4/OTA1LTE1OTQ2NTQ2/NTktNDgzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15618905",
+      "community": {
+        "want": 1669,
+        "have": 1359
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Opaque",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Independent Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15492389,
+      "barcode": [
+        "656605150017",
+        "6 56605 15001 7",
+        "656605150048",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP-A cut 3-11-20 \u2661 cm \u2661",
+        "DOC200LP-B cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15492389-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/pj_mf10a45K9znpY3sBFuVJirQlniKy7Gtilc-8Qdz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/Mzg5LTE2MDY5Njgy/MTItMzAwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZXp-c5c3m3tLYdpXgJYJajxCJSPtYhqrX0h4gngwIOg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/Mzg5LTE2MDY5Njgy/MTItMzAwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15492389",
+      "community": {
+        "want": 4960,
+        "have": 43325
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15491991,
+      "barcode": [
+        "6 56605 15001 7",
+        "656605150017",
+        "6 5660 - 51500 - 3 1",
+        "DOC200lp-C1",
+        "DOC200 LP-A cut 3-11-20 \u2661CM\u2661",
+        "DOC200 LP-B CM",
+        "LC 29265"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15491991-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/lb5bl-mP7vcLj860pnwlLfTQckknK_jC5iKD6K3TNGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDkx/OTkxLTE2MTYzNjI1/NjctMTU3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MjHvF-hbs-MyLeDf6ONL4ybkf9Sz42SfU61yLvftxAI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDkx/OTkxLTE2MTYzNjI1/NjctMTU3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15491991",
+      "community": {
+        "want": 4170,
+        "have": 7028
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red And Swirly [Merlot Wave]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Open Sea Design Co.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 16201403,
+      "barcode": [
+        "656605150017",
+        "656605371993",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP 212775E1/A",
+        "DOC200LP 212775E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/16201403-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200LP-C8",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/8o5n5mJDp0hHzMg1tkNGGtQYyVhUBjWz0kqeZHsGy7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAx/NDAzLTE2MzQ5MTA1/MjUtNzQzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IvUajpfvQxR9dlKbHKOMjbC9aFHSRcHQc_J5c0ckygk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAx/NDAzLTE2MzQ5MTA1/MjUtNzQzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16201403",
+      "community": {
+        "want": 2142,
+        "have": 419
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green/Black Galaxy",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Open Sea Design Co.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Vinyl Me, Please"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15620323,
+      "barcode": [
+        "656605150017",
+        "656605258284",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200LP-A cut 3-11-20 \u2661 CM \u2661",
+        "DOC200LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15620323-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/8qlSk1iVc5l7px-fqUBeSEzCigr46alw_0vCkD4BLsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIw/MzIzLTE1OTQ2NzI0/ODEtMTA1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DXAWhatDHWKi0TiR7UoeH-pCg_VZxfYfHk_BbPiwJbg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIw/MzIzLTE1OTQ2NzI0/ODEtMTA1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15620323",
+      "community": {
+        "want": 2141,
+        "have": 418
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink And Blue And Swirly",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "AIFF",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 18542704,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/18542704-Phoebe-Bridgers-Punisher",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/6zR3J82AxtZjAxN9FghMBLjC3Bi-BRwMKgoI_n0sguk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQy/NzA0LTE2MTk4NzA5/MzMtNDg0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/B4FIsdHAfCZQvGgGiQDNqVZ4atgDvg-sXzgwkvlAJhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQy/NzA0LTE2MTk4NzA5/MzMtNDg0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18542704",
+      "community": {
+        "want": 82,
+        "have": 36
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "descriptions": [
+            "AIFF",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Sound City Studios",
+        "ARC Studios, Omaha, NE",
+        "Gateway Mastering",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Whatever Mom Music",
+        "Corn Fox Publishing",
+        "Goldmeyn Music",
+        "Bedrooms; Bedrooms And Spiders",
+        "Pizza Money Music",
+        "Sliondelion",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 15497734,
+      "barcode": [
+        "656605150024",
+        "6 56605 15002 4",
+        "LC 29265",
+        "ASCAP",
+        "BMI",
+        "DOC200CD 6745-CD-3872 20-105-09",
+        "IFPI LK13",
+        "IFPI L820",
+        "DOC200CD 6745-CD-3872 20-105-09",
+        "IFPI LK13",
+        "IFPI L817",
+        "DOC200CD 6745-CD-3872 20-105-09",
+        "IFPI LK13",
+        "IFPI L821",
+        "DOC200CD 6745-CD-3872 20-105-09",
+        "IFPI LK13",
+        "IFPI L814"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15497734-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/B5KO_UDH54JuhruL9Bf0zoqvIazPHkzBl4J28E7_RCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/NzM0LTE1OTc3NjU0/NTUtMjk4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xQB0RTnloPsQqrl4jhi7wo_XVG5S8ckA4GQXIwawk_8/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/NzM0LTE1OTc3NjU0/NTUtMjk4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15497734",
+      "community": {
+        "want": 1042,
+        "have": 4479
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk",
+        "Country"
+      ],
+      "id": 15500738,
+      "barcode": [
+        "6 5660 - 51500 - 0 0",
+        "6 56605 36025 6",
+        "DOC200 LP-A cut 3-11-20 \u2661CM\u2661",
+        "DOC200 LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/15500738-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200lp-C4",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/A7SOEzAQySxeWaZLQwze1VH9CPwazp_YyzXnWdqBwSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAw/NzM4LTE1OTMzNjMw/MzItMzA0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UADsU2AFoN67ttGSq6I1IYgEYRkAzFw1VnGjmk0ZOR4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAw/NzM4LTE1OTMzNjMw/MzItMzA0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15500738",
+      "community": {
+        "want": 2235,
+        "have": 978
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Seaglass Wave",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Independent Record Pressing",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 25962274,
+      "barcode": [
+        "DOC200LP-A cut 3-11-20 1 \u2661 cm \u2661 37836.1",
+        "DOC200LP-B 1 cm 37836.2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/25962274-Phoebe-Bridgers-Punisher",
+      "catno": "DOC200",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/aMkzArrntz0XhppkB88VPVm_9H99UMR7NGR5t-A5aRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTYy/Mjc0LTE3MjkwMzE1/NTYtMjkzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0g6ODvWLSeyGIL8tEE9TQgSfiyZ1mNbWt0WThFvIOxA/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTYy/Mjc0LTE3MjkwMzE1/NTYtMjkzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25962274",
+      "community": {
+        "want": 226,
+        "have": 13
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 30537664,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1757517,
+      "master_url": "https://api.discogs.com/masters/1757517",
+      "uri": "/release/30537664-Phoebe-Bridgers-Punisher",
+      "catno": "none",
+      "title": "Phoebe Bridgers - Punisher",
+      "thumb": "https://i.discogs.com/tKRm4wPo_z4oX_S4RA0jBsPsMPFVPbbleGW8ZPtuUKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTM3/NjY0LTE3MTQzOTQ1/NzgtOTY1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YhsAaMka3w57oFdV86UqI8d8YKdieqgX1WbDehSUSXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTM3/NjY0LTE3MTQzOTQ1/NzgtOTY1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30537664",
+      "community": {
+        "want": 19,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-bit / 96 kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1757517,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

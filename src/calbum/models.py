@@ -63,7 +63,7 @@ class Album(BaseModel):
     added_at: datetime
     removed_at: datetime | None = None
     genres: list[Genre] = []
-    discogs_release_id: str | None = None
+    discogs_release_id: int | None = None
     """Resolved Discogs release/master ID, when a genre came from the Discogs
     cascade (constraint 6). Records which pressing/master was chosen so a
     re-run's choice is auditable, per PLAN.md Stage 1 step 2."""
