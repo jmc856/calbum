@@ -46,7 +46,9 @@ generated and can be deleted and rebuilt.
   keeps the catalog and `GOOGLE_SA_JSON` out of public view for free. Cost tradeoff:
   private gets 2,000 Actions minutes/month (Free plan, shared across the whole
   account, billed rounded-up-per-job) vs. unlimited on public; cron cadence is set
-  to every 2 hours (not hourly) to keep comfortable headroom — see Stage 0. Private
+  to every 4 hours (not hourly) to keep comfortable headroom — see Stage 0.
+  `workflow_dispatch` is also enabled, so a run can be triggered on demand instead
+  of waiting for the next scheduled tick. Private
   also means GitHub Pages needs a paid plan, so Stage 4 targets Netlify instead
   (already used for `house_planner/`, see root `CLAUDE.md`).
 - **Genre cascade, not single-source.** The requirement is a primary genre plus at least
@@ -225,16 +227,18 @@ Do not start a stage before the previous one's "done when" is true.
      record. This now means "you changed your mind about a favorite" — more consequential
      than the old inbox-rejection case, which no longer exists.
 6. Implement the deterministic writer (`src/calbum/writer.py`).
-7. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */2 * * *` — every 2 hours,
+7. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */4 * * *` — every 4 hours,
    not hourly, to keep comfortable headroom against the private repo's 2,000
    Actions-minutes/month budget) and `workflow_dispatch` **only** (never a PR-shaped
    trigger — good hygiene for any repo holding `GOOGLE_SA_JSON` in secrets, private or
-   not). Commit only when the diff is non-empty. Note: GitHub disables scheduled
-   workflows after 60 days with no repo activity; the pipeline's own commits count as
-   activity, so this only bites during an unusually quiet stretch.
+   not; `workflow_dispatch` also means a run can be triggered on demand rather than
+   waiting for the next scheduled tick). Commit only when the diff is non-empty. Note:
+   GitHub disables scheduled workflows after 60 days with no repo activity; the
+   pipeline's own commits count as activity, so this only bites during an unusually
+   quiet stretch.
 
 **Known limitation, accepted:** adding an album to `_selected` and removing it again within
-a single ~2h poll window means it's never recorded. This is a documented property, not a
+a single ~4h poll window means it's never recorded. This is a documented property, not a
 bug — the interval is set for Actions-minutes headroom, not to catch every transient edit.
 
 **Done when:** adding a whole album to `_selected` on your phone produces a commit within
