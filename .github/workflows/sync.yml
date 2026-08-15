@@ -4,11 +4,24 @@ name: sync
 # for any repo holding GOOGLE_SA_JSON in secrets, private or not (see PLAN.md
 # "Key decisions"). Every 4 hours, not hourly, to keep headroom against the
 # private repo's 2,000 Actions-minutes/month budget. workflow_dispatch lets
-# you trigger a run on demand instead of waiting for the next scheduled tick.
+# you trigger a run on demand instead of waiting for the next scheduled tick,
+# with a dropdown to pick which step(s) to run — a scheduled run always runs
+# everything regardless of this input (it's only read for workflow_dispatch).
 on:
   schedule:
     - cron: "0 */4 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "What to run"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - poll
+          - enrich
+          - sheets
 
 # Single-writer discipline (constraint 5): only this workflow ever writes to
 # the repo. `git pull --rebase` before push handles a slow race; this
@@ -43,6 +56,7 @@ jobs:
         run: uv sync --locked
 
       - name: Run poller
+        if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'poll'
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -69,6 +83,7 @@ jobs:
       # polled albums must still be committed; they must not wait on
       # enrichment succeeding.
       - name: Run enrichment
+        if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'enrich'
         env:
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
         run: uv run python -m calbum.enrich
@@ -85,3 +100,12 @@ jobs:
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git commit -m "sync: enrich genres [skip ci]"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # No commit step needed — calbum.sheets writes directly to Google
+      # Sheets (an external API), not to files in this repo.
+      - name: Run sheets writer
+        if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'sheets'
+        env:
+          GOOGLE_SA_JSON_B64: ${{ secrets.GOOGLE_SA_JSON_B64 }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+        run: uv run python -m calbum.sheets
