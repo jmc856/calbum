@@ -24,7 +24,11 @@ on:
           - sheets
 
 # Single-writer discipline (constraint 5): only this workflow ever writes to
-# the repo. `git pull --rebase` before push handles a slow race; this
+# the repo. Each commit step commits locally FIRST, then `git pull --rebase`,
+# then push — `git rebase` refuses to run at all with anything staged in the
+# index, regardless of whether a rebase is actually needed, so pulling before
+# committing fails the moment there's a real change to commit (confirmed
+# live: https://github.com/jmc856/calbum/actions/runs/31882137319). The
 # concurrency group handles the case of a manual dispatch overlapping the
 # cron — without it, that overlap is exactly the scenario constraint 5 rules
 # out. cancel-in-progress stays false: a poll run in flight should finish and
@@ -73,8 +77,8 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git pull --rebase origin "${GITHUB_REF_NAME}"
           git commit -m "sync: poll _selected [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
       # Separate step, separate commit — deliberately after the poll commit
@@ -97,8 +101,8 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git pull --rebase origin "${GITHUB_REF_NAME}"
           git commit -m "sync: enrich genres [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
       # No commit step needed — calbum.sheets writes directly to Google
