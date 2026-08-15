@@ -284,15 +284,45 @@ sub-genre, and you can see which cascade step supplied each one.
 
 ## Stage 2 — Sheets writer
 
-1. One tab per release year, plus a `by-genre` tab.
+1. A flat `Albums` tab (one row per active album, `Year` as a column — not a
+   tab-per-year split) plus a `by-genre` tab (one row per album x genre).
+   Genre/Sub-genre on `Albums` are joined-string context columns, not the
+   filter surface — Sheets' native filter/sort/pivot only works cleanly on
+   atomic values, so `by-genre`'s one-row-per-genre shape is where filtering
+   and grouping by an individual genre actually works. Confirmed live against
+   the user's actual old hand-maintained tab: it used exactly one Genre + one
+   Sub-genre column per album, not a list — but the user's stated priority is
+   filterability in both Sheets and the eventual React frontend (Stage 4),
+   not replicating that convention.
 2. Clear-then-write. Never incremental.
 3. Wrap the album cell in `HYPERLINK()` pointing at the Spotify album URL. This is
    what makes the shared sheet playable rather than merely readable — it is the
    whole point of the Sheet as a share surface.
 4. Freeze the header row. Set protected ranges on all generated tabs so they can't
-   be edited by accident.
+   be edited by accident. Protected ranges must include the writing service
+   account's own email in `editor_users_emails` (with
+   `requesting_user_can_edit=True`) — confirmed live that omitting this makes
+   Google's API reject the request outright ("You can't remove yourself as an
+   editor"), since an empty `editor_users_emails` is sent as an explicit
+   "no editors," not "auto-add the owner" as gspread's docstring implies.
+5. A real font and auto-resized columns on every generated tab (cosmetic,
+   confirmed feasible via `gspread`). Must be applied before step 4's
+   protection, not after, or the same class of permission failure recurs.
 
 **Done when:** you can delete every generated tab and the next run rebuilds them.
+
+**Future work (deferred, not built in the first pass):**
+- An `Artists` tab (unique artist name + count of active albums,
+  alphabetical). `Album.artists` is a list of Spotify display-name strings
+  with no stable ID, so near-duplicate spellings across albums won't merge —
+  accepted limitation.
+- A `by-style` tab mirroring `by-genre`'s one-row-per-album pattern, applied
+  to styles instead of genres, so sub-genre is independently
+  filterable/groupable too.
+- Mapping Discogs' vocabulary onto a personal/cleaner genre naming (e.g.
+  Discogs' own category "Folk, World, & Country" isn't necessarily how
+  anyone thinks about their music) — a data-layer concern for Stage 3's
+  `_overrides` below, not a sheet-rendering one.
 
 ## Stage 3 — Overrides
 

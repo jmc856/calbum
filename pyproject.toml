@@ -4,6 +4,7 @@ version = "0.0.0"
 description = "Album catalog pipeline: Spotify write surface -> canonical JSON -> generated read surfaces."
 requires-python = ">=3.13,<3.14"
 dependencies = [
+    "gspread>=6.1.4",
     "pydantic>=2.13.4",
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
