@@ -1,0 +1,360 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+  },
+  "href": "https://api.spotify.com/v1/albums/6wi40lIjhukePWyXRKY7qO",
+  "id": "6wi40lIjhukePWyXRKY7qO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273595101c281d7e229e1f0e6c4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02595101c281d7e229e1f0e6c4",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851595101c281d7e229e1f0e6c4",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "ARIZONA BABY",
+  "release_date": "2019-04-25",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:6wi40lIjhukePWyXRKY7qO",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+      },
+      "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+      "id": "07EcmJpfAday8xGkslfanE",
+      "name": "Kevin Abstract",
+      "type": "artist",
+      "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6wi40lIjhukePWyXRKY7qO/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 96460,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7p3XAxYOxflnVHHrotNizM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7p3XAxYOxflnVHHrotNizM",
+        "id": "7p3XAxYOxflnVHHrotNizM",
+        "name": "Big Wheels",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7p3XAxYOxflnVHHrotNizM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216070,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7t97jbSsGY54ULs52xAV5a",
+        "id": "7t97jbSsGY54ULs52xAV5a",
+        "name": "Joyride",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7t97jbSsGY54ULs52xAV5a",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 219466,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XukKy28kqKFl52GiCUSFo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XukKy28kqKFl52GiCUSFo",
+        "id": "3XukKy28kqKFl52GiCUSFo",
+        "name": "Georgia",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3XukKy28kqKFl52GiCUSFo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 172392,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7Hkwpt3GaRntiCrbCyJ4BN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Hkwpt3GaRntiCrbCyJ4BN",
+        "id": "7Hkwpt3GaRntiCrbCyJ4BN",
+        "name": "Corpus Christi",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7Hkwpt3GaRntiCrbCyJ4BN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211668,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5K7dEG6yDQ981HO7kFMVqm",
+        "id": "5K7dEG6yDQ981HO7kFMVqm",
+        "name": "Baby Boy",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5K7dEG6yDQ981HO7kFMVqm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217066,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VrQ3dAV7vefMJYb56q0M3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0VrQ3dAV7vefMJYb56q0M3",
+        "id": "0VrQ3dAV7vefMJYb56q0M3",
+        "name": "Mississippi",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0VrQ3dAV7vefMJYb56q0M3",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 132131,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7jruR1S3Fhz6odhVGLJ6iU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7jruR1S3Fhz6odhVGLJ6iU",
+        "id": "7jruR1S3Fhz6odhVGLJ6iU",
+        "name": "Use Me",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7jruR1S3Fhz6odhVGLJ6iU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176732,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JRMqkR82k2fdDEAim9SCN",
+        "id": "5JRMqkR82k2fdDEAim9SCN",
+        "name": "Peach",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5JRMqkR82k2fdDEAim9SCN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191302,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bMD1NK0f9hFxqOf5bMz6i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1bMD1NK0f9hFxqOf5bMz6i",
+        "id": "1bMD1NK0f9hFxqOf5bMz6i",
+        "name": "American Problem",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1bMD1NK0f9hFxqOf5bMz6i",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187917,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ls9lmPJ7xROR2VL5Kv1Gz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ls9lmPJ7xROR2VL5Kv1Gz",
+        "id": "3ls9lmPJ7xROR2VL5Kv1Gz",
+        "name": "Crumble",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3ls9lmPJ7xROR2VL5Kv1Gz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+            },
+            "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+            "id": "07EcmJpfAday8xGkslfanE",
+            "name": "Kevin Abstract",
+            "type": "artist",
+            "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 117073,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AOVDqNiX73IUQz4Wo7aj7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3AOVDqNiX73IUQz4Wo7aj7",
+        "id": "3AOVDqNiX73IUQz4Wo7aj7",
+        "name": "Boyer",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3AOVDqNiX73IUQz4Wo7aj7",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886447681329"
+  },
+  "genres": []
+}

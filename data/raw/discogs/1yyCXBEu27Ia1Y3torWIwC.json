@@ -1,0 +1,2085 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "638339446482",
+    "artist": "Kevin Abstract",
+    "title": "American Boyfriend: A Suburban Love Story",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 11163515,
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "master_id": 1283826,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Brockhampton Records",
+        "Empire"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 38339 44648 2",
+        "638339446482"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/11163515-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/9qukmMY7ZedFViIElYbmawNHY4S6zHe60nJFlz_ITtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/NTE1LTE1MTk3NzAy/NjUtODEwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ugOaKNQd1JoueGHH_sXWReiN57ADco0lUcAq1L872yY/rs:fit/g:sm/q:90/h:407/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/NTE1LTE1MTk3NzAy/NjUtODEwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11163515",
+      "community": {
+        "want": 368,
+        "have": 73
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23408945,
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "master_id": 1283826,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kevin Abstract)"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 38339 44648 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/23408945-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "44648",
+      "thumb": "https://i.discogs.com/39v9cY9aXp8fYPlwiTavsU319wQrHEFK0FWXGgodXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTQ1LTE2NTM5MjIy/NjItNDEwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GsNYao0cN89rDF_5zfgI8beWszqIEqjOxB7EChIlrhA/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTQ1LTE2NTM5MjIy/NjItNDEwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23408945",
+      "community": {
+        "want": 118,
+        "have": 60
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18680005,
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "master_id": 1283826,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kevin Abstract)"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 38339 44648 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/18680005-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "44648",
+      "thumb": "https://i.discogs.com/83FWLvcRjn3UCtp-X_Z5RngsnFHq9rFapCCtS650KuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bCsVyWn3Hhr9CVrS6KYA7mi3nefMPYB9YSDHeQ8SYiQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18680005",
+      "community": {
+        "want": 290,
+        "have": 260
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red [Opaque]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1283826,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Indie Pop",
+      "Conscious",
+      "Pop Rap"
+    ],
+    "main_release": 10449295,
+    "most_recent_release": 23408945,
+    "resource_url": "https://api.discogs.com/masters/1283826",
+    "uri": "https://www.discogs.com/master/1283826-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+    "versions_url": "https://api.discogs.com/masters/1283826/versions",
+    "main_release_url": "https://api.discogs.com/releases/10449295",
+    "most_recent_release_url": "https://api.discogs.com/releases/23408945",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Vvk4P1x8PoFz0ntd3kubPCqNvi4jS6UdEhj_l9RrQr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE0OTc2NjM3/NDAtNjgwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Vvk4P1x8PoFz0ntd3kubPCqNvi4jS6UdEhj_l9RrQr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE0OTc2NjM3/NDAtNjgwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/G1mnH97em4FEyoGOyVjUPC8Q7_rkujvXWjaQgXznVsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE0OTc2NjM3/NDAtNjgwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VHnbOA8zkBpUGFnkrHIxFCSXfY7QFtY7cNC9UnJ21Ag/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTAtMzI4Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/VHnbOA8zkBpUGFnkrHIxFCSXfY7QFtY7cNC9UnJ21Ag/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTAtMzI4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MSkUiPvewRL1PcPOxWP6L_8k3g6pU9JGBxHLlfw9sFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTAtMzI4Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O55I0KKiyV-BT0CrYwO387_qlgSjSO2TO_9uyIyhQCI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtMTkyNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/O55I0KKiyV-BT0CrYwO387_qlgSjSO2TO_9uyIyhQCI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtMTkyNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/oBk-qyuaeCA0IkyRGPwYaUfBRF3tvrYnqo2eDePGeeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtMTkyNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RfBBShRe_2dXPGyXY3b-Ic7se0TDNMNfXp9WQdn8JaU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtOTg2MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/RfBBShRe_2dXPGyXY3b-Ic7se0TDNMNfXp9WQdn8JaU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtOTg2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/c_4o03tCUDN7DR6tVch3h7Rp7Tjg-qGismlQXXpM5ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTQtOTg2MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SeBwBmvejU2ROlUOpqsc49xaD-fLGdOiKRWdi_60G04/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTYtNjM1Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SeBwBmvejU2ROlUOpqsc49xaD-fLGdOiKRWdi_60G04/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTYtNjM1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/b0hZEhz3MohssR6E9Wt97RER8C5H5Zq-y5r7oAIT2JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTYtNjM1Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AiJV9r-nXFT9wf-FjCiA966nYn31eC3QpsELQXvdl-I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTgtMjQzNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/AiJV9r-nXFT9wf-FjCiA966nYn31eC3QpsELQXvdl-I/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTgtMjQzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MfLRyj_cd98ZGfVa5QQmMyLG2PBfhnbHrim1lsuYd8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTgtMjQzNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xBdhWZTY2gPbgqmn7h7m2QboItO2gnT0brCFShvWV48/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTktODYxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/xBdhWZTY2gPbgqmn7h7m2QboItO2gnT0brCFShvWV48/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTktODYxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eNlED_McSiGcTfmEo2L35mdLfdKlGhNLJS9LsZR7lrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgw/OTktODYxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3XfEaTFXcyJaZT__ZDn_Ouejc969AO-Al6Bqd855vLI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDEtMzY5OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3XfEaTFXcyJaZT__ZDn_Ouejc969AO-Al6Bqd855vLI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDEtMzY5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/D2hmGXsr-ISyYHZiNgDLCnlMJz_TNDcjLV5RmRlgciY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDEtMzY5OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FbL73v4Uo4pawfz4mgywfPM6D370yEC01HZ-_0SVYcM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDItNDAxOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FbL73v4Uo4pawfz4mgywfPM6D370yEC01HZ-_0SVYcM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDItNDAxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TSZNQDV6R467szSf8-o5oyDn9gA0w4WgqSNu2MZC3xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDItNDAxOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fA2I80ixyuUr2DC8DxWII4ZddAJ2I0GGgpHXDoCCQoM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDQtNDcxNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fA2I80ixyuUr2DC8DxWII4ZddAJ2I0GGgpHXDoCCQoM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDQtNDcxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YoeSzO75i0EtkD9IWVp_14G0XVUfAMg6xb_WUqAlZoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDQtNDcxNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LAFYN0JBUMrsavX7q3yc8y_DvRoDCnshs7ZCL6SyOCs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDUtNzA3Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/LAFYN0JBUMrsavX7q3yc8y_DvRoDCnshs7ZCL6SyOCs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDUtNzA3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-2ItRxPN28kQL0rCdmC72M2i4Jwh46gA0P0McJfmtFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDUtNzA3Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/A-v67SxuO3yQsS-eubjHoCw7rx8A0Sz8TnjSD3vKN0k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDYtNDg5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/A-v67SxuO3yQsS-eubjHoCw7rx8A0Sz8TnjSD3vKN0k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDYtNDg5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9-dtX7fF5I9QiuhG05GFG_-yfnHjfM-mwDpyQ_CuQho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDYtNDg5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/g70f5VuZc_Nm6NC9sY3PvfBg-MjdaeouMwbMrNlhcDY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDctODA0Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/g70f5VuZc_Nm6NC9sY3PvfBg-MjdaeouMwbMrNlhcDY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDctODA0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FfVVjDH90OCtLYEH7JBxV_YNaqKvx4vggddA5Qmkhkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDctODA0Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vD_EzKUKqhhUOBHSkb_Y1Zwe0_gWuffQltoMLBaECio/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDktNjYzMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vD_EzKUKqhhUOBHSkb_Y1Zwe0_gWuffQltoMLBaECio/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDktNjYzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Upa2ZZSb2Efv9cZvuUTr45U_xn5_cJYq8UHog83NEcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MDktNjYzMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aCGU6DajA5-bqi4O5F3M7nQz2fYKASYyQTRhb33Hv38/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTEtODk4OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/aCGU6DajA5-bqi4O5F3M7nQz2fYKASYyQTRhb33Hv38/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTEtODk4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/TCBuZXc8SMsU-ExTsYuqNX1dvCx8G1ULLY2lHS-VdMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTEtODk4OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qK-twZtRj-Ck30uvyNGcTL65bHrzsA4itoRiwJELdfs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTItNzU2MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qK-twZtRj-Ck30uvyNGcTL65bHrzsA4itoRiwJELdfs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTItNzU2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/K3EKvODaP7qt3qhh2mHMSqjSmgJnnLi1kuSVK3i6JVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTItNzU2MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M8AYgJHTj_HCF3mxhXEXjONzeSArReR37wd9CJOs89k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTQtMjA3NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/M8AYgJHTj_HCF3mxhXEXjONzeSArReR37wd9CJOs89k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTQtMjA3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/m5rF_EGvRd2BOdBjn8e-SMGn8-XXq7iXBowz6ST48jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTQtMjA3NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/frn69D25QASmlSLz2ntaEdsmmBESdnCdIaWVEM-5WH0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTUtMzUzMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/frn69D25QASmlSLz2ntaEdsmmBESdnCdIaWVEM-5WH0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTUtMzUzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gW6WequrSJoO_ShiglSx7mZvIBsDfpOTiprKS8N-Bnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTUtMzUzMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eW_M1zzhl6JAmlHdCZd9HeBHyMpJUrqwI2TewhZvox0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTctNzExOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/eW_M1zzhl6JAmlHdCZd9HeBHyMpJUrqwI2TewhZvox0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTctNzExOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a8My4ntpKcbngyA0014TgCWaDYeNg6Pt0eN3ZsGFmKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTctNzExOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lBzBHzrxtMkp2QQKx6RXXOfKEDvSkKkppgGAQI0zzaI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTgtOTc4NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lBzBHzrxtMkp2QQKx6RXXOfKEDvSkKkppgGAQI0zzaI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTgtOTc4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/asrC59Etu8PIa7dOZEhOpYwrAEa0kNuy-Ln4nZEsaiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MTgtOTc4NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MO3b1UNz06H51QVJ2oq-CKJx_iop0n3-QT1rdsA_J80/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjAtMzk5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MO3b1UNz06H51QVJ2oq-CKJx_iop0n3-QT1rdsA_J80/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjAtMzk5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Kp-_eTTrtwvG8LmtPayVlLAUt7u4e9e-aZU6ZzSSonQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjAtMzk5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DdpRxJ-l9eSAuTGPPi2pi708TTNgdHobRcaraWofd6A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjEtODIyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/DdpRxJ-l9eSAuTGPPi2pi708TTNgdHobRcaraWofd6A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjEtODIyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QBQc95MxI_afJGrVX--zj22FK4Nk3-CvZKEbqVkoThQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjEtODIyMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MfMI3Au9JeSrypUh09Uk9uPBRqF7z_rAtOBa9zo31Us/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjMtNTkzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MfMI3Au9JeSrypUh09Uk9uPBRqF7z_rAtOBa9zo31Us/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjMtNTkzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/R1a0zXqCx0hJ8zDYqlxD7sCUV1-ztZ_PT_wxrZUJJ-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/Mjk1LTE1MTk0MTgx/MjMtNTkzOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 450
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Empty",
+        "extraartists": [
+          {
+            "name": "Nikki Leonti",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Choir]",
+            "tracks": "",
+            "id": 1558738,
+            "resource_url": "https://api.discogs.com/artists/1558738"
+          },
+          {
+            "name": "Jaslyn Taylee",
+            "anv": "",
+            "join": "",
+            "role": "Choir [Childrens Choir]",
+            "tracks": "",
+            "id": 6324800,
+            "resource_url": "https://api.discogs.com/artists/6324800"
+          },
+          {
+            "name": "Jordan Cole (3)",
+            "anv": "",
+            "join": "",
+            "role": "Choir [Childrens Choir]",
+            "tracks": "",
+            "id": 6324792,
+            "resource_url": "https://api.discogs.com/artists/6324792"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          }
+        ],
+        "duration": "3:14"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Seventeen",
+        "extraartists": [
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Ivana Nwokike",
+            "anv": "Ivana",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 2923549,
+            "resource_url": "https://api.discogs.com/artists/2923549"
+          },
+          {
+            "name": "Sunday Osunwa",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 6324804,
+            "resource_url": "https://api.discogs.com/artists/6324804"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          }
+        ],
+        "duration": "2:45"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Blink",
+        "extraartists": [
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "2:55"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Friendship",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "0:23"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Tattoo",
+        "extraartists": [
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Choir]",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Om'Mas Keith",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Choir]",
+            "tracks": "",
+            "id": 245423,
+            "resource_url": "https://api.discogs.com/artists/245423"
+          },
+          {
+            "name": "Carmen Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Choir",
+            "tracks": "",
+            "id": 6324795,
+            "resource_url": "https://api.discogs.com/artists/6324795"
+          },
+          {
+            "name": "Jordan Jackson (3)",
+            "anv": "",
+            "join": "",
+            "role": "Choir",
+            "tracks": "",
+            "id": 6324801,
+            "resource_url": "https://api.discogs.com/artists/6324801"
+          },
+          {
+            "name": "VanJess",
+            "anv": "",
+            "join": "",
+            "role": "Choir",
+            "tracks": "",
+            "id": 2923540,
+            "resource_url": "https://api.discogs.com/artists/2923540"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "Romil",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Captain Noah",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 6324799,
+            "resource_url": "https://api.discogs.com/artists/6324799"
+          },
+          {
+            "name": "Michael Rosen (23)",
+            "anv": "",
+            "join": "",
+            "role": "Harmonica",
+            "tracks": "",
+            "id": 6324794,
+            "resource_url": "https://api.discogs.com/artists/6324794"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Om'Mas Keith",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 245423,
+            "resource_url": "https://api.discogs.com/artists/245423"
+          },
+          {
+            "name": "Teo Halm",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Assistant]",
+            "tracks": "",
+            "id": 6324802,
+            "resource_url": "https://api.discogs.com/artists/6324802"
+          },
+          {
+            "name": "Sunday Osunwa",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 6324804,
+            "resource_url": "https://api.discogs.com/artists/6324804"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:27"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Yellow",
+        "extraartists": [
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Brandon Kelly",
+            "anv": "Brandon Thoreau Kelly",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 6248988,
+            "resource_url": "https://api.discogs.com/artists/6248988"
+          },
+          {
+            "name": "Jordan Jones (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 6324791,
+            "resource_url": "https://api.discogs.com/artists/6324791"
+          },
+          {
+            "name": "Om'Mas Keith",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 245423,
+            "resource_url": "https://api.discogs.com/artists/245423"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Captain Noah",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 6324799,
+            "resource_url": "https://api.discogs.com/artists/6324799"
+          },
+          {
+            "name": "Jeff Gitty",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 4454784,
+            "resource_url": "https://api.discogs.com/artists/4454784"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Om'Mas Keith",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 245423,
+            "resource_url": "https://api.discogs.com/artists/245423"
+          },
+          {
+            "name": "Teo Halm",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Assistant]",
+            "tracks": "",
+            "id": 6324802,
+            "resource_url": "https://api.discogs.com/artists/6324802"
+          },
+          {
+            "name": "Om'Mas Keith",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocal]",
+            "tracks": "",
+            "id": 245423,
+            "resource_url": "https://api.discogs.com/artists/245423"
+          },
+          {
+            "name": "Daedelus",
+            "anv": "",
+            "join": "",
+            "role": "Synth [Additional]",
+            "tracks": "",
+            "id": 8581,
+            "resource_url": "https://api.discogs.com/artists/8581"
+          },
+          {
+            "name": "Ivana Nwokike",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 2923549,
+            "resource_url": "https://api.discogs.com/artists/2923549"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Sunday Osunwa",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 6324804,
+            "resource_url": "https://api.discogs.com/artists/6324804"
+          },
+          {
+            "name": "Teo Halm",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 6324802,
+            "resource_url": "https://api.discogs.com/artists/6324802"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          }
+        ],
+        "duration": "3:31"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Suburbian Born",
+        "extraartists": [
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Engineer, Mixed By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Robert Hale (6)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 6333328,
+            "resource_url": "https://api.discogs.com/artists/6333328"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "1:09"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Kin",
+        "extraartists": [
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "0:29"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Runner",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming [Additional]",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jack Loken",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 6324797,
+            "resource_url": "https://api.discogs.com/artists/6324797"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          }
+        ],
+        "duration": "2:57"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Flintridge",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Jack Loken",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 6324797,
+            "resource_url": "https://api.discogs.com/artists/6324797"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "0:37"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Papercut",
+        "extraartists": [
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ivana Nwokike",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 2923549,
+            "resource_url": "https://api.discogs.com/artists/2923549"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "3:27"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "June 29th",
+        "extraartists": [
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Sunday Osunwa",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 6324804,
+            "resource_url": "https://api.discogs.com/artists/6324804"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          }
+        ],
+        "duration": "0:48"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Miserable America",
+        "extraartists": [
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Choir]",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "VanJess",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Choir]",
+            "tracks": "",
+            "id": 2923540,
+            "resource_url": "https://api.discogs.com/artists/2923540"
+          },
+          {
+            "name": "VanJess",
+            "anv": "",
+            "join": "",
+            "role": "Choir",
+            "tracks": "",
+            "id": 2923540,
+            "resource_url": "https://api.discogs.com/artists/2923540"
+          },
+          {
+            "name": "Ricky Reed",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer, Mixed By",
+            "tracks": "",
+            "id": 3354960,
+            "resource_url": "https://api.discogs.com/artists/3354960"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming [Additional]",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Ricky Reed",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 3354960,
+            "resource_url": "https://api.discogs.com/artists/3354960"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Programmed By [Additional], Vocals [Additional], Keyboards [Keys]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          }
+        ],
+        "duration": "2:45"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "American Boyfriend",
+        "extraartists": [
+          {
+            "name": "Bear//Face",
+            "anv": "bearface.",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Ricky Reed",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 3354960,
+            "resource_url": "https://api.discogs.com/artists/3354960"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Ricky Reed",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 3354960,
+            "resource_url": "https://api.discogs.com/artists/3354960"
+          },
+          {
+            "name": "Ricky Reed",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 3354960,
+            "resource_url": "https://api.discogs.com/artists/3354960"
+          },
+          {
+            "name": "Bear//Face",
+            "anv": "bearface.",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Bear//Face",
+            "anv": "bearface.",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          }
+        ],
+        "duration": "3:58"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Echo",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Albert Gordon (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832159,
+            "resource_url": "https://api.discogs.com/artists/5832159"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Roy Mabie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832162,
+            "resource_url": "https://api.discogs.com/artists/5832162"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "2:36"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "I Do (End Credits)",
+        "extraartists": [
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jeff Kleinman (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5834013,
+            "resource_url": "https://api.discogs.com/artists/5834013"
+          },
+          {
+            "name": "Michael Uzowuru",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 2072125,
+            "resource_url": "https://api.discogs.com/artists/2072125"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Jeff Gitty",
+            "anv": "",
+            "join": "",
+            "role": "Vocoder",
+            "tracks": "",
+            "id": 4454784,
+            "resource_url": "https://api.discogs.com/artists/4454784"
+          },
+          {
+            "name": "Jeff Gitty",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4454784,
+            "resource_url": "https://api.discogs.com/artists/4454784"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          }
+        ],
+        "duration": "2:38"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Kevin Abstract",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4751064,
+        "resource_url": "https://api.discogs.com/artists/4751064",
+        "thumbnail_url": "https://i.discogs.com/RCLSUHIQ30hxRzykMJg0FYELyfx9xQfIhSEnPrpBKm8/rs:fit/g:sm/q:90/h:600/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NTEw/NjQtMTcyNTgxNDUy/OS05NDUxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "American Boyfriend: A Suburban Love Story",
+    "data_quality": "Correct"
+  },
+  "discogs_release_id": 1283826,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

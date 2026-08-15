@@ -1,0 +1,640 @@
+{
+  "album_type": "album",
+  "total_tracks": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0g6leOTleM7GMkiEyyFpbM"
+  },
+  "href": "https://api.spotify.com/v1/albums/0g6leOTleM7GMkiEyyFpbM",
+  "id": "0g6leOTleM7GMkiEyyFpbM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730011c3793b8422b58d539f0b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020011c3793b8422b58d539f0b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510011c3793b8422b58d539f0b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "FOTO",
+  "release_date": "2019-05-15",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0g6leOTleM7GMkiEyyFpbM",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+      },
+      "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+      "id": "2AfU5LYBVCiCtuCCfM7uVX",
+      "name": "Kota the Friend",
+      "type": "artist",
+      "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0g6leOTleM7GMkiEyyFpbM/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 19,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4G4WRnRSUtpDvuzeQcrAnD"
+            },
+            "href": "https://api.spotify.com/v1/artists/4G4WRnRSUtpDvuzeQcrAnD",
+            "id": "4G4WRnRSUtpDvuzeQcrAnD",
+            "name": "Isa Reyes",
+            "type": "artist",
+            "uri": "spotify:artist:4G4WRnRSUtpDvuzeQcrAnD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0JRHb8olMfiOwGeEBojxLg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0JRHb8olMfiOwGeEBojxLg",
+            "id": "0JRHb8olMfiOwGeEBojxLg",
+            "name": "Richard Parker",
+            "type": "artist",
+            "uri": "spotify:artist:0JRHb8olMfiOwGeEBojxLg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 166124,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7saNjYa5XjmjSJsnPYTpJn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7saNjYa5XjmjSJsnPYTpJn",
+        "id": "7saNjYa5XjmjSJsnPYTpJn",
+        "name": "Full Bloom",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7saNjYa5XjmjSJsnPYTpJn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 262620,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50phnEkQ6QToPo0Pz7lurp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50phnEkQ6QToPo0Pz7lurp",
+        "id": "50phnEkQ6QToPo0Pz7lurp",
+        "name": "Church",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:50phnEkQ6QToPo0Pz7lurp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YzuOhp0V0YIuaukc7U3Rp",
+            "id": "3YzuOhp0V0YIuaukc7U3Rp",
+            "name": "Hello O'shay",
+            "type": "artist",
+            "uri": "spotify:artist:3YzuOhp0V0YIuaukc7U3Rp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248647,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WzmvZcmjJDFJs48uWGR28"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WzmvZcmjJDFJs48uWGR28",
+        "id": "1WzmvZcmjJDFJs48uWGR28",
+        "name": "Birdie",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1WzmvZcmjJDFJs48uWGR28",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241678,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RiiGHLsoWe1rH2jB9OBNI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RiiGHLsoWe1rH2jB9OBNI",
+        "id": "1RiiGHLsoWe1rH2jB9OBNI",
+        "name": "Hollywood",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1RiiGHLsoWe1rH2jB9OBNI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190252,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PPuNzZJczYdtjNavLFBwM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PPuNzZJczYdtjNavLFBwM",
+        "id": "1PPuNzZJczYdtjNavLFBwM",
+        "name": "Alkaline",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1PPuNzZJczYdtjNavLFBwM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205482,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EPmz6JbDd0gtQxP95ha8t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EPmz6JbDd0gtQxP95ha8t",
+        "id": "7EPmz6JbDd0gtQxP95ha8t",
+        "name": "Sedona",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7EPmz6JbDd0gtQxP95ha8t",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 175037,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NOaZ75EXQyBOiG7en1uI2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NOaZ75EXQyBOiG7en1uI2",
+        "id": "1NOaZ75EXQyBOiG7en1uI2",
+        "name": "Chicago Diner",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1NOaZ75EXQyBOiG7en1uI2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Lhfm43Fm0yrzC8T3JnMAM"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Lhfm43Fm0yrzC8T3JnMAM",
+            "id": "5Lhfm43Fm0yrzC8T3JnMAM",
+            "name": "Lizzy Ashliegh",
+            "type": "artist",
+            "uri": "spotify:artist:5Lhfm43Fm0yrzC8T3JnMAM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252285,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ueA0uPtcLOGMgdiqEmxzs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ueA0uPtcLOGMgdiqEmxzs",
+        "id": "3ueA0uPtcLOGMgdiqEmxzs",
+        "name": "Bagels",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3ueA0uPtcLOGMgdiqEmxzs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 82000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59aoH44eJKEExEnjons1hS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59aoH44eJKEExEnjons1hS",
+        "id": "59aoH44eJKEExEnjons1hS",
+        "name": "Pop's Interlude",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:59aoH44eJKEExEnjons1hS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Hjbimq43OgxaBRpFXic4x",
+            "id": "7Hjbimq43OgxaBRpFXic4x",
+            "name": "Saba",
+            "type": "artist",
+            "uri": "spotify:artist:7Hjbimq43OgxaBRpFXic4x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236017,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4rYvVAQZGg6lY1GMQz5DDr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4rYvVAQZGg6lY1GMQz5DDr",
+        "id": "4rYvVAQZGg6lY1GMQz5DDr",
+        "name": "Solar Return",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4rYvVAQZGg6lY1GMQz5DDr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 72000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ega7BQnbcvhj7EhhS4ZHd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ega7BQnbcvhj7EhhS4ZHd",
+        "id": "4ega7BQnbcvhj7EhhS4ZHd",
+        "name": "Melvin's Interlude",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4ega7BQnbcvhj7EhhS4ZHd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236522,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TwtgADOjZb2hVpYBGLWUx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TwtgADOjZb2hVpYBGLWUx",
+        "id": "2TwtgADOjZb2hVpYBGLWUx",
+        "name": "Mommy",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2TwtgADOjZb2hVpYBGLWUx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 30700,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AqgvlJTdS037tMPGoAfON"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1AqgvlJTdS037tMPGoAfON",
+        "id": "1AqgvlJTdS037tMPGoAfON",
+        "name": "Uncle Cal's Interlude",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1AqgvlJTdS037tMPGoAfON",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Hnnra8OhMIzwl6ioNpD2q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Hnnra8OhMIzwl6ioNpD2q",
+        "id": "0Hnnra8OhMIzwl6ioNpD2q",
+        "name": "Backyard",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:0Hnnra8OhMIzwl6ioNpD2q",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 124000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2kelXDzxXwa8wOVo0hI5Mx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2kelXDzxXwa8wOVo0hI5Mx",
+        "id": "2kelXDzxXwa8wOVo0hI5Mx",
+        "name": "KOALA",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2kelXDzxXwa8wOVo0hI5Mx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 115200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JiGFpU5FJ1zahIeugSPyk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JiGFpU5FJ1zahIeugSPyk",
+        "id": "2JiGFpU5FJ1zahIeugSPyk",
+        "name": "Grandpa's Interlude",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2JiGFpU5FJ1zahIeugSPyk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223116,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tYuHtPc1C8sPMpoZGqP3j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tYuHtPc1C8sPMpoZGqP3j",
+        "id": "5tYuHtPc1C8sPMpoZGqP3j",
+        "name": "For Colored Boys",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:5tYuHtPc1C8sPMpoZGqP3j",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260294,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7xUMWAGuxSp2D6GkwUeb8N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7xUMWAGuxSp2D6GkwUeb8N",
+        "id": "7xUMWAGuxSp2D6GkwUeb8N",
+        "name": "Good To Be Home",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:7xUMWAGuxSp2D6GkwUeb8N",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+            },
+            "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+            "id": "2AfU5LYBVCiCtuCCfM7uVX",
+            "name": "Kota the Friend",
+            "type": "artist",
+            "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YzuOhp0V0YIuaukc7U3Rp",
+            "id": "3YzuOhp0V0YIuaukc7U3Rp",
+            "name": "Hello O'shay",
+            "type": "artist",
+            "uri": "spotify:artist:3YzuOhp0V0YIuaukc7U3Rp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 269629,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kPXHGrOBP3YfuvewGpis0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kPXHGrOBP3YfuvewGpis0",
+        "id": "7kPXHGrOBP3YfuvewGpis0",
+        "name": "FOTO",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:7kPXHGrOBP3YfuvewGpis0",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2021 Fltbys LLC",
+      "type": "C"
+    },
+    {
+      "text": "2021 Fltbys LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "195939497134"
+  },
+  "genres": []
+}
