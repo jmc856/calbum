@@ -3,10 +3,1388 @@
   "query": {
     "upc": "00602537214488",
     "artist": "Kendrick Lamar",
-    "title": "good kid, m.A.A.d city (Deluxe)",
+    "title": "good kid, m.A.A.d city",
     "year": 2012
   },
-  "results": [],
-  "discogs_release_id": null,
-  "genres": []
+  "results": [
+    {
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Top Dawg Entertainment",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Distribution",
+        "TDE Red Room",
+        "Patchwerk Recording Studios",
+        "Encore Studios",
+        "Body Music Studios",
+        "No Excuses Studios",
+        "Wb Music Corp.",
+        "TDE Music",
+        "Hard Workin' Black Folks Publishing",
+        "West Coast Livin' Publishing",
+        "Henderworks Music Publishing",
+        "Beat Bully Productions",
+        "EMI Blackwood Music Inc.",
+        "Hit-Boy Music",
+        "U Can't Teach Bein' The Shh",
+        "Songs Of Universal",
+        "EMI Music Publishing Scandinavia",
+        "Dahi Productions",
+        "Chrysalis Music",
+        "Elijah Molina Publishing",
+        "Kobalt",
+        "Live Write LLC",
+        "EMI April Music Inc.",
+        "Flyte Tyme Tunes, Inc.",
+        "Black Ice Publishing",
+        "More Water from Nazareth",
+        "THC Music",
+        "Bluestamp Tunes",
+        "Warner-Tamerlane Publishing Corp.",
+        "Brother Bagz Publishing",
+        "It's Like That",
+        "Derrick Hutchins Jr. Publishing",
+        "Rose Mac Music",
+        "N.Q.C. Music Publishing, LLC",
+        "F.O.B. Music Publishing",
+        "Music City Associates",
+        "Feedmybabeez Publishing",
+        "Almo Music Corp.",
+        "Ain't Nuthin' Goin' On But Fu-kin'",
+        "Domino Publishing Company Of America, Inc.",
+        "Pizza Publishing",
+        "Psalms 144:1",
+        "Jacks Love Emporium",
+        "Plantlife Experience",
+        "JazLady Publishing",
+        "Jazmine Sullivan"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 26344301,
+      "barcode": [
+        "6 02537 19226 7",
+        "602537192267",
+        "01159297-A-2 4",
+        "01159297-B-2 4",
+        "01159334-C-3 9",
+        "01159334-D-2 10",
+        "01159297-A-2 2",
+        "01159297-B-2 2",
+        "01159334-C-3 40",
+        "01159334-D-2 26"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/26344301-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017695-01",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/fiWn_JT5scHIqRBCweZTeFZ9ATo4nipHISMf_8zk4R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ0/MzAxLTE2NzgyNzMw/MzctNzcyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hqMcFPWZsjBNYkwgxEaIhdgTLzprNyrfjuXpjJV7PiY/rs:fit/g:sm/q:90/h:597/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ0/MzAxLTE2NzgyNzMw/MzctNzcyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26344301",
+      "community": {
+        "want": 960,
+        "have": 6182
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Universal Music Canada Inc.",
+        "Universal Music Canada Inc.",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3983113,
+      "barcode": [
+        "602537162321"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3983113-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B001753602",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/LVeprzxmdl8oiGa2FW1iDc88p-qElvz0dRMjTKj9z8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODMx/MTMtMTM4MjA5ODQ0/MC0yNzk5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/J_ESNmfKKP3h3obX7MzlLJeHnUdlfaB-m3WUgyQgpbM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODMx/MTMtMTM4MjA5ODQ0/MC0yNzk5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3983113",
+      "community": {
+        "want": 720,
+        "have": 404
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australasia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Australia",
+        "No Excuses Studios",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 12472188,
+      "barcode": [
+        "6 02537 15635 5",
+        "IFPI LV87",
+        "IFPI 6519",
+        "[Universal logo] ANZ 3715653 A0100989049-0102 12"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/12472188-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "3715653",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/7yuthYnMe0ykGB94MubYQ7dX5Aycqtn-J3qSWedXnI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDcy/MTg4LTE1MzU5NzY0/NDUtNjQ1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bTAPLUwIDLD1dZAh5p2lUboZmox6VNPIx8NwwHFVQw8/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDcy/MTg4LTE1MzU5NzY0/NDUtNjQ1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12472188",
+      "community": {
+        "want": 504,
+        "have": 54
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Top Dawg Entertainment",
+        "Interscope Records",
+        "EMI Music Marketing",
+        "Music For Dreams",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "F.O.B. Entertainment",
+        "HitBoy Music",
+        "N.Q.C. Management, LLC",
+        "TDE Music",
+        "Tha Bizness Productions, LLC",
+        "THC Music",
+        "The Neptunes",
+        "Very Good Beats Inc.",
+        "United Record Pressing",
+        "Ain't Nuthin' Goin' On But Fu-kin'",
+        "Beat Bully Productions",
+        "Black Ice Publishing",
+        "Bluestamp Tunes",
+        "Brother Bagz Publishing",
+        "Chrysalis Music",
+        "Dahi Productions",
+        "Derrick Hutchins Jr. Publishing",
+        "Domino Publishing Company Of America, Inc.",
+        "Edition MFD Publishing",
+        "Elijah Molina Publishing",
+        "EMI April Music Inc.",
+        "EMI Blackwood Music Inc.",
+        "EMI Music Publishing Denmark A/S",
+        "EMI Music Publishing Scandinavia",
+        "Flyte Tyme Tunes, Inc.",
+        "Hard Workin' Black Folks Publishing",
+        "Henderworks Music Publishing",
+        "HitBoy Music",
+        "It's Like That",
+        "Jacks Love Emporium",
+        "JazLady Publishing",
+        "Kobalt",
+        "Live Write LLC",
+        "N.Q.C. Music Publishing, LLC",
+        "Pizza Publishing",
+        "Plantlife Experience Music",
+        "Psalms 144:1",
+        "Publishing Designee Of Liv Lykke",
+        "Rose Mac Music",
+        "Songs Of Universal",
+        "TDE Music",
+        "THC Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Wb Music Corp.",
+        "West Coast Livin' Publishing",
+        "You Cant Teach Bein The Shh!",
+        "Body Music Studios",
+        "Encore Studios",
+        "Patchwerk Recording Studios",
+        "My Mama's House Studio",
+        "TDE Red Room",
+        "No Excuses Studios",
+        "Invisible Creature, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3975953,
+      "barcode": [
+        "6 02537 19226 7",
+        "602537192267",
+        "II B0017695-01LP01-A \u24ca",
+        "B0017695-01LP01-B \u24ca",
+        "II B0017695-01LP02-A \u24ca '!'",
+        "II B0017695-01LP02-B \u24ca",
+        "ASCAP",
+        "BMI",
+        "SESAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3975953-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017695-01",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/bWN4wGLGobx-8DJ3C5D-_actD7W-kuVQyWE1uqVkz1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDc5/NS01Njk0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/m8eUFdh6Dmu3VIwfNJUNI8Eht0dZfJyB9ycEYgatQdY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDc5/NS01Njk0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3975953",
+      "community": {
+        "want": 23306,
+        "have": 77301
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 12405232,
+      "barcode": [
+        "6 02537 16231 4",
+        "DIDX-822265 1",
+        "IFPI L329"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/12405232-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017535-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/9OuKSlohpyxsQOBmDNbmeKkczORJBroxzhiyBDpr5Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA1/MjMyLTE2NTQwMjA5/NDctMTcxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Mw67LfyTbWqJDWC0S7x08foBE1k-7rIlPohHUoP1ndg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA1/MjMyLTE2NTQwMjA5/NDctMTcxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12405232",
+      "community": {
+        "want": 700,
+        "have": 310
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2012",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 33345788,
+      "barcode": [
+        "su3ja7w9semkc"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/33345788-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/pvzS4FCrO8OezEl8K9BGi4m2EDb4oub4K2mAxzaDB-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/Nzg4LTE3NDE0Mjk2/NzgtMjk4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/y8RZ99syjZrsyg9R0yD9QBZC6szUB71BAMCVb9ECVRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/Nzg4LTE3NDE0Mjk2/NzgtMjk4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33345788",
+      "community": {
+        "want": 50,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "16bit / 44,1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3969415,
+      "barcode": [
+        "565833795"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3969415-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/8Ede-qHrLM0CmoMPi2CtkcIxHJ2exjsMB3Blt_EDgC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njk0/MTUtMTU4NjA5MTU3/OS01MDE2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CJQ_27MkIF4rS8mYVrpT9dvbE64p7qDUS8PZpQ_ML1A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njk0/MTUtMTU4NjA5MTU3/OS01MDE2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3969415",
+      "community": {
+        "want": 618,
+        "have": 182
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 32357004,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/32357004-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/8HWYA0IWseWOL0FLh8uimanWuCbxRGdeSenqN0Q1Y-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU3/MDA0LTE3MzIyMjk4/MzQtMzc3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NKp68FNiq1BUYk7YbYc1qM6SFJnH6VoHuU7fk5YaPDg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU3/MDA0LTE3MzIyMjk4/MzQtMzc3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32357004",
+      "community": {
+        "want": 53,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Deluxe Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Hip Hop",
+        "Trap"
+      ],
+      "id": 32611410,
+      "barcode": [
+        "1440821622"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/32611410-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/DAuJjk-IwwWpcV3nwaw5ko-2LGmF72j4q7_YHydG0VA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjEx/NDEwLTE3MzQ2MzI0/MzMtNDMzNS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/KV5WAyzCw5XhfWqc42J37hKPOckhWb1apEbZO1nz5j8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjEx/NDEwLTE3MzQ2MzI0/MzMtNDMzNS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32611410",
+      "community": {
+        "want": 54,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 32611389,
+      "barcode": [
+        "1440818890"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/32611389-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/m_jHCpVlOu9_O_YRj7-Q_x-OxnEwHco30wbbVNfV0yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjEx/Mzg5LTE3MzQ2MzIz/NDItNTQ1OS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/yJ7jUe3EznXTCswHf_A4XGiS0BehIrYIQjKT_zmo_us/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjEx/Mzg5LTE3MzQ2MzIz/NDItNTQ1OS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32611389",
+      "community": {
+        "want": 54,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "18",
+          "text": "Deluxe Edition, 256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3976200,
+      "barcode": [
+        "6 02537 15653 5",
+        "DIDX-822264 1",
+        "IFPI L329",
+        "IFPI 5022",
+        "IFPI 50E5",
+        "DIDX-822264 1 A09",
+        "IFPI 5082"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3976200-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017534-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/Kz4hgW-4GNdhxOYwgvXgYJWHu7hhi8RdRELD_mxHfeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MDAtMTM1MTEyNDQ1/Ny05NTI3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/RRw6MlvRfGfchl8a3R4MHnaslW89SwPfN-_Bwbbtb7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MDAtMTM1MTEyNDQ1/Ny05NTI3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3976200",
+      "community": {
+        "want": 1310,
+        "have": 1752
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3976211,
+      "barcode": [
+        "6 02537 16232 1",
+        "DIDX-822264 1 A05",
+        "DIDX-822264 1 A09",
+        "IFPI L329",
+        "IFPI 507A",
+        "IFPI 50F4",
+        "IFPI 50AB",
+        "DIDX-823873 1 A04",
+        "DIDX-823873 1 A02",
+        "DIDX-823873 1 A07",
+        "IFPI L327",
+        "IFPI 50B0",
+        "IFPI 50H2",
+        "IFPI 50EB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3976211-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017536-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/KFiS3et0TRBfv-etCHt-6uR6QhfiDq3E9M7nRp6Ts8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MTEtMTM1MTEyNDc5/Ny00NzExLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xqNHYumyI7YLenJPKXgT2bZ1qhHQZDyAGVCZV72Z8ZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MTEtMTM1MTEyNDc5/Ny00NzExLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3976211",
+      "community": {
+        "want": 1112,
+        "have": 838
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 24110135,
+      "barcode": [
+        "1471277623"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/24110135-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "none",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/CjJhuTF9cjX4UkEeI0VNxqPFOz-CN5T5UyYMZxq9LZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/MTM1LTE2NTk3MTM5/NDQtODY4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HdsntvQX4LJibo7bIdG4SU-V9224aVcbzVcWROFlglE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/MTM1LTE2NTk3MTM5/NDQtODY4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24110135",
+      "community": {
+        "want": 711,
+        "have": 576
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Universal Music Australia",
+        "Sony DADC Australia",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 6480520,
+      "barcode": [
+        "6 02537 16232 1",
+        "602537162321",
+        "[Universal logo] ANZ 3715653 A0100989049-0102 12",
+        "IFPI LV87",
+        "IFPI 6545",
+        "[Universal logo] ANZ 3719647 A0100989049-0202 12",
+        "IFPI LV87",
+        "IFPI 651A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/6480520-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "3716232",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/4YQBrxBK6EKIwXO0nyfPLSiv17Docbs8BG142dga0Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODA1/MjAtMTc4MjI4OTEz/NC05MjkxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/HwOWED1fzUUoQqhZH2jsv9ee44WVjoZ3XavPLLx9DTM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODA1/MjAtMTc4MjI4OTEz/NC05MjkxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6480520",
+      "community": {
+        "want": 680,
+        "have": 161
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal International",
+        "Universal Music LLC",
+        "Universal Music LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 5380349,
+      "barcode": [
+        "4988005757593"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/5380349-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "UICS-1264/5",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/1Dv83zDHRPpPaOQs8F1ZDB00M8jjS1ZhukQsBlJK2LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODAz/NDktMTc0NjYzNjY5/NC02NjMwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/eORX7g1hmaOxp4ordueigQgz8MtpJjBTvy1kyvRh7l8/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODAz/NDktMTc0NjYzNjY5/NC02NjMwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5380349",
+      "community": {
+        "want": 726,
+        "have": 96
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Korea",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 7274789,
+      "barcode": [
+        "8 808678 253306"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/7274789-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "DS30423",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/hjKyuuwVlwijTJxzUdHRC8pvEWDY8tmUHEtAU6NRUaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzQ3/ODktMTQzODIxMTE5/NC03MTA2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/GC2NnkX0JIiytARfwJ4rbRPKLDPYm2Ft7tDrFk-RLlE/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzQ3/ODktMTQzODIxMTE5/NC03MTA2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7274789",
+      "community": {
+        "want": 630,
+        "have": 27
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "UMG Recordings, Inc.",
+        "BMG Chrysalis",
+        "Sub Pop Records",
+        "Virgin UK",
+        "Blue Note Records",
+        "Sony Music Entertainment",
+        "Dead Oceans",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Interscope Records",
+        "Music For Dreams",
+        "Chrysalis Music Group Inc.",
+        "EMI Music Marketing",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "EDC, Germany",
+        "EDC, Germany",
+        "No Excuses Studios",
+        "My Mama's House Studio",
+        "Body Music Studios",
+        "Encore Studios",
+        "Patchwerk Recording Studios",
+        "TDE Red Room",
+        "Tha Bizness Productions, LLC",
+        "TDE Music",
+        "Hit-Boy Music Inc.",
+        "Very Good Beats Inc.",
+        "The Neptunes",
+        "THC Music",
+        "F.O.B. Entertainment",
+        "N.Q.C. Management, LLC",
+        "DJ Khalil Productions LLC",
+        "Wb Music Corp.",
+        "TDE Music",
+        "Hard Workin' Black Folks Publishing",
+        "West Coast Livin' Publishing",
+        "Henderworks Music Publishing",
+        "Beat Bully Productions",
+        "EMI Blackwood Music Inc.",
+        "Edition MFD Publishing",
+        "EMI Music Publishing Denmark A/S",
+        "Publishing Designee",
+        "HitBoy Music",
+        "You Cant Teach Bein The Shh!",
+        "Songs Of Universal",
+        "EMI Music Publishing Scandinavia AB",
+        "Dahi Productions",
+        "Chrysalis Music",
+        "Elijah Molina Publishing",
+        "Kobalt",
+        "Live Write LLC",
+        "EMI April Music Inc.",
+        "Flyte Tyme Tunes, Inc.",
+        "Black Ice Publishing",
+        "More Water from Nazareth",
+        "THC Music",
+        "Bluestamp Tunes",
+        "Warner-Tamerlane Publishing Corp.",
+        "Brother Bagz Publishing",
+        "It's Like That",
+        "Derrick Hutchins Jr. Publishing",
+        "Rose Mac Music",
+        "N.Q.C. Music Publishing",
+        "F.O.B. Music Publishing",
+        "Music City Associates",
+        "Feedmybabeez Publishing",
+        "Almo Music Corp.",
+        "Ain't Nuthin' Goin' On But Fu-kin'",
+        "Domino Publishing Company Of America, Inc.",
+        "Pizza Publishing",
+        "Psalms 144:1",
+        "Jacks Love Emporium",
+        "Plantlife Experience Music",
+        "JazLady Publishing",
+        "Jazmine Sullivan",
+        "Jaleesa And Mahdis Music",
+        "Universal Music North America",
+        "Dontae Winslow Love Black Children Alot Publishing",
+        "Notting Hill Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 4166261,
+      "barcode": [
+        "6 02537 18396 8",
+        "602537183968",
+        "LC06406",
+        "BIEM/SDRM",
+        "0602537156535",
+        "0602537196487",
+        "[Universal logo x 4]",
+        "06025 371 565-3 01 * 53136335 MADE IN GERMANY BY EDC",
+        "IFPI LV26",
+        "IFPI 0179",
+        "06025 371 964-8 01 * 53164321 MADE IN GERMANY BY EDC",
+        "IFPI LV26",
+        "IFPI 0169",
+        "06025 371 565-3 01 * 53136335 MADE IN GERMANY BY EDC A",
+        "IFPI LV26",
+        "IFPI 0119",
+        "06025 371 964-8 01 * 53164321 MADE IN GERMANY BY EDC B",
+        "IFPI LV26",
+        "IFPI 0139",
+        "06025 371 565-3 01 * 53136335 MADE IN GERMANY BY EDC I",
+        "IFPI LV26",
+        "IFPI 0158",
+        "06025 371 964-8 01 * 53164312 MADE IN GERMANY BY EDC D",
+        "IFPI LV26",
+        "none",
+        "06025 371 565-3 02 # 53136335 MADE IN GERMANY BY EDC G",
+        "IFPI LZ87",
+        "IFPI 0139",
+        "06025 371 964-8 01 * 53164312 MADE IN GERMANY BY EDC C",
+        "IFPI LV26",
+        "IFPI 0121",
+        "06025 371 565-3 02 # 53136335 MADE IN GERMANY BY EDC H",
+        "IFPI LZ87",
+        "IFPI 0150",
+        "06025 371 964-8 01 * 53164312 MADE IN GERMANY BY EDC C",
+        "IFPI LV26",
+        "none",
+        "06025 371 565-3 02 # 53136335 MADE IN GERMANY BY EDC H",
+        "IFPI LZ87",
+        "IFPI 0150",
+        "06025 371 964-8 01 * 53164312 MADE IN GERMANY BY EDC C",
+        "IFPI LV26",
+        "IFPI 0132",
+        "06025 371 565-3 02 # 53136335 MADE IN GERMANY BY EDC G",
+        "IFPI LZ87",
+        "IFPI 0118",
+        "06025 371 964-8 01 * 53164312 MADE IN GERMANY BY EDC C",
+        "IFPI LV26",
+        "IFPI 0140"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/4166261-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "0602537183968",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/rZ-4id5Ja8bG3tmAgKkCH1WAnjI6FcoJcRlxPlW6AtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjYy/NjEtMTM1NzYzOTcw/MS02MjY2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/BdAyePC1ypc8-gMwronz-OeQ7jJk9qmWVqOetznizFE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjYy/NjEtMTM1NzYzOTcw/MS02MjY2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4166261",
+      "community": {
+        "want": 1254,
+        "have": 2812
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Korea",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 36348673,
+      "barcode": [
+        "8808678252835"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/36348673-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "DS30376/371 565-3",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/0OoL3Dvu6g3QjdihJ2s3ghkB7CzKta5KjnJ06_gkiO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzQ4/NjczLTE3Njk2OTQ0/MTItOTc2NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cWtViKyeKUjCdc-L9Nh14kIfuuhXQH3OCZIFl9NgRao/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzQ4/NjczLTE3Njk2OTQ0/MTItOTc2NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36348673",
+      "community": {
+        "want": 39,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "No Excuses Studios",
+        "EDC, Germany",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 4176575,
+      "barcode": [
+        "6 02537 15653 5",
+        "602537156535",
+        "BIEM/SDRM",
+        "LC06406",
+        "[4 \u00d7 Universal logo] 06025 371 565-3 01 * 53136335",
+        "MADE IN GERMANY BY EDC",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI LV26",
+        "IFPI 0147"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/4176575-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "0602537156535",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/RnsSKaRu3_Zzh9SgxCioN8Wf_nUgdepGl7wJd6MB7DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzY1/NzUtMTM1Nzc2MDkx/MC03NDY0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/J5cLLlZI_8U9cL5NAJdF4rH_eC0X1TakmzbhtXsnxXM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzY1/NzUtMTM1Nzc2MDkx/MC03NDY0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4176575",
+      "community": {
+        "want": 863,
+        "have": 1254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Target"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 3976219,
+      "barcode": [
+        "6 0253718396 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/3976219-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0017675-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/bk8B4KuZEfC62pB8yf5BHaNHse8EARwcNE-cncQbtKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MTktMTU3MDIxOTE4/My0zNDE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/bki3IEH4JCKCeMp4MeIRytTdLxBxgf9zD7y4UY3yPZc/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/MTktMTU3MDIxOTE4/My0zNDE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3976219",
+      "community": {
+        "want": 938,
+        "have": 530
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "text": "Target Exclusive",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 484590,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
 }

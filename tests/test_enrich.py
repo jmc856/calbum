@@ -13,15 +13,21 @@ from calbum.enrich import (
     cache_path,
     choose_best_result,
     enrich_album,
+    strip_edition_suffix,
 )
 from calbum.models import Album, Genre, GenreSource
 
 
-def make_album(album_id: str = "a1", upc: str | None = "656605144269", genres: list[Genre] | None = None) -> Album:
+def make_album(
+    album_id: str = "a1",
+    upc: str | None = "656605144269",
+    genres: list[Genre] | None = None,
+    title: str = "Stranger in the Alps",
+) -> Album:
     return Album(
         id=album_id,
         artists=["Phoebe Bridgers"],
-        title="Stranger in the Alps",
+        title=title,
         release_date="2017-09-22",
         release_year=2017,
         album_type="album",
@@ -29,6 +35,27 @@ def make_album(album_id: str = "a1", upc: str | None = "656605144269", genres: l
         added_at=datetime(2020, 1, 1, tzinfo=timezone.utc),
         genres=genres or [],
     )
+
+
+# --- strip_edition_suffix -------------------------------------------------------
+
+
+def test_strip_edition_suffix_removes_trailing_parenthetical() -> None:
+    assert strip_edition_suffix("good kid, m.A.A.d city (Deluxe)") == "good kid, m.A.A.d city"
+
+
+def test_strip_edition_suffix_handles_multi_word_suffix() -> None:
+    assert strip_edition_suffix("Some Album (Expanded Edition)") == "Some Album"
+
+
+def test_strip_edition_suffix_returns_none_when_nothing_to_strip() -> None:
+    assert strip_edition_suffix("Punisher") is None
+
+
+def test_strip_edition_suffix_returns_none_for_parenthetical_only_title() -> None:
+    """An edge case worth pinning down: stripping must never produce an
+    empty string."""
+    assert strip_edition_suffix("(Deluxe)") is None
 
 
 # --- choose_best_result -------------------------------------------------------
@@ -64,9 +91,10 @@ def test_choose_best_result_is_deterministic_regardless_of_input_order() -> None
 
 
 class FakeGenreLookup:
-    def __init__(self, barcode_results=None, search_results=None, masters=None):
+    def __init__(self, barcode_results=None, search_results=None, masters=None, search_results_by_title=None):
         self._barcode_results = barcode_results or []
         self._search_results = search_results or []
+        self._search_results_by_title = search_results_by_title  # optional, overrides _search_results
         self._masters = masters or {}
         self.barcode_calls: list[str] = []
         self.search_calls: list[tuple] = []
@@ -78,6 +106,8 @@ class FakeGenreLookup:
 
     def search_by_artist_title_year(self, artist: str, title: str, year: int) -> list[dict]:
         self.search_calls.append((artist, title, year))
+        if self._search_results_by_title is not None:
+            return self._search_results_by_title.get(title, [])
         return self._search_results
 
     def get_master(self, master_id: int) -> dict:
@@ -151,6 +181,47 @@ def test_enrich_album_falls_through_to_search_when_barcode_finds_nothing(monkeyp
     assert client.barcode_calls == [album.upc]
     assert len(client.search_calls) == 1
     assert result.genres[0].source == GenreSource.DISCOGS_SEARCH
+
+
+def test_enrich_album_retries_search_with_edition_suffix_stripped(monkeypatch, tmp_path) -> None:
+    """Confirmed live: Discogs' release_title search finds 0 results for
+    "good kid, m.A.A.d city (Deluxe)" but 50 for the same title without the
+    suffix, same master. This is the regression test for that."""
+    import calbum.enrich as enrich_module
+
+    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+    full_title = "good kid, m.A.A.d city (Deluxe)"
+    stripped_title = "good kid, m.A.A.d city"
+    client = FakeGenreLookup(
+        barcode_results=[],
+        search_results_by_title={
+            full_title: [],
+            stripped_title: [{"id": 1, "master_id": None, "genre": ["Hip Hop"], "style": ["Conscious"]}],
+        },
+    )
+    album = make_album(upc=None, title=full_title)
+
+    result = enrich_album(client, album)
+
+    assert client.search_calls == [
+        ("Phoebe Bridgers", full_title, 2017),
+        ("Phoebe Bridgers", stripped_title, 2017),
+    ]
+    assert {g.name for g in result.genres} == {"Hip Hop", "Conscious"}
+
+
+def test_enrich_album_does_not_retry_when_title_has_no_suffix_to_strip(monkeypatch, tmp_path) -> None:
+    """An album with no parenthetical suffix and no results anywhere should
+    cost exactly one search call, not a redundant identical retry."""
+    import calbum.enrich as enrich_module
+
+    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+    client = FakeGenreLookup(barcode_results=[], search_results=[])
+    album = make_album(upc=None, title="Punisher")
+
+    enrich_album(client, album)
+
+    assert len(client.search_calls) == 1
 
 
 def test_enrich_album_no_results_anywhere_yields_empty_genres_and_still_caches(monkeypatch, tmp_path) -> None:

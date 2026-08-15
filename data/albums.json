@@ -42,8 +42,19 @@
     "artists": [
       "Kendrick Lamar"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 484590,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1DqhWr73Fh5yoNzKLas0G3",
     "release_date": "2012-01-01",
     "release_year": 2012,

@@ -25,6 +25,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 from pathlib import Path
 from typing import Protocol
 
@@ -75,6 +76,19 @@ def write_cache(album_id: str, data: dict) -> None:
     cache_path(album_id).write_text(json.dumps(data, indent=2) + "\n")
 
 
+def strip_edition_suffix(title: str) -> str | None:
+    """Strip a trailing parenthetical like "(Deluxe)", "(Remastered)",
+    "(Expanded Edition)" — Discogs' own release_title search is close to
+    exact-match and doesn't tolerate these even though Discogs lists the
+    release itself (confirmed live: "good kid, m.A.A.d city (Deluxe)" finds
+    0 results, "good kid, m.A.A.d city" finds 50, same master). Spotify
+    appends these routinely; Discogs titles usually don't carry them. Returns
+    None when there's nothing to strip, so the caller can skip a redundant
+    identical retry."""
+    stripped = re.sub(r"\s*\([^)]*\)\s*$", "", title).strip()
+    return stripped if stripped and stripped != title else None
+
+
 def choose_best_result(results: list[dict]) -> dict | None:
     """Deterministic tiebreak, not result[0] (PLAN.md Stage 1 step 2):
     prefer a result with master_id set (lowest master_id, for stability
@@ -111,6 +125,8 @@ def enrich_album(client: GenreLookup, album: Album) -> Album:
     if album.upc:
         barcode_results = client.search_by_barcode(album.upc)
 
+    queried_title = album.title  # overwritten below only if the stripped-suffix retry is what hit
+
     if barcode_results:
         step = "barcode"
         results = barcode_results
@@ -121,7 +137,20 @@ def enrich_album(client: GenreLookup, album: Album) -> Album:
     else:
         step = "search"
         artist = album.artists[0] if album.artists else ""
-        results = client.search_by_artist_title_year(artist, album.title, album.release_year)
+        results = client.search_by_artist_title_year(artist, queried_title, album.release_year)
+        if not results:
+            # Retry once with a trailing "(Deluxe)"/"(Remastered)"/etc.
+            # suffix stripped — see strip_edition_suffix. Only retried when
+            # the full title actually found nothing, so an album that's
+            # genuinely just missing from Discogs still costs one search,
+            # not two.
+            stripped_title = strip_edition_suffix(album.title)
+            if stripped_title:
+                results = client.search_by_artist_title_year(
+                    artist, stripped_title, album.release_year
+                )
+                if results:
+                    queried_title = stripped_title
         # A search hit doesn't distinguish further by tier — both genre and
         # style entries carry the same source value (constraint 6).
         genre_source = style_source = GenreSource.DISCOGS_SEARCH
@@ -153,7 +182,7 @@ def enrich_album(client: GenreLookup, album: Album) -> Album:
             "query": {
                 "upc": album.upc,
                 "artist": album.artists[0] if album.artists else None,
-                "title": album.title,
+                "title": queried_title,
                 "year": album.release_year,
             },
             "results": results,
