@@ -6,12 +6,15 @@ from __future__ import annotations
 
 import pytest
 
+from calbum.discogs.client import DiscogsAuthError
+from calbum.discogs.schemas import DiscogsMaster, DiscogsSearchResult
 from calbum.enrich import (
     build_coverage_report,
     cache_path,
     choose_best_result,
     enrich_album,
     strip_edition_suffix,
+    title_variants,
 )
 from calbum.models import Genre, GenreSource
 
@@ -43,7 +46,16 @@ def make_album(make_album):
     return _make_album
 
 
-# --- strip_edition_suffix -------------------------------------------------------
+def sr(id: int, master_id: int | None = None, genre: list[str] | None = None, style: list[str] | None = None) -> DiscogsSearchResult:
+    """Terse DiscogsSearchResult builder for test fixtures."""
+    return DiscogsSearchResult(id=id, master_id=master_id, genre=genre or [], style=style or [])
+
+
+def dm(id: int, genres: list[str] | None = None, styles: list[str] | None = None) -> DiscogsMaster:
+    return DiscogsMaster(id=id, genres=genres or [], styles=styles or [])
+
+
+# --- strip_edition_suffix / title_variants ---------------------------------------
 
 
 def test_strip_edition_suffix_removes_trailing_parenthetical() -> None:
@@ -64,6 +76,17 @@ def test_strip_edition_suffix_returns_none_for_parenthetical_only_title() -> Non
     assert strip_edition_suffix("(Deluxe)") is None
 
 
+def test_title_variants_full_title_first() -> None:
+    assert title_variants("good kid, m.A.A.d city (Deluxe)") == [
+        "good kid, m.A.A.d city (Deluxe)",
+        "good kid, m.A.A.d city",
+    ]
+
+
+def test_title_variants_single_entry_when_nothing_to_strip() -> None:
+    assert title_variants("Punisher") == ["Punisher"]
+
+
 # --- choose_best_result -------------------------------------------------------
 
 
@@ -72,23 +95,19 @@ def test_choose_best_result_empty_returns_none() -> None:
 
 
 def test_choose_best_result_prefers_lowest_master_id() -> None:
-    results = [
-        {"id": 1, "master_id": 500},
-        {"id": 2, "master_id": 100},
-        {"id": 3, "master_id": None},
-    ]
+    results = [sr(1, master_id=500), sr(2, master_id=100), sr(3, master_id=None)]
     chosen = choose_best_result(results)
-    assert chosen["id"] == 2
+    assert chosen.id == 2
 
 
 def test_choose_best_result_falls_back_to_lowest_id_when_no_master() -> None:
-    results = [{"id": 30, "master_id": None}, {"id": 10, "master_id": None}]
+    results = [sr(30, master_id=None), sr(10, master_id=None)]
     chosen = choose_best_result(results)
-    assert chosen["id"] == 10
+    assert chosen.id == 10
 
 
 def test_choose_best_result_is_deterministic_regardless_of_input_order() -> None:
-    results_a = [{"id": 1, "master_id": 500}, {"id": 2, "master_id": 100}]
+    results_a = [sr(1, master_id=500), sr(2, master_id=100)]
     results_b = list(reversed(results_a))
     assert choose_best_result(results_a) == choose_best_result(results_b)
 
@@ -106,25 +125,25 @@ class FakeGenreLookup:
         self.search_calls: list[tuple] = []
         self.master_calls: list[int] = []
 
-    def search_by_barcode(self, barcode: str) -> list[dict]:
+    def search_by_barcode(self, barcode: str) -> list[DiscogsSearchResult]:
         self.barcode_calls.append(barcode)
         return self._barcode_results
 
-    def search_by_artist_title_year(self, artist: str, title: str, year: int) -> list[dict]:
+    def search_by_artist_title_year(self, artist: str, title: str, year: int) -> list[DiscogsSearchResult]:
         self.search_calls.append((artist, title, year))
         if self._search_results_by_title is not None:
             return self._search_results_by_title.get(title, [])
         return self._search_results
 
-    def get_master(self, master_id: int) -> dict:
+    def get_master(self, master_id: int) -> DiscogsMaster:
         self.master_calls.append(master_id)
         return self._masters[master_id]
 
 
 def test_enrich_album_barcode_hit_with_master_uses_master_genres(make_album) -> None:
     client = FakeGenreLookup(
-        barcode_results=[{"id": 1, "master_id": 42}],
-        masters={42: {"id": 42, "genres": ["Rock"], "styles": ["Indie Rock", "Folk"]}},
+        barcode_results=[sr(1, master_id=42)],
+        masters={42: dm(42, genres=["Rock"], styles=["Indie Rock", "Folk"])},
     )
     album = make_album()
 
@@ -141,8 +160,26 @@ def test_enrich_album_barcode_hit_with_master_uses_master_genres(make_album) -> 
     assert all(g.source == GenreSource.DISCOGS_STYLE for g in style_entries)
 
 
+def test_enrich_album_persists_the_raw_master_response_in_the_cache(make_album) -> None:
+    """Constraint 3: store the raw response verbatim — the master response
+    is what actually supplies these genres/styles, not just the search
+    results that point at it."""
+    client = FakeGenreLookup(
+        barcode_results=[sr(1, master_id=42)],
+        masters={42: dm(42, genres=["Rock"], styles=["Indie Rock"])},
+    )
+    album = make_album()
+
+    enrich_album(client, album)
+
+    import json
+
+    cached = json.loads(cache_path(album.id).read_text())
+    assert cached["master"] == {"id": 42, "genres": ["Rock"], "styles": ["Indie Rock"]}
+
+
 def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(make_album) -> None:
-    client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": ["Emo"]}])
+    client = FakeGenreLookup(barcode_results=[sr(1, master_id=None, genre=["Rock"], style=["Emo"])])
     album = make_album()
 
     result = enrich_album(client, album)
@@ -154,7 +191,7 @@ def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(mak
 
 
 def test_enrich_album_falls_through_to_search_when_no_upc(make_album) -> None:
-    client = FakeGenreLookup(search_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": ["Emo"]}])
+    client = FakeGenreLookup(search_results=[sr(1, master_id=None, genre=["Rock"], style=["Emo"])])
     album = make_album(upc=None)
 
     result = enrich_album(client, album)
@@ -167,7 +204,7 @@ def test_enrich_album_falls_through_to_search_when_no_upc(make_album) -> None:
 
 
 def test_enrich_album_falls_through_to_search_when_barcode_finds_nothing(make_album) -> None:
-    client = FakeGenreLookup(barcode_results=[], search_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
+    client = FakeGenreLookup(barcode_results=[], search_results=[sr(1, master_id=None, genre=["Rock"], style=[])])
     album = make_album()
 
     result = enrich_album(client, album)
@@ -187,7 +224,7 @@ def test_enrich_album_retries_search_with_edition_suffix_stripped(make_album) ->
         barcode_results=[],
         search_results_by_title={
             full_title: [],
-            stripped_title: [{"id": 1, "master_id": None, "genre": ["Hip Hop"], "style": ["Conscious"]}],
+            stripped_title: [sr(1, master_id=None, genre=["Hip Hop"], style=["Conscious"])],
         },
     )
     album = make_album(upc=None, title=full_title)
@@ -223,7 +260,7 @@ def test_enrich_album_no_results_anywhere_yields_empty_genres_and_still_caches(m
 
 
 def test_enrich_album_is_write_once_second_call_never_hits_client(make_album) -> None:
-    client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
+    client = FakeGenreLookup(barcode_results=[sr(1, master_id=None, genre=["Rock"], style=[])])
     album = make_album()
 
     first = enrich_album(client, album)
@@ -237,7 +274,7 @@ def test_enrich_album_is_write_once_second_call_never_hits_client(make_album) ->
 def test_enrich_album_never_touches_fields_it_does_not_own(make_album) -> None:
     """The whole point of model_copy over reconstruction: added_at (frozen,
     decision 12) and every other Stage-0-owned field survive untouched."""
-    client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
+    client = FakeGenreLookup(barcode_results=[sr(1, master_id=None, genre=["Rock"], style=[])])
     album = make_album()
 
     result = enrich_album(client, album)
@@ -272,3 +309,19 @@ def test_build_coverage_report_counts_by_source_and_missing_sub_genre(make_album
     assert report["with_sub_genre"] == 1
     assert report["missing_sub_genre"] == 2
     assert report["by_source"] == {"discogs_genre": 1, "discogs_search": 1}
+    assert report["errors"] == 0
+
+
+def test_build_coverage_report_carries_the_errors_count() -> None:
+    report = build_coverage_report([], errors=3)
+    assert report["errors"] == 3
+
+
+# --- DiscogsAuthError propagation ----------------------------------------------
+
+
+def test_enrich_album_auth_error_is_not_a_generic_failure() -> None:
+    """DiscogsAuthError must be importable and distinct from a plain
+    Exception, so run() can let it propagate instead of degrading — an
+    expired DISCOGS_TOKEN shouldn't log N per-album warnings and exit 0."""
+    assert issubclass(DiscogsAuthError, Exception)

@@ -22,7 +22,7 @@ class DiscogsSearchResult(BaseModel):
     model_config = ConfigDict(extra="allow")  # decision 2: lenient at the boundary
 
     id: int
-    title: str
+    title: str = ""
     master_id: int | None = None
     genre: list[str] = []
     style: list[str] = []
