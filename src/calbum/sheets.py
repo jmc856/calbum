@@ -7,7 +7,7 @@ hand, next run rebuilds it" (the stage's own done-when) true for free —
 there's no separate "did this tab drift from source" logic to get right.
 
 A flat Albums tab (Year as a column, not a tab-per-year split) plus a
-by-genre tab. Only albums with removed_at is None are shown — the Sheet
+by-genre tab. Only active albums (Album.is_active) are shown — the Sheet
 reflects your current keepers, not the full history of everything ever added
 to _selected (that history still lives in albums.json/git either way).
 
@@ -20,22 +20,16 @@ grouping by an individual genre actually works in Sheets. See PLAN.md Stage 2
 from __future__ import annotations
 
 import base64
-import json
 import os
-from pathlib import Path
 from typing import Protocol
 
 from dotenv import load_dotenv
 
 from calbum.models import Album
+from calbum.paths import ALBUMS_PATH
+from calbum.writer import read_albums
 
 load_dotenv()
-
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-DATA_DIR = REPO_ROOT / "data"
-ALBUMS_PATH = DATA_DIR / "albums.json"
-
-SPOTIFY_ALBUM_URL = "https://open.spotify.com/album/{id}"
 
 ALBUMS_TAB_HEADER = ["Album", "Artist(s)", "Year", "Release Date", "Genre", "Sub-genre"]
 GENRE_TAB_HEADER = ["Genre", "Sub-genre", "Album", "Artist(s)", "Year"]
@@ -58,29 +52,15 @@ class SheetBackend(Protocol):
     def replace_tab(self, title: str, rows: list[list[object]]) -> None: ...
 
 
-def load_albums() -> list[Album]:
-    raw = json.loads(ALBUMS_PATH.read_text())
-    return [Album.model_validate(rec) for rec in raw]
-
-
 def hyperlink(album: Album) -> str:
-    url = SPOTIFY_ALBUM_URL.format(id=album.id)
     title = album.title.replace('"', '""')
-    return f'=HYPERLINK("{url}", "{title}")'
-
-
-def _genre_names(album: Album) -> list[str]:
-    return [g.name for g in album.genres if g.kind == "genre"]
-
-
-def _style_names(album: Album) -> list[str]:
-    return [g.name for g in album.genres if g.kind == "style"]
+    return f'=HYPERLINK("{album.spotify_url}", "{title}")'
 
 
 def build_albums_tab_rows(albums: list[Album]) -> list[list[object]]:
     """One row per active album, flat (no per-year split — Year is a column).
     Sorted by title."""
-    active = [a for a in albums if a.removed_at is None]
+    active = [a for a in albums if a.is_active]
 
     rows: list[list[object]] = [list(ALBUMS_TAB_HEADER)]
     for album in sorted(active, key=lambda a: a.title.lower()):
@@ -90,8 +70,8 @@ def build_albums_tab_rows(albums: list[Album]) -> list[list[object]]:
                 MULTI_VALUE_SEP.join(album.artists),
                 album.release_year,
                 album.release_date.isoformat(),
-                MULTI_VALUE_SEP.join(_genre_names(album)),
-                MULTI_VALUE_SEP.join(_style_names(album)),
+                MULTI_VALUE_SEP.join(album.genre_names),
+                MULTI_VALUE_SEP.join(album.style_names),
             ]
         )
     return rows
@@ -103,11 +83,11 @@ def build_genre_tab_rows(albums: list[Album]) -> list[list[object]]:
     browse-by-genre tab. Albums with no genre yet are grouped under
     "(Uncategorized)" rather than silently omitted, so an un-enriched album
     stays visible instead of just vanishing from this tab."""
-    active = [a for a in albums if a.removed_at is None]
+    active = [a for a in albums if a.is_active]
 
     entries: list[tuple[str, Album]] = []
     for album in active:
-        genre_names = _genre_names(album)
+        genre_names = album.genre_names
         if genre_names:
             entries.extend((name, album) for name in genre_names)
         else:
@@ -120,7 +100,7 @@ def build_genre_tab_rows(albums: list[Album]) -> list[list[object]]:
         rows.append(
             [
                 genre_name,
-                MULTI_VALUE_SEP.join(_style_names(album)),
+                MULTI_VALUE_SEP.join(album.style_names),
                 hyperlink(album),
                 MULTI_VALUE_SEP.join(album.artists),
                 album.release_year,
@@ -147,7 +127,7 @@ def run() -> None:
     # protocol, not on gspread.
     from calbum.gsheets.backend import GspreadSheetBackend
 
-    albums = load_albums()
+    albums = read_albums(ALBUMS_PATH)
     backend: SheetBackend = GspreadSheetBackend(
         sa_json=load_sa_json(), sheet_id=os.environ["SHEET_ID"]
     )

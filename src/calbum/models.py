@@ -51,7 +51,13 @@ class Album(BaseModel):
     commitment timestamp even if the earliest-added track is later removed
     from the playlist. A previously-recorded album no longer resolvable from
     `_selected` gets `removed_at` set rather than being deleted.
+
+    Frozen (like Genre): the only way to produce a modified Album is
+    `model_copy(update={...})`, structurally enforcing the field-ownership
+    discipline enrich.py's docstring otherwise only argues for in prose.
     """
+
+    model_config = ConfigDict(frozen=True)
 
     id: str
     artists: list[str]
@@ -68,3 +74,23 @@ class Album(BaseModel):
     cascade (constraint 6). Records which pressing/master was chosen so a
     re-run's choice is auditable, per PLAN.md Stage 1 step 2."""
     source: Literal["spotify", "manual"] = "spotify"
+
+    @property
+    def is_active(self) -> bool:
+        """The single owning definition of "active" — still resolvable from
+        `_selected`, not removed. Every consumer (the mass-removal guard,
+        both Sheet tabs) reads this instead of re-deriving `removed_at is
+        None` independently."""
+        return self.removed_at is None
+
+    @property
+    def genre_names(self) -> list[str]:
+        return [g.name for g in self.genres if g.kind == "genre"]
+
+    @property
+    def style_names(self) -> list[str]:
+        return [g.name for g in self.genres if g.kind == "style"]
+
+    @property
+    def spotify_url(self) -> str:
+        return f"https://open.spotify.com/album/{self.id}"

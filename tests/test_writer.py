@@ -6,29 +6,18 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from calbum.models import Album
-from calbum.writer import dump_albums, write_albums, write_json_atomic
+import pytest
+
+from calbum.writer import dump_albums, read_albums, write_albums, write_json_atomic
 
 
-def make_album(album_id: str, added_at: str = "2020-01-01T00:00:00Z") -> Album:
-    return Album(
-        id=album_id,
-        artists=["Some Artist"],
-        title="Some Title",
-        release_date="2020-01-01",
-        release_year=2020,
-        album_type="album",
-        added_at=added_at,
-    )
-
-
-def test_dump_albums_sorts_by_id() -> None:
+def test_dump_albums_sorts_by_id(make_album) -> None:
     albums = [make_album("b"), make_album("a"), make_album("c")]
     dumped = dump_albums(albums)
     assert [a["id"] for a in dumped] == ["a", "b", "c"]
 
 
-def test_write_albums_is_byte_identical_across_runs(tmp_path: Path) -> None:
+def test_write_albums_is_byte_identical_across_runs(make_album, tmp_path: Path) -> None:
     albums = [make_album("b"), make_album("a")]
     path = tmp_path / "albums.json"
 
@@ -39,6 +28,30 @@ def test_write_albums_is_byte_identical_across_runs(tmp_path: Path) -> None:
     second = path.read_text()
 
     assert first == second
+
+
+def test_read_albums_missing_file_returns_empty_list(tmp_path: Path) -> None:
+    assert read_albums(tmp_path / "does-not-exist.json") == []
+
+
+def test_read_albums_round_trips_write_albums(make_album, tmp_path: Path) -> None:
+    path = tmp_path / "albums.json"
+    albums = [make_album("b"), make_album("a")]
+
+    write_albums(path, albums)
+
+    assert [a.id for a in read_albums(path)] == ["a", "b"]
+
+
+def test_read_albums_rejects_a_file_that_exists_but_is_empty(tmp_path: Path) -> None:
+    """An existing-but-empty albums.json is data loss, not a fresh start —
+    see poll.py's mass-removal guard, which relies on this to never silently
+    read a truncated store as a cold start."""
+    path = tmp_path / "albums.json"
+    path.write_text("[]\n")
+
+    with pytest.raises(SystemExit):
+        read_albums(path)
 
 
 def test_write_json_atomic_sorts_keys_and_indents(tmp_path: Path) -> None:

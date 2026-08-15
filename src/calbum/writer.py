@@ -19,6 +19,27 @@ from pathlib import Path
 from calbum.models import Album
 
 
+def read_albums(path: Path) -> list[Album]:
+    """Read-side counterpart to write_albums. Missing file -> []. A file that
+    exists but parses to an empty list is treated as data loss, not a fresh
+    start (see PLAN.md constraint 1 / the mass-removal guard's cold-start
+    reasoning in poll.py): silently proceeding on a truncated store would
+    let every downstream consumer (poll's mass-removal guard, sheets'
+    replace-tab) rebuild from nothing without noticing anything was wrong.
+    If this is genuinely a fresh start, delete the file first."""
+    path = Path(path)
+    if not path.exists():
+        return []
+    raw = json.loads(path.read_text())
+    if not raw:
+        raise SystemExit(
+            f"{path} exists but contains zero records. This looks like data "
+            "loss, not a fresh start — refusing to proceed. If this is "
+            "genuinely a fresh start, delete the file first."
+        )
+    return [Album.model_validate(rec) for rec in raw]
+
+
 def dump_albums(albums: list[Album]) -> list[dict]:
     """Serialize albums to plain dicts, sorted by album ID. Pure function —
     no I/O — so it's the piece writer determinism tests exercise directly."""

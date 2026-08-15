@@ -4,8 +4,6 @@ that enrichment never touches fields it doesn't own."""
 
 from __future__ import annotations
 
-from datetime import datetime, timezone
-
 import pytest
 
 from calbum.enrich import (
@@ -15,26 +13,34 @@ from calbum.enrich import (
     enrich_album,
     strip_edition_suffix,
 )
-from calbum.models import Album, Genre, GenreSource
+from calbum.models import Genre, GenreSource
 
 
-def make_album(
-    album_id: str = "a1",
-    upc: str | None = "656605144269",
-    genres: list[Genre] | None = None,
-    title: str = "Stranger in the Alps",
-) -> Album:
-    return Album(
-        id=album_id,
-        artists=["Phoebe Bridgers"],
-        title=title,
-        release_date="2017-09-22",
+@pytest.fixture
+def make_album(make_album):
+    """This module's albums default to a real Phoebe Bridgers release (with
+    a UPC, so most enrich_album tests exercise the barcode-first path by
+    default) — everything else defers to the shared conftest.py fixture."""
+
+    def _make_album(
+        album_id="a1",
+        *,
+        artists=None,
+        title="Stranger in the Alps",
         release_year=2017,
-        album_type="album",
-        upc=upc,
-        added_at=datetime(2020, 1, 1, tzinfo=timezone.utc),
-        genres=genres or [],
-    )
+        upc="656605144269",
+        **kwargs,
+    ):
+        return make_album(
+            album_id,
+            artists=artists or ["Phoebe Bridgers"],
+            title=title,
+            release_year=release_year,
+            upc=upc,
+            **kwargs,
+        )
+
+    return _make_album
 
 
 # --- strip_edition_suffix -------------------------------------------------------
@@ -115,10 +121,7 @@ class FakeGenreLookup:
         return self._masters[master_id]
 
 
-def test_enrich_album_barcode_hit_with_master_uses_master_genres(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_barcode_hit_with_master_uses_master_genres(make_album) -> None:
     client = FakeGenreLookup(
         barcode_results=[{"id": 1, "master_id": 42}],
         masters={42: {"id": 42, "genres": ["Rock"], "styles": ["Indie Rock", "Folk"]}},
@@ -138,10 +141,7 @@ def test_enrich_album_barcode_hit_with_master_uses_master_genres(monkeypatch, tm
     assert all(g.source == GenreSource.DISCOGS_STYLE for g in style_entries)
 
 
-def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(make_album) -> None:
     client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": ["Emo"]}])
     album = make_album()
 
@@ -153,10 +153,7 @@ def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(mon
     assert {g.name for g in result.genres if g.kind == "style"} == {"Emo"}
 
 
-def test_enrich_album_falls_through_to_search_when_no_upc(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_falls_through_to_search_when_no_upc(make_album) -> None:
     client = FakeGenreLookup(search_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": ["Emo"]}])
     album = make_album(upc=None)
 
@@ -169,10 +166,7 @@ def test_enrich_album_falls_through_to_search_when_no_upc(monkeypatch, tmp_path)
     assert all(g.source == GenreSource.DISCOGS_SEARCH for g in result.genres)
 
 
-def test_enrich_album_falls_through_to_search_when_barcode_finds_nothing(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_falls_through_to_search_when_barcode_finds_nothing(make_album) -> None:
     client = FakeGenreLookup(barcode_results=[], search_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
     album = make_album()
 
@@ -183,13 +177,10 @@ def test_enrich_album_falls_through_to_search_when_barcode_finds_nothing(monkeyp
     assert result.genres[0].source == GenreSource.DISCOGS_SEARCH
 
 
-def test_enrich_album_retries_search_with_edition_suffix_stripped(monkeypatch, tmp_path) -> None:
+def test_enrich_album_retries_search_with_edition_suffix_stripped(make_album) -> None:
     """Confirmed live: Discogs' release_title search finds 0 results for
     "good kid, m.A.A.d city (Deluxe)" but 50 for the same title without the
     suffix, same master. This is the regression test for that."""
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
     full_title = "good kid, m.A.A.d city (Deluxe)"
     stripped_title = "good kid, m.A.A.d city"
     client = FakeGenreLookup(
@@ -210,12 +201,9 @@ def test_enrich_album_retries_search_with_edition_suffix_stripped(monkeypatch, t
     assert {g.name for g in result.genres} == {"Hip Hop", "Conscious"}
 
 
-def test_enrich_album_does_not_retry_when_title_has_no_suffix_to_strip(monkeypatch, tmp_path) -> None:
+def test_enrich_album_does_not_retry_when_title_has_no_suffix_to_strip(make_album) -> None:
     """An album with no parenthetical suffix and no results anywhere should
     cost exactly one search call, not a redundant identical retry."""
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
     client = FakeGenreLookup(barcode_results=[], search_results=[])
     album = make_album(upc=None, title="Punisher")
 
@@ -224,10 +212,7 @@ def test_enrich_album_does_not_retry_when_title_has_no_suffix_to_strip(monkeypat
     assert len(client.search_calls) == 1
 
 
-def test_enrich_album_no_results_anywhere_yields_empty_genres_and_still_caches(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_no_results_anywhere_yields_empty_genres_and_still_caches(make_album) -> None:
     client = FakeGenreLookup()
     album = make_album()
 
@@ -237,10 +222,7 @@ def test_enrich_album_no_results_anywhere_yields_empty_genres_and_still_caches(m
     assert cache_path(album.id).exists()  # write-once cache still recorded, even for a miss
 
 
-def test_enrich_album_is_write_once_second_call_never_hits_client(monkeypatch, tmp_path) -> None:
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
+def test_enrich_album_is_write_once_second_call_never_hits_client(make_album) -> None:
     client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
     album = make_album()
 
@@ -252,12 +234,9 @@ def test_enrich_album_is_write_once_second_call_never_hits_client(monkeypatch, t
     assert first.genres == second.genres
 
 
-def test_enrich_album_never_touches_fields_it_does_not_own(monkeypatch, tmp_path) -> None:
+def test_enrich_album_never_touches_fields_it_does_not_own(make_album) -> None:
     """The whole point of model_copy over reconstruction: added_at (frozen,
     decision 12) and every other Stage-0-owned field survive untouched."""
-    import calbum.enrich as enrich_module
-
-    monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path)
     client = FakeGenreLookup(barcode_results=[{"id": 1, "master_id": None, "genre": ["Rock"], "style": []}])
     album = make_album()
 
@@ -278,7 +257,7 @@ def test_enrich_album_never_touches_fields_it_does_not_own(monkeypatch, tmp_path
 # --- build_coverage_report ------------------------------------------------------
 
 
-def test_build_coverage_report_counts_by_source_and_missing_sub_genre() -> None:
+def test_build_coverage_report_counts_by_source_and_missing_sub_genre(make_album) -> None:
     albums = [
         make_album("a", genres=[Genre(name="Rock", kind="genre", source=GenreSource.DISCOGS_GENRE),
                                   Genre(name="Indie Rock", kind="style", source=GenreSource.DISCOGS_STYLE)]),

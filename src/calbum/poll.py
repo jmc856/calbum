@@ -25,17 +25,15 @@ from __future__ import annotations
 import json
 import logging
 from collections.abc import Iterator
-from datetime import date, datetime, timezone
+from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Protocol
 
 from calbum.models import Album
+from calbum.paths import ALBUMS_PATH, DATA_DIR
 from calbum.spotify.auth import get_access_token
-from calbum.writer import write_albums
+from calbum.writer import read_albums, write_albums
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-DATA_DIR = REPO_ROOT / "data"
-ALBUMS_PATH = DATA_DIR / "albums.json"
 RAW_SPOTIFY_DIR = DATA_DIR / "raw" / "spotify"
 
 
@@ -73,23 +71,12 @@ class MassRemovalAbort(SystemExit):
 
 
 def load_existing_albums() -> dict[str, Album]:
-    if not ALBUMS_PATH.exists():
-        return {}
-    raw = json.loads(ALBUMS_PATH.read_text())
-    if not raw:
-        # A file that exists but parses to an empty list is indistinguishable
-        # from catastrophic data loss (e.g. truncation the atomic writer was
-        # meant to prevent, or a bad manual edit) — it is NOT the same as a
-        # true cold start (no file at all), and treating it as one would
-        # silently rebuild from whatever this run's playlist read returns,
-        # bypassing the mass-removal guard entirely (previous_active_count
-        # would compute as 0, which the guard can never treat as a "drop").
-        raise SystemExit(
-            f"{ALBUMS_PATH} exists but contains zero records. This looks like "
-            "data loss, not a fresh start — refusing to proceed. If this is "
-            "genuinely a fresh start, delete the file first."
-        )
-    return {rec["id"]: Album.model_validate(rec) for rec in raw}
+    """Cold start (no file at all) returns {}; a file that exists but parses
+    to an empty list raises inside read_albums — see its docstring for why
+    that's treated as data loss, not a fresh start. Not the same case:
+    previous_active_count computing as 0 would let the mass-removal guard
+    below never treat this run's result as a "drop"."""
+    return {album.id: album for album in read_albums(ALBUMS_PATH)}
 
 
 def parse_release_date(value: str) -> date:
@@ -250,7 +237,7 @@ def build_albums(
             # recomputed from playlist state. Clear removed_at if it was
             # previously removed and has now reappeared.
             album = existing[album_id]
-            if album.removed_at is not None:
+            if not album.is_active:
                 result[album_id] = album.model_copy(update={"removed_at": None})
             continue
 
@@ -287,7 +274,7 @@ def build_albums(
 
     # Previously active but not resolved this run -> removed_at, not deleted.
     for album_id, album in existing.items():
-        if album_id not in resolved and album.removed_at is None:
+        if album_id not in resolved and album.is_active:
             result[album_id] = album.model_copy(update={"removed_at": now})
 
     return list(result.values())
@@ -302,7 +289,7 @@ def run() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
     existing = load_existing_albums()
-    previous_active_count = sum(1 for a in existing.values() if a.removed_at is None)
+    previous_active_count = sum(1 for a in existing.values() if a.is_active)
 
     access_token = get_access_token()
     client: AlbumSource = SpotifyClient(access_token)
@@ -317,22 +304,18 @@ def run() -> None:
     by_album = resolve_playlist_items(client, playlist_id)
     resolved = resolve_candidates(client, by_album)
 
-    # Cold start (no albums.json file at all) always passes the guard. Gate on
-    # the file's existence, not on `existing` being non-empty — an
-    # albums.json that exists but was truncated to [] (exactly the
-    # corruption decision 10's atomic write guards against) must still be
-    # treated as "had a prior state" and go through the guard, not be
-    # silently rebuilt as if nothing was ever there.
-    if ALBUMS_PATH.exists():
+    # Cold start (no albums.json at all) skips the guard; an existing-but-
+    # empty file already raised inside read_albums(), via load_existing_albums.
+    if existing:
         check_mass_removal_guard(previous_active_count, len(resolved))
 
-    now = datetime.now(timezone.utc)
+    now = datetime.now(UTC)
     albums = build_albums(existing, resolved, by_album, now)
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     write_albums(ALBUMS_PATH, albums)
 
-    active = sum(1 for a in albums if a.removed_at is None)
+    active = sum(1 for a in albums if a.is_active)
     logger.info("Wrote %d albums (%d active) to %s", len(albums), active, ALBUMS_PATH)
 
 

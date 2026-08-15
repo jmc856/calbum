@@ -32,13 +32,11 @@ from typing import Protocol
 from dotenv import load_dotenv
 
 from calbum.models import Album, Genre, GenreSource
-from calbum.writer import write_albums
+from calbum.paths import ALBUMS_PATH, DATA_DIR
+from calbum.writer import read_albums, write_albums
 
 load_dotenv()
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-DATA_DIR = REPO_ROOT / "data"
-ALBUMS_PATH = DATA_DIR / "albums.json"
 RAW_DISCOGS_DIR = DATA_DIR / "raw" / "discogs"
 
 USER_AGENT = "calbum/0.1 +https://github.com/jmc856/calbum"
@@ -53,11 +51,6 @@ class GenreLookup(Protocol):
     def search_by_barcode(self, barcode: str) -> list[dict]: ...
     def search_by_artist_title_year(self, artist: str, title: str, year: int) -> list[dict]: ...
     def get_master(self, master_id: int) -> dict: ...
-
-
-def load_albums() -> list[Album]:
-    raw = json.loads(ALBUMS_PATH.read_text())
-    return [Album.model_validate(rec) for rec in raw]
 
 
 def cache_path(album_id: str) -> Path:
@@ -204,10 +197,9 @@ def build_coverage_report(albums: list[Album]) -> dict:
     by_source: dict[str, int] = {}
 
     for album in albums:
-        kinds = {g.kind for g in album.genres}
-        if "genre" in kinds:
+        if album.genre_names:
             with_primary += 1
-        if "style" in kinds:
+        if album.style_names:
             with_sub += 1
         if album.genres:
             primary = next((g for g in album.genres if g.kind == "genre"), album.genres[0])
@@ -243,7 +235,7 @@ def run() -> None:
 
     client = DiscogsClient(os.environ["DISCOGS_TOKEN"], USER_AGENT)
 
-    albums = load_albums()
+    albums = read_albums(ALBUMS_PATH)
     updated: list[Album] = []
 
     for album in albums:

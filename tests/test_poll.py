@@ -7,7 +7,6 @@ from datetime import date, datetime, timezone
 
 import pytest
 
-from calbum.models import Album
 from calbum.poll import (
     MassRemovalAbort,
     build_albums,
@@ -128,20 +127,7 @@ def test_guard_boundary_exactly_fifty_uses_percentage_rule() -> None:
 # --- build_albums -------------------------------------------------------------
 
 
-def make_album(album_id: str, added_at: str, removed_at: str | None = None) -> Album:
-    return Album(
-        id=album_id,
-        artists=["Artist"],
-        title="Title",
-        release_date="2020-01-01",
-        release_year=2020,
-        album_type="album",
-        added_at=added_at,
-        removed_at=removed_at,
-    )
-
-
-def test_build_albums_freezes_added_at_for_existing_albums() -> None:
+def test_build_albums_freezes_added_at_for_existing_albums(make_album) -> None:
     existing = {"a1": make_album("a1", added_at="2019-01-01T00:00:00+00:00")}
     resolved = {"a1": {"name": "T", "artists": [{"name": "A"}], "release_date": "2020-01-01",
                         "album_type": "album", "external_ids": {}}}
@@ -152,7 +138,7 @@ def test_build_albums_freezes_added_at_for_existing_albums() -> None:
     assert result["a1"].added_at == datetime(2019, 1, 1, tzinfo=timezone.utc)
 
 
-def test_build_albums_clears_removed_at_when_album_reappears() -> None:
+def test_build_albums_clears_removed_at_when_album_reappears(make_album) -> None:
     existing = {
         "a1": make_album("a1", added_at="2019-01-01T00:00:00+00:00", removed_at="2023-01-01T00:00:00+00:00")
     }
@@ -165,7 +151,7 @@ def test_build_albums_clears_removed_at_when_album_reappears() -> None:
     assert result["a1"].removed_at is None
 
 
-def test_build_albums_sets_removed_at_for_albums_no_longer_resolved() -> None:
+def test_build_albums_sets_removed_at_for_albums_no_longer_resolved(make_album) -> None:
     existing = {"a1": make_album("a1", added_at="2019-01-01T00:00:00+00:00")}
     now = datetime(2024, 1, 1, tzinfo=timezone.utc)
 
@@ -219,30 +205,29 @@ def test_build_albums_degrades_a_single_malformed_album_instead_of_aborting() ->
 
 
 # --- load_existing_albums ----------------------------------------------------
+# ALBUMS_PATH is already redirected to tmp_path/albums.json by conftest.py's
+# autouse redirect_data_paths fixture.
 
 
-def test_load_existing_albums_true_cold_start_returns_empty(monkeypatch, tmp_path) -> None:
-    import calbum.poll as poll_module
-
-    monkeypatch.setattr(poll_module, "ALBUMS_PATH", tmp_path / "does-not-exist.json")
+def test_load_existing_albums_true_cold_start_returns_empty() -> None:
     assert load_existing_albums() == {}
 
 
-def test_load_existing_albums_rejects_a_file_that_exists_but_is_empty(monkeypatch, tmp_path) -> None:
+def test_load_existing_albums_rejects_a_file_that_exists_but_is_empty() -> None:
     """An existing-but-empty albums.json is data loss, not a fresh start, and
     must not be silently treated as a cold start (which would bypass the
     mass-removal guard entirely, since previous_active_count would read 0)."""
     import calbum.poll as poll_module
 
-    path = tmp_path / "albums.json"
-    path.write_text("[]\n")
-    monkeypatch.setattr(poll_module, "ALBUMS_PATH", path)
+    poll_module.ALBUMS_PATH.write_text("[]\n")
 
     with pytest.raises(SystemExit):
         load_existing_albums()
 
 
 # --- resolve_candidates -------------------------------------------------------
+# RAW_SPOTIFY_DIR is already redirected to tmp_path by conftest.py's autouse
+# redirect_data_paths fixture.
 
 
 class FakeAlbumClient:
@@ -259,12 +244,7 @@ class FakeAlbumClient:
         return self._albums[album_id]
 
 
-def test_resolve_candidates_rejects_without_fetching_when_simplified_total_known(
-    monkeypatch, tmp_path
-) -> None:
-    import calbum.poll as poll_module
-
-    monkeypatch.setattr(poll_module, "RAW_SPOTIFY_DIR", tmp_path)
+def test_resolve_candidates_rejects_without_fetching_when_simplified_total_known() -> None:
     client = FakeAlbumClient({})  # would KeyError if fetched — proves it wasn't
     by_album = {
         "stray": [
@@ -279,10 +259,7 @@ def test_resolve_candidates_rejects_without_fetching_when_simplified_total_known
     assert not cache_path("stray").exists()
 
 
-def test_resolve_candidates_keeps_album_at_or_above_threshold(monkeypatch, tmp_path) -> None:
-    import calbum.poll as poll_module
-
-    monkeypatch.setattr(poll_module, "RAW_SPOTIFY_DIR", tmp_path)
+def test_resolve_candidates_keeps_album_at_or_above_threshold() -> None:
     full = {"name": "Kept Album", "total_tracks": 10, "artists": [{"name": "A"}],
             "release_date": "2020-01-01", "album_type": "album", "external_ids": {}}
     client = FakeAlbumClient({"kept": full})
@@ -299,15 +276,10 @@ def test_resolve_candidates_keeps_album_at_or_above_threshold(monkeypatch, tmp_p
     assert cache_path("kept").exists()
 
 
-def test_resolve_candidates_undoes_cache_write_when_only_post_fetch_total_available(
-    monkeypatch, tmp_path
-) -> None:
+def test_resolve_candidates_undoes_cache_write_when_only_post_fetch_total_available() -> None:
     """SimplifiedAlbumObject's total_tracks presence isn't guaranteed — when
     it's absent, the album is fetched (and cached) first, then rejected by
     the full object's total_tracks. The cache write must be undone."""
-    import calbum.poll as poll_module
-
-    monkeypatch.setattr(poll_module, "RAW_SPOTIFY_DIR", tmp_path)
     full = {"name": "Stray", "total_tracks": 12, "artists": [{"name": "A"}],
             "release_date": "2020-01-01", "album_type": "album", "external_ids": {}}
     client = FakeAlbumClient({"stray": full})
