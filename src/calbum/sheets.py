@@ -19,17 +19,11 @@ grouping by an individual genre actually works in Sheets. See PLAN.md Stage 2
 
 from __future__ import annotations
 
-import base64
-import os
 from typing import Protocol
-
-from dotenv import load_dotenv
 
 from calbum.models import Album
 from calbum.paths import ALBUMS_PATH
 from calbum.writer import read_albums
-
-load_dotenv()
 
 ALBUMS_TAB_HEADER = ["Album", "Artist(s)", "Year", "Release Date", "Genre", "Sub-genre"]
 GENRE_TAB_HEADER = ["Genre", "Sub-genre", "Album", "Artist(s)", "Year"]
@@ -57,11 +51,10 @@ def hyperlink(album: Album) -> str:
     return f'=HYPERLINK("{album.spotify_url}", "{title}")'
 
 
-def build_albums_tab_rows(albums: list[Album]) -> list[list[object]]:
+def build_albums_tab_rows(active: list[Album]) -> list[list[object]]:
     """One row per active album, flat (no per-year split — Year is a column).
-    Sorted by title."""
-    active = [a for a in albums if a.is_active]
-
+    Sorted by title. Takes an already-active-filtered list — see run(),
+    which computes it once and passes it to both tab builders."""
     rows: list[list[object]] = [list(ALBUMS_TAB_HEADER)]
     for album in sorted(active, key=lambda a: a.title.lower()):
         rows.append(
@@ -77,14 +70,13 @@ def build_albums_tab_rows(albums: list[Album]) -> list[list[object]]:
     return rows
 
 
-def build_genre_tab_rows(albums: list[Album]) -> list[list[object]]:
+def build_genre_tab_rows(active: list[Album]) -> list[list[object]]:
     """One row per (album, primary genre) pair — an album with more than one
     primary genre appears once per genre, which is the point of a
     browse-by-genre tab. Albums with no genre yet are grouped under
     "(Uncategorized)" rather than silently omitted, so an un-enriched album
-    stays visible instead of just vanishing from this tab."""
-    active = [a for a in albums if a.is_active]
-
+    stays visible instead of just vanishing from this tab. Takes an
+    already-active-filtered list — see run()."""
     entries: list[tuple[str, Album]] = []
     for album in active:
         genre_names = album.genre_names
@@ -109,31 +101,24 @@ def build_genre_tab_rows(albums: list[Album]) -> list[list[object]]:
     return rows
 
 
-def load_sa_json() -> str:
-    """GOOGLE_SA_JSON_B64 is the service-account key JSON, base64-encoded —
-    not stored as raw JSON. The key's private_key field embeds literal `\\n`
-    sequences, and both python-dotenv (loading .env locally) and shells
-    unescape those into real newlines depending on quoting, which corrupts
-    the JSON (a raw newline inside a JSON string is invalid). Base64 has no
-    quotes, backslashes, or newlines to mis-parse, so it survives any
-    .env/shell/GitHub-Actions-secret round trip intact."""
-    encoded = os.environ["GOOGLE_SA_JSON_B64"]
-    return base64.b64decode(encoded).decode("utf-8")
-
-
 def run() -> None:
     # Imported here, not at module level — same pattern as poll.py/enrich.py:
     # everything above this function depends only on the SheetBackend
-    # protocol, not on gspread.
+    # protocol, not on gspread. Credential acquisition (base64 secret
+    # decoding, env vars) is GspreadSheetBackend's concern end to end — see
+    # its from_env() — not this module's.
+    from dotenv import load_dotenv
+
     from calbum.gsheets.backend import GspreadSheetBackend
 
-    albums = read_albums(ALBUMS_PATH)
-    backend: SheetBackend = GspreadSheetBackend(
-        sa_json=load_sa_json(), sheet_id=os.environ["SHEET_ID"]
-    )
+    load_dotenv()
 
-    backend.replace_tab("Albums", build_albums_tab_rows(albums))
-    backend.replace_tab("by-genre", build_genre_tab_rows(albums))
+    albums = read_albums(ALBUMS_PATH)
+    active = [a for a in albums if a.is_active]
+    backend: SheetBackend = GspreadSheetBackend.from_env()
+
+    backend.replace_tab("Albums", build_albums_tab_rows(active))
+    backend.replace_tab("by-genre", build_genre_tab_rows(active))
 
 
 if __name__ == "__main__":

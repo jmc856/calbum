@@ -49,9 +49,14 @@ def test_build_albums_tab_rows_includes_a_year_column(make_album) -> None:
     assert rows[1][year_index] == 1999
 
 
-def test_build_albums_tab_rows_excludes_removed_albums(make_album) -> None:
-    albums = [make_album("kept"), make_album("gone", removed_at="2023-01-01T00:00:00Z")]
-    rows = build_albums_tab_rows(albums)
+def test_build_albums_tab_rows_takes_an_already_filtered_active_list(make_album) -> None:
+    """Filtering to active albums is run()'s job (computed once, shared with
+    build_genre_tab_rows) — this builder trusts what it's given."""
+    all_albums = [make_album("kept"), make_album("gone", removed_at="2023-01-01T00:00:00Z")]
+    active = [a for a in all_albums if a.is_active]
+
+    rows = build_albums_tab_rows(active)
+
     assert len(rows) == 2  # header + only "kept"
 
 
@@ -92,7 +97,8 @@ def test_build_albums_tab_rows_uses_a_separator_that_survives_a_comma_in_a_genre
 
 
 def test_build_albums_tab_rows_empty_when_all_albums_removed(make_album) -> None:
-    rows = build_albums_tab_rows([make_album(removed_at="2023-01-01T00:00:00Z")])
+    album = make_album(removed_at="2023-01-01T00:00:00Z")
+    rows = build_albums_tab_rows([a for a in [album] if a.is_active])
     assert rows == [list(ALBUMS_TAB_HEADER)]
 
 
@@ -119,8 +125,9 @@ def test_build_genre_tab_rows_buckets_genreless_albums_as_uncategorized(make_alb
     assert rows[1][0] == UNCATEGORIZED
 
 
-def test_build_genre_tab_rows_excludes_removed_albums(make_album) -> None:
-    rows = build_genre_tab_rows([make_album("gone", removed_at="2023-01-01T00:00:00Z")])
+def test_build_genre_tab_rows_takes_an_already_filtered_active_list(make_album) -> None:
+    album = make_album("gone", removed_at="2023-01-01T00:00:00Z")
+    rows = build_genre_tab_rows([a for a in [album] if a.is_active])
     assert rows == [list(GENRE_TAB_HEADER)]
 
 
