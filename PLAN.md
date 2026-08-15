@@ -201,6 +201,14 @@ Do not start a stage before the previous one's "done when" is true.
 
 ## Stage 0 — Poller
 
+Implemented as `poll.Poller` (`__init__(self, client: AlbumSource, data_dir:
+Path)`): the client, data dir, and loaded `existing` albums live on `self`
+rather than being re-passed through ~15 module functions by parameter.
+`parse_release_date`, `earliest_added_at`, `simplified_album`,
+`_below_threshold`, and `check_mass_removal_guard` stay free functions —
+pure, don't touch `self`, and are exactly what the test suite exercises in
+isolation.
+
 1. `src/calbum/spotify/auth.py`: refresh token -> access token. Confirm the flow is
    authorization-code-with-client-secret, not PKCE (PKCE rotates the refresh token on
    every use; a static Actions secret would die on first refresh).
@@ -406,16 +414,5 @@ onward is improvement, not rescue. If momentum dies, dying after Stage 2 is a wi
 
 Recorded, not applied — surfaced during code review, deliberately deferred.
 
-- **`poll.py` should be more class-based.** It's currently a flat module of
-  ~15 functions threading `client`, `existing`, `by_album`, etc. through
-  each other by parameter. Recommendation when this gets picked up: a single
-  `Poller` orchestrator class (`__init__(self, client: AlbumSource, data_dir:
-  Path)`), with the current module functions becoming its methods so shared
-  state (the client, the data dir, the loaded `existing` albums) lives on
-  `self` instead of being re-passed everywhere. `parse_release_date`,
-  `earliest_added_at`, `simplified_album`, `_below_threshold`, and
-  `check_mass_removal_guard` should stay free functions — they're pure,
-  don't touch `self`, and are exactly the pieces the test suite exercises in
-  isolation; forcing them onto the class would make them harder to test, not
-  easier. Net effect: fewer names in module scope, less parameter threading,
-  same test surface.
+None currently outstanding. (`poll.py`'s class-based refactor, previously
+recorded here, was applied — see Stage 0.)

@@ -10,6 +10,10 @@ constant at tmp_path, replacing the ~14 per-test `monkeypatch.setattr(...,
 test_enrich.py and test_poll.py. A test that wants the real constant back
 can still monkeypatch it after the fact — this just sets a safe default so
 forgetting the redirect can no longer write into the real data/ tree.
+
+poll.py has no module-level path constants to redirect: Poller takes
+data_dir explicitly (test_poll.py passes tmp_path straight to each Poller
+it constructs), which is the seam PLAN.md's Poller recommendation intended.
 """
 
 from __future__ import annotations
@@ -61,13 +65,10 @@ def make_album() -> Callable[..., Album]:
 def redirect_data_paths(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
     import calbum.enrich as enrich_module
     import calbum.paths as paths_module
-    import calbum.poll as poll_module
     import calbum.sheets as sheets_module
 
     albums_path = tmp_path / "albums.json"
     monkeypatch.setattr(paths_module, "ALBUMS_PATH", albums_path)
-    monkeypatch.setattr(poll_module, "ALBUMS_PATH", albums_path)
-    monkeypatch.setattr(poll_module, "RAW_SPOTIFY_DIR", tmp_path / "raw" / "spotify")
     monkeypatch.setattr(enrich_module, "ALBUMS_PATH", albums_path)
     monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path / "raw" / "discogs")
     monkeypatch.setattr(sheets_module, "ALBUMS_PATH", albums_path)
