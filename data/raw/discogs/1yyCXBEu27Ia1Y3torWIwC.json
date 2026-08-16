@@ -1,0 +1,219 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "638339446482",
+    "artist": "Kevin Abstract",
+    "title": "American Boyfriend: A Suburban Love Story",
+    "year": 2016
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Brockhampton Records",
+        "Empire"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "id": 11163515,
+      "barcode": [
+        "6 38339 44648 2",
+        "638339446482"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1283826,
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/11163515-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "none",
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "thumb": "https://i.discogs.com/9qukmMY7ZedFViIElYbmawNHY4S6zHe60nJFlz_ITtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/NTE1LTE1MTk3NzAy/NjUtODEwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ugOaKNQd1JoueGHH_sXWReiN57ADco0lUcAq1L872yY/rs:fit/g:sm/q:90/h:407/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYz/NTE1LTE1MTk3NzAy/NjUtODEwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11163515",
+      "community": {
+        "want": 368,
+        "have": 73
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kevin Abstract)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "id": 23408945,
+      "barcode": [
+        "6 38339 44648 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1283826,
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/23408945-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "44648",
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "thumb": "https://i.discogs.com/39v9cY9aXp8fYPlwiTavsU319wQrHEFK0FWXGgodXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTQ1LTE2NTM5MjIy/NjItNDEwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GsNYao0cN89rDF_5zfgI8beWszqIEqjOxB7EChIlrhA/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/OTQ1LTE2NTM5MjIy/NjItNDEwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23408945",
+      "community": {
+        "want": 118,
+        "have": 60
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kevin Abstract)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Conscious"
+      ],
+      "id": 18680005,
+      "barcode": [
+        "6 38339 44648 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1283826,
+      "master_url": "https://api.discogs.com/masters/1283826",
+      "uri": "/release/18680005-Kevin-Abstract-American-Boyfriend-A-Suburban-Love-Story",
+      "catno": "44648",
+      "title": "Kevin Abstract - American Boyfriend: A Suburban Love Story",
+      "thumb": "https://i.discogs.com/83FWLvcRjn3UCtp-X_Z5RngsnFHq9rFapCCtS650KuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bCsVyWn3Hhr9CVrS6KYA7mi3nefMPYB9YSDHeQ8SYiQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18680005",
+      "community": {
+        "want": 290,
+        "have": 260
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red [Opaque]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1283826,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

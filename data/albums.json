@@ -60,8 +60,34 @@
       "Madlib",
       "MF DOOM"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 8554,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Leftfield",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Boom Bap",
+        "source": "discogs_search"
+      }
+    ],
     "id": "19bQiwEKhXUBJWY6oV3KZk",
     "release_date": "2004-03-24",
     "release_year": 2004,
@@ -103,8 +129,44 @@
     "artists": [
       "Kevin Abstract"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1283826,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_style"
+      }
+    ],
     "id": "1yyCXBEu27Ia1Y3torWIwC",
     "release_date": "2016-11-18",
     "release_year": 2016,
