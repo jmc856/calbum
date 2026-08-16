@@ -1,5 +1,21 @@
 [
   {
+    "added_at": "2026-08-15T20:26:10Z",
+    "album_type": "album",
+    "artists": [
+      "Kota the Friend"
+    ],
+    "discogs_release_id": null,
+    "genres": [],
+    "id": "0g6leOTleM7GMkiEyyFpbM",
+    "release_date": "2019-05-15",
+    "release_year": 2019,
+    "removed_at": null,
+    "source": "spotify",
+    "title": "FOTO",
+    "upc": "195939497134"
+  },
+  {
     "added_at": "2026-08-13T12:26:35Z",
     "album_type": "album",
     "artists": [
@@ -37,6 +53,24 @@
     "upc": "656605144269"
   },
   {
+    "added_at": "2026-08-15T20:24:33Z",
+    "album_type": "album",
+    "artists": [
+      "Madvillain",
+      "Madlib",
+      "MF DOOM"
+    ],
+    "discogs_release_id": null,
+    "genres": [],
+    "id": "19bQiwEKhXUBJWY6oV3KZk",
+    "release_date": "2004-03-24",
+    "release_year": 2004,
+    "removed_at": null,
+    "source": "spotify",
+    "title": "Madvillainy",
+    "upc": "659457206536"
+  },
+  {
     "added_at": "2026-08-15T11:22:56Z",
     "album_type": "album",
     "artists": [
@@ -62,6 +96,22 @@
     "source": "spotify",
     "title": "good kid, m.A.A.d city (Deluxe)",
     "upc": "00602537214488"
+  },
+  {
+    "added_at": "2026-08-15T20:26:54Z",
+    "album_type": "album",
+    "artists": [
+      "Kevin Abstract"
+    ],
+    "discogs_release_id": null,
+    "genres": [],
+    "id": "1yyCXBEu27Ia1Y3torWIwC",
+    "release_date": "2016-11-18",
+    "release_year": 2016,
+    "removed_at": null,
+    "source": "spotify",
+    "title": "American Boyfriend: A Suburban Love Story",
+    "upc": "638339446482"
   },
   {
     "added_at": "2026-08-13T12:26:45Z",
@@ -99,5 +149,21 @@
     "source": "spotify",
     "title": "Punisher",
     "upc": "656605150062"
+  },
+  {
+    "added_at": "2026-08-15T20:26:42Z",
+    "album_type": "album",
+    "artists": [
+      "Kevin Abstract"
+    ],
+    "discogs_release_id": null,
+    "genres": [],
+    "id": "6wi40lIjhukePWyXRKY7qO",
+    "release_date": "2019-04-25",
+    "release_year": 2019,
+    "removed_at": null,
+    "source": "spotify",
+    "title": "ARIZONA BABY",
+    "upc": "886447681329"
   }
 ]
