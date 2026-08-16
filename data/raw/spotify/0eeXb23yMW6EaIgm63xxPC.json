@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+  },
+  "href": "https://api.spotify.com/v1/albums/0eeXb23yMW6EaIgm63xxPC",
+  "id": "0eeXb23yMW6EaIgm63xxPC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0245e82ae0372a50834825c018",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485145e82ae0372a50834825c018",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Getting Killed",
+  "release_date": "2025-09-26",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0eeXb23yMW6EaIgm63xxPC",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+      "id": "0WCo84qtCKfbyIf1lqQWB4",
+      "name": "Geese",
+      "type": "artist",
+      "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0eeXb23yMW6EaIgm63xxPC/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224824,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WGr8oEBp2RBrorc5ZEx1K",
+        "id": "5WGr8oEBp2RBrorc5ZEx1K",
+        "name": "Trinidad",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5WGr8oEBp2RBrorc5ZEx1K",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185152,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7qOBKhD1a54OvLvVee2tGf",
+        "id": "7qOBKhD1a54OvLvVee2tGf",
+        "name": "Cobra",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7qOBKhD1a54OvLvVee2tGf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248229,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xATIfA17cJDb9pYAuw70Y",
+        "id": "0xATIfA17cJDb9pYAuw70Y",
+        "name": "Husbands",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0xATIfA17cJDb9pYAuw70Y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284532,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gXvwRoP7GYoipYRTXQUxW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gXvwRoP7GYoipYRTXQUxW",
+        "id": "4gXvwRoP7GYoipYRTXQUxW",
+        "name": "Getting Killed",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4gXvwRoP7GYoipYRTXQUxW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 354139,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75DUBuQSZ5fXbp7GHbTmTV",
+        "id": "75DUBuQSZ5fXbp7GHbTmTV",
+        "name": "Islands of Men",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:75DUBuQSZ5fXbp7GHbTmTV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226355,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JENu7srINnXlZC6JtLyEA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JENu7srINnXlZC6JtLyEA",
+        "id": "2JENu7srINnXlZC6JtLyEA",
+        "name": "100 Horses",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2JENu7srINnXlZC6JtLyEA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202201,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0t5EGxGtcu4voodQuS9me4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0t5EGxGtcu4voodQuS9me4",
+        "id": "0t5EGxGtcu4voodQuS9me4",
+        "name": "Half Real",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0t5EGxGtcu4voodQuS9me4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210945,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1g9GiiPPaL7KcDHlDzu7lT",
+        "id": "1g9GiiPPaL7KcDHlDzu7lT",
+        "name": "Au Pays du Cocaine",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1g9GiiPPaL7KcDHlDzu7lT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 208287,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jR6zOQf3HtU2mifXWg6hE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5jR6zOQf3HtU2mifXWg6hE",
+        "id": "5jR6zOQf3HtU2mifXWg6hE",
+        "name": "Bow Down",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5jR6zOQf3HtU2mifXWg6hE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197661,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cbDTZG8lBJqVVa2zqROPI",
+        "id": "5cbDTZG8lBJqVVa2zqROPI",
+        "name": "Taxes",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5cbDTZG8lBJqVVa2zqROPI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 397019,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oevydxCBM8J6aGHKymgl1",
+        "id": "1oevydxCBM8J6aGHKymgl1",
+        "name": "Long Island City Here I Come",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1oevydxCBM8J6aGHKymgl1",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2025 Partisan Records / Play It Again Sam",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2025 Partisan Records / Play It Again Sam",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5400863187996"
+  },
+  "genres": []
+}

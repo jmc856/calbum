@@ -1,0 +1,478 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+  },
+  "href": "https://api.spotify.com/v1/albums/6PBZN8cbwkqm1ERj2BGXJ1",
+  "id": "6PBZN8cbwkqm1ERj2BGXJ1",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d28d2ebdedb220e479743797",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d28d2ebdedb220e479743797",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "good kid, m.A.A.d city",
+  "release_date": "2012",
+  "release_date_precision": "year",
+  "type": "album",
+  "uri": "spotify:album:6PBZN8cbwkqm1ERj2BGXJ1",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6PBZN8cbwkqm1ERj2BGXJ1/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7zdORPbuIBkZHCJXl9J2e5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zdORPbuIBkZHCJXl9J2e5",
+        "id": "7zdORPbuIBkZHCJXl9J2e5",
+        "name": "Sherane a.k.a Master Splinter\u2019s Daughter",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7zdORPbuIBkZHCJXl9J2e5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 310720,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Pwjz3DfvfQWV0rO2V8jyh",
+        "id": "4Pwjz3DfvfQWV0rO2V8jyh",
+        "name": "Bitch, Don\u2019t Kill My Vibe",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4Pwjz3DfvfQWV0rO2V8jyh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212653,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fAyRZ0GHuuvSOEIOwi58N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fAyRZ0GHuuvSOEIOwi58N",
+        "id": "6fAyRZ0GHuuvSOEIOwi58N",
+        "name": "Backseat Freestyle",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6fAyRZ0GHuuvSOEIOwi58N",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 324533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PieESXphabz5AkALFS08X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PieESXphabz5AkALFS08X",
+        "id": "2PieESXphabz5AkALFS08X",
+        "name": "The Art of Peer Pressure",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2PieESXphabz5AkALFS08X",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+            },
+            "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+            "id": "28ExwzUQsvgJooOI0X1mr3",
+            "name": "Jay Rock",
+            "type": "artist",
+            "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 386906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2HbKqm4o0w5wEeEFXm2sD4",
+        "id": "2HbKqm4o0w5wEeEFXm2sD4",
+        "name": "Money Trees",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2HbKqm4o0w5wEeEFXm2sD4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 300160,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zCi4cVFqe6ja16MeGZKRN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zCi4cVFqe6ja16MeGZKRN",
+        "id": "1zCi4cVFqe6ja16MeGZKRN",
+        "name": "Poetic Justice",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1zCi4cVFqe6ja16MeGZKRN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3903Tbix9PdoculpJLikHf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3903Tbix9PdoculpJLikHf",
+        "id": "3903Tbix9PdoculpJLikHf",
+        "name": "good kid",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3903Tbix9PdoculpJLikHf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+            },
+            "href": "https://api.spotify.com/v1/artists/4XqfpACObRB5AsBcUYjL8X",
+            "id": "4XqfpACObRB5AsBcUYjL8X",
+            "name": "MC Eiht",
+            "type": "artist",
+            "uri": "spotify:artist:4XqfpACObRB5AsBcUYjL8X"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 350120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/439TlnnznSiBbQbgXiBqAd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/439TlnnznSiBbQbgXiBqAd",
+        "id": "439TlnnznSiBbQbgXiBqAd",
+        "name": "m.A.A.d city",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:439TlnnznSiBbQbgXiBqAd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313786,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DFjTEueCBYqg7YE05eUJP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DFjTEueCBYqg7YE05eUJP",
+        "id": "3DFjTEueCBYqg7YE05eUJP",
+        "name": "Swimming Pools (Drank) - Extended Version",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3DFjTEueCBYqg7YE05eUJP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 723573,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sd6BRTa0O96tfEbFGhJF9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0sd6BRTa0O96tfEbFGhJF9",
+        "id": "0sd6BRTa0O96tfEbFGhJF9",
+        "name": "Sing About Me, I'm Dying Of Thirst",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0sd6BRTa0O96tfEbFGhJF9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0N41KJ4H6bkPAm2tx7VS8C",
+            "id": "0N41KJ4H6bkPAm2tx7VS8C",
+            "name": "Anna Wise",
+            "type": "artist",
+            "uri": "spotify:artist:0N41KJ4H6bkPAm2tx7VS8C"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 443413,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pdCmGogZHZH3Xv7LnqVrH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pdCmGogZHZH3Xv7LnqVrH",
+        "id": "7pdCmGogZHZH3Xv7LnqVrH",
+        "name": "Real",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7pdCmGogZHZH3Xv7LnqVrH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248093,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6q0zsagVIiAn9zb7vqTmZi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6q0zsagVIiAn9zb7vqTmZi",
+        "id": "6q0zsagVIiAn9zb7vqTmZi",
+        "name": "Compton",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6q0zsagVIiAn9zb7vqTmZi",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+            "id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "name": "JA\u0178-Z",
+            "type": "artist",
+            "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278546,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7635mlfbjmTS7t17pKtl6r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7635mlfbjmTS7t17pKtl6r",
+        "id": "7635mlfbjmTS7t17pKtl6r",
+        "name": "Bitch, Don\u2019t Kill My Vibe - Remix",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7635mlfbjmTS7t17pKtl6r",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2013 Aftermath/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2013 Aftermath/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537362721"
+  },
+  "genres": []
+}

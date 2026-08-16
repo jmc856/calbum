@@ -1,0 +1,428 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
+  },
+  "href": "https://api.spotify.com/v1/albums/5O9TGAJ6Opoya7KCBKKQUA",
+  "id": "5O9TGAJ6Opoya7KCBKKQUA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27368c56b8fd6cc82d6f9dcd8c9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0268c56b8fd6cc82d6f9dcd8c9",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485168c56b8fd6cc82d6f9dcd8c9",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Tigers Blood",
+  "release_date": "2024-03-22",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5O9TGAJ6Opoya7KCBKKQUA",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+      "id": "5IWCU0V9evBlW4gIeGY4zF",
+      "name": "Waxahatchee",
+      "type": "artist",
+      "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5O9TGAJ6Opoya7KCBKKQUA/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 250760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UgbUQ5uKsFLnayVj6Ks4Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UgbUQ5uKsFLnayVj6Ks4Y",
+        "id": "2UgbUQ5uKsFLnayVj6Ks4Y",
+        "name": "3 Sisters",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2UgbUQ5uKsFLnayVj6Ks4Y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 192626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tjrXh3ai7thnmfIyvw3ag"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tjrXh3ai7thnmfIyvw3ag",
+        "id": "3tjrXh3ai7thnmfIyvw3ag",
+        "name": "Evil Spawn",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3tjrXh3ai7thnmfIyvw3ag",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1J9MxJrGNWOJnSxnsizftU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1J9MxJrGNWOJnSxnsizftU",
+        "id": "1J9MxJrGNWOJnSxnsizftU",
+        "name": "Ice Cold",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1J9MxJrGNWOJnSxnsizftU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W91suREEhlmcBriVOKbmb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0W91suREEhlmcBriVOKbmb",
+        "id": "0W91suREEhlmcBriVOKbmb",
+        "name": "Right Back to It",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0W91suREEhlmcBriVOKbmb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2y8Ic1rPLppn7jptFVMQdP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2y8Ic1rPLppn7jptFVMQdP",
+        "id": "2y8Ic1rPLppn7jptFVMQdP",
+        "name": "Burns Out at Midnight",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2y8Ic1rPLppn7jptFVMQdP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 175120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Pwsiv27MMfw3KKiRqHykF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Pwsiv27MMfw3KKiRqHykF",
+        "id": "2Pwsiv27MMfw3KKiRqHykF",
+        "name": "Bored",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2Pwsiv27MMfw3KKiRqHykF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zXilrT5bvV6cFIRsi6kYT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zXilrT5bvV6cFIRsi6kYT",
+        "id": "1zXilrT5bvV6cFIRsi6kYT",
+        "name": "Lone Star Lake",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1zXilrT5bvV6cFIRsi6kYT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7gwAiQLMJLdfjGC2Khd5XG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7gwAiQLMJLdfjGC2Khd5XG",
+        "id": "7gwAiQLMJLdfjGC2Khd5XG",
+        "name": "Crimes of the Heart",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7gwAiQLMJLdfjGC2Khd5XG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wjNvX6OHPHt7dnfom05sV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wjNvX6OHPHt7dnfom05sV",
+        "id": "5wjNvX6OHPHt7dnfom05sV",
+        "name": "Crowbar",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5wjNvX6OHPHt7dnfom05sV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0oyG1sw4BKKGdXkVZTZeSs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0oyG1sw4BKKGdXkVZTZeSs",
+        "id": "0oyG1sw4BKKGdXkVZTZeSs",
+        "name": "365",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0oyG1sw4BKKGdXkVZTZeSs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HYoUVHE9Kh4z9XXtn1I78"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HYoUVHE9Kh4z9XXtn1I78",
+        "id": "5HYoUVHE9Kh4z9XXtn1I78",
+        "name": "The Wolves",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5HYoUVHE9Kh4z9XXtn1I78",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MbOp1qzhzcQ19vk8KXJBy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MbOp1qzhzcQ19vk8KXJBy",
+        "id": "1MbOp1qzhzcQ19vk8KXJBy",
+        "name": "Tigers Blood",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1MbOp1qzhzcQ19vk8KXJBy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229795,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0nuneId81O8XGxUjSCL316"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nuneId81O8XGxUjSCL316",
+        "id": "0nuneId81O8XGxUjSCL316",
+        "name": "Much Ado About Nothing",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0nuneId81O8XGxUjSCL316",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 Anti",
+      "type": "C"
+    },
+    {
+      "text": "2024 Anti",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0045778805365"
+  },
+  "genres": []
+}

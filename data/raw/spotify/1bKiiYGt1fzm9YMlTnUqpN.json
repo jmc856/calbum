@@ -1,0 +1,310 @@
+{
+  "album_type": "album",
+  "total_tracks": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+  },
+  "href": "https://api.spotify.com/v1/albums/1bKiiYGt1fzm9YMlTnUqpN",
+  "id": "1bKiiYGt1fzm9YMlTnUqpN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b18fae872e1700b83e72a15b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b18fae872e1700b83e72a15b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Manning Fireworks",
+  "release_date": "2024-09-06",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1bKiiYGt1fzm9YMlTnUqpN",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+      "id": "4tK6Z8fK7Sc9133byjPGIT",
+      "name": "MJ Lenderman",
+      "type": "artist",
+      "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1bKiiYGt1fzm9YMlTnUqpN/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Ge9RrMoV65nlpjQ5YJOut",
+        "id": "6Ge9RrMoV65nlpjQ5YJOut",
+        "name": "Manning Fireworks",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Ge9RrMoV65nlpjQ5YJOut",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zFtMNj2s82nml4wSKbtyL",
+        "id": "2zFtMNj2s82nml4wSKbtyL",
+        "name": "Joker Lips",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2zFtMNj2s82nml4wSKbtyL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0HJll1OUSh4FUrDUKG0ikX",
+        "id": "0HJll1OUSh4FUrDUKG0ikX",
+        "name": "Rudolph",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0HJll1OUSh4FUrDUKG0ikX",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4j2DQgFAyVuKOBFpq4vEPR",
+        "id": "4j2DQgFAyVuKOBFpq4vEPR",
+        "name": "Wristwatch",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4j2DQgFAyVuKOBFpq4vEPR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hJ5jWbqstdYt555NhdtNk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hJ5jWbqstdYt555NhdtNk",
+        "id": "4hJ5jWbqstdYt555NhdtNk",
+        "name": "She's Leaving You",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4hJ5jWbqstdYt555NhdtNk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/390va8aPXS8bx739aukb00"
+        },
+        "href": "https://api.spotify.com/v1/tracks/390va8aPXS8bx739aukb00",
+        "id": "390va8aPXS8bx739aukb00",
+        "name": "Rip Torn",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:390va8aPXS8bx739aukb00",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ZBQPkEYHOv3LfgU6v0h0S",
+        "id": "1ZBQPkEYHOv3LfgU6v0h0S",
+        "name": "You Don't Know The Shape I'm In",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1ZBQPkEYHOv3LfgU6v0h0S",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 232066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dhGBLwD6HF5e1SZg7B9Hf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dhGBLwD6HF5e1SZg7B9Hf",
+        "id": "3dhGBLwD6HF5e1SZg7B9Hf",
+        "name": "On My Knees",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3dhGBLwD6HF5e1SZg7B9Hf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+            "id": "4tK6Z8fK7Sc9133byjPGIT",
+            "name": "MJ Lenderman",
+            "type": "artist",
+            "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 600893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6UvQTqdGMaJLbkvsG1E2pc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6UvQTqdGMaJLbkvsG1E2pc",
+        "id": "6UvQTqdGMaJLbkvsG1E2pc",
+        "name": "Bark At The Moon",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6UvQTqdGMaJLbkvsG1E2pc",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 Anti",
+      "type": "C"
+    },
+    {
+      "text": "2024 Anti",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0045778801367"
+  },
+  "genres": []
+}

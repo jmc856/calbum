@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ"
+  },
+  "href": "https://api.spotify.com/v1/albums/4RT2pNX9ZXCB0LtqfI2sdJ",
+  "id": "4RT2pNX9ZXCB0LtqfI2sdJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2738af65a82cdd9104f19e4047b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e028af65a82cdd9104f19e4047b",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048518af65a82cdd9104f19e4047b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "3D Country",
+  "release_date": "2023-06-23",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:4RT2pNX9ZXCB0LtqfI2sdJ",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+      },
+      "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+      "id": "0WCo84qtCKfbyIf1lqQWB4",
+      "name": "Geese",
+      "type": "artist",
+      "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4RT2pNX9ZXCB0LtqfI2sdJ/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 232851,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XUQ0AYl4HPE0oK0qt70qw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XUQ0AYl4HPE0oK0qt70qw",
+        "id": "2XUQ0AYl4HPE0oK0qt70qw",
+        "name": "2122",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2XUQ0AYl4HPE0oK0qt70qw",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313577,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1h0TAXegSmZzATP3MhqGbH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1h0TAXegSmZzATP3MhqGbH",
+        "id": "1h0TAXegSmZzATP3MhqGbH",
+        "name": "3D Country",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1h0TAXegSmZzATP3MhqGbH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170537,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5vtJPJsiwW5BZAYo8Nla0n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5vtJPJsiwW5BZAYo8Nla0n",
+        "id": "5vtJPJsiwW5BZAYo8Nla0n",
+        "name": "Cowboy Nudes",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5vtJPJsiwW5BZAYo8Nla0n",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180807,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gFFHAj5iwUEHwPpjZTdi5",
+        "id": "4gFFHAj5iwUEHwPpjZTdi5",
+        "name": "I See Myself",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4gFFHAj5iwUEHwPpjZTdi5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 419526,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dYfU6HCAHFom8pfwnMaEV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dYfU6HCAHFom8pfwnMaEV",
+        "id": "1dYfU6HCAHFom8pfwnMaEV",
+        "name": "Undoer",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1dYfU6HCAHFom8pfwnMaEV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 158891,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1m6aehT6ZJkTG89OkV7lAo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1m6aehT6ZJkTG89OkV7lAo",
+        "id": "1m6aehT6ZJkTG89OkV7lAo",
+        "name": "Crusades",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1m6aehT6ZJkTG89OkV7lAo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241064,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ChW3R8Ce4vtrcrCpKLh9A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ChW3R8Ce4vtrcrCpKLh9A",
+        "id": "0ChW3R8Ce4vtrcrCpKLh9A",
+        "name": "Gravity Blues",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0ChW3R8Ce4vtrcrCpKLh9A",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195948,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SRJRU4jsABJpJ6upuU90y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6SRJRU4jsABJpJ6upuU90y",
+        "id": "6SRJRU4jsABJpJ6upuU90y",
+        "name": "Mysterious Love",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6SRJRU4jsABJpJ6upuU90y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228392,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QIeGR44ZkoPEIdXLoMg6e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QIeGR44ZkoPEIdXLoMg6e",
+        "id": "3QIeGR44ZkoPEIdXLoMg6e",
+        "name": "Domoto",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3QIeGR44ZkoPEIdXLoMg6e",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 271718,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PCKMPD6nfPXJvfUaCSMN3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PCKMPD6nfPXJvfUaCSMN3",
+        "id": "2PCKMPD6nfPXJvfUaCSMN3",
+        "name": "Tomorrow's Crusades",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2PCKMPD6nfPXJvfUaCSMN3",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+            "id": "0WCo84qtCKfbyIf1lqQWB4",
+            "name": "Geese",
+            "type": "artist",
+            "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200753,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4AL7eNtRrXQtP8xkmUR6mB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4AL7eNtRrXQtP8xkmUR6mB",
+        "id": "4AL7eNtRrXQtP8xkmUR6mB",
+        "name": "St. Elmo",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4AL7eNtRrXQtP8xkmUR6mB",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2025 Partisan Records / Play It Again Sam",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2025 Partisan Records / Play It Again Sam",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5400863090043"
+  },
+  "genres": []
+}

@@ -1,0 +1,333 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+  },
+  "href": "https://api.spotify.com/v1/albums/1W04wu2W4OIcuiNc5AMB3y",
+  "id": "1W04wu2W4OIcuiNc5AMB3y",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2734eb80469be3cfbbd3471081d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e024eb80469be3cfbbd3471081d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048514eb80469be3cfbbd3471081d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Only God Was Above Us",
+  "release_date": "2024-04-05",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1W04wu2W4OIcuiNc5AMB3y",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+      "id": "5BvJzeQpmsdsFp4HGUYUEx",
+      "name": "Vampire Weekend",
+      "type": "artist",
+      "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1W04wu2W4OIcuiNc5AMB3y/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216333,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19aa6Goj4OAsZUX8hSt6nW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/19aa6Goj4OAsZUX8hSt6nW",
+        "id": "19aa6Goj4OAsZUX8hSt6nW",
+        "name": "Ice Cream Piano",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:19aa6Goj4OAsZUX8hSt6nW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4DlGLD32K7shuL8ub067DL",
+        "id": "4DlGLD32K7shuL8ub067DL",
+        "name": "Classical",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4DlGLD32K7shuL8ub067DL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 249560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4oAGV7IADPWfkpk6aGQqZt",
+        "id": "4oAGV7IADPWfkpk6aGQqZt",
+        "name": "Capricorn",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4oAGV7IADPWfkpk6aGQqZt",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 310066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Oko2TgOzXPLlE2dbbsNKV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Oko2TgOzXPLlE2dbbsNKV",
+        "id": "3Oko2TgOzXPLlE2dbbsNKV",
+        "name": "Connect",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3Oko2TgOzXPLlE2dbbsNKV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NiaHPlgDp7081zSqXuULS",
+        "id": "0NiaHPlgDp7081zSqXuULS",
+        "name": "Prep-School Gangsters",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0NiaHPlgDp7081zSqXuULS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 347373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tPOlAEXHaXXIJGNR9Ljiy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tPOlAEXHaXXIJGNR9Ljiy",
+        "id": "0tPOlAEXHaXXIJGNR9Ljiy",
+        "name": "The Surfer",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0tPOlAEXHaXXIJGNR9Ljiy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7EBmnpMsikHSmwOoCnAKrd",
+        "id": "7EBmnpMsikHSmwOoCnAKrd",
+        "name": "Gen-X Cops",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7EBmnpMsikHSmwOoCnAKrd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6OjwIdLlkjCLuOThOwODEY",
+        "id": "6OjwIdLlkjCLuOThOwODEY",
+        "name": "Mary Boone",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6OjwIdLlkjCLuOThOwODEY",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1vfG5VaQQzr7x7gCbVyQFF",
+        "id": "1vfG5VaQQzr7x7gCbVyQFF",
+        "name": "Pravda",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1vfG5VaQQzr7x7gCbVyQFF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+            },
+            "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+            "id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "name": "Vampire Weekend",
+            "type": "artist",
+            "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 477880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sBrebz7XnIbwSdWgWasLr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sBrebz7XnIbwSdWgWasLr",
+        "id": "5sBrebz7XnIbwSdWgWasLr",
+        "name": "Hope",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5sBrebz7XnIbwSdWgWasLr",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2024 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Spring Snow, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196871790307"
+  },
+  "genres": []
+}
