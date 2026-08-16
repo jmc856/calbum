@@ -1,0 +1,978 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "191400040854",
+    "artist": "Big Thief",
+    "title": "Dragon New Warm Mountain I Believe In You",
+    "year": 2022
+  },
+  "results": [
+    {
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "LLC UK"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Acoustic"
+      ],
+      "id": 22125994,
+      "barcode": [
+        "1 91400 04082 3",
+        "191400040823",
+        "LC 05807",
+        "ASCAP",
+        "LLC UK 4AD0408CD 12 A00",
+        "IFPI L556",
+        "IFPI 94V5",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 94V5",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 94K2",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 946P"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22125994-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CD",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/g4QGAgPsdWcFKu7eKYjfzjhTtvMv9W1npV8zO9xXFzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI1/OTk0LTE2NDQ2NjQz/NzgtMzg0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/H_oCiATRTwZYLSbUWT4_Hktuw2_eGo-Jrkg5mwsLCmg/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI1/OTk0LTE2NDQ2NjQz/NzgtMzg0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22125994",
+      "community": {
+        "want": 229,
+        "have": 802
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "id": 21972565,
+      "barcode": [
+        "1 91400 04082 3",
+        "191400040823",
+        "4AD0408CD 6745-CD-4954 21-266-13",
+        "IFPI LK13",
+        "IFPI L823",
+        "4AD0408CD 6745-CD-4954 25-316-18-2",
+        "IFPI LV09",
+        "IFPI L814",
+        "LC 05807"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/21972565-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CD",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4_KfERB5AIV5Xu9iuTk6-kQFx45naFTeLmyGJjjIogU/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21972565",
+      "community": {
+        "want": 489,
+        "have": 1002
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "4AD",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Vinyl Me, Please",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Acoustic"
+      ],
+      "id": 22129498,
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A TELEGRAPH DRAGON ",
+        "231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "231690E3 1041667",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "231690E4 1041885"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22129498-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/9NnEDcMv3_UIG7dcIQHRKsmhHuvCv4Bs_tJBgENth9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/NDk4LTE2NDUzMjQz/MzItNDY2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BfQg7qlyHaNnkJ-QIAqi4fT_SKRjJcOkaunxuEaPbns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/NDk4LTE2NDUzMjQz/MzItNDY2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22129498",
+      "community": {
+        "want": 676,
+        "have": 836
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "Music Gardens",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "MPO",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 22146373,
+      "barcode": [
+        "191400040816",
+        "191400040830",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 22253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 22 253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22 254490",
+        "4AD0408LP D TELEGRAPH DRAGON MPO 22 254398",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP C2 MPO 22 254391 -CVU-",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22 254398"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22146373-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/WjN7Cawhut1HCcHxbprkAoQpqPnD1E8WdJfBMKbLs0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ2/MzczLTE2NDUyOTAy/NDUtNzA5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o7BtBTjnflZdoWVZBKlh6qZ1LVimwsCZSpEPc743wds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ2/MzczLTE2NDUyOTAy/NDUtNzA5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22146373",
+      "community": {
+        "want": 507,
+        "have": 1259
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "id": 22192015,
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A MPO 21248834 TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON MPO 21249040",
+        "4AD0408LP C MPO 21248935 TELEGRAPH DRAGON",
+        "4AD0408LP D MPO 21248625 TELEGRAPH DRAGON",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 21248860",
+        "4AD0408LP B TELEGRAPH DRAGON MPO 21248316",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 21248935",
+        "4AD0408LP D TELEGRAPH DRAGON MPO 21248757",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22192015-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/_uvMgLDv2_ODZlnvEXOlzz-4cgDpaX16vj_Q9SNsDHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTky/MDE1LTE3MDU2Nzgx/ODQtMjUxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/E2FrledCyMVZSPaRYwJQUv6vWzFIPCQTf7HYhiFkpP8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTky/MDE1LTE3MDU2Nzgx/ODQtMjUxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22192015",
+      "community": {
+        "want": 429,
+        "have": 1365
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 22423321,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22423321-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/Z8qYCFF4Cq-KM4N43G8DAoqKAxD1D-2ykYnipNbgmXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzIxLTE2NDY2NzIy/NTEtNTIzOS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/SPQI_O1GCjvZ7_26yS8FM2c8UTCmzOSuGCiO3pjOy5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzIxLTE2NDY2NzIy/NTEtNTIzOS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22423321",
+      "community": {
+        "want": 47,
+        "have": 37
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "20",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "4AD Ltd.",
+        "Beat Records",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 29556679,
+      "barcode": [
+        "4580211855553",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/29556679-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CDJP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/qcIFRq4XlsM-c4CawHXWE2Lky4sqESZKX_S_kkAs1d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTU2/Njc5LTE3MDU4NDcw/MjMtODM1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wYbDMQfHNAatUz5UOWT1ycywS0JiL9GkWTb_g9DHDAg/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTU2/Njc5LTE3MDU4NDcw/MjMtODM1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29556679",
+      "community": {
+        "want": 79,
+        "have": 7
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "The Elf Inn",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Telegraph Mastering",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 22161811,
+      "barcode": [
+        "191400040816",
+        "1 91400 04081 6",
+        "191400040830",
+        "1 91400 04083 0",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22161811-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/_Or51BwkAOjwwx7k-smU8JNvqxbFJKJoLS1rIiaTkoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYx/ODExLTE2NDQ4OTAw/MzktNTQ0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9xYMm5R72SqLY-0xAyj1_k71PDw5nuMesiJ5AptWP9w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYx/ODExLTE2NDQ4OTAw/MzktNTQ0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22161811",
+      "community": {
+        "want": 717,
+        "have": 4221
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2022",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Fivestarstudios",
+        "Flying Cloud Studios, NY",
+        "Press On Studio",
+        "Studio In The Clouds",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Beggars Group",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 35856298,
+      "barcode": [
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/35856298-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "none",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/G_NS0BK3_cXMbH5g0p4TodaeeI8HMoobS6Eya9imCXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU2/Mjk4LTE3NjUwMzM4/NjktNTk2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IZU2oQyXxqiUYXDGwGGIh3kT9wPdnjCxAfSQpbXB4UU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU2/Mjk4LTE3NjUwMzM4/NjktNTk2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35856298",
+      "community": {
+        "want": 8,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "20",
+          "text": "24-Bit / 96-kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "id": 24416642,
+      "barcode": [
+        "1 91400 04081 6",
+        "191400040816",
+        "ASCAP ",
+        "4AD0408LP A TELEGRAPH DRAGON / 231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON  / 231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON  / 231690E3 1158659",
+        "4AD0408LP D TELEGRAPH DRAGON / 231690E4 1041885",
+        "4AD0408LP A TELEGRAPH DRAGON / 231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON  / 231690E2 XXXXXXX 1877175",
+        "4AD0408LP C TELEGRAPH DRAGON  / 231690E3 1868338",
+        "4AD0408LP D TELEGRAPH DRAGON / 231690E4 1490485"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/24416642-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/r5hXfZ7XnwuQZvUATxkrSUgCUuEzsw41M6ypVxYDbKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/NjQyLTE2NzgyMjAy/NDktMjA3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lYV2HvmpPtKIk5ghQkdvNuaaknI_bbyvTyFs7GVDmSI/rs:fit/g:sm/q:90/h:511/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/NjQyLTE2NzgyMjAy/NDktMjA3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24416642",
+      "community": {
+        "want": 327,
+        "have": 876
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "id": 22078948,
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22078948-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/0iBQSFKZTgIzd__ttNxZ9rPVjs4u9dLsL47Tu8z2CWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/OTQ4LTE2NDQzNjAw/NDEtODQ2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/c0JgX3iYasX9HMSa7XAoiLuaHbboWzNs_WJAcu4e-hw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/OTQ4LTE2NDQzNjAw/NDEtODQ2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22078948",
+      "community": {
+        "want": 998,
+        "have": 4947
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "4AD Ltd.",
+        "Beat Records",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22181830,
+      "barcode": [
+        "4580211855553",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22181830-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CDJP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/4zX2hzz2PJDpMf6s4YTNqB8Zl0oJeAg9tN2iyl2lI28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgx/ODMwLTE3MTc5NTUy/OTgtNTg5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cKNUPwsKLnYFtHMMKlbLiC1ZSUlhqk0r7ySAFk7HH_A/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgx/ODMwLTE3MTc5NTUy/OTgtNTg5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22181830",
+      "community": {
+        "want": 146,
+        "have": 55
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Telegraph Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 22078003,
+      "barcode": [
+        "1 91400 04081 6",
+        "191400040830",
+        "4AD0408LP A TELEGRAPH DRAGON 231690E1 1125183",
+        "4AD0408LP B TELEGRAPH DRAGON 231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON 231690E3 1041887",
+        "4AD0408LP D TELEGRAPH DRAGON 231690E4 1041885",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22078003-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/v1wj-fW8Z4U-ZNfnDDjwISxNtsnB8SBOH9HlN0hQLp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/MDAzLTE2NDQzNjE3/NDUtOTEyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ukPI0hVHi7pBAqY0DxjO8xuVz3tBIXeaIYzeBWpV8ao/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/MDAzLTE2NDQzNjE3/NDUtOTEyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22078003",
+      "community": {
+        "want": 1009,
+        "have": 3360
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Country Rock"
+      ],
+      "id": 22174120,
+      "barcode": [
+        "191400040847"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2501125,
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22174120-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408MC",
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "thumb": "https://i.discogs.com/FDAOrp0dAkQbI-iP7fmH3kRsx7nl0IwNDJkBTqKPQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc0/MTIwLTE3ODU0NzA2/OTYtMTg2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OdbvJrP-H1F0CnhyUcW3LCAHJmYw_h07quKiAWKxbww/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc0/MTIwLTE3ODU0NzA2/OTYtMTg2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22174120",
+      "community": {
+        "want": 131,
+        "have": 114
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 2501125,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

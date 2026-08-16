@@ -1,0 +1,639 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "191400064959",
+    "artist": "Adrianne Lenker",
+    "title": "Bright Future",
+    "year": 2024
+  },
+  "results": [
+    {
+      "country": "UK & US",
+      "year": "2024",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "4AD",
+        "Domino Music Publishing",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 33463154,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/33463154-Adrianne-Lenker-Bright-Future",
+      "catno": "none",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/aKPulzYvmOQIyIgEzgUJURjIDjssODpTw4She1EJ8wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDYz/MTU0LTE3NDI0NzYz/ODYtOTQ0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/d00sHdYGMM3nOpknl7N4dkf0oSct3HIeqXVfNQ1fRGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDYz/MTU0LTE3NDI0NzYz/ODYtOTQ0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33463154",
+      "community": {
+        "want": 23,
+        "have": 18
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-Bit / 96-kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30169220,
+      "barcode": [
+        "4582616193025"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30169220-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649CDJP",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/MRbRmHTt_9qlPo9JEyTDuPB9MBh4L0G5C-t_jp1fRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/C_h9KIugyhbiOYHGJj1996U_Makd53-0y6CRTcKT-nE/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30169220",
+      "community": {
+        "want": 82,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 32509515,
+      "barcode": [
+        "1 91400 06492 8",
+        "4AD4609CD 6745-CD-6175 24-050-09-2",
+        "IFPI LY89",
+        "IFPI L815"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/32509515-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649CD",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/kWL7u6cmfP66WQqSG_Pmq3f16pj9ZXx_FgCpN9_HbH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA5/NTE1LTE3MzM2NjQx/NDgtOTk4NS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/Lf29wUKTcBTxZBOFMoIixv66mYM7AsXhJ_kSH_eI4EU/rs:fit/g:sm/q:90/h:326/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA5/NTE1LTE3MzM2NjQx/NDgtOTk4NS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32509515",
+      "community": {
+        "want": 84,
+        "have": 82
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "4AD",
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Bonati Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30169163,
+      "barcode": [
+        "1 91400 06490 4",
+        "BN03846-01 A1 4AD0649LP A  S= BONATI MASTERING NYC",
+        "BN03846-01 B2 BONATI MASTERING NYC 4AD0649LP B RE1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30169163-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649LPE",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/h4xQrv9IqpaoOgTcGQQqla4ZHkUbk2dFw8-iazxZv5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTYzLTE3MTEzMjE4/MDctMzE3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/R9yI3is6FZnxc8GGv62S58_GhFNNFHvpin6jB192leY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTYzLTE3MTEzMjE4/MDctMzE3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30169163",
+      "community": {
+        "want": 554,
+        "have": 2267
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Recycled Coloured",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30202751,
+      "barcode": [
+        "1 91400 06492 8",
+        "191400064928",
+        "LC 05807",
+        "4AD0649CD AO09743-01 manufactured by optimal media GmbH",
+        "IFPI L577",
+        "IFPI 9708",
+        "4AD0649CD AO09743-01 manufactured by optimal media GmbH",
+        "IFPI L577",
+        "IFPI 9706"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30202751-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649CD",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/jJbBpWuRFcmNJ99D7CIyLrAgzUq7KT6KB9RJ7pj6Gvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAy/NzUxLTE3MTE3MzA5/ODUtODQ4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TKn55Zk64DNWHtcsazJa0jKuH8wM6NIzTxY4rNB_qYg/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAy/NzUxLTE3MTE3MzA5/ODUtODQ4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30202751",
+      "community": {
+        "want": 258,
+        "have": 668
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30139496,
+      "barcode": [
+        "4AD0649LP A 4 BONATI MASTERING NYC",
+        "4AD0649LP B RE1 #1 BONATI MASTERING NYC",
+        "4582616193032"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30139496-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649LPJP",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/7JNBwIUx6buDYo335zdQPQj2eIGholRucVLFGTeohsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM5/NDk2LTE3MTIwOTky/MDEtOTUyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mrtS9iQfmUN0nW-37lLfNOE8VcW884a93C2_Em_XqDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM5/NDk2LTE3MTIwOTky/MDEtOTUyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30139496",
+      "community": {
+        "want": 187,
+        "have": 86
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Recycled",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30169109,
+      "barcode": [
+        "0191400064911",
+        "4AD0549LP A 3 51 BONATI MASTERING NYC BN03246-01 A1",
+        "4AD0549LP B RE1 #3 BN03846-01 B2 BONATI MASTERING NYC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30169109-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649LP",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/B5ftg1pmEYafJFBGSjJvbA4HPz7RYE7fMlZKIw18-9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTA5LTE3MTExMjcx/NDEtNTAxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ml3qngBIMW-u7Bf6EhtLE0hsneqYOBmaCIPbVpB1nzA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTA5LTE3MTExMjcx/NDEtNTAxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30169109",
+      "community": {
+        "want": 370,
+        "have": 1935
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "Cassette"
+      ],
+      "label": [
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30376037,
+      "barcode": [
+        "191400064942"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30376037-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649MC",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/C07iP_JwFwJzKEAnVLQf1VPfO-jo20sWOXAhcwvflN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc2/MDM3LTE3MjQwMDgy/MTUtOTkxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-8frHf368tCIo-nq25xqlGMgExHAPQtZ1z0vHV4QMSA/rs:fit/g:sm/q:90/h:940/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc2/MDM3LTE3MjQwMDgy/MTUtOTkxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30376037",
+      "community": {
+        "want": 57,
+        "have": 40
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30099599,
+      "barcode": [
+        "1 91400 06490 4",
+        "4AD0649LP A 4 BONATI MASTERING NYC",
+        "4AD0649LP B RE1 #1 BONATI MASTERING NYC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30099599-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649LPE",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/Fjg7YUEx1a3ZpEPlhoEE3-cViHUe5o09A1QOXI_XaW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uGzQK0JBJh-yjPytvBsvgAz1lBhWzZ7LBV8g774C9fk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30099599",
+      "community": {
+        "want": 552,
+        "have": 1948
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Recycled",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering",
+        "Bonati Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30698185,
+      "barcode": [
+        "0191400064911",
+        "1 91400 06491 1",
+        "BONATI MASTERING NYC 4AD0649LP A 4",
+        "BONATI MASTERING NYC 4AD0649LP B RE1 #1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30698185-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649LP",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/fAYrUvgnbSFPh0B2FPCNaXOAqL2QiUj3Akw3eFBJcvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk4/MTg1LTE3MTU5MDA1/NjctMzk3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vR35XFDjFof7RnLAO05UHEYuyF9z_-KG2pEcfErx6Z8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk4/MTg1LTE3MTU5MDA1/NjctMzk3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30698185",
+      "community": {
+        "want": 283,
+        "have": 960
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 3430172,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

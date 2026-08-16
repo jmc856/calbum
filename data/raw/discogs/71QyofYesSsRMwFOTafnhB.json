@@ -1,0 +1,482 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "859717379530",
+    "artist": "Chance the Rapper",
+    "title": "Coloring Book",
+    "year": 2016
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)",
+        "Mixunit.com",
+        "Mixtapes.com"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 16023423,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/16023423-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/mp-ev7BjY9Y_BCVkP79-DJmpjhVZ6otC_gEsUMGRWFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NDIzLTE2MDIwNjgz/OTUtOTUyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uakYKumB4SOhUwoqUZAuKjxcZBnKsn-cG-8z1q5i2p8/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NDIzLTE2MDIwNjgz/OTUtOTUyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16023423",
+      "community": {
+        "want": 57,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mixtape",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 8888067,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/8888067-Chance-The-Rapper-Coloring-Book",
+      "catno": "CTRCB3",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/8a5Lew6pHkYPXPO22K1CPEiCf2eD2mSFVvYiE72ttQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgw/NjctMTQ3OTU1MTA5/OS02MzM1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/w52sXWJSdHaD-tLwvkMU2uRiZ6Por_vZHr-I7YXBIUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgw/NjctMTQ3OTU1MTA5/OS02MzM1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8888067",
+      "community": {
+        "want": 1390,
+        "have": 1279
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mixtape",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mixtape",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)",
+        "Chance The Rapper, LLC",
+        "Chance The Rapper, LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 11400111,
+      "barcode": [
+        "CTRCB 3 A-1",
+        "CTRCB 3 B-1",
+        "CTRCB 3 C-1",
+        "CTRCB 3 D-1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/11400111-Chance-The-Rapper-Coloring-Book",
+      "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/JAho8l4Sw4wN-gXoHWgXW_z38WdaTkCUiy_T3iHdvvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/MTExLTE1MTc2Mzcw/MzUtMjk0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/V2Fuihj0XZgvMF41T7m6PxLdRTZsox4BoK5AzAtZ2Bc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/MTExLTE1MTc2Mzcw/MzUtMjk0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11400111",
+      "community": {
+        "want": 358,
+        "have": 117
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Metallic Rose",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mixtape",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mixtape",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)",
+        "Chance The Rapper, LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 25644094,
+      "barcode": [
+        "CTRCB 3 A-2",
+        "CTRCB 3 B-1",
+        "CTRCB 3 C-2",
+        "CTRCB 3 D-1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/25644094-Chance-The-Rapper-Coloring-Book",
+      "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/WWhAq1qT_2ydFdgJS8_QUFlcW7Br9Kq8gVZ3jpn4A_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ0/MDk0LTE2NzI2ODc1/NjMtNTQwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5tGLmGQyr72no0EFEqv-WyMYiEcLWnAxpm0uOmst2Jc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ0/MDk0LTE2NzI2ODc1/NjMtNTQwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25644094",
+      "community": {
+        "want": 131,
+        "have": 59
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Purple with Blue/Red Swirl, Orange with Blue/Red Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mixtape",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 10786481,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/10786481-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/dUzY9CsKQ6UasPo8SVKI65ilrrvsiuTnEfuvBG71wQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/NDgxLTE1MDQzMDA1/ODktNTc1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cvl4DVoqli1iQA66gk3P8Z7VEaWohcuRj076fMlurZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/NDgxLTE1MDQzMDA1/ODktNTc1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10786481",
+      "community": {
+        "want": 165,
+        "have": 39
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Mixtape",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 9764958,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/9764958-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/y0xqPlOWhs4iI77Isse15KvsTzsjg91jDAv0QhBFSDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQ5/NTgtMTQ4NjAwMTUx/OC0xNjYxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/hXqgzIumzi4Nn4yw4KhWk634SslOoFSpKsrQD43it1w/rs:fit/g:sm/q:90/h:442/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQ5/NTgtMTQ4NjAwMTUx/OC0xNjYxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9764958",
+      "community": {
+        "want": 413,
+        "have": 151
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green Marbled",
+          "descriptions": [
+            "LP",
+            "Mixtape",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)",
+        "Chance The Rapper"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 24740768,
+      "barcode": [
+        "1113239004"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/24740768-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/YgkNUHPoBUn8Jo_ao8Ma8y_DyJjl6OH_zm_0qDz-KK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NzY4LTE2NjUwODA0/MDgtNDU0Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/tUAUqpekbtDKiHuhOKkGOe2ZxsgRFyVNVmAaVDSA1qw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NzY4LTE2NjUwODA0/MDgtNDU0Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24740768",
+      "community": {
+        "want": 10,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 8513820,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/8513820-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DhDRUD8fTIG_se9Xpp6el7F9Gpd62A21CXy3HWyUoHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8513820",
+      "community": {
+        "want": 543,
+        "have": 267
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mixtape",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)",
+        "Chance The Rapper, LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 9809223,
+      "barcode": [
+        "CTRCB 3 A-1",
+        "CTRCB 3 B-1",
+        "CTRCB 3 C-1",
+        "CTRCB 3 D-1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/9809223-Chance-The-Rapper-Coloring-Book",
+      "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/jRB0N-hEWRjtQvLSwHXbcjg_XodcswOt3O-vYgI7tKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDky/MjMtMTQ4NjY2MDA1/MS0yNjkyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ja-rz6hdIitjcDAxaOmiZ5AuzVPbKfa9xFWkM6bM9Cg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDky/MjMtMTQ4NjY2MDA1/MS0yNjkyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9809223",
+      "community": {
+        "want": 609,
+        "have": 284
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellow Neon",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mixtape",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1041739,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

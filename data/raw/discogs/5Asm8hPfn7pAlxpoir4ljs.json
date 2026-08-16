@@ -1,0 +1,663 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00888072784420",
+    "artist": "Vince Staples",
+    "title": "Cry Baby",
+    "year": 2026
+  },
+  "results": [
+    {
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Loma Vista Recordings",
+        "Concord Label Group",
+        "Universal International Music B.V."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [],
+      "id": 37545777,
+      "barcode": [
+        "888072768512"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37545777-Vince-Staples-Cry-Baby",
+      "catno": "00888072768512",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/Xf-XhWuaDEzXvebIaRQ943fngKbcKcVvcKkPD4007gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/Nzc3LTE3ODA3ODIw/MDEtNTUyOC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/HEAdMEc_ineTF9Lgwx_FELE6e4Gyfpj4YN4comYbJUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ1/Nzc3LTE3ODA3ODIw/MDEtNTUyOC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37545777",
+      "community": {
+        "want": 129,
+        "have": 739
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Baby Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "BIG LOVE RECORDS",
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "TheHotPurplePettingZoo"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Hardcore Hip-Hop",
+        "Post-Punk",
+        "Conscious"
+      ],
+      "id": 37716138,
+      "barcode": [
+        "8 88072 76851 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37716138-Vince-Staples-Cry-Baby",
+      "catno": "727-8617JPN",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/Ip7AxOhjxxvuU9mP7gyW08ejBAZicaTHNaAVVbLnSpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE2/MTM4LTE3ODIzOTQy/NzgtOTM3Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pnv1w6H4TIvA329T8F_yhk0kWL2DOLoUYtiGzi3uLOI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE2/MTM4LTE3ODIzOTQy/NzgtOTM3Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37716138",
+      "community": {
+        "want": 23,
+        "have": 68
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "OBI, Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "TheHotPurplePettingZoo"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [],
+      "id": 37627740,
+      "barcode": [
+        "8 88072 76851 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37627740-Vince-Staples-Cry-Baby",
+      "catno": "LVR05437",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/a3Q3eP9f9Ec9MoERKiht2964jVnbwsMzQvNpwWXEA60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/NzQwLTE3ODE0NTY4/MzUtNjM5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9VYCzigBgGkpNeSm_ssnIBNr4DkQwYB-1D2jVsEibcY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI3/NzQwLTE3ODE0NTY4/MzUtNjM5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37627740",
+      "community": {
+        "want": 26,
+        "have": 159
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Baby Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Loma Vista Recordings",
+        "Universal International Music B.V."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [],
+      "id": 37562205,
+      "barcode": [
+        "888072768505"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37562205-Vince-Staples-Cry-Baby",
+      "catno": "00888072768505",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/5wNcdihU19a-DntdWmOMy8-QsyrPmXzhuUlYSfNjNZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTYy/MjA1LTE3ODIwNzM1/ODAtNjM1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qs3JV1CwwrKDMBVF5so013ppq0aaIkQR6nqOGVu6MlY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTYy/MjA1LTE3ODIwNzM1/ODAtNjM1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37562205",
+      "community": {
+        "want": 42,
+        "have": 197
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "GZ Media",
+        "Memphis Record Pressing",
+        "Bernie Grundman Mastering",
+        "TheHotPurplePettingZoo"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Conscious",
+        "Post-Punk",
+        "Hardcore Hip-Hop"
+      ],
+      "id": 37555650,
+      "barcode": [
+        "8 88072 76851 2",
+        "LVR-05437-A CB MRP7921/LVR05437-A 2467680 02471312 313484E1",
+        "LVR-05437-B CB MRP7921/LVR05437-B 2473015 02515027 313484E2",
+        "8 88072 77969 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37555650-Vince-Staples-Cry-Baby",
+      "catno": "LVR05437",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/W33O82Fkvtdn6h88pT18OSzHxslFWRnXxnDRIktfsXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU1/NjUwLTE3ODA3Njgy/ODMtMTc0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JCBRvlaLsJqk5FNhxbdDEh6f4gDumBDKXtn-XccDWcY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU1/NjUwLTE3ODA3Njgy/ODMtMTc0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37555650",
+      "community": {
+        "want": 70,
+        "have": 412
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Conectiv, Guadalajara, Mexico",
+        "Universal Music Enterprises",
+        "Loma Vista Recordings",
+        "Bernie Grundman Mastering",
+        "TheHotPurplePettingZoo",
+        "Conectiv, Guadalajara, Mexico",
+        "Never Go Broke Publishing",
+        "Warner-Tamerlane Publishing Co.",
+        "Sony/ATV Songs LLC",
+        "Banshee The Great Songs",
+        "Big Family Banshee Songs",
+        "Saint Mino Publishing",
+        "Champagne Therapy Publishing",
+        "These Are Pulse Songs",
+        "Concord Music Publishing",
+        "Zach Fogarty Publishing",
+        "These Are Songs Of Pulse",
+        "OnlyLegends Music",
+        "BMG Platinum Songs",
+        "Mazel Music Group LLC",
+        "WC Music Corp",
+        "Doorknock",
+        "Earslime Music Holdings",
+        "Songs Of Kobalt Music Publishing",
+        "Slick Rick Music Corp.",
+        "Kobalt",
+        "Songs of Universal, Inc.",
+        "Oh Gosh Beats",
+        "Concord Label Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Punk"
+      ],
+      "id": 37884387,
+      "barcode": [
+        "8 88072 76850 5",
+        "(1319627) LVR05436 01 0001 IFPI L248",
+        "IFPI L248",
+        "IFPI KKV2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37884387-Vince-Staples-Cry-Baby",
+      "catno": "LVR05436",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/xToaqbmENOZmFcs_NFmBHz10k6F-tJEJ5ZK1oiWwuLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg0/Mzg3LTE3ODQwNzQ2/OTYtNzEzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jw9Lzp-zayHZW3eMBftZGgQRBcQWAxJ0TWb33G-Kf28/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg0/Mzg3LTE3ODQwNzQ2/OTYtNzEzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37884387",
+      "community": {
+        "want": 6,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Section Eight Arthouse",
+        "Loma Vista Recordings"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Conscious",
+        "Post-Punk",
+        "Hardcore Hip-Hop"
+      ],
+      "id": 37709994,
+      "barcode": [
+        "888072768512"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37709994-Vince-Staples-Cry-Baby",
+      "catno": "LVR05437",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/ninx70kve-k4y6aKz1ElEVhM4iDRUscBMiseI7Jg_K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA5/OTk0LTE3ODIzMjA0/MDktMzYxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iyjmUZcLGx_2b3i4QKW2ybMx-GCV9MhSMXIgcnyxuCQ/rs:fit/g:sm/q:90/h:451/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA5/OTk0LTE3ODIzMjA0/MDktMzYxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37709994",
+      "community": {
+        "want": 14,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Baby Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Memphis Record Pressing",
+        "GZ Media",
+        "Bernie Grundman Mastering",
+        "TheHotPurplePettingZoo"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Conscious",
+        "Post-Punk",
+        "Hardcore Hip-Hop"
+      ],
+      "id": 37780896,
+      "barcode": [
+        "8 88072 78449 9",
+        "8 88072 76851 2",
+        "LVR-05437-A CB MRP7921/LVR05437-A 2467680 02511674 313484E1",
+        "LVR-05437-B CB MRP7921/LVR05437-B 2473015 02510475 313484E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37780896-Vince-Staples-Cry-Baby",
+      "catno": "LVR05437",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/wqGxeNM-JAdwvmKPuYEFuaX3zKas_Z8dRzFmmSfnauQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzgw/ODk2LTE3ODMwOTMw/NTctNDE0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gwv3X7jxaFzb4oxC9uj5p5VnilWUqcfRwr0Ln0OMXaQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzgw/ODk2LTE3ODMwOTMw/NTctNDE0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37780896",
+      "community": {
+        "want": 22,
+        "have": 375
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Bloodshot",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Section Eight Arthouse",
+        "Loma Vista Recordings",
+        "Concord Label Group",
+        "Universal International Music B.V."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [],
+      "id": 37582800,
+      "barcode": [
+        "888072779693"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37582800-Vince-Staples-Cry-Baby",
+      "catno": "00888072779693",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/QBvkEtQ2lhHAcT9Vrd-uyxC9UtOAAraYghT0dcZGDvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgy/ODAwLTE3ODI5MjEw/MDAtMzI3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cMbWeP06MpSoeeof2HoKPfjYi7iCjm9BQk-dD3-e4uI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgy/ODAwLTE3ODI5MjEw/MDAtMzI3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37582800",
+      "community": {
+        "want": 27,
+        "have": 100
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Loma Vista",
+        "Section Eight Arthouse",
+        "Memphis Record Pressing",
+        "GZ Media",
+        "Bernie Grundman Mastering",
+        "TheHotPurplePettingZoo"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Conscious",
+        "Post-Punk",
+        "Hardcore Hip-Hop"
+      ],
+      "id": 37544085,
+      "barcode": [
+        "8 88072 78449 9",
+        "8 88072 76851 2",
+        "LVR-05437-A CB MRP7921/LVR05437-A 2467680 02511674 313484E1",
+        "LVR-05437-B CB MRP7921/LVR05437-B 2473015 02510475 313484E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 4247892,
+      "master_url": "https://api.discogs.com/masters/4247892",
+      "uri": "/release/37544085-Vince-Staples-Cry-Baby",
+      "catno": "LVR05437",
+      "title": "Vince Staples - Cry Baby",
+      "thumb": "https://i.discogs.com/mIO4bDJwmXe9xwYzbn6XtVpfcrpGPMwgzzgR3BvNTug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ0/MDg1LTE3ODA2NzQ2/MzEtMjE0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/odIlGHI3s1MwSX4QN72TFaRQCcBqH_8jOULpOf8QnwI/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ0/MDg1LTE3ODA2NzQ2/MzEtMjE0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37544085",
+      "community": {
+        "want": 93,
+        "have": 774
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Tri-Color",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 4247892,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Post-Punk",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hardcore Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

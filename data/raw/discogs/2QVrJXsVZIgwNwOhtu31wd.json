@@ -1,0 +1,495 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "191400064454",
+    "artist": "Big Thief",
+    "title": "Masterpiece",
+    "year": 2016
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 10308378,
+      "barcode": [
+        "648401023343"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/10308378-Big-Thief-Masterpiece",
+      "catno": "LBJ-233",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/zeyjrMnvJFVI4DQ3ca-VwyiVWq3ocsb9VJ_9-U_AVGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA4/Mzc4LTE1MjI2NjE2/OTMtNDI5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n_qBn3tFCMSed1USVXp0y0ztmnJjwH7Yp7CbBvYmOvk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA4/Mzc4LTE1MjI2NjE2/OTMtNDI5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10308378",
+      "community": {
+        "want": 190,
+        "have": 152
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Red Translucent",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 28110448,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/28110448-Big-Thief-Masterpiece",
+      "catno": "LBJ-233",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/ybzpMcfDRHHYx2P5SL4aG7s07rmgKEfZUKmC_VmuMKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTEw/NDQ4LTE2OTMzMDk3/MjItNTU0My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/WG_enx7uft2jtvKNak-Gi5-KQZ9Vkd-3IiIMW8LtPoY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTEw/NDQ4LTE2OTMzMDk3/MjItNTU0My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28110448",
+      "community": {
+        "want": 20,
+        "have": 9
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Saddle Creek",
+        "Saddle Creek",
+        "Saddle Creek",
+        "CDA ImPressing Solutions, USA"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 8854492,
+      "barcode": [
+        "6 48401 02332 9",
+        "03/16/2016 09:48:30.AM #156201 2917530 01",
+        "IFPI LN08",
+        "IFPI 1025"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/8854492-Big-Thief-Masterpiece",
+      "catno": "LBJ-233",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/pnxKSlBx2hpLyTjkN6ZC-bTC6BZywoZ6NTuSwEIKcsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQ0/OTItMTQ3MDE3ODA1/OS0zMDYxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/lchumBhqQZevi8TJkypxBYpX-zqxc_AV5QxA1vxQNO0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQ0/OTItMTQ3MDE3ODA1/OS0zMDYxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8854492",
+      "community": {
+        "want": 394,
+        "have": 521
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Flexi-disc",
+        "7\"",
+        "45 RPM",
+        "Shape",
+        "Single Sided",
+        "Single"
+      ],
+      "label": [
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 8421995,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1418077,
+      "master_url": "https://api.discogs.com/masters/1418077",
+      "uri": "/release/8421995-Big-Thief-Masterpiece",
+      "catno": "LBJ-234",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/I3UaLoHnlfgZMba9j7XRYlplO28kL9t8O1yrVYNzn7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE5/OTUtMTQ2MTI5MDk5/OS02ODY2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ucjZZ015tIJtzON2m2v3alrAJn9h5seWmtA5lxL623g/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE5/OTUtMTQ2MTI5MDk5/OS02ODY2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8421995",
+      "community": {
+        "want": 190,
+        "have": 92
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Flexi-disc",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Shape",
+            "Single Sided",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 8564035,
+      "barcode": [
+        "648401023312"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/8564035-Big-Thief-Masterpiece",
+      "catno": "LBJ-233-11",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/fwwhPD2vQsG_XPfgTyh-7l_W5UvhKjmm0QcRnDUWH0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQw/MzUtMTQ2NDIwNjky/Ny05MzUzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/KbQpDGWGvUFlJ3Y05ibJpuuzIqR0KotkEEM3qhK4LqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQw/MzUtMTQ2NDIwNjky/Ny05MzUzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8564035",
+      "community": {
+        "want": 818,
+        "have": 211
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Saddle Creek",
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 12480461,
+      "barcode": [
+        "648401023466",
+        "1083255346"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1418077,
+      "master_url": "https://api.discogs.com/masters/1418077",
+      "uri": "/release/12480461-Big-Thief-Masterpiece",
+      "catno": "none",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/GxSkdFoGMeW4Z3XXrj5MgzFe_ZXPM3m8ylh3Ts9rBdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/NDYxLTE1MzYxMjgz/NTEtNDMwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n-JLngQaB63V-YNYWBNfbyJRK5LBmH3Eb5bEyaoppus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/NDYxLTE1MzYxMjgz/NTEtNDMwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12480461",
+      "community": {
+        "want": 4,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Saddle Creek",
+        "Saddle Creek",
+        "Saddle Creek",
+        "CDA ImPressing Solutions, USA"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30452549,
+      "barcode": [
+        "02/16/2017 10:27.AM #7321 2917530 01",
+        "IFPI LN09",
+        "IFPI JI20"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/30452549-Big-Thief-Masterpiece",
+      "catno": "LBJ-233",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/1YqccdJBSXnbHB8OlxW9onlh4e04IWGjvnJW0U_PEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NTQ5LTE3MTM2MjA3/MjktODMzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VU7kALI610Y0ntdL4IhCcUlWcSGYlk52X62bWAhfnRg/rs:fit/g:sm/q:90/h:553/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NTQ5LTE3MTM2MjA3/MjktODMzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30452549",
+      "community": {
+        "want": 65,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Universal Music",
+        "Spunk",
+        "Saddle Creek",
+        "Saddle Creek"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 9110596,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/9110596-Big-Thief-Masterpiece",
+      "catno": "URA498",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/UHNjJroEa4oFbc2qxzcbLssdzOZEgPtZ_vNZZHWzSLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTA1/OTYtMTQ3NDk1NTE2/MS02MzQ2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/A42C0-clhEikKFLIDSEU-xi_d3uPEqFRGvpk6LwQ1RQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTA1/OTYtMTQ3NDk1NTE2/MS02MzQ2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9110596",
+      "community": {
+        "want": 153,
+        "have": 59
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Cardboard case",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Saddle Creek",
+        "Saddle Creek",
+        "Saddle Creek",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 8568768,
+      "barcode": [
+        "6 48401 02331 2",
+        "648401023312",
+        "LBJ-233-A [CMS logo]BW160204",
+        "LBJ-233-B [CMS logo]BW160204"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1005912,
+      "master_url": "https://api.discogs.com/masters/1005912",
+      "uri": "/release/8568768-Big-Thief-Masterpiece",
+      "catno": "LBJ-233",
+      "title": "Big Thief - Masterpiece",
+      "thumb": "https://i.discogs.com/KoQ9nKCfbDqeSX56SIJdCkPp2Vs-74OstpVk_vdNBl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg3/NjgtMTQ2NDkwODU3/Mi0xNTM1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/L7I_jBHnDmgwbw79CYg4OBQ_X3oYKHt_EaEOTRko8vo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg3/NjgtMTQ2NDkwODU3/Mi0xNTM1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8568768",
+      "community": {
+        "want": 2170,
+        "have": 5676
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1005912,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

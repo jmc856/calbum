@@ -1,0 +1,728 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "617308098754",
+    "artist": "Waxahatchee",
+    "title": "Saint Cloud",
+    "year": 2020
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Merge Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 20152780,
+      "barcode": [
+        "673855070414"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/20152780-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/_v2f3jqi1gJM_GGeWL9DOZuSEvV4GkBS58YcT3Qdn7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUy/NzgwLTE2MzEwNTA5/MjUtMzIzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/06dU0fKByL9AjRTOHrzQO-_v4ZK6chw96ug-rDGMEFU/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUy/NzgwLTE2MzEwNTA5/MjUtMzIzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20152780",
+      "community": {
+        "want": 122,
+        "have": 163
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple Lilac",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 22109101,
+      "barcode": [
+        "4526180516286"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/22109101-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704JCD",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/MxOPkMOcaBV-OUSB9cOuN_x6sSAvpW71WDiWMyfeLFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTAxLTE2NDQ1NDI1/NjktMTcxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m2424k5H1fsfIKJU18IFNpTLRwUFPGMwXNyXjiITNFw/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MTAxLTE2NDQ1NDI1/NjktMTcxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22109101",
+      "community": {
+        "want": 26,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated",
+        "Precision Record Pressing",
+        "Bandbox"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 16563852,
+      "barcode": [
+        "673855070414",
+        "LC 29279",
+        "MRG704-A [N with a line through it] 34209.1(3)...",
+        "MRG704-B [N with a line through it] 34209.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/16563852-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/a4YQRPIVV80eCAJU1xBkbdGLeDLuFmW7Bcm1p6McNX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTYz/ODUyLTE2MDg1MDMw/ODctNjI2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kZHW-PdCNxQoaoScLantie2f7SQwWgcgTzOHAO29SN4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTYz/ODUyLTE2MDg1MDMw/ODctNjI2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16563852",
+      "community": {
+        "want": 251,
+        "have": 431
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue w/ Red [Translucent]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 27810684,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/27810684-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/GCulYhOikUYQ_lFTUzFNegB-EwMjUcnZPd0iy5atHjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEw/Njg0LTE2OTA1ODE1/ODYtODMyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FKB5L0CZvJllCoOAgTOtor4swxfNL03PxatlbNc_iiM/rs:fit/g:sm/q:90/h:917/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEw/Njg0LTE2OTA1ODE1/ODYtODMyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27810684",
+      "community": {
+        "want": 26,
+        "have": 22
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Merge Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 18008206,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/18008206-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/0GPDTuLBcHyMw6oTqdAoYzLd6FHd29z95JraDwHWZTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDA4/MjA2LTE2MTY2OTg4/ODctOTc3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/30TI2tSVeyQQ2vISEwBX3ptB2nJs4D_bmhjGulax-68/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDA4/MjA2LTE2MTY2OTg4/ODctOTc3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18008206",
+      "community": {
+        "want": 20,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Merge Records",
+        "Vinyl Me, Please",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated",
+        "Vinyl Me, Please. Exclusive Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 15013739,
+      "barcode": [
+        "673855070414",
+        "LC 29279",
+        "MRG704-A [N with a line through it] 34209.1(3)... ",
+        "MRG704-B [N with a line through it] 34209.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/15013739-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/XVY56d_Syb0CqZXvd3fyeU3KkVVQ6Irnexzd6Ze48ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEz/NzM5LTE1ODU1MDM3/NTMtMTUzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/M_8fuhGte8xLqU9P3msuolPDZgCCqDTZP8ioQX8Fh0Y/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEz/NzM5LTE1ODU1MDM3/NTMtMTUzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15013739",
+      "community": {
+        "want": 273,
+        "have": 290
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink [Baby]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Peak Vinyl",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 14958501,
+      "barcode": [
+        "673855070407",
+        "LC 29279",
+        "MRG704-A [N with a line through it] 34209.1(3)...",
+        "MRG704-B [N with a line through it] 34209.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/14958501-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/UQ4OHDMwL4oA5S5ffMudzYTRcgpyLCugNhrF1B5Lg9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU4/NTAxLTE1ODQ3MzEx/OTMtMzg2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lht4BweSZ0rrlsX2naOevCSoRkeLKyXjEdknOm0sE60/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU4/NTAxLTE1ODQ3MzEx/OTMtMzg2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14958501",
+      "community": {
+        "want": 338,
+        "have": 1214
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Coke-Bottle Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "Cassette"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 24864983,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/24864983-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/6kQmSPjBMuYUwSiUbJC4lXJ5sNH7XOBRtOqywCHtHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY0/OTgzLTE2NjYxMDkz/OTEtNTI3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vifvj27w5DA_voADCcjbT9_1mzfu8X9L29g3RlqR1y0/rs:fit/g:sm/q:90/h:1066/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY0/OTgzLTE2NjYxMDkz/OTEtNTI3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24864983",
+      "community": {
+        "want": 29,
+        "have": 25
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Electric Blue"
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated",
+        "Precision Record Pressing",
+        "Seasick Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 15112732,
+      "barcode": [
+        "673855070438",
+        "MRG704-A [N with a line through it] 34209.1(3)...",
+        "MRG704-B [N with a line through it] 34209.2(3)...",
+        "LC 29279"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/15112732-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/pGUPCzZiPMUQXsZzXeW9VnJynapKlFf9qWHCLN5GFfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/NzMyLTE1ODk0OTAz/MDktODk3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pj-Wlt0CdlIiwU_SuMCME-uvzoCVEOwb-PCrqqr8Snk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/NzMyLTE1ODk0OTAz/MDktODk3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15112732",
+      "community": {
+        "want": 230,
+        "have": 228
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red [Apple]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 15000311,
+      "barcode": [
+        "673855070414",
+        "LC 29279",
+        "MRG704-A N\u0336 34209.1(3)...",
+        "MRG704-B N\u0336 34209.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/15000311-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/TWVpvh0ExdSM9lEh4Ndh0TwYnX0Mdw79_3Zq6gnLhMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/MzExLTE2Mjk5ODU0/NDQtNjgzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bbpB7lgz_rfgcZQWoXRZcxDBLyCc7xJi8aQhcG0v4ws/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/MzExLTE2Mjk5ODU0/NDQtNjgzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15000311",
+      "community": {
+        "want": 684,
+        "have": 6849
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Merge Records",
+        "Merge Records",
+        "Merge Records",
+        "Domino Publishing Company",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "Sonic Ranch Studios",
+        "Long Pond",
+        "The Kitchen",
+        "Record Technology Incorporated",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 14989933,
+      "barcode": [
+        "673855070421",
+        "LC 29279",
+        "MRG704 23719-CD-0064 20-008-17",
+        "MRG704 23719-CD-0064 20-160-08",
+        "IFPI LK13",
+        "IFPI L824"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/14989933-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/kOZFm67W_jyLPCVuKJHqQ4cPBqva3tee3dm79kiBCXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/OTMzLTE1ODUxNzgw/MTItNTQwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VbGAQ6gi16YmZ06LbpXVHIKfNQF82sHgQ8KrC6JrW7g/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg5/OTMzLTE1ODUxNzgw/MTItNTQwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14989933",
+      "community": {
+        "want": 130,
+        "have": 543
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Canada",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Merge Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 16319004,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1705356,
+      "master_url": "https://api.discogs.com/masters/1705356",
+      "uri": "/release/16319004-Waxahatchee-Saint-Cloud",
+      "catno": "MRG704",
+      "title": "Waxahatchee - Saint Cloud",
+      "thumb": "https://i.discogs.com/vIr0eRyQ-HgRX2BIdOibfyKOoxxMnojsb9aZFZ-y4bU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE5/MDA0LTE2MDcwMzE1/MTgtMjYyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Qkfv_9m90NON71BDM6Y3IepI6SIKMG-f2GMgBMrAU6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE5/MDA0LTE2MDcwMzE1/MTgtMjYyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16319004",
+      "community": {
+        "want": 22,
+        "have": 25
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 1705356,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

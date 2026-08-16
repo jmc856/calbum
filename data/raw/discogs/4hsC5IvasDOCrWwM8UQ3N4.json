@@ -1,0 +1,693 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "811774025690",
+    "artist": "Pinegrove",
+    "title": "Cardinal",
+    "year": 2016
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8129259,
+      "barcode": [
+        "811774023580"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8129259-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/VC7WUfPrruF98pgP4YU5x4HlzyiXycamhJk5OjrPFnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjky/NTktMTQ1NTY4NjYy/OC0xNjA5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/x0nOo_VXeuDgCwByHD22FAx_aQB2Zu5-L_SiKxLrwXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjky/NTktMTQ1NTY4NjYy/OC0xNjA5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8129259",
+      "community": {
+        "want": 425,
+        "have": 290
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8140578,
+      "barcode": [
+        "811774023580"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8140578-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/Fc8qK6KxV2Lg565w6VC7ZenlsDi9l1Ei9i1bT9uHcsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDA1/NzgtMTU1ODgyMzU3/OC03NDcwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/E-DGAb0MV0MYHDYG94MmBLAUM_l_KpbZPBdjf0apiNc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDA1/NzgtMTU1ODgyMzU3/OC03NDcwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8140578",
+      "community": {
+        "want": 465,
+        "have": 65
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Painted Jacket, Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "EP",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Run For Cover Records",
+        "Caroline Australia"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8938754,
+      "barcode": [
+        "0602547988027"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8938754-Pinegrove-Cardinal",
+      "catno": "CVCD056",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/Wa7iDEZX-l3vlfLmS5IpsjhRj8SatibT9AQ4pPieE_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzg3/NTQtMTYxOTg0MDc0/Ny02ODIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/KjfsNCdWmnWpFQu5zZ5Khka0JxmYRz5qMLP-2sCsE20/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzg3/NTQtMTYxOTg0MDc0/Ny02ODIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8938754",
+      "community": {
+        "want": 85,
+        "have": 62
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "EP",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8117868,
+      "barcode": [
+        "811774023580"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8117868-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/EVy1_Zga2qPq5ovF4ovoXoD6ES4KYAjrVYWoaFEx7s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTc4/NjgtMTQ1NTQ2OTQ2/NC0yNjY4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/h9KhfC2U6XP4re5We2fqk_4rGRxbry_CJ_1K-bxz31A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTc4/NjgtMTQ1NTQ2OTQ2/NC0yNjY4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8117868",
+      "community": {
+        "want": 640,
+        "have": 701
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Grey",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 10043487,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/10043487-Pinegrove-Cardinal",
+      "catno": "none",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/1YYUtIYN8BXYkQhYxcXnEBBC8scWXvorsnxS4U6hIgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQz/NDg3LTE1MDk3OTQ1/MzUtNTQ2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4TgLggxLiVTNvn242_855-jtAlHsw_E1BteAqKFEFq8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQz/NDg3LTE1MDk3OTQ1/MzUtNTQ2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10043487",
+      "community": {
+        "want": 39,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Run For Cover Records",
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8126639,
+      "barcode": [
+        "811774023580",
+        "136880E1/A PIRATES PRESS - RFC147 A",
+        "136880E2/A PIRATES PRESS - RFC147 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8126639-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/nUimg1k3j6Wwln0kuqdlBhrynwJ7gAabacTHC68DHvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjY2/MzktMTQ4ODQwMzUx/NC05Njk3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Q7CC5-4lVAegHDn6EP7DWCnJ7acUV0zj1H-zZiKtuCs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjY2/MzktMTQ4ODQwMzUx/NC05Njk3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8126639",
+      "community": {
+        "want": 508,
+        "have": 2334
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "CD",
+        "EP"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 9018768,
+      "barcode": [
+        "811774023580",
+        "811774025584"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/9018768-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/6QPT_BANi9VCo5lJThXxybz7ZZTqY78WPw1_oE_LA5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTg3/NjgtMTQ3MzM2MTg5/MS0zMzQ1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/VmFtmTv9om6S-teEZULEZqik-KeEnrsTh_A8nZfAaT0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTg3/NjgtMTQ3MzM2MTg5/MS0zMzQ1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9018768",
+      "community": {
+        "want": 292,
+        "have": 127
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Expanded Edition Bonus Tracks",
+          "descriptions": [
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 10633263,
+      "barcode": [
+        "811774023580",
+        "136880E1/D PIRATES PRESS - RFC147 A",
+        "136880E2/D PIRATES PRESS - RFC147 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/10633263-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/AKqq8soCMuxjo-p-fIryqMfMDQMnrK7lD4xroaj9_RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMz/MjYzLTE2NDUzOTA1/MjItNTMyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XDVocXhyv3UxICXFcHDgzpNXFLDZ8FgyWJPW_mqYJ0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMz/MjYzLTE2NDUzOTA1/MjItNTMyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10633263",
+      "community": {
+        "want": 428,
+        "have": 3268
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Punk",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "id": 8392336,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8392336-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/B6HStoAQKo4sz2S3eMAnMh0d2bYwbIpKDbo2J_zH_Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTIz/MzYtMTQ2MDczMzMw/NC0zMTU5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/QI-RdglSYxtwww1imIJbtf7HX6waSnZTVO-RR_wjC70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTIz/MzYtMTQ2MDczMzMw/NC0zMTU5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8392336",
+      "community": {
+        "want": 359,
+        "have": 324
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 9451416,
+      "barcode": [
+        "811774023580"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/9451416-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/IhMvEo0kZm_SUvdZlfINijt6xVk0vQOA4gGFyFWXzLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTE0/MTYtMTQ4MjE5MDMy/Ni0zODY1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/quObQYARVcLevWdp5hX5iqG2k7PJwxb_vNuNjSGReSQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTE0/MTYtMTQ4MjE5MDMy/Ni0zODY1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9451416",
+      "community": {
+        "want": 258,
+        "have": 183
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Deep Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "id": 8232355,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8232355-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/vwimDkG5jEh8pdn1wyjclw1MwSqw8XTXW_qjlY4ADSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzIz/NTUtMTU4MTUzNjc5/NC0zMzYyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xkM8PtdQ5WHerARjr3shut9lmFEIKm8WS7mFt6Ob-SA/rs:fit/g:sm/q:90/h:933/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzIz/NTUtMTU4MTUzNjc5/NC0zMzYyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8232355",
+      "community": {
+        "want": 125,
+        "have": 170
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Run For Cover Records",
+        "Run For Cover Records",
+        "The Owlery, Chicago, IL",
+        "Sterling Sound",
+        "Disc Makers"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "id": 8111170,
+      "barcode": [
+        "8 11774 02359 7",
+        "811774023597",
+        "MAG0816 [DISC MAKERS Logotype]",
+        "IFPI LZ71",
+        "IFPI ALK41"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 958548,
+      "master_url": "https://api.discogs.com/masters/958548",
+      "uri": "/release/8111170-Pinegrove-Cardinal",
+      "catno": "RFC:147",
+      "title": "Pinegrove - Cardinal",
+      "thumb": "https://i.discogs.com/fSJL5mM5npQoXI3PvuWSfo7Kzfdk46TRLiz9QSNT5k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTEx/NzAtMTQ1NTM1Nzg2/OS04MDA0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Ihcc8V5vH_przxXkQV7aMQiPfSfvOgeTh4LwUe5C3NE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTEx/NzAtMTQ1NTM1Nzg2/OS04MDA0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8111170",
+      "community": {
+        "want": 176,
+        "have": 299
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 958548,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

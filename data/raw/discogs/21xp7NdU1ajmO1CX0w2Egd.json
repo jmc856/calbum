@@ -1,0 +1,787 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5054429151442",
+    "artist": "Black Country, New Road",
+    "title": "Ants From Up There",
+    "year": 2022
+  },
+  "results": [
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22046980,
+      "barcode": [
+        "5054429153910",
+        "ZEN 278 A [MPO logo]\u00ae 21244790 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21244846 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 21244910 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21244901 Winter."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22046980-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278JP",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/Iz_4081KFY85nE4RT2g_0nef3EhNDMzDcnpNhYdGp4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Cu_OHAVy1LoQjf6E1-rG2wcNTgd4j38HkSepnqIsZuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22046980",
+      "community": {
+        "want": 729,
+        "have": 197
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Crystal Clear Rose, Obi",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock"
+      ],
+      "id": 21979144,
+      "barcode": [
+        "5054429153330",
+        "ZEN 278 A [MPO logo]\u00ae 21245933 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21245458 Summer",
+        "ZEN 278 C Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21245707 Winter."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21979144-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278Y",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/3jB8uRnrAO6sVRxPVvMakRzWHC8Vuj_A_aegQ32mYtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tpIeKZnBDAxHlAzE_6D5PsRod37rMOypzhHbo_EgDhs/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21979144",
+      "community": {
+        "want": 954,
+        "have": 1898
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Bronze Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock",
+        "Alternative Rock"
+      ],
+      "id": 21933142,
+      "barcode": [
+        "5054429151428",
+        "LC-12885",
+        "ZEN 278 A  [MPO logo]\u00ae21245217  Spring",
+        "ZEN 278 B  [MPO logo]\u00ae21247117  Summer",
+        "ZEN 278 C [MPO logo]\u00ae21246545  Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae21246544  Winter.",
+        "ZEN 278 A  [MPO logo]\u00ae21245217  Spring",
+        "ZEN 278 B  [MPO logo]\u00ae21246787  Summer",
+        "ZEN 278 C [MPO logo]\u00ae21245840  Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae21247594  Winter.",
+        "ZEN 278 A [MPO logo]\u00ae21246953 Spring",
+        "ZEN 278 D [MPO logo]\u00ae21247298 Summer",
+        "ZEN 278 D [MPO logo]\u00ae21246143 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae21246413 Winter.",
+        "ZEN 278 A [MPO logo]\u00ae21247597 Spring",
+        "ZEN 278 B [MPO logo]\u00ae21246917 Summer",
+        "ZEN 278 C [MPO logo]\u00ae21245174 Autumn,",
+        "ZEN 278 D Winter.",
+        "ZEN 278 A [MPO logo]\u00ae21246346 Spring",
+        "ZEN 278 B [MPO logo]\u00ae21246768 Summer",
+        "ZEN 278 C [MPO logo]\u00ae21247386 Autumn",
+        "ZEN 278 D [MPO logo]\u00ae21247389 Winter.",
+        "ZEN 278 A [MPO logo]\u00ae22 280791 Spring",
+        "ZEN 278 B [MPO logo]\u00ae22 290328 Summer ",
+        "ZEN 278 C [MPO logo]\u00ae22 290331 Autumn ",
+        "ZEN 278 D [MPO logo]\u00ae22 281041 Winter"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21933142-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/bcnZi_Xv1jMU3yJJNwfSu8vhnHxMHrZmLH4LfQZnzhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/---4xMv-kmYIiOGMAeh6I63r1ZdebPNreb8iMeJVe5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21933142",
+      "community": {
+        "want": 2532,
+        "have": 10895
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Beat Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22215502,
+      "barcode": [
+        "4523132623856"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22215502-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "BRC685",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/rqGLzf4xjKCBnssfmBsP0qL9yOgWb97eYX_MKTPnTtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE1/NTAyLTE2NzMwMDYx/ODgtOTQ2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZuJszUkAzQNaJ9RngWQnMq30lb-H0J0GiOBwOv_xM_8/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE1/NTAyLTE2NzMwMDYx/ODgtOTQ2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22215502",
+      "community": {
+        "want": 201,
+        "have": 69
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock"
+      ],
+      "id": 22129318,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22129318-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "none",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/LQMECmyJUyXXfECfo1T2Jv0dx6xwgSOWGDhkNkIVaMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/i8b0g55F95Fg-9EdmtmmmtTAjS2NsSy-NEqa1C-Rt9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22129318",
+      "community": {
+        "want": 80,
+        "have": 70
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "24-bit, 96kHz",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Vinyl",
+        "LP",
+        "Album",
+        "Box Set",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "MPO",
+        "Optimal Media GmbH",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "Queen Elizabeth Hall"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock"
+      ],
+      "id": 21933541,
+      "barcode": [
+        "5054429153033",
+        "LC-12885",
+        "ZEN 278 A [MPO logo]\u00ae 21245024 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21246345 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 21246314 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21246287 Winter.",
+        "ZEN278BX ,gnirpS BL53583-01 A1 1\u039b",
+        "ZEN278BX ,remmuS BL53583-01 B1 1\u2206",
+        "ZEN278BX ,nmutuA 3I BL53583-02 C2",
+        "ZEN278BX .retniW 1I BL53583-02 D1",
+        "ZEN 278 A [MPO logo]\u00ae 21245177 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21234577 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 21246995 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21245841 Winter.",
+        "ZEN278BX v+ ,gnirpS BL53583-01 A1",
+        "ZEN278BX ,remmuS vT BL53583-01 B1",
+        "ZEN278BX ,nmutuA BL53583-02 C2",
+        "ZEN278BX .retniW BL53583-02 D1",
+        "ZEN 278 A [MPO logo]\u00ae 21246384 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21246976 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 21246972 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21246980 Winter.",
+        "ZEN278BX v+ ,gnirpS BL53583-01 A1",
+        "ZEN278BX ,remmuS BL53583-01 B1 1\u2206",
+        "ZEN278BX ,nmutuA BL53583-02 C2",
+        "ZEN278BX .retniW BL53583-02 D1",
+        "ZEN 278 A [MPO logo]\u00ae 23322353 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 23322352 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 23318769 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 23318768 Winter.",
+        "ZEN278BX  ,gnirpS BL53583-01 A1 [MPO logo]\u00ae 24332387",
+        "ZEN278BX  [MPO logo]\u00ae 24332386   ,remmuS BL53583-01 B1",
+        "ZEN278BX  [MPO logo]\u00ae 23321940   ,nmutuA BL53583-02 C2",
+        "ZEN278BX  [MPO logo]\u00ae 23321939 .retniW BL53583-02 D1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21933541-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278BX",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/hu1WMgd610uFVf7MQg5-3OT3Tc5Y8YAnAY_QmSwNxQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/NTQxLTE2NDM5NzU5/NzItNjg3Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kwHZK-EABWSO6JOBRx0HmUlGxc941kWqnuCVgMW8zOY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/NTQxLTE2NDM5NzU5/NzItNjg3Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21933541",
+      "community": {
+        "want": 1212,
+        "have": 6682
+      },
+      "format_quantity": 4,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock"
+      ],
+      "id": 22060855,
+      "barcode": [
+        "5054429153057",
+        "LC 12885"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22060855-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZENCAS278",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/Uf45G9YmM4t602p6P-S-wJhbDDmXii7yv5zG2faqdD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/agXhN2Zh6X8ZeCktoIdJcXUNBsMyQtxZ7TZAYf_B050/rs:fit/g:sm/q:90/h:945/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22060855",
+      "community": {
+        "want": 213,
+        "have": 200
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Box Set",
+        "Deluxe Edition",
+        "CD",
+        "Album",
+        "CD"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Abbey Road Studios",
+        "Queen Elizabeth Hall",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Post-Punk",
+        "Post Rock",
+        "Art Rock"
+      ],
+      "id": 21973654,
+      "barcode": [
+        "5054429153743",
+        "LC-12885",
+        "CA ZENCD278 @ IFPI L039 11/25/21 05:17:55 PM",
+        "IFPI L039",
+        "IFPI 1286",
+        "CA ZENCD278X @ IFPI L039 11/25/21 05:00:25 PM",
+        "IFPI L039",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21973654-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZENCD278X",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/N2bU-t2WZKP3WE01EP2PMM1tXXxkWcuSfkvb8Bkd97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcz/NjU0LTE2NTg1ODcx/NzQtOTA3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mPJqTJBu4-RQkXcj-KebHBbkr3qgzyvSURSZnxXfss4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcz/NjU0LTE2NTg1ODcx/NzQtOTA3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21973654",
+      "community": {
+        "want": 434,
+        "have": 1099
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock",
+        "Alternative Rock"
+      ],
+      "id": 21932389,
+      "barcode": [
+        "5054429153040",
+        "5 054429 153323",
+        "ZEN278XS",
+        "LC-12885",
+        "Spring ZEN278 A [MPO logo]21 245894",
+        "Summer ZEN278 B [MPO logo]21 245502",
+        "Autumn, ZEN278 C [MPO logo]21 245219",
+        "Winter. ZEN278 D [MPO logo]21 245365",
+        "Spring ZEN278 A",
+        "Summer ZEN278 B [MPO logo]21 246084",
+        "Autumn, ZEN278 C [MPO logo]21 245904",
+        "Winter. ZEN278 D",
+        "Spring ZEN278 A [MPO logo]21 246918",
+        "Summer ZEN278 B [MPO logo]21 245530",
+        "Autumn, ZEN278 C [MPO logo]21 246771",
+        "Winter. ZEN278 D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21932389-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278X",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/qjJyFwoeMG3fb25pWLb1tPnmx7qer59R4ZDFVPdeU_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hgdfOLIrDncrp6Okziecko_QqNcQiWAw4mu6B76bfxU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21932389",
+      "community": {
+        "want": 1662,
+        "have": 7314
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue Marbled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Post-Punk",
+        "Post Rock",
+        "Art Rock"
+      ],
+      "id": 22037638,
+      "barcode": [
+        "5054429151435",
+        "LC-12885",
+        "11/25/21 05:17:55 PM",
+        "CA ZENCD278@",
+        "IFPI L039",
+        "IFPI 1286"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22037638-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZENCD278",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/X8CAQ-6zIFSq01c0JGloLHfKm8JosdNj3SzSYRlluQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/NjM4LTE2NDY1NDk0/MTUtMzM2Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W_a07nnl6RcUKvCa9ZnxuTcWF8u2BuG_jIBAOEK-L30/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/NjM4LTE2NDY1NDk0/MTUtMzM2Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22037638",
+      "community": {
+        "want": 685,
+        "have": 1787
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Experimental",
+        "Folk Rock"
+      ],
+      "id": 25260379,
+      "barcode": [
+        "5054429153910"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/25260379-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278RTE",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/WRgBYyETpb-Q90DBOwNNIRF4MW7UErtsiL5IfbYNFvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjYw/Mzc5LTE2NzE1NjEz/NzAtMjU0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rjR4ocVoHbpEKpInI1_07_CQdh2ByOZCFL-pK7WZNZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjYw/Mzc5LTE2NzE1NjEz/NzAtMjU0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25260379",
+      "community": {
+        "want": 487,
+        "have": 309
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Natural Transparent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 2486344,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Art Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Post Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

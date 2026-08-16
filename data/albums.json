@@ -5,8 +5,19 @@
     "artists": [
       "Waxahatchee"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1705356,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0LMJ5vzOvyazs0g1SoaISH",
     "release_date": "2020-03-27",
     "release_year": 2020,
@@ -21,8 +32,24 @@
     "artists": [
       "Geese"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3984367,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Art Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0eeXb23yMW6EaIgm63xxPC",
     "release_date": "2025-09-26",
     "release_year": 2025,
@@ -177,8 +204,19 @@
     "artists": [
       "Vampire Weekend"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3447146,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1W04wu2W4OIcuiNc5AMB3y",
     "release_date": "2024-04-05",
     "release_year": 2024,
@@ -193,8 +231,24 @@
     "artists": [
       "MJ Lenderman"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3590696,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Country Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1bKiiYGt1fzm9YMlTnUqpN",
     "release_date": "2024-09-06",
     "release_year": 2024,
@@ -225,8 +279,29 @@
     "artists": [
       "Alvvays"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2813969,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Shoegaze",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1dShPPoxXfzbjFO1jIHJZz",
     "release_date": "2022-10-07",
     "release_year": 2022,
@@ -241,8 +316,19 @@
     "artists": [
       "Big Thief"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3960194,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1yEo1ZJE5ZgIF7LYrDTbMK",
     "release_date": "2025-09-05",
     "release_year": 2025,
@@ -309,8 +395,29 @@
     "artists": [
       "Black Country, New Road"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2486344,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Art Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Post Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "21xp7NdU1ajmO1CX0w2Egd",
     "release_date": "2022-02-04",
     "release_year": 2022,
@@ -325,8 +432,19 @@
     "artists": [
       "Big Thief"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1005912,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2QVrJXsVZIgwNwOhtu31wd",
     "release_date": "2016-05-27",
     "release_year": 2016,
@@ -341,8 +459,29 @@
     "artists": [
       "Adrianne Lenker"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3430172,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2Y8WS7iDIZkvzB5GUeLvku",
     "release_date": "2024-03-22",
     "release_year": 2024,
@@ -357,8 +496,54 @@
     "artists": [
       "Charli xcx"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3505440,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Electro House",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Dance-pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hyperpop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Synth-pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Future Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Electro",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Electroclash",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2lIZef4lzdvZkiiCzvPKj7",
     "release_date": "2024-06-07",
     "release_year": 2024,
@@ -373,8 +558,24 @@
     "artists": [
       "Tame Impala"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 477610,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3C2MFZ2iHotUQOSBzdSvM7",
     "release_date": "2012-01-01",
     "release_year": 2012,
@@ -389,8 +590,39 @@
     "artists": [
       "Charli xcx"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1738844,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Dance-pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Vocal",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hyperpop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3a9qH2VEsSiOZvMrjaS0Nu",
     "release_date": "2020-05-15",
     "release_year": 2020,
@@ -405,8 +637,29 @@
     "artists": [
       "Geese"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3149439,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4RT2pNX9ZXCB0LtqfI2sdJ",
     "release_date": "2023-06-23",
     "release_year": 2023,
@@ -421,8 +674,44 @@
     "artists": [
       "Kendrick Lamar"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1164779,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Trap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Boom Bap",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4eLPsYPBmXABThSJ821sqY",
     "release_date": "2017-04-14",
     "release_year": 2017,
@@ -437,8 +726,29 @@
     "artists": [
       "Pinegrove"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 958548,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4hsC5IvasDOCrWwM8UQ3N4",
     "release_date": "2016-02-12",
     "release_year": 2016,
@@ -453,8 +763,34 @@
     "artists": [
       "Vince Staples"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 4247892,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Post-Punk",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hardcore Hip-Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5Asm8hPfn7pAlxpoir4ljs",
     "release_date": "2026-06-05",
     "release_year": 2026,
@@ -469,8 +805,19 @@
     "artists": [
       "Waxahatchee"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3430967,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5O9TGAJ6Opoya7KCBKKQUA",
     "release_date": "2024-03-22",
     "release_year": 2024,
@@ -485,8 +832,19 @@
     "artists": [
       "Kendrick Lamar"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 484590,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      }
+    ],
     "id": "6PBZN8cbwkqm1ERj2BGXJ1",
     "release_date": "2012-01-01",
     "release_year": 2012,
@@ -554,8 +912,14 @@
     "artists": [
       "Chance the Rapper"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1041739,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "71QyofYesSsRMwFOTafnhB",
     "release_date": "2016-05-27",
     "release_year": 2016,
@@ -570,8 +934,14 @@
     "artists": [
       "Chance the Rapper"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 628752,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7Ffm3ZluTZRYEdlE5Jjlid",
     "release_date": "2013-04-30",
     "release_year": 2013,
@@ -586,8 +956,29 @@
     "artists": [
       "Big Thief"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2501125,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7Ln81p86r5cCsesd3KBWIY",
     "release_date": "2022-02-11",
     "release_year": 2022,
@@ -602,8 +993,44 @@
     "artists": [
       "Kendrick Lamar"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 810214,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Jazz",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "G-Funk",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7ycBtnsMtyVbbwTfJwRjSP",
     "release_date": "2015-03-16",
     "release_year": 2015,

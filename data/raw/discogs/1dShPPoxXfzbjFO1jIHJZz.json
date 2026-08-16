@@ -1,0 +1,1218 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5400863086077",
+    "artist": "Alvvays",
+    "title": "Blue Rev",
+    "year": 2022
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Zia Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock",
+        "Shoegaze",
+        "Pop Rock"
+      ],
+      "id": 24775376,
+      "barcode": [
+        "644110046512",
+        "644110960917"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24775376-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/oB389sBT_l5IFQVRd4FNSum6XHU6jtasURHGyeK_pxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc1/Mzc2LTE2NjUzNzUx/ODEtMTEzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2SEIc0YmZiEnfTz-Lkge7BbzMwnGkxalWkU63ClRSko/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc1/Mzc2LTE2NjUzNzUx/ODEtMTEzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24775376",
+      "community": {
+        "want": 186,
+        "have": 172
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Test Pressing"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Shoegaze",
+        "Dream Pop",
+        "Lo-Fi",
+        "Pop Rock",
+        "Indie Rock"
+      ],
+      "id": 24798965,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24798965-Alvvays-Blue-Rev",
+      "catno": "",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/u0UtityQ3IWO5L9bmk4OTesphXd_yidDT35OSd9TAMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/OTY1LTE2NjU1NzQy/MTItODIwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hlX-gNZiLIQjD6GNooAaf1Dkg02bbAiHT1KibAcbvig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk4/OTY1LTE2NjU1NzQy/MTItODIwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24798965",
+      "community": {
+        "want": 180,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Alternate Cover (Screen-Printed)",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "P-Vine, Inc.",
+        "P-Vine, Inc.",
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company",
+        "Celsius Girls"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock",
+        "Shoegaze"
+      ],
+      "id": 24743951,
+      "barcode": [
+        "4995879078907",
+        "PLP-7890 A",
+        "PLP-7890 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24743951-Alvvays-Blue-Rev",
+      "catno": "PLP-7890",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/LBbb4Pj72VWQXaqRqVM9V7axfL6cssxUwaETn4JePRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQz/OTUxLTE2NjcxMDI1/OTMtMTEzNS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/es4F5_BArp597NC_Po-uewtwYp9TVTM9szogtM6LMrg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQz/OTUxLTE2NjcxMDI1/OTMtMTEzNS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24743951",
+      "community": {
+        "want": 264,
+        "have": 277
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Baby Blue Transparent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Transgressive Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop",
+        "Shoegaze",
+        "Synth-pop"
+      ],
+      "id": 24748328,
+      "barcode": [
+        "5 400863 087852",
+        "5 400863 086084"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24748328-Alvvays-Blue-Rev",
+      "catno": "TRANS642XX",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/ujdb1b1hKLBkKYKICRDmy6Tg5KevKapit8stUsKH9v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ4/MzI4LTE2NjU1NzYw/MDktMjIxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ph893rSqHg1z5vcBL_rwZc-t_LXPPvpwbcvGXOyJtT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ4/MzI4LTE2NjU1NzYw/MDktMjIxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24748328",
+      "community": {
+        "want": 207,
+        "have": 1210
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Crystal",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (Alvvays Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Dream Pop"
+      ],
+      "id": 36486997,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/36486997-Alvvays-Blue-Rev",
+      "catno": "none",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/GqptFmnVHfjF7NgmaFiNYm8DiGbwGGPk8GYzux3fgPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg2/OTk3LTE3NzA5NDQ1/MjQtNzUwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lB_83Y1TWx0pIFTrsrQ90nD37BQsJ4toPxzM-As0PaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDg2/OTk3LTE3NzA5NDQ1/MjQtNzUwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36486997",
+      "community": {
+        "want": 6,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Celsius Girls",
+        "Celsius Girls",
+        "Celsius Girls",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24749474,
+      "barcode": [
+        "0 44003 27424 2",
+        "044003274242",
+        "10-95462 / ALV003 - A 245112E1/B",
+        "10-95462 / ALV003 - B 245112E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24749474-Alvvays-Blue-Rev",
+      "catno": "ALV003",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/saY7Nh1WAvtihCcBcwDeSe7uMwwLuHC0szgQxoabInI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/NDc0LTE2NjgyNzgx/NTQtODI2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VKuxbLRuIpU_R9MjiO9v7m271bRsYRr4EPy2JM-ynGQ/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ5/NDc0LTE2NjgyNzgx/NTQtODI2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24749474",
+      "community": {
+        "want": 185,
+        "have": 1116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24753440,
+      "barcode": [
+        "6 44110 04651 2",
+        "644110046512",
+        "PRC-465 A BG",
+        "PRC-465 B BG"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24753440-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/2Awud0V3I2iDGrSTuQA9jQvI_VmEjfTwR1YwUX8EnpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUz/NDQwLTE2NjUxOTAw/NjQtMTQ2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SU-vJrfV1HqSvxkqSkOOh7XbQq1eTeo_YozSO86M76Q/rs:fit/g:sm/q:90/h:622/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUz/NDQwLTE2NjUxOTAw/NjQtMTQ2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24753440",
+      "community": {
+        "want": 219,
+        "have": 1347
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24764228,
+      "barcode": [
+        "644110046543"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24764228-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/rDhAvSzh3rfKJNekc7F0nrKgoR5TiDgopbDo0ak2h2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY0/MjI4LTE3ODE0OTg3/MjgtNDYxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TqcR9QloiNFe2GfonkIS9yfEc8TB2N0AY9Y-FDiJaUs/rs:fit/g:sm/q:90/h:932/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY0/MjI4LTE3ODE0OTg3/MjgtNDYxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24764228",
+      "community": {
+        "want": 65,
+        "have": 336
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Transgressive Records",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Dream Pop"
+      ],
+      "id": 24822407,
+      "barcode": [
+        "5400863087845",
+        "TRANS642CD AM80387-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9703"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24822407-Alvvays-Blue-Rev",
+      "catno": "TRANS642CD",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/8MwGztH4VIKsu3NyvOFBkHdpQRMkAI_fV2ObbB1cHsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIy/NDA3LTE2NjU3NjM1/OTktMzE4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Eh4lZdkkPm00PMNioe7VG695RKtBHLrOp-zWY8cbBVA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIy/NDA3LTE2NjU3NjM1/OTktMzE4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24822407",
+      "community": {
+        "want": 115,
+        "have": 330
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "[PIAS]",
+        "Polyvinyl Record Company",
+        "[PIAS] Australia",
+        "[PIAS] Australia",
+        "Celsius Girls",
+        "www.3xL.com.au"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24786233,
+      "barcode": [
+        "9332727122583",
+        "IC65600140  www.3xL.com.au  PIASAU013CD  C1108V21",
+        "IFPI LT030",
+        "IFPI TBH58"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24786233-Alvvays-Blue-Rev",
+      "catno": "PIASAU013CD",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/xkZS6Ttyp9T4RnLgscp08boE-Ej_R3SulTOsw7Vc2ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/MjMzLTE2NjU0Njc4/MjMtNDgwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OhScpVf7lAQ7pSTX-Za7T7hf0hPMRFNBJrmibG_MZwY/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzg2/MjMzLTE2NjU0Njc4/MjMtNDgwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24786233",
+      "community": {
+        "want": 62,
+        "have": 20
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Polyvinyl Record Company",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24753299,
+      "barcode": [
+        "644110046529",
+        "PRC465CD 6745-CD-5336 22-231-16",
+        "IFPI LK13",
+        "IFPI L817"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24753299-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/MommyVoJdzkOp2v-DfGfkcVMyfVBq_ASw8NouAOqGDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUz/Mjk5LTE2NjU1MTE4/MDEtNDMzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9WMTQzd1K96Vul8I8jhnnStR343374dbD7zHYuYRUL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUz/Mjk5LTE2NjU1MTE4/MDEtNDMzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24753299",
+      "community": {
+        "want": 172,
+        "have": 461
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Celsius Girls",
+        "Celsius Girls",
+        "Celsius Girls"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24772529,
+      "barcode": [
+        "044003283695",
+        "677-C2-35698-94679A MFA82337 MADE IN CANADA",
+        "none",
+        "none",
+        "MCF-CD4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24772529-Alvvays-Blue-Rev",
+      "catno": "ALV003CD",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/MV_COWP_gq1e2nqHDps2rTD6CuXbtb7rfGXGVjGnIBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcy/NTI5LTE2NjUzNDQ0/MDQtODcxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/U3b3ywp46YUMJZeY2aPaxUWt53SVELqYMHJ0PO55Iqg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcy/NTI5LTE2NjUzNDQ0/MDQtODcxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24772529",
+      "community": {
+        "want": 68,
+        "have": 130
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Transgressive Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Dream Pop"
+      ],
+      "id": 25062346,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/25062346-Alvvays-Blue-Rev",
+      "catno": "none",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/d_mPHOgHyegHVlifzlIKKvYS2Vwof74-GJ3Ogc-xhr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYy/MzQ2LTE2Njc2NTc3/NjUtNjUwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KMXaEDlKKiaDYW2epe-Sedz-Hn1XeT-OvBb1vNOpd58/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYy/MzQ2LTE2Njc2NTc3/NjUtNjUwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25062346",
+      "community": {
+        "want": 29,
+        "have": 23
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Newbury Comics"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze",
+        "Noise",
+        "Indie Rock",
+        "Dream Pop",
+        "Jangle Pop"
+      ],
+      "id": 24804869,
+      "barcode": [
+        "644110960818",
+        "PRC-465 A BG",
+        "PRC-465-B BG"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24804869-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/idlBAP8cxzgkBByegc-a3rWSPl4MxcsNHsFxgfz9To0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA0/ODY5LTE2NjU2OTc5/MTEtODE5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UCy-t1WCIlsMt_8e4k07Xtn0dzvPa0S0S7y0dQi2Km8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA0/ODY5LTE2NjU2OTc5/MTEtODE5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24804869",
+      "community": {
+        "want": 207,
+        "have": 378
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Dream Pop",
+        "Shoegaze",
+        "Indie Rock"
+      ],
+      "id": 24763115,
+      "barcode": [
+        "PRC-465 A BG",
+        "PRC-465 B BG",
+        "644110046512"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24763115-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/AQuzYyXULDdW9eDQagBlUO_bg5T5uGV5MVVjce_o6FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYz/MTE1LTE2NjU1MTAy/NzYtODQ5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zSbnFR84RpH7TqILBRmGte15EpCB3DK2KcKMgq1_8H8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYz/MTE1LTE2NjU1MTAy/NzYtODQ5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24763115",
+      "community": {
+        "want": 241,
+        "have": 1274
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Crystal Transluscent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Compilation",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Transgressive Records",
+        "Transgressive Records",
+        "Transgressive Records",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Transgressive Records Ltd.",
+        "Rough Trade",
+        "TAKT",
+        "TAKT",
+        "TAKT"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24728252,
+      "barcode": [
+        "5 400863 087876",
+        "5400863087876",
+        "TRANS642X-A 010695871-A-1 BG",
+        "TRANS642X-B 010695871-B-1 BG",
+        "2100010733436",
+        "IFPI LK97",
+        "IFPI AEW46"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24728252-Alvvays-Blue-Rev",
+      "catno": "TRANS642X",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/7h9ltbKqEaQmf3_kzKmrmCbSGzuT5ReqyJ6BZCDROv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yDQD4ehX_x_Rk1aR9rYGFByDEPI4_Su9wPjiv7vVarw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24728252",
+      "community": {
+        "want": 310,
+        "have": 654
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Transgressive Records",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Takt Direct"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Shoegaze",
+        "Indie Pop"
+      ],
+      "id": 24760082,
+      "barcode": [
+        "5400863086084",
+        "BG TRANS642X-A 010695871-A-1 1",
+        "BG TRANS642X-B 010695871-B-1",
+        "BG TRANS642X-A 010695871-A-1 3",
+        "BG TRANS642X-B 010695871-B-1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24760082-Alvvays-Blue-Rev",
+      "catno": "TRANS642X",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/oV_SWuE0qatGL9aHPTrniBTg45ePRDs0HV1_Qc-IaOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYw/MDgyLTE2Njg2MDE3/OTctNzc0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/u2V6gXXfaygELpO8WeI5M8FalI3kxsHDfGGZCBHoMpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYw/MDgyLTE2Njg2MDE3/OTctNzc0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24760082",
+      "community": {
+        "want": 285,
+        "have": 1140
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Turquoise",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "P-Vine, Inc.",
+        "P-Vine, Inc.",
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company",
+        "Polyvinyl Record Company",
+        "Celsius Girls"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock",
+        "Shoegaze"
+      ],
+      "id": 24869579,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24869579-Alvvays-Blue-Rev",
+      "catno": "PCD-94123",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/fmIdjhdW3hG7RuE4JIeh4Mw1ByvgMCP_8bKQL3vVaC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY5/NTc5LTE3Mjc1Mjgy/MTgtNTc3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gVRlQbldUUsGhjVT2_mzIsw6cH626W7jxrk9C7cJ6uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY5/NTc5LTE3Mjc1Mjgy/MTgtNTc3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24869579",
+      "community": {
+        "want": 72,
+        "have": 27
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 24747290,
+      "barcode": [
+        "6 44110 04651 2",
+        "644110046512",
+        "PRC-465 A BG",
+        "PRC-465 A BG"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/24747290-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/MmG7S-L6FzpvMaN5g-6FU_IJD8nqFKtpBXkIkNcL98E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ3/MjkwLTE3NDE5Njc5/MzEtMTcyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ifuv9aimoGHWd5sxvDaNx-LikcBFUwA1CfVDJVONva0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQ3/MjkwLTE3NDE5Njc5/MzEtMTcyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24747290",
+      "community": {
+        "want": 809,
+        "have": 4119
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue Marble",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Polyvinyl Record Company",
+        "Celsius Girls",
+        "Celsius Girls",
+        "Polyvinyl Record Company"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Shoegaze"
+      ],
+      "id": 28079083,
+      "barcode": [
+        "6 44110 04651 2",
+        "644110046512",
+        "PRC-465 A BG 1458474 255868E1",
+        "PRC-465 B BG 1458472 255868E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2813969,
+      "master_url": "https://api.discogs.com/masters/2813969",
+      "uri": "/release/28079083-Alvvays-Blue-Rev",
+      "catno": "PRC-465",
+      "title": "Alvvays - Blue Rev",
+      "thumb": "https://i.discogs.com/nsut51eAUU3Uk0w1_Q6NXqepKn4jkjty3ZgiuX2d3QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDc5/MDgzLTE2OTMwMTg2/ODQtMzI3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dsSKjPJIcHThdoMKgIbOxKAlp-upDWuyOIrpZv2trJA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDc5/MDgzLTE2OTMwMTg2/ODQtMzI3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28079083",
+      "community": {
+        "want": 147,
+        "have": 803
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 2813969,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Shoegaze",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

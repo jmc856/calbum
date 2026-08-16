@@ -1,0 +1,78 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "00602537362721",
+    "artist": "Kendrick Lamar",
+    "title": "good kid, m.A.A.d city",
+    "year": 2012
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 5183651,
+      "barcode": [
+        "602537362721",
+        "(609449) A9.4.B001837702.SA.1 07 0001",
+        "IFPI LV77",
+        "IFPI KKTY"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 484590,
+      "master_url": "https://api.discogs.com/masters/484590",
+      "uri": "/release/5183651-Kendrick-Lamar-Good-Kid-MAAD-City",
+      "catno": "B0018377-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
+      "thumb": "https://i.discogs.com/2OwDkGtbeeW4qdb2C2Vrqr9begvXsgFqG3UxxMWPvqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/NTEtMTM4Njc5MzI5/MC0xODE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/rKZfhkwKjDgx-P11Q_mGJiTJaUEIx8vPmS2AHasdCqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/NTEtMTM4Njc5MzI5/MC0xODE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5183651",
+      "community": {
+        "want": 760,
+        "have": 1646
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 484590,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

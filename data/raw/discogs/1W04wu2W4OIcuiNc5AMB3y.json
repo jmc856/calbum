@@ -1,0 +1,961 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "196871790307",
+    "artist": "Vampire Weekend",
+    "title": "Only God Was Above Us",
+    "year": 2024
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Blood Records",
+        "Schallplattenfabrik Pallas GmbH",
+        "Schallplattenfabrik Pallas GmbH",
+        "Columbia Records",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "id": 30306854,
+      "barcode": [
+        "1 96588 61821 5",
+        "AL - 19658861821  -63455-I",
+        "BL - 19658861821  -63455-I",
+        "CL - 19658861821  -63456-I",
+        "DL - 19658861821  -63456-I"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30306854-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "C-326747",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/JitCSIiet2i-A9c3T1LDcUbq9NvFZJXUPSYPJqm4a08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA2/ODU0LTE3MTI5MTQ0/OTAtNTExOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qVkNMzk6tvociqkxiU6BH1GnTRx5pNwtpk2GWG43MZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA2/ODU0LTE3MTI5MTQ0/OTAtNTExOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30306854",
+      "community": {
+        "want": 326,
+        "have": 1122
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue / Black Colour-In-Colour, UV Jacket",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Spring Snow, LLC",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment International Services GmbH",
+        "Sonopress"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Alt-Pop"
+      ],
+      "id": 30311342,
+      "barcode": [
+        "1 96588 86892 4",
+        "BIEM/GEMA",
+        "[Sonopress logo] 58434204/19658886892RD1R1 21",
+        "IFPI LP73",
+        "IFPI 0702"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30311342-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658886892",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/hDGjb8KZtz6UdxceEWWpeG29kGj1k-f2Tm9yPazuUmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzEx/MzQyLTE3MTIzMzI0/MzAtMzI4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/c37aVn5QYO0OUt3RhnhWUy7tswHIkIl1C60QzYJbF9k/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzEx/MzQyLTE3MTIzMzI0/MzAtMzI4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30311342",
+      "community": {
+        "want": 90,
+        "have": 556
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Spring Snow, LLC",
+        "Columbia Records",
+        "Columbia Records",
+        "Effie Street Studios",
+        "Sony Music Studios, Tokyo",
+        "Heavy Duty Studios",
+        "Promised Land Music Studios, London",
+        "The Mews",
+        "EastWest Studios",
+        "Tarbox Road Studios",
+        "Tarbox Road Studios",
+        "The Lodge, New York",
+        "Sony/ATV Music Publishing (UK) Ltd.",
+        "EMI Music Publishing Ltd.",
+        "WC Music Corp",
+        "BMG Platinum Songs US",
+        "BMG Rights Management (UK) Limited",
+        "GZ Media",
+        "Memphis Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "id": 30324044,
+      "barcode": [
+        "196588808319",
+        "ASCAP",
+        "BMI",
+        "AL19658861821",
+        "BL19658861821",
+        "CL19658861821",
+        "DL19658861821",
+        "AL-19658861821 MRP5559/196588861821-A 276058E1 #2 1824191",
+        "BL-19658861821 MRP5559/196588861821-B 1851360 #14 276058E2",
+        "CL-19658861821 MRP5559/19658861821-C 1822076 #1 276058E3",
+        "DL-19658851821 MRP5559/19658861821-D 1814483 #1 276058E4",
+        "AL-19658861821 MRP5559/196588861821-A 276058E1 #14 1851357",
+        "BL-19658861821 MRP5559/196588861821-B 276058E2 #14 1851360",
+        "CL-19658861821 MRP5559/19658861821-C 276058E3 #7 1822076 ",
+        "DL-19658851821 MRP5559/19658861821-D  276058E4 #7 1814483"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30324044-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658880831",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/GaCLtWMcCHBDj77gJHWveEA3XiWAxQQrj5LvAPE5iBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzI0/MDQ0LTE3MTM3OTMz/MTEtNjc4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9JPdI6NZ7WzRTxehsoD-LtW4KY9-puD896HFgFNmFY8/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzI0/MDQ0LTE3MTM3OTMz/MTEtNjc4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30324044",
+      "community": {
+        "want": 224,
+        "have": 1570
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Alternate Artwork",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Spring Snow, LLC",
+        "GZ Media",
+        "Memphis Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30305498,
+      "barcode": [
+        "1 96588 80851 7",
+        "196588808517",
+        "AL19658861821",
+        "BL19658861821",
+        "CL19658861821",
+        "DL19658861821",
+        "AL-19658861821 276058E1 #1 1824191 MRP5559/19658861821-A ",
+        "BL-19658861821 276058E2 #1 1814487 MRP5559/19658861821-B",
+        "CL-19658861821 276058E3 #9 1822076 MRP5559/19658861821-C",
+        "DL-19658861821 276058E4 #9 1814483 MRP 5559/19658861821-D",
+        "AL-19658861821 276058E1 #6 1824191 MRP5559/19658861821-A ",
+        "BL-19658861821 276058E2 #6 1814487 MRP5559/19658861821-B",
+        "CL-19658861821 276058E3 #8 1822076 MRP5559/19658861821-C",
+        "DL-19658861821 276058E4 #8 1814483 MRP 5559/19658861821-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30305498-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "C-326747",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/e0SgwsrDER5TpLsYgESOv63lDYXDthaD6GElFtR1P0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA1/NDk4LTE3MTIyNzM4/MDMtNzE5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7r-Ek68a8cHQYC6mQLr_E887-0QBAuXL5pIOSLlcm8U/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA1/NDk4LTE3MTIyNzM4/MDMtNzE5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30305498",
+      "community": {
+        "want": 282,
+        "have": 1353
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Spring Snow, LLC",
+        "The Lodge, New York",
+        "Columbia Records",
+        "Effie Street Studios",
+        "Sony Music Studios, Tokyo",
+        "Heavy Duty Studio",
+        "Promised Land Music Studios, London",
+        "The Mews",
+        "Eastwest Studios",
+        "Tarbox Road Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30309671,
+      "barcode": [
+        "1 96588 61821 5",
+        "AL 19658861821 -63455- II",
+        "BL 19658861821 -63455- II",
+        "CL 19658861821 -63456- III",
+        "DL 19658861821 -63455- I",
+        "BIEM/GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30309671-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658861821",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/H2I25NZfE0_-aIQLdOuQ_hqlEA0ZHoV20t_CZQjGu98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA5/NjcxLTE3MTIzNDE2/MDMtNzUyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NMmUx1vII6Zw5dArEsJ_-VrmJ0tWaMKGKs014sb9TOs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA5/NjcxLTE3MTIzNDE2/MDMtNzUyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30309671",
+      "community": {
+        "want": 204,
+        "have": 1328
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Spring Snow, LLC",
+        "Sony Music Entertainment Canada Inc.",
+        "Microforum Services Group"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Alt-Pop"
+      ],
+      "id": 30315551,
+      "barcode": [
+        "196588868924",
+        "19658886892 MADE IN CANADA",
+        "IFPI L011",
+        "MCF-CD4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30315551-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658886892",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/0Zv4bSa-b6AWKsu9fZ8MYoSl6k22dRrs0ROzox0cSJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE1/NTUxLTE3MTIzNjUx/MjAtNjYwMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/T3SkhqnXDtRxy_jlylJ_Cvhu2IwCYpmayJpvlwd0u6s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE1/NTUxLTE3MTIzNjUx/MjAtNjYwMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30315551",
+      "community": {
+        "want": 41,
+        "have": 95
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Spring Snow, LLC",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment Australia Pty Ltd.",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Alt-Pop"
+      ],
+      "id": 31052114,
+      "barcode": [
+        "0 196588 868924",
+        "(1259949) 19658886892 01",
+        "IFPI LV77",
+        "IFPI KK41"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/31052114-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658886892",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/V16St8dVRq4rArNCJ14lZNCy2YMBr5-tbbRHeisSUBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUy/MTE0LTE3MTkyOTI3/ODUtOTI0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/g03Z1zGsW4ZhqlJTdHqIpEmN7GiN4v7FAszkT6lMNzo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUy/MTE0LTE3MTkyOTI3/ODUtOTI0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31052114",
+      "community": {
+        "want": 48,
+        "have": 56
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Sony Records Int'l",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Labels Inc.",
+        "Spring Snow, LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Alt-Pop"
+      ],
+      "id": 30311669,
+      "barcode": [
+        "4547366673852",
+        "4 547366 673852",
+        "SICP-31710 2",
+        "IFPI L280",
+        "IFPI 4557"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30311669-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "SICP 31710",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/10gmj1pa-KsPq0pjGr7uu_ceGiAukj6Hwu1xdPNTdJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzEx/NjY5LTE3MTI1Mjk3/NjUtMzg5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8QpsWeAgpP0hChqPQZlL7ow-kQrrr_pzEZPrwibsf4s/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzEx/NjY5LTE3MTI1Mjk3/NjUtMzg5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30311669",
+      "community": {
+        "want": 75,
+        "have": 56
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Blu-spec CD2",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Spring Snow, LLC",
+        "Columbia Records",
+        "Columbia Records",
+        "Sonopress"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "id": 30323843,
+      "barcode": [
+        "1 96588 86892 4",
+        "USSM12400077",
+        "USSM12400078",
+        "USSM12400079",
+        "USSM12400080",
+        "USSM12400081",
+        "USSM12400082",
+        "USSM12400083",
+        "USSM12400084",
+        "USSM12400085",
+        "USSM12400086",
+        "Sonopress 58424774/19658886892RD1 21",
+        "IFPI LB47",
+        "IFPI 0727"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30323843-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658886892",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/yRlYDNckx4IwIpjkVbxhz-HE5zlRysOfAV8-0ehmKh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzIz/ODQzLTE3MTI0NTIy/NjMtMjg1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/trDXLqTz1vLCsviYkqUAuo1h8bhuU5c4phMdTOlm7Jw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzIz/ODQzLTE3MTI0NTIy/NjMtMjg1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30323843",
+      "community": {
+        "want": 107,
+        "have": 592
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Spring Snow, LLC"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30358961,
+      "barcode": [
+        "1 96588 80841 8",
+        "196588808418"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30358961-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658861821",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/-ZXIsHBKRcbU_RxdN7gu2dxmUBKaxDfrP9QbsNCYud8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU4/OTYxLTE3MTI3NjA5/MTEtNjc1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Oiu_BL0b2w6yyyIen8WuWYbDwoMQpdcAcqF742Dh39A/rs:fit/g:sm/q:90/h:413/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU4/OTYxLTE3MTI3NjA5/MTEtNjc1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30358961",
+      "community": {
+        "want": 106,
+        "have": 95
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Test Pressing"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30309119,
+      "barcode": [
+        "19658-86182-1AB/CD"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30309119-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "none",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/xFGF--2L7tkAdXWxY7fXudM-Uuak4FFofwWEWDva2tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA5/MTE5LTE3MTIzMzYw/ODQtMTM1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tA57ZwUmc7VRUydbZet2ZE52ijmubekJlp1XoTwhrzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA5/MTE5LTE3MTIzMzYw/ODQtMTM1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30309119",
+      "community": {
+        "want": 111,
+        "have": 19
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Schallplattenfabrik Pallas GmbH",
+        "Schallplattenfabrik Pallas GmbH",
+        "Spring Snow, LLC",
+        "Sony Music Entertainment",
+        "Columbia",
+        "Columbia"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "id": 30301865,
+      "barcode": [
+        "1 96588 80831 9",
+        "196588808319",
+        "AL - 19658861821 -63455-I",
+        "BL - 19658861821 -63455-I",
+        "CL - 19658861821 -63456-I",
+        "DL - 19658861821 -63456-I"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30301865-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658880831",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/Sk1MrpYIzNdssDBaZcBk9S5efZ4xB4VdG3p9JHaOsIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/ODY1LTE3MTIyNDUw/MTUtNDE2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4uh9Uattc_Y0xuwCEHOOFtjx9AcG92OA5oKmUUpsk7s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAx/ODY1LTE3MTIyNDUw/MTUtNDE2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30301865",
+      "community": {
+        "want": 221,
+        "have": 1846
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Alternate Artwork, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30308459,
+      "barcode": [
+        "1 96588 61821 5",
+        "196588618215",
+        "AL19658861821",
+        "BL19658861821",
+        "CL19658861821",
+        "DL19658861821"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30308459-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "C-326747",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/3iBgxBb3JgGY-ZkR_pQkbNhwX1F0wp19RlZ6pyBquw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA4/NDU5LTE3MTM1NTk1/MTItMjcyNC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/lP-VS_pkfSKt8aESZ97LYmVZ0MT7pn2GVKc9OdB1i0o/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA4/NDU5LTE3MTM1NTk1/MTItMjcyNC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30308459",
+      "community": {
+        "want": 417,
+        "have": 2798
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Spring Snow, LLC",
+        "Columbia Records",
+        "The Lodge, New York",
+        "Tarbox Road Studios",
+        "Columbia Records",
+        "GZ Media",
+        "Memphis Record Pressing",
+        "Sony/ATV Music Publishing (UK) Ltd.",
+        "EMI Music Pub. Ltd.",
+        "WC Music Corp",
+        "BMG Platinum Songs US",
+        "BMG Rights Management (UK) Limited",
+        "Sony Music Entertainment",
+        "Effie Street Studios",
+        "Sony Music Studios, Tokyo",
+        "Heavy Duty Studios",
+        "Promised Land Music Studios, London",
+        "The Mews",
+        "Eastwest Studios",
+        "Tarbox Road Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 30295721,
+      "barcode": [
+        "1 96588 80841 8",
+        "196588808418",
+        "AL-19658861821 MRP5559 / 19658861821-A 1824191 #7 276058E1",
+        "BL-19658861821 MRP5559 / 19658861821-B 1814487 #7 276058E2",
+        "CL-19658861821 MRP5559 / 19658861821-C 1822076 #3 276058E3",
+        "DL-19658861821 MRP5559 / 19658861821-D 1814483 #3 276058E4",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3447146,
+      "master_url": "https://api.discogs.com/masters/3447146",
+      "uri": "/release/30295721-Vampire-Weekend-Only-God-Was-Above-Us",
+      "catno": "19658861821",
+      "title": "Vampire Weekend - Only God Was Above Us",
+      "thumb": "https://i.discogs.com/WkUx27LHMv_yttLymFJFrmCVaUgu0nEnEkqgN_BCP6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjk1/NzIxLTE3MTIyNzMy/NTAtMTQ3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tePvhMBiTDEgyM21ZO82S1xDCrUCJPZv_WuUjmGwq0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjk1/NzIxLTE3MTIyNzMy/NTAtMTQ3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30295721",
+      "community": {
+        "want": 471,
+        "have": 883
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 3447146,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

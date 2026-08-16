@@ -1,0 +1,231 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5400863090043",
+    "artist": "Geese",
+    "title": "3D Country",
+    "year": 2023
+  },
+  "results": [
+    {
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "The Diamond Mine",
+        "Future Sounds",
+        "Metropolis Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Country Rock",
+        "Alternative Rock"
+      ],
+      "id": 27518394,
+      "barcode": [
+        "5 400863 093112",
+        "5400863093112",
+        "PTPS10LP A2 BM82688-01 A1 = MATT @ METROPOLIS =",
+        "PTPS10LP B2 BM82688-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3149439,
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27518394-Geese-3D-Country",
+      "catno": "PTPS10LPX",
+      "title": "Geese (11) - 3D Country",
+      "thumb": "https://i.discogs.com/YklC4QfwYHQQ-m39fAkG8wnXDr_GhoxuXMgWDJnfqgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE4/Mzk0LTE3ODM3MTMz/MjUtODU2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ysgxw5m6wPEy-l_0xN3Fshr84N-4gW199UNQw8AmYew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE4/Mzk0LTE3ODM3MTMz/MjUtODU2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27518394",
+      "community": {
+        "want": 1576,
+        "have": 6307
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear [Crystal Clear]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "id": 27342894,
+      "barcode": [
+        "5400863090050",
+        "PTPS10LP A2 = MATT @ METROPOLIS = 1= BM82688-01 A1",
+        "PTPS10LP B2 BM82688-01 B1 1=",
+        "PTPS10LP A2 = MATT @ METROPOLIS = BM82688-01 A1 1T",
+        "PTPS10LP B2 BM82688-01 B1 1T"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3149439,
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27342894-Geese-3D-Country",
+      "catno": "PTPS10LP",
+      "title": "Geese (11) - 3D Country",
+      "thumb": "https://i.discogs.com/4dj_r7MacAQZhvQwhQrMi59G1uujrM2miSGAdPA74tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/ODk0LTE2ODc4MDI1/NjktMjAxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BIeXvMUVuD9rKwzgLqzzNOs3b504Sp2yahfgc4JUDUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/ODk0LTE2ODc4MDI1/NjktMjAxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27342894",
+      "community": {
+        "want": 1142,
+        "have": 2904
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "The Diamond Mine",
+        "Future Sounds",
+        "Profact International",
+        "Profact International"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "id": 27594987,
+      "barcode": [
+        "5 400863 090067",
+        "5400863090067",
+        "459704 @1",
+        "459704 @2",
+        "IFPI LW03",
+        "IFPI AAHP9",
+        "IFPI AAHP5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3149439,
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27594987-Geese-3D-Country",
+      "catno": "PTPS10CD",
+      "title": "Geese (11) - 3D Country",
+      "thumb": "https://i.discogs.com/0-q8-2WakkgdJZhGaKkCBqz7aYrgVu324Kgcz1pHdIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8nJut5YXv-q6o_QDBmVgjsJoEmibU_2keKSGYJWjYN0/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27594987",
+      "community": {
+        "want": 379,
+        "have": 746
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 3149439,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

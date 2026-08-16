@@ -1,0 +1,338 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5059033597358",
+    "artist": "Chance the Rapper",
+    "title": "Acid Rap",
+    "year": 2013
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Mixtape",
+        "Promo",
+        "Unofficial Release",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 21595432,
+      "barcode": [
+        "ACID 001 A",
+        "ACID 001 B",
+        "ACID 001 C",
+        "ACID 001 D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/21595432-Chance-The-Rapper-Acid-Rap",
+      "catno": "ACIDRAPCHANCETHERAPPER001",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/bdIp0auwM6FT9A0Rjo8x44cNXJ_sleewbWDHSu-33f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk1/NDMyLTE2NDEyNTQw/NzQtMTcwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5rS4D-g7N9ues4wfR375sXUmHFlwUgmU5AHZHncRfMw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk1/NDMyLTE2NDEyNTQw/NzQtMTcwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21595432",
+      "community": {
+        "want": 188,
+        "have": 186
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Opaque Purple",
+          "descriptions": [
+            "LP",
+            "Mixtape",
+            "Promo",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Numbered",
+        "Promo",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap"
+      ],
+      "id": 7297532,
+      "barcode": [
+        "CHANCETHERAPPER001"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/7297532-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/ufCEJe_lym4kISmdu10qmh5yeAQD-64E6HAHAAXuvfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTc1/MzItMTQzODI3OTIy/Mi04MTQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vmHNY6DlI8-HU1dtuQAfXlOFva4N2gkZxDLFiy5dPVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTc1/MzItMTQzODI3OTIy/Mi04MTQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7297532",
+      "community": {
+        "want": 670,
+        "have": 227
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Promo",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 9970719,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/9970719-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/aGEpBY9R2SgN8MeJLv_T2s8Y28M6cIMoNIz0SKxE14k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA3/MTktMTQ4OTQzNDE5/MS04Nzg3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/0cSjE8b9MsaInxn-Gb2Qz7XPJ-1FFFfX5HrNSVxOC7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA3/MTktMTQ4OTQzNDE5/MS04Nzg3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9970719",
+      "community": {
+        "want": 426,
+        "have": 92
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 10811893,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/10811893-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/50-wmLWR9tVYGofUD8haQHD220teGmfAu6AZMVu2Sbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEx/ODkzLTE1MDQ3MTAy/NTQtOTE4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CccPtXfmnI4-I3y7hdcLehdtp1KplsOoPWWU65FCLhU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEx/ODkzLTE1MDQ3MTAy/NTQtOTE4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10811893",
+      "community": {
+        "want": 166,
+        "have": 35
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Mixtape Coalition",
+        "Mixtape Coalition",
+        "Mixtape Coalition"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Electro"
+      ],
+      "id": 5174910,
+      "barcode": [
+        "8 82364 87902 9",
+        "882364879029",
+        "(A62772P034    9051202)",
+        "IFPI TBD03",
+        "IFPI LT028",
+        "acid rap",
+        "A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/5174910-Chance-The-Rapper-Acid-Rap",
+      "catno": "3790",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/3cfjS8l3kQx-QA195AzlDAmNxcMAcw2IbEvAMz2DDdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQ5/MTAtMTM4Njc1NjMz/OC0zMzAzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XtcgoDjPKTpzugkBbPE8xhqVdNJ1pfCeUW3so5129T4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQ5/MTAtMTM4Njc1NjMz/OC0zMzAzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5174910",
+      "community": {
+        "want": 314,
+        "have": 87
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2013",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 4526634,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 628752,
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/4526634-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "title": "Chance The Rapper - Acid Rap",
+      "thumb": "https://i.discogs.com/hP-Iy3m21nZSrQtKvaqlCcegToOggxCecunY9VFKAzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/X1KHhYxddIyamNSKp3BCCF0YRXX6SGwDMX_-eJX2Wgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4526634",
+      "community": {
+        "want": 661,
+        "have": 320
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    }
+  ],
+  "discogs_release_id": 628752,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}
