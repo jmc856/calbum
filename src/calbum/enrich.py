@@ -101,13 +101,22 @@ def title_variants(title: str) -> list[str]:
     return variants
 
 
+def _has_real_master(result: DiscogsSearchResult) -> bool:
+    """Discogs sends master_id: 0 (not omitted, not null) for a release
+    that isn't linked to any master group — confirmed live: a search result
+    with master_id: 0 has master_url: None, and GET /masters/0 404s. 0 is a
+    zero-value, not a valid master id, so it must be excluded exactly like
+    None everywhere a result's master-linkage is checked."""
+    return result.master_id is not None and result.master_id != 0
+
+
 def choose_best_result(results: list[DiscogsSearchResult]) -> DiscogsSearchResult | None:
     """Deterministic tiebreak, not result[0] (PLAN.md Stage 1 step 2):
     prefer a result with master_id set (lowest master_id, for stability
     across re-runs after a cache delete); otherwise the lowest id."""
     if not results:
         return None
-    with_master = [r for r in results if r.master_id is not None]
+    with_master = [r for r in results if _has_real_master(r)]
     if with_master:
         return min(with_master, key=lambda r: r.master_id)
     return min(results, key=lambda r: r.id)
@@ -158,7 +167,7 @@ def enrich_album(client: GenreLookup, album: Album) -> Album:
 
     if chosen is not None:
         master_id = chosen.master_id
-        if master_id is not None:
+        if _has_real_master(chosen):
             # The master aggregates genre/style across pressings and was
             # confirmed (against live data) to be more complete than any
             # single pressing's own fields — worth the extra request.

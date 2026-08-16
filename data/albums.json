@@ -218,8 +218,19 @@
     "artists": [
       "Kevin Abstract"
     ],
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2074324,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6wi40lIjhukePWyXRKY7qO",
     "release_date": "2019-04-25",
     "release_year": 2019,

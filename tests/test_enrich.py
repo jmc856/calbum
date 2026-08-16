@@ -106,6 +106,23 @@ def test_choose_best_result_falls_back_to_lowest_id_when_no_master() -> None:
     assert chosen.id == 10
 
 
+def test_choose_best_result_treats_master_id_zero_as_no_master() -> None:
+    """Confirmed live: "ARIZONA BABY" by Kevin Abstract returns a Discogs
+    search result with master_id: 0 and master_url: None — 0 is Discogs'
+    zero-value for "not linked to a master group", not a real master id.
+    Without this, 0 sorted as the "lowest" master and GET /masters/0 404s."""
+    real_master = sr(1, master_id=2074324)
+    no_master = sr(2, master_id=0)
+    chosen = choose_best_result([no_master, real_master])
+    assert chosen.master_id == 2074324
+
+
+def test_choose_best_result_falls_back_to_lowest_id_when_only_master_id_zero() -> None:
+    results = [sr(30, master_id=0), sr(10, master_id=0)]
+    chosen = choose_best_result(results)
+    assert chosen.id == 10
+
+
 def test_choose_best_result_is_deterministic_regardless_of_input_order() -> None:
     results_a = [sr(1, master_id=500), sr(2, master_id=100)]
     results_b = list(reversed(results_a))
@@ -188,6 +205,20 @@ def test_enrich_album_barcode_hit_without_master_uses_result_fields_directly(mak
     assert result.discogs_release_id is None
     assert {g.name for g in result.genres if g.kind == "genre"} == {"Rock"}
     assert {g.name for g in result.genres if g.kind == "style"} == {"Emo"}
+
+
+def test_enrich_album_treats_master_id_zero_as_no_master(make_album) -> None:
+    """Regression test for the "ARIZONA BABY" case: a chosen result with
+    master_id: 0 must use its own genre/style fields, never call get_master
+    (which would 404 on master 0)."""
+    client = FakeGenreLookup(barcode_results=[sr(1, master_id=0, genre=["Hip Hop"], style=[])])
+    album = make_album()
+
+    result = enrich_album(client, album)
+
+    assert client.master_calls == []
+    assert result.discogs_release_id is None
+    assert {g.name for g in result.genres} == {"Hip Hop"}
 
 
 def test_enrich_album_falls_through_to_search_when_no_upc(make_album) -> None:

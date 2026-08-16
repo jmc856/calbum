@@ -1,0 +1,327 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886447681329",
+    "artist": "Kevin Abstract",
+    "title": "ARIZONA BABY",
+    "year": 2019
+  },
+  "results": [
+    {
+      "id": 13584404,
+      "title": "Kevin Abstract - Arizona Baby",
+      "master_id": 2074324,
+      "genre": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Question Everything, Inc.",
+        "RCA"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2074324",
+      "uri": "/release/13584404-Kevin-Abstract-Arizona-Baby",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Q4zclYrN9kzQR2r3bexZVZl4FwsbiLjww-Nf2Gu64Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/NDA0LTE2NDAzNzU3/NDMtOTAxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Iy-7TAPpAMfn-5PEcqnhgg8VS8gFL4IU6Q8gFPI-BxQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/NDA0LTE2NDAzNzU3/NDMtOTAxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13584404",
+      "community": {
+        "want": 143,
+        "have": 55
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36755179,
+      "title": "Kevin Abstract - Arizona Baby",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Question Everything, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/36755179-Kevin-Abstract-Arizona-Baby",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/u3qG7vduCY0IVJWawM2uf3bCqH4BNwj4ClLzdaf-vIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU1/MTc5LTE3NzMzNTAy/MTQtNTE1Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/sM8YTbSQyRQew21m9SMTlKw_s-b8Jao2A_oGw4il4CU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU1/MTc5LTE3NzMzNTAy/MTQtNTE1Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36755179",
+      "community": {
+        "want": 12,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15630418,
+      "title": "Kevin Abstract - Arizona Baby",
+      "master_id": 2074324,
+      "genre": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Question Everything, Inc.",
+        "RCA"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2074324",
+      "uri": "/release/15630418-Kevin-Abstract-Arizona-Baby",
+      "catno": "",
+      "thumb": "https://i.discogs.com/pW-64zYgnpoP0lzed9reEtlZldtQi13FTLAyiFnycoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/NDE4LTE1OTQ4Njkz/NDgtOTg5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rgyTmZEZE1B-Gz-UHD0YKUOPRC9B68JHdnGp90IFfag/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/NDE4LTE1OTQ4Njkz/NDgtOTg5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15630418",
+      "community": {
+        "want": 72,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2074324,
+    "genres": [
+      "Hip Hop",
+      "Pop"
+    ],
+    "styles": [],
+    "main_release": 13584404,
+    "most_recent_release": 31368403,
+    "resource_url": "https://api.discogs.com/masters/2074324",
+    "uri": "https://www.discogs.com/master/2074324-Kevin-Abstract-Arizona-Baby",
+    "versions_url": "https://api.discogs.com/masters/2074324/versions",
+    "main_release_url": "https://api.discogs.com/releases/13584404",
+    "most_recent_release_url": "https://api.discogs.com/releases/31368403",
+    "num_for_sale": 31,
+    "lowest_price": 18.6,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Iy-7TAPpAMfn-5PEcqnhgg8VS8gFL4IU6Q8gFPI-BxQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/NDA0LTE2NDAzNzU3/NDMtOTAxNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Iy-7TAPpAMfn-5PEcqnhgg8VS8gFL4IU6Q8gFPI-BxQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/NDA0LTE2NDAzNzU3/NDMtOTAxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Q4zclYrN9kzQR2r3bexZVZl4FwsbiLjww-Nf2Gu64Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/NDA0LTE2NDAzNzU3/NDMtOTAxNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2019,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Big Wheels",
+        "duration": "1:36"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Joyride",
+        "duration": "3:36"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Georgia",
+        "duration": "3:39"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Corpus Christi",
+        "duration": "2:52"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Baby Boy",
+        "duration": "3:31"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Mississippi",
+        "duration": "3:37"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Use Me",
+        "duration": "2:12"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Peach",
+        "duration": "2:56"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "American Problem",
+        "duration": "3:11"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Crumble",
+        "duration": "3:07"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Boyer",
+        "duration": "1:57"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Kevin Abstract",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4751064,
+        "resource_url": "https://api.discogs.com/artists/4751064",
+        "thumbnail_url": "https://i.discogs.com/RCLSUHIQ30hxRzykMJg0FYELyfx9xQfIhSEnPrpBKm8/rs:fit/g:sm/q:90/h:600/w:482/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NTEw/NjQtMTcyNTgxNDUy/OS05NDUxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Arizona Baby",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=j1XRtu5WyVc",
+        "title": "Georgia",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nGeorgia \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: Ian ",
+        "duration": 220,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=B5xnDhifQ2o",
+        "title": "Crumble",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nCrumble \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: Ian ",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-MEWki6x0VY",
+        "title": "Baby Boy",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nBaby Boy \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: Ian",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WGbLX4u6kyk",
+        "title": "Peach - Kevin Abstract",
+        "description": "directed by kevin abstract\nDP - ashlan grey\nedit & color - henock sileshi\nwardrobe - nick lenzini & weston freas \nproducer - kevin doan",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dzPP4y_RkPU",
+        "title": "Joyride",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nJoyride \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: Ian ",
+        "duration": 217,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Dlw1SntYZG8",
+        "title": "Mississippi",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nMississippi \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: ",
+        "duration": 218,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ojvG8hyjeAA",
+        "title": "Big Wheels",
+        "description": "Provided to YouTube by Sony Music Entertainment\n\nBig Wheels \u00b7 Kevin Abstract\n\nARIZONA BABY\n\n\u2117 2019 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2019-04-25\n\nComposer, Lyricist: I",
+        "duration": 97,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2074324,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}
