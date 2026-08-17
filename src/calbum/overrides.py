@@ -47,7 +47,9 @@ logger = logging.getLogger(__name__)
 # Album fields an override entry may patch directly (verbatim, no special
 # handling). genres/styles are handled separately (they build Genre records,
 # tagged with provenance); "note" is TOML-only documentation, never stored.
-_SCALAR_FIELDS = {"artists", "title", "release_date", "album_type", "upc", "added_at"}
+# cover_url matters most for a manual album (no Spotify art to backfill from)
+# but is patchable on any album, same as every other scalar field.
+_SCALAR_FIELDS = {"artists", "title", "release_date", "album_type", "upc", "added_at", "cover_url"}
 _KNOWN_FIELDS = _SCALAR_FIELDS | {"genres", "styles", "note"}
 
 # A manual album (id not already in the catalog) needs at least these to be
@@ -147,6 +149,7 @@ def _new_manual_album(album_id: str, entry: dict, now: datetime) -> Album | None
         removed_at=None,
         genres=_override_genres(entry),
         source="manual",
+        cover_url=entry.get("cover_url"),
     )
 
 

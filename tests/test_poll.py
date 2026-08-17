@@ -211,6 +211,9 @@ def test_build_albums_creates_new_album_with_computed_fields(tmp_path: Path) -> 
             "release_date": "1999-06",
             "album_type": "single",
             "external_ids": {"upc": "012345678905"},
+            "images": [{"url": "https://i.scdn.co/image/small", "width": 64},
+                       {"url": "https://i.scdn.co/image/large", "width": 640},
+                       {"url": "https://i.scdn.co/image/medium", "width": 300}],
         }
     }
     by_album = {"a1": [{"added_at": "2024-01-01T00:00:00Z"}, {"added_at": "2024-01-02T00:00:00Z"}]}
@@ -225,6 +228,52 @@ def test_build_albums_creates_new_album_with_computed_fields(tmp_path: Path) -> 
     assert album.upc == "012345678905"
     assert album.added_at == datetime(2024, 1, 1, tzinfo=timezone.utc)
     assert album.removed_at is None
+    assert album.cover_url == "https://i.scdn.co/image/large"  # widest, not array order
+
+
+def test_build_albums_new_album_with_no_images_has_no_cover_url(tmp_path: Path) -> None:
+    poller = make_poller(tmp_path)
+    resolved = {
+        "a1": {"name": "T", "artists": [{"name": "A"}], "release_date": "2020-01-01",
+               "album_type": "album", "external_ids": {}}
+    }
+    by_album = {"a1": [{"added_at": "2024-01-01T00:00:00Z"}]}
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album, datetime.now(timezone.utc))}
+
+    assert result["a1"].cover_url is None
+
+
+def test_build_albums_backfills_cover_url_on_an_existing_album_missing_one(tmp_path: Path, make_album) -> None:
+    """An album polled before cover_url existed gets it filled in from this
+    run's already-cached blob — no extra request, no separate backfill step."""
+    poller = make_poller(tmp_path)
+    poller.existing = {"a1": make_album("a1", cover_url=None)}
+    resolved = {
+        "a1": {"name": "T", "artists": [{"name": "A"}], "release_date": "2020-01-01",
+               "album_type": "album", "external_ids": {},
+               "images": [{"url": "https://i.scdn.co/image/backfilled", "width": 640}]}
+    }
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album={}, now=datetime.now(timezone.utc))}
+
+    assert result["a1"].cover_url == "https://i.scdn.co/image/backfilled"
+
+
+def test_build_albums_does_not_overwrite_an_existing_cover_url(tmp_path: Path, make_album) -> None:
+    """Backfill only fills a gap — it must never overwrite an album that
+    already has a cover_url, or every poll would rewrite the file."""
+    poller = make_poller(tmp_path)
+    poller.existing = {"a1": make_album("a1", cover_url="https://i.scdn.co/image/original")}
+    resolved = {
+        "a1": {"name": "T", "artists": [{"name": "A"}], "release_date": "2020-01-01",
+               "album_type": "album", "external_ids": {},
+               "images": [{"url": "https://i.scdn.co/image/different", "width": 640}]}
+    }
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album={}, now=datetime.now(timezone.utc))}
+
+    assert result["a1"].cover_url == "https://i.scdn.co/image/original"
 
 
 def test_build_albums_degrades_a_single_malformed_album_instead_of_aborting(tmp_path: Path) -> None:

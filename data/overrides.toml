@@ -14,7 +14,9 @@
 #
 # # Manual album: not on Spotify at all. artists/title/release_date required;
 # # genres optional — leave empty and enrich.py fills them in from Discogs.
+# # cover_url optional too — a manual album has no Spotify art to backfill.
 # ["manual:some-slug"]
 # artists = ["Some Artist"]
 # title = "Some Album"
 # release_date = 1999-01-01
+# cover_url = "https://example.com/cover.jpg"

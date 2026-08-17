@@ -42,6 +42,7 @@ def make_album() -> Callable[..., Album]:
         genres: list[Genre] | None = None,
         discogs_release_id: int | None = None,
         source: str = "spotify",
+        cover_url: str | None = None,
     ) -> Album:
         return Album(
             id=album_id,
@@ -56,6 +57,7 @@ def make_album() -> Callable[..., Album]:
             genres=genres or [],
             discogs_release_id=discogs_release_id,
             source=source,
+            cover_url=cover_url,
         )
 
     return _make_album

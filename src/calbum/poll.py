@@ -89,6 +89,16 @@ def parse_release_date(value: str) -> date:
     return date(year, month, day)
 
 
+def _cover_url(full: dict) -> str | None:
+    """The largest image in Spotify's AlbumObject.images — the frontend can
+    always downscale a too-large image, never upscale a too-small one.
+    Picked by width rather than relying on Spotify's array ordering."""
+    images = full.get("images") or []
+    if not images:
+        return None
+    return max(images, key=lambda img: img.get("width") or 0).get("url")
+
+
 def _track_obj(item: dict) -> dict:
     """See PLAN.md "gotchas": the per-item album path (item["item"] vs the
     older item["track"]) is confirmed by scripts/probe.py — tries the new
@@ -252,8 +262,19 @@ class Poller:
                 # recomputed from playlist state. Clear removed_at if it was
                 # previously removed and has now reappeared.
                 album = self.existing[album_id]
+                update: dict = {}
                 if not album.is_active:
-                    result[album_id] = album.model_copy(update={"removed_at": None})
+                    update["removed_at"] = None
+                # Backfill only — an album polled before cover_url existed
+                # gets it filled in for free from this run's already-cached
+                # blob; an album that already has one is left untouched, so
+                # this can't churn the file on every run.
+                if not album.cover_url:
+                    cover_url = _cover_url(full)
+                    if cover_url:
+                        update["cover_url"] = cover_url
+                if update:
+                    result[album_id] = album.model_copy(update=update)
                 continue
 
             # Decision 2: lenient at the boundary. One malformed album must
@@ -275,6 +296,7 @@ class Poller:
                     removed_at=None,
                     genres=[],
                     source="spotify",
+                    cover_url=_cover_url(full),
                 )
             except (KeyError, ValueError) as exc:
                 logger.warning(

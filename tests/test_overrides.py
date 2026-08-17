@@ -64,6 +64,15 @@ def test_patches_arbitrary_scalar_fields(make_album) -> None:
     assert result.title == "Arizona Baby"
 
 
+def test_patches_cover_url(make_album) -> None:
+    album = make_album("a1", cover_url=None)
+    overrides = {"a1": {"cover_url": "https://example.com/cover.jpg"}}
+
+    [result] = apply_overrides([album], overrides, NOW)
+
+    assert result.cover_url == "https://example.com/cover.jpg"
+
+
 def test_release_date_patch_keeps_release_year_in_sync(make_album) -> None:
     import datetime as dt
 
@@ -165,6 +174,27 @@ def test_inserts_a_manual_album_when_key_matches_nothing() -> None:
     assert album.release_year == 2002
     assert album.genres[0].name == "Electronic"
     assert album.genres[0].source == GenreSource.OVERRIDE
+
+
+def test_manual_album_can_specify_a_cover_url() -> None:
+    overrides = {
+        "manual:x": {
+            "artists": ["A"], "title": "T", "release_date": "2020-01-01",
+            "cover_url": "https://example.com/cover.jpg",
+        }
+    }
+
+    [album] = apply_overrides([], overrides, NOW)
+
+    assert album.cover_url == "https://example.com/cover.jpg"
+
+
+def test_manual_album_without_cover_url_defaults_to_none() -> None:
+    overrides = {"manual:x": {"artists": ["A"], "title": "T", "release_date": "2020-01-01"}}
+
+    [album] = apply_overrides([], overrides, NOW)
+
+    assert album.cover_url is None
 
 
 def test_manual_album_without_genres_is_left_empty_for_enrich_to_fill(make_album) -> None:

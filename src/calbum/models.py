@@ -74,6 +74,12 @@ class Album(BaseModel):
     cascade (constraint 6). Records which pressing/master was chosen so a
     re-run's choice is auditable, per PLAN.md Stage 1 step 2."""
     source: Literal["spotify", "manual"] = "spotify"
+    cover_url: str | None = None
+    """The largest available cover image from Spotify's AlbumObject.images,
+    set once at first write like added_at — see poll.py's Poller.build_albums
+    for how an album polled before this field existed gets it backfilled
+    from its already-cached raw blob, at no extra API cost. A manual album
+    (source="manual") has no Spotify art; set this via an override entry."""
 
     @property
     def is_active(self) -> bool:
