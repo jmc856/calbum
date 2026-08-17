@@ -20,8 +20,8 @@ One write path, N generated read-only projections.
 - **Canonical store:** JSON files in this git repo.
 - **Read surfaces:** Google Sheet (share with friends), a React frontend (Stage 4).
 
-Nothing except the Sheet's `_overrides` tab is ever hand-edited. Everything else is
-generated and can be deleted and rebuilt.
+Nothing except `data/overrides.toml` is ever hand-edited (see Stage 3).
+Everything else is generated and can be deleted and rebuilt.
 
 ## Key decisions (do not relitigate)
 
@@ -55,7 +55,7 @@ generated and can be deleted and rebuilt.
   one sub-genre per album. Only Discogs (`genre[]` + `style[]`) produces that shape;
   MusicBrainz is flat community tags and Spotify's artist-level genres are flat and
   deprecated. So the cascade is Discogs-by-barcode -> Discogs-by-search ->
-  MusicBrainz -> `_overrides`, in that order, never skipping straight to MusicBrainz —
+  MusicBrainz -> `overrides.toml`, in that order, never skipping straight to MusicBrainz —
   see Stage 1.
 - **Identity = Spotify album ID.** No fuzzy matching, no MBIDs as primary key,
   no review queue.
@@ -117,7 +117,7 @@ Python is a real installable package, not a flat script directory — the previo
       raw/spotify/{album_id}.json    # raw Spotify blobs, one file per album
       raw/discogs/{album_id}.json    # enrichment cache, one file per album
       albums.json                    # canonical normalized records
-      overrides.json                 # snapshot of the Sheet's _overrides tab
+      overrides.toml                 # hand-edited corrections + manual albums (Stage 3)
       unmatched.json                 # backfill rows that failed to resolve
     scripts/
       get_refresh_token.py     # one-time interactive OAuth grant
@@ -279,7 +279,7 @@ the primary tier, so it's the last automated resort, not the first fallback.
    keeps the two-tier shape intact.
 4. **MusicBrainz fallback**, primary-genre-only, for anything still missing after step 3:
    barcode -> release -> release-group with `inc=genres` (only when a UPC exists to look
-   up; otherwise skip straight to `_overrides`).
+   up; otherwise skip straight to `overrides.toml`, Stage 3).
 5. Rate limits: Discogs 60/min authenticated, tracked via the `X-Discogs-Ratelimit-*`
    response headers. MusicBrainz 1 req/sec and requires a descriptive User-Agent with
    contact info.
@@ -334,20 +334,48 @@ sub-genre, and you can see which cascade step supplied each one.
 - Mapping Discogs' vocabulary onto a personal/cleaner genre naming (e.g.
   Discogs' own category "Folk, World, & Country" isn't necessarily how
   anyone thinks about their music) — a data-layer concern for Stage 3's
-  `_overrides` below, not a sheet-rendering one.
+  `overrides.toml` below, not a sheet-rendering one.
 
-## Stage 3 — Overrides
+## Stage 3 — Overrides & manual albums
 
-1. Create an `_overrides` tab: `spotify_album_id | genre | sub_genre | note`. There is no
-   keeper-demotion column — removing an album from `_selected` in Spotify is now the
-   demotion, handled entirely by Stage 0.
-2. Read it as the FIRST step of the pipeline. Snapshot to `data/overrides.json`.
-3. Apply at highest precedence, above the entire Stage 1 cascade.
+Implemented as `data/overrides.toml`, read by `overrides.py`, **not** the
+`_overrides` Google Sheet tab this stage originally specced. Reasons for the
+change: the Sheet is a generated output, rebuilt from scratch every run
+(Stage 2 step 2) — making it *also* a hand-edited input is confusing; it
+would put manual-album identity behind the Sheets API; and it gets no git
+history, which this project already treats as its audit log (constraint 1).
+A repo file solves all three, at zero new dependencies (`tomllib` is
+stdlib on 3.13). It's edited via GitHub's mobile web UI on a phone, or
+locally.
 
-This tab is the only hand-editable surface in the system. It is editable from the
-Sheets mobile app, which is the intended correction workflow.
+One file, one rule, keyed by album id:
 
-**Done when:** a correction typed on your phone survives the next run.
+- **Key matches an existing album** -> patches those fields (a correction).
+  Any field may be overridden, not just genre/sub-genre.
+- **Key matches no existing album** -> inserted as a new album with
+  `source: "manual"` (an album that doesn't exist on Spotify at all).
+
+Pipeline order: **poll -> overrides -> enrich -> sheets.** Running before
+enrich means a manual album with empty `genres` gets filled in by the
+Discogs cascade automatically (enrich only touches albums with
+`genres == []`), and a corrected `title` is what enrich then sends to
+Discogs' search.
+
+`poll.py`'s tombstone logic and mass-removal-guard baseline both exclude
+`source == "manual"` albums — they were never in `_selected`, so their
+absence from a poll result says nothing about their status.
+
+Genre overrides are reversible: deleting a row (or its `genres`/`styles`
+keys) resets that album's genres to `[]` if they were override-sourced,
+which is what makes enrich re-derive them from Discogs on the next run.
+Scalar-field overrides (title, release_date, ...) are not reversible the
+same way — nothing records the pre-override value, so undoing one means
+editing the value back, not deleting the row. Deliberate: the common case
+(a wrong genre) is fully reversible in a few lines; full undo history for
+every field isn't worth the machinery.
+
+**Done when:** a correction (or a manually-added album) typed on your phone
+survives the next run.
 
 ## Stage 4 — React frontend
 

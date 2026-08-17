@@ -288,16 +288,25 @@ class Poller:
 
             result[album_id] = new_album
 
-        # Previously active but not resolved this run -> removed_at, not deleted.
+        # Previously active but not resolved this run -> removed_at, not
+        # deleted. Manual albums (source != "spotify", added by
+        # overrides.py) are exempt — they were never in `_selected` to begin
+        # with, so their absence here says nothing about their status.
         for album_id, album in self.existing.items():
-            if album_id not in resolved and album.is_active:
+            if album_id not in resolved and album.is_active and album.source == "spotify":
                 result[album_id] = album.model_copy(update={"removed_at": now})
 
         return list(result.values())
 
     def run(self) -> None:
         existing = self.load_existing_albums()
-        previous_active_count = sum(1 for a in existing.values() if a.is_active)
+        # Manual albums are never in `resolved` (they don't come from
+        # Spotify), so they must be excluded from the guard's baseline too —
+        # otherwise every manual album in the catalog counts as a "drop"
+        # against a `resolved` count that can never include it.
+        previous_active_count = sum(
+            1 for a in existing.values() if a.is_active and a.source == "spotify"
+        )
 
         playlist_id = self.client.find_playlist_id(PLAYLIST_NAME)
         if playlist_id is None:

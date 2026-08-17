@@ -64,6 +64,7 @@ def make_album() -> Callable[..., Album]:
 @pytest.fixture(autouse=True)
 def redirect_data_paths(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
     import calbum.enrich as enrich_module
+    import calbum.overrides as overrides_module
     import calbum.paths as paths_module
     import calbum.sheets as sheets_module
 
@@ -72,3 +73,5 @@ def redirect_data_paths(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None
     monkeypatch.setattr(enrich_module, "ALBUMS_PATH", albums_path)
     monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path / "raw" / "discogs")
     monkeypatch.setattr(sheets_module, "ALBUMS_PATH", albums_path)
+    monkeypatch.setattr(overrides_module, "ALBUMS_PATH", albums_path)
+    monkeypatch.setattr(overrides_module, "OVERRIDES_PATH", tmp_path / "overrides.toml")

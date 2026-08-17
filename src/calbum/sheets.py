@@ -47,6 +47,10 @@ class SheetBackend(Protocol):
 
 
 def hyperlink(album: Album) -> str:
+    """A manual album (Album.spotify_url is None) has nothing to link to —
+    render its plain title instead of a formula pointed at a dead URL."""
+    if album.spotify_url is None:
+        return album.title
     title = album.title.replace('"', '""')
     return f'=HYPERLINK("{album.spotify_url}", "{title}")'
 

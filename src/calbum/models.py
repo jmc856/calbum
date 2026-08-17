@@ -92,5 +92,9 @@ class Album(BaseModel):
         return [g.name for g in self.genres if g.kind == "style"]
 
     @property
-    def spotify_url(self) -> str:
+    def spotify_url(self) -> str | None:
+        """None for a manual album (source != "spotify") — its id isn't a
+        real Spotify id, so there's no URL to fabricate."""
+        if self.source != "spotify":
+            return None
         return f"https://open.spotify.com/album/{self.id}"

@@ -23,6 +23,9 @@ class FakeClient:
         self._albums = albums or {}
         self.fetched: list[str] = []
 
+    def find_playlist_id(self, name: str) -> str | None:
+        return "playlist-id"
+
     def playlist_items(self, playlist_id: str):
         return iter(self._items)
 
@@ -131,6 +134,22 @@ def test_guard_boundary_exactly_fifty_uses_percentage_rule() -> None:
     check_mass_removal_guard(previous_active_count=50, new_active_count=49)
 
 
+def test_run_does_not_trip_the_guard_on_manual_albums_alone(tmp_path: Path, make_album) -> None:
+    """previous_active_count must exclude manual albums — they can never
+    appear in `resolved` (nothing in it comes from Spotify), so counting
+    them would make every run with manual albums present look like a drop."""
+    from calbum.writer import write_albums
+
+    poller = make_poller(tmp_path, items=[])  # empty playlist -> resolved == {}
+    manual_albums = [make_album(f"manual:{i}", source="manual") for i in range(60)]
+    write_albums(poller.albums_path, manual_albums)
+
+    poller.run()  # must not raise MassRemovalAbort
+
+    result = poller.load_existing_albums()
+    assert all(result[a.id].is_active for a in manual_albums)
+
+
 # --- build_albums -------------------------------------------------------------
 
 
@@ -168,6 +187,19 @@ def test_build_albums_sets_removed_at_for_albums_no_longer_resolved(tmp_path: Pa
     result = {a.id: a for a in poller.build_albums(resolved={}, by_album={}, now=now)}
 
     assert result["a1"].removed_at == now
+
+
+def test_build_albums_does_not_remove_a_manual_album_absent_from_resolved(tmp_path: Path, make_album) -> None:
+    """A manual album (source="manual", added by overrides.py) was never in
+    `_selected` to begin with — its absence from `resolved` says nothing
+    about its status, so it must survive untouched, not get tombstoned."""
+    poller = make_poller(tmp_path)
+    poller.existing = {"manual:x": make_album("manual:x", source="manual")}
+    now = datetime(2024, 1, 1, tzinfo=timezone.utc)
+
+    result = {a.id: a for a in poller.build_albums(resolved={}, by_album={}, now=now)}
+
+    assert result["manual:x"].removed_at is None
 
 
 def test_build_albums_creates_new_album_with_computed_fields(tmp_path: Path) -> None:

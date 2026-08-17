@@ -1,0 +1,20 @@
+# Hand-edited corrections and manual (non-Spotify) albums. See PLAN.md
+# Stage 3. Edit this file, then run `python -m calbum.overrides` (or push —
+# the sync workflow runs it automatically between poll and enrich).
+#
+# Key matches an existing album id -> patches those fields.
+# Key matches nothing               -> inserted as a new "manual" album.
+#
+# Examples (uncomment to try):
+#
+# # Correction: override a genre Discogs got wrong or you just disagree with.
+# ["1DqhWr73Fh5yoNzKLas0G3"]
+# genres = ["Hip Hop"]
+# note = "why this override exists"
+#
+# # Manual album: not on Spotify at all. artists/title/release_date required;
+# # genres optional — leave empty and enrich.py fills them in from Discogs.
+# ["manual:some-slug"]
+# artists = ["Some Artist"]
+# title = "Some Album"
+# release_date = 1999-01-01
