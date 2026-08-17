@@ -1,0 +1,445 @@
+{
+  "album_type": "album",
+  "total_tracks": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+  },
+  "href": "https://api.spotify.com/v1/albums/1dShPPoxXfzbjFO1jIHJZz",
+  "id": "1dShPPoxXfzbjFO1jIHJZz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f1ebf73130fc32aa3bf2b06",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e028f1ebf73130fc32aa3bf2b06",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048518f1ebf73130fc32aa3bf2b06",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Blue Rev",
+  "release_date": "2022-10-07",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1dShPPoxXfzbjFO1jIHJZz",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+      },
+      "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+      "id": "3kzwYV3OCB010YfXMF0Avt",
+      "name": "Alvvays",
+      "type": "artist",
+      "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1dShPPoxXfzbjFO1jIHJZz/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 124130,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3r2vyNnqFKr6IraCqLtoBI",
+        "id": "3r2vyNnqFKr6IraCqLtoBI",
+        "name": "Pharmacist",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3r2vyNnqFKr6IraCqLtoBI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42oq4KDYcBwAHpEkV3PuWc",
+        "id": "42oq4KDYcBwAHpEkV3PuWc",
+        "name": "Easy On Your Own?",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:42oq4KDYcBwAHpEkV3PuWc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185276,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0O5q2h0kfQD6PixL7rCHuL",
+        "id": "0O5q2h0kfQD6PixL7rCHuL",
+        "name": "After The Earthquake",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0O5q2h0kfQD6PixL7rCHuL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206334,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AvH0BPmruOp9DlqNkMl2b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AvH0BPmruOp9DlqNkMl2b",
+        "id": "7AvH0BPmruOp9DlqNkMl2b",
+        "name": "Tom Verlaine",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7AvH0BPmruOp9DlqNkMl2b",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 129862,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1rw9dOKuewBiKfVHgUPDfo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1rw9dOKuewBiKfVHgUPDfo",
+        "id": "1rw9dOKuewBiKfVHgUPDfo",
+        "name": "Pressed",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1rw9dOKuewBiKfVHgUPDfo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178543,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OKKk5c1shUYLoayFMjYqg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OKKk5c1shUYLoayFMjYqg",
+        "id": "5OKKk5c1shUYLoayFMjYqg",
+        "name": "Many Mirrors",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5OKKk5c1shUYLoayFMjYqg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 141999,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4eTzgPhzCAQxHU0Y308Sk8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4eTzgPhzCAQxHU0Y308Sk8",
+        "id": "4eTzgPhzCAQxHU0Y308Sk8",
+        "name": "Very Online Guy",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4eTzgPhzCAQxHU0Y308Sk8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189511,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wsqBGQ3MgU2AyuYOardEn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1wsqBGQ3MgU2AyuYOardEn",
+        "id": "1wsqBGQ3MgU2AyuYOardEn",
+        "name": "Velveteen",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1wsqBGQ3MgU2AyuYOardEn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178046,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vgVK6gKfRatuh17mEeetx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vgVK6gKfRatuh17mEeetx",
+        "id": "3vgVK6gKfRatuh17mEeetx",
+        "name": "Tile By Tile",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3vgVK6gKfRatuh17mEeetx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cE0GLEieCg9EsvUtkEyby"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cE0GLEieCg9EsvUtkEyby",
+        "id": "7cE0GLEieCg9EsvUtkEyby",
+        "name": "Pomeranian Spinster",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7cE0GLEieCg9EsvUtkEyby",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165445,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kSMqCHHCrNwsJJXJRLEoT",
+        "id": "1kSMqCHHCrNwsJJXJRLEoT",
+        "name": "Belinda Says",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1kSMqCHHCrNwsJJXJRLEoT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1FlbjrZ0AqdWOaqz5skg6e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FlbjrZ0AqdWOaqz5skg6e",
+        "id": "1FlbjrZ0AqdWOaqz5skg6e",
+        "name": "Bored In Bristol",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1FlbjrZ0AqdWOaqz5skg6e",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198435,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2muqpCS37sylfNeTF3pqeM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2muqpCS37sylfNeTF3pqeM",
+        "id": "2muqpCS37sylfNeTF3pqeM",
+        "name": "Lottery Noises",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2muqpCS37sylfNeTF3pqeM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+            "id": "3kzwYV3OCB010YfXMF0Avt",
+            "name": "Alvvays",
+            "type": "artist",
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 80175,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/511OLEareBr34kob8B2Km0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/511OLEareBr34kob8B2Km0",
+        "id": "511OLEareBr34kob8B2Km0",
+        "name": "Fourth Figure",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:511OLEareBr34kob8B2Km0",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2022 Celsius Girls under exclusive license to Polyvinyl Record Co.",
+      "type": "C"
+    },
+    {
+      "text": "2022 Celsius Girls under exclusive license to Polyvinyl Record Co.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5400863086077"
+  },
+  "genres": []
+}

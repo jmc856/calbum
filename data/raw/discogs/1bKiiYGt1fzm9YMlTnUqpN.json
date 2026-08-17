@@ -1,0 +1,1188 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "0045778801367",
+    "artist": "MJ Lenderman",
+    "title": "Manning Fireworks",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 31773821,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Cage Match Publishing",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "011 628 533 - A2",
+        "011 628 533 - B2",
+        "8714092801316 - Sleeve",
+        "8714092801347 - Shrinkwrap"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31773821-MJ-Lenderman-Manning-Fireworks",
+      "catno": "8013-1",
+      "thumb": "https://i.discogs.com/VbM8gtBmXTE48luAlmzZ0PECzTPZEbb-nA3O0bKWH8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcz/ODIxLTE3MjY3NTkz/NDUtNzMzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vCGGsLK10yUEsJUGzj-g4PKBGonVSaeYhHKUoDpxnfM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcz/ODIxLTE3MjY3NTkz/NDUtNzMzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31773821",
+      "community": {
+        "want": 124,
+        "have": 273
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green [Opaque]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31716665,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31716665-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/CwZEgXMsQKqLCEWC1avXywiQWB56YMn-vXzMvNzPUvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzE2/NjY1LTE3MjYxNDU0/NTQtNjQyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EeJeKmIpV9aI4xI8bqGy1wSIfEE-0RwTRIwxEPuRd_Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzE2/NjY1LTE3MjYxNDU0/NTQtNjQyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31716665",
+      "community": {
+        "want": 100,
+        "have": 70
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red [Translucent]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31670039,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778808298"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31670039-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/S70NWPv3anDZpxcgGYxJTfz4nlP4j9-zOMBAfTnZegA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDM5LTE3MjU2NTI5/NjgtOTEyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yBrMsWPQ-5CcniAMVvBBdmOOOiPbtrSMHPqp9o1wPs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDM5LTE3MjU2NTI5/NjgtOTEyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31670039",
+      "community": {
+        "want": 149,
+        "have": 146
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Red & Orange Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31669604,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service",
+        "Cage Match Publishing",
+        "Secretly Publishing",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778801312",
+        "045778801350",
+        "BMI",
+        "88013-A [CMS logo]GO 240207",
+        "88013-B [CMS logo]GO 240207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31669604-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/JybW2uQBRiXfPKaOs79tD7PFoHwR4ZySAuAKqlHUQJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY5/NjA0LTE3Mjk0NTQx/MTQtODg5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iWEoJdBm3aaMx5IIvQ4FO8hzp2Wd1BP07kd9NmVL7Yg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY5/NjA0LTE3Mjk0NTQx/MTQtODg5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31669604",
+      "community": {
+        "want": 213,
+        "have": 630
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red [Opaque]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32219010,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Anti-",
+        "Anti, Inc.",
+        "Anti, Inc.",
+        "Cage Match Publishing",
+        "Secretly Publishing",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 714092 801316",
+        "8714092801316",
+        "8013-1SLE",
+        "LC 02576",
+        "BIEM/STEMRA",
+        "BMI",
+        "011 628 533 - A2",
+        "011 628 533 - B2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/32219010-MJ-Lenderman-Manning-Fireworks",
+      "catno": "8013-1",
+      "thumb": "https://i.discogs.com/KoxQa7YqgJjMaDpkH1b460WB_cL9_hNlwIyyhW3RdEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE5/MDEwLTE3MzA5Njk1/MzQtODQ0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5k422r-BQMbmQe6e_tA-EmuJHeYstcU1h_VPlTIE5vk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE5/MDEwLTE3MzA5Njk1/MzQtODQ0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32219010",
+      "community": {
+        "want": 162,
+        "have": 1198
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31765424,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Cage Match Publishing",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778801329",
+        "88013-2  25123-CD-0163  24-228-16-2",
+        "IFPI LY89",
+        "IFPI L820"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31765424-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-2",
+      "thumb": "https://i.discogs.com/Fx1wJZfLpxyL0JG7Oz8FFBCiJlbX7oM_tbp2X9Hmj9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY1/NDI0LTE3MjY2NjU5/NzMtNzQxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vShv6G5RbO5uofQ_N8rpmRJyievoTRI-tjSs8hguXMc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY1/NDI0LTE3MjY2NjU5/NzMtNzQxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31765424",
+      "community": {
+        "want": 130,
+        "have": 373
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31670339,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Cage Match Publishing",
+        "Secretly Publishing",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778801312",
+        "0 45778 80131 2",
+        "8 8013-A [CMS logo]GO 240207",
+        "8 8013-B [CMS logo]GO 240207",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31670339-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/85kGI9mC5XDWHV7fwSkrKTFeKY2oVF6NIeuZfp6P6bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MzM5LTE3NDU5NDA3/MTgtMjQ1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GjJixU6u2FqO_oCYVx822NeOBgRb__EyliaawT_6IpY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MzM5LTE3NDU5NDA3/MTgtMjQ1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31670339",
+      "community": {
+        "want": 611,
+        "have": 5605
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31663715,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31663715-MJ-Lenderman-Manning-Fireworks",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/kqomkXHnXDDe--5r-f-bwonOhhDAXb1p143QYaUKZdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bFcGv1dcIn9FNEA6wQBj9_19eNW2WkGgLsq7SeNUjRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31663715",
+      "community": {
+        "want": 70,
+        "have": 63
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31807463,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778801381"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31807463-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/dyINO-rP_0YSRfr2EEMFcA_EmcsYwQq8XJXeEzfTmDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA3/NDYzLTE3MzE3ODcz/NjgtOTkxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/v7UUJnDRxX5k9HBudV5YZcTsmP6rHzgeCQM3N_0HTJ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA3/NDYzLTE3MzE3ODcz/NjgtOTkxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31807463",
+      "community": {
+        "want": 88,
+        "have": 76
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange [Opaque]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31669979,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service",
+        "Cage Match Publishing",
+        "Secretly Publishing",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 45778 80131 2",
+        "0 45778 80821 2",
+        "BMI",
+        "88013-A [CMS logo] GO 240207",
+        "88013-B [CMS logo] GO 240207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31669979-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/e-4ukgHiUK-RmN72_N8mZAtnlEp-50RJozwVwzwdyD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY5/OTc5LTE3MjYwMDU4/OTctMjgyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Uv8baXjYA1hgO-MfkBQWyxdSA5CFKgwmdDZHW3irPBU/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY5/OTc5LTE3MjYwMDU4/OTctMjgyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31669979",
+      "community": {
+        "want": 173,
+        "have": 284
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green [Transparent]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31718669,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Country",
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dear Life Records",
+        "Cage Match Publishing",
+        "Drop Of Sun Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308081022"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31718669-MJ-Lenderman-Manning-Fireworks",
+      "catno": "DLR 058",
+      "thumb": "https://i.discogs.com/ukcxjxho3F3MUGrmH92frods5w7ht8AfzcIx0KvWAZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzE4/NjY5LTE3Mjc4MTc2/ODYtODIxNi5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/3rnSrWwtIGXYi_z9mFHNZoUpkCDsBbZtCmafKUJp_FI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzE4/NjY5LTE3Mjc4MTc2/ODYtODIxNi5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31718669",
+      "community": {
+        "want": 62,
+        "have": 133
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31670615,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-",
+        "Cage Match Publishing",
+        "Drop Of Sun Studios",
+        "Chicago Mastering Service",
+        "KDMD",
+        "Replifact"
+      ],
+      "type": "release",
+      "barcode": [
+        "8714092801323",
+        "BIEM/STEMRA",
+        "LC 02576",
+        "2424567 KD 203733 KDMD",
+        "IFPI 3614"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31670615-MJ-Lenderman-Manning-Fireworks",
+      "catno": "8013-2",
+      "thumb": "https://i.discogs.com/X8flc24V4Ysn3zBwnY3vxnDAzI4VoZxxvT-WGQnKo4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/NjE1LTE3MjgwNDc2/NDUtOTU1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/llgK-Mn1NO6gmzWzeUT1n458upB4mvPamBYxN8R_Y28/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/NjE1LTE3MjgwNDc2/NDUtOTU1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31670615",
+      "community": {
+        "want": 95,
+        "have": 316
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31674809,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Cage Match Publishing",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "8714092801316",
+        "011 628 533 - A2",
+        "011 628 533 - B2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31674809-MJ-Lenderman-Manning-Fireworks",
+      "catno": "8013-1",
+      "thumb": "https://i.discogs.com/sWgqtKAS-poQYVdLwdrxY7VL3W1zkwE3PgoU9rstLLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc0/ODA5LTE3MjU3MTEy/MzYtNDY2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UIreiBTRa2k7TqzAgb_6DxJ-uo6M-pLZ8z5ImUdKqoU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc0/ODA5LTE3MjU3MTEy/MzYtNDY2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31674809",
+      "community": {
+        "want": 130,
+        "have": 484
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31682138,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31682138-MJ-Lenderman-Manning-Fireworks",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/3qJZ1146d4PQZ5ZIuKtC-O1PvByK3sktH-wXngPufck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjgy/MTM4LTE3MjU5NjE2/ODEtMzc4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-20Ry28inLWFwH9i5eSsOD5-_FdY2glNdbnm6EKxtL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjgy/MTM4LTE3MjU5NjE2/ODEtMzc4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31682138",
+      "community": {
+        "want": 18,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33157398,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "BIG LOVE RECORDS"
+      ],
+      "type": "release",
+      "barcode": [
+        "045778801312",
+        "88013-A  \u262eGO 240207",
+        "88013-B  \u262eGO 240207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/33157398-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/9t4-kYHcMu5TkPiTirFLd6KzOQQcGu3IWAMc9K7qN5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU3/Mzk4LTE3Mzk3MjEz/MTMtNjY1Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/bo0-WAW-jc-Hv1DNj5vIALWYHCFaiinH68OLroVMil4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU3/Mzk4LTE3Mzk3MjEz/MTMtNjY1Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33157398",
+      "community": {
+        "want": 101,
+        "have": 22
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Ltd, Obi, Signed Art Print + Keychain",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31670024,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 45778 80131 2",
+        "0 45778 80139 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31670024-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/1eQay8tOaip1L7p0RnFE-QvoVUcOEaNQOVjXoLwCvR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDI0LTE3MjU2NTI5/NTEtMTc0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_JAfJ_bBHzIuE-XbB8LVHcQBhiPd7NzG1FwXEStamvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjcw/MDI0LTE3MjU2NTI5/NTEtMTc0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31670024",
+      "community": {
+        "want": 266,
+        "have": 302
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red/Orange Marble [Sunburst Splash]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31786286,
+      "title": "MJ Lenderman - Manning Fireworks",
+      "master_id": 3590696,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Country Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Anti-",
+        "Anti-",
+        "Anti-"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 45778 80131 2",
+        "0 45778 80826 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3590696",
+      "uri": "/release/31786286-MJ-Lenderman-Manning-Fireworks",
+      "catno": "88013-1",
+      "thumb": "https://i.discogs.com/DDnctjH5wWPz8RntbHwFbJZDhWpcLx7nz_Pvnme5dao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg2/Mjg2LTE3MjY4ODA2/OTQtODA5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9H83Hw-SASC-jLp7FuZBTEJ5WW0OIhHkVwPjHIdmwns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg2/Mjg2LTE3MjY4ODA2/OTQtODA5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31786286",
+      "community": {
+        "want": 193,
+        "have": 88
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red/Green Marble [Watermelon Splash]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3590696,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Country Rock",
+      "Indie Rock"
+    ],
+    "main_release": 31663715,
+    "most_recent_release": 37916373,
+    "resource_url": "https://api.discogs.com/masters/3590696",
+    "uri": "https://www.discogs.com/master/3590696-MJ-Lenderman-Manning-Fireworks",
+    "versions_url": "https://api.discogs.com/masters/3590696/versions",
+    "main_release_url": "https://api.discogs.com/releases/31663715",
+    "most_recent_release_url": "https://api.discogs.com/releases/37916373",
+    "num_for_sale": 137,
+    "lowest_price": 11.99,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bFcGv1dcIn9FNEA6wQBj9_19eNW2WkGgLsq7SeNUjRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/bFcGv1dcIn9FNEA6wQBj9_19eNW2WkGgLsq7SeNUjRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kqomkXHnXDDe--5r-f-bwonOhhDAXb1p143QYaUKZdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYz/NzE1LTE3MjU1Nzk0/NDUtOTI4Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Manning Fireworks",
+        "duration": "2:59"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Joker Lips",
+        "duration": "3:01"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Rudolph",
+        "duration": "3:31"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Wristwatch",
+        "duration": "3:42"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "She's Leaving You",
+        "duration": "4:38"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Rip Torn",
+        "duration": "3:32"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "You Don't Know The Shape I'm In",
+        "duration": "3:36"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "On My Knees",
+        "duration": "3:52"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Bark At The Moon",
+        "duration": "10:00"
+      }
+    ],
+    "artists": [
+      {
+        "name": "MJ Lenderman",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 6247429,
+        "resource_url": "https://api.discogs.com/artists/6247429",
+        "thumbnail_url": "https://i.discogs.com/UQrutgjp_COYS0ti3kkaInP0EDWcR_BFqsxwznCSrf4/rs:fit/g:sm/q:90/h:600/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNDc0/MjktMTcxOTcxMjM0/MC04MDkyLnBuZw.jpeg"
+      }
+    ],
+    "title": "Manning Fireworks",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=hajltNGPfps",
+        "title": "MJ Lenderman - Manning Fireworks (Full Album Stream)",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Manning Fireworks\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lend",
+        "duration": 180,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UTEpo9orjlg",
+        "title": "MJ Lenderman - Joker Lips",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu\n\"Joker Lips\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nDirected by Ben Turok\nShot by Connor Keep, Rhys Sca",
+        "duration": 183,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2QevZ5z9Cq4",
+        "title": "MJ Lenderman - \"Rudolph\"",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Rudolph\" by @MJLendermanofficial from the album \"Manning Fireworks\", out now \nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nVideo by Jacob Pankey and Ben Surber\n\nWritte",
+        "duration": 220,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YeGujHpGUIs",
+        "title": "MJ Lenderman - Wristwatch",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Wristwatch\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman &",
+        "duration": 223,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0rFVVzavii0",
+        "title": "MJ Lenderman - She's Leaving You",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"She's Leaving You\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nDirector: Clay Tatum & Whitmer Thomas\nSophi",
+        "duration": 287,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=OskL2-QAu3o",
+        "title": "MJ Lenderman - Rip Torn (Full Album Stream)",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Rip Torn\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman & A",
+        "duration": 213,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0962ykDIqyM",
+        "title": "MJ Lenderman - You Don't Know The Shape I'm In (Full Album Stream)",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"You Don't Know The Shape I'm In\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProdu",
+        "duration": 217,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bxxNdbdvf3E",
+        "title": "MJ Lenderman - On My Knees (Full Album Stream)",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"On My Knees\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lenderman ",
+        "duration": 233,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=OGIqfEsq6Rw",
+        "title": "MJ Lenderman - Bark At The Moon (Full Album Stream)",
+        "description": "Listen to the full album here: https://antircrds.io/3ZdHOIu \n\"Bark At The Moon\" by MJ Lenderman from the album \"Manning Fireworks\", out now\nOrder, stream & download: https://mjlenderman.ffm.to/manningfireworks\n\nWritten by MJ Lenderman\nProduced by MJ Lende",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3590696,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Country Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5400863187996",
+    "artist": "Geese",
+    "title": "Getting Killed",
+    "year": 2025
+  },
+  "results": [
+    {
+      "id": 35209627,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Partisan Records LLC",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 400863 188023",
+        "301493E1 02272268 2251539",
+        "301493E2 2244103 02272137",
+        "301493E1 02378707 2372551",
+        "301493E2 02379834 2377151",
+        "301493E1 02411170 2407060",
+        "301493E2 02409870 2407059",
+        "301493E2 02386286 2381964",
+        "301493E2 02412125 2392398",
+        "301493E1 02417862 2415499",
+        "301493E2 02438407 2437260"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35209627-Geese-Getting-Killed",
+      "catno": "PTPS60LPX",
+      "thumb": "https://i.discogs.com/rk5WexgnuWQouUqEbhjFg_8RfP1OQDjil_zRXx-GXBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/NjI3LTE3NTg5ODQ0/NjQtNzAzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tr7Yy5Ip4y5T75YojKDCZddvjZagrZkFtALq8jhd9K0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/NjI3LTE3NTg5ODQ0/NjQtNzAzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35209627",
+      "community": {
+        "want": 3026,
+        "have": 14650
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35976535,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Partisan Records LLC",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863188023",
+        "301493E1 02383134 2381964",
+        "301493E2 02382687 2379839",
+        "301493E1 02383025 2381964",
+        "301493E2 02376885 2370597",
+        "301493E1 02408546 2407060",
+        "301493E2 02408435 2407059",
+        "301493E1 02415104 2411446",
+        "301493E2 02415154 2411308",
+        "301493E1 02420892 2418617",
+        "301493E2 02415097 2411308",
+        "301493E1 02299320 2296848",
+        "301493E2 02292518 2244103",
+        "301493E1 02414983 2411446",
+        "301493E2 02412915 2411308",
+        "301493E1 02415919 2414667 ",
+        "301493E2 02416149 2415369",
+        "301493E1 02415919 2414667 ",
+        "301493E2 02429715 2418615",
+        "301493E1 02420722 2418617",
+        "301493E2 02418057 2415369",
+        "301493E1 02415870 2414667",
+        "301493E2 02416030 2415369"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35976535-Geese-Getting-Killed",
+      "catno": "PTPS60LPX",
+      "thumb": "https://i.discogs.com/DuKgJr_2F1VvA3P1yI4rv0-YdhrXn5WKmxy26RBvomY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc2/NTM1LTE3NjYzODI4/NjYtMTIxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VcgsV7XF-pdcUyx5vNVtsrqzXLO21UFLNN9OoazmOy8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc2/NTM1LTE3NjYzODI4/NjYtMTIxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35976535",
+      "community": {
+        "want": 399,
+        "have": 4372
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35302552,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "USBQU2500076",
+        "USBQU2500077",
+        "USBQU2500078",
+        "USBQU2500079",
+        "USBQU2500080",
+        "USBQU2500081",
+        "USBQU2500082",
+        "USBQU2500083",
+        "USBQU2500084",
+        "USBQU2500085",
+        "USBQU2500086"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35302552-Geese-Getting-Killed",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/sno-anmonuXdsM0oZS68SEokuHJ6FJn6We4IV3mmpZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzAy/NTUyLTE3NTk3Njk0/NjktNjQxMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/-lsJOt1qDCzdlyOnkhKnH7DyoaObxt5pNS0KdnmwT2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzAy/NTUyLTE3NTk3Njk0/NjktNjQxMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35302552",
+      "community": {
+        "want": 37,
+        "have": 39
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-bit/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35394565,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock",
+        "Art Rock"
+      ],
+      "country": "Japan",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Partisan Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863191443"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35394565-Geese-Getting-Killed",
+      "catno": "PTPS60LPX2",
+      "thumb": "https://i.discogs.com/RIKzg4G4QsLG1yqiuAuUitX4A_jjWVY5wLpz1EszUfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk0/NTY1LTE3NjA2NTI1/NDMtNTQ2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dMwsAm5oMnpiLrTMbJwAQELNIidg4mY82MxxEiJU2N0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk0/NTY1LTE3NjA2NTI1/NDMtNTQ2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35394565",
+      "community": {
+        "want": 357,
+        "have": 66
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue Translucent, OBI",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35210866,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock",
+        "Art Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Partisan Records",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863191443"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35210866-Geese-Getting-Killed",
+      "catno": "PTPS60LPX2",
+      "thumb": "https://i.discogs.com/61akcFoslhxOee7M0RSz6yOKZxOFTPdZzYn7Kknpnqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjEw/ODY2LTE3NjIzNTgy/NTItNDA2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f9M4gtP8-pDjgKDOPHpL6phV59vxVg_LQjk_QHO0K8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjEw/ODY2LTE3NjIzNTgy/NTItNDA2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35210866",
+      "community": {
+        "want": 651,
+        "have": 1592
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue Translucent ",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35854609,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock",
+        "Art Rock"
+      ],
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Partisan Records",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Play It Again Sam",
+        "Geese",
+        "Geese",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863191467",
+        "301493E1 02366667 2296848",
+        "301493E2 02370155 2368780"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35854609-Geese-Getting-Killed",
+      "catno": "PTPS60LPX4",
+      "thumb": "https://i.discogs.com/rWqgN5X2RPzA5DCNV3k0BK7n8y1FHu01XaIEseAaAe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU0/NjA5LTE3NjYwNjQ4/ODgtNjcyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/66W3JnsgeP2LQGig3SiQxhKPmY3fWgF1uSf6GfrNVOw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU0/NjA5LTE3NjYwNjQ4/ODgtNjcyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35854609",
+      "community": {
+        "want": 382,
+        "have": 1446
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Violet Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36600901,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2025",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "[PIAS] Entertainment Group",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Play It Again Sam"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/36600901-Geese-Getting-Killed",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/hrHDt_0pq0-EZCW1tQ8WjDiG7mYlZi1qIrCg3KyoLPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjAw/OTAxLTE3NzE5NTI2/NDYtMTMzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SuFCc7v6Z4gEtHH9uJDaElvKfbRBgx54hJ22FtfLFuA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjAw/OTAxLTE3NzE5NTI2/NDYtMTMzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36600901",
+      "community": {
+        "want": 8,
+        "have": 12
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-Bit / 44.1-kHz ",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35208358,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Art Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Geese",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Geese",
+        "Key Production",
+        "TAKT",
+        "TAKT"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 400863 188009",
+        "5400863188009",
+        "2100012388443 www.keyproduction.co.uk",
+        "IFPI LK97",
+        "IFPI UU067",
+        "IFPI AEW54",
+        "IFPI 9R95",
+        "IFPI AEW11"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35208358-Geese-Getting-Killed",
+      "catno": "PTPS60CD",
+      "thumb": "https://i.discogs.com/tsQDUdEhwBq6CNssJvwRyfB-wVSSwgJ3ySJ0QKg6QCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NjM0OTY1/NTktOTI0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LwzZ9H8jKxw9suDMWY9WHNta1z3CWcbuyPXSDfeFK3Y/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NjM0OTY1/NTktOTI0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35208358",
+      "community": {
+        "want": 538,
+        "have": 1899
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35209387,
+      "title": "Geese (11) - Getting Killed",
+      "master_id": 3984367,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock",
+        "Art Rock"
+      ],
+      "country": "UK",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Blood Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3984367",
+      "uri": "/release/35209387-Geese-Getting-Killed",
+      "catno": "BLOOD523",
+      "thumb": "https://i.discogs.com/XoD0xqi4-RVsvP9JkJ2dt2-BVgOizra-YoP70j50wGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/Mzg3LTE3NTg5MDQx/MTEtODk2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tMLkow_aNjnxbHuYB0dVqUb_5K1A49Mqc3QfXnED034/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/Mzg3LTE3NTg5MDQx/MTEtODk2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35209387",
+      "community": {
+        "want": 781,
+        "have": 328
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink and Blue Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3984367,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock",
+      "Art Rock"
+    ],
+    "main_release": 35208358,
+    "most_recent_release": 37798986,
+    "resource_url": "https://api.discogs.com/masters/3984367",
+    "uri": "https://www.discogs.com/master/3984367-Geese-11-Getting-Killed",
+    "versions_url": "https://api.discogs.com/masters/3984367/versions",
+    "main_release_url": "https://api.discogs.com/releases/35208358",
+    "most_recent_release_url": "https://api.discogs.com/releases/37798986",
+    "num_for_sale": 456,
+    "lowest_price": 10.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/LwzZ9H8jKxw9suDMWY9WHNta1z3CWcbuyPXSDfeFK3Y/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NjM0OTY1/NTktOTI0MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/LwzZ9H8jKxw9suDMWY9WHNta1z3CWcbuyPXSDfeFK3Y/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NjM0OTY1/NTktOTI0MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tsQDUdEhwBq6CNssJvwRyfB-wVSSwgJ3ySJ0QKg6QCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NjM0OTY1/NTktOTI0MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 538
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/y3j5OjXVKBJZQ9Zh3V2tld-fK1Du8cfO9FYXsgyP0W4/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NjUtNDA3Mi5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/y3j5OjXVKBJZQ9Zh3V2tld-fK1Du8cfO9FYXsgyP0W4/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NjUtNDA3Mi5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/It9U82609_8PzQKGN8HcOeOaor8E9e-2lO0cB_VOS2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NjUtNDA3Mi5wbmc.jpeg",
+        "width": 600,
+        "height": 521
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EvOIc0kGe5oXW02b4COLqa4L4p9GQGiOHyTz0z9anTU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzEtNjE0OC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/EvOIc0kGe5oXW02b4COLqa4L4p9GQGiOHyTz0z9anTU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzEtNjE0OC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/HGPR04RG-62AlEYy0KP1LF6sq9DI7eKXFK0eZJpVpB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzEtNjE0OC5wbmc.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LkBezj-P9zEpR9gQJ8bdyNWBMvySFiHBv3VKbrXQy5o/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzMtNDM2My5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/LkBezj-P9zEpR9gQJ8bdyNWBMvySFiHBv3VKbrXQy5o/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzMtNDM2My5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/0ADFl1LHRbnB1nqHHSYAdNDuvWmTBtufMkUm3pNKFRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA3/NzMtNDM2My5wbmc.jpeg",
+        "width": 594,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/slYVw-LwI-CHlYGAIWCUBHw4B6hdmKf85Z8hBed5cms/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzEtNzMzMS5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/slYVw-LwI-CHlYGAIWCUBHw4B6hdmKf85Z8hBed5cms/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzEtNzMzMS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/LaaBs1qb7mx337G2CgjJRUfZ5jUkSfrZXyun_eLbhOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzEtNzMzMS5wbmc.jpeg",
+        "width": 600,
+        "height": 545
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JOCBdRgOgwUr5GA3p7wuVoLP7ycKFKQ1hDvUY0fT3hk/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzAtODE2My5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/JOCBdRgOgwUr5GA3p7wuVoLP7ycKFKQ1hDvUY0fT3hk/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzAtODE2My5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/3MhlfsSu5lH9D7sb17Mu2XSmwyNRZ4wZQEpU158q_5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NzAtODE2My5wbmc.jpeg",
+        "width": 600,
+        "height": 545
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bg_irMF4_1vIhKYEQRzKr0JRTXp5MQ5OMtm0c_3Fvmc/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NTMtMTM5Ny5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/bg_irMF4_1vIhKYEQRzKr0JRTXp5MQ5OMtm0c_3Fvmc/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NTMtMTM5Ny5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/j4pXvbGkc-ic-gmjcQVAzeAVVrbrAH-f98cJEXH0L7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA4/MzU4LTE3NTk3NzA1/NTMtMTM5Ny5wbmc.jpeg",
+        "width": 600,
+        "height": 535
+      }
+    ],
+    "year": 2025,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Trinidad",
+        "extraartists": [
+          {
+            "name": "JPEGMAFIA",
+            "anv": "",
+            "join": "",
+            "role": "Other [Contributor], Vocals [Additional]",
+            "tracks": "",
+            "id": 4501713,
+            "resource_url": "https://api.discogs.com/artists/4501713"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Cobra",
+        "duration": "3:05"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Husbands",
+        "duration": "4:08"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Getting Killed",
+        "duration": "4:44"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Islands Of Men",
+        "duration": "5:54"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "100 Horses",
+        "duration": "3:46"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Half Real",
+        "duration": "3:22"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Au Pays Du Cocaine",
+        "duration": "3:30"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Bow Down",
+        "duration": "3:28"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Taxes",
+        "duration": "3:17"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Long Island City Here I Come",
+        "duration": "6:37"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Geese (11)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9780763,
+        "resource_url": "https://api.discogs.com/artists/9780763",
+        "thumbnail_url": "https://i.discogs.com/n3qrwT6m-eepgHK4ppXpiao7uIbWd8HrTNC3QT9JcvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODA3/NjMtMTc2ODYyODQ3/My01MTI2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Getting Killed",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=nT43dsYhw0k",
+        "title": "Geese - Trinidad (Official Audio)",
+        "description": "\u201cTrinidad\u201d, from the new album Getting Killed, out September 26, 2025 on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/fac",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=y3udPM2ehAo",
+        "title": "Geese - Cobra (Official Audio)",
+        "description": "\u201cCobra\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINSTAGRAM: h",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=H2qb7k8SZLI",
+        "title": "Geese - Husbands (Official Audio)",
+        "description": "\u201cHusbands\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINSTAGRAM",
+        "duration": 249,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=T5nf0kFQddc",
+        "title": "Geese - Getting Killed (Official Audio)",
+        "description": "\u201cGetting Killed\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINS",
+        "duration": 285,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=q5BR_2ubivc",
+        "title": "Geese - Islands of Men (Official Audio)",
+        "description": "\u201cGetting Killed\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINS",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DT0RBSpDiKo",
+        "title": "Geese - 100 Horses (Official Audio)",
+        "description": "\u201c100 Horses\u201d, from the new album Getting Killed, out September 26, 2025 on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/f",
+        "duration": 227,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=q6MNbB9YeFQ",
+        "title": "Geese - Half Real (Official Audio)",
+        "description": "\u201cHalf Real\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINSTAGRA",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kjxsaFB5svA",
+        "title": "Geese - Au Pays du Cocaine (Official Audio)",
+        "description": "\u201cAu Pays du Cocaine\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook",
+        "duration": 211,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HMKrmLcA0VQ",
+        "title": "Geese - Bow Down (Official Audio)",
+        "description": "\u201cBow Down\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebook\nINSTAGRAM",
+        "duration": 209,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Phh3oVCtzBg",
+        "title": "Geese - Taxes (Official Music Video)",
+        "description": "\u201cTaxes\u201d, from the new album Getting Killed, out September 26, 2025 on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.to/facebo",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1HG5eII55JA",
+        "title": "Geese - Long Island City Here I Come (Official Audio)",
+        "description": "\u201cLong Island City Here I Come\u201d, from the new album Getting Killed, out now on Partisan Records / Play It Again Sam: http://geese.lnk.to/gettingkilled\n\nFOLLOW GEESE:\n\nWEBSITE: http://geeseband.com\nSHOP: http://geese.lnk.to/shop\nFACEBOOK: http://geese.lnk.t",
+        "duration": 398,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3984367,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Art Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "888915968772",
+    "artist": "Kendrick Lamar",
+    "title": "Section.80",
+    "year": 2011
+  },
+  "results": [
+    {
+      "id": 11908488,
+      "title": "Kendrick Lamar - Section.80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Unknown",
+      "year": "2011",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Promo",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/11908488-Kendrick-Lamar-Section80",
+      "catno": "KENDRICKLP002",
+      "thumb": "https://i.discogs.com/aT2O2sRz5xM6SFSWf9uhlnD1-AAFPLRNXlIug6mqsEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/NDg4LTE1MjQ1Mjk4/NDMtNjc4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZtFWgj1iRlt54fYuPmYWsxbqjQlM7S2pYsNcWVCi_y8/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA4/NDg4LTE1MjQ1Mjk4/NDMtNjc4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11908488",
+      "community": {
+        "want": 1313,
+        "have": 713
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear Smoke Grey/Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Promo",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23422280,
+      "title": "Kendrick Lamar - Section.80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2011",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Empire",
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1475039105"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/23422280-Kendrick-Lamar-Section80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/581pE8GNQ48BBBucIeeeaih4cQ6Wti1pDuUfKzU4waM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIy/MjgwLTE2NTQwMjA1/NTUtMzI0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wERWYgIrZ2Dx3F_Z_XfvoEFdTvPimbFIV_vxHvrk-os/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIy/MjgwLTE2NTQwMjA1/NTUtMzI0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23422280",
+      "community": {
+        "want": 73,
+        "have": 29
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36182512,
+      "title": "Kendrick Lamar - Section80",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Czech Republic",
+      "year": "2011",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album",
+        "Limited Edition",
+        "Promo",
+        "Unofficial Release",
+        "Stereo"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/36182512-Kendrick-Lamar-Section80",
+      "catno": "KENDRICKLP002",
+      "thumb": "https://i.discogs.com/NfENzwACXbEWrK1WtosTB5Dcs74FQDnXb0Va8P-tm00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTgy/NTEyLTE3NjgyNDk0/NDEtODAyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_41-PbaOoqojhJivpUskBBgk3Xx7lLh1UpSBGTd4DoA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTgy/NTEyLTE3NjgyNDk0/NDEtODAyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36182512",
+      "community": {
+        "want": 5,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "2XLP, Marble Pink",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album",
+            "Limited Edition",
+            "Promo",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14443136,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/14443136-Kendrick-Lamar-Section-80",
+      "catno": "399711",
+      "thumb": "https://i.discogs.com/9BM9C-qRGS-H_6OZ9EmNoarLF0zh4z0ZYpFlv0t041I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/MTM2LTE2NTk3MTM1/NDQtMzgwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kp-XPX20zuiOheH5y6pV5HKGmCQomUYmQAFm6WrQJw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/MTM2LTE2NTk3MTM1/NDQtMzgwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14443136",
+      "community": {
+        "want": 103,
+        "have": 21
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5360202,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/5360202-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/WrQzeO2Urt7pIkC58TZ10bH3okNAq1al4uwsqrK9hds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjAy/MDItMTY1NDAyMDQ3/NC02MzgzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/GL5hb9dDetOpideOKKWJVFIMgLi_4ykDh1OmZgpdoOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjAy/MDItMTY1NDAyMDQ3/NC02MzgzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5360202",
+      "community": {
+        "want": 761,
+        "have": 252
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10887709,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/10887709-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/D0Bni0qxRFaOJuHE8AuWE_IXLFLBJ1HqWy1yipFsInM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg3/NzA5LTE1MDU5ODU3/NDAtMTQ3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W0hF4kcwSd3gO7SD5iTDiQWF8NON5yg_hInEH_powPI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg3/NzA5LTE1MDU5ODU3/NDAtMTQ3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10887709",
+      "community": {
+        "want": 537,
+        "have": 142
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19697515,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/19697515-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/6S-TT0els5MVz9xfXtY8nL5RXIlk-BxK2e8UgGl3mSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njk3/NTE1LTE2Mjc3ODY0/MDUtMTM3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/b-DAXBm_Mc_zC5jdT-5QsdOXdoZ3j6r9tTdZdh8-BRc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njk3/NTE1LTE2Mjc3ODY0/MDUtMTM3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19697515",
+      "community": {
+        "want": 188,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3369042,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/3369042-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/qxnUeGtNOqCKKrdyVTF5McjHrbhF0Ha9Iofw-h6H8Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkw/NDItMTY1OTcxMzU0/Ni0zODg3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ImcVkGJDJe2Se_29eAISxUgQw9a-rnZE5jHsx4B8CEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkw/NDItMTY1OTcxMzU0/Ni0zODg3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3369042",
+      "community": {
+        "want": 1081,
+        "have": 327
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26006599,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/26006599-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/PiuF3DY3tYW9UyGPQ2nmpSutLRu4wcxPxNuVSKlLaUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDA2/NTk5LTE2NzU2Mzc1/NDItOTI1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jtuIT3luDnrX_EzqCtYUHqra3GTpWNy8ZGXSW4YwcyA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDA2/NTk5LTE2NzU2Mzc1/NDItOTI1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26006599",
+      "community": {
+        "want": 191,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4550311,
+      "title": "Kendrick Lamar - Section 80",
+      "master_id": 547891,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2011",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/547891",
+      "uri": "/release/4550311-Kendrick-Lamar-Section-80",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/2ek29aPSg5t06NuQBbXjfbjUQUTMsUcL3sWKtY3SM6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTAz/MTEtMTY4MTA3NjM2/Ni04NzExLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/H9MxS4jBYSG8MqjZKWdhnI5fxk3BHyUpRmYT-Dqkij8/rs:fit/g:sm/q:90/h:624/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTAz/MTEtMTY4MTA3NjM2/Ni04NzExLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4550311",
+      "community": {
+        "want": 598,
+        "have": 240
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Autographed",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 547891,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious",
+      "Jazzy Hip-Hop"
+    ],
+    "main_release": 3369042,
+    "most_recent_release": 28914598,
+    "resource_url": "https://api.discogs.com/masters/547891",
+    "uri": "https://www.discogs.com/master/547891-Kendrick-Lamar-Section-80",
+    "versions_url": "https://api.discogs.com/masters/547891/versions",
+    "main_release_url": "https://api.discogs.com/releases/3369042",
+    "most_recent_release_url": "https://api.discogs.com/releases/28914598",
+    "num_for_sale": 6,
+    "lowest_price": 58.14,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ImcVkGJDJe2Se_29eAISxUgQw9a-rnZE5jHsx4B8CEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkw/NDItMTY1OTcxMzU0/Ni0zODg3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ImcVkGJDJe2Se_29eAISxUgQw9a-rnZE5jHsx4B8CEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkw/NDItMTY1OTcxMzU0/Ni0zODg3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qxnUeGtNOqCKKrdyVTF5McjHrbhF0Ha9Iofw-h6H8Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkw/NDItMTY1OTcxMzU0/Ni0zODg3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2011,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Fuck Your Ethnicity",
+        "extraartists": [
+          {
+            "name": "THC (20)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2317709,
+            "resource_url": "https://api.discogs.com/artists/2317709"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Hol' Up",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "2:53"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "A.D.H.D",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "No Make Up (Her Vice)",
+        "extraartists": [
+          {
+            "name": "Colin Munroe",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1262595,
+            "resource_url": "https://api.discogs.com/artists/1262595"
+          },
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "3:55"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Tammy's Song (Her Evils)",
+        "extraartists": [
+          {
+            "name": "THC (20)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2317709,
+            "resource_url": "https://api.discogs.com/artists/2317709"
+          }
+        ],
+        "duration": "2:41"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Chapter Six",
+        "extraartists": [
+          {
+            "name": "Tommy Black",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1679323,
+            "resource_url": "https://api.discogs.com/artists/1679323"
+          }
+        ],
+        "duration": "2:41"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Ronald Reagan Era (His Evils)",
+        "extraartists": [
+          {
+            "name": "Tae Beast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2596318,
+            "resource_url": "https://api.discogs.com/artists/2596318"
+          }
+        ],
+        "duration": "3:36"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Poe Mans Dream (His Vice)",
+        "extraartists": [
+          {
+            "name": "GLC",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 181351,
+            "resource_url": "https://api.discogs.com/artists/181351"
+          },
+          {
+            "name": "Willie B (3)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2596312,
+            "resource_url": "https://api.discogs.com/artists/2596312"
+          }
+        ],
+        "duration": "4:21"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "The Spiteful Chant",
+        "extraartists": [
+          {
+            "name": "Schoolboy Q",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2353545,
+            "resource_url": "https://api.discogs.com/artists/2353545"
+          },
+          {
+            "name": "Dave Free",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2596320,
+            "resource_url": "https://api.discogs.com/artists/2596320"
+          },
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "5:20"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Chapter Ten",
+        "extraartists": [
+          {
+            "name": "THC (20)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2317709,
+            "resource_url": "https://api.discogs.com/artists/2317709"
+          }
+        ],
+        "duration": "1:15"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Keishas Song (Her Pain)",
+        "extraartists": [
+          {
+            "name": "Astro Bot",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2596317,
+            "resource_url": "https://api.discogs.com/artists/2596317"
+          },
+          {
+            "name": "Tae Beast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2596318,
+            "resource_url": "https://api.discogs.com/artists/2596318"
+          }
+        ],
+        "duration": "3:47"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Rigamortis",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          },
+          {
+            "name": "Willie B (3)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2596312,
+            "resource_url": "https://api.discogs.com/artists/2596312"
+          }
+        ],
+        "duration": "2:48"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Kush & Corinthians (His Pain)",
+        "extraartists": [
+          {
+            "name": "BJ The Chicago Kid",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1641822,
+            "resource_url": "https://api.discogs.com/artists/1641822"
+          },
+          {
+            "name": "Wildfyer",
+            "anv": "Wildfire",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 732194,
+            "resource_url": "https://api.discogs.com/artists/732194"
+          }
+        ],
+        "duration": "5:04"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Members Only",
+        "extraartists": [
+          {
+            "name": "Tommy Black",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1679323,
+            "resource_url": "https://api.discogs.com/artists/1679323"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Ab-Soul's Outro",
+        "extraartists": [
+          {
+            "name": "Terrace Martin",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 220244,
+            "resource_url": "https://api.discogs.com/artists/220244"
+          }
+        ],
+        "duration": "5:50"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "HiiiPower",
+        "extraartists": [
+          {
+            "name": "Alori Joh",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 2327284,
+            "resource_url": "https://api.discogs.com/artists/2327284"
+          },
+          {
+            "name": "J. Cole",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 750828,
+            "resource_url": "https://api.discogs.com/artists/750828"
+          }
+        ],
+        "duration": "4:39"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Kendrick Lamar",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1778977,
+        "resource_url": "https://api.discogs.com/artists/1778977",
+        "thumbnail_url": "https://i.discogs.com/-4vxB93xDoTNY5faNzlkTlt8bPNHnMqyHoQ36LrUgfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Nzg5/NzctMTc2MDQ4Mjc1/OC03MTYxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Section 80",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=-PXIbVNfj3s",
+        "title": "Kendrick Lamar 'HiiiPOWER' OFFICIAL MUSIC VIDEO",
+        "description": "Subscribe to our channel | http://www.youtube.com/aplusfilmz\n\nFollow us on instagram | http://www.instagram.com/aplusfilmz\n\nFollow us on twitter | http://www.twitter.com/aplusfilmz\n\nLIKE us on Facebook | http://www.facebook.com/aplusfilmz",
+        "duration": 309,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xWvWDu6IAyY",
+        "title": "Kendrick Lamar-Fuck Your Ethnicity",
+        "description": "01 Fuck Your Ethnicity Off Kendrick Lamar's New Album #Section 80\r\nMixtape download links below vvv\r\n\r\nFull credits to Kendrick Lamar\r\nPromotional use only.\r\n\r\nDownload the Kendrick Lamar EP Mixtape\r\nhttp://www.mediafire.com/?p951l4z2hknz7s9\r\n\r\nand \r\n\r\nOv",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=GDxkMYVDB5w",
+        "title": "Kendrick Lamar- Hol' Up",
+        "description": "Artist: Kendrick Lamar\nSong: Hol' Up\nAlbum: Section.80\n\n( I do not own this song)",
+        "duration": 176,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QjlFqgRbICY",
+        "title": "Kendrick Lamar - A.D.H.D (Official Video)",
+        "description": "\"Section.80\" on iTunes: https://itunes.apple.com/us/album/section.80/id447516359\n\nDirected by Vashtie\n\n@KendrickLamar | Facebook.com/KendrickLamarMusic\nhttp://topdawgmusic.com",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yh6QxtRpSH8",
+        "title": "Kendrick Lamar - Rigamortis (Official Video)",
+        "description": "\"Section.80\" on iTunes: https://itunes.apple.com/us/album/section.80/id447516359\n\nDirected by The ICU\n\n@KendrickLamar | Facebook.com/KendrickLamarMusic\nhttp://topdawgmusic.com",
+        "duration": 200,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 547891,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

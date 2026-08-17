@@ -1,0 +1,2097 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602537065202",
+    "artist": "Tame Impala",
+    "title": "Lonerism",
+    "year": 2012
+  },
+  "results": [
+    {
+      "id": 13305444,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Interscope Records",
+        "Universal Music & Video Distribution",
+        "Universal Music & Video Distribution",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Interscope Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Cinram, Olyphant, PA",
+        "Cinram, Olyphant, PA"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 06518 9",
+        "0602537065189",
+        "Z128586 72 MODCD157-2 TEXT 01     M0S1",
+        "IFPI L909",
+        "IFPI 2U91",
+        "MODCD157",
+        "MODCD157DG02"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/13305444-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/JvZ0s_QkNfcq6PAytg9Kvo6cANt2hxWpN-MdIgIXmlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA1/NDQ0LTE1NTE3NDcw/OTEtODMxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/X7mrYuShdz-sEgWITcSErA-Bvad0mBxc7eEmMhCHd1Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA1/NDQ0LTE1NTE3NDcw/OTEtODMxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13305444",
+      "community": {
+        "want": 261,
+        "have": 652
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipack",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8495412,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Pachinko Records",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Universal International",
+        "Universal Music LLC",
+        "Universal Music LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988005 739001",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/8495412-Tame-Impala-Lonerism",
+      "catno": "UICO-1243",
+      "thumb": "https://i.discogs.com/DvgtyDzcs2pCr-w0AG9Yn3rBh0zRizMXC9xZmrJEwlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU0/MTItMTYwNDEzNTk4/OS0xNTEyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/5pE3KG49y9dcBkHWrIKbLb979OvgEF7nNrTFpOvl8rA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU0/MTItMTYwNDEzNTk4/OS0xNTEyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8495412",
+      "community": {
+        "want": 394,
+        "have": 55
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5710842,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/5710842-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/cvLOlf2lUAMkZKORaQJN5ZLvqsQ_035Ft_qZNUQ7YN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTA4/NDItMTQwMDU4ODc3/OC04MTU1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dIUZxc0yhLN0sHXPcgXnj2E2qN47kzTR3wrOVxynLNY/rs:fit/g:sm/q:90/h:373/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTA4/NDItMTQwMDU4ODc3/OC04MTU1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5710842",
+      "community": {
+        "want": 398,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Autographed, includes cotton poster",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20988472,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Belgium",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/20988472-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/2Zg0Q3AORaG_t6SaTj0-_tM9znPnpyCVgyiJJyRO5Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg4/NDcyLTE2MzY5ODM2/NTktODAwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AGcUF0-Xt-12emcP9-TVFvF4yW1Kx-dcMzJpJLlDZoo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg4/NDcyLTE2MzY5ODM2/NTktODAwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20988472",
+      "community": {
+        "want": 67,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Plastic sleeve, watermarked",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3924235,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Universal Music",
+        "Universal Music",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0602537065189",
+        "[Universal logo] ANZ MODCD157 A0100986685-0101 12",
+        "IFPI LV87",
+        "IFPI 6543",
+        "[Universal logo] ANZ MODCD157 A0100986685-0101 12",
+        "IFPI LV87",
+        "IFPI 651A",
+        "[Universal logo] ANZ MODCD157 A0100986685-0101 12",
+        "IFPI LV87",
+        "IFPI 6542",
+        "[Universal logo] ANZ MODCD157 A0100986685-0101 12",
+        "IFPI LV87",
+        "IFPI 6520",
+        "[Universal logo] ANZ MODCD157 A0100986685-0101 12",
+        "IFPI LV87",
+        "IFPI 6550"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3924235-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/94S48YTgcrVPpuwzUrU_syEwC7ev7B8WuoHH8j5I9N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQy/MzUtMTUzMjI3NTY3/Ny02Njc3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/-n5T06zVgxNdVGl2u6jZEk9U73CYhaFRlztWjx3PXgE/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQy/MzUtMTUzMjI3NTY3/Ny02Njc3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3924235",
+      "community": {
+        "want": 995,
+        "have": 1361
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5776988,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mispress"
+      ],
+      "label": [
+        "Modular Recordings",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "OLE 998 -D1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/5776988-Tame-Impala-Lonerism",
+      "catno": "MODVL161",
+      "thumb": "https://i.discogs.com/AUo4Kg-JXT5GO-Ko6ZhmTfqYu_Y21rRS5Gz1-CyH35A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzY5/ODgtMTQwMjM2MDQz/Mi0xMDc5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/V2HSEyXlhBzPue_VqpTZJc0Cy-VVgVZ0pFxSS8Y8wzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzY5/ODgtMTQwMjM2MDQz/Mi0xMDc5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5776988",
+      "community": {
+        "want": 731,
+        "have": 127
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mispress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3942318,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Interscope Records",
+        "Universal Music & Video Distribution",
+        "Universal Music & Video Distribution",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Interscope Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 06518 9",
+        "0602537065189",
+        "AUUM71200487",
+        "AUUM71200488",
+        "AUUM71200489",
+        "AUUM71200490",
+        "AUUM71200491",
+        "AUUM71200492",
+        "AUUM71200493",
+        "AUUM71200494",
+        "AUUM71200495",
+        "AUUM71200496",
+        "AUUM71200497",
+        "AUUM71200498",
+        "DIDX-819906 1 A01",
+        "IFPI L327",
+        "IFPI 50A8",
+        "DIDX-819906 1 A03",
+        "IFPI L327",
+        "IFPI 50DF",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 50DF",
+        "DIDX-819906 1 A03",
+        "IFPI L327",
+        "IFPI 50EF",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 50E4",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 50E1",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 507F",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 50FB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3942318-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/PI66gA11HP7wnTyP5HnmPx8kVgBWluJ1cgvUTgQdxwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDIz/MTgtMTUyMjU1MDUy/Mi02MDYxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/yMK_dVC0gsdMKfqOxqWmG4f-hdrKbg2vngWsgeHo4Bc/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDIz/MTgtMTUyMjU1MDUy/Mi02MDYxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3942318",
+      "community": {
+        "want": 562,
+        "have": 1410
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3975669,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Album",
+        "Vinyl",
+        "7\"",
+        "Box Set",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Sterling Sound",
+        "Tarbox Road Studios",
+        "Modular Recordings",
+        "masterpiece",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537175574",
+        "MODVL161",
+        "60257065219",
+        "MODVL 161 A MPO",
+        "MODVL 161 B GREG @ MASTERPIECE MPO",
+        "MODVL 161 C MPO",
+        "MODVL 161 D GREG @ MASTERPIECE MPO",
+        "MODCD157",
+        "602537065189",
+        "MODVLDLX 001",
+        "MODVLDLX 001 A",
+        "MODVLDLX 001 B2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3975669-Tame-Impala-Lonerism",
+      "catno": "MODDLX001",
+      "thumb": "https://i.discogs.com/ABeFYfLiF8LoNhpIX0UlpwWAgtQ6UElbafSXCfQkPdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU2/NjktMTY4MjQ0MDU3/NS02OTU0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/a4NXLssSmC4Gtu_wQ6sOz6wlMFZ7ciZjbReAPAGfRos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU2/NjktMTY4MjQ0MDU3/NS02OTU0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3975669",
+      "community": {
+        "want": 2968,
+        "have": 824
+      },
+      "format_quantity": 4,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Turquoise",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\""
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6528725,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Fiction Records",
+        "Caroline Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings",
+        "EDC, Germany",
+        "Universal Music",
+        "Universal Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537950348",
+        "6 02537 95034 8",
+        "LC 03261",
+        "6 02557 00227 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/6528725-Tame-Impala-Lonerism",
+      "catno": "3795034",
+      "thumb": "https://i.discogs.com/pWLFlvBjQjFrH0mu5NEOIam_du7YUp_L__S-vDRa9vA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjg3/MjUtMTQyMjMwMzE1/NC0yODA0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ADHwcqqqV0Jv4A6dusKL0hkCbgOv4TAg9euP-Y6Bxlo/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjg3/MjUtMTQyMjMwMzE1/NC0yODA0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6528725",
+      "community": {
+        "want": 381,
+        "have": 799
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3936983,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3936983-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/LeqlLnFcemPj3Hc4WU4gIwxijcJP445VGdW2YTveHEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY5/ODMtMTM1MDA3MjIz/NC04OTkyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ENYKOKYF4O_ANM8L-V2u5cDH4cU84agLg2_JnsU25Z8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY5/ODMtMTM1MDA3MjIz/NC04OTkyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3936983",
+      "community": {
+        "want": 294,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13993459,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Modular Recordings",
+        "BMG Chrysalis"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/13993459-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/S1o-gqN55bU_kOKOO3eRiFswbnwRCIVIw_MC-NMNKDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkz/NDU5LTE1NjU2NjE4/NDItNzM1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LhqrLeRvwJTDpZFigZtnxrdyhqB1NDO40Cw2-v-LuLs/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkz/NDU5LTE1NjU2NjE4/NDItNzM1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13993459",
+      "community": {
+        "want": 151,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12089710,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Argentina",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Fiction Records",
+        "Caroline Records",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Universal Music Argentina S.A.",
+        "Universal Music Argentina S.A."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 95034 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/12089710-Tame-Impala-Lonerism",
+      "catno": "3795034",
+      "thumb": "https://i.discogs.com/JqsB7gk2dT2oJyNBkc7qm41sV5eMLUcnRJgge1PpYPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg5/NzEwLTE1MjgwNzky/MTEtNzY3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kQpN3FIUU6wM2eMOpytpQikZAweVJdQ6PD9YqGJy61g/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg5/NzEwLTE1MjgwNzky/MTEtNzY3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12089710",
+      "community": {
+        "want": 217,
+        "have": 50
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3936087,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "EP"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3936087-Tame-Impala-Lonerism",
+      "catno": "MODVL 161",
+      "thumb": "https://i.discogs.com/N8yX-2dUqKWMYl6a-HcUtDoqcteD5fRhm0EzyM0ShoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzYw/ODctMTM0OTc5NDk4/Mi0yMTY0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/L-Zovn-uPjQZkYDOMPTpwC5qKBX8MqjRxw5lsIkwOBY/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzYw/ODctMTM0OTc5NDk4/Mi0yMTY0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3936087",
+      "community": {
+        "want": 1242,
+        "have": 440
+      },
+      "format_quantity": 3,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "EP"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3932667,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "CD",
+        "Limited Edition"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Rough Trade",
+        "Sony DADC, Southwater"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537065189",
+        "Sony DADC MODCD157 01",
+        "IFPI LY34",
+        "IFPI AEW11",
+        "Sony DADC MODCD157RT 01",
+        "IFPI LY34",
+        "IFPI AEW43"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3932667-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/OnN-pRyuuMEwcyJ0gJ20OM4cNK6V3F4GMksr3HSPDXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI2/NjctMTQ3Mzg5NjEz/Ni02MDIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/TfV8_HENPdwvwMFmCgQFct9ulgNEGaZBKDRwSv-7M0c/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI2/NjctMTQ3Mzg5NjEz/Ni02MDIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3932667",
+      "community": {
+        "want": 480,
+        "have": 438
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13658638,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "masterpiece",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537065219",
+        "MODVL 161 A MPO",
+        "MODVL 161 B MPO GREG @ MASTERPIECE",
+        "MODVL 161 C MPO",
+        "MODVL 161 D MPO GREG @ MASTERPIECE"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/13658638-Tame-Impala-Lonerism",
+      "catno": "MODVL161",
+      "thumb": "https://i.discogs.com/K7fEbQy48uA2aGJFRgSubniyjks6hblX5I8P0lUppKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU4/NjM4LTE1NTg0NDYw/NTItOTU1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KWjJQbBJpHVS-eCEXEsy5M2Rfd3xllXvYGbZuf8XcCA/rs:fit/g:sm/q:90/h:496/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU4/NjM4LTE1NTg0NDYw/NTItOTU1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13658638",
+      "community": {
+        "want": 874,
+        "have": 405
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7797066,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "masterpiece",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "Disc 1 - MODVL 157 (157 scratched out) 161 A/B",
+        "Disc 2 - MODVL 157 (157 scratched out) 161 C/D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/7797066-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/gCNfYiVoN823AehyX1xMmEIBweN3JpnPRuPSfIyZnHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/NjYtMTQ0ODk2OTM4/MC00MzAwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/21Hq1vNZ9mf6WP-pISCxmtIs0T75ImiydhFMLPh1rY0/rs:fit/g:sm/q:90/h:376/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcw/NjYtMTQ0ODk2OTM4/MC00MzAwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7797066",
+      "community": {
+        "want": 876,
+        "have": 17
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20982001,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Belgium",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "N.E.W.S.",
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/20982001-Tame-Impala-Lonerism",
+      "catno": "",
+      "thumb": "https://i.discogs.com/sV51OOpjy9quF_U6znztEc2RI7_IQjV_ptiFYS0O0QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgy/MDAxLTE2MzY5Mjcw/NzctOTA0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kY5xkpwzFepNGD9pDNfDxY1E4SnxpZs1sUlvRFnI-1E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgy/MDAxLTE2MzY5Mjcw/NzctOTA0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20982001",
+      "community": {
+        "want": 70,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Plastic sleeve, watermarked",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12626595,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Fiction Records",
+        "Caroline Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Sony DADC",
+        "Universal Music",
+        "Universal Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537950348",
+        "6 02537 95034 8",
+        "LC 03261",
+        "3795034 13 A00 Sony DADC [Universal Logo]",
+        "IFPI L533",
+        "IFPI941A",
+        "IFPI 947P"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/12626595-Tame-Impala-Lonerism",
+      "catno": "3795034",
+      "thumb": "https://i.discogs.com/VhZnUJYAMoZrHbnB8oCGGdNjTnM0zC_u39lnbHaPJDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI2/NTk1LTE1Mzg4NjQ2/NjMtNjk1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qBset09lvQg7NM6dkvJi-ALt6VnFm896c2w55JkfvvU/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI2/NTk1LTE1Mzg4NjQ2/NjMtNjk1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12626595",
+      "community": {
+        "want": 272,
+        "have": 201
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16737441,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2012",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Universal Music",
+        "Universal Music",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/16737441-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/oeJD3UovP3rxGSVQkQSgETJz5qqZ-6MIoff2ozmA8Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM3/NDQxLTE2MDk1MzYz/MjAtNjE3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/b8jXlkpI2opa9wVlhF-swFejhAJna2g4cY57Jo2m2ng/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM3/NDQxLTE2MDk1MzYz/MjAtNjE3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16737441",
+      "community": {
+        "want": 98,
+        "have": 20
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24bit-96kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15274429,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/15274429-Tame-Impala-Lonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/rdNLkoaZImIMFnt-w7Lqsz-ziZGZJBP_3gNQjxZkPlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc0/NDI5LTE1ODkwMzM5/MzUtNTQzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZSSXdYaRsXQqQF9maXoLv0DXpKDI_IvbELSXUU5x1Zw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc0/NDI5LTE1ODkwMzM5/MzUtNTQzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15274429",
+      "community": {
+        "want": 122,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3979172,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Sony DADC, Southwater"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537065189",
+        "Sony DADC MODCD157 01",
+        "IFPI LY34",
+        "IFPI AEW11",
+        "IFPI AEW43",
+        "IFPI AEW35",
+        "IFPI AEW41"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3979172-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/pyylHpUPTaONJEN6Zgp6tjvidG07Tuw-mpLENX2hdL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzkx/NzItMTM3NjIzMTE3/NS05NDE3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/TEKls5EixzA_ZqsYerryzCi78ebBMRV_lUIX3iwGEro/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzkx/NzItMTM3NjIzMTE3/NS05NDE3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3979172",
+      "community": {
+        "want": 497,
+        "have": 1775
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13061632,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 0253795300 4",
+        "3795300",
+        "3712567",
+        "3712568",
+        "10882 1A 3795300",
+        "10882 1B 3795300",
+        "10882 1C 3795300",
+        "10882 1D 3795300"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/13061632-Tame-Impala-Lonerism",
+      "catno": "MODDLX001",
+      "thumb": "https://i.discogs.com/aHhXZuU6JeYv74fmb4ljt_xcLQI8fqgjRSYR0qg__Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYx/NjMyLTE1NDczNzg3/NzEtMTY4MS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/O5B3aUnHfhks3gtgXF2vnfweIX67br89ZE6KVOo5BE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYx/NjMyLTE1NDczNzg3/NzEtMTY4MS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13061632",
+      "community": {
+        "want": 920,
+        "have": 2674
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3937552,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Fontana Distribution, LLC",
+        "Fontana Distribution, LLC",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Nashville Record Productions",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 11996 7",
+        "00602537119967",
+        "\u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336A\u0336 161-A WG/NRP \u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336B\u0336 161-B WG/NRP \u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336C\u0336 161-C WG/NRP \u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336D\u0336 161-D WG/NRP \u24ca",
+        "MODVL-161-A-RE-1 WG/NRP \u24ca",
+        "MODVL-161-B-RE-1 WG/NRP \u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336C\u0336 161-C WG/NRP \u24ca",
+        "MODVL-1\u03365\u03367\u0336-\u0336D\u0336 161-D WG/NRP \u24ca",
+        "MODVL-161-A-RE-1 WG/NRP \u24ca",
+        "MODVL-161-B-RE-1 WG/NRP \u24ca",
+        "MODVL-161-C-RE-2 WG/NRP \u24ca",
+        "MODVL-161-D-RE-2 WG/NRP \u24ca"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3937552-Tame-Impala-Lonerism",
+      "catno": "MODVL161",
+      "thumb": "https://i.discogs.com/C437679ZenDf_3woi3qe_CdfXzvGV6NpjYhblRpgrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MC01NzkzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/74uA-DH5Z9Tcnh7vyBGJ0X6FzmT-scjjvlYGji5OJH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MC01NzkzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3937552",
+      "community": {
+        "want": 6806,
+        "have": 24143
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25797235,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Interscope Records",
+        "Universal Music & Video Distribution",
+        "Universal Music & Video Distribution",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Interscope Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 06518 9",
+        "DIDX-819906 1 A02",
+        "IFPI L327",
+        "IFPI 5082",
+        "DIDX- 819906 1 A03",
+        "IFPI L327",
+        "IFPI 50E4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/25797235-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/ahN5tVIQCTUZq0mBtauCaZnJoDQTpv3W9yzS-iL-h7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk3/MjM1LTE2NzM5Nzk1/MzUtNDM1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5PecQxMpRBSRG1cXBXKynHsxyHGeQaze5M4p-9qkoo0/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk3/MjM1LTE2NzM5Nzk1/MzUtNDM1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25797235",
+      "community": {
+        "want": 144,
+        "have": 90
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14871804,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "South East Asia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Fiction Records",
+        "Caroline Records",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "Modular Recordings",
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537950348"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/14871804-Tame-Impala-Lonerism",
+      "catno": "3795034",
+      "thumb": "https://i.discogs.com/pBDqadJrTJitxeY95q-c15cMIEB3kEo44wMADaels6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcx/ODA0LTE1ODMxODcx/ODAtMTkxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RIGUOhR8nqJx6IWq7aasKtPcqbjrO31siIdoUPC1yoc/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcx/ODA0LTE1ODMxODcx/ODAtMTkxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14871804",
+      "community": {
+        "want": 170,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3925637,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Tarbox Road Studios",
+        "Sterling Sound",
+        "masterpiece",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537065219",
+        "MODVL 161 A MPO",
+        "MODVL 161 B MPO GREG @ MASTERPIECE",
+        "MODVL 161 C MPO",
+        "MODVL 161 D MPO GREG @ MASTERPIECE"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/3925637-Tame-Impala-Lonerism",
+      "catno": "MODVL161",
+      "thumb": "https://i.discogs.com/0NjFTkyAIUQv7HkNg8hSszdvoteuJHjlOsz4G-6rnYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjU2/MzctMTM0OTUxNzcx/OC02OTQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/8wZ1XCi2k8EEEf6wc2pE61WnX0h8YfG1UDSk504WSOk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjU2/MzctMTM0OTUxNzcx/OC02OTQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3925637",
+      "community": {
+        "want": 3298,
+        "have": 7101
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8398145,
+      "title": "Tame Impala - Lonerism",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Canada",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings",
+        "Modular Recordings",
+        "Modular Recordings",
+        "Universal Music Canada Inc.",
+        "Tarbox Road Studios",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "0602537065189",
+        "LT36 MODCD157 #120920Z07",
+        "LT36",
+        "IFPI6000",
+        "MADE IN CANADA 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/8398145-Tame-Impala-Lonerism",
+      "catno": "MODCD157",
+      "thumb": "https://i.discogs.com/KS2GVLyQo1jiiWiIVy79oVhz8kWpG3AqbThyDm0m_-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTgx/NDUtMTY0MjAyODk2/OS0yNzAwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/aVfnWQ4XiWLQn58Gs2pxy3X9Tltknowc5UC5zTSuSkk/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTgx/NDUtMTY0MjAyODk2/OS0yNzAwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8398145",
+      "community": {
+        "want": 314,
+        "have": 508
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6547936,
+      "title": "Tame Impala - Lonerism (Bonus Track Version)",
+      "master_id": 477610,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Modular Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/477610",
+      "uri": "/release/6547936-Tame-Impala-Lonerism-Bonus-Track-Version",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-h8tZXvKBvkdOi24Zj8v_Xtf9MoUg4wqkhNCCF7vu9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDc5/MzYtMTQyMTc0Mzgz/My0zMDAzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/6Q217c7WlilIbl9C_FHw02R6dJBL4Pye9MJRL97ERa0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDc5/MzYtMTQyMTc0Mzgz/My0zMDAzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6547936",
+      "community": {
+        "want": 260,
+        "have": 44
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256kbps, iTunes LP",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 477610,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Indie Rock"
+    ],
+    "main_release": 3937552,
+    "most_recent_release": 28599436,
+    "resource_url": "https://api.discogs.com/masters/477610",
+    "uri": "https://www.discogs.com/master/477610-Tame-Impala-Lonerism",
+    "versions_url": "https://api.discogs.com/masters/477610/versions",
+    "main_release_url": "https://api.discogs.com/releases/3937552",
+    "most_recent_release_url": "https://api.discogs.com/releases/28599436",
+    "num_for_sale": 491,
+    "lowest_price": 4.53,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/74uA-DH5Z9Tcnh7vyBGJ0X6FzmT-scjjvlYGji5OJH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MC01NzkzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/74uA-DH5Z9Tcnh7vyBGJ0X6FzmT-scjjvlYGji5OJH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MC01NzkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/C437679ZenDf_3woi3qe_CdfXzvGV6NpjYhblRpgrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MC01NzkzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ou-Y-jKyGrpdN4ePTGkDQNxxDoBjYGhDwoorNHBUZyw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MS0zNzY4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ou-Y-jKyGrpdN4ePTGkDQNxxDoBjYGhDwoorNHBUZyw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MS0zNzY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8Qyr-AwmstaUGPPz1cuC93qZqrcQMsSgZbn5T34SB1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDY0/MS0zNzY4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QBGWcKPMCXcKy1xLXT1b51QGf-hHdjml8wbHIoI_hfU/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTU3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/QBGWcKPMCXcKy1xLXT1b51QGf-hHdjml8wbHIoI_hfU/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/48IlLKgOzBVwkV5UiSqVd75wsQlgRQIhpe4dr6yM-1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTU3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 300
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CmfUEDu1y17ouciCTYBEjMzQPXqcVpk1-puWiRELXr4/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQx/Ny02NDY1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/CmfUEDu1y17ouciCTYBEjMzQPXqcVpk1-puWiRELXr4/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQx/Ny02NDY1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2h6H2qwZNgvXJxQErfZf2UNpRnx36ihYDvGxv0lKXis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQx/Ny02NDY1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 577
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dtL41b5WRDF9Wg41i4bODsilXvwcynrc1lbdcuusU_s/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQy/My05MjgwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dtL41b5WRDF9Wg41i4bODsilXvwcynrc1lbdcuusU_s/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQy/My05MjgwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lhrPAM-eHuBmwgQ-Bia9PXGQ8ewe8gDvv2N_AoMRFF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTM2ODExMDQy/My05MjgwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 583
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-fTM7gRT7iP55NWf_sAa3Bf1xAzJdzHuDfYBgEbNu6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny02NzM1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/-fTM7gRT7iP55NWf_sAa3Bf1xAzJdzHuDfYBgEbNu6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny02NzM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ddKphvx5BOHfN_jxbR-qeFOj3025voJ6FTHDLpj4sNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny02NzM1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rhg4KHPx-KOsLC_XtSxLJ8gvwkeG1EwQcErX7o-VSXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny05Mjg4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Rhg4KHPx-KOsLC_XtSxLJ8gvwkeG1EwQcErX7o-VSXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny05Mjg4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qZY5KaV8SJyL8Dq-kZSlu1o5tFQCrtcY6PWi54D4ZIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny05Mjg4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3ZNS4U-iGU102w37pJmnPl8uWAd-OKYPOyhaN89U_dI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/OC05NTgwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/3ZNS4U-iGU102w37pJmnPl8uWAd-OKYPOyhaN89U_dI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/OC05NTgwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XCHBQqf8-9EGxBdnvY2BFmvcV43y7C5T2-fM5LTdFAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/OC05NTgwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xTn09fKO66Vq45mToXnJCOKO1T86WXRZyZwk8d45T5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny00NjIzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/xTn09fKO66Vq45mToXnJCOKO1T86WXRZyZwk8d45T5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny00NjIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_xNKOPX00sFmnNOb25O3YrhL41CAXZhAfjX3fnZnT04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDY2MDQ5/Ny00NjIzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CRTX2pHyYr7jPMXfd7CBicx1TYMs_xL7_yPvDV0c0p4/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTYzNDE0NjU0/NC03ODg2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/CRTX2pHyYr7jPMXfd7CBicx1TYMs_xL7_yPvDV0c0p4/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTYzNDE0NjU0/NC03ODg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Sy1FY9SvP15mwY74CwtvIwBU9W_PycZIqRBnxfhwbck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTYzNDE0NjU0/NC03ODg2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 308
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_SiwTWCWKpMV1QCxHdH38bdEDrvKIPgcncfhVjgQkvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTgzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/_SiwTWCWKpMV1QCxHdH38bdEDrvKIPgcncfhVjgQkvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTgzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ZBISsg_pTKZ89gPlTWl1qujKInLHjWD5EzYxAEAXPVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS04OTgzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gqBb5qZHd7NoRWdFHL0MFxr461RVfVG-T21dZkeA4UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS00MjEzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/gqBb5qZHd7NoRWdFHL0MFxr461RVfVG-T21dZkeA4UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS00MjEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2lq6G-fyKKiZq_4R7Z4lkizrLcqP1_W03yhYNd7aIbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS00MjEzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zYo_XiYuUhtxM-dY7_mZzJNHY2MO62j-8RXcTWdL8TM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0zODc4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zYo_XiYuUhtxM-dY7_mZzJNHY2MO62j-8RXcTWdL8TM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0zODc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/P7KpZmUQmliOv-8QisBI5GgUs8RZzeRotTIpIWNUa54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0zODc4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wCTFLkFnUqZMm-q1Z6C6ipuSshtfWLLfpQobc01-ktk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0xMDQwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/wCTFLkFnUqZMm-q1Z6C6ipuSshtfWLLfpQobc01-ktk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0xMDQwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ViRhzHgDqipWkDsquY92DhO9KQn6ewFdrP1YgraT9r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTQzMDYyMDYz/OS0xMDQwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nyHqscxus4DwsPIbRQxze6Yg1gBEs6LUrkzLI65aqfI/rs:fit/g:sm/q:90/h:236/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/Ni01MDAyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/nyHqscxus4DwsPIbRQxze6Yg1gBEs6LUrkzLI65aqfI/rs:fit/g:sm/q:90/h:236/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/Ni01MDAyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/414HmkB6_0dQMShNH6Fz-jAOO4WD77pPQx8gY-ppBaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/Ni01MDAyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 236
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/P0PyLLpg-bQV6LdYPOcKkIh47_mD7MtiRILVfQx2Dkw/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OS05Nzk2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/P0PyLLpg-bQV6LdYPOcKkIh47_mD7MtiRILVfQx2Dkw/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OS05Nzk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WJzM9wulO-16URlSL-IkOcqAyhh7JzyHmcRU62zDFLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OS05Nzk2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 192
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zLFWFhIEVFMlrCykh7VKV35x21139RODLTX5y74psYk/rs:fit/g:sm/q:90/h:254/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OC0yMTk2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zLFWFhIEVFMlrCykh7VKV35x21139RODLTX5y74psYk/rs:fit/g:sm/q:90/h:254/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OC0yMTk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SeOImBuRaxOy0JOEbuuWTbapEngN_mSfOxPWQEUjS3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjA5/OC0yMTk2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 254
+      }
+    ],
+    "year": 2012,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Be Above It",
+        "duration": "3:21"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Endors Toi",
+        "duration": "3:06"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Apocalypse Dreams",
+        "duration": "5:56"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Mind Mischief",
+        "duration": "4:31"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Music To Walk Home By",
+        "duration": "5:12"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Why Won't They Talk To Me?",
+        "duration": "4:46"
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Feels Like We Only Go Backwards",
+        "duration": "3:12"
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Keep On Lying",
+        "duration": "5:53"
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Elephant",
+        "duration": "3:31"
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "She Just Won't Believe Me",
+        "duration": "0:57"
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+        "duration": "5:59"
+      },
+      {
+        "position": "D3",
+        "type_": "track",
+        "title": "Sun's Coming Up",
+        "duration": "5:20"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Tame Impala",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1245513,
+        "resource_url": "https://api.discogs.com/artists/1245513",
+        "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Lonerism",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=p3nSjIakHRk",
+        "title": "Tame Impala - Lonerism CD Unboxing",
+        "description": "In this video I show you the Lonerism CD by Tame Impala.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nCD: https://amzn.to/4niF2tW\nVinyl: https://amzn.to/4nni30B\nDigital: https://amzn.to/47DEqdF",
+        "duration": 111,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Nb90O5hWJ6s",
+        "title": "Tame Impala - Be Above It (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NKcCoxCSql8",
+        "title": "Tame Impala - Endors Toi (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DmmvZrBnQ4M",
+        "title": "Tame Impala - Apocalypse Dreams (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 358,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BgK_Er7WZVg",
+        "title": "Tame Impala - Mind Mischief (Official Video)",
+        "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImpala",
+        "duration": 339,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ngg9YsqIoaw",
+        "title": "Tame Impala - Music to Walk Home By (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 314,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yzAjagHwL_4",
+        "title": "Tame Impala - Why Won't They Talk to Me? (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 288,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wycjnCCgUes",
+        "title": "Tame Impala - Feels Like We Only Go Backwards (Official Video)",
+        "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImpala",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FRbDkPsj0wk",
+        "title": "Tame Impala - Keep on Lying (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=LnKUD_OztRE",
+        "title": "Tame Impala - Elephant (Official Video)",
+        "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala\u2019s YouTube channel: https://TameImpala",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uPhU7olJmok",
+        "title": "Tame Impala - She Just Won't Believe Me (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 59,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=sBEfo73lOvk",
+        "title": "Nothing That Has Happened So Far Has Been Anything We Could Control (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 361,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HZmKam8AW0k",
+        "title": "Tame Impala - Sun's Coming Up (Official Audio)",
+        "description": "Listen to \u2018The Slow Rush\u2019 now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala\u2019s YouTube channel: https://Tam",
+        "duration": 322,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vvk9w_i_HTg",
+        "title": "Tame Impala - Led Zeppelin (HD)",
+        "description": "Tame Impala \n\"Led Zeppelin\"\nLonerism \n2012\n\n\nDisclaimer: I do not own the rights to this music, no copyright intended, for entertainment purposes only.",
+        "duration": 192,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=O4A6kWeUyA0",
+        "title": "Beverly Laurel",
+        "description": "Provided to YouTube by Universal Music Group\n\nBeverly Laurel \u00b7 Tame Impala\n\nLonerism B-Sides & Remixes\n\n\u2117 2012 Modular Recordings\n\nReleased on: 2013-03-01\n\nProducer, Studio  Personnel, Engineer, Associated  Performer, Vocals: Kevin Parker\nStudio  Perso",
+        "duration": 191,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 477610,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5059033597358",
+    "artist": "Chance the Rapper",
+    "title": "Acid Rap",
+    "year": 2013
+  },
+  "results": [
+    {
+      "id": 21595432,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Mixtape",
+        "Promo",
+        "Unofficial Release",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "barcode": [
+        "ACID 001 A",
+        "ACID 001 B",
+        "ACID 001 C",
+        "ACID 001 D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/21595432-Chance-The-Rapper-Acid-Rap",
+      "catno": "ACIDRAPCHANCETHERAPPER001",
+      "thumb": "https://i.discogs.com/bdIp0auwM6FT9A0Rjo8x44cNXJ_sleewbWDHSu-33f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk1/NDMyLTE2NDEyNTQw/NzQtMTcwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5rS4D-g7N9ues4wfR375sXUmHFlwUgmU5AHZHncRfMw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk1/NDMyLTE2NDEyNTQw/NzQtMTcwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21595432",
+      "community": {
+        "want": 188,
+        "have": 186
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Opaque Purple",
+          "descriptions": [
+            "LP",
+            "Mixtape",
+            "Promo",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7297532,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Hip Hop",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap"
+      ],
+      "country": "Australia",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Numbered",
+        "Promo",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "barcode": [
+        "CHANCETHERAPPER001"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/7297532-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ufCEJe_lym4kISmdu10qmh5yeAQD-64E6HAHAAXuvfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTc1/MzItMTQzODI3OTIy/Mi04MTQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vmHNY6DlI8-HU1dtuQAfXlOFva4N2gkZxDLFiy5dPVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTc1/MzItMTQzODI3OTIy/Mi04MTQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7297532",
+      "community": {
+        "want": 670,
+        "have": 227
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Promo",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9970719,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/9970719-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/aGEpBY9R2SgN8MeJLv_T2s8Y28M6cIMoNIz0SKxE14k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA3/MTktMTQ4OTQzNDE5/MS04Nzg3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/0cSjE8b9MsaInxn-Gb2Qz7XPJ-1FFFfX5HrNSVxOC7o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzA3/MTktMTQ4OTQzNDE5/MS04Nzg3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9970719",
+      "community": {
+        "want": 426,
+        "have": 92
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10811893,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/10811893-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/50-wmLWR9tVYGofUD8haQHD220teGmfAu6AZMVu2Sbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEx/ODkzLTE1MDQ3MTAy/NTQtOTE4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CccPtXfmnI4-I3y7hdcLehdtp1KplsOoPWWU65FCLhU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODEx/ODkzLTE1MDQ3MTAy/NTQtOTE4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10811893",
+      "community": {
+        "want": 166,
+        "have": 35
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5174910,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Electro"
+      ],
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Mixtape Coalition",
+        "Mixtape Coalition",
+        "Mixtape Coalition"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 82364 87902 9",
+        "882364879029",
+        "(A62772P034    9051202)",
+        "IFPI TBD03",
+        "IFPI LT028",
+        "acid rap",
+        "A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/5174910-Chance-The-Rapper-Acid-Rap",
+      "catno": "3790",
+      "thumb": "https://i.discogs.com/3cfjS8l3kQx-QA195AzlDAmNxcMAcw2IbEvAMz2DDdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQ5/MTAtMTM4Njc1NjMz/OC0zMzAzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XtcgoDjPKTpzugkBbPE8xhqVdNJ1pfCeUW3so5129T4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzQ5/MTAtMTM4Njc1NjMz/OC0zMzAzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5174910",
+      "community": {
+        "want": 314,
+        "have": 87
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4526634,
+      "title": "Chance The Rapper - Acid Rap",
+      "master_id": 628752,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2013",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/628752",
+      "uri": "/release/4526634-Chance-The-Rapper-Acid-Rap",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/hP-Iy3m21nZSrQtKvaqlCcegToOggxCecunY9VFKAzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/X1KHhYxddIyamNSKp3BCCF0YRXX6SGwDMX_-eJX2Wgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4526634",
+      "community": {
+        "want": 661,
+        "have": 320
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 628752,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 4526634,
+    "most_recent_release": 14686754,
+    "resource_url": "https://api.discogs.com/masters/628752",
+    "uri": "https://www.discogs.com/master/628752-Chance-The-Rapper-Acid-Rap",
+    "versions_url": "https://api.discogs.com/masters/628752/versions",
+    "main_release_url": "https://api.discogs.com/releases/4526634",
+    "most_recent_release_url": "https://api.discogs.com/releases/14686754",
+    "num_for_sale": 63,
+    "lowest_price": 28.88,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/X1KHhYxddIyamNSKp3BCCF0YRXX6SGwDMX_-eJX2Wgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/X1KHhYxddIyamNSKp3BCCF0YRXX6SGwDMX_-eJX2Wgs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/hP-Iy3m21nZSrQtKvaqlCcegToOggxCecunY9VFKAzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjY2/MzQtMTc1MjMxNTg0/MS0zNDQ3LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2013,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Good Ass Intro",
+        "extraartists": [
+          {
+            "name": "BJ The Chicago Kid",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1641822,
+            "resource_url": "https://api.discogs.com/artists/1641822"
+          },
+          {
+            "name": "J.P. Floyd",
+            "anv": "JP Floydd For Kids These Days",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270637,
+            "resource_url": "https://api.discogs.com/artists/3270637"
+          },
+          {
+            "name": "Kiara Lanier",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270636,
+            "resource_url": "https://api.discogs.com/artists/3270636"
+          },
+          {
+            "name": "Lili K.",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270619,
+            "resource_url": "https://api.discogs.com/artists/3270619"
+          },
+          {
+            "name": "Peter Cottontale",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3268578,
+            "resource_url": "https://api.discogs.com/artists/3268578"
+          },
+          {
+            "name": "Will (67)",
+            "anv": "Will For The O'mys",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270642,
+            "resource_url": "https://api.discogs.com/artists/3270642"
+          },
+          {
+            "name": "Cam (19)",
+            "anv": "Cam For J.U.S.T.I.C.E. League",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270639,
+            "resource_url": "https://api.discogs.com/artists/3270639"
+          },
+          {
+            "name": "Peter Cottontale",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3268578,
+            "resource_url": "https://api.discogs.com/artists/3268578"
+          },
+          {
+            "name": "Stefan Ponce",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2113744,
+            "resource_url": "https://api.discogs.com/artists/2113744"
+          }
+        ],
+        "duration": "3:59"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Pusha Man",
+        "extraartists": [
+          {
+            "name": "Lili K.",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270619,
+            "resource_url": "https://api.discogs.com/artists/3270619"
+          },
+          {
+            "name": "Nate Fox (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270643,
+            "resource_url": "https://api.discogs.com/artists/3270643"
+          },
+          {
+            "name": "Ceej (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3197440,
+            "resource_url": "https://api.discogs.com/artists/3197440"
+          }
+        ],
+        "duration": "7:24"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Cocoa Butter Kisses",
+        "extraartists": [
+          {
+            "name": "Twista",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 133869,
+            "resource_url": "https://api.discogs.com/artists/133869"
+          },
+          {
+            "name": "Vic Mensa",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3268577,
+            "resource_url": "https://api.discogs.com/artists/3268577"
+          },
+          {
+            "name": "Cam (19)",
+            "anv": "Cam For J.U.S.T.I.C.E. League",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270639,
+            "resource_url": "https://api.discogs.com/artists/3270639"
+          }
+        ],
+        "duration": "5:07"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Juice",
+        "extraartists": [
+          {
+            "name": "Nate Fox (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270643,
+            "resource_url": "https://api.discogs.com/artists/3270643"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Lost",
+        "extraartists": [
+          {
+            "name": "NoName Gypsy",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3747378,
+            "resource_url": "https://api.discogs.com/artists/3747378"
+          },
+          {
+            "name": "Nate Fox (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270643,
+            "resource_url": "https://api.discogs.com/artists/3270643"
+          }
+        ],
+        "duration": "3:05"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Everybody's Something",
+        "extraartists": [
+          {
+            "name": "BJ The Chicago Kid",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1641822,
+            "resource_url": "https://api.discogs.com/artists/1641822"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          },
+          {
+            "name": "DJ O-Zone",
+            "anv": "DJ Ozone",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2113745,
+            "resource_url": "https://api.discogs.com/artists/2113745"
+          }
+        ],
+        "duration": "4:37"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Interlude (That's Love)",
+        "extraartists": [
+          {
+            "name": "Ludwig G\u00f6ransson",
+            "anv": "Ludwig Gorransen",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 6682651,
+            "resource_url": "https://api.discogs.com/artists/6682651"
+          }
+        ],
+        "duration": "2:30"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Favorite Song",
+        "extraartists": [
+          {
+            "name": "Childish Gambino",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2482309,
+            "resource_url": "https://api.discogs.com/artists/2482309"
+          },
+          {
+            "name": "Nate Fox (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270643,
+            "resource_url": "https://api.discogs.com/artists/3270643"
+          }
+        ],
+        "duration": "3:05"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "NaNa",
+        "extraartists": [
+          {
+            "name": "Action Bronson",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1479204,
+            "resource_url": "https://api.discogs.com/artists/1479204"
+          },
+          {
+            "name": "Brandun Deshay",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967270,
+            "resource_url": "https://api.discogs.com/artists/1967270"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Smoke Again",
+        "extraartists": [
+          {
+            "name": "Ab-Soul",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2327281,
+            "resource_url": "https://api.discogs.com/artists/2327281"
+          },
+          {
+            "name": "Blended Babies",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1997651,
+            "resource_url": "https://api.discogs.com/artists/1997651"
+          }
+        ],
+        "duration": "4:33"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Acid Rain",
+        "extraartists": [
+          {
+            "name": "Jake One",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 89475,
+            "resource_url": "https://api.discogs.com/artists/89475"
+          }
+        ],
+        "duration": "3:36"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Chain Smoker",
+        "extraartists": [
+          {
+            "name": "Nate Fox (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270643,
+            "resource_url": "https://api.discogs.com/artists/3270643"
+          }
+        ],
+        "duration": "3:31"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Everything's Good (Good Ass Outro)",
+        "extraartists": [
+          {
+            "name": "Cam (19)",
+            "anv": "Cam For J.U.S.T.I.C.E. League",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3270639,
+            "resource_url": "https://api.discogs.com/artists/3270639"
+          }
+        ],
+        "duration": "5:34"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Chance The Rapper",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3268583,
+        "resource_url": "https://api.discogs.com/artists/3268583",
+        "thumbnail_url": "https://i.discogs.com/hE2q_V5XDrLCb3KYb2TshEScWQBuvkhMw-MXTuuaq9k/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjg1/ODMtMTU0NjcwNzcw/MC00ODU5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Acid Rap",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=h8nIHZ-0kS4",
+        "title": "Chance The Rapper - Juice (Official Video)",
+        "description": "AcidRap album available FREE @ http://www.chanceraps.com \nDownload The mixtape \"#10Day\" for Free here: http://goo.gl/PlViD\nChanceRaps.com\nDirected, shot, and edited by Austin Vesely\nProd. by AllDayRecess\nTwitter: \n@ChanceTheRapper\n@AustinVesely",
+        "duration": 219,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Gctf0n8b3F4",
+        "title": "Chance the Rapper - Everybody's Something (Official Video)",
+        "description": "Chance The Rapper - Everybody's Somebody's Everything\nAcidRap album available FREE @ http://www.chanceraps.com \nDirected, shot, and edited by Austin Vesely (http://twitter.com/AustinVesely)\nProd by Dj O-Zone\nAdditional Vocals by Bj The Chicago Kid\nAdditio",
+        "duration": 214,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=jjmiLp47Yg8",
+        "title": "Chance The Rapper - So Good ( Good Ass Intro) (Official Video)",
+        "description": "AcidRap album available FREE @ http://www.chanceraps.com \nDownload The mixtape \"#10Day\" for Free here: http://goo.gl/PlViD\nChanceRaps.com\nShot By: OJ Hays & Andrew Straw\nAnimation & Editing By: OJ Hays\nProd. by: Stefan Ponce & Peter Cottontale\nVocals by: ",
+        "duration": 187,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 628752,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

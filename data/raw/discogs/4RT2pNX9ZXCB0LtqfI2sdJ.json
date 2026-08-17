@@ -1,0 +1,1780 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5400863090043",
+    "artist": "Geese",
+    "title": "3D Country",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 27342894,
+      "title": "Geese (11) - 3D Country",
+      "master_id": 3149439,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863090050",
+        "PTPS10LP A2 = MATT @ METROPOLIS = 1= BM82688-01 A1",
+        "PTPS10LP B2 BM82688-01 B1 1=",
+        "PTPS10LP A2 = MATT @ METROPOLIS = BM82688-01 A1 1T",
+        "PTPS10LP B2 BM82688-01 B1 1T"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27342894-Geese-3D-Country",
+      "catno": "PTPS10LP",
+      "thumb": "https://i.discogs.com/4dj_r7MacAQZhvQwhQrMi59G1uujrM2miSGAdPA74tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/ODk0LTE2ODc4MDI1/NjktMjAxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BIeXvMUVuD9rKwzgLqzzNOs3b504Sp2yahfgc4JUDUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQy/ODk0LTE2ODc4MDI1/NjktMjAxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27342894",
+      "community": {
+        "want": 1142,
+        "have": 2918
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27518394,
+      "title": "Geese (11) - 3D Country",
+      "master_id": 3149439,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Country Rock",
+        "Alternative Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "The Diamond Mine",
+        "Future Sounds",
+        "Metropolis Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 400863 093112",
+        "5400863093112",
+        "PTPS10LP A2 BM82688-01 A1 = MATT @ METROPOLIS =",
+        "PTPS10LP B2 BM82688-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27518394-Geese-3D-Country",
+      "catno": "PTPS10LPX",
+      "thumb": "https://i.discogs.com/YklC4QfwYHQQ-m39fAkG8wnXDr_GhoxuXMgWDJnfqgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE4/Mzk0LTE3ODM3MTMz/MjUtODU2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ysgxw5m6wPEy-l_0xN3Fshr84N-4gW199UNQw8AmYew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE4/Mzk0LTE3ODM3MTMz/MjUtODU2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27518394",
+      "community": {
+        "want": 1579,
+        "have": 6315
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear [Crystal Clear]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27594987,
+      "title": "Geese (11) - 3D Country",
+      "master_id": 3149439,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "The Diamond Mine",
+        "Future Sounds",
+        "Profact International",
+        "Profact International"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 400863 090067",
+        "5400863090067",
+        "459704 @1",
+        "459704 @2",
+        "IFPI LW03",
+        "IFPI AAHP9",
+        "IFPI AAHP5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3149439",
+      "uri": "/release/27594987-Geese-3D-Country",
+      "catno": "PTPS10CD",
+      "thumb": "https://i.discogs.com/0-q8-2WakkgdJZhGaKkCBqz7aYrgVu324Kgcz1pHdIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8nJut5YXv-q6o_QDBmVgjsJoEmibU_2keKSGYJWjYN0/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27594987",
+      "community": {
+        "want": 380,
+        "have": 747
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3149439,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Experimental",
+      "Indie Rock"
+    ],
+    "main_release": 27594987,
+    "most_recent_release": 38030838,
+    "resource_url": "https://api.discogs.com/masters/3149439",
+    "uri": "https://www.discogs.com/master/3149439-Geese-11-3D-Country",
+    "versions_url": "https://api.discogs.com/masters/3149439/versions",
+    "main_release_url": "https://api.discogs.com/releases/27594987",
+    "most_recent_release_url": "https://api.discogs.com/releases/38030838",
+    "num_for_sale": 124,
+    "lowest_price": 13.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/8nJut5YXv-q6o_QDBmVgjsJoEmibU_2keKSGYJWjYN0/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/8nJut5YXv-q6o_QDBmVgjsJoEmibU_2keKSGYJWjYN0/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0-q8-2WakkgdJZhGaKkCBqz7aYrgVu324Kgcz1pHdIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE2OTAzNTQ4/MzgtMjg4Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 541
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FgQb9O0krnvcKmG3j770TUM7HNvNcKkmKDKFYTMg8ok/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTMtNzAzOC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/FgQb9O0krnvcKmG3j770TUM7HNvNcKkmKDKFYTMg8ok/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTMtNzAzOC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/y_dAcV_dr9IeAaN4fRLGe2rGgaJ9GXYUdm4kwhhqU24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTMtNzAzOC5wbmc.jpeg",
+        "width": 600,
+        "height": 523
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7WDoIqxO7bLMNSUZL4mRyYNgTVXnXpjq-dz0lir4-pg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTYtMzk4NC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/7WDoIqxO7bLMNSUZL4mRyYNgTVXnXpjq-dz0lir4-pg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTYtMzk4NC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/7XvRvNnx7b67UEQ-rY5UMbw5z-TEEyNpXtW6bBWPTlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTYtMzk4NC5wbmc.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kUETVxaG02yhA7c41FVsngMD6KJ7g6DQwobCS3HZZWY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTgtNjY4OC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/kUETVxaG02yhA7c41FVsngMD6KJ7g6DQwobCS3HZZWY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTgtNjY4OC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/bcjKrQs7rLsoOu-xaMSK9Nj-Cn9hQ7QQrnf9nJoEx88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE2/OTgtNjY4OC5wbmc.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fiZNn7z9IDIVIHt3YmHX0VLZbiavrEq6_Mr6C6oovvo/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDItMjQ3OS5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/fiZNn7z9IDIVIHt3YmHX0VLZbiavrEq6_Mr6C6oovvo/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDItMjQ3OS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/t_U-GMfxfP8eI3plkEkXGxnqOSre-dXLS4e1Ti1nuYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDItMjQ3OS5wbmc.jpeg",
+        "width": 600,
+        "height": 549
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oqLnHWph_MWL-jm3xf9ZPN9BFdbhsStjJrgQfndwEX8/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDMtOTUwNi5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/oqLnHWph_MWL-jm3xf9ZPN9BFdbhsStjJrgQfndwEX8/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDMtOTUwNi5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/tsg_-joEjY5ejSJqExw0FPbAHDFNBQgzj4ayvbWSUvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDMtOTUwNi5wbmc.jpeg",
+        "width": 600,
+        "height": 543
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/s_Bt6oMPFOIxBPfPY1lQZptRI6-w4Xt2MKJBkVgduLA/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDYtODk0NC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/s_Bt6oMPFOIxBPfPY1lQZptRI6-w4Xt2MKJBkVgduLA/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDYtODk0NC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/1UyuTmfI8Npmb2x2pt-uFUaogboy-LyhrGOapLvXpPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk0/OTg3LTE3NTk3NzE3/MDYtODk0NC5wbmc.jpeg",
+        "width": 600,
+        "height": 547
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "2122",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:54"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "3D Country",
+        "extraartists": [
+          {
+            "name": "Audrey Martells",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 274771,
+            "resource_url": "https://api.discogs.com/artists/274771"
+          },
+          {
+            "name": "Lajuan Carter",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 453754,
+            "resource_url": "https://api.discogs.com/artists/453754"
+          },
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Alon Bisk",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7918898,
+            "resource_url": "https://api.discogs.com/artists/7918898"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Sam Revaz",
+            "anv": "",
+            "join": "",
+            "role": "Piano [Additional]",
+            "tracks": "",
+            "id": 16009641,
+            "resource_url": "https://api.discogs.com/artists/16009641"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Background Vocals], Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Background Vocals], Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Katie Jacoby",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 1847237,
+            "resource_url": "https://api.discogs.com/artists/1847237"
+          },
+          {
+            "name": "Tomoko Akaboshi",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5114092,
+            "resource_url": "https://api.discogs.com/artists/5114092"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "5:14"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Cowboy Nudes",
+        "extraartists": [
+          {
+            "name": "Audrey Martells",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 274771,
+            "resource_url": "https://api.discogs.com/artists/274771"
+          },
+          {
+            "name": "Jenny Douglas",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 408422,
+            "resource_url": "https://api.discogs.com/artists/408422"
+          },
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Beatriz Artola",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By, Recorded By",
+            "tracks": "",
+            "id": 532652,
+            "resource_url": "https://api.discogs.com/artists/532652"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "2:51"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "I See Myself",
+        "extraartists": [
+          {
+            "name": "Audrey Martells",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 274771,
+            "resource_url": "https://api.discogs.com/artists/274771"
+          },
+          {
+            "name": "Jenny Douglas",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 408422,
+            "resource_url": "https://api.discogs.com/artists/408422"
+          },
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Beatriz Artola",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By, Recorded By",
+            "tracks": "",
+            "id": 532652,
+            "resource_url": "https://api.discogs.com/artists/532652"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:01"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Undoer",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals [Screams]",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Sam Revaz",
+            "anv": "",
+            "join": "",
+            "role": "Piano [Additional]",
+            "tracks": "",
+            "id": 16009641,
+            "resource_url": "https://api.discogs.com/artists/16009641"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Lead Vocals], Recorded By [Additional]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "7:00"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Crusades",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Alon Bisk",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7918898,
+            "resource_url": "https://api.discogs.com/artists/7918898"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Geese (3)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1337975,
+            "resource_url": "https://api.discogs.com/artists/1337975"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additonal Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additonal Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Katie Jacoby",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 1847237,
+            "resource_url": "https://api.discogs.com/artists/1847237"
+          },
+          {
+            "name": "Tomoko Akaboshi",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5114092,
+            "resource_url": "https://api.discogs.com/artists/5114092"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "2:39"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Gravity Blues",
+        "extraartists": [
+          {
+            "name": "Audrey Martells",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 274771,
+            "resource_url": "https://api.discogs.com/artists/274771"
+          },
+          {
+            "name": "Lajuan Carter",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 453754,
+            "resource_url": "https://api.discogs.com/artists/453754"
+          },
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Geese",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 715157,
+            "resource_url": "https://api.discogs.com/artists/715157"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals], Recorded By [Background Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals], Recorded By [Background Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "4:01"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Mysterious Love",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:16"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Domoto",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Alon Bisk",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7918898,
+            "resource_url": "https://api.discogs.com/artists/7918898"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Katie Jacoby",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 1847237,
+            "resource_url": "https://api.discogs.com/artists/1847237"
+          },
+          {
+            "name": "Tomoko Akaboshi",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5114092,
+            "resource_url": "https://api.discogs.com/artists/5114092"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:48"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Tomorrow's Crusades",
+        "extraartists": [
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Alon Bisk",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7918898,
+            "resource_url": "https://api.discogs.com/artists/7918898"
+          },
+          {
+            "name": "Max Bassin",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 9902290,
+            "resource_url": "https://api.discogs.com/artists/9902290"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Geese (3)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1337975,
+            "resource_url": "https://api.discogs.com/artists/1337975"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Katie Jacoby",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 1847237,
+            "resource_url": "https://api.discogs.com/artists/1847237"
+          },
+          {
+            "name": "Tomoko Akaboshi",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5114092,
+            "resource_url": "https://api.discogs.com/artists/5114092"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "4:32"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "St. Elmo",
+        "extraartists": [
+          {
+            "name": "Audrey Martells",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 274771,
+            "resource_url": "https://api.discogs.com/artists/274771"
+          },
+          {
+            "name": "Lajuan Carter",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 453754,
+            "resource_url": "https://api.discogs.com/artists/453754"
+          },
+          {
+            "name": "Alon Bisk",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7918898,
+            "resource_url": "https://api.discogs.com/artists/7918898"
+          },
+          {
+            "name": "Dominic DiGesu",
+            "anv": "Dom DiGesu",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 10577827,
+            "resource_url": "https://api.discogs.com/artists/10577827"
+          },
+          {
+            "name": "Gus Green",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 9902287,
+            "resource_url": "https://api.discogs.com/artists/9902287"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Matt Colton",
+            "anv": "Matthew Colton",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 393350,
+            "resource_url": "https://api.discogs.com/artists/393350"
+          },
+          {
+            "name": "Foster Hudson",
+            "anv": "",
+            "join": "",
+            "role": "Percussion [Additional]",
+            "tracks": "",
+            "id": 10577830,
+            "resource_url": "https://api.discogs.com/artists/10577830"
+          },
+          {
+            "name": "Geese (11)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9780763,
+            "resource_url": "https://api.discogs.com/artists/9780763"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lily Wen",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Additional Lead Vocals]",
+            "tracks": "",
+            "id": 4452169,
+            "resource_url": "https://api.discogs.com/artists/4452169"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Main Band], Recorded By [Strings]",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Katie Jacoby",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 1847237,
+            "resource_url": "https://api.discogs.com/artists/1847237"
+          },
+          {
+            "name": "Tomoko Akaboshi",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5114092,
+            "resource_url": "https://api.discogs.com/artists/5114092"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano, Bass",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:23"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Geese (11)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9780763,
+        "resource_url": "https://api.discogs.com/artists/9780763",
+        "thumbnail_url": "https://i.discogs.com/n3qrwT6m-eepgHK4ppXpiao7uIbWd8HrTNC3QT9JcvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk3ODA3/NjMtMTc2ODYyODQ3/My01MTI2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "3D Country",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=0m1abZODAJ0",
+        "title": "Geese - 3D Country (Official Music Video)",
+        "description": "Listen to the new single here: geese.lnk.to/3DCsingle\n\nThe new album 3D Country out June 23, 2023 on Partisan Records and Play It Again Sam.\n\nPreorder the new album:  geese.lnk.to/3DCountry\n\nSubscribe to Geese\u2019s YouTube Channel \u2013 geese.lnk.to/youtube\nJoin",
+        "duration": 419,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NB97ZCzNsxA",
+        "title": "Geese - Undoer (Official Audio)",
+        "description": "Undoer, from the new album 3D Country out now on Partisan Records and Play It Again Sam: http://geese.lnk.to/3DCountry\n\nSubscribe to Geese\u2019s YouTube Channel \u2013 http://geese.lnk.to/youtube\nJoin the Geese mailing list \u2013 http://geese.lnk.to/sign-up\nTour Dates",
+        "duration": 420,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3149439,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

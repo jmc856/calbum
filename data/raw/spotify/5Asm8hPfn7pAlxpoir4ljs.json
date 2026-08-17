@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs"
+  },
+  "href": "https://api.spotify.com/v1/albums/5Asm8hPfn7pAlxpoir4ljs",
+  "id": "5Asm8hPfn7pAlxpoir4ljs",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd168c97fdd98891f1f5ca26",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd168c97fdd98891f1f5ca26",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851dd168c97fdd98891f1f5ca26",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Cry Baby",
+  "release_date": "2026-06-05",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5Asm8hPfn7pAlxpoir4ljs",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+      },
+      "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+      "id": "68kEuyFKyqrdQQLLsmiatm",
+      "name": "Vince Staples",
+      "type": "artist",
+      "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5Asm8hPfn7pAlxpoir4ljs/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 232933,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QOTLNlbpsTJq074uw3yLY",
+        "id": "2QOTLNlbpsTJq074uw3yLY",
+        "name": "Blackberry Marmalade",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2QOTLNlbpsTJq074uw3yLY",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211026,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Rhc0x2P3ci76jAEv6Zrm0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Rhc0x2P3ci76jAEv6Zrm0",
+        "id": "5Rhc0x2P3ci76jAEv6Zrm0",
+        "name": "Go! Go! Gorilla",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Rhc0x2P3ci76jAEv6Zrm0",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154480,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25YNsshClC7sdLI6vvsKP5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25YNsshClC7sdLI6vvsKP5",
+        "id": "25YNsshClC7sdLI6vvsKP5",
+        "name": "White Flag",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:25YNsshClC7sdLI6vvsKP5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ahEKwjsXeVxsiTtbzdlkh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ahEKwjsXeVxsiTtbzdlkh",
+        "id": "1ahEKwjsXeVxsiTtbzdlkh",
+        "name": "The Running Man",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1ahEKwjsXeVxsiTtbzdlkh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264346,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QK3A6z0I709ODknz9O3Ss"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QK3A6z0I709ODknz9O3Ss",
+        "id": "5QK3A6z0I709ODknz9O3Ss",
+        "name": "TV Guide",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5QK3A6z0I709ODknz9O3Ss",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 132413,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VFgu6AiIutvLazcRQTs14"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VFgu6AiIutvLazcRQTs14",
+        "id": "6VFgu6AiIutvLazcRQTs14",
+        "name": "The Big Bad Wolf",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6VFgu6AiIutvLazcRQTs14",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 269453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5SodnSsSaHeewZFzIrv6SB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5SodnSsSaHeewZFzIrv6SB",
+        "id": "5SodnSsSaHeewZFzIrv6SB",
+        "name": "Only In America",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5SodnSsSaHeewZFzIrv6SB",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QK6VUNoqrFHXg0vVHEzyK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QK6VUNoqrFHXg0vVHEzyK",
+        "id": "3QK6VUNoqrFHXg0vVHEzyK",
+        "name": "Do You Know The Devil",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3QK6VUNoqrFHXg0vVHEzyK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rBesRD5DkpI0dyjmXV7lf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rBesRD5DkpI0dyjmXV7lf",
+        "id": "2rBesRD5DkpI0dyjmXV7lf",
+        "name": "Cotton",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2rBesRD5DkpI0dyjmXV7lf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+            },
+            "href": "https://api.spotify.com/v1/artists/68kEuyFKyqrdQQLLsmiatm",
+            "id": "68kEuyFKyqrdQQLLsmiatm",
+            "name": "Vince Staples",
+            "type": "artist",
+            "uri": "spotify:artist:68kEuyFKyqrdQQLLsmiatm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248639,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QvxXdu3pLM7dhTlCb6O5W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QvxXdu3pLM7dhTlCb6O5W",
+        "id": "1QvxXdu3pLM7dhTlCb6O5W",
+        "name": "7 In The Morning",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1QvxXdu3pLM7dhTlCb6O5W",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2026 Section Eight Arthouse., Under exclusive license to Loma Vista Recordings. A Concord Label Group Release.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2026 Section Eight Arthouse., Under exclusive license to Loma Vista Recordings. A Concord Label Group Release.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00888072784420"
+  },
+  "genres": []
+}

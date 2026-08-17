@@ -1,0 +1,320 @@
+{
+  "album_type": "album",
+  "total_tracks": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+  },
+  "href": "https://api.spotify.com/v1/albums/1yEo1ZJE5ZgIF7LYrDTbMK",
+  "id": "1yEo1ZJE5ZgIF7LYrDTbMK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a9109a9eea979b562879518",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027a9109a9eea979b562879518",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517a9109a9eea979b562879518",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Double Infinity",
+  "release_date": "2025-09-05",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1yEo1ZJE5ZgIF7LYrDTbMK",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+      "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+      "name": "Big Thief",
+      "type": "artist",
+      "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1yEo1ZJE5ZgIF7LYrDTbMK/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233307,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5GTRE7cnySeaYBanwM5FIt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GTRE7cnySeaYBanwM5FIt",
+        "id": "5GTRE7cnySeaYBanwM5FIt",
+        "name": "Incomprehensible",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5GTRE7cnySeaYBanwM5FIt",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227070,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Cxs2cLG7HoXfcAlw67yIy",
+        "id": "2Cxs2cLG7HoXfcAlw67yIy",
+        "name": "Words",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2Cxs2cLG7HoXfcAlw67yIy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237134,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TSj6ySt4WqDuljv61Q4D5",
+        "id": "5TSj6ySt4WqDuljv61Q4D5",
+        "name": "Los Angeles",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5TSj6ySt4WqDuljv61Q4D5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 288818,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gVrDEjo68KtplLuZuATTI",
+        "id": "3gVrDEjo68KtplLuZuATTI",
+        "name": "All Night All Day",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3gVrDEjo68KtplLuZuATTI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252823,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jdNbCXGGciAOLwAShbJ9Z",
+        "id": "4jdNbCXGGciAOLwAShbJ9Z",
+        "name": "Double Infinity",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4jdNbCXGGciAOLwAShbJ9Z",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 418560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r3q5J2T2PSAkn1xkFpisa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0r3q5J2T2PSAkn1xkFpisa",
+        "id": "0r3q5J2T2PSAkn1xkFpisa",
+        "name": "No Fear",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0r3q5J2T2PSAkn1xkFpisa",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sd3qv6kReAdo6WsLBtXX4",
+            "id": "6sd3qv6kReAdo6WsLBtXX4",
+            "name": "Laraaji",
+            "type": "artist",
+            "uri": "spotify:artist:6sd3qv6kReAdo6WsLBtXX4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 360454,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ZKhQHAyi0eRwQgYNO08AI",
+        "id": "6ZKhQHAyi0eRwQgYNO08AI",
+        "name": "Grandmother",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6ZKhQHAyi0eRwQgYNO08AI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266818,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6fHzHCaCA32kr4Jhe9AYbP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fHzHCaCA32kr4Jhe9AYbP",
+        "id": "6fHzHCaCA32kr4Jhe9AYbP",
+        "name": "Happy with You",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6fHzHCaCA32kr4Jhe9AYbP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5QdyldG4Fl4TPiOIeMNpBZ",
+            "id": "5QdyldG4Fl4TPiOIeMNpBZ",
+            "name": "Big Thief",
+            "type": "artist",
+            "uri": "spotify:artist:5QdyldG4Fl4TPiOIeMNpBZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 288890,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17tN4TOGM562ach3uvZZUi",
+        "id": "17tN4TOGM562ach3uvZZUi",
+        "name": "How Could I Have Known",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:17tN4TOGM562ach3uvZZUi",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2025 Big Thief under exclusive license to 4AD Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2025 Big Thief under exclusive license to 4AD Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191400085053"
+  },
+  "genres": []
+}

@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+  },
+  "href": "https://api.spotify.com/v1/albums/21xp7NdU1ajmO1CX0w2Egd",
+  "id": "21xp7NdU1ajmO1CX0w2Egd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f4b994c518581bf62157c38",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020f4b994c518581bf62157c38",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510f4b994c518581bf62157c38",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Ants From Up There",
+  "release_date": "2022-02-04",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:21xp7NdU1ajmO1CX0w2Egd",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+      },
+      "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+      "id": "3PP6ghmOlDl2jaKaH0avUN",
+      "name": "Black Country, New Road",
+      "type": "artist",
+      "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/21xp7NdU1ajmO1CX0w2Egd/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 54906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3x94tRszQo5AJqaLCg6G8K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3x94tRszQo5AJqaLCg6G8K",
+        "id": "3x94tRszQo5AJqaLCg6G8K",
+        "name": "Intro",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3x94tRszQo5AJqaLCg6G8K",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UEH1NjNHGsoEIr3GKLhNR",
+        "id": "2UEH1NjNHGsoEIr3GKLhNR",
+        "name": "Chaos Space Marine",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2UEH1NjNHGsoEIr3GKLhNR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 363773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y5akbuW5mCnnUe71xATpe",
+        "id": "0y5akbuW5mCnnUe71xATpe",
+        "name": "Concorde",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0y5akbuW5mCnnUe71xATpe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 381413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hxdkHpl8gNgx3NnoffkK4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hxdkHpl8gNgx3NnoffkK4",
+        "id": "7hxdkHpl8gNgx3NnoffkK4",
+        "name": "Bread Song",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7hxdkHpl8gNgx3NnoffkK4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 297906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Ppd0oDauQpaQgNvpHzq24",
+        "id": "0Ppd0oDauQpaQgNvpHzq24",
+        "name": "Good Will Hunting",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0Ppd0oDauQpaQgNvpHzq24",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 305213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EVwKp8hDRmxrT6Dzu6aBc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4EVwKp8hDRmxrT6Dzu6aBc",
+        "id": "4EVwKp8hDRmxrT6Dzu6aBc",
+        "name": "Haldern",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4EVwKp8hDRmxrT6Dzu6aBc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 167186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0K4HD4meXy662mfS8Og0NU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0K4HD4meXy662mfS8Og0NU",
+        "id": "0K4HD4meXy662mfS8Og0NU",
+        "name": "Mark\u2019s Theme",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0K4HD4meXy662mfS8Og0NU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 433360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3k2kIiJqUiIP49iUcOLpWT",
+        "id": "3k2kIiJqUiIP49iUcOLpWT",
+        "name": "The Place Where He Inserted the Blade",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3k2kIiJqUiIP49iUcOLpWT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 553213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0hpDqky5jV8MQqdvMWFv7K",
+        "id": "0hpDqky5jV8MQqdvMWFv7K",
+        "name": "Snow Globes",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0hpDqky5jV8MQqdvMWFv7K",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+            "id": "3PP6ghmOlDl2jaKaH0avUN",
+            "name": "Black Country, New Road",
+            "type": "artist",
+            "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 757440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ShVovnLIlObG43vwaCRkJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ShVovnLIlObG43vwaCRkJ",
+        "id": "4ShVovnLIlObG43vwaCRkJ",
+        "name": "Basketball Shoes",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4ShVovnLIlObG43vwaCRkJ",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2022 Ninja Tune",
+      "type": "C"
+    },
+    {
+      "text": "2022 Ninja Tune",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5054429151442"
+  },
+  "genres": []
+}

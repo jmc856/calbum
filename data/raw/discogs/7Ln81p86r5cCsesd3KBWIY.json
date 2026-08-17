@@ -1,0 +1,1376 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "191400040854",
+    "artist": "Big Thief",
+    "title": "Dragon New Warm Mountain I Believe In You",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 22146373,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "Music Gardens",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "MPO",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "191400040816",
+        "191400040830",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 22253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 22 253945",
+        "4AD0408LP B TELEGRAPH DRAGON ",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22 254490",
+        "4AD0408LP D TELEGRAPH DRAGON MPO 22 254398",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP C2 MPO 22 254391 -CVU-",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 22 254398"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22146373-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/WjN7Cawhut1HCcHxbprkAoQpqPnD1E8WdJfBMKbLs0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ2/MzczLTE2NDUyOTAy/NDUtNzA5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o7BtBTjnflZdoWVZBKlh6qZ1LVimwsCZSpEPc743wds/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ2/MzczLTE2NDUyOTAy/NDUtNzA5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22146373",
+      "community": {
+        "want": 508,
+        "have": 1260
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22129498,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Acoustic"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "4AD",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Vinyl Me, Please",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A TELEGRAPH DRAGON ",
+        "231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "231690E3 1041667",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "231690E4 1041885"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22129498-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/9NnEDcMv3_UIG7dcIQHRKsmhHuvCv4Bs_tJBgENth9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/NDk4LTE2NDUzMjQz/MzItNDY2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BfQg7qlyHaNnkJ-QIAqi4fT_SKRjJcOkaunxuEaPbns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/NDk4LTE2NDUzMjQz/MzItNDY2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22129498",
+      "community": {
+        "want": 676,
+        "have": 836
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22125994,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Acoustic"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "LLC UK"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04082 3",
+        "191400040823",
+        "LC 05807",
+        "ASCAP",
+        "LLC UK 4AD0408CD 12 A00",
+        "IFPI L556",
+        "IFPI 94V5",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 94V5",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 94K2",
+        "LLC UK 4AD0408CD 26 A00",
+        "IFPI L552",
+        "IFPI 946P"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22125994-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CD",
+      "thumb": "https://i.discogs.com/g4QGAgPsdWcFKu7eKYjfzjhTtvMv9W1npV8zO9xXFzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI1/OTk0LTE2NDQ2NjQz/NzgtMzg0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/H_oCiATRTwZYLSbUWT4_Hktuw2_eGo-Jrkg5mwsLCmg/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI1/OTk0LTE2NDQ2NjQz/NzgtMzg0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22125994",
+      "community": {
+        "want": 229,
+        "have": 802
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21972565,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04082 3",
+        "191400040823",
+        "4AD0408CD 6745-CD-4954 21-266-13",
+        "IFPI LK13",
+        "IFPI L823",
+        "4AD0408CD 6745-CD-4954 25-316-18-2",
+        "IFPI LV09",
+        "IFPI L814",
+        "LC 05807"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/21972565-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CD",
+      "thumb": "https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4_KfERB5AIV5Xu9iuTk6-kQFx45naFTeLmyGJjjIogU/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21972565",
+      "community": {
+        "want": 489,
+        "have": 1005
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22192015,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A MPO 21248834 TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON MPO 21249040",
+        "4AD0408LP C MPO 21248935 TELEGRAPH DRAGON",
+        "4AD0408LP D MPO 21248625 TELEGRAPH DRAGON",
+        "4AD0408LP A TELEGRAPH DRAGON MPO 21248860",
+        "4AD0408LP B TELEGRAPH DRAGON MPO 21248316",
+        "4AD0408LP C TELEGRAPH DRAGON MPO 21248935",
+        "4AD0408LP D TELEGRAPH DRAGON MPO 21248757",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22192015-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/_uvMgLDv2_ODZlnvEXOlzz-4cgDpaX16vj_Q9SNsDHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTky/MDE1LTE3MDU2Nzgx/ODQtMjUxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/E2FrledCyMVZSPaRYwJQUv6vWzFIPCQTf7HYhiFkpP8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTky/MDE1LTE3MDU2Nzgx/ODQtMjUxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22192015",
+      "community": {
+        "want": 429,
+        "have": 1365
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22423321,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22423321-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408",
+      "thumb": "https://i.discogs.com/Z8qYCFF4Cq-KM4N43G8DAoqKAxD1D-2ykYnipNbgmXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzIxLTE2NDY2NzIy/NTEtNTIzOS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/SPQI_O1GCjvZ7_26yS8FM2c8UTCmzOSuGCiO3pjOy5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzIxLTE2NDY2NzIy/NTEtNTIzOS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22423321",
+      "community": {
+        "want": 47,
+        "have": 37
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "20",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29556679,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "4AD Ltd.",
+        "Beat Records",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "4580211855553",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/29556679-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CDJP",
+      "thumb": "https://i.discogs.com/qcIFRq4XlsM-c4CawHXWE2Lky4sqESZKX_S_kkAs1d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTU2/Njc5LTE3MDU4NDcw/MjMtODM1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wYbDMQfHNAatUz5UOWT1ycywS0JiL9GkWTb_g9DHDAg/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTU2/Njc5LTE3MDU4NDcw/MjMtODM1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29556679",
+      "community": {
+        "want": 79,
+        "have": 7
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22161811,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "The Elf Inn",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Telegraph Mastering",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "191400040816",
+        "1 91400 04081 6",
+        "191400040830",
+        "1 91400 04083 0",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22161811-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/_Or51BwkAOjwwx7k-smU8JNvqxbFJKJoLS1rIiaTkoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYx/ODExLTE2NDQ4OTAw/MzktNTQ0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9xYMm5R72SqLY-0xAyj1_k71PDw5nuMesiJ5AptWP9w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTYx/ODExLTE2NDQ4OTAw/MzktNTQ0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22161811",
+      "community": {
+        "want": 717,
+        "have": 4225
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35856298,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2022",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Fivestarstudios",
+        "Flying Cloud Studios, NY",
+        "Press On Studio",
+        "Studio In The Clouds",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Beggars Group",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/35856298-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/G_NS0BK3_cXMbH5g0p4TodaeeI8HMoobS6Eya9imCXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU2/Mjk4LTE3NjUwMzM4/NjktNTk2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IZU2oQyXxqiUYXDGwGGIh3kT9wPdnjCxAfSQpbXB4UU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODU2/Mjk4LTE3NjUwMzM4/NjktNTk2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35856298",
+      "community": {
+        "want": 8,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "20",
+          "text": "24-Bit / 96-kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22181830,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "4AD Ltd.",
+        "Beat Records",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "4580211855553",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22181830-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408CDJP",
+      "thumb": "https://i.discogs.com/4zX2hzz2PJDpMf6s4YTNqB8Zl0oJeAg9tN2iyl2lI28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgx/ODMwLTE3MTc5NTUy/OTgtNTg5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cKNUPwsKLnYFtHMMKlbLiC1ZSUlhqk0r7ySAFk7HH_A/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTgx/ODMwLTE3MTc5NTUy/OTgtNTg5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22181830",
+      "community": {
+        "want": 146,
+        "have": 55
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24416642,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04081 6",
+        "191400040816",
+        "ASCAP ",
+        "4AD0408LP A TELEGRAPH DRAGON / 231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON  / 231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON  / 231690E3 1158659",
+        "4AD0408LP D TELEGRAPH DRAGON / 231690E4 1041885",
+        "4AD0408LP A TELEGRAPH DRAGON / 231690E1 1040975",
+        "4AD0408LP B TELEGRAPH DRAGON  / 231690E2 XXXXXXX 1877175",
+        "4AD0408LP C TELEGRAPH DRAGON  / 231690E3 1868338",
+        "4AD0408LP D TELEGRAPH DRAGON / 231690E4 1490485"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/24416642-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/r5hXfZ7XnwuQZvUATxkrSUgCUuEzsw41M6ypVxYDbKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/NjQyLTE2NzgyMjAy/NDktMjA3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lYV2HvmpPtKIk5ghQkdvNuaaknI_bbyvTyFs7GVDmSI/rs:fit/g:sm/q:90/h:511/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/NjQyLTE2NzgyMjAy/NDktMjA3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24416642",
+      "community": {
+        "want": 327,
+        "have": 877
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22078948,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Folk",
+        "Country Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Telegraph Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04081 6",
+        "4AD0408LP A TELEGRAPH DRAGON",
+        "4AD0408LP B TELEGRAPH DRAGON",
+        "4AD0408LP C TELEGRAPH DRAGON",
+        "4AD0408LP D TELEGRAPH DRAGON",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22078948-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/0iBQSFKZTgIzd__ttNxZ9rPVjs4u9dLsL47Tu8z2CWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/OTQ4LTE2NDQzNjAw/NDEtODQ2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/c0JgX3iYasX9HMSa7XAoiLuaHbboWzNs_WJAcu4e-hw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/OTQ4LTE2NDQzNjAw/NDEtODQ2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22078948",
+      "community": {
+        "want": 996,
+        "have": 4951
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22078003,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK & US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Adrianne Elizabeth Lenker",
+        "Domino Publishing Company USA",
+        "Buck Meek",
+        "Kobalt Songs Music Publishing",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio",
+        "Telegraph Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91400 04081 6",
+        "191400040830",
+        "4AD0408LP A TELEGRAPH DRAGON 231690E1 1125183",
+        "4AD0408LP B TELEGRAPH DRAGON 231690E2 1047454",
+        "4AD0408LP C TELEGRAPH DRAGON 231690E3 1041887",
+        "4AD0408LP D TELEGRAPH DRAGON 231690E4 1041885",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22078003-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408LP",
+      "thumb": "https://i.discogs.com/v1wj-fW8Z4U-ZNfnDDjwISxNtsnB8SBOH9HlN0hQLp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/MDAzLTE2NDQzNjE3/NDUtOTEyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ukPI0hVHi7pBAqY0DxjO8xuVz3tBIXeaIYzeBWpV8ao/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/MDAzLTE2NDQzNjE3/NDUtOTEyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22078003",
+      "community": {
+        "want": 1009,
+        "have": 3361
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Randomly Colored [Eco-Mix Recycled]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22174120,
+      "title": "Big Thief - Dragon New Warm Mountain I Believe In You",
+      "master_id": 2501125,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Country Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "4AD Ltd.",
+        "4AD Ltd.",
+        "Flying Cloud Studios, NY",
+        "Fivestarstudios",
+        "The Elf Inn",
+        "Studio In The Clouds",
+        "Press On Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "191400040847"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2501125",
+      "uri": "/release/22174120-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+      "catno": "4AD0408MC",
+      "thumb": "https://i.discogs.com/FDAOrp0dAkQbI-iP7fmH3kRsx7nl0IwNDJkBTqKPQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc0/MTIwLTE3ODU0NzA2/OTYtMTg2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OdbvJrP-H1F0CnhyUcW3LCAHJmYw_h07quKiAWKxbww/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc0/MTIwLTE3ODU0NzA2/OTYtMTg2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22174120",
+      "community": {
+        "want": 131,
+        "have": 114
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2501125,
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indie Rock",
+      "Folk"
+    ],
+    "main_release": 21972565,
+    "most_recent_release": 26954519,
+    "resource_url": "https://api.discogs.com/masters/2501125",
+    "uri": "https://www.discogs.com/master/2501125-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You",
+    "versions_url": "https://api.discogs.com/masters/2501125/versions",
+    "main_release_url": "https://api.discogs.com/releases/21972565",
+    "most_recent_release_url": "https://api.discogs.com/releases/26954519",
+    "num_for_sale": 155,
+    "lowest_price": 8.14,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/4_KfERB5AIV5Xu9iuTk6-kQFx45naFTeLmyGJjjIogU/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4_KfERB5AIV5Xu9iuTk6-kQFx45naFTeLmyGJjjIogU/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9Tkr8Euzb4U1ogqtRMUyrE6N-9RV961yFCqcGASIxdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtNjUxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 562
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tYs-LAIQgst_QvsTK3g9aZVEszb4hxCEqhvBBgoD1aQ/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtMjQzMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/tYs-LAIQgst_QvsTK3g9aZVEszb4hxCEqhvBBgoD1aQ/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtMjQzMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PsGXjri6iGiwALGq0obR5gRGwQFX7j2_OduI7Z8w0_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDM2Njc3/NDQtMjQzMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 556
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2gLpb3WTZvLHAfS2kmdpTisK0vJ0p5M7Vamocz2I-hs/rs:fit/g:sm/q:90/h:267/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI4/MDItNTg5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/2gLpb3WTZvLHAfS2kmdpTisK0vJ0p5M7Vamocz2I-hs/rs:fit/g:sm/q:90/h:267/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI4/MDItNTg5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/z4cMqaDrHO7B4SRP2k7MRs92r51cu7-q4iresc9QKGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI4/MDItNTg5Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 267
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/exfpCul_9UsKdM_3porfoeDG6zFT7pEhAcO-LwlvGgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI2/NjktMTE1Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/exfpCul_9UsKdM_3porfoeDG6zFT7pEhAcO-LwlvGgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI2/NjktMTE1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/6hwNWBgsx0004zd0WeSp8SrtfvuUqHNULiNdcAxX9Vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI2/NjktMTE1Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cQGwoj3-Kr0SRNFU4HRhZJZ5fnoI-InqdBtVForL6AM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NDktMzY4MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/cQGwoj3-Kr0SRNFU4HRhZJZ5fnoI-InqdBtVForL6AM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NDktMzY4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NIBuqvsDWLgMwpry5frR2XjHrZLHgha_aBs373e3Bcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NDktMzY4MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/R-yampvzklAsMZloqsuedq_Q2ZOiHc6UKQb7b-kzi-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NjgtNzg4MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/R-yampvzklAsMZloqsuedq_Q2ZOiHc6UKQb7b-kzi-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NjgtNzg4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/I3VAU65Ppkax3SJ4VHLOTxV5cwYYegLPoe5Zr1SlgnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NjgtNzg4MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LTKKnU-ayT_qqjp5gEI5kAk-uUYctVWaOnoXHuBgbno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NzMtMTA2OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/LTKKnU-ayT_qqjp5gEI5kAk-uUYctVWaOnoXHuBgbno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NzMtMTA2OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/nXX9OAo-1Em8CUsgf-Lo6hBYZe56-qxqOIj-V8AA4co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/NzMtMTA2OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gkzlhHdHLzfx8VgegZJ1VQ4nP9mXJ_sd5jAOQ8BwGbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODQtNTM0NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/gkzlhHdHLzfx8VgegZJ1VQ4nP9mXJ_sd5jAOQ8BwGbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODQtNTM0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4nhdSuPsbUJgDrVHNE29IcSkRsgjGFb2he9uITOQgrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODQtNTM0NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HOfMdYkQR_Dvfg4GOO45QGAfuL5jG3Mjs4Up51gwr_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODYtNjMzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/HOfMdYkQR_Dvfg4GOO45QGAfuL5jG3Mjs4Up51gwr_w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODYtNjMzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1ytyCUKom7KY2_fbn6L5L_zNOlJDkXRvFnxBc8SQJjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/ODYtNjMzNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vbriJbxj13vF1GUNQkI4wiui-f_lKi21pPoMekUTcc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/OTktODA0My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vbriJbxj13vF1GUNQkI4wiui-f_lKi21pPoMekUTcc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/OTktODA0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5pofLtEILf9FEhg4Ec1cK3iY8zQvlsmi3zeFQhv6j0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjI5/OTktODA0My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qZEvu7s9DzaPtEpB91FtCx_SNr6sUBsnShNI46t6cKo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MDEtMzE5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qZEvu7s9DzaPtEpB91FtCx_SNr6sUBsnShNI46t6cKo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MDEtMzE5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bw-nax-2bkV3J1HRJ5udnUR7o70wCaNrWMXv8imgocc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MDEtMzE5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ptjngs2kGU-oylhHZqh62rxokUvWd6KVEZ23F3WB0Ug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTItNjQ3Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Ptjngs2kGU-oylhHZqh62rxokUvWd6KVEZ23F3WB0Ug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTItNjQ3Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BXl7el_jgu7sZ8OD5UeZ1a5DopCSXDz7koLYIa3Lbq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTItNjQ3Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZKkdcrvFRQSwC-qR7NSb6AcXr8XL0QGiPqT2VSof_Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTQtOTUxMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZKkdcrvFRQSwC-qR7NSb6AcXr8XL0QGiPqT2VSof_Po/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTQtOTUxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/01vNWAgmPBodIhSHnDHndcssWLJ4uQIICF5w4xssAUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MTQtOTUxMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Wny-DjHuPW87fI8OUaRxOovVOJcFX1N18dfbfwa6pmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MjMtNDAxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Wny-DjHuPW87fI8OUaRxOovVOJcFX1N18dfbfwa6pmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MjMtNDAxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/50-PvkprCLZgm3xzPE7MneT3YFAc5YstatmikPCjMzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjMw/MjMtNDAxOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IvzyWVk5KGGpd3t7n4ISMwXfnzviHJuFK9TAN17_US8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjM5/OTMtMTY1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/IvzyWVk5KGGpd3t7n4ISMwXfnzviHJuFK9TAN17_US8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjM5/OTMtMTY1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KzpsWmhoD5ErB-aJoRGseVQJ9WugHxumitlf9NXMY7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjM5/OTMtMTY1NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/64VlLncziQ0uoklLLD7S3GzaPCfiqIUlo9JEy6Tz61Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDItMjYzOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/64VlLncziQ0uoklLLD7S3GzaPCfiqIUlo9JEy6Tz61Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDItMjYzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/47fI6_iSiYLIF79cjySAxbSmmjENIzw6x_wuFcgXRkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDItMjYzOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qHymo8keFk-lvCGd3mzY6SjPkw6-6Cq3UEAYHcB6W04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDUtOTA2OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qHymo8keFk-lvCGd3mzY6SjPkw6-6Cq3UEAYHcB6W04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDUtOTA2OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9102i8cKBTfpMJ3hLA6MwabjKJSui31NYJF8eV6GXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MDUtOTA2OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/P39XF3uIq1LWFwuh0WrpY9FRjjCwcUl4N2_avlCQMNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MTgtMjM0OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/P39XF3uIq1LWFwuh0WrpY9FRjjCwcUl4N2_avlCQMNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MTgtMjM0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SD8LOEbBqgEV59stVz857VCM2AP-GWfy9H85J09tZQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/MTgtMjM0OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LLRDKnSAiImQ_f7ETk5J8m8-_-35aXHoWV5B74BMt58/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NTQtNzQyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/LLRDKnSAiImQ_f7ETk5J8m8-_-35aXHoWV5B74BMt58/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NTQtNzQyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UCsaycfJL7LcmCoD2cA7KVYRO_A6cuwZtex4Igi8-aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NTQtNzQyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fg_dX4qhdsE82kxQL-Tah1gQEjfhvEDLw4EX_L1KaBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NjEtMzAxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fg_dX4qhdsE82kxQL-Tah1gQEjfhvEDLw4EX_L1KaBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NjEtMzAxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UwgdTPqL5x3l9mXbJavH5HxpfkuJHooBgavOn6lvqgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/NTY1LTE2NDUzMjQw/NjEtMzAxMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Change",
+        "duration": "4:55"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Time Escaping",
+        "duration": "3:48"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Spud Infinity",
+        "duration": "5:34"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Certainty",
+        "duration": "3:07"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Dragon New Warm Mountain I Believe In You",
+        "duration": "4:43"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Sparrow",
+        "duration": "5:11"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Little Things",
+        "duration": "5:44"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Heavy Bend",
+        "duration": "1:36"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Flower Of Blood",
+        "duration": "4:24"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Blurred View",
+        "duration": "4:06"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Red Moon",
+        "duration": "4:19"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Dried Roses",
+        "duration": "2:35"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "No Reason",
+        "duration": "3:47"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Wake Me Up To Drive",
+        "duration": "3:43"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Promise Is A Pendulum",
+        "duration": "4:12"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "12,000 Lines",
+        "duration": "2:59"
+      },
+      {
+        "position": "17",
+        "type_": "track",
+        "title": "Simulation Swarm",
+        "duration": "4:12"
+      },
+      {
+        "position": "18",
+        "type_": "track",
+        "title": "Love Love Love",
+        "duration": "4:13"
+      },
+      {
+        "position": "19",
+        "type_": "track",
+        "title": "The Only Place",
+        "duration": "3:14"
+      },
+      {
+        "position": "20",
+        "type_": "track",
+        "title": "Blue Lightning",
+        "duration": "3:51"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Big Thief",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 5009441,
+        "resource_url": "https://api.discogs.com/artists/5009441",
+        "thumbnail_url": "https://i.discogs.com/uldSI_8y9-EVTFKjv3E29Jn3gnu25YGfGavFABX3w9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwMDk0/NDEtMTc2Njg2NDgx/NC00MTgzLnBuZw.jpeg"
+      }
+    ],
+    "title": "Dragon New Warm Mountain I Believe In You",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=MTIzsTv1ENY",
+        "title": "Big Thief - Change (Official Audio)",
+        "description": "'Change' by Big Thief, out now: https://bigthief.ffm.to/change\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nUpcoming tour dates: https:",
+        "duration": 296,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=CkIvGej2WyI",
+        "title": "Big Thief - Time Escaping (Official Audio)",
+        "description": "'Time Escaping' by Big Thief, out now: https://bigthief.ffm.to/timeescaping\n\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nLyrics: \nElec",
+        "duration": 229,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XYFBNA7uaJQ",
+        "title": "Big Thief - Spud Infinity (Official Audio)",
+        "description": "'Spud Infinity' by Big Thief, out now: https://bigthief.ffm.to/noreasonspudinfinity\n\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nLyric",
+        "duration": 336,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=v1eypolupH0",
+        "title": "Big Thief - Certainty (Official Audio)",
+        "description": "'Certainty' by Big Thief, out now: https://bigthief.ffm.to/certainty\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\n\nUpcoming tour dates:",
+        "duration": 189,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wBc-yGE7IkU",
+        "title": "Big Thief - Sparrow (Official Audio)",
+        "description": "'Sparrow' by Big Thief, out now: https://bigthief.ffm.to/littlethingssparrow\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nUpcoming tour",
+        "duration": 312,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qF0dXT-v-vY",
+        "title": "Big Thief - Little Things (Official Audio)",
+        "description": "'Little Things' by Big Thief, out now: https://bigthief.ffm.to/littlethingssparrow\n\nUpcoming tour dates: https://bigthief.net/tour/\n\nhttps://bigthief.net/\nhttps://www.instagram.com/bigthiefmusic/\nhttps://www.tiktok.com/@bigthiefmusic\nhttps://twitter.com/b",
+        "duration": 345,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=VMD2OGlgAEg",
+        "title": "Big Thief -  Red Moon - 11am EST",
+        "description": "Join Big Thief at 11am EST on Friday \n'Dragon New Warm Mountain I Believe In You' is available everywhere on Friday: https://bigthief.ffm.to/dnwmibiy",
+        "duration": 263,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MumyOxKPrTE",
+        "title": "Big Thief - No Reason (Official Audio)",
+        "description": "'No Reason' by Big Thief, out now: https://bigthief.ffm.to/noreasonspudinfinity\n\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nLyrics: \n",
+        "duration": 225,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RnatkV_92Bw",
+        "title": "Big Thief - Simulation Swarm (Official Audio)",
+        "description": "'Simulation Swarm' by Big Thief, out now: https://bigthief.ffm.to/simulationswarm\n\nTaken from forthcoming album 'Dragon New Warm Mountain I Believe In You', out Feb 11th via 4AD. Pre-save/pre-order the album here: https://bigthief.ffm.to/dnwmibiy\n\nLyrics:",
+        "duration": 253,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=nAeGMw7tzsI",
+        "title": "Big Thief - Love Love Love (Official Audio)",
+        "description": "'Love Love Love' by Big Thief is taken from new album 'Dragon New Warm Mountain I Believe In You', out now via 4AD. Listen to the album here: https://bigthief.ffm.to/dnwmibiy\n\nLyrics:\nI already died\nI\u2019m singing from the other side\nUnderneath love\nAvoidanc",
+        "duration": 254,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=VMD2OGlgAEg",
+        "title": "Big Thief -  Red Moon (Official Video)",
+        "description": "'Red Moon' by Big Thief is taken from new album 'Dragon New Warm Mountain I Believe In You', out now via 4AD. Listen to the album here: https://bigthief.ffm.to/dnwmibiy\n\nThis video captures the actual take of 'Red Moon' that features on the album.\n\nFilmed",
+        "duration": 263,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2501125,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

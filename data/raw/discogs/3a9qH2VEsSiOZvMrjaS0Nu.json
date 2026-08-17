@@ -1,0 +1,1209 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "190295229993",
+    "artist": "Charli xcx",
+    "title": "how i'm feeling now",
+    "year": 2020
+  },
+  "results": [
+    {
+      "id": 15308098,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Indie Pop",
+        "Hyperpop"
+      ],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Asylum Records",
+        "Warner Records UK Limited",
+        "Asylum Records UK"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15308098-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/IHcPHDiHRKMXyjKqHbi_bPdgpJ_-UC_zRpA6QC3RshQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA4/MDk4LTE1ODk2MDM5/OTYtMjc5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jkGroJ8Drp2_MZVR1gmcMvIL1bgUPzPhqUKCVlAuCUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA4/MDk4LTE1ODk2MDM5/OTYtMjc5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15308098",
+      "community": {
+        "want": 79,
+        "have": 27
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30648976,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Hyperpop"
+      ],
+      "country": "UK & Europe",
+      "year": "2020",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Atlantic",
+        "Asylum Records UK",
+        "Warner Music UK Ltd.",
+        "Warner Music UK Ltd."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/30648976-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/JCRSkyKsFEQfM1n0mHLh118Yxy3OBu6tC_dG9sfa1zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ4/OTc2LTE3MTU0MjA4/NjktNzc4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/h2nvrGyzW-xfyNdK7y_nLyPeUQTyhZpRXuF1VmZGJms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ4/OTc2LTE3MTU0MjA4/NjktNzc4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30648976",
+      "community": {
+        "want": 30,
+        "have": 9
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-bit / 44.1 kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15926301,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop"
+      ],
+      "country": "USA, Canada & Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Asylum Records",
+        "Asylum Records UK",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Metropolis Mastering",
+        "Metropolis Mastering",
+        "Optimal Media GmbH",
+        "Stellar Songs",
+        "Sony/ATV Music Publishing Ltd.",
+        "BMG Rights Management (UK) Limited",
+        "Brought To You By Heavy Duty",
+        "Heavy Duty Music Publishing",
+        "Zeet Dot Music Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Song Battle Music Publishing Ltd.",
+        "BMG Gold Songs",
+        "Quincy Culver Music Publishing",
+        "Richardson Drive Cul de Sac",
+        "Songs & Albums LLC",
+        "Kobalt Songs Music Publishing",
+        "Warp Publishing",
+        "Dylan Brady",
+        "Sony/ATV Ballad",
+        "PC Music Studios",
+        "Dog Show Studio",
+        "Ten87 Studios, London"
+      ],
+      "type": "release",
+      "barcode": [
+        "190295209285",
+        "0 190295 209285",
+        "BK08796-01 A1 SV 019029509285 Stu.",
+        "BK08796-01 B1 VV 019029509285"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15926301-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "0190295209285",
+      "thumb": "https://i.discogs.com/eaZ-aHVmkOKQY-E0bN_tdEsvbXj8utY4BvGWS6n4uvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI2/MzAxLTE2MDAzNDQ5/ODAtNzc4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JfihtVRZNs8oiHpVGdYoyf65ewrZyv_rKbsWOLmJtTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI2/MzAxLTE2MDAzNDQ5/ODAtNzc4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15926301",
+      "community": {
+        "want": 2931,
+        "have": 10486
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Neon Translucent",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15928852,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop",
+        "Electro",
+        "Glitch"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Asylum Records",
+        "Asylum Records UK",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Optimal Media GmbH",
+        "Stellar Songs",
+        "Sony/ATV Music Publishing Ltd.",
+        "Copyright Control",
+        "BMG Rights Management (UK) Limited",
+        "Brought To You By Heavy Duty",
+        "Heavy Duty Music Publishing",
+        "Zeet Dot Music Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Song Battle Music Publishing Ltd.",
+        "BMG Gold Songs",
+        "Quincy Culver Music Publishing",
+        "Richardson Drive Cul de Sac",
+        "Songs & Albums LLC",
+        "Kobalt Songs Music Publishing",
+        "Warp Publishing",
+        "Dylan Brady",
+        "Sony/ATV Ballad",
+        "Sony/ATV Music Publishing Ltd.",
+        "PC Music Studios Montana",
+        "Dog Show Studio",
+        "Ten87 Studios, London",
+        "Metropolis Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 190295 193201",
+        "0190295193201",
+        "0 190295209285",
+        "0190295209285",
+        "BK08796-01 A1 019029509285 Stu.",
+        "BK08796-01 B1 019029509285",
+        "GEMA/MCPS",
+        "BMI",
+        "ASCAP",
+        "PRS"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15928852-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "0190295193201",
+      "thumb": "https://i.discogs.com/WurL3vu8T36DMkIBiVgMXhjFXnvM-K6FadnTMl0M1c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODUyLTE2MDA1MTA2/OTItMTcwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8S7ELfYQTDHmDtHvnY2iOwdBflvFtnoQG1121-eMtZc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/ODUyLTE2MDA1MTA2/OTItMTcwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15928852",
+      "community": {
+        "want": 1957,
+        "have": 2763
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Neon Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15935859,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop"
+      ],
+      "country": "UK & Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Asylum Records",
+        "Asylum Records UK",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Stellar Songs",
+        "Sony/ATV Music Publishing Ltd.",
+        "BMG Rights Management (UK) Limited",
+        "Brought To You By Heavy Duty",
+        "Heavy Duty Music Publishing",
+        "Zeet Dot Music Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Song Battle Music Publishing Ltd.",
+        "BMG Gold Songs",
+        "Quincy Culver Music Publishing",
+        "Richardson Drive Cul de Sac",
+        "Songs & Albums LLC",
+        "Kobalt Songs Music Publishing",
+        "Warp Publishing",
+        "Dylan Brady",
+        "Sony/ATV Ballad",
+        "PC Music Studios Montana",
+        "Dog Show Studio",
+        "Ten87 Studios, London",
+        "Metropolis Studios",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 190295 207229",
+        "0190295207229",
+        "0190295207229 AK11812-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9744",
+        "GEMA/ MCPS"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15935859-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "0190295207229",
+      "thumb": "https://i.discogs.com/VfGi8-K5Qu4HRDD9m-DpsOqt21swmdGTfvZM-Pk2LMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/ODU5LTE3NTIxMTc3/OTEtMzM4OS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/wH0HlUD-d41yunh0qsc7dy7-fymYByarefUfP232Znc/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM1/ODU5LTE3NTIxMTc3/OTEtMzM4OS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15935859",
+      "community": {
+        "want": 627,
+        "have": 752
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15602034,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop"
+      ],
+      "country": "France",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Asylum Records",
+        "Asylum Records UK",
+        "Asylum Records UK",
+        "Atlantic Records UK"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15602034-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/z-WzKSmE9aEk9b3wGeW-M62CrJx6cOo73wcYHxe6kXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAy/MDM0LTE1OTU4MDE2/ODctMzcyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zoG-B5ulMMyj7rSdeFkS_IIou8kKIlTIl2eZPhYlrSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAy/MDM0LTE1OTU4MDE2/ODctMzcyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15602034",
+      "community": {
+        "want": 349,
+        "have": 291
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17378128,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop"
+      ],
+      "country": "Brazil",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Asylum Records",
+        "Asylum Records UK",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Rimo S.A.",
+        "Rimo S.A.",
+        "Warner Music Brasil Ltda."
+      ],
+      "type": "release",
+      "barcode": [
+        "0190295207229",
+        "AD300"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/17378128-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "00190295207229",
+      "thumb": "https://i.discogs.com/lYgXPuDabjWVd_FtAFVnu0DNzVsefaKH3hSrgfdCd1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc4/MTI4LTE3NTA3MDc0/NzItODM2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SsIPHdCIRdKvW0TRhLlo0XsR3kcL7tQ--1ggK8YNv2o/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc4/MTI4LTE3NTA3MDc0/NzItODM2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17378128",
+      "community": {
+        "want": 182,
+        "have": 98
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16246314,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Hyperpop",
+        "Indie Pop"
+      ],
+      "country": "UK & Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Asylum Records",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Asylum Records UK",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 190295 136208",
+        "190295136208",
+        "GEMA/ MCPS",
+        "0190295207229 AK11812-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9721",
+        "IFPI 9702"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/16246314-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "0190295136208",
+      "thumb": "https://i.discogs.com/zbSmL1Jixw40QJBF0yTqm_qW53lKyvkOdwHJvdM_LfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ2/MzE0LTE2NTk0ODg5/NjAtMzQxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GkCq6tH_N4PDjwk_EULJLhI5_75ga_YgCHcj8O9R7XY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ2/MzE0LTE2NTk0ODg5/NjAtMzQxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16246314",
+      "community": {
+        "want": 654,
+        "have": 1249
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Jewel Case",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15307682,
+      "title": "Charli XCX - How I'm Feeling Now",
+      "master_id": 1738844,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Dance-pop",
+        "Vocal",
+        "Hyperpop"
+      ],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Warner Records UK Limited",
+        "Warner Records UK Limited",
+        "Asylum Records UK"
+      ],
+      "type": "release",
+      "barcode": [
+        "B088LWG55G"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1738844",
+      "uri": "/release/15307682-Charli-XCX-How-Im-Feeling-Now",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bZNPqa1B0tN664Ntp23_7cfHj3pcWGypkWRlgmPIiSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15307682",
+      "community": {
+        "want": 245,
+        "have": 172
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1738844,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ],
+    "styles": [
+      "Indie Pop",
+      "Dance-pop",
+      "Vocal",
+      "Hyperpop"
+    ],
+    "main_release": 15307682,
+    "most_recent_release": 35001746,
+    "resource_url": "https://api.discogs.com/masters/1738844",
+    "uri": "https://www.discogs.com/master/1738844-Charli-XCX-How-Im-Feeling-Now",
+    "versions_url": "https://api.discogs.com/masters/1738844/versions",
+    "main_release_url": "https://api.discogs.com/releases/15307682",
+    "most_recent_release_url": "https://api.discogs.com/releases/35001746",
+    "num_for_sale": 230,
+    "lowest_price": 5.69,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bZNPqa1B0tN664Ntp23_7cfHj3pcWGypkWRlgmPIiSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/bZNPqa1B0tN664Ntp23_7cfHj3pcWGypkWRlgmPIiSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Pink Diamond",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Dijon (7)",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 7776479,
+            "resource_url": "https://api.discogs.com/artists/7776479"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "2:04"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Forever",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "BJ Burton",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 1970970,
+            "resource_url": "https://api.discogs.com/artists/1970970"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "4:03"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Claws",
+        "extraartists": [
+          {
+            "name": "Dylan Brady",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 4533588,
+            "resource_url": "https://api.discogs.com/artists/4533588"
+          },
+          {
+            "name": "BJ Burton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1970970,
+            "resource_url": "https://api.discogs.com/artists/1970970"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "2:29"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "7 Years",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "BJ Burton",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 1970970,
+            "resource_url": "https://api.discogs.com/artists/1970970"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "3:15"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Detonate",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "3:39"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Enemy",
+        "extraartists": [
+          {
+            "name": "BJ Burton",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 1970970,
+            "resource_url": "https://api.discogs.com/artists/1970970"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          },
+          {
+            "name": "Eli Teplin",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7208515,
+            "resource_url": "https://api.discogs.com/artists/7208515"
+          },
+          {
+            "name": "Jim-E Stack",
+            "anv": "James Stack",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2109859,
+            "resource_url": "https://api.discogs.com/artists/2109859"
+          }
+        ],
+        "duration": "3:43"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "I Finally Understand",
+        "extraartists": [
+          {
+            "name": "Benjamin Keating",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 3330921,
+            "resource_url": "https://api.discogs.com/artists/3330921"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "2:31"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "C2.0",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          },
+          {
+            "name": "Dylan Brady",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4533588,
+            "resource_url": "https://api.discogs.com/artists/4533588"
+          },
+          {
+            "name": "Theron Thomas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 767676,
+            "resource_url": "https://api.discogs.com/artists/767676"
+          },
+          {
+            "name": "Tommy Cash (2)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3601699,
+            "resource_url": "https://api.discogs.com/artists/3601699"
+          },
+          {
+            "name": "Umru Rothenberg",
+            "anv": "Jaan Umru Rothenberg",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3802151,
+            "resource_url": "https://api.discogs.com/artists/3802151"
+          }
+        ],
+        "duration": "3:40"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Party 4 U",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "4:56"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Anthems",
+        "extraartists": [
+          {
+            "name": "Danny L Harle",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 3992242,
+            "resource_url": "https://api.discogs.com/artists/3992242"
+          },
+          {
+            "name": "Dylan Brady",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 4533588,
+            "resource_url": "https://api.discogs.com/artists/4533588"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "2:51"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Visions",
+        "extraartists": [
+          {
+            "name": "A. G. Cook",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "BJ Burton",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By",
+            "tracks": "",
+            "id": 1970970,
+            "resource_url": "https://api.discogs.com/artists/1970970"
+          },
+          {
+            "name": "A. G. Cook",
+            "anv": "Alexander Guy Cook",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3608240,
+            "resource_url": "https://api.discogs.com/artists/3608240"
+          },
+          {
+            "name": "Charlotte Aitchison",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3002587,
+            "resource_url": "https://api.discogs.com/artists/3002587"
+          }
+        ],
+        "duration": "3:49"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Charli XCX",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1345479,
+        "resource_url": "https://api.discogs.com/artists/1345479",
+        "thumbnail_url": "https://i.discogs.com/K7w1zXh10kWeJoZ5ubzUo0n1TY2_Zwxn2M4Cv6KQe0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDU0/NzktMTc4MjgxMzYz/MC01MTc3LmpwZWc.jpeg"
+      }
+    ],
+    "title": "How I'm Feeling Now",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=T0D2fZ_P0Hg",
+        "title": "Charli XCX - i finally understand (Official Audio)",
+        "description": "'i finally understand' from how I\u2019m feeling now \ud83e\udd0d out now https://xcx.lnk.to/howimfeelingnow\n\nStream 'i finally understand' here: https://xcx.lnk.to/ifinallyunderstand\n\nSubscribe for more from Charli XCX -  http://goo.gl/D8kLMn\n\nFollow Charli XCX:\nIn",
+        "duration": 152,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=TbJE-KVZvTA",
+        "title": "Charli XCX - forever [Official Video]",
+        "description": "Directed by Dan Streit & Charli XCX\n\nEdited by Dan Streit\n\n'forever' from how I\u2019m feeling now \ud83e\udd0d out now https://xcx.lnk.to/howimfeelingnow\n\nStream 'forever' here: https://xcx.lnk.to/forever \n\nSubscribe for more from Charli XCX -  http://goo.gl/D8kLMn",
+        "duration": 243,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WAo8X-rIt8k",
+        "title": "Charli XCX - claws [Official Video]",
+        "description": "Official video for 'claws' from how I\u2019m feeling now \ud83e\udd0d out now https://xcx.lnk.to/howimfeelingnow. Directed by Charlotte Rutherford.\n\nSubscribe for more from Charli XCX -  http://goo.gl/D8kLMn\n\nFollow Charli XCX:\nInstagram - https://www.instagram.com/",
+        "duration": 160,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_FU8xyVC-tk",
+        "title": "Charli XCX - pink diamond [Official Audio]",
+        "description": "The official audio for Charli XCX - pink diamond\n\nPre-order my new album CRASH here: https://xcx.lnk.to/CRASH\n\nTaken from the fourth studio album how i'm feeling now released in 2020, which featured the singles forever, claws and i finally understand.\n\n\u25baS",
+        "duration": 125,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XRza3wDl9pM",
+        "title": "Charli XCX - visions [Official Audio]",
+        "description": "The official audio for Charli XCX - visions\n\nPre-order my new album CRASH here: https://xcx.lnk.to/CRASH\n\nTaken from the fourth studio album how i'm feeling now released in 2020, which featured the singles forever, claws and i finally understand.\n\n\u25baSubscr",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=iCL4nmSYR6c",
+        "title": "Charli XCX - How I'm Feeling Now CD Unboxing",
+        "description": "In this video I show you the How I'm Feeling Now CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can get the album here:\nCD: https://amzn.to/43iLo63\nVinyl: https://amzn.to/41FfW0A\nDigital: https://amzn.",
+        "duration": 119,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8JmKWI44xD8",
+        "title": "Charli XCX - how i'm feeling now (Non-Stop Version)",
+        "description": "Stream \u2018how i\u2019m feeling now' here: https://xcx.lnk.to/howimfeelingnow\n\nSubscribe for more from Charli XCX -  http://goo.gl/D8kLMn\n\nMix by: https://twitter.com/liroupisaico_\n\n\u200b1. pink diamond 00:00\n\u200b2. forever 02:02\n\u200b3. claws 05:59 \n\u200b4. 7 years 08:27\n\u200b5. d",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1738844,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Dance-pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Vocal",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hyperpop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

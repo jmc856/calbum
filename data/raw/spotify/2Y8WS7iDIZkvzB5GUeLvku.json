@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+  },
+  "href": "https://api.spotify.com/v1/albums/2Y8WS7iDIZkvzB5GUeLvku",
+  "id": "2Y8WS7iDIZkvzB5GUeLvku",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea44aa24e25dab5a2609e4ce",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea44aa24e25dab5a2609e4ce",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ea44aa24e25dab5a2609e4ce",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Bright Future",
+  "release_date": "2024-03-22",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2Y8WS7iDIZkvzB5GUeLvku",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+      "id": "4aKWmkWAKviFlyvHYPTNQY",
+      "name": "Adrianne Lenker",
+      "type": "artist",
+      "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Y8WS7iDIZkvzB5GUeLvku/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 358850,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62R903SYfJm79xxLhjEhyW",
+        "id": "62R903SYfJm79xxLhjEhyW",
+        "name": "Real House",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:62R903SYfJm79xxLhjEhyW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259016,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1UpXhetX1s5OXTY5fRjWvu",
+        "id": "1UpXhetX1s5OXTY5fRjWvu",
+        "name": "Sadness As A Gift",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1UpXhetX1s5OXTY5fRjWvu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174539,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jGfNIAPEJNpHoGm4r5znR",
+        "id": "4jGfNIAPEJNpHoGm4r5znR",
+        "name": "Fool",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4jGfNIAPEJNpHoGm4r5znR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180495,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/07LZPF6LzXu19GhVyqWF81",
+        "id": "07LZPF6LzXu19GhVyqWF81",
+        "name": "No Machine",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:07LZPF6LzXu19GhVyqWF81",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215514,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zGhR60NOVSgtzNEQNcHav",
+        "id": "3zGhR60NOVSgtzNEQNcHav",
+        "name": "Free Treasure",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3zGhR60NOVSgtzNEQNcHav",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235178,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DSxUFEL5v1YT8CwYzhWyf",
+        "id": "2DSxUFEL5v1YT8CwYzhWyf",
+        "name": "Vampire Empire",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2DSxUFEL5v1YT8CwYzhWyf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254263,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GRLxWFbZZZGF8mQw2BKSY",
+        "id": "1GRLxWFbZZZGF8mQw2BKSY",
+        "name": "Evol",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1GRLxWFbZZZGF8mQw2BKSY",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154777,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lX3MvcB1Rnecn53Z3FTfA",
+        "id": "7lX3MvcB1Rnecn53Z3FTfA",
+        "name": "Candleflame",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7lX3MvcB1Rnecn53Z3FTfA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207822,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BSnnyfltzvOkM1hJrsZfj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BSnnyfltzvOkM1hJrsZfj",
+        "id": "2BSnnyfltzvOkM1hJrsZfj",
+        "name": "Already Lost",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2BSnnyfltzvOkM1hJrsZfj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 158065,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qUoLYCGQGJPlEM99tKd3t",
+        "id": "2qUoLYCGQGJPlEM99tKd3t",
+        "name": "Cell Phone Says",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2qUoLYCGQGJPlEM99tKd3t",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 145738,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/789Uf6zgvPqwbCcpw6zSiI",
+        "id": "789Uf6zgvPqwbCcpw6zSiI",
+        "name": "Donut Seam",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:789Uf6zgvPqwbCcpw6zSiI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+            "id": "4aKWmkWAKviFlyvHYPTNQY",
+            "name": "Adrianne Lenker",
+            "type": "artist",
+            "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 272800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3cGZNocKeVtXgjugVYuMyi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3cGZNocKeVtXgjugVYuMyi",
+        "id": "3cGZNocKeVtXgjugVYuMyi",
+        "name": "Ruined",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3cGZNocKeVtXgjugVYuMyi",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 Adrianne Lenker under exclusive license to 4AD Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2024 Adrianne Lenker under exclusive license to 4AD Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191400064959"
+  },
+  "genres": []
+}

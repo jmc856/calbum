@@ -1,0 +1,472 @@
+{
+  "album_type": "album",
+  "total_tracks": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+  },
+  "href": "https://api.spotify.com/v1/albums/2lIZef4lzdvZkiiCzvPKj7",
+  "id": "2lIZef4lzdvZkiiCzvPKj7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f88b43d15fd14e9525338b59",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851f88b43d15fd14e9525338b59",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "BRAT",
+  "release_date": "2024-06-07",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2lIZef4lzdvZkiiCzvPKj7",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id": "25uiPmTg16RbhZWAqwLBy5",
+      "name": "Charli xcx",
+      "type": "artist",
+      "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2lIZef4lzdvZkiiCzvPKj7/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 133805,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4w2GLmK2wnioVnb5CPQeex",
+        "id": "4w2GLmK2wnioVnb5CPQeex",
+        "name": "360",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4w2GLmK2wnioVnb5CPQeex",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 153526,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0CySZwyRJ0vyUqtSjM9i2k",
+        "id": "0CySZwyRJ0vyUqtSjM9i2k",
+        "name": "Club classics",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0CySZwyRJ0vyUqtSjM9i2k",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 151125,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5c9tBmJKbTdn1vhzXHeAwW",
+        "id": "5c9tBmJKbTdn1vhzXHeAwW",
+        "name": "Sympathy is a knife",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5c9tBmJKbTdn1vhzXHeAwW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 109202,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0PFZCt7UNmpas24HejQGu8",
+        "id": "0PFZCt7UNmpas24HejQGu8",
+        "name": "I might say something stupid",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0PFZCt7UNmpas24HejQGu8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 161757,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62fqMvguJbsSs9HKhhRfuS",
+        "id": "62fqMvguJbsSs9HKhhRfuS",
+        "name": "Talk talk",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:62fqMvguJbsSs9HKhhRfuS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 164284,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Y1EvIgEVw51XtgNEgpz5c",
+        "id": "3Y1EvIgEVw51XtgNEgpz5c",
+        "name": "Von dutch",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3Y1EvIgEVw51XtgNEgpz5c",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203482,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sMEEjviCkH6Rp5X2ZvIIc",
+        "id": "5sMEEjviCkH6Rp5X2ZvIIc",
+        "name": "Everything is romantic",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5sMEEjviCkH6Rp5X2ZvIIc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168443,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50GxvQA2KEWNt31EdwIlzY",
+        "id": "50GxvQA2KEWNt31EdwIlzY",
+        "name": "Rewind",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:50GxvQA2KEWNt31EdwIlzY",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211352,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AkiAfilrTUXV49dleC5SB",
+        "id": "0AkiAfilrTUXV49dleC5SB",
+        "name": "So I",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0AkiAfilrTUXV49dleC5SB",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174507,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/41krZZovstMJKeJZJtbL78"
+        },
+        "href": "https://api.spotify.com/v1/tracks/41krZZovstMJKeJZJtbL78",
+        "id": "41krZZovstMJKeJZJtbL78",
+        "name": "Girl, so confusing",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:41krZZovstMJKeJZJtbL78",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 151739,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/19RybK6XDbAVpcdxSbZL1o",
+        "id": "19RybK6XDbAVpcdxSbZL1o",
+        "name": "Apple",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:19RybK6XDbAVpcdxSbZL1o",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178579,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wTvw1dBiPXNiHTh0zzpcI",
+        "id": "4wTvw1dBiPXNiHTh0zzpcI",
+        "name": "B2b",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189410,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qKCO2Tocwg8CbepJ9uDtd",
+        "id": "1qKCO2Tocwg8CbepJ9uDtd",
+        "name": "Mean girls",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 135878,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3OaFGqHUyxGVkOcSILw8Kx",
+        "id": "3OaFGqHUyxGVkOcSILw8Kx",
+        "name": "I think about it all the time",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3OaFGqHUyxGVkOcSILw8Kx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+            },
+            "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+            "id": "25uiPmTg16RbhZWAqwLBy5",
+            "name": "Charli xcx",
+            "type": "artist",
+            "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203618,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5h68SoVFGleijCtjEja3xG",
+        "id": "5h68SoVFGleijCtjEja3xG",
+        "name": "365",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5h68SoVFGleijCtjEja3xG",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2024 Atlantic Recording Corporation",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2024 Atlantic Recording Corporation",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "075679666130"
+  },
+  "genres": []
+}

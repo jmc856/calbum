@@ -1,0 +1,418 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
+  },
+  "href": "https://api.spotify.com/v1/albums/4hsC5IvasDOCrWwM8UQ3N4",
+  "id": "4hsC5IvasDOCrWwM8UQ3N4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b25a7fb1b8ad5d1c3c09a20f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b25a7fb1b8ad5d1c3c09a20f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b25a7fb1b8ad5d1c3c09a20f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Cardinal (Expanded Edition)",
+  "release_date": "2016-02-12",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:4hsC5IvasDOCrWwM8UQ3N4",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+      "id": "2gbT6GPXMis0OAkZbEQCYB",
+      "name": "Pinegrove",
+      "type": "artist",
+      "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/4hsC5IvasDOCrWwM8UQ3N4/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ykQ18swXrkrrbwsZKxQo7",
+        "id": "4ykQ18swXrkrrbwsZKxQo7",
+        "name": "Old Friends",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4ykQ18swXrkrrbwsZKxQo7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6xhnqknM8wfiIKj7w2TgQH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6xhnqknM8wfiIKj7w2TgQH",
+        "id": "6xhnqknM8wfiIKj7w2TgQH",
+        "name": "Cadmium",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6xhnqknM8wfiIKj7w2TgQH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 159173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3WivWQJV7ZaZaSkOz7HHGy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3WivWQJV7ZaZaSkOz7HHGy",
+        "id": "3WivWQJV7ZaZaSkOz7HHGy",
+        "name": "Then Again",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3WivWQJV7ZaZaSkOz7HHGy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 270933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Mve2PSQqMtVn5DemVoBYr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Mve2PSQqMtVn5DemVoBYr",
+        "id": "4Mve2PSQqMtVn5DemVoBYr",
+        "name": "Aphasia",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4Mve2PSQqMtVn5DemVoBYr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AqGSBtC30fE6rCMrr6qlc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AqGSBtC30fE6rCMrr6qlc",
+        "id": "5AqGSBtC30fE6rCMrr6qlc",
+        "name": "Visiting",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5AqGSBtC30fE6rCMrr6qlc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 271013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WbxDe9nFwnS9Sx2nnLMcI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WbxDe9nFwnS9Sx2nnLMcI",
+        "id": "1WbxDe9nFwnS9Sx2nnLMcI",
+        "name": "Waveform",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1WbxDe9nFwnS9Sx2nnLMcI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 287480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6U66c9UHBSeEpYprkigXtv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6U66c9UHBSeEpYprkigXtv",
+        "id": "6U66c9UHBSeEpYprkigXtv",
+        "name": "Size of the Moon",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6U66c9UHBSeEpYprkigXtv",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cbZIImKKVCLsbssgndRvC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cbZIImKKVCLsbssgndRvC",
+        "id": "5cbZIImKKVCLsbssgndRvC",
+        "name": "New Friends",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5cbZIImKKVCLsbssgndRvC",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 84646,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4u61HKXU4v4iKOOPHysWkX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4u61HKXU4v4iKOOPHysWkX",
+        "id": "4u61HKXU4v4iKOOPHysWkX",
+        "name": "Paterson + Leo (Demo)",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4u61HKXU4v4iKOOPHysWkX",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279241,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lEVi7uXirrQNSSG2rzOjr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5lEVi7uXirrQNSSG2rzOjr",
+        "id": "5lEVi7uXirrQNSSG2rzOjr",
+        "name": "Waveform (Demo)",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5lEVi7uXirrQNSSG2rzOjr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244598,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0uwYAmAVhuDIJURZrO8aW2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0uwYAmAVhuDIJURZrO8aW2",
+        "id": "0uwYAmAVhuDIJURZrO8aW2",
+        "name": "Aphasia (Demo)",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0uwYAmAVhuDIJURZrO8aW2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221580,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Wwix3XEFSoMIXvE5Wh9Xb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Wwix3XEFSoMIXvE5Wh9Xb",
+        "id": "0Wwix3XEFSoMIXvE5Wh9Xb",
+        "name": "Old Friends (Schuylkill Session)",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0Wwix3XEFSoMIXvE5Wh9Xb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OkXMyN3go7YZDh0J9EcCX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0OkXMyN3go7YZDh0J9EcCX",
+        "id": "0OkXMyN3go7YZDh0J9EcCX",
+        "name": "New Friends (Schuylkill Session)",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0OkXMyN3go7YZDh0J9EcCX",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2016 Run For Cover Records",
+      "type": "C"
+    },
+    {
+      "text": "2016 Run For Cover Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811774025690"
+  },
+  "genres": []
+}

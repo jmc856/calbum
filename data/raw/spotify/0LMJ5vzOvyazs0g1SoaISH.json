@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0LMJ5vzOvyazs0g1SoaISH"
+  },
+  "href": "https://api.spotify.com/v1/albums/0LMJ5vzOvyazs0g1SoaISH",
+  "id": "0LMJ5vzOvyazs0g1SoaISH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2733450733c5234946ab2b81353",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023450733c5234946ab2b81353",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048513450733c5234946ab2b81353",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Saint Cloud",
+  "release_date": "2020-03-27",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0LMJ5vzOvyazs0g1SoaISH",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+      },
+      "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+      "id": "5IWCU0V9evBlW4gIeGY4zF",
+      "name": "Waxahatchee",
+      "type": "artist",
+      "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0LMJ5vzOvyazs0g1SoaISH/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5uIiKMxhpuGUDl1RcObIzu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5uIiKMxhpuGUDl1RcObIzu",
+        "id": "5uIiKMxhpuGUDl1RcObIzu",
+        "name": "Oxbow",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5uIiKMxhpuGUDl1RcObIzu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224106,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/67AmallSX48azRoZPSi7Pf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/67AmallSX48azRoZPSi7Pf",
+        "id": "67AmallSX48azRoZPSi7Pf",
+        "name": "Can\u2019t Do Much",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:67AmallSX48azRoZPSi7Pf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eQZVHyrQVoHOdFYLmjzsb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eQZVHyrQVoHOdFYLmjzsb",
+        "id": "0eQZVHyrQVoHOdFYLmjzsb",
+        "name": "Fire",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0eQZVHyrQVoHOdFYLmjzsb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53hfvs9b0ykU1m7NgSWNiW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53hfvs9b0ykU1m7NgSWNiW",
+        "id": "53hfvs9b0ykU1m7NgSWNiW",
+        "name": "Lilacs",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:53hfvs9b0ykU1m7NgSWNiW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fU8MYC7Onfj5TYuR6tAKq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fU8MYC7Onfj5TYuR6tAKq",
+        "id": "3fU8MYC7Onfj5TYuR6tAKq",
+        "name": "The Eye",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3fU8MYC7Onfj5TYuR6tAKq",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cYqULh0kA1RV6LT1qBGKQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cYqULh0kA1RV6LT1qBGKQ",
+        "id": "6cYqULh0kA1RV6LT1qBGKQ",
+        "name": "Hell",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6cYqULh0kA1RV6LT1qBGKQ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12afhcNdC2tviD2hFm2DJp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12afhcNdC2tviD2hFm2DJp",
+        "id": "12afhcNdC2tviD2hFm2DJp",
+        "name": "Witches",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:12afhcNdC2tviD2hFm2DJp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qOtCfYPTTlQeEf2BwjcZL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qOtCfYPTTlQeEf2BwjcZL",
+        "id": "3qOtCfYPTTlQeEf2BwjcZL",
+        "name": "War",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3qOtCfYPTTlQeEf2BwjcZL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7b5cTgS1SovI9Px69s8Y0y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7b5cTgS1SovI9Px69s8Y0y",
+        "id": "7b5cTgS1SovI9Px69s8Y0y",
+        "name": "Arkadelphia",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7b5cTgS1SovI9Px69s8Y0y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aemO47i6WiYqYtVxTqj0H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aemO47i6WiYqYtVxTqj0H",
+        "id": "3aemO47i6WiYqYtVxTqj0H",
+        "name": "Ruby Falls",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3aemO47i6WiYqYtVxTqj0H",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+            "id": "5IWCU0V9evBlW4gIeGY4zF",
+            "name": "Waxahatchee",
+            "type": "artist",
+            "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qy06ALv7J9Jxq8HVHLSdj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qy06ALv7J9Jxq8HVHLSdj",
+        "id": "3qy06ALv7J9Jxq8HVHLSdj",
+        "name": "St. Cloud",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3qy06ALv7J9Jxq8HVHLSdj",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2020 Merge Records",
+      "type": "C"
+    },
+    {
+      "text": "2020 Merge Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "617308098754"
+  },
+  "genres": []
+}
