@@ -379,21 +379,44 @@ survives the next run.
 
 ## Stage 4 — React frontend
 
-Deliberately **not** the single-file/no-build-step design from the original plan — you
-asked for a proper React frontend, and this stage builds one.
+**Purpose, settled by scoping:** the Sheet already browses and filters, so the
+frontend exists to be **a link you'd send to someone who won't open a
+spreadsheet**. That single answer drives everything else — the visitor's goal
+is to *listen*, so the Spotify link is the primary action; the OG link preview
+is the real first impression; and filter depth matters far less than the Sheet's,
+because a visitor scrolls rather than building a query.
 
-1. `src/calbum/site.py` emits `web/public/data/albums.json` — denormalized, minimal
-   fields only.
-2. `web/`: Vite + React + TS. Fetches `data/albums.json` same-origin (no cross-origin
-   fetch off GitHub — the repo is private and the JSON must ship as part of the deploy,
-   not be pulled from raw.githubusercontent). Filter/browse client-side by year, genre,
-   artist.
-3. `docker/Dockerfile.web` for local dev consistency. Production deploy target is Netlify
-   (already used for `house_planner/`; GitHub Pages needs a paid plan on this private
-   repo) — the build step is `vite build`, output is static files, so the deploy path
-   itself doesn't depend on Docker.
+Other scoping answers: fully public (no gate), auto-deploy on every data
+commit, grouped by release year newest-first, album click opens Spotify
+directly, and **artist grouping** is the one future feature given structural
+room.
+
+1. `src/calbum/site.py` emits `web/src/data/albums.json` — active albums only,
+   UI fields only (`upc`, `discogs_release_id`, `added_at`, `removed_at` and
+   genre provenance stay server-side). Reuses `writer.write_json_atomic`, so
+   constraint 1's deterministic sorted-key contract holds here too.
+2. `web/`: Vite + React + TS, **mobile-first**. Imports the payload at build
+   time rather than fetching it — this satisfies the original "must ship as
+   part of the deploy, not be pulled from raw.githubusercontent" requirement
+   while removing the loading state, the error state, and a request from first
+   paint (12KB today, ~125KB at 500 albums).
+3. Navigation is one model in two placements: a **bottom tab bar** on phones,
+   a wider grid on desktop. Destinations: Albums · Genres · Artists · Search.
+4. **`groupBy(albums, keyFn)` in `src/albums.ts` is the extensibility seam** —
+   Artists is the same function with a different `keyFn`, which is why that
+   destination cost a line rather than a rewrite.
+5. Deploy: `netlify.toml` at the repo root (`base = "web"`). The sync
+   workflow's `[skip ci]` marker suppresses GitHub Actions but not Netlify
+   (which uses `[skip netlify]`), so every data commit rebuilds the site.
+
+**Not built, deliberately:** routing/album detail pages (click goes straight to
+Spotify, so there's no second view), per-album notes, ratings, and
+`docker/Dockerfile.web` (`npm run dev` needs no container and the deploy is
+static output, so it would add a moving part serving nothing).
 
 **Done when:** there is a public URL you'd actually send to someone.
+**Remaining manual step:** connect the private repo to Netlify once, in their
+UI — an OAuth flow that can't be scripted. Everything else is committed config.
 
 ## Stage 5 — Optional, whenever (RYM ratings import)
 

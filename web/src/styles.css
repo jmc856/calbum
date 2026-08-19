@@ -1,0 +1,315 @@
+:root {
+  --accent: #e85a2a;
+  --ink: #111315;
+  --ink-2: #8a8f94;
+  --ink-3: #b4b9be;
+  --ground: #ffffff;
+  --tile: #ededed;
+  --line: #eceef0;
+  --page: #0d0d0f;
+  --nav-h: 62px;
+  --gutter: 20px;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: "Helvetica Neue", -apple-system, "Segoe UI", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- App shell ----------
+   Bounded to the viewport so .scroll takes the overflow and the bottom nav
+   stays parked. dvh so collapsing mobile browser chrome can't crop it. */
+.app {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  background: var(--ground);
+  height: 100vh;
+  height: 100dvh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.scroll {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: calc(var(--nav-h) + env(safe-area-inset-bottom, 0px) + 14px);
+}
+
+/* ---------- Header (scrolls away) ---------- */
+.hdr {
+  background: var(--accent);
+  padding: 18px var(--gutter) 16px;
+  padding-top: calc(18px + env(safe-area-inset-top, 0px));
+}
+.hdr-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.hdr-title {
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  margin: 0;
+  color: var(--ink);
+}
+.icon-btn {
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  margin: -8px -10px -8px 0;
+  border-radius: 50%;
+}
+.icon-btn:active {
+  background: rgba(0, 0, 0, 0.08);
+}
+.icon-btn:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: -4px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr 1fr;
+  gap: 10px;
+  margin-top: 14px;
+}
+.stat .n {
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: var(--ink);
+  line-height: 0.92;
+}
+.stat.lead .n {
+  font-size: 30px;
+}
+.stat .l {
+  font-size: 11px;
+  color: var(--ink);
+  margin-top: 3px;
+  opacity: 0.9;
+}
+.stat .tick {
+  margin-top: 6px;
+  height: 5px;
+  border: 1.6px solid var(--ink);
+  border-top: none;
+  opacity: 0.85;
+}
+
+.search-wrap {
+  margin-top: 12px;
+}
+.search-wrap input {
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  padding: 11px 13px;
+  font-size: 16px; /* >=16px stops iOS zooming the page on focus */
+  font-family: inherit;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink);
+}
+.search-wrap input::placeholder {
+  color: #9aa0a5;
+}
+.search-wrap input:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 1px;
+}
+
+/* ---------- Sections ---------- */
+.sec-head {
+  padding: 18px var(--gutter) 8px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--ink-2);
+}
+
+/* ---------- Cover grid ---------- */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px 14px;
+  padding: 4px var(--gutter) 8px;
+}
+@media (min-width: 420px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.card {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+.cover,
+.cover-fb {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 8px;
+  background: var(--tile);
+  display: block;
+}
+.cover {
+  object-fit: cover;
+}
+.cover-fb {
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  font-size: 34px;
+  color: var(--ink-2);
+}
+a.card:active .cover,
+a.card:active .cover-fb {
+  opacity: 0.82;
+}
+.c-title {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin-top: 9px;
+  line-height: 1.25;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.c-sub {
+  font-size: 12.5px;
+  color: var(--ink-2);
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.c-badge {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1.3px solid var(--accent);
+  border-radius: 999px;
+  padding: 1px 6px;
+}
+
+/* ---------- Genre pills ---------- */
+.pills {
+  padding: 16px var(--gutter) 4px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.pill {
+  border: 1.6px solid var(--line);
+  border-radius: 999px;
+  padding: 9px 15px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+  min-height: 40px;
+}
+.pill[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.pill:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.pill .c {
+  opacity: 0.6;
+  margin-left: 5px;
+  font-weight: 500;
+}
+
+.empty {
+  padding: 54px var(--gutter);
+  text-align: center;
+  color: var(--ink-2);
+}
+
+/* ---------- Bottom nav ---------- */
+.nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: calc(var(--nav-h) + env(safe-area-inset-bottom, 0px));
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: var(--ground);
+  border-top: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.tab {
+  display: grid;
+  place-items: center;
+  gap: 3px;
+  color: var(--ink-3);
+  min-height: 44px;
+}
+.tab svg {
+  width: 23px;
+  height: 23px;
+  display: block;
+}
+.tab .tl {
+  font-size: 10.5px;
+  font-weight: 600;
+}
+.tab[aria-selected="true"] {
+  color: var(--accent);
+}
+.tab:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

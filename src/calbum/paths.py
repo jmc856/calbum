@@ -15,3 +15,9 @@ DATA_DIR = REPO_ROOT / "data"
 ALBUMS_PATH = DATA_DIR / "albums.json"
 OVERRIDES_PATH = DATA_DIR / "overrides.toml"
 ENV_PATH = REPO_ROOT / ".env"
+
+WEB_DIR = REPO_ROOT / "web"
+SITE_DATA_PATH = WEB_DIR / "src" / "data" / "albums.json"
+"""Frontend payload emitted by site.py. Under web/src/ rather than
+web/public/ because the app imports it at build time instead of fetching it
+— see site.py's module docstring for why."""

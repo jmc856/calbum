@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- viewport-fit=cover is what makes env(safe-area-inset-*) resolve to
+         real values, which the bottom nav needs to clear the iOS home bar. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#E85A2A" />
+    <!-- Inline SVG record icon — avoids a favicon.ico round trip (and the
+         404 browsers emit when one isn't declared). -->
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23E85A2A'/%3E%3Ccircle cx='16' cy='16' r='4.5' fill='%23111315'/%3E%3C/svg%3E"
+    />
+
+    <title>Calbum</title>
+    <meta name="description" content="A running catalog of albums worth keeping." />
+
+    <!-- The link preview is the first impression for a shared URL, so it's
+         treated as a feature rather than polish. summary (not
+         summary_large_image) because the preview image is square art. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Calbum" />
+    <meta property="og:description" content="A running catalog of albums worth keeping." />
+    <meta property="og:image" content="/og-image.jpg" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Calbum" />
+    <meta name="twitter:description" content="A running catalog of albums worth keeping." />
+    <meta name="twitter:image" content="/og-image.jpg" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
