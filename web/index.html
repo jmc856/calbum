@@ -20,18 +20,20 @@
          treated as a feature rather than polish. summary (not
          summary_large_image) because the preview image is square art.
          URLs must be ABSOLUTE — iMessage, Slack and Facebook do not
-         reliably resolve relative og:image paths. The site URL below is
-         substituted at build time from VITE_SITE_URL in
-         web/.env.production, so the domain is declared in one place. -->
+         reliably resolve relative og:image paths. No custom domain yet, so
+         these are hardcoded to the default GitHub Pages project-page URL
+         (jmc856.github.io/calbum/). If a custom domain is added later,
+         reintroduce the VITE_SITE_URL build-time substitution instead of
+         hand-editing these. -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="%VITE_SITE_URL%/" />
+    <meta property="og:url" content="https://jmc856.github.io/calbum/" />
     <meta property="og:title" content="Calbum" />
     <meta property="og:description" content="A running catalog of albums worth keeping." />
-    <meta property="og:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <meta property="og:image" content="https://jmc856.github.io/calbum/og-image.jpg" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Calbum" />
     <meta name="twitter:description" content="A running catalog of albums worth keeping." />
-    <meta name="twitter:image" content="%VITE_SITE_URL%/og-image.jpg" />
+    <meta name="twitter:image" content="https://jmc856.github.io/calbum/og-image.jpg" />
   </head>
   <body>
     <div id="root"></div>
