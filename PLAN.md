@@ -100,37 +100,56 @@ Python is a real installable package, not a flat script directory — the previo
     src/calbum/
       models.py              # OUR canonical domain models (Album, Genre) — see constraint 6
       writer.py               # deterministic JSON writer — see constraint 1
-      poll.py                 # Stage 0
-      enrich.py                # Stage 1
-      sheets.py                # Stage 2
-      site.py                  # Stage 4 data export
-      spotify/                 # all Spotify API code, isolated — see below
-        auth.py                 # refresh token -> access token
-        client.py                # HTTP session, pagination, 429/Retry-After handling
-        schemas.py                # pydantic models for SPOTIFY's response shapes
+      paths.py                 # shared filesystem layout (REPO_ROOT etc.), one place, not
+                                #   copy-pasted per stage module — see Technical debt history
+      raw_cache.py              # write-once raw-response cache, shared by poll.py's Spotify
+                                 #   cache and enrich.py's Discogs cache
+      poll.py                    # Stage 0
+      overrides.py                # Stage 3
+      enrich.py                    # Stage 1
+      sheets.py                     # Stage 2
+      site.py                        # Stage 4 data export
+      spotify/                       # all Spotify API code, isolated — see below
+        auth.py                       # refresh token -> access token
+        client.py                      # HTTP session, pagination, 429/Retry-After handling
+        schemas.py                      # pydantic models for SPOTIFY's response shapes
+      discogs/                        # all Discogs API code, isolated the same way
+        client.py
+        schemas.py
+      gsheets/                        # gspread-backed calbum.sheets.SheetBackend — the only
+        backend.py                     #   place gspread itself gets imported
     web/                      # React frontend (Vite + React + TS) — Stage 4
-      public/data/albums.json   # emitted by site.py, served same-origin, no cross-origin fetch
-    docker/                   # Dockerfile.pipeline, Dockerfile.web — local dev + self-host option
-    docker-compose.yml
+      src/data/albums.json     # emitted by site.py, imported at BUILD time, not fetched —
+                                #   see Stage 4's deliberate deviation from the original
+                                #   same-origin-fetch plan
+      public/og-image.jpg      # static OG/Twitter preview image
     data/
       raw/spotify/{album_id}.json    # raw Spotify blobs, one file per album
       raw/discogs/{album_id}.json    # enrichment cache, one file per album
       albums.json                    # canonical normalized records
       overrides.toml                 # hand-edited corrections + manual albums (Stage 3)
-      unmatched.json                 # backfill rows that failed to resolve
     scripts/
       get_refresh_token.py     # one-time interactive OAuth grant
       probe.py                 # throwaway: confirms API assumptions before poll.py is built
-    .github/workflows/sync.yml
+    tests/                    # pytest, one file per stage module + fixtures in conftest.py
+    .github/workflows/sync.yml   # poll -> overrides -> enrich -> sheets -> site -> deploy
 
-**The module boundary that matters:** `spotify/schemas.py` models *Spotify's* response
-shapes; `models.py` models *ours*. Nothing outside `spotify/` touches a raw Spotify dict.
-The same pattern applies to `discogs/` and `musicbrainz/` once Stage 1 needs it.
+**The module boundary that matters:** `spotify/schemas.py` and `discogs/schemas.py` model
+*those services'* response shapes; `models.py` models *ours*. Nothing outside `spotify/` or
+`discogs/` touches a raw dict from that service.
 
-**Docker is convenience, not load-bearing.** Neither the pipeline (runs in GitHub Actions)
-nor the frontend (deploys as static files to Netlify) requires it in production. It exists
-for reproducible local dev and to keep self-hosting open. CI runs `uv run` directly, not
-through Docker, so a container problem can never break the sync job.
+**No Docker, and no `musicbrainz/`.** Both were planned here originally but never built —
+this section described intent, not what got written, and the two had drifted apart. Docker
+was meant for local-dev consistency and a self-host option; it was never needed in practice
+(`npm run dev` needs no container, the pipeline runs via `uv run` directly in GitHub Actions,
+and the frontend deploys as static files) — see Stage 4's "Not built, deliberately" note.
+`musicbrainz/` is Stage 1's third-tier genre fallback, still pending (task tracker #12),
+gated on real coverage-gap evidence that hasn't appeared: Discogs alone currently resolves
+29/31 primary genres and 26/31 sub-genres.
+
+**No `data/unmatched.json` either** — it was written into this plan for a playlist-backfill
+resolution step that Stage 5 explicitly cut once `_selected` turned out to have no legacy
+playlists to reconcile against (see Stage 5). Nothing ever created the file.
 
 ## Non-negotiable implementation constraints
 
