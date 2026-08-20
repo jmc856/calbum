@@ -422,11 +422,19 @@ room.
    repo being private), and Actions minutes become unlimited, so the 4-hour
    cadence is no longer budget-bound.
 
-   Custom domain on a subdomain: `web/public/CNAME` holds the hostname, and
-   `VITE_SITE_URL` in `web/.env.production` feeds the **absolute** `og:url`
-   and `og:image` — relative OG URLs are not reliably resolved by iMessage,
-   Slack, or Facebook, and the link preview is this stage's whole point.
-   The domain is declared in those two places only.
+   No custom domain: the site serves as a GitHub Pages **project page**,
+   `jmc856.github.io/calbum/`. `web/vite.config.ts` sets `base: "/calbum/"`
+   so built asset URLs resolve under that path instead of 404ing at the
+   origin root. OG/Twitter tags in `web/index.html` are hardcoded to
+   `https://jmc856.github.io/calbum/` — relative OG URLs are not reliably
+   resolved by iMessage, Slack, or Facebook, and the link preview is this
+   stage's whole point.
+
+   A custom subdomain was tried (`web/public/CNAME` + `VITE_SITE_URL` in
+   `web/.env.production`, feeding the absolute OG URLs at build time) and
+   reverted after the DNS check failed and the record was never added at the
+   registrar. The mechanism still works if revisited: restore those two
+   files and set `base: "/"` back in `vite.config.ts`.
 
 **Not built, deliberately:** routing/album detail pages (click goes straight to
 Spotify, so there's no second view), per-album notes, ratings, and
@@ -440,10 +448,6 @@ static output, so it would add a moving part serving nothing).
    committed, no hardcoded IDs, everything env-driven; Actions secrets live
    in GitHub's store, not repo contents, so they stay private.
 2. Settings → Pages → Source: **GitHub Actions** (not "deploy from branch").
-3. Add the subdomain's DNS record: `CNAME <sub> → jmc856.github.io`.
-4. Settings → Pages → Custom domain: enter the same hostname, then tick
-   **Enforce HTTPS** once the certificate provisions (can take a few
-   minutes).
 
 ## Stage 5 — Optional, whenever (RYM ratings import)
 
@@ -468,6 +472,71 @@ up only if it becomes a real want, not as planned work.
 Browser extension (RYM chart annotation showing what's already in the catalog,
 one-click capture, chart CSV export for RYM-grade genre seeding). PWA. Neither is
 load-bearing; capture stays mobile-native through Spotify regardless.
+
+## Stage 7 — Read-surface differentiation
+
+Not renumbered ahead of Stages 5–6 despite being more likely to actually
+happen — those numbers are cross-referenced elsewhere in this doc, and this
+entry arrived later. Using Stage 4 surfaced a problem the build didn't
+anticipate: **Albums, Genres, and Artists offer too similar an experience.**
+All three bottom out in the same year-grouped cover grid — Genres adds a pill
+rail that disappears once you pick one, Artists just swaps the group key.
+Three tabs, one view. Three things worth fixing, none built yet:
+
+1. **Desktop UX.** `.app` is hard-capped at `max-width: 480px`
+   (`web/src/styles.css`), so anything wider than a phone renders as a
+   480px column centered on a dark field — the only width media query
+   (`min-width: 420px` → 3 grid columns) saturates immediately. There is
+   currently zero desktop CSS, so a ~900px breakpoint (release the width
+   cap, more grid columns, larger type, bottom tab bar becoming a left
+   sidebar) is additive, not a rewrite. `Nav.tsx` already renders one
+   destination list — the "one model, two placements" intent from Stage 4
+   was designed but never actually built for desktop. One structural catch:
+   `.app` is a fixed-height flex column with `.nav` absolutely positioned
+   inside it, so a sidebar means flipping `.app`'s `flex-direction` at the
+   breakpoint and re-anchoring `.nav`.
+
+2. **Genres tab — a release-year timeline as the main focus**, not a
+   secondary pill rail. Per-genre distribution across release years
+   (2004→2026), answering *which eras of music I'm drawn to*; clicking a
+   genre drives the existing filter, so the pill rail becomes chart-driven
+   rather than a separate control. No backend change needed — `year` and
+   `genres` are both already in the payload, and `groupBy`'s multi-key
+   support (a `keyFn` returning an array, so a 3-genre album lands in 3
+   buckets) is already the shape this needs. Caveat: 31 albums across ~20
+   year buckets is sparse, so this likely needs 2–3 year binning to read as
+   a trend rather than noise.
+
+   An **added-at** axis (a true "how my taste shifted over time" chart) was
+   considered and set aside, not forgotten. `added_at` exists on the model
+   and is frozen at first write, but is deliberately not emitted to the
+   frontend payload — adding it is one line. The blocker is data, not code:
+   all 31 albums were added in the same 2026-08-13→16 cold-start backfill,
+   so that chart is a single bar today. Worth revisiting after months of
+   real polling history.
+
+3. **Artists tab — artist-first, not album-first.** Today it's
+   `groupBy(artist)` over the same cover grid, and with only 1 of 31 albums
+   having multiple artists it's nearly 1:1 with Albums, which is exactly why
+   it doesn't earn its own tab. Wants a grid of artists, click-through to
+   that artist's albums. Portraits are a **backend feature, not a frontend
+   one**: Spotify's cached album blobs carry each artist's `id`, `name`,
+   `href`, and `external_urls`, but no `images` — real photos need a new
+   `GET /v1/artists` fetch plus a cache and rate-limit handling. Ship a
+   cover-collage / typographic tile fallback so the tab can be redesigned
+   without blocking on that backend work; treat portraits as the fuller
+   version to add later. Cheap intermediate step: `artist_ids` can be
+   backfilled from the already-cached raw blobs at zero API cost, same
+   pattern `poll.py` already uses for `cover_url` — a parallel field rather
+   than changing `Album.artists` from `list[str]` to objects, which would
+   ripple into `sheets.py`, `enrich.py`, `overrides.py`, the tests, and the
+   stored shape of `data/albums.json`.
+
+   Data-quality note worth recording while it's cheap: artists currently
+   join by string equality only, so aliases or "The X" vs "X" would
+   silently split into separate entries. Harmless while artists are just
+   section headings; a real problem once they're first-class entities with
+   portraits.
 
 ---
 
