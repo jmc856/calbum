@@ -118,18 +118,28 @@ jobs:
 
       # No commit step needed — calbum.sheets writes directly to Google
       # Sheets (an external API), not to files in this repo.
+      #
+      # continue-on-error: the Sheets read surface and the site/deploy read
+      # surface are unrelated downstream consumers of the same albums.json —
+      # a Google-side hiccup here has no bearing on whether the frontend
+      # should ship. Without this, a step failure here halts the rest of the
+      # job by default (site export, its commit, and the deploy job chained
+      # off `needs: sync` all get skipped), which is exactly what happened
+      # on a transient `gspread.exceptions.APIError: [503]` on 2026-08-20 —
+      # confirmed via the run's per-step log, poll/enrich had already
+      # committed cleanly and only sheets failed. The step still shows
+      # failed in the Actions UI for visibility; it just no longer cascades.
       - name: Run sheets writer
         if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'sheets'
+        continue-on-error: true
         env:
           GOOGLE_SA_JSON_B64: ${{ secrets.GOOGLE_SA_JSON_B64 }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
         run: uv run python -m calbum.sheets
 
       # Emits web/src/data/albums.json, which the frontend imports at build
-      # time. Committing it is what triggers the Netlify rebuild: the
-      # "[skip ci]" marker below suppresses GitHub Actions but not Netlify
-      # (which looks for "[skip netlify]"), so a data change deploys the
-      # site automatically.
+      # time. Committing it is what triggers the deploy job (chained off
+      # `needs: sync` below, not a push trigger — see that job's comment).
       - name: Run site export
         if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'site'
         run: uv run python -m calbum.site
