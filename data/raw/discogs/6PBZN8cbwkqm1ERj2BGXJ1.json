@@ -8,15 +8,6 @@
   },
   "results": [
     {
-      "id": 5183651,
-      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
-      "master_id": 484590,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2013",
       "format": [
@@ -30,6 +21,13 @@
         "Universal Music Distribution"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 5183651,
       "barcode": [
         "602537362721",
         "(609449) A9.4.B001837702.SA.1 07 0001",
@@ -40,15 +38,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 484590,
       "master_url": "https://api.discogs.com/masters/484590",
       "uri": "/release/5183651-Kendrick-Lamar-Good-Kid-MAAD-City",
       "catno": "B0018377-02",
+      "title": "Kendrick Lamar - Good Kid, M.A.A.D City",
       "thumb": "https://i.discogs.com/2OwDkGtbeeW4qdb2C2Vrqr9begvXsgFqG3UxxMWPvqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/NTEtMTM4Njc5MzI5/MC0xODE4LmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/rKZfhkwKjDgx-P11Q_mGJiTJaUEIx8vPmS2AHasdCqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/NTEtMTM4Njc5MzI5/MC0xODE4LmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/5183651",
       "community": {
         "want": 760,
-        "have": 1649
+        "have": 1646
       },
       "format_quantity": 1,
       "formats": [
@@ -62,229 +62,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 484590,
-    "genres": [
-      "Hip Hop"
-    ],
-    "styles": [
-      "Conscious"
-    ],
-    "main_release": 24110135,
-    "most_recent_release": 37922823,
-    "resource_url": "https://api.discogs.com/masters/484590",
-    "uri": "https://www.discogs.com/master/484590-Kendrick-Lamar-Good-Kid-MAAD-City",
-    "versions_url": "https://api.discogs.com/masters/484590/versions",
-    "main_release_url": "https://api.discogs.com/releases/24110135",
-    "most_recent_release_url": "https://api.discogs.com/releases/37922823",
-    "num_for_sale": 697,
-    "lowest_price": 5.39,
-    "images": [
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/HdsntvQX4LJibo7bIdG4SU-V9224aVcbzVcWROFlglE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/MTM1LTE2NTk3MTM5/NDQtODY4Ny5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/HdsntvQX4LJibo7bIdG4SU-V9224aVcbzVcWROFlglE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/MTM1LTE2NTk3MTM5/NDQtODY4Ny5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/CjJhuTF9cjX4UkEeI0VNxqPFOz-CN5T5UyYMZxq9LZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/MTM1LTE2NTk3MTM5/NDQtODY4Ny5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      }
-    ],
-    "year": 2012,
-    "tracklist": [
-      {
-        "position": "1",
-        "type_": "track",
-        "title": "Sherane A.K.A Master Splinter's Daughter",
-        "duration": "4:33"
-      },
-      {
-        "position": "2",
-        "type_": "track",
-        "title": "Bitch, Don't Kill My Vibe",
-        "duration": "5:10"
-      },
-      {
-        "position": "3",
-        "type_": "track",
-        "title": "Backseat Freestyle",
-        "duration": "3:32"
-      },
-      {
-        "position": "4",
-        "type_": "track",
-        "title": "The Art Of Peer Pressure",
-        "duration": "5:24"
-      },
-      {
-        "position": "5",
-        "type_": "track",
-        "title": "Money Trees",
-        "extraartists": [
-          {
-            "name": "Jay Rock (2)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 921864,
-            "resource_url": "https://api.discogs.com/artists/921864"
-          }
-        ],
-        "duration": "6:26"
-      },
-      {
-        "position": "6",
-        "type_": "track",
-        "title": "Poetic Justice",
-        "extraartists": [
-          {
-            "name": "Drake",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 151199,
-            "resource_url": "https://api.discogs.com/artists/151199"
-          }
-        ],
-        "duration": "5:00"
-      },
-      {
-        "position": "7",
-        "type_": "track",
-        "title": "Good Kid",
-        "duration": "3:34"
-      },
-      {
-        "position": "8",
-        "type_": "track",
-        "title": "M.A.A.D City",
-        "extraartists": [
-          {
-            "name": "MC Eiht",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 81056,
-            "resource_url": "https://api.discogs.com/artists/81056"
-          }
-        ],
-        "duration": "5:50"
-      },
-      {
-        "position": "9",
-        "type_": "track",
-        "title": "Swimming Pools (Drank) (Extended Version)",
-        "duration": "5:13"
-      },
-      {
-        "position": "10",
-        "type_": "track",
-        "title": "Sing About Me, I'm Dying Of Thirst",
-        "duration": "12:03"
-      },
-      {
-        "position": "11",
-        "type_": "track",
-        "title": "Real",
-        "extraartists": [
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          }
-        ],
-        "duration": "7:23"
-      },
-      {
-        "position": "12",
-        "type_": "track",
-        "title": "Compton",
-        "extraartists": [
-          {
-            "name": "Dr. Dre",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 50513,
-            "resource_url": "https://api.discogs.com/artists/50513"
-          }
-        ],
-        "duration": "4:08"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Kendrick Lamar",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 1778977,
-        "resource_url": "https://api.discogs.com/artists/1778977",
-        "thumbnail_url": "https://i.discogs.com/-4vxB93xDoTNY5faNzlkTlt8bPNHnMqyHoQ36LrUgfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Nzg5/NzctMTc2MDQ4Mjc1/OC03MTYxLmpwZWc.jpeg"
-      }
-    ],
-    "title": "Good Kid, M.A.A.D City",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=mprkqDNUQb0",
-        "title": "m.A.A.d city",
-        "description": "Provided to YouTube by Universal Music Group\n\nm.A.A.d city \u00b7 Kendrick Lamar \u00b7 MC Eiht\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nProducer: Sounwave\nComposer Lyricist: Kendrick Lamar\nComposer Lyricist: M. Spears\n",
-        "duration": 351,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=raZ03s1rzd0",
-        "title": "good kid",
-        "description": "Provided to YouTube by Universal Music Group\n\ngood kid \u00b7 Kendrick Lamar\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nComposer Lyricist, Producer: Pharrell Williams\nComposer Lyricist: Kendrick Lamar\n\nAuto-generated",
-        "duration": 215,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=kjUyud5KtiE",
-        "title": "good kid",
-        "description": "Provided to YouTube by Universal Music Group\n\ngood kid \u00b7 Kendrick Lamar\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nComposer Lyricist, Producer: Pharrell Williams\nComposer Lyricist: Kendrick Lamar\n\nAuto-generated",
-        "duration": 215,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=t93uK0DKvEk",
-        "title": "The Art of Peer Pressure",
-        "description": "Provided to YouTube by Universal Music Group\n\nThe Art of Peer Pressure \u00b7 Kendrick Lamar\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nProducer: Tabu\nComposer Lyricist: Kendrick Lamar\nComposer Lyricist: R. Rask\nComp",
-        "duration": 325,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Iy-dJwHVX84",
-        "title": "Money Trees",
-        "description": "Provided to YouTube by Universal Music Group\n\nMoney Trees \u00b7 Kendrick Lamar \u00b7 Jay Rock\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nProducer: Dahi\nComposer Lyricist: Kendrick Lamar\nComposer Lyricist: D. Natche\nComp",
-        "duration": 387,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=75wmW7xjyog",
-        "title": "Sing About Me, I'm Dying Of Thirst",
-        "description": "Provided to YouTube by Universal Music Group\n\nSing About Me, I'm Dying Of Thirst \u00b7 Kendrick Lamar\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nProducer: Like\nProducer: Skhye Hutch\nComposer Lyricist: Kendrick Lamar",
-        "duration": 0,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=HJNa9Ih3haA",
-        "title": "Money Trees",
-        "description": "Provided to YouTube by Universal Music Group\n\nMoney Trees \u00b7 Kendrick Lamar \u00b7 Jay Rock\n\ngood kid, m.A.A.d city\n\n\u2117 2012 Aftermath/Interscope Records\n\nReleased on: 2013-01-01\n\nProducer: Dahi\nComposer Lyricist: Kendrick Lamar\nComposer Lyricist: D. Natche\nComp",
-        "duration": 387,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 484590,
   "genres": [
     {

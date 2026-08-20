@@ -8,17 +8,6 @@
   },
   "results": [
     {
-      "id": 15888301,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop"
-      ],
       "country": "New Zealand",
       "year": "2015",
       "format": [
@@ -33,6 +22,15 @@
         "Universal Music New Zealand"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "id": 15888301,
       "barcode": [
         "6 02547 27091 7",
         "[Universal logo] STEBBING IFPI P801 4727091 13154B"
@@ -41,9 +39,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/15888301-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "4727091",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/j-gGVkm_C1Eh1e9cKbr1CJXg2bNLNnBpDjRXm1IqHp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg4/MzAxLTE1OTk2MzQx/MTQtMTkxOC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Au4slvdUTRq9vxaHmDVWeB8WlACfA69KO1gCYEi0aYk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg4/MzAxLTE1OTk2MzQx/MTQtMTkxOC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/15888301",
@@ -63,20 +63,6 @@
       ]
     },
     {
-      "id": 11900402,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk",
-        "Neo Soul"
-      ],
       "country": "Europe",
       "year": "2015",
       "format": [
@@ -152,6 +138,18 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk",
+        "Neo Soul"
+      ],
+      "id": 11900402,
       "barcode": [
         "6 02547 30068 3",
         "602547300683",
@@ -167,14 +165,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/11900402-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "0602547300683",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/dYEDXgr2-coEIvu7k2M7DFIszg422ovVG1pijryRucU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/NDAyLTE1MjQzODk5/NzctOTI1OS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/7vRV5Y1u3K7U2qMyiCD66u6NlmhpO0_PcaHNEzTe9Z8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/NDAyLTE1MjQzODk5/NzctOTI1OS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/11900402",
       "community": {
-        "want": 526,
+        "want": 525,
         "have": 498
       },
       "format_quantity": 1,
@@ -190,346 +190,6 @@
       ]
     },
     {
-      "id": 6787439,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Europe",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal International Music B.V.",
-        "Aftermath Records",
-        "Interscope Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Asthmatic Kitty Records",
-        "EDC, Germany",
-        "Wb Music Corp.",
-        "TDE Music",
-        "Hard Workin' Black Folks Publishing",
-        "Westbury Music Ltd.",
-        "Roynet Music",
-        "Rose Mac Music",
-        "Blessed Seeds Of God",
-        "Sounwave TDE Productions",
-        "Sony ATV",
-        "Laneway Publishing",
-        "Q Baby Music",
-        "Mijac Music",
-        "Sony/ATV Songs LLC",
-        "Ahmad Music",
-        "Universal Music Corp.",
-        "EMI Full Keel Music",
-        "Music Of Windswept",
-        "BMG Music",
-        "Dynatone Publishing Co.",
-        "Unichappell Music, Inc.",
-        "Almo Music Corp.",
-        "Producer Pizza",
-        "Tommy Black",
-        "Blue Nike Publishing",
-        "Fauntleroy Music",
-        "Big Yacht Music",
-        "EMI April Music Inc.",
-        "More Water From Nazareth",
-        "Kanpai Music",
-        "Sony / ATV Music Publishing",
-        "Queen Of The Planet Productions",
-        "Cisum Naashar Publishing",
-        "Uncle Buddies Music Inc.",
-        "BMG Rights Management",
-        "Donte Lamar Perkins",
-        "Just Isn't Music Ltd.",
-        "New Jerusalem Music",
-        "Black Bull Music, Inc.",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "1damentional Publishing LLC",
-        "Sony/ATV Tunes LLC",
-        "Stephen 1daniable Publishing",
-        "Kenobi Songs Publishing",
-        "Whiskey Valentine Publishing",
-        "Tenyor Music",
-        "BMG Gold Songs",
-        "AIX Publishing",
-        "BMG Rights Management (US) LLC",
-        "Bovina Music, Inc.",
-        "BMG Ruby Songs",
-        "Chalice Recording Studios",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1da Boi Productions Inc.",
-        "Jazzman Records Ltd.",
-        "Sony Music Entertainment",
-        "Concord Music Group, Inc.",
-        "UMe"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 27091 7",
-        "602547270917",
-        "LC06406",
-        "BIEM/SDRM",
-        "[4 x Universal logo]",
-        "06025 472 709-1 01 + 53701984",
-        "MADE IN GERMANY BY EDC B",
-        "MADE IN GERMANY BY EDC A",
-        "IFPI LV27",
-        "IFPI 0117",
-        "IFPI 0118"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/6787439-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "0602547270917",
-      "thumb": "https://i.discogs.com/1ML_9AKvE_H0FnKQcbt9-5BO4tQV0OiQLyp9tAE2-FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc0/MzktMTQyNjYxNzcx/NS03ODMxLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/MrMLO9SrQ7V12VfH9bWr3D1ksKUpTGkDtNPuQXaSC8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc0/MzktMTQyNjYxNzcx/NS03ODMxLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/6787439",
-      "community": {
-        "want": 906,
-        "have": 1864
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8219290,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Brazil",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Universal Music"
-      ],
-      "type": "release",
-      "barcode": [
-        "602547270917",
-        "AA0002000"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/8219290-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "0602547270917",
-      "thumb": "https://i.discogs.com/E-zJF-D_e4ovfyuDgaee4sju2sSKo1cU7WW3kGFMkXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTky/OTAtMTU0NTY1MTM3/OC0yODI3LmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/DXjtcjjZM_4Tu2egf_MquliNjeleVyUwEPyTHChkITQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTky/OTAtMTU0NTY1MTM3/OC0yODI3LmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/8219290",
-      "community": {
-        "want": 619,
-        "have": 302
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 15714043,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "Hardcore Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "US",
-      "year": "2015",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Numbered"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "Chalice Recording Studios",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1damentional Publishing LLC",
-        "Ahmad Music",
-        "AIX Publishing",
-        "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music Corp.",
-        "Anna Smiles Music",
-        "Barsh Music",
-        "Beat Bully Productions",
-        "Big Yacht Music",
-        "Black Bull Music, Inc.",
-        "Blessed Seeds Of God",
-        "Blue Nike Publishing",
-        "BMG Gold Songs",
-        "BMG Rights Management",
-        "BMG Rights Management (US) LLC",
-        "BMG Ruby Songs",
-        "Bovina Music, Inc.",
-        "Cisum Naashar Publishing",
-        "Donte Lamar Perkins",
-        "EMI April Music Inc.",
-        "Even More Water From Nazareth",
-        "Fauntleroy Music",
-        "Hard Working Black Folks Inc.",
-        "HHMusic Wordlwide",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "Just Isn't Music Ltd.",
-        "Kendal's Soul Music",
-        "Kenobi Songs Publishing",
-        "Laneway Publishing",
-        "Mijac Music",
-        "Music Of Windswept",
-        "New Jerusalem Music",
-        "Notting Hill Music",
-        "Pooch Music",
-        "Producer Pizza",
-        "Q Baby Music",
-        "Queen Of The Planet Productions",
-        "Rondor Music International, Inc.",
-        "Rose Mac Music",
-        "Roynet Music",
-        "Sony/ATV Allegro",
-        "Sony / ATV Music Publishing",
-        "Sony/ATV Songs LLC",
-        "Sony/ATV Tunes LLC",
-        "Stephen 1daniable Publishing",
-        "Tenyor Music",
-        "Tommy Black",
-        "Top Dawg Music",
-        "Uncle Buddies Music Inc.",
-        "Universal Music Corp.",
-        "WB Music Corp.",
-        "Westbury Music",
-        "Whiskey Valentine Publishing",
-        "Zale Epstein",
-        "1da Boi Productions Inc.",
-        "Jazzman Records Ltd.",
-        "Record Technology Incorporated"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 31100 9",
-        "602547311009",
-        "B0023464-01A-RE2 25244.1(3)",
-        "B0023464-01B-RE2 25244.2(3)",
-        "B0023464-01C-RE2 25244.3(3)",
-        "B0023464-01D-RE2 25244.4(3)",
-        "ASCAP",
-        "BMI",
-        "GMR",
-        "SESAC",
-        "SOCAN",
-        "STIM"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/15714043-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0023464-01",
-      "thumb": "https://i.discogs.com/gRQNkUYmH_RcJEhGYmfed6M7qRgJw5fwH7n12P26pN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE0/MDQzLTE1OTY0MzM0/NDItMzMwMy5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/m8hoi8id-fm-BShuA-BKZtYJi-oBmiB2GS7M-3nVc7c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE0/MDQzLTE1OTY0MzM0/NDItMzMwMy5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/15714043",
-      "community": {
-        "want": 1675,
-        "have": 280
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "text": "Gatefold, 180 Gram",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Numbered"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7466368,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
       "country": "Japan",
       "year": "2015",
       "format": [
@@ -541,6 +201,16 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7466368,
       "barcode": [
         "4988005846709"
       ],
@@ -548,9 +218,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/7466368-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "UICS-1287",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/koKRGFuLu0-Kq8Th-NIg__BQIWi7ehBYvtCzES4yHng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjYz/NjgtMTQ2MjAyNDg4/OC0xMjIxLmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/VjvuYKHo-4aWVZw4Zt4jX2LmeAcNbwoj7Mr1_W9M9ek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjYz/NjgtMTQ2MjAyNDg4/OC0xMjIxLmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/7466368",
@@ -570,80 +242,6 @@
       ]
     },
     {
-      "id": 7306556,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Australia",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Bernie Grundman Mastering",
-        "Sony DADC Australia",
-        "Universal Music Australia"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 27091 7",
-        "602547270917",
-        "[Universal logo] ANZ 4727091 A0101062173-0101 12",
-        "IFPI LV87",
-        "IFPI 6513",
-        "IFPI 6551",
-        "IFPI 6548"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/7306556-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "4727091",
-      "thumb": "https://i.discogs.com/vgzuMTEz4yBFBLxF10hLcjcNsza1NSTUTH5QzCneV4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDY1/NTYtMTYwMDEzMzc4/OC03ODI3LmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/IbkBPlovmb2Uzj1ow-6HAMKlH-tduX3hBvGVFO8rylQ/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDY1/NTYtMTYwMDEzMzc4/OC03ODI3LmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/7306556",
-      "community": {
-        "want": 687,
-        "have": 472
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7568442,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
       "country": "Europe",
       "year": "2015",
       "format": [
@@ -727,6 +325,16 @@
         "BMG Ruby Songs"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7568442,
       "barcode": [
         "6 02547 31100 9",
         "602547311009",
@@ -771,15 +379,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "0602547311009",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/qReGPRFvpLPMnidpfOI_uN3HnlnuUQkWBgkvE7yah-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/uyNREpCzq3Qt3jaKkfrEBTiqVoFO03P2Q1wrWh6qzAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/7568442",
       "community": {
         "want": 5339,
-        "have": 22189
+        "have": 22182
       },
       "format_quantity": 2,
       "formats": [
@@ -795,19 +405,7 @@
       ]
     },
     {
-      "id": 8287748,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "South East Asia",
+      "country": "Australia",
       "year": "2015",
       "format": [
         "CD",
@@ -817,25 +415,45 @@
         "Top Dawg Entertainment",
         "Aftermath Entertainment",
         "Interscope Records",
-        "Bernie Grundman Mastering"
+        "Bernie Grundman Mastering",
+        "Sony DADC Australia",
+        "Universal Music Australia"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7306556,
       "barcode": [
-        "6 02547 27091 7"
+        "6 02547 27091 7",
+        "602547270917",
+        "[Universal logo] ANZ 4727091 A0101062173-0101 12",
+        "IFPI LV87",
+        "IFPI 6513",
+        "IFPI 6551",
+        "IFPI 6548"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/8287748-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "uri": "/release/7306556-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "4727091",
-      "thumb": "https://i.discogs.com/8Op7BPD-qEcQYzwImW1Bp4d6RVGyD1xG2qFMIHPQ0y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODc3/NDgtMTQ1ODY3OTY4/Mi0yODcwLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/on8YxNuqrl68dvT82trNv1WIwfEvFY_nYscs0dOc-RY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODc3/NDgtMTQ1ODY3OTY4/Mi0yODcwLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/8287748",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/vgzuMTEz4yBFBLxF10hLcjcNsza1NSTUTH5QzCneV4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDY1/NTYtMTYwMDEzMzc4/OC03ODI3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/IbkBPlovmb2Uzj1ow-6HAMKlH-tduX3hBvGVFO8rylQ/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDY1/NTYtMTYwMDEzMzc4/OC03ODI3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7306556",
       "community": {
-        "want": 590,
-        "have": 33
+        "want": 687,
+        "have": 472
       },
       "format_quantity": 1,
       "formats": [
@@ -849,9 +467,143 @@
       ]
     },
     {
-      "id": 8814849,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "country": "Brazil",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Universal Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 8219290,
+      "barcode": [
+        "602547270917",
+        "AA0002000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
       "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/8219290-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "0602547270917",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/E-zJF-D_e4ovfyuDgaee4sju2sSKo1cU7WW3kGFMkXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTky/OTAtMTU0NTY1MTM3/OC0yODI3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DXjtcjjZM_4Tu2egf_MquliNjeleVyUwEPyTHChkITQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTky/OTAtMTU0NTY1MTM3/OC0yODI3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8219290",
+      "community": {
+        "want": 619,
+        "have": 302
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "Aftermath Records",
+        "Interscope Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Asthmatic Kitty Records",
+        "EDC, Germany",
+        "Wb Music Corp.",
+        "TDE Music",
+        "Hard Workin' Black Folks Publishing",
+        "Westbury Music Ltd.",
+        "Roynet Music",
+        "Rose Mac Music",
+        "Blessed Seeds Of God",
+        "Sounwave TDE Productions",
+        "Sony ATV",
+        "Laneway Publishing",
+        "Q Baby Music",
+        "Mijac Music",
+        "Sony/ATV Songs LLC",
+        "Ahmad Music",
+        "Universal Music Corp.",
+        "EMI Full Keel Music",
+        "Music Of Windswept",
+        "BMG Music",
+        "Dynatone Publishing Co.",
+        "Unichappell Music, Inc.",
+        "Almo Music Corp.",
+        "Producer Pizza",
+        "Tommy Black",
+        "Blue Nike Publishing",
+        "Fauntleroy Music",
+        "Big Yacht Music",
+        "EMI April Music Inc.",
+        "More Water From Nazareth",
+        "Kanpai Music",
+        "Sony / ATV Music Publishing",
+        "Queen Of The Planet Productions",
+        "Cisum Naashar Publishing",
+        "Uncle Buddies Music Inc.",
+        "BMG Rights Management",
+        "Donte Lamar Perkins",
+        "Just Isn't Music Ltd.",
+        "New Jerusalem Music",
+        "Black Bull Music, Inc.",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "1damentional Publishing LLC",
+        "Sony/ATV Tunes LLC",
+        "Stephen 1daniable Publishing",
+        "Kenobi Songs Publishing",
+        "Whiskey Valentine Publishing",
+        "Tenyor Music",
+        "BMG Gold Songs",
+        "AIX Publishing",
+        "BMG Rights Management (US) LLC",
+        "Bovina Music, Inc.",
+        "BMG Ruby Songs",
+        "Chalice Recording Studios",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1da Boi Productions Inc.",
+        "Jazzman Records Ltd.",
+        "Sony Music Entertainment",
+        "Concord Music Group, Inc.",
+        "UMe"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop",
         "Jazz",
@@ -860,24 +612,66 @@
       "style": [
         "Conscious",
         "Jazzy Hip-Hop",
-        "Hardcore Hip-Hop",
         "G-Funk"
       ],
+      "id": 6787439,
+      "barcode": [
+        "6 02547 27091 7",
+        "602547270917",
+        "LC06406",
+        "BIEM/SDRM",
+        "[4 x Universal logo]",
+        "06025 472 709-1 01 + 53701984",
+        "MADE IN GERMANY BY EDC B",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI LV27",
+        "IFPI 0117",
+        "IFPI 0118"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/6787439-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "0602547270917",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/1ML_9AKvE_H0FnKQcbt9-5BO4tQV0OiQLyp9tAE2-FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc0/MzktMTQyNjYxNzcx/NS03ODMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/MrMLO9SrQ7V12VfH9bWr3D1ksKUpTGkDtNPuQXaSC8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODc0/MzktMTQyNjYxNzcx/NS03ODMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6787439",
+      "community": {
+        "want": 906,
+        "have": 1864
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "US",
       "year": "2015",
       "format": [
         "Vinyl",
         "LP",
-        "Album"
+        "Album",
+        "Numbered"
       ],
       "label": [
         "Top Dawg Entertainment",
         "Aftermath Entertainment",
         "Interscope Records",
-        "Aftermath/Interscope Records",
-        "Aftermath/Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
         "Downtown Music Studios",
         "Notifi Studios",
         "House Studios, Washington, D.C.",
@@ -889,9 +683,7 @@
         "Ahmad Music",
         "AIX Publishing",
         "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music",
         "Almo Music Corp.",
-        "ATV Songs LLC",
         "Anna Smiles Music",
         "Barsh Music",
         "Beat Bully Productions",
@@ -909,6 +701,8 @@
         "EMI April Music Inc.",
         "Even More Water From Nazareth",
         "Fauntleroy Music",
+        "Hard Working Black Folks Inc.",
+        "HHMusic Wordlwide",
         "Jobete Music Co., Inc.",
         "Josef Leimberg Music",
         "Just Isn't Music Ltd.",
@@ -918,40 +712,51 @@
         "Mijac Music",
         "Music Of Windswept",
         "New Jerusalem Music",
+        "Notting Hill Music",
         "Pooch Music",
         "Producer Pizza",
         "Q Baby Music",
         "Queen Of The Planet Productions",
+        "Rondor Music International, Inc.",
         "Rose Mac Music",
         "Roynet Music",
         "Sony/ATV Allegro",
         "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
         "Sony/ATV Tunes LLC",
+        "Stephen 1daniable Publishing",
         "Tenyor Music",
         "Tommy Black",
         "Top Dawg Music",
-        "Unichappell Music, Inc.",
+        "Uncle Buddies Music Inc.",
         "Universal Music Corp.",
         "WB Music Corp.",
-        "Westbury Music Ltd.",
+        "Westbury Music",
         "Whiskey Valentine Publishing",
         "Zale Epstein",
-        "1da Boi Productions",
-        "Bernie Grundman Mastering",
+        "1da Boi Productions Inc.",
+        "Jazzman Records Ltd.",
         "Record Technology Incorporated"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Hardcore Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 15714043,
       "barcode": [
         "6 02547 31100 9",
         "602547311009",
-        "B0023464-01 A-RE2 II 25244.1(3)  SS",
-        "B0023464-01 B-RE2 II 25244.2(3)",
-        "B0023464-01 C-RE2 II 25244.3(3)",
-        "B0023464-01 D-RE2 II 25244.4(3)  SS",
-        "B0023464-01 A-RE2 25244.1(3)  SS",
-        "B0023464-01 B-RE2 25244.2(3)",
-        "B0023464-01 C-RE2 25244.3(3)",
-        "B0023464-01 D-RE2 25244.4(3)  SS",
+        "B0023464-01A-RE2 25244.1(3)",
+        "B0023464-01B-RE2 25244.2(3)",
+        "B0023464-01C-RE2 25244.3(3)",
+        "B0023464-01D-RE2 25244.4(3)",
         "ASCAP",
         "BMI",
         "GMR",
@@ -963,15 +768,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/8814849-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "uri": "/release/15714043-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0023464-01",
-      "thumb": "https://i.discogs.com/Fuz7PIkaBT8cyOv8foJKPeeSLnypox2vgkX-9wdhoaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ4/NDktMTQ3NTg3OTA3/NC0yODMxLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/2RRAZvjItUXF8lBZvftULBIJCa-SebcmgGQsqbTVboo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ4/NDktMTQ3NTg3OTA3/NC0yODMxLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/8814849",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/gRQNkUYmH_RcJEhGYmfed6M7qRgJw5fwH7n12P26pN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE0/MDQzLTE1OTY0MzM0/NDItMzMwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m8hoi8id-fm-BShuA-BKZtYJi-oBmiB2GS7M-3nVc7c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE0/MDQzLTE1OTY0MzM0/NDItMzMwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15714043",
       "community": {
-        "want": 4159,
-        "have": 12066
+        "want": 1675,
+        "have": 280
       },
       "format_quantity": 2,
       "formats": [
@@ -981,138 +788,14 @@
           "text": "Gatefold, 180 Gram",
           "descriptions": [
             "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7044568,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "G-Funk",
-        "Jazzy Hip-Hop"
-      ],
-      "country": "Australia",
-      "year": "2015",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Unofficial Release"
-      ],
-      "label": [
-        "Not On Label (Kendrick Lamar)"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/7044568-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "AFTMB002295802LP",
-      "thumb": "https://i.discogs.com/F-UYIGGkDiqIHxrGC2zQFAiJK7cz2936SSIcDkKYj7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/NjgtMTQ0MjQ2NTY0/Ni00MTI1LnBuZw.jpeg",
-      "cover_image": "https://i.discogs.com/fxhDUfERZgsv7_YC9I91QLYH3VGdpby03369kb55sBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/NjgtMTQ0MjQ2NTY0/Ni00MTI1LnBuZw.jpeg",
-      "resource_url": "https://api.discogs.com/releases/7044568",
-      "community": {
-        "want": 1601,
-        "have": 253
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "text": "Pink / White Marbled",
-          "descriptions": [
-            "LP",
             "Album",
-            "Limited Edition",
-            "Unofficial Release"
+            "Numbered"
           ]
         }
       ]
     },
     {
-      "id": 32921196,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Worldwide",
-      "year": "2015",
-      "format": [
-        "File",
-        "FLAC",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath/Interscope Records",
-        "Bernie Grundman Mastering"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/32921196-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/pAr5g58EZiPL-m--KlibabFTwfs5isomeFHSDW87gfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIx/MTk2LTE3Mzc1ODEx/OTQtNzA0NS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/NNV0aWTN27s05PRVfwbeobDxOk9RWp0hEhGH--xkL_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIx/MTk2LTE3Mzc1ODEx/OTQtNzA0NS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/32921196",
-      "community": {
-        "want": 43,
-        "have": 8
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "16",
-          "text": "24bit/44.1kHz",
-          "descriptions": [
-            "FLAC",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 34591624,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "South Africa",
+      "country": "US",
       "year": "2015",
       "format": [
         "CD",
@@ -1120,44 +803,71 @@
       ],
       "label": [
         "Top Dawg Entertainment",
-        "Aftermath/Interscope Records",
-        "Universal Music Group"
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "Chalice Recording Studios",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1damentional Publishing LLC",
+        "Ahmad Music",
+        "AIX Publishing",
+        "Alexander Izquierdo BMG Gold Songs",
+        "Almo Music Corp.",
+        "Big Yacht Music",
+        "Black Bull Music, Inc.",
+        "Blessed Seeds Of God",
+        "Blue Nike Publishing",
+        "BMG Gold Songs",
+        "BMG Music",
+        "BMG Rights Management",
+        "BMG Rights Management (US) LLC",
+        "BMG Ruby Songs",
+        "Bovina Music, Inc.",
+        "Cisum Naashar Publishing",
+        "Donte Lamar Perkins",
+        "EMI April Music Inc.",
+        "EMI Full Keel Music",
+        "Fauntleroy Music",
+        "Hard Workin' Black Folks Publishing",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "Just Isn't Music Ltd.",
+        "Kanpai Music",
+        "Kenobi Songs Publishing",
+        "More Water From Nazareth",
+        "Music Of Windswept",
+        "New Jerusalem Music",
+        "Producer Pizza",
+        "Queen Of The Planet Productions",
+        "Rose Mac Music",
+        "Roynet Music",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sony/ATV Tunes LLC",
+        "Sounwave TDE Productions",
+        "Stephen 1daniable Publishing",
+        "TDE Music",
+        "Tenyor Music",
+        "Tommy Black",
+        "Uncle Buddies Music Inc.",
+        "Universal Music Corp.",
+        "WB Music Corp.",
+        "Westbury Music",
+        "Whiskey Valentine Publishing",
+        "Zale Epstein",
+        "1da Boi Productions Inc."
       ],
       "type": "release",
-      "barcode": [
-        "602547270917",
-        "Universal logo x4 060254727091 CUT1 CDT",
-        "IFPI L1422"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/34591624-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "060254727091",
-      "thumb": "https://i.discogs.com/TUf59t_5Q8LW5JNhExfqhmvYySkrnJsOHcV4d67SvcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkx/NjI0LTE3NTMwMjM3/NjItNjIyNS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/wzF9390dYQhJqLilF0OmZOC9Y1u1gA5_2NvnhLN0iYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkx/NjI0LTE3NTMwMjM3/NjItNjIyNS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/34591624",
-      "community": {
-        "want": 71,
-        "have": 0
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7002691,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
       "genre": [
         "Hip Hop",
         "Funk / Soul"
@@ -1167,6 +877,42 @@
         "Jazzy Hip-Hop",
         "G-Funk"
       ],
+      "id": 37814010,
+      "barcode": [
+        "602547270962",
+        "6 02547 27096 2",
+        "A9 IGA B002296002-2 AF01",
+        "IFPI LT36"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/37814010-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0022960-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/LCFnyHnxakJDohjxrPgxZKKuUaSu4NrHdaic5iidDIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE0/MDEwLTE3ODMzNjIz/NTQtMjI2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6RqFFW5BCUxeaWPphTAfzfrw4jmPfuJS2nxfRZsJh-0/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE0/MDEwLTE3ODMzNjIz/NTQtMjI2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37814010",
+      "community": {
+        "want": 12,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Clean",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Europe",
       "year": "2015",
       "format": [
@@ -1241,6 +987,16 @@
         "Arvato"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7002691,
       "barcode": [
         "6 02547 30068 3",
         "602547300683",
@@ -1256,15 +1012,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/7002691-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "0602547300683",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/myWVXOha2-nxeel_BcCk0mYQ8VIVS9iGSPiQuV3lgAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI2/OTEtMTQzMTQzNDg0/Mi02OTYyLmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/lUKls_KlRL9lWz7RGN2lbPj1NkSQk8CKmNnYBkgRjHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI2/OTEtMTQzMTQzNDg0/Mi02OTYyLmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/7002691",
       "community": {
         "want": 1278,
-        "have": 6701
+        "have": 6696
       },
       "format_quantity": 1,
       "formats": [
@@ -1278,20 +1036,6 @@
       ]
     },
     {
-      "id": 6781286,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk",
-        "Neo Soul"
-      ],
       "country": "Worldwide",
       "year": "2015",
       "format": [
@@ -1307,6 +1051,18 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk",
+        "Neo Soul"
+      ],
+      "id": 6781286,
       "barcode": [
         "976974313"
       ],
@@ -1314,9 +1070,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/6781286-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "none",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/DLLwBajeE5HO1FICW8LDkw5OVdP2_v0yDI1k9VtajXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/8ZD7MZypmyxuliTV-Czyy03rA9ou2E-BL2rhIFTLUlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/6781286",
@@ -1338,19 +1096,7 @@
       ]
     },
     {
-      "id": 37814010,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "US",
+      "country": "South East Asia",
       "year": "2015",
       "format": [
         "CD",
@@ -1360,105 +1106,9 @@
         "Top Dawg Entertainment",
         "Aftermath Entertainment",
         "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "Chalice Recording Studios",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1damentional Publishing LLC",
-        "Ahmad Music",
-        "AIX Publishing",
-        "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music Corp.",
-        "Big Yacht Music",
-        "Black Bull Music, Inc.",
-        "Blessed Seeds Of God",
-        "Blue Nike Publishing",
-        "BMG Gold Songs",
-        "BMG Music",
-        "BMG Rights Management",
-        "BMG Rights Management (US) LLC",
-        "BMG Ruby Songs",
-        "Bovina Music, Inc.",
-        "Cisum Naashar Publishing",
-        "Donte Lamar Perkins",
-        "EMI April Music Inc.",
-        "EMI Full Keel Music",
-        "Fauntleroy Music",
-        "Hard Workin' Black Folks Publishing",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "Just Isn't Music Ltd.",
-        "Kanpai Music",
-        "Kenobi Songs Publishing",
-        "More Water From Nazareth",
-        "Music Of Windswept",
-        "New Jerusalem Music",
-        "Producer Pizza",
-        "Queen Of The Planet Productions",
-        "Rose Mac Music",
-        "Roynet Music",
-        "Sony / ATV Music Publishing",
-        "Sony/ATV Songs LLC",
-        "Sony/ATV Tunes LLC",
-        "Sounwave TDE Productions",
-        "Stephen 1daniable Publishing",
-        "TDE Music",
-        "Tenyor Music",
-        "Tommy Black",
-        "Uncle Buddies Music Inc.",
-        "Universal Music Corp.",
-        "WB Music Corp.",
-        "Westbury Music",
-        "Whiskey Valentine Publishing",
-        "Zale Epstein",
-        "1da Boi Productions Inc."
+        "Bernie Grundman Mastering"
       ],
       "type": "release",
-      "barcode": [
-        "602547270962",
-        "6 02547 27096 2",
-        "A9 IGA B002296002-2 AF01",
-        "IFPI LT36"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/37814010-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0022960-02",
-      "thumb": "https://i.discogs.com/LCFnyHnxakJDohjxrPgxZKKuUaSu4NrHdaic5iidDIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE0/MDEwLTE3ODMzNjIz/NTQtMjI2Mi5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/6RqFFW5BCUxeaWPphTAfzfrw4jmPfuJS2nxfRZsJh-0/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE0/MDEwLTE3ODMzNjIz/NTQtMjI2Mi5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/37814010",
-      "community": {
-        "want": 13,
-        "have": 5
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Clean",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6788428,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
       "genre": [
         "Hip Hop",
         "Funk / Soul"
@@ -1468,105 +1118,25 @@
         "Jazzy Hip-Hop",
         "G-Funk"
       ],
-      "country": "Canada",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Canada Inc.",
-        "Universal Music Canada Inc.",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "Chalice Recording Studios",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1damentional Publishing LLC",
-        "Ahmad Music",
-        "AIX Publishing",
-        "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music Corp.",
-        "Big Yacht Music",
-        "Black Bull Music, Inc.",
-        "Blessed Seeds Of God",
-        "Blue Nike Publishing",
-        "BMG Gold Songs",
-        "BMG Music",
-        "BMG Rights Management",
-        "BMG Rights Management (US) LLC",
-        "BMG Ruby Songs",
-        "Bovina Music, Inc.",
-        "Cisum Naashar Publishing",
-        "Donte Lamar Perkins",
-        "EMI April Music Inc.",
-        "EMI Full Keel Music",
-        "Fauntleroy Music",
-        "Hard Workin' Black Folks Publishing",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "Just Isn't Music Ltd.",
-        "Kanpai Music",
-        "Kenobi Songs Publishing",
-        "More Water From Nazareth",
-        "Music Of Windswept",
-        "New Jerusalem Music",
-        "Producer Pizza",
-        "Queen Of The Planet Productions",
-        "Rose Mac Music",
-        "Roynet Music",
-        "Sony / ATV Music Publishing",
-        "Sony/ATV Songs LLC",
-        "Sony/ATV Tunes LLC",
-        "Sounwave TDE Productions",
-        "Stephen 1daniable Publishing",
-        "TDE Music",
-        "Tenyor Music",
-        "Tommy Black",
-        "Uncle Buddies Music Inc.",
-        "Universal Music Corp.",
-        "WB Music Corp.",
-        "Westbury Music",
-        "Whiskey Valentine Publishing",
-        "Zale Epstein",
-        "1da Boi Productions Inc."
-      ],
-      "type": "release",
+      "id": 8287748,
       "barcode": [
-        "6 02547 27091 7",
-        "M0S1 72 1122 2295802-2 AH02",
-        "IFPI L2247",
-        "IFPI 2U9L",
-        "72 1122 2295802-2 AH02 M1S5",
-        "IFPI L247",
-        "IFPI 2U1L",
-        "ASCAP",
-        "BMI",
-        "STIM",
-        "SOCAN"
+        "6 02547 27091 7"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/6788428-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0022958-02",
-      "thumb": "https://i.discogs.com/TVUxTO9cBnIEoAyGWA6nJkXuYzNrXU_QpFTv6C-h2qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODg0/MjgtMTQyNzIzMzQw/MC03NjQxLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/0LdFHG9csckgZLZ0gKAHdHwIf3YEOMVoW_DLCSLDQWY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODg0/MjgtMTQyNzIzMzQw/MC03NjQxLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/6788428",
+      "uri": "/release/8287748-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "4727091",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/8Op7BPD-qEcQYzwImW1Bp4d6RVGyD1xG2qFMIHPQ0y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODc3/NDgtMTQ1ODY3OTY4/Mi0yODcwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/on8YxNuqrl68dvT82trNv1WIwfEvFY_nYscs0dOc-RY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODc3/NDgtMTQ1ODY3OTY4/Mi0yODcwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8287748",
       "community": {
-        "want": 724,
-        "have": 702
+        "want": 590,
+        "have": 33
       },
       "format_quantity": 1,
       "formats": [
@@ -1580,20 +1150,6 @@
       ]
     },
     {
-      "id": 13715443,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "Hardcore Hip-Hop",
-        "G-Funk"
-      ],
       "country": "US",
       "year": "2015",
       "format": [
@@ -1679,6 +1235,18 @@
         "Record Technology Incorporated"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Hardcore Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 13715443,
       "barcode": [
         "602547311009",
         "6 02547 31100 9",
@@ -1697,15 +1265,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/13715443-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0023464-01",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/3yYuDCm6AF6W-4_SrYFE99g7Zer3bv2IwGz2Eu25mWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE1/NDQzLTE1NTk2MDM4/ODItODcwNC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/n8kVe0D9IlHsxuacyheKLg_a3yCGWTE7sBSJu902y70/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE1/NDQzLTE1NTk2MDM4/ODItODcwNC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/13715443",
       "community": {
         "want": 2535,
-        "have": 9589
+        "have": 9585
       },
       "format_quantity": 2,
       "formats": [
@@ -1721,9 +1291,198 @@
       ]
     },
     {
-      "id": 7557957,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "country": "Canada",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Canada Inc.",
+        "Universal Music Canada Inc.",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "Chalice Recording Studios",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1damentional Publishing LLC",
+        "Ahmad Music",
+        "AIX Publishing",
+        "Alexander Izquierdo BMG Gold Songs",
+        "Almo Music Corp.",
+        "Big Yacht Music",
+        "Black Bull Music, Inc.",
+        "Blessed Seeds Of God",
+        "Blue Nike Publishing",
+        "BMG Gold Songs",
+        "BMG Music",
+        "BMG Rights Management",
+        "BMG Rights Management (US) LLC",
+        "BMG Ruby Songs",
+        "Bovina Music, Inc.",
+        "Cisum Naashar Publishing",
+        "Donte Lamar Perkins",
+        "EMI April Music Inc.",
+        "EMI Full Keel Music",
+        "Fauntleroy Music",
+        "Hard Workin' Black Folks Publishing",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "Just Isn't Music Ltd.",
+        "Kanpai Music",
+        "Kenobi Songs Publishing",
+        "More Water From Nazareth",
+        "Music Of Windswept",
+        "New Jerusalem Music",
+        "Producer Pizza",
+        "Queen Of The Planet Productions",
+        "Rose Mac Music",
+        "Roynet Music",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sony/ATV Tunes LLC",
+        "Sounwave TDE Productions",
+        "Stephen 1daniable Publishing",
+        "TDE Music",
+        "Tenyor Music",
+        "Tommy Black",
+        "Uncle Buddies Music Inc.",
+        "Universal Music Corp.",
+        "WB Music Corp.",
+        "Westbury Music",
+        "Whiskey Valentine Publishing",
+        "Zale Epstein",
+        "1da Boi Productions Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 6788428,
+      "barcode": [
+        "6 02547 27091 7",
+        "M0S1 72 1122 2295802-2 AH02",
+        "IFPI L2247",
+        "IFPI 2U9L",
+        "72 1122 2295802-2 AH02 M1S5",
+        "IFPI L247",
+        "IFPI 2U1L",
+        "ASCAP",
+        "BMI",
+        "STIM",
+        "SOCAN"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
       "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/6788428-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0022958-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/TVUxTO9cBnIEoAyGWA6nJkXuYzNrXU_QpFTv6C-h2qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODg0/MjgtMTQyNzIzMzQw/MC03NjQxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/0LdFHG9csckgZLZ0gKAHdHwIf3YEOMVoW_DLCSLDQWY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODg0/MjgtMTQyNzIzMzQw/MC03NjQxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6788428",
+      "community": {
+        "want": 724,
+        "have": 702
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2015",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 32921196,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/32921196-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "none",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/pAr5g58EZiPL-m--KlibabFTwfs5isomeFHSDW87gfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIx/MTk2LTE3Mzc1ODEx/OTQtNzA0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NNV0aWTN27s05PRVfwbeobDxOk9RWp0hEhGH--xkL_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIx/MTk2LTE3Mzc1ODEx/OTQtNzA0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32921196",
+      "community": {
+        "want": 43,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "24bit/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Africa",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath/Interscope Records",
+        "Universal Music Group"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop",
         "Jazz",
@@ -1734,6 +1493,669 @@
         "Jazzy Hip-Hop",
         "G-Funk"
       ],
+      "id": 34591624,
+      "barcode": [
+        "602547270917",
+        "Universal logo x4 060254727091 CUT1 CDT",
+        "IFPI L1422"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/34591624-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "060254727091",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/TUf59t_5Q8LW5JNhExfqhmvYySkrnJsOHcV4d67SvcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkx/NjI0LTE3NTMwMjM3/NjItNjIyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wzF9390dYQhJqLilF0OmZOC9Y1u1gA5_2NvnhLN0iYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkx/NjI0LTE3NTMwMjM3/NjItNjIyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34591624",
+      "community": {
+        "want": 71,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "Chalice Recording Studios",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1damentional Publishing LLC",
+        "Ahmad Music",
+        "AIX Publishing",
+        "Alexander Izquierdo BMG Gold Songs",
+        "Almo Music",
+        "Almo Music Corp.",
+        "ATV Songs LLC",
+        "Anna Smiles Music",
+        "Barsh Music",
+        "Beat Bully Productions",
+        "Big Yacht Music",
+        "Black Bull Music, Inc.",
+        "Blessed Seeds Of God",
+        "Blue Nike Publishing",
+        "BMG Gold Songs",
+        "BMG Rights Management",
+        "BMG Rights Management (US) LLC",
+        "BMG Ruby Songs",
+        "Bovina Music, Inc.",
+        "Cisum Naashar Publishing",
+        "Donte Lamar Perkins",
+        "EMI April Music Inc.",
+        "Even More Water From Nazareth",
+        "Fauntleroy Music",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "Just Isn't Music Ltd.",
+        "Kendal's Soul Music",
+        "Kenobi Songs Publishing",
+        "Laneway Publishing",
+        "Mijac Music",
+        "Music Of Windswept",
+        "New Jerusalem Music",
+        "Pooch Music",
+        "Producer Pizza",
+        "Q Baby Music",
+        "Queen Of The Planet Productions",
+        "Rose Mac Music",
+        "Roynet Music",
+        "Sony/ATV Allegro",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Tunes LLC",
+        "Tenyor Music",
+        "Tommy Black",
+        "Top Dawg Music",
+        "Unichappell Music, Inc.",
+        "Universal Music Corp.",
+        "WB Music Corp.",
+        "Westbury Music Ltd.",
+        "Whiskey Valentine Publishing",
+        "Zale Epstein",
+        "1da Boi Productions",
+        "Bernie Grundman Mastering",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Hardcore Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 8814849,
+      "barcode": [
+        "6 02547 31100 9",
+        "602547311009",
+        "B0023464-01 A-RE2 II 25244.1(3)  SS",
+        "B0023464-01 B-RE2 II 25244.2(3)",
+        "B0023464-01 C-RE2 II 25244.3(3)",
+        "B0023464-01 D-RE2 II 25244.4(3)  SS",
+        "B0023464-01 A-RE2 25244.1(3)  SS",
+        "B0023464-01 B-RE2 25244.2(3)",
+        "B0023464-01 C-RE2 25244.3(3)",
+        "B0023464-01 D-RE2 25244.4(3)  SS",
+        "ASCAP",
+        "BMI",
+        "GMR",
+        "SESAC",
+        "SOCAN",
+        "STIM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/8814849-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0023464-01",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/Fuz7PIkaBT8cyOv8foJKPeeSLnypox2vgkX-9wdhoaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ4/NDktMTQ3NTg3OTA3/NC0yODMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/2RRAZvjItUXF8lBZvftULBIJCa-SebcmgGQsqbTVboo/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ4/NDktMTQ3NTg3OTA3/NC0yODMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8814849",
+      "community": {
+        "want": 4159,
+        "have": 12066
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold, 180 Gram",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kendrick Lamar)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "G-Funk",
+        "Jazzy Hip-Hop"
+      ],
+      "id": 7044568,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/7044568-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "AFTMB002295802LP",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/F-UYIGGkDiqIHxrGC2zQFAiJK7cz2936SSIcDkKYj7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/NjgtMTQ0MjQ2NTY0/Ni00MTI1LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/fxhDUfERZgsv7_YC9I91QLYH3VGdpby03369kb55sBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDQ1/NjgtMTQ0MjQ2NTY0/Ni00MTI1LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7044568",
+      "community": {
+        "want": 1601,
+        "have": 253
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pink / White Marbled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "Chalice Recording Studios",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1damentional Publishing LLC",
+        "Ahmad Music",
+        "AIX Publishing",
+        "Alexander Izquierdo BMG Gold Songs",
+        "Almo Music Corp.",
+        "Big Yacht Music",
+        "Black Bull Music, Inc.",
+        "Blessed Seeds Of God",
+        "Blue Nike Publishing",
+        "BMG Gold Songs",
+        "BMG Music",
+        "BMG Rights Management",
+        "BMG Rights Management (US) LLC",
+        "BMG Ruby Songs",
+        "Bovina Music, Inc.",
+        "Cisum Naashar Publishing",
+        "Donte Lamar Perkins",
+        "EMI April Music Inc.",
+        "EMI Full Keel Music",
+        "Fauntleroy Music",
+        "Hard Workin' Black Folks Publishing",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "Just Isn't Music Ltd.",
+        "Kanpai Music",
+        "Kenobi Songs Publishing",
+        "More Water From Nazareth",
+        "Music Of Windswept",
+        "New Jerusalem Music",
+        "Producer Pizza",
+        "Queen Of The Planet Productions",
+        "Rose Mac Music",
+        "Roynet Music",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sony/ATV Tunes LLC",
+        "Sounwave TDE Productions",
+        "Stephen 1daniable Publishing",
+        "TDE Music",
+        "Tenyor Music",
+        "Tommy Black",
+        "Uncle Buddies Music Inc.",
+        "Universal Music Corp.",
+        "WB Music Corp.",
+        "Westbury Music",
+        "Whiskey Valentine Publishing",
+        "Zale Epstein",
+        "1da Boi Productions Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 8902006,
+      "barcode": [
+        "6 02547 27091 7",
+        "DIDX-1072790 1 A05",
+        "IFPI L329",
+        "IFPI 5083",
+        "ASCAP",
+        "BMI",
+        "STIM",
+        "SOCAN"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/8902006-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0022960-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/SgmVEUulV0SRCn6HJ5sHtmSuMRZqnqRm1Ep3tXxBSdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDIw/MDYtMTUwMzIwNDY1/Ni00MzY4LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/MMYsZFR5Rov8kvLtEn-avrzb4Hk7UAG2KDiV0kKlNmo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDIw/MDYtMTUwMzIwNDY1/Ni00MzY4LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8902006",
+      "community": {
+        "want": 599,
+        "have": 147
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Edited",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk",
+        "Neo Soul"
+      ],
+      "id": 6784584,
+      "barcode": [
+        "602547270917"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/6784584-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "AFTMB002295802CD",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/DN4XUGZEwRPaqYk1i97tg6_BzxWXILk7E4Qx2cekGNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ1/ODQtMTQyNjU1MzAy/NC0zMzUwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/5cuBCE4hYBseaYl6jVkSgtcVvoOyPldbh8zkS3rLR8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ1/ODQtMTQyNjU1MzAy/NC0zMzUwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6784584",
+      "community": {
+        "want": 1448,
+        "have": 3946
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Downtown Music Studios",
+        "Notifi Studios",
+        "House Studios, Washington, D.C.",
+        "Chalice Recording Studios",
+        "No Excuses Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "1damentional Publishing LLC",
+        "Ahmad Music",
+        "AIX Publishing",
+        "Alexander Izquierdo BMG Gold Songs",
+        "Almo Music Corp.",
+        "Big Yacht Music",
+        "Black Bull Music, Inc.",
+        "Blessed Seeds Of God",
+        "Blue Nike Publishing",
+        "BMG Gold Songs",
+        "BMG Music",
+        "BMG Rights Management",
+        "BMG Rights Management (US) LLC",
+        "BMG Ruby Songs",
+        "Bovina Music, Inc.",
+        "Cisum Naashar Publishing",
+        "Donte Lamar Perkins",
+        "EMI April Music Inc.",
+        "EMI Full Keel Music",
+        "Fauntleroy Music",
+        "Hard Workin' Black Folks Publishing",
+        "Jobete Music Co., Inc.",
+        "Josef Leimberg Music",
+        "Just Isn't Music Ltd.",
+        "Kanpai Music",
+        "Kenobi Songs Publishing",
+        "More Water From Nazareth",
+        "Music Of Windswept",
+        "New Jerusalem Music",
+        "Producer Pizza",
+        "Queen Of The Planet Productions",
+        "Rose Mac Music",
+        "Roynet Music",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sony/ATV Tunes LLC",
+        "Sounwave TDE Productions",
+        "Stephen 1daniable Publishing",
+        "TDE Music",
+        "Tenyor Music",
+        "Tommy Black",
+        "Uncle Buddies Music Inc.",
+        "Universal Music Corp.",
+        "WB Music Corp.",
+        "Westbury Music",
+        "Whiskey Valentine Publishing",
+        "Zale Epstein",
+        "1da Boi Productions Inc.",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7531525,
+      "barcode": [
+        "6 02547 27091 7",
+        "ASCAP",
+        "BMI",
+        "STIM",
+        "SOCAN",
+        "DIDX-1072790 1 A01",
+        "IFPI L329",
+        "not entered",
+        "DIDX-1072790 1 A05",
+        "IFPI L329",
+        "IFPI 5083",
+        "DIDX-1072790 1 A09",
+        "IFPI L329",
+        "IFPI 507E",
+        "DIDX-1072790 1 B02",
+        "IFPI L329",
+        "IFPI 5083",
+        "DIDX-1072790 1 B02",
+        "IFPI L329",
+        "IFPI 50H3",
+        "not entered",
+        "IFPI L329",
+        "IFPI 5081"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/7531525-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0022958-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/CUBefRU8TNIWJ41b0p6PDnjbKXmvmW9OxHi0rjfEwaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzE1/MjUtMTQ0MzQwNTg4/MC03MTYxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/s6asueD0_pmjmj8amHSncGjMlHdgOWvCLeDjs5aPblg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzE1/MjUtMTQ0MzQwNTg4/MC03MTYxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7531525",
+      "community": {
+        "want": 983,
+        "have": 1322
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Terre Haute Pressing",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Australia",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Kendrick Lamar)"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 6877413,
+      "barcode": [
+        "[Not enough space between grooves and label for etching]",
+        "AFTMB 002295802LP B-1",
+        "AFTMB 002295802LP C-1",
+        "AFTMB 002295802LP D-1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/6877413-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "AFTMB002295802LP",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/FGDtTPCzrAT358o66ul1dKQhSpKX0cZYTlxvfPM1p3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc0/MTMtMTQyODU0OTg2/Ni02NzIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/a-J1Lh4N_2Ngo1j3JlPYU__VHUY8EPHslvrR4nQFcBg/rs:fit/g:sm/q:90/h:385/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc0/MTMtMTQyODU0OTg2/Ni02NzIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6877413",
+      "community": {
+        "want": 2159,
+        "have": 1317
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 25380091,
+      "barcode": [
+        "6 02547 27091 7",
+        "72 1122 2295802-2 AF03",
+        "IFPI LT36",
+        "IFPI 2UN7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/25380091-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "B0022958-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/mATHr7JTK4sVnCySRLMlhauBXA46PxyCsmyp9GFij7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgw/MDkxLTE2NzAyNzgy/MjgtOTMxMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9is0GYh15nfcB85MfmmxAFtG_BCP8rebudZwrhirsyI/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgw/MDkxLTE2NzAyNzgy/MjgtOTMxMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25380091",
+      "community": {
+        "want": 249,
+        "have": 129
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "US",
       "year": "2015",
       "format": [
@@ -1816,6 +2238,17 @@
         "GZ Media"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 7557957,
       "barcode": [
         "602547311009",
         "4731100-A 135561E1/C",
@@ -1837,15 +2270,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/7557957-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0023464-01",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/rxiMbeNk1EiobEMyxuwZeyRf3n2xpMuGp1AdbR6sk6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTc5/NTctMTQ0Mzk4MjAy/NC01NTk2LmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/mzZN2JyPeiMrz8YnZd04bKifNZ36K5zMECcfHvnTzFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTc5/NTctMTQ0Mzk4MjAy/NC01NTk2LmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/7557957",
       "community": {
-        "want": 16201,
-        "have": 30921
+        "want": 16197,
+        "have": 30915
       },
       "format_quantity": 2,
       "formats": [
@@ -1861,19 +2296,6 @@
       ]
     },
     {
-      "id": 17778073,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "Hardcore Hip-Hop",
-        "G-Funk"
-      ],
       "country": "US",
       "year": "2015",
       "format": [
@@ -1903,6 +2325,17 @@
         "Quality Record Pressings"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Hardcore Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 17778073,
       "barcode": [
         "602547311009",
         "6 02547 31100 9",
@@ -1921,15 +2354,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/17778073-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0023464-01",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/eIo-CMqTlrK0XkSXcgRJ5ZZu0q7SSpaxYm2R9yz_C1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc4/MDczLTE2NDg0MjUx/MTAtMzg0Ni5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/WVggDWoAUvBbt3cfLJfLSIXwfzIgNcn6MUKv8oaLboE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc4/MDczLTE2NDg0MjUx/MTAtMzg0Ni5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/17778073",
       "community": {
         "want": 1191,
-        "have": 1301
+        "have": 1302
       },
       "format_quantity": 2,
       "formats": [
@@ -1945,18 +2380,6 @@
       ]
     },
     {
-      "id": 27801951,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
       "country": "US",
       "year": "2015",
       "format": [
@@ -1971,6 +2394,16 @@
         "Technicolor, Guadalajara, Mexico"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 27801951,
       "barcode": [
         "602547270917",
         "6 02547 27091 7",
@@ -1982,15 +2415,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/27801951-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0022958-02",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/P_SQVWKcEfZcr7U0AVmRUKibzXx04omk2dQsTDwfJIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/OTUxLTE3MjI3MzI0/NTItODkwNy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/2kUnjteN6aZmEK8QbjxNFjHukWga9LLeN1SWbRPRrzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAx/OTUxLTE3MjI3MzI0/NTItODkwNy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/27801951",
       "community": {
-        "want": 236,
-        "have": 225
+        "want": 234,
+        "have": 224
       },
       "format_quantity": 1,
       "formats": [
@@ -2005,453 +2440,6 @@
       ]
     },
     {
-      "id": 25380091,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "US",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 27091 7",
-        "72 1122 2295802-2 AF03",
-        "IFPI LT36",
-        "IFPI 2UN7"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/25380091-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0022958-02",
-      "thumb": "https://i.discogs.com/mATHr7JTK4sVnCySRLMlhauBXA46PxyCsmyp9GFij7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgw/MDkxLTE2NzAyNzgy/MjgtOTMxMS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/9is0GYh15nfcB85MfmmxAFtG_BCP8rebudZwrhirsyI/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgw/MDkxLTE2NzAyNzgy/MjgtOTMxMS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/25380091",
-      "community": {
-        "want": 250,
-        "have": 130
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6784584,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Jazz",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk",
-        "Neo Soul"
-      ],
-      "country": "US",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Bernie Grundman Mastering"
-      ],
-      "type": "release",
-      "barcode": [
-        "602547270917"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/6784584-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "AFTMB002295802CD",
-      "thumb": "https://i.discogs.com/DN4XUGZEwRPaqYk1i97tg6_BzxWXILk7E4Qx2cekGNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ1/ODQtMTQyNjU1MzAy/NC0zMzUwLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/5cuBCE4hYBseaYl6jVkSgtcVvoOyPldbh8zkS3rLR8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ1/ODQtMTQyNjU1MzAy/NC0zMzUwLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/6784584",
-      "community": {
-        "want": 1449,
-        "have": 3946
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8902006,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "US",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "Chalice Recording Studios",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1damentional Publishing LLC",
-        "Ahmad Music",
-        "AIX Publishing",
-        "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music Corp.",
-        "Big Yacht Music",
-        "Black Bull Music, Inc.",
-        "Blessed Seeds Of God",
-        "Blue Nike Publishing",
-        "BMG Gold Songs",
-        "BMG Music",
-        "BMG Rights Management",
-        "BMG Rights Management (US) LLC",
-        "BMG Ruby Songs",
-        "Bovina Music, Inc.",
-        "Cisum Naashar Publishing",
-        "Donte Lamar Perkins",
-        "EMI April Music Inc.",
-        "EMI Full Keel Music",
-        "Fauntleroy Music",
-        "Hard Workin' Black Folks Publishing",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "Just Isn't Music Ltd.",
-        "Kanpai Music",
-        "Kenobi Songs Publishing",
-        "More Water From Nazareth",
-        "Music Of Windswept",
-        "New Jerusalem Music",
-        "Producer Pizza",
-        "Queen Of The Planet Productions",
-        "Rose Mac Music",
-        "Roynet Music",
-        "Sony / ATV Music Publishing",
-        "Sony/ATV Songs LLC",
-        "Sony/ATV Tunes LLC",
-        "Sounwave TDE Productions",
-        "Stephen 1daniable Publishing",
-        "TDE Music",
-        "Tenyor Music",
-        "Tommy Black",
-        "Uncle Buddies Music Inc.",
-        "Universal Music Corp.",
-        "WB Music Corp.",
-        "Westbury Music",
-        "Whiskey Valentine Publishing",
-        "Zale Epstein",
-        "1da Boi Productions Inc."
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 27091 7",
-        "DIDX-1072790 1 A05",
-        "IFPI L329",
-        "IFPI 5083",
-        "ASCAP",
-        "BMI",
-        "STIM",
-        "SOCAN"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/8902006-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0022960-02",
-      "thumb": "https://i.discogs.com/SgmVEUulV0SRCn6HJ5sHtmSuMRZqnqRm1Ep3tXxBSdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDIw/MDYtMTUwMzIwNDY1/Ni00MzY4LnBuZw.jpeg",
-      "cover_image": "https://i.discogs.com/MMYsZFR5Rov8kvLtEn-avrzb4Hk7UAG2KDiV0kKlNmo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDIw/MDYtMTUwMzIwNDY1/Ni00MzY4LnBuZw.jpeg",
-      "resource_url": "https://api.discogs.com/releases/8902006",
-      "community": {
-        "want": 600,
-        "have": 147
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Edited",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6877413,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Australia",
-      "year": "2015",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Unofficial Release"
-      ],
-      "label": [
-        "Not On Label (Kendrick Lamar)"
-      ],
-      "type": "release",
-      "barcode": [
-        "[Not enough space between grooves and label for etching]",
-        "AFTMB 002295802LP B-1",
-        "AFTMB 002295802LP C-1",
-        "AFTMB 002295802LP D-1"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/6877413-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "AFTMB002295802LP",
-      "thumb": "https://i.discogs.com/FGDtTPCzrAT358o66ul1dKQhSpKX0cZYTlxvfPM1p3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc0/MTMtMTQyODU0OTg2/Ni02NzIxLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/a-J1Lh4N_2Ngo1j3JlPYU__VHUY8EPHslvrR4nQFcBg/rs:fit/g:sm/q:90/h:385/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzc0/MTMtMTQyODU0OTg2/Ni02NzIxLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/6877413",
-      "community": {
-        "want": 2159,
-        "have": 1317
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "text": "Clear",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Unofficial Release"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7531525,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "US",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Downtown Music Studios",
-        "Notifi Studios",
-        "House Studios, Washington, D.C.",
-        "Chalice Recording Studios",
-        "No Excuses Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "1damentional Publishing LLC",
-        "Ahmad Music",
-        "AIX Publishing",
-        "Alexander Izquierdo BMG Gold Songs",
-        "Almo Music Corp.",
-        "Big Yacht Music",
-        "Black Bull Music, Inc.",
-        "Blessed Seeds Of God",
-        "Blue Nike Publishing",
-        "BMG Gold Songs",
-        "BMG Music",
-        "BMG Rights Management",
-        "BMG Rights Management (US) LLC",
-        "BMG Ruby Songs",
-        "Bovina Music, Inc.",
-        "Cisum Naashar Publishing",
-        "Donte Lamar Perkins",
-        "EMI April Music Inc.",
-        "EMI Full Keel Music",
-        "Fauntleroy Music",
-        "Hard Workin' Black Folks Publishing",
-        "Jobete Music Co., Inc.",
-        "Josef Leimberg Music",
-        "Just Isn't Music Ltd.",
-        "Kanpai Music",
-        "Kenobi Songs Publishing",
-        "More Water From Nazareth",
-        "Music Of Windswept",
-        "New Jerusalem Music",
-        "Producer Pizza",
-        "Queen Of The Planet Productions",
-        "Rose Mac Music",
-        "Roynet Music",
-        "Sony / ATV Music Publishing",
-        "Sony/ATV Songs LLC",
-        "Sony/ATV Tunes LLC",
-        "Sounwave TDE Productions",
-        "Stephen 1daniable Publishing",
-        "TDE Music",
-        "Tenyor Music",
-        "Tommy Black",
-        "Uncle Buddies Music Inc.",
-        "Universal Music Corp.",
-        "WB Music Corp.",
-        "Westbury Music",
-        "Whiskey Valentine Publishing",
-        "Zale Epstein",
-        "1da Boi Productions Inc.",
-        "Sony DADC, Terre Haute",
-        "Sony DADC, Terre Haute"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02547 27091 7",
-        "ASCAP",
-        "BMI",
-        "STIM",
-        "SOCAN",
-        "DIDX-1072790 1 A01",
-        "IFPI L329",
-        "not entered",
-        "DIDX-1072790 1 A05",
-        "IFPI L329",
-        "IFPI 5083",
-        "DIDX-1072790 1 A09",
-        "IFPI L329",
-        "IFPI 507E",
-        "DIDX-1072790 1 B02",
-        "IFPI L329",
-        "IFPI 5083",
-        "DIDX-1072790 1 B02",
-        "IFPI L329",
-        "IFPI 50H3",
-        "not entered",
-        "IFPI L329",
-        "IFPI 5081"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/7531525-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "B0022958-02",
-      "thumb": "https://i.discogs.com/CUBefRU8TNIWJ41b0p6PDnjbKXmvmW9OxHi0rjfEwaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzE1/MjUtMTQ0MzQwNTg4/MC03MTYxLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/s6asueD0_pmjmj8amHSncGjMlHdgOWvCLeDjs5aPblg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzE1/MjUtMTQ0MzQwNTg4/MC03MTYxLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/7531525",
-      "community": {
-        "want": 984,
-        "have": 1322
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Terre Haute Pressing",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6827610,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
       "country": "South Korea",
       "year": "2015",
       "format": [
@@ -2466,6 +2454,16 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 6827610,
       "barcode": [
         "8808678261103"
       ],
@@ -2473,9 +2471,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/6827610-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "DS31203",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/f86WbzGvCQ-ejuYI6HnYzil1Z7TZCBg6X7VvrpJonxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjc2/MTAtMTU4OTIwMjEy/My01NTc0LmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/HGyXVqwyKb2bceUDAuccTLI2UJgT4CZUKf18-GvJny0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjc2/MTAtMTU4OTIwMjEy/My01NTc0LmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/6827610",
@@ -2495,9 +2495,19 @@
       ]
     },
     {
-      "id": 14722559,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
+      "country": "Colombia",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Universal Music Latin Entertainment"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop",
         "Funk / Soul"
@@ -2507,6 +2517,38 @@
         "Jazzy Hip-Hop",
         "G-Funk"
       ],
+      "id": 36805411,
+      "barcode": [
+        "602547270917"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 810214,
+      "master_url": "https://api.discogs.com/masters/810214",
+      "uri": "/release/36805411-Kendrick-Lamar-To-Pimp-A-Butterfly",
+      "catno": "0602547270917",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
+      "thumb": "https://i.discogs.com/e5Pgmnns6zY5x23xWVbPDpQalAr8khW3gPoTl2Q1oy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA1/NDExLTE3NzM4MDIx/NDUtODM1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BYD-T0Nu9wkoQrEaN17xvqMpq2PNuNZaK-YYXJ44BcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA1/NDExLTE3NzM4MDIx/NDUtODM1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36805411",
+      "community": {
+        "want": 26,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Europe",
       "year": "2015",
       "format": [
@@ -2595,6 +2637,16 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "G-Funk"
+      ],
+      "id": 14722559,
       "barcode": [
         "6 02547 31100 9",
         "602547311009",
@@ -2613,15 +2665,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 810214,
       "master_url": "https://api.discogs.com/masters/810214",
       "uri": "/release/14722559-Kendrick-Lamar-To-Pimp-A-Butterfly",
       "catno": "B0023464-01",
+      "title": "Kendrick Lamar - To Pimp A Butterfly",
       "thumb": "https://i.discogs.com/LYQh-Ik7Y3ty2rfbORyz7D2_FtLKWaPVc1Mq8XDoe6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIy/NTU5LTE1ODQ1ODI0/OTMtMTk5Ni5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/jsFjyjhyDacUI8hkYPmT52xeLiPYE8XrRdEdNIHtrjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIy/NTU5LTE1ODQ1ODI0/OTMtMTk5Ni5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/14722559",
       "community": {
-        "want": 2515,
-        "have": 9834
+        "want": 2512,
+        "have": 9832
       },
       "format_quantity": 2,
       "formats": [
@@ -2635,2307 +2689,8 @@
           ]
         }
       ]
-    },
-    {
-      "id": 36805411,
-      "title": "Kendrick Lamar - To Pimp A Butterfly",
-      "master_id": 810214,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Jazzy Hip-Hop",
-        "G-Funk"
-      ],
-      "country": "Colombia",
-      "year": "2015",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Universal Music Latin Entertainment"
-      ],
-      "type": "release",
-      "barcode": [
-        "602547270917"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/810214",
-      "uri": "/release/36805411-Kendrick-Lamar-To-Pimp-A-Butterfly",
-      "catno": "0602547270917",
-      "thumb": "https://i.discogs.com/e5Pgmnns6zY5x23xWVbPDpQalAr8khW3gPoTl2Q1oy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA1/NDExLTE3NzM4MDIx/NDUtODM1Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/BYD-T0Nu9wkoQrEaN17xvqMpq2PNuNZaK-YYXJ44BcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA1/NDExLTE3NzM4MDIx/NDUtODM1Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/36805411",
-      "community": {
-        "want": 26,
-        "have": 6
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
     }
   ],
-  "master": {
-    "id": 810214,
-    "genres": [
-      "Hip Hop",
-      "Jazz",
-      "Funk / Soul"
-    ],
-    "styles": [
-      "Conscious",
-      "Jazzy Hip-Hop",
-      "G-Funk",
-      "Neo Soul"
-    ],
-    "main_release": 6781286,
-    "most_recent_release": 37832334,
-    "resource_url": "https://api.discogs.com/masters/810214",
-    "uri": "https://www.discogs.com/master/810214-Kendrick-Lamar-To-Pimp-A-Butterfly",
-    "versions_url": "https://api.discogs.com/masters/810214/versions",
-    "main_release_url": "https://api.discogs.com/releases/6781286",
-    "most_recent_release_url": "https://api.discogs.com/releases/37832334",
-    "num_for_sale": 761,
-    "lowest_price": 3.49,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/8ZD7MZypmyxuliTV-Czyy03rA9ou2E-BL2rhIFTLUlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg",
-        "resource_url": "https://i.discogs.com/8ZD7MZypmyxuliTV-Czyy03rA9ou2E-BL2rhIFTLUlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg",
-        "uri150": "https://i.discogs.com/DLLwBajeE5HO1FICW8LDkw5OVdP2_v0yDI1k9VtajXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg",
-        "width": 600,
-        "height": 600
-      }
-    ],
-    "year": 2015,
-    "tracklist": [
-      {
-        "position": "1",
-        "type_": "track",
-        "title": "Wesley's Theory",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Ash Riser",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1437320,
-            "resource_url": "https://api.discogs.com/artists/1437320"
-          },
-          {
-            "name": "Dr. Dre",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 50513,
-            "resource_url": "https://api.discogs.com/artists/50513"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Whitney Alford",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4306584,
-            "resource_url": "https://api.discogs.com/artists/4306584"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "George Clinton",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 29262,
-            "resource_url": "https://api.discogs.com/artists/29262"
-          },
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Horns",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Flying Lotus",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 365248,
-            "resource_url": "https://api.discogs.com/artists/365248"
-          },
-          {
-            "name": "Ronald \"Flip\" Colson",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3016497,
-            "resource_url": "https://api.discogs.com/artists/3016497"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Boris Gardiner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 48417,
-            "resource_url": "https://api.discogs.com/artists/48417"
-          },
-          {
-            "name": "George Clinton",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 29262,
-            "resource_url": "https://api.discogs.com/artists/29262"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Ronald \"Flip\" Colson",
-            "anv": "Ronald Colson",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3016497,
-            "resource_url": "https://api.discogs.com/artists/3016497"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Steven Ellison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1394898,
-            "resource_url": "https://api.discogs.com/artists/1394898"
-          }
-        ],
-        "duration": "4:47"
-      },
-      {
-        "position": "2",
-        "type_": "track",
-        "title": "For Free? (Interlude)",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Darlene Tibbs",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4306583,
-            "resource_url": "https://api.discogs.com/artists/4306583"
-          },
-          {
-            "name": "Brandon \"Eugene\" Owens",
-            "anv": "Brandon Owens",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 4007903,
-            "resource_url": "https://api.discogs.com/artists/4007903"
-          },
-          {
-            "name": "Robert \"Sput\" Searight",
-            "anv": "Robert Sput Searight",
-            "join": "",
-            "role": "Drums",
-            "tracks": "",
-            "id": 1102239,
-            "resource_url": "https://api.discogs.com/artists/1102239"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Craig Brockman",
-            "anv": "",
-            "join": "",
-            "role": "Organ",
-            "tracks": "",
-            "id": 203949,
-            "resource_url": "https://api.discogs.com/artists/203949"
-          },
-          {
-            "name": "Robert Glasper",
-            "anv": "",
-            "join": "",
-            "role": "Piano",
-            "tracks": "",
-            "id": 340568,
-            "resource_url": "https://api.discogs.com/artists/340568"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          }
-        ],
-        "duration": "2:10"
-      },
-      {
-        "position": "3",
-        "type_": "track",
-        "title": "King Kunta",
-        "extraartists": [
-          {
-            "name": "Whitney Alford",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4306584,
-            "resource_url": "https://api.discogs.com/artists/4306584"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Ahmad (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 190399,
-            "resource_url": "https://api.discogs.com/artists/190399"
-          },
-          {
-            "name": "Johnny Burns (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2525495,
-            "resource_url": "https://api.discogs.com/artists/2525495"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Michael Jackson",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 15885,
-            "resource_url": "https://api.discogs.com/artists/15885"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          }
-        ],
-        "duration": "3:54"
-      },
-      {
-        "position": "4",
-        "type_": "track",
-        "title": "Institutionalized",
-        "extraartists": [
-          {
-            "name": "Taz Arnold",
-            "anv": "Taz Arnold Aka Ti$a",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "Gabriel Noel",
-            "anv": "",
-            "join": "",
-            "role": "Cello",
-            "tracks": "",
-            "id": 998656,
-            "resource_url": "https://api.discogs.com/artists/998656"
-          },
-          {
-            "name": "Pedro Castro (4)",
-            "anv": "",
-            "join": "",
-            "role": "Clarinet",
-            "tracks": "",
-            "id": 4306731,
-            "resource_url": "https://api.discogs.com/artists/4306731"
-          },
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Snoop Dogg",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 132084,
-            "resource_url": "https://api.discogs.com/artists/132084"
-          },
-          {
-            "name": "Sam Barsh",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 304731,
-            "resource_url": "https://api.discogs.com/artists/304731"
-          },
-          {
-            "name": "Rahki",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1869597,
-            "resource_url": "https://api.discogs.com/artists/1869597"
-          },
-          {
-            "name": "Paul Cartwright",
-            "anv": "",
-            "join": "",
-            "role": "Violin",
-            "tracks": "",
-            "id": 747685,
-            "resource_url": "https://api.discogs.com/artists/747685"
-          },
-          {
-            "name": "Columbus Smith",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983564,
-            "resource_url": "https://api.discogs.com/artists/2983564"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Sam Barsh",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 304731,
-            "resource_url": "https://api.discogs.com/artists/304731"
-          }
-        ],
-        "duration": "4:31"
-      },
-      {
-        "position": "5",
-        "type_": "track",
-        "title": "These Walls",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "Greg Moore",
-            "anv": "Gregory Moore",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 328654,
-            "resource_url": "https://api.discogs.com/artists/328654"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Robert Glasper",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 340568,
-            "resource_url": "https://api.discogs.com/artists/340568"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "Larance Dopson",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "1500 Or Nothin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1628709,
-            "resource_url": "https://api.discogs.com/artists/1628709"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "James Fauntleroy II",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 737282,
-            "resource_url": "https://api.discogs.com/artists/737282"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          }
-        ],
-        "duration": "5:00"
-      },
-      {
-        "position": "6",
-        "type_": "track",
-        "title": "U",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Jessica Vielmas",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4306732,
-            "resource_url": "https://api.discogs.com/artists/4306732"
-          },
-          {
-            "name": "SZA (2)",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 3272791,
-            "resource_url": "https://api.discogs.com/artists/3272791"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "Whoarei",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3677926,
-            "resource_url": "https://api.discogs.com/artists/3677926"
-          },
-          {
-            "name": "Kamasi Washington",
-            "anv": "",
-            "join": "",
-            "role": "Tenor Saxophone",
-            "tracks": "",
-            "id": 324293,
-            "resource_url": "https://api.discogs.com/artists/324293"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          }
-        ],
-        "duration": "4:28"
-      },
-      {
-        "position": "7",
-        "type_": "track",
-        "title": "Alright",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Candace Wakefield",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1435720,
-            "resource_url": "https://api.discogs.com/artists/1435720"
-          },
-          {
-            "name": "Pharrell Williams",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 90037,
-            "resource_url": "https://api.discogs.com/artists/90037"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Pharrell Williams",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 90037,
-            "resource_url": "https://api.discogs.com/artists/90037"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Pharrell Williams",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 90037,
-            "resource_url": "https://api.discogs.com/artists/90037"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          }
-        ],
-        "duration": "3:39"
-      },
-      {
-        "position": "8",
-        "type_": "track",
-        "title": "For Sale? (Interlude)",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Preston Harris",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307060,
-            "resource_url": "https://api.discogs.com/artists/4307060"
-          },
-          {
-            "name": "SZA (2)",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 3272791,
-            "resource_url": "https://api.discogs.com/artists/3272791"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "Taz Arnold Aka Ti$a",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          }
-        ],
-        "duration": "4:51"
-      },
-      {
-        "position": "9",
-        "type_": "track",
-        "title": "Momma",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Lalah Hathaway",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 25809,
-            "resource_url": "https://api.discogs.com/artists/25809"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Knxwledge",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1548485,
-            "resource_url": "https://api.discogs.com/artists/1548485"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Vocoder",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Glen Boothe",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3604781,
-            "resource_url": "https://api.discogs.com/artists/3604781"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Lalah Hathaway",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 25809,
-            "resource_url": "https://api.discogs.com/artists/25809"
-          },
-          {
-            "name": "Rahsaan Patterson",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 61430,
-            "resource_url": "https://api.discogs.com/artists/61430"
-          },
-          {
-            "name": "Rex Rideout",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 127582,
-            "resource_url": "https://api.discogs.com/artists/127582"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          }
-        ],
-        "duration": "4:43"
-      },
-      {
-        "position": "10",
-        "type_": "track",
-        "title": "Hood Politics",
-        "extraartists": [
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Bilal",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 17040,
-            "resource_url": "https://api.discogs.com/artists/17040"
-          },
-          {
-            "name": "Dion Friley",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307595,
-            "resource_url": "https://api.discogs.com/artists/4307595"
-          },
-          {
-            "name": "Preston Harris",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307060,
-            "resource_url": "https://api.discogs.com/artists/4307060"
-          },
-          {
-            "name": "Robert \"Sput\" Searight",
-            "anv": "Robert Sput Searight",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 1102239,
-            "resource_url": "https://api.discogs.com/artists/1102239"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Tae Beast",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2596318,
-            "resource_url": "https://api.discogs.com/artists/2596318"
-          },
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Sufjan Stevens",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 202598,
-            "resource_url": "https://api.discogs.com/artists/202598"
-          }
-        ],
-        "duration": "4:52"
-      },
-      {
-        "position": "11",
-        "type_": "track",
-        "title": "How Much A Dollar Cost",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "James Fauntleroy II",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 737282,
-            "resource_url": "https://api.discogs.com/artists/737282"
-          },
-          {
-            "name": "Ronald Isley",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 144910,
-            "resource_url": "https://api.discogs.com/artists/144910"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "LoveDragon",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4304537,
-            "resource_url": "https://api.discogs.com/artists/4304537"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "James Fauntleroy II",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 737282,
-            "resource_url": "https://api.discogs.com/artists/737282"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "Josef Liemberg",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Ronald Isley",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 144910,
-            "resource_url": "https://api.discogs.com/artists/144910"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          }
-        ],
-        "duration": "4:21"
-      },
-      {
-        "position": "12",
-        "type_": "track",
-        "title": "Complexion (A Zulu Love)",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "JaVont\u00e9",
-            "anv": "Javonte",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4448516,
-            "resource_url": "https://api.discogs.com/artists/4448516"
-          },
-          {
-            "name": "Lalah Hathaway",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 25809,
-            "resource_url": "https://api.discogs.com/artists/25809"
-          },
-          {
-            "name": "Monte Neuble",
-            "anv": "Talkbox Monte",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1516333,
-            "resource_url": "https://api.discogs.com/artists/1516333"
-          },
-          {
-            "name": "Pete Rock",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 14295,
-            "resource_url": "https://api.discogs.com/artists/14295"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "The Antydote",
-            "anv": "",
-            "join": "",
-            "role": "Co-producer",
-            "tracks": "",
-            "id": 3662800,
-            "resource_url": "https://api.discogs.com/artists/3662800"
-          },
-          {
-            "name": "Rapsody (2)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1110720,
-            "resource_url": "https://api.discogs.com/artists/1110720"
-          },
-          {
-            "name": "Robert Glasper",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 340568,
-            "resource_url": "https://api.discogs.com/artists/340568"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "Pete Rock",
-            "anv": "",
-            "join": "",
-            "role": "Scratches",
-            "tracks": "",
-            "id": 14295,
-            "resource_url": "https://api.discogs.com/artists/14295"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Rapsody (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1110720,
-            "resource_url": "https://api.discogs.com/artists/1110720"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          }
-        ],
-        "duration": "4:23"
-      },
-      {
-        "position": "13",
-        "type_": "track",
-        "title": "The Blacker The Berry",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Lalah Hathaway",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 25809,
-            "resource_url": "https://api.discogs.com/artists/25809"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Ronald Bruner Jr.",
-            "anv": "",
-            "join": "",
-            "role": "Drums",
-            "tracks": "",
-            "id": 774300,
-            "resource_url": "https://api.discogs.com/artists/774300"
-          },
-          {
-            "name": "Assassin",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 164355,
-            "resource_url": "https://api.discogs.com/artists/164355"
-          },
-          {
-            "name": "Lalah Hathaway",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 25809,
-            "resource_url": "https://api.discogs.com/artists/25809"
-          },
-          {
-            "name": "Robert Glasper",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 340568,
-            "resource_url": "https://api.discogs.com/artists/340568"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "Boi-1da",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1302193,
-            "resource_url": "https://api.discogs.com/artists/1302193"
-          },
-          {
-            "name": "Stephen Kozmeniuk",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1937157,
-            "resource_url": "https://api.discogs.com/artists/1937157"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Brent Kolatalo",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 754473,
-            "resource_url": "https://api.discogs.com/artists/754473"
-          },
-          {
-            "name": "Jes\u00fas Izquierdo",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1311405,
-            "resource_url": "https://api.discogs.com/artists/1311405"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Matthew Jehu Samuels",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1302191,
-            "resource_url": "https://api.discogs.com/artists/1302191"
-          },
-          {
-            "name": "Stephen Kozmeniuk",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1937157,
-            "resource_url": "https://api.discogs.com/artists/1937157"
-          }
-        ],
-        "duration": "5:28"
-      },
-      {
-        "position": "14",
-        "type_": "track",
-        "title": "You Ain't Gotta Lie (Momma Said)",
-        "extraartists": [
-          {
-            "name": "JaVont\u00e9",
-            "anv": "Javonte",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4448516,
-            "resource_url": "https://api.discogs.com/artists/4448516"
-          },
-          {
-            "name": "Preston Harris",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307060,
-            "resource_url": "https://api.discogs.com/artists/4307060"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Wyann Vaughn",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 579943,
-            "resource_url": "https://api.discogs.com/artists/579943"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Larrance Dopson",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 2402706,
-            "resource_url": "https://api.discogs.com/artists/2402706"
-          },
-          {
-            "name": "LoveDragon",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4304537,
-            "resource_url": "https://api.discogs.com/artists/4304537"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          }
-        ],
-        "duration": "4:01"
-      },
-      {
-        "position": "15",
-        "type_": "track",
-        "title": "I",
-        "extraartists": [
-          {
-            "name": "Candace Wakefield",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 1435720,
-            "resource_url": "https://api.discogs.com/artists/1435720"
-          },
-          {
-            "name": "Dave Free",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 2596320,
-            "resource_url": "https://api.discogs.com/artists/2596320"
-          },
-          {
-            "name": "Devon Downing",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307596,
-            "resource_url": "https://api.discogs.com/artists/4307596"
-          },
-          {
-            "name": "Dion Friley",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307595,
-            "resource_url": "https://api.discogs.com/artists/4307595"
-          },
-          {
-            "name": "Edwin Orellana",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307594,
-            "resource_url": "https://api.discogs.com/artists/4307594"
-          },
-          {
-            "name": "Taz Arnold",
-            "anv": "Taz Arnold Aka Ti$a",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 245416,
-            "resource_url": "https://api.discogs.com/artists/245416"
-          },
-          {
-            "name": "William Sweat",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4307597,
-            "resource_url": "https://api.discogs.com/artists/4307597"
-          },
-          {
-            "name": "Chris Smith (42)",
-            "anv": "",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1771278,
-            "resource_url": "https://api.discogs.com/artists/1771278"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Kendall Lewis",
-            "anv": "",
-            "join": "",
-            "role": "Drums",
-            "tracks": "",
-            "id": 1028658,
-            "resource_url": "https://api.discogs.com/artists/1028658"
-          },
-          {
-            "name": "Keith Askey",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 4100069,
-            "resource_url": "https://api.discogs.com/artists/4100069"
-          },
-          {
-            "name": "Sam Barsh",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 304731,
-            "resource_url": "https://api.discogs.com/artists/304731"
-          },
-          {
-            "name": "Rahki",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 1869597,
-            "resource_url": "https://api.discogs.com/artists/1869597"
-          },
-          {
-            "name": "Rahki",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1869597,
-            "resource_url": "https://api.discogs.com/artists/1869597"
-          },
-          {
-            "name": "Chris Jasper",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 348865,
-            "resource_url": "https://api.discogs.com/artists/348865"
-          },
-          {
-            "name": "Columbus Smith",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983564,
-            "resource_url": "https://api.discogs.com/artists/2983564"
-          },
-          {
-            "name": "Ernie Isley",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 218691,
-            "resource_url": "https://api.discogs.com/artists/218691"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Marvin Isley",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 348866,
-            "resource_url": "https://api.discogs.com/artists/348866"
-          },
-          {
-            "name": "Ronald Isley",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 144910,
-            "resource_url": "https://api.discogs.com/artists/144910"
-          },
-          {
-            "name": "Rudolph Isley",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 398348,
-            "resource_url": "https://api.discogs.com/artists/398348"
-          }
-        ],
-        "duration": "5:36"
-      },
-      {
-        "position": "16",
-        "type_": "track",
-        "title": "Mortal Man",
-        "extraartists": [
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Alto Saxophone",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "JaVont\u00e9",
-            "anv": "Javonte",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4448516,
-            "resource_url": "https://api.discogs.com/artists/4448516"
-          },
-          {
-            "name": "James Fauntleroy II",
-            "anv": "James Fauntleroy",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 737282,
-            "resource_url": "https://api.discogs.com/artists/737282"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "Stephen \"Thundercat\" Bruner",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          },
-          {
-            "name": "Marlon Williams (3)",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 599883,
-            "resource_url": "https://api.discogs.com/artists/599883"
-          },
-          {
-            "name": "Junius Bervine",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 62063,
-            "resource_url": "https://api.discogs.com/artists/62063"
-          },
-          {
-            "name": "Robert Glasper",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards",
-            "tracks": "",
-            "id": 340568,
-            "resource_url": "https://api.discogs.com/artists/340568"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Ambrose Akinmusire",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 325243,
-            "resource_url": "https://api.discogs.com/artists/325243"
-          },
-          {
-            "name": "Josef Leimberg",
-            "anv": "",
-            "join": "",
-            "role": "Trumpet",
-            "tracks": "",
-            "id": 175286,
-            "resource_url": "https://api.discogs.com/artists/175286"
-          },
-          {
-            "name": "Fehintola Anikulapo Kuti",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 365839,
-            "resource_url": "https://api.discogs.com/artists/365839"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Stephen Bruner",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1573878,
-            "resource_url": "https://api.discogs.com/artists/1573878"
-          }
-        ],
-        "duration": "12:07"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Kendrick Lamar",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 1778977,
-        "resource_url": "https://api.discogs.com/artists/1778977",
-        "thumbnail_url": "https://i.discogs.com/-4vxB93xDoTNY5faNzlkTlt8bPNHnMqyHoQ36LrUgfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Nzg5/NzctMTc2MDQ4Mjc1/OC03MTYxLmpwZWc.jpeg"
-      }
-    ],
-    "title": "To Pimp A Butterfly",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=Z-48u_uWMHY",
-        "title": "Kendrick Lamar - Alright (Official Music Video)",
-        "description": "Kendrick Lamar's official music video for \"Alright\" from the the album, To Pimp A Butterfly.\n\nTo Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPi",
-        "duration": 415,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=hRK7PVJFbS8",
-        "title": "Kendrick Lamar - King Kunta",
-        "description": "To Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPimpAButterflyGP \nAmazon CD: http://smarturl.it/ToPimpAButterflyCD \nAmazon MP3: http://smarturl.",
-        "duration": 238,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=_ZTYgq4EoRo",
-        "title": "Kendrick Lamar - For Free?",
-        "description": "To Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPimpAButterflyGP \nAmazon CD: http://smarturl.it/ToPimpAButterflyCD \nAmazon MP3: http://smarturl.",
-        "duration": 133,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=drV0QatqbRU",
-        "title": "Kendrick Lamar - These Walls (Explicit) ft. Bilal, Anna Wise, Thundercat",
-        "description": "To Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPimpAButterflyGP \nAmazon CD: http://smarturl.it/ToPimpAButterflyCD \nAmazon MP3: http://smarturl.",
-        "duration": 492,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=8aShfolR6w8",
-        "title": "Kendrick Lamar - i (Official Video)",
-        "description": "Out now on iTunes: http://smarturl.it/iKL\nGoogle Play: http://smarturl.it/iKLgp\nAmazon: http://smarturl.it/iKLamz",
-        "duration": 283,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=4wZytWFm7x0",
-        "title": "Kendrick Lamar - God Is Gangsta",
-        "description": "To Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPimpAButterflyGP \nAmazon CD: http://smarturl.it/ToPimpAButterflyCD \nAmazon MP3: http://smarturl.",
-        "duration": 441,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=_ZTYgq4EoRo",
-        "title": "Kendrick Lamar - For Free?",
-        "description": "To Pimp A Butterfly album out now\niTunes: http://smarturl.it/ToPimpAButterfly \nTarget: http://smarturl.it/ToPimpAButterflyTG\nGoogle Play: http://smarturl.it/ToPimpAButterflyGP \nAmazon CD: http://smarturl.it/ToPimpAButterflyCD \nAmazon MP3: http://smarturl.",
-        "duration": 133,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 810214,
   "genres": [
     {

@@ -8,17 +8,6 @@
   },
   "results": [
     {
-      "id": 33463154,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "UK & US",
       "year": "2024",
       "format": [
@@ -35,14 +24,25 @@
         "4AD Ltd."
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 33463154,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/33463154-Adrianne-Lenker-Bright-Future",
       "catno": "none",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/aKPulzYvmOQIyIgEzgUJURjIDjssODpTw4She1EJ8wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDYz/MTU0LTE3NDI0NzYz/ODYtOTQ0Ni5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/d00sHdYGMM3nOpknl7N4dkf0oSct3HIeqXVfNQ1fRGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDYz/MTU0LTE3NDI0NzYz/ODYtOTQ0Ni5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/33463154",
@@ -65,9 +65,23 @@
       ]
     },
     {
-      "id": 32509515,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records",
+        "Adrianne Lenker",
+        "Adrianne Lenker",
+        "4AD Ltd.",
+        "Double Infinity",
+        "Sugar Mountain",
+        "Bonati Mastering"
+      ],
+      "type": "release",
       "genre": [
         "Rock",
         "Folk, World, & Country"
@@ -76,6 +90,38 @@
         "Alternative Rock",
         "Folk"
       ],
+      "id": 30169220,
+      "barcode": [
+        "4582616193025"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3430172,
+      "master_url": "https://api.discogs.com/masters/3430172",
+      "uri": "/release/30169220-Adrianne-Lenker-Bright-Future",
+      "catno": "4AD0649CDJP",
+      "title": "Adrianne Lenker - Bright Future",
+      "thumb": "https://i.discogs.com/MRbRmHTt_9qlPo9JEyTDuPB9MBh4L0G5C-t_jp1fRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/C_h9KIugyhbiOYHGJj1996U_Makd53-0y6CRTcKT-nE/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30169220",
+      "community": {
+        "want": 82,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "USA & Europe",
       "year": "2024",
       "format": [
@@ -92,6 +138,15 @@
         "Bonati Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 32509515,
       "barcode": [
         "1 91400 06492 8",
         "4AD4609CD 6745-CD-6175 24-050-09-2",
@@ -102,9 +157,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/32509515-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649CD",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/kWL7u6cmfP66WQqSG_Pmq3f16pj9ZXx_FgCpN9_HbH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA5/NTE1LTE3MzM2NjQx/NDgtOTk4NS5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/Lf29wUKTcBTxZBOFMoIixv66mYM7AsXhJ_kSH_eI4EU/rs:fit/g:sm/q:90/h:326/w:354/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA5/NTE1LTE3MzM2NjQx/NDgtOTk4NS5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/32509515",
@@ -124,74 +181,6 @@
       ]
     },
     {
-      "id": 30169220,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
-      "country": "Japan",
-      "year": "2024",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "4AD",
-        "Beat Records",
-        "Adrianne Lenker",
-        "Adrianne Lenker",
-        "4AD Ltd.",
-        "Double Infinity",
-        "Sugar Mountain",
-        "Bonati Mastering"
-      ],
-      "type": "release",
-      "barcode": [
-        "4582616193025"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3430172",
-      "uri": "/release/30169220-Adrianne-Lenker-Bright-Future",
-      "catno": "4AD0649CDJP",
-      "thumb": "https://i.discogs.com/MRbRmHTt_9qlPo9JEyTDuPB9MBh4L0G5C-t_jp1fRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/C_h9KIugyhbiOYHGJj1996U_Makd53-0y6CRTcKT-nE/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MjIwLTE3MTg4MTYx/NjgtNDcyNC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30169220",
-      "community": {
-        "want": 83,
-        "have": 32
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30169163,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "UK & Europe",
       "year": "2024",
       "format": [
@@ -213,6 +202,15 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30169163,
       "barcode": [
         "1 91400 06490 4",
         "BN03846-01 A1 4AD0649LP A  S= BONATI MASTERING NYC",
@@ -222,9 +220,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30169163-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649LPE",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/h4xQrv9IqpaoOgTcGQQqla4ZHkUbk2dFw8-iazxZv5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTYzLTE3MTEzMjE4/MDctMzE3MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/R9yI3is6FZnxc8GGv62S58_GhFNNFHvpin6jB192leY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTYzLTE3MTEzMjE4/MDctMzE3MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30169163",
@@ -247,17 +247,6 @@
       ]
     },
     {
-      "id": 30202751,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "USA & Europe",
       "year": "2024",
       "format": [
@@ -275,6 +264,15 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30202751,
       "barcode": [
         "1 91400 06492 8",
         "191400064928",
@@ -290,15 +288,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30202751-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649CD",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/jJbBpWuRFcmNJ99D7CIyLrAgzUq7KT6KB9RJ7pj6Gvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAy/NzUxLTE3MTE3MzA5/ODUtODQ4My5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/TKn55Zk64DNWHtcsazJa0jKuH8wM6NIzTxY4rNB_qYg/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAy/NzUxLTE3MTE3MzA5/ODUtODQ4My5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30202751",
       "community": {
         "want": 258,
-        "have": 670
+        "have": 668
       },
       "format_quantity": 1,
       "formats": [
@@ -312,17 +312,6 @@
       ]
     },
     {
-      "id": 30139496,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "Japan",
       "year": "2024",
       "format": [
@@ -342,6 +331,15 @@
         "Bonati Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30139496,
       "barcode": [
         "4AD0649LP A 4 BONATI MASTERING NYC",
         "4AD0649LP B RE1 #1 BONATI MASTERING NYC",
@@ -351,9 +349,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30139496-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649LPJP",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/7JNBwIUx6buDYo335zdQPQj2eIGholRucVLFGTeohsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM5/NDk2LTE3MTIwOTky/MDEtOTUyNS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/mrtS9iQfmUN0nW-37lLfNOE8VcW884a93C2_Em_XqDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM5/NDk2LTE3MTIwOTky/MDEtOTUyNS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30139496",
@@ -375,17 +375,6 @@
       ]
     },
     {
-      "id": 30169109,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -404,6 +393,15 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30169109,
       "barcode": [
         "0191400064911",
         "4AD0549LP A 3 51 BONATI MASTERING NYC BN03246-01 A1",
@@ -413,15 +411,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30169109-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649LP",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/B5ftg1pmEYafJFBGSjJvbA4HPz7RYE7fMlZKIw18-9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTA5LTE3MTExMjcx/NDEtNTAxMy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Ml3qngBIMW-u7Bf6EhtLE0hsneqYOBmaCIPbVpB1nzA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY5/MTA5LTE3MTExMjcx/NDEtNTAxMy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30169109",
       "community": {
-        "want": 369,
-        "have": 1937
+        "want": 370,
+        "have": 1935
       },
       "format_quantity": 1,
       "formats": [
@@ -436,17 +436,6 @@
       ]
     },
     {
-      "id": 30376037,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "USA & Europe",
       "year": "2024",
       "format": [
@@ -462,6 +451,15 @@
         "Bonati Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30376037,
       "barcode": [
         "191400064942"
       ],
@@ -469,9 +467,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30376037-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649MC",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/C07iP_JwFwJzKEAnVLQf1VPfO-jo20sWOXAhcwvflN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc2/MDM3LTE3MjQwMDgy/MTUtOTkxNC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/-8frHf368tCIo-nq25xqlGMgExHAPQtZ1z0vHV4QMSA/rs:fit/g:sm/q:90/h:940/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc2/MDM3LTE3MjQwMDgy/MTUtOTkxNC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30376037",
@@ -488,17 +488,6 @@
       ]
     },
     {
-      "id": 30099599,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "USA & Canada",
       "year": "2024",
       "format": [
@@ -518,6 +507,15 @@
         "Bonati Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30099599,
       "barcode": [
         "1 91400 06490 4",
         "4AD0649LP A 4 BONATI MASTERING NYC",
@@ -527,14 +525,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30099599-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649LPE",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/Fjg7YUEx1a3ZpEPlhoEE3-cViHUe5o09A1QOXI_XaW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/uGzQK0JBJh-yjPytvBsvgAz1lBhWzZ7LBV8g774C9fk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30099599",
       "community": {
-        "want": 553,
+        "want": 552,
         "have": 1948
       },
       "format_quantity": 1,
@@ -551,17 +551,6 @@
       ]
     },
     {
-      "id": 30698185,
-      "title": "Adrianne Lenker - Bright Future",
-      "master_id": 3430172,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Alternative Rock",
-        "Folk"
-      ],
       "country": "US",
       "year": "2024",
       "format": [
@@ -580,6 +569,15 @@
         "Bonati Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk"
+      ],
+      "id": 30698185,
       "barcode": [
         "0191400064911",
         "1 91400 06491 1",
@@ -590,15 +588,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3430172,
       "master_url": "https://api.discogs.com/masters/3430172",
       "uri": "/release/30698185-Adrianne-Lenker-Bright-Future",
       "catno": "4AD0649LP",
+      "title": "Adrianne Lenker - Bright Future",
       "thumb": "https://i.discogs.com/fAYrUvgnbSFPh0B2FPCNaXOAqL2QiUj3Akw3eFBJcvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk4/MTg1LTE3MTU5MDA1/NjctMzk3NC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/vR35XFDjFof7RnLAO05UHEYuyF9z_-KG2pEcfErx6Z8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk4/MTg1LTE3MTU5MDA1/NjctMzk3NC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30698185",
       "community": {
         "want": 283,
-        "have": 962
+        "have": 960
       },
       "format_quantity": 1,
       "formats": [
@@ -613,619 +613,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 3430172,
-    "genres": [
-      "Rock",
-      "Folk, World, & Country"
-    ],
-    "styles": [
-      "Alternative Rock",
-      "Folk"
-    ],
-    "main_release": 30099599,
-    "most_recent_release": 33463154,
-    "resource_url": "https://api.discogs.com/masters/3430172",
-    "uri": "https://www.discogs.com/master/3430172-AdriAnne-Lenker-Bright-Future",
-    "versions_url": "https://api.discogs.com/masters/3430172/versions",
-    "main_release_url": "https://api.discogs.com/releases/30099599",
-    "most_recent_release_url": "https://api.discogs.com/releases/33463154",
-    "num_for_sale": 131,
-    "lowest_price": 10.0,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/X9ptcJvGRNPt1NJDHeMlzILQkPCTXYZJa7D8NEOUWmg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/X9ptcJvGRNPt1NJDHeMlzILQkPCTXYZJa7D8NEOUWmg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/Fjg7YUEx1a3ZpEPlhoEE3-cViHUe5o09A1QOXI_XaW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3Njc2MzEx/OTYtNTEwOC5qcGVn.jpeg",
-        "width": 599,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/RJrSgkcGdkaJK5e8ewPmSENkhtHVqlpwlk96m1u7BYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDE5NjI2/ODgtMjgyMC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/RJrSgkcGdkaJK5e8ewPmSENkhtHVqlpwlk96m1u7BYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDE5NjI2/ODgtMjgyMC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/EdR2JVSgoCx14lZRjHmR8Gr4RMJV0R3h-uBsk5trdl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDE5NjI2/ODgtMjgyMC5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/pIdr7explOUmJDfKSHiNEb6b7_jIYLoAZsIp3VVNevU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMy/OTAtMjc5Ny5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/pIdr7explOUmJDfKSHiNEb6b7_jIYLoAZsIp3VVNevU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMy/OTAtMjc5Ny5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/TtpJ3yHhqLf3PUDJNA18bqIcwO2d1md18CEdRtBEmnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMy/OTAtMjc5Ny5qcGVn.jpeg",
-        "width": 600,
-        "height": 596
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/a6rE9o-yKGoGa4BMlPF56NoTUVpHLRvcFKWSvGMK22A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjctOTM1MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/a6rE9o-yKGoGa4BMlPF56NoTUVpHLRvcFKWSvGMK22A/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjctOTM1MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/AilQwn3XTxRJ4uP0MOEGdk6wAiwelRPcbsNqISZz8L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjctOTM1MC5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/yRNiVsOP0r9gMlUjOTtjiugMiFUDAKTMzN07C0QQZ88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjgtMjcwMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/yRNiVsOP0r9gMlUjOTtjiugMiFUDAKTMzN07C0QQZ88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjgtMjcwMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/NeGR962qq6JLrUSSTwJiZD4FXnHW3gNnROa1nGzWvg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA0NTgy/NjgtMjcwMi5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/RvS7hLzHUujIzbP4SrlJwGhwlU4vtyqyjAQkWSQug3Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/NDgtMTExNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/RvS7hLzHUujIzbP4SrlJwGhwlU4vtyqyjAQkWSQug3Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/NDgtMTExNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/wOC9jVQSczJst3oEZrzMjxBo_4dYaToJt7PtCpU_DRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/NDgtMTExNS5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/QP5rrn1OkyEIh3ad3mqwsXm4as35xVKNuN_r1KEqHEs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/ODEtMjY3Mi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/QP5rrn1OkyEIh3ad3mqwsXm4as35xVKNuN_r1KEqHEs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/ODEtMjY3Mi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/t_ip_C5R8oAbAEWvB-TKol5xnmZtp9NdZe44J772_I0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDMz/ODEtMjY3Mi5qcGVn.jpeg",
-        "width": 599,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/wcXaq9wULOS8_hZGek_vPc4zbSb58Nsb0LGQvJROWuo/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/OTEtOTQxNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/wcXaq9wULOS8_hZGek_vPc4zbSb58Nsb0LGQvJROWuo/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/OTEtOTQxNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/9xIp8w2aS8XUpvwFHGO1jJTwsvCkvQk9t7bf72XPMBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/OTEtOTQxNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 397
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/0e5eg-ZFpLGc06xEAKWwQfdNt3qD0n0x2Uggf2murTM/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM1/MjYtMTgzNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/0e5eg-ZFpLGc06xEAKWwQfdNt3qD0n0x2Uggf2murTM/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM1/MjYtMTgzNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/MBE2yyrp8tF3m_XIlct3utV7yKhoik6Flx4731WV3Ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM1/MjYtMTgzNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 399
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/2DLXqGGazuLEpEbMW6F2Aq-oUBKuvIN4hwnhuXDfWNA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/MzQtNzg1MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/2DLXqGGazuLEpEbMW6F2Aq-oUBKuvIN4hwnhuXDfWNA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/MzQtNzg1MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/F1vOmwwvmjKPPImYDgvitvHZrvs04SK6txSTg8CQ2vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3MTA1MDM0/MzQtNzg1MC5qcGVn.jpeg",
-        "width": 600,
-        "height": 599
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/2uvmYpRPa7o1fUPLIJXraVWmb4igVirbXt_u3naRAOk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDU2OTcw/NjUtMTEwMC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/2uvmYpRPa7o1fUPLIJXraVWmb4igVirbXt_u3naRAOk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDU2OTcw/NjUtMTEwMC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/Y2bUIIj4KnkFHCHEZprXbDwRd-unkMIb1Pk2zRuku94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk5/NTk5LTE3NDU2OTcw/NjUtMTEwMC5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      }
-    ],
-    "year": 2024,
-    "tracklist": [
-      {
-        "position": "A1",
-        "type_": "track",
-        "title": "Real House",
-        "extraartists": [
-          {
-            "name": "Nick Hakim",
-            "anv": "",
-            "join": "",
-            "role": "Piano",
-            "tracks": "",
-            "id": 3294095,
-            "resource_url": "https://api.discogs.com/artists/3294095"
-          },
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Violin [A Few Tiny Notes On The Violin In The Beginning]",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          },
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "A2",
-        "type_": "track",
-        "title": "Sadness As A Gift",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, 12-String Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Electric Guitar [Stratocaster]",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          },
-          {
-            "name": "Nick Hakim",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Piano",
-            "tracks": "",
-            "id": 3294095,
-            "resource_url": "https://api.discogs.com/artists/3294095"
-          },
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Violin",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "A3",
-        "type_": "track",
-        "title": "Fool",
-        "extraartists": [
-          {
-            "name": "Phil Weinrobe",
-            "anv": "Philip Weinrobe",
-            "join": "",
-            "role": "Piano",
-            "tracks": "",
-            "id": 4408388,
-            "resource_url": "https://api.discogs.com/artists/4408388"
-          },
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar, Electric Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "A4",
-        "type_": "track",
-        "title": "No Machine",
-        "extraartists": [
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          },
-          {
-            "name": "Nick Hakim",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 3294095,
-            "resource_url": "https://api.discogs.com/artists/3294095"
-          },
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "A5",
-        "type_": "track",
-        "title": "Free Treasure",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "A6",
-        "type_": "track",
-        "title": "Vampire Empire",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Percussion",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          },
-          {
-            "name": "Nick Hakim",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Piano",
-            "tracks": "",
-            "id": 3294095,
-            "resource_url": "https://api.discogs.com/artists/3294095"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Violin",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B1",
-        "type_": "track",
-        "title": "Evol",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Piano",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Violin",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B2",
-        "type_": "track",
-        "title": "Candle Flame",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Piano",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          },
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Violin",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B3",
-        "type_": "track",
-        "title": "Already Lost",
-        "extraartists": [
-          {
-            "name": "Phil Weinrobe",
-            "anv": "Philip Weinrobe",
-            "join": "",
-            "role": "Banjo",
-            "tracks": "",
-            "id": 4408388,
-            "resource_url": "https://api.discogs.com/artists/4408388"
-          },
-          {
-            "name": "Noah Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Percussion",
-            "tracks": "",
-            "id": 10757374,
-            "resource_url": "https://api.discogs.com/artists/10757374"
-          },
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B4",
-        "type_": "track",
-        "title": "Cell Phone Says",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B5",
-        "type_": "track",
-        "title": "Donut Seam",
-        "extraartists": [
-          {
-            "name": "Josefin Runsteen",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 4022438,
-            "resource_url": "https://api.discogs.com/artists/4022438"
-          },
-          {
-            "name": "Mat Davidson",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 2158078,
-            "resource_url": "https://api.discogs.com/artists/2158078"
-          },
-          {
-            "name": "Nick Hakim",
-            "anv": "",
-            "join": "",
-            "role": "Voice",
-            "tracks": "",
-            "id": 3294095,
-            "resource_url": "https://api.discogs.com/artists/3294095"
-          },
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Acoustic Guitar",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      },
-      {
-        "position": "B6",
-        "type_": "track",
-        "title": "Ruined",
-        "extraartists": [
-          {
-            "name": "Adrianne Lenker",
-            "anv": "",
-            "join": "",
-            "role": "Voice, Piano, Performer [Crystal]",
-            "tracks": "",
-            "id": 4389708,
-            "resource_url": "https://api.discogs.com/artists/4389708"
-          }
-        ],
-        "duration": ""
-      }
-    ],
-    "artists": [
-      {
-        "name": "AdriAnne Lenker",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 4389708,
-        "resource_url": "https://api.discogs.com/artists/4389708",
-        "thumbnail_url": "https://i.discogs.com/N8FHn3v0DEpYt4HCydMQO4RW24kF0g_RryrQrT5lVgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzODk3/MDgtMTYyOTIzNzIx/NC03MjE0LmpwZWc.jpeg"
-      }
-    ],
-    "title": "Bright Future",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=SVklcdvb4Yo",
-        "title": "Real House",
-        "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nReal House \u00b7 Adrianne Lenker\n\nBright Future\n\n\u2117 2024 Adrianne Lenker under exclusive license to 4AD Ltd\n\nReleased on: 2024-03-22\n\nAssociated  Performer, Producer: Adrianne Lenker\nStudio Musician: Josefin R",
-        "duration": 359,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=GmycsQ30obg",
-        "title": "adrianne lenker - sadness as a gift (lyric video)",
-        "description": "\u2018sadness as a gift\u2019 by adrianne lenker, out now on 4ad. \nnew album 'bright future' out march 22nd, available to pre-order now: https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for",
-        "duration": 260,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=5yoJH_rmy8c",
-        "title": "adrianne lenker - fool (official video)",
-        "description": "\u2018fool\u2019 by adrianne lenker, out now on 4ad. \nnew album 'bright future' out march 22nd, available to pre-order now: https://adriannelenker.ffm.to/brightfuture\n\nvideo by noah lenker\nassistant camera: zo\u00eb lenker\nstarring: adrianne lenker, kenna lee-jones, lut",
-        "duration": 184,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=waMlVUBhObo",
-        "title": "adrianne lenker - no machine (official lyric video)",
-        "description": "'no machine' is taken from 'bright future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://www.i",
-        "duration": 181,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=lIU5YMp-l2A",
-        "title": "Adrianne Lenker - Free Treasure (Official Lyric Video)",
-        "description": "'Free Treasure' is taken from 'Bright Future' out 22nd March, via 4AD. https://adriannelenker.ffm.to/brightfuture\n\nLyrics:\nDo you wanna go to the river?\nI know this spot so deep and green\nWith wild raspberries and apple trees\nAnd rocks to climb between\nWa",
-        "duration": 216,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=sEIF-Z9QInk",
-        "title": "adrianne lenker - vampire empire (official lyric video)",
-        "description": "'vampire empire' is taken from 'bright future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://w",
-        "duration": 236,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=DpelfylmUSo",
-        "title": "adrianne lenker - evol (official lyric video)",
-        "description": "'evol' is taken from 'Bright Future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://www.instagr",
-        "duration": 255,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=GXH-bcDjG2o",
-        "title": "adrianne lenker - candleflame (official lyric video)",
-        "description": "'candleflame' is taken from 'bright future':https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://www.i",
-        "duration": 155,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=d99wt-8tSYk",
-        "title": "adrianne lenker - already lost (official lyric video)",
-        "description": "'already lost' is taken from 'bright future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://www",
-        "duration": 208,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=mTTR2X0Wn1Q",
-        "title": "adrianne lenker - cell phone says (official lyric video)",
-        "description": "'cell phone says' is taken from 'bright future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://",
-        "duration": 159,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Pt6EvTxWRzw",
-        "title": "adrianne lenker - donut seam (official lyric video)",
-        "description": "'donut seam' is taken from 'bright future': https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\nsign up for the mailing list: https://laylo.com/adriannelenker/9ScIn\n\ninstagram: https://www.i",
-        "duration": 146,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=6iJmIL83vas",
-        "title": "adrianne lenker - ruined (official video)",
-        "description": "'bright future' out now: https://adriannelenker.ffm.to/brightfuture\n\nnew european and north american tour dates: www.adriannelenker.com/tour\n\ndirected and produced by noah lenker\nstarring adrianne lenker, staci foster, oso and mossy\nfeaturing jewelry by M",
-        "duration": 314,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=YAOr1JsA26g",
-        "title": "Once A Bunch",
-        "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nOnce A Bunch \u00b7 Adrianne Lenker\n\nOnce A Bunch\n\n\u2117 2024 Adrianne Lenker under exclusive license to 4AD Ltd\n\nReleased on: 2024-08-06\n\nAssociated  Performer, Producer: Adrianne Lenker\nStudio Musician: Josefin ",
-        "duration": 300,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 3430172,
   "genres": [
     {

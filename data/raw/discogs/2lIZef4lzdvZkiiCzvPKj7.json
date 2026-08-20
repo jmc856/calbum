@@ -8,18 +8,6 @@
   },
   "results": [
     {
-      "id": 35850070,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Argentina",
       "year": "2024",
       "format": [
@@ -64,6 +52,16 @@
         "Plaza Independencia S.R.L."
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 35850070,
       "barcode": [
         "0 75678 61169 8",
         "075678611698"
@@ -72,15 +70,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/35850070-Charli-XCX-Brat",
       "catno": "075678611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/JXzvN1NiP6-bRl2T0IhOzsYLrwqTmFDDoX2HGBiwOuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODUw/MDcwLTE3NjQ5NjQ3/OTctNTQ5Mi5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/c1crn2JejMLdHkV2aqV107wl4vGihKDBApF8_Ga6lWw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODUw/MDcwLTE3NjQ5NjQ3/OTctNTQ5Mi5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/35850070",
       "community": {
         "want": 40,
-        "have": 56
+        "have": 54
       },
       "format_quantity": 1,
       "formats": [
@@ -94,18 +94,6 @@
       ]
     },
     {
-      "id": 30895959,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "USA, Canada & UK",
       "year": "2024",
       "format": [
@@ -152,6 +140,16 @@
         "Precision Record Pressing"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30895959,
       "barcode": [
         "075678611674",
         "075678609282",
@@ -166,14 +164,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30895959-Charli-XCX-Brat",
       "catno": "075678611674",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/vr7Zc-t29OViItVazo1TyLz5y0D-Fr9WvjbmQ4b29II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/OTU5LTE3MzQyMTQz/OTgtNTQwNy5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/-6TfH_hEnKAv4zQ6TACcWg0woATXaMes4P9QPnYk5t8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/OTU5LTE3MzQyMTQz/OTgtNTQwNy5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/30895959",
       "community": {
-        "want": 1852,
+        "want": 1851,
         "have": 4499
       },
       "format_quantity": 1,
@@ -192,9 +192,20 @@
       ]
     },
     {
-      "id": 32067675,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Atlantic",
+        "Blood Records"
+      ],
+      "type": "release",
       "genre": [
         "Electronic",
         "Pop"
@@ -204,6 +215,661 @@
         "Electro House",
         "Future Pop"
       ],
+      "id": 30895656,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30895656-Charli-XCX-Brat",
+      "catno": "075678608919",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/slaq8QHVzSnDmoMS2gv1HhOUF11LxgnFDSrarhZ8X9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NjU2LTE3MzQyMTMz/NzUtODM5NS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/yeIMRq5KKJqw3iRq7EOnigsWUrRjXQoC_e_mPtNkuFw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NjU2LTE3MzQyMTMz/NzUtODM5NS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30895656",
+      "community": {
+        "want": 1200,
+        "have": 1650
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black & White Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Atlantic",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation",
+        "Precision Record Pressing",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30984958,
+      "barcode": [
+        "0 75678 61167 4",
+        "075678611674",
+        "10-104045 / 075678611674 - A 279642E1/I",
+        "10-104045 / 075678611674 - B 279642E2/I",
+        "10-104045 / 075678611674 - A 279642E1/C",
+        "10-104045 / 075678611674 - B 279642E2/H",
+        "10-104045 / 075678611674 - A 279642E1/AB",
+        "10-104045 / 075678611674 - B 279642E2/X"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30984958-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/gsvG-deSshfGy6P1YvsPrc8ncH7C5bEP7wWqaB6EYg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg0/OTU4LTE3NDkyMjE5/MTEtNzA5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LvN0PHoKP186pgKeboIOLI_GVblmYxnux_HhiwiG-48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg0/OTU4LTE3NDkyMjE5/MTEtNzA5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30984958",
+      "community": {
+        "want": 581,
+        "have": 4700
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Atlantic Recording Corporation",
+        "Atlantic Recording Corporation"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30909993,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30909993-Charli-XCX-Brat",
+      "catno": "none",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/UWQfXv8UFzO3zLOEJdROdOvJASt_1LMzAE_z0SQMwqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/OTkzLTE3MTc4NzU4/NzItNDkyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/adPZBoX7azNos4xm6we9TakEIocuuxSR9TSO2G3KTNE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/OTkzLTE3MTc4NzU4/NzItNDkyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30909993",
+      "community": {
+        "want": 60,
+        "have": 27
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "24-bit 44.1kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA, Canada & UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Precision Record Pressing",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop",
+        "Synth-pop",
+        "Hyperpop",
+        "Electroclash",
+        "Electro"
+      ],
+      "id": 30891144,
+      "barcode": [
+        "075678611674",
+        "10-104045 / 075678611674-A 279642E1/C",
+        "10-104045 / 075678611674-B 279642E2/H",
+        "10-104045 / 075678611674-A 279642E1/AA",
+        "10-104045 / 075678611674-B 279642E2/R"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30891144-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/Ft21hD1op7eJI1gBZdACEZDwhazLqDexmL--rz--kkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkx/MTQ0LTE3MjcwNjgz/ODctMzU4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m9Ef7BYQabBdG1IcSuk7SEMivIlm85ygUMLyTR3NdM8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkx/MTQ0LTE3MjcwNjgz/ODctMzU4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30891144",
+      "community": {
+        "want": 2630,
+        "have": 15460
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black Translucent [Black Ice]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic",
+        "Warner Music Group",
+        "Atlantic Recording Corporation",
+        "Charli XCX Inc.",
+        "Charli XCX Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31789415,
+      "barcode": [
+        "0 75678 60423 2",
+        "075678604232"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/31789415-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/vnFIOc1axjGjK5C5K0To14BLrdc_O3GUAcjsuW9uVag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg5/NDE1LTE3Mjg4NDg4/MTAtODk1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JuQZGhRG8XK1fPOygonT8rnnP0fJxBJ62aVPyYZTrBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg5/NDE1LTE3Mjg4NDg4/MTAtODk1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31789415",
+      "community": {
+        "want": 511,
+        "have": 588
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow/Blue Half/Half",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK, Europe & US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic",
+        "Warner Music Group",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30900081,
+      "barcode": [
+        "075678608858",
+        "075678608858-12A SAFF",
+        "075678608858-12B SAFF",
+        "075678608858-7A SAFF",
+        "075678608858-7B SAFF"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30900081-Charli-XCX-Brat",
+      "catno": "075678608858",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/O5rj9sbvC-YER4qf1vuHQuDICpgPnTuLY1Bq_Taj0x0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/MDgxLTE3MTc3ODgw/MjQtNjg4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o4MznUYbNV4sTkAPbWe-JZn4F64l_N1d9tkZe_NU9iM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/MDgxLTE3MTc3ODgw/MjQtNjg4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30900081",
+      "community": {
+        "want": 889,
+        "have": 1430
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30907941,
+      "barcode": [
+        "0075678609275"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30907941-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/YM46okx_efOiHbBq9sjkOKA0s7HvTaaR6EHYsKZFRZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA3/OTQxLTE3MTc4NjQ3/MDItNTk3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/U2-hYOJQ0ZtJJ3_v7I1CiDyOhzzV5AeGwsk2rZfYym8/rs:fit/g:sm/q:90/h:490/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA3/OTQxLTE3MTc4NjQ3/MDItNTk3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30907941",
+      "community": {
+        "want": 464,
+        "have": 1084
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK, Europe & US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electroclash"
+      ],
+      "id": 32032082,
+      "barcode": [
+        "0 75678 60381 5",
+        "075678603815"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/32032082-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/zzAx7E8hpyeN0gMJy3hBPuh5mMKtdO-2-SOcHxJrJXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDMy/MDgyLTE3MjkyMTE2/NDUtMzQ5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ka3QZMrOBT0H2fCNIlVR7SyNWodGGFBtc4KFx6PC1H8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDMy/MDgyLTE3MjkyMTE2/NDUtMzQ5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32032082",
+      "community": {
+        "want": 359,
+        "have": 450
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black Translucent, PVC Sleeve",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Target",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House",
+        "Future Pop"
+      ],
+      "id": 30901749,
+      "barcode": [
+        "075678609268"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30901749-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/7dbOZWeAyEks-jlKfDnJDDdTa55knuNP5H_4GXRw8Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/NzQ5LTE3NjcxOTUw/NjctNzA5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qSYvq104PjLecMJAkL6_d1v9TXtiUPxHv40bT7pDDAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/NzQ5LTE3NjcxOTUw/NjctNzA5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30901749",
+      "community": {
+        "want": 1205,
+        "have": 3252
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink Black Splatter",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic",
+        "HMV",
+        "JB Hi-Fi",
+        "FNAC",
+        "GZ Media",
+        "HHV"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House",
+        "Future Pop"
+      ],
+      "id": 30895530,
+      "barcode": [
+        "75678608926"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30895530-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/6VyJ58uPi4sD7bYJHR56-KbQZQwhfWPBPSyTs_dYMoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NTMwLTE3MTgxMTk3/MzAtODA1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/D-jhWfKuhbU5LCpUK-u38aR3H8eTeNxqmjL_HhdxW-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NTMwLTE3MTgxMTk3/MzAtODA1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30895530",
+      "community": {
+        "want": 687,
+        "have": 1644
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink With Black Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK & US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Box Set",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 31015588,
+      "barcode": [
+        "75678606212"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/31015588-Charli-XCX-Brat",
+      "catno": "075678608650",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/UqOxlixo5SCW8EK240XaJwIBTgF0BkbbVNFPS3LyFhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE1/NTg4LTE3MTg5MjIy/OTktNzM5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/v40h0UjWOmJ0li4pbdJfc6XxqIsQywOLmQw3e3YaKUo/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE1/NTg4LTE3MTg5MjIy/OTktNzM5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31015588",
+      "community": {
+        "want": 202,
+        "have": 118
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
       "country": "US",
       "year": "2024",
       "format": [
@@ -219,6 +885,16 @@
         "Turntable Lab"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House",
+        "Future Pop"
+      ],
+      "id": 32067675,
       "barcode": [
         "075678604096"
       ],
@@ -226,9 +902,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32067675-Charli-XCX-Brat",
       "catno": "075678611674",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/3Ysrwz3IH8tk0tdC89dzpTS0ddsvWtTSsesHOVhG5Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDY3/Njc1LTE3MzMzNzMz/MTEtOTU2Ny5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/5fESQMZ1eOxmqMr6_HUgDNynaIB12wOzMiB7wAcXiOU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDY3/Njc1LTE3MzMzNzMz/MTEtOTU2Ny5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32067675",
@@ -252,17 +930,6 @@
       ]
     },
     {
-      "id": 31063643,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Europe",
       "year": "2024",
       "format": [
@@ -306,6 +973,15 @@
         "Sonopress"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31063643,
       "barcode": [
         "0 75678 61169 8",
         "075678611698",
@@ -323,15 +999,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31063643-Charli-XCX-Brat",
       "catno": "075678611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/ZHmxJ8JhlHyYCEYuRvId-gtAZEGeFb9tTeiMJQDlGgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDYz/NjQzLTE3MTk1NzY4/MDYtOTU1NS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/jGKoPgcH-gc5cC0ZKbs7iTOOhF2qUtO8L4zpd9aAnUw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDYz/NjQzLTE3MTk1NzY4/MDYtOTU1NS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31063643",
       "community": {
-        "want": 247,
-        "have": 1450
+        "want": 245,
+        "have": 1449
       },
       "format_quantity": 1,
       "formats": [
@@ -345,577 +1023,6 @@
       ]
     },
     {
-      "id": 30900081,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "UK, Europe & US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Vinyl",
-        "7\"",
-        "45 RPM",
-        "Single",
-        "All Media",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic",
-        "Warner Music Group",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678608858",
-        "075678608858-12A SAFF",
-        "075678608858-12B SAFF",
-        "075678608858-7A SAFF",
-        "075678608858-7B SAFF"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30900081-Charli-XCX-Brat",
-      "catno": "075678608858",
-      "thumb": "https://i.discogs.com/O5rj9sbvC-YER4qf1vuHQuDICpgPnTuLY1Bq_Taj0x0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/MDgxLTE3MTc3ODgw/MjQtNjg4Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/o4MznUYbNV4sTkAPbWe-JZn4F64l_N1d9tkZe_NU9iM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/MDgxLTE3MTc3ODgw/MjQtNjg4Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30900081",
-      "community": {
-        "want": 889,
-        "have": 1430
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        },
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "7\"",
-            "45 RPM",
-            "Single"
-          ]
-        },
-        {
-          "name": "All Media",
-          "qty": "1",
-          "descriptions": [
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31789415,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic",
-        "Warner Music Group",
-        "Atlantic Recording Corporation",
-        "Charli XCX Inc.",
-        "Charli XCX Inc."
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60423 2",
-        "075678604232"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/31789415-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/vnFIOc1axjGjK5C5K0To14BLrdc_O3GUAcjsuW9uVag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg5/NDE1LTE3Mjg4NDg4/MTAtODk1NC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/JuQZGhRG8XK1fPOygonT8rnnP0fJxBJ62aVPyYZTrBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzg5/NDE1LTE3Mjg4NDg4/MTAtODk1NC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/31789415",
-      "community": {
-        "want": 511,
-        "have": 588
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Yellow/Blue Half/Half",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30984958,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "Europe",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Stereo"
-      ],
-      "label": [
-        "Atlantic",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation",
-        "Precision Record Pressing",
-        "GZ Media"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 61167 4",
-        "075678611674",
-        "10-104045 / 075678611674 - A 279642E1/I",
-        "10-104045 / 075678611674 - B 279642E2/I",
-        "10-104045 / 075678611674 - A 279642E1/C",
-        "10-104045 / 075678611674 - B 279642E2/H",
-        "10-104045 / 075678611674 - A 279642E1/AB",
-        "10-104045 / 075678611674 - B 279642E2/X"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30984958-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/gsvG-deSshfGy6P1YvsPrc8ncH7C5bEP7wWqaB6EYg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg0/OTU4LTE3NDkyMjE5/MTEtNzA5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/LvN0PHoKP186pgKeboIOLI_GVblmYxnux_HhiwiG-48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg0/OTU4LTE3NDkyMjE5/MTEtNzA5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30984958",
-      "community": {
-        "want": 580,
-        "have": 4705
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Black Translucent",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Stereo"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30895656,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House",
-        "Future Pop"
-      ],
-      "country": "UK",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Numbered"
-      ],
-      "label": [
-        "Atlantic",
-        "Blood Records"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30895656-Charli-XCX-Brat",
-      "catno": "075678608919",
-      "thumb": "https://i.discogs.com/slaq8QHVzSnDmoMS2gv1HhOUF11LxgnFDSrarhZ8X9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NjU2LTE3MzQyMTMz/NzUtODM5NS5wbmc.jpeg",
-      "cover_image": "https://i.discogs.com/yeIMRq5KKJqw3iRq7EOnigsWUrRjXQoC_e_mPtNkuFw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NjU2LTE3MzQyMTMz/NzUtODM5NS5wbmc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30895656",
-      "community": {
-        "want": 1200,
-        "have": 1651
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Black & White Marble",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Numbered"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 32032082,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electroclash"
-      ],
-      "country": "UK, Europe & US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Stereo"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60381 5",
-        "075678603815"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/32032082-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/zzAx7E8hpyeN0gMJy3hBPuh5mMKtdO-2-SOcHxJrJXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDMy/MDgyLTE3MjkyMTE2/NDUtMzQ5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/Ka3QZMrOBT0H2fCNIlVR7SyNWodGGFBtc4KFx6PC1H8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDMy/MDgyLTE3MjkyMTE2/NDUtMzQ5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/32032082",
-      "community": {
-        "want": 359,
-        "have": 450
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Black Translucent, PVC Sleeve",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Stereo"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30907941,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "UK & Europe",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic",
-        "Rough Trade"
-      ],
-      "type": "release",
-      "barcode": [
-        "0075678609275"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30907941-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/YM46okx_efOiHbBq9sjkOKA0s7HvTaaR6EHYsKZFRZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA3/OTQxLTE3MTc4NjQ3/MDItNTk3My5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/U2-hYOJQ0ZtJJ3_v7I1CiDyOhzzV5AeGwsk2rZfYym8/rs:fit/g:sm/q:90/h:490/w:506/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA3/OTQxLTE3MTc4NjQ3/MDItNTk3My5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30907941",
-      "community": {
-        "want": 465,
-        "have": 1085
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Orange Translucent",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30895530,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House",
-        "Future Pop"
-      ],
-      "country": "Europe",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic",
-        "HMV",
-        "JB Hi-Fi",
-        "FNAC",
-        "GZ Media",
-        "HHV"
-      ],
-      "type": "release",
-      "barcode": [
-        "75678608926"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30895530-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/6VyJ58uPi4sD7bYJHR56-KbQZQwhfWPBPSyTs_dYMoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NTMwLTE3MTgxMTk3/MzAtODA1MC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/D-jhWfKuhbU5LCpUK-u38aR3H8eTeNxqmjL_HhdxW-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NTMwLTE3MTgxMTk3/MzAtODA1MC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30895530",
-      "community": {
-        "want": 687,
-        "have": 1644
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Pink With Black Splatter",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31015588,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "UK & US",
-      "year": "2024",
-      "format": [
-        "CD",
-        "Album",
-        "Box Set",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "75678606212"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/31015588-Charli-XCX-Brat",
-      "catno": "075678608650",
-      "thumb": "https://i.discogs.com/UqOxlixo5SCW8EK240XaJwIBTgF0BkbbVNFPS3LyFhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE1/NTg4LTE3MTg5MjIy/OTktNzM5NS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/v40h0UjWOmJ0li4pbdJfc6XxqIsQywOLmQw3e3YaKUo/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE1/NTg4LTE3MTg5MjIy/OTktNzM5NS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/31015588",
-      "community": {
-        "want": 202,
-        "have": 118
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        },
-        {
-          "name": "Box Set",
-          "qty": "1",
-          "descriptions": [
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30901749,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House",
-        "Future Pop"
-      ],
-      "country": "US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Target",
-        "Precision Record Pressing"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678609268"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30901749-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/7dbOZWeAyEks-jlKfDnJDDdTa55knuNP5H_4GXRw8Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/NzQ5LTE3NjcxOTUw/NjctNzA5MS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/qSYvq104PjLecMJAkL6_d1v9TXtiUPxHv40bT7pDDAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/NzQ5LTE3NjcxOTUw/NjctNzA5MS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30901749",
-      "community": {
-        "want": 1208,
-        "have": 3253
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Pink Black Splatter",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31258453,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Russia",
       "year": "2024",
       "format": [
@@ -959,6 +1066,15 @@
         "Sterling Sound"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31258453,
       "barcode": [
         "0 75678 61169 8",
         "075678611698",
@@ -974,9 +1090,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31258453-Charli-XCX-Brat",
       "catno": "075678611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/6xKFp_o3Lzv0kruyPg9eDHLhcbGa5zQGxSKUg2Hv6fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU4/NDUzLTE3MjEzMzk4/NzUtNTA0NS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Zod-a-auYXCa2HdFXb2-USBv8Vot9e9mvhhDDC4p6Bs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU4/NDUzLTE3MjEzMzk4/NzUtNTA0NS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31258453",
@@ -997,18 +1115,6 @@
       ]
     },
     {
-      "id": 30911376,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "USA, Canada & UK",
       "year": "2024",
       "format": [
@@ -1022,6 +1128,16 @@
         "Atlantic"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30911376,
       "barcode": [
         "0 75678 60609 0",
         "075678606090"
@@ -1030,14 +1146,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30911376-Charli-XCX-Brat",
       "catno": "075678606090",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/AFsxaogGq7FX3kb8QdiRNJyQc1KcR9Fur1IjpdV1QXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEx/Mzc2LTE3MTc4ODg5/ODEtNTAzNi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/V4165KR91F-FnayIoEYz6Y7hgRMJbHr4Y5v1r--DyOA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEx/Mzc2LTE3MTc4ODg5/ODEtNTAzNi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30911376",
       "community": {
-        "want": 670,
+        "want": 669,
         "have": 19
       },
       "format_quantity": 1,
@@ -1056,209 +1174,173 @@
       ]
     },
     {
-      "id": 30909993,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "Worldwide",
-      "year": "2024",
-      "format": [
-        "File",
-        "WAV",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Atlantic Recording Corporation",
-        "Atlantic Recording Corporation"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30909993-Charli-XCX-Brat",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/UWQfXv8UFzO3zLOEJdROdOvJASt_1LMzAE_z0SQMwqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/OTkzLTE3MTc4NzU4/NzItNDkyMC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/adPZBoX7azNos4xm6we9TakEIocuuxSR9TSO2G3KTNE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/OTkzLTE3MTc4NzU4/NzItNDkyMC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30909993",
-      "community": {
-        "want": 60,
-        "have": 27
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "15",
-          "text": "24-bit 44.1kHz",
-          "descriptions": [
-            "WAV",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30891144,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop",
-        "Synth-pop",
-        "Hyperpop",
-        "Electroclash",
-        "Electro"
-      ],
-      "country": "USA, Canada & UK",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Precision Record Pressing",
-        "GZ Media"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678611674",
-        "10-104045 / 075678611674-A 279642E1/C",
-        "10-104045 / 075678611674-B 279642E2/H",
-        "10-104045 / 075678611674-A 279642E1/AA",
-        "10-104045 / 075678611674-B 279642E2/R"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30891144-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/Ft21hD1op7eJI1gBZdACEZDwhazLqDexmL--rz--kkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkx/MTQ0LTE3MjcwNjgz/ODctMzU4OS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/m9Ef7BYQabBdG1IcSuk7SEMivIlm85ygUMLyTR3NdM8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODkx/MTQ0LTE3MjcwNjgz/ODctMzU4OS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30891144",
-      "community": {
-        "want": 2630,
-        "have": 15479
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Black Translucent [Black Ice]",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30912861,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "US",
+      "country": "UK, Europe & US",
       "year": "2024",
       "format": [
         "Vinyl",
         "LP",
         "Album",
-        "Limited Edition"
+        "Limited Edition",
+        "Picture Disc",
+        "Stereo"
       ],
       "label": [
-        "Atlantic",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation",
-        "Warner Music Group",
-        "Sony Music Publishing",
-        "BMG Rights Management (UK) Limited",
-        "Cirkut Breaker LLC",
-        "Universal Music Corp.",
-        "Universal Music Publishing International Ltd.",
-        "Omer Fedi Music",
-        "Electric Feel Music",
-        "Songs Of Universal",
-        "Songs of Universal, Inc.",
-        "Back Hair Music Publishing",
-        "Two Hands And A Bit Publishing",
-        "Good Soldier Songs",
-        "Concord Music Publishing",
-        "Warner/Chappell",
-        "Savoir Faire",
-        "EMI Blackwood Music Inc.",
-        "Warp Music Publishing",
-        "Warner Chappell Publishing",
-        "RICO Publishing",
-        "Sony Music Scandinavia",
-        "EMI Music Publishing",
-        "Sleeper Sounds",
-        "Henson Recording Studios",
-        "Westlake Studios",
-        "A2F Studios, Miami, FL",
-        "Larrabee Sound Studios",
-        "The Nest",
-        "Sterling Sound",
-        "Urban Outfitters"
+        "Atlantic"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 30924528,
       "barcode": [
-        "ASCAP",
-        "BMI",
-        "SACEM",
-        "STIM"
+        "075678609312"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30912861-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/DJ8nQSad6DlBcy8iWssjNFFzTKQyrRT6oRy7Uf4OR_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEy/ODYxLTE3MTc5MTc0/NTktNDU5MS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/6TGqysDFEitSdl6lxpRpYCXKbuBJ0xIjPg9kQNV5DaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEy/ODYxLTE3MTc5MTc0/NTktNDU5MS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30912861",
+      "uri": "/release/30924528-Charli-XCX-Brat",
+      "catno": "075678609312",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/GBMVXg91b3iZT8DVzQ7JQXAw13ZBJmK9Zvq4_5qde3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/NTI4LTE3MTg4Mjk1/NDItODYwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EnINhPDxu8SfK2GIdseIVwOu2kZNKr-ApyQvG-fRFCo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/NTI4LTE3MTg4Mjk1/NDItODYwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30924528",
       "community": {
-        "want": 402,
-        "have": 568
+        "want": 797,
+        "have": 971
       },
       "format_quantity": 1,
       "formats": [
         {
           "name": "Vinyl",
           "qty": "1",
-          "text": "Orange Swirl Translucent",
+          "text": "Blue",
           "descriptions": [
             "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31965911,
+      "barcode": [
+        "0 75678 60408 9",
+        "075678604089"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/31965911-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/cOUCemtq-zipHz699vx519QPneuvgp5-09mvxz4AioU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY1/OTExLTE3Mjg1OTk4/NDItNDY0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/khsuxk1Rtscj9kWzxxPH4wxEYvqrW1TN7JNidKKYfvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY1/OTExLTE3Mjg1OTk4/NDItNDY0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31965911",
+      "community": {
+        "want": 374,
+        "have": 371
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Neon Translucent [Highlighter Yellow]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 30946447,
+      "barcode": [
+        "0 75678 60865 0",
+        "075678608650",
+        "[Warner Music Logo] 58441118/0075678611698 21",
+        "IFPI LB46",
+        "IFPI 0765"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30946447-Charli-XCX-Brat",
+      "catno": "075678608650",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/DZNQrzCjaAUUj3yDTKmoBJ6g1kFChKCNX9kw_48Tk3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/NDQ3LTE3MzA3NzAy/OTctNDk5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/e5PNswzSSOsBZpUM120Kemr3HqlJv7iqartXdt_yij4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/NDQ3LTE3MzA3NzAy/OTctNDk5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30946447",
+      "community": {
+        "want": 496,
+        "have": 1425
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Signed Insert",
+          "descriptions": [
             "Album",
             "Limited Edition"
           ]
@@ -1266,160 +1348,66 @@
       ]
     },
     {
-      "id": 35294620,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "China",
-      "year": "2024",
-      "format": [
-        "Cassette",
-        "Album",
-        "Unofficial Release"
-      ],
-      "label": [
-        "Sony Music"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/35294620-Charli-XCX-Brat",
-      "catno": "2018",
-      "thumb": "https://i.discogs.com/WFppq_3SwEzh6OHcx2d6B2ZmCkPdvLdlezJaB55KQ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk0/NjIwLTE3NTk2ODk0/OTAtNjE5My5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/kD-_AeVL6cjQPGuSv5y1zp3bz_D_vhYEYY1jFhiN18Y/rs:fit/g:sm/q:90/h:925/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk0/NjIwLTE3NTk2ODk0/OTAtNjE5My5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35294620",
-      "community": {
-        "want": 25,
-        "have": 3
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Cassette",
-          "qty": "1",
-          "descriptions": [
-            "Album",
-            "Unofficial Release"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30926157,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "USA, Canada & UK",
       "year": "2024",
       "format": [
-        "Cassette",
+        "Vinyl",
+        "LP",
         "Album",
+        "Limited Edition",
+        "Picture Disc",
         "Stereo"
       ],
       "label": [
-        "Atlantic",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation",
-        "Warner Music Group",
-        "Sony Music Publishing",
-        "BMG Rights Management (UK) Limited",
-        "Cirkut Breaker LLC",
-        "Universal Music Corp.",
-        "Universal Music Publishing International Ltd.",
-        "Omer Fedi Music",
-        "Electric Feel Music",
-        "Songs Of Universal",
-        "Songs of Universal, Inc.",
-        "Back Hair Music Publishing",
-        "Two Hands And A Bit Publishing",
-        "Good Soldier Songs",
-        "Concord Music Publishing",
-        "Warner/Chappell",
-        "Savoir Faire",
-        "EMI Blackwood Music Inc.",
-        "Warp Music Publishing",
-        "Warner Chappell Publishing",
-        "RICO Publishing",
-        "Sony Music Scandinavia",
-        "EMI Music Publishing",
-        "Sleeper Sounds",
-        "Henson Recording Studios",
-        "Westlake Studios",
-        "A2F Studios, Miami, FL",
-        "Larrabee Sound Studios",
-        "The Nest",
-        "Sterling Sound"
+        "Atlantic"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 30930126,
       "barcode": [
-        "0 75678 61168 1",
-        "075678611681",
-        "ASCAP",
-        "BMI",
-        "SACEM",
-        "STIM"
+        "075678606113",
+        "075678608865"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30926157-Charli-XCX-Brat",
-      "catno": "075678611681",
-      "thumb": "https://i.discogs.com/wYKJxB08LqJ_FqQCcFslY2bx9TZRFBAVdZZAGzHo7Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/MTU3LTE3MTgwNDI1/OTktNTI1MC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/9DtzENtl37xtVjyU2dq9PqpmN_fBAoLabuXnxEKPW5k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/MTU3LTE3MTgwNDI1/OTktNTI1MC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30926157",
+      "uri": "/release/30930126-Charli-XCX-Brat",
+      "catno": "none",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/WGHUcL2HDYMHdqpw8emRclh7m_wWJzWgL1aWRjHXNzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMw/MTI2LTE3MTkyNDc1/MTgtMTkzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2QgQXFS086kjzXxfPzaS8NyE_xcmEvAj0M9SAD7UBUo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMw/MTI2LTE3MTkyNDc1/MTgtMTkzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30930126",
       "community": {
-        "want": 363,
-        "have": 830
+        "want": 833,
+        "have": 1376
       },
       "format_quantity": 1,
       "formats": [
         {
-          "name": "Cassette",
+          "name": "Vinyl",
           "qty": "1",
-          "text": "Transparent Black",
+          "text": "Red",
           "descriptions": [
+            "LP",
             "Album",
+            "Limited Edition",
+            "Picture Disc",
             "Stereo"
           ]
         }
       ]
     },
     {
-      "id": 30951097,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Brazil",
       "year": "2024",
       "format": [
@@ -1465,6 +1453,16 @@
         "Warner Music Brasil Ltda."
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30951097,
       "barcode": [
         "0 75678 61169 8",
         "075678611698",
@@ -1481,15 +1479,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30951097-Charli-XCX-Brat",
       "catno": "075678611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/1i_mDn_fv_2xRRnohYsONwY6FEP5iFTqTNnLDXrsedo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTUx/MDk3LTE3MTgyOTI5/NTMtNDk3My5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/Eoo5ToYqHeHuBrIRRWMXXFQuPWzqfEVOYEcclLlwXJ0/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTUx/MDk3LTE3MTgyOTI5/NTMtNDk3My5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/30951097",
       "community": {
         "want": 152,
-        "have": 198
+        "have": 197
       },
       "format_quantity": 1,
       "formats": [
@@ -1504,714 +1504,64 @@
       ]
     },
     {
-      "id": 31965911,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "Europe",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60408 9",
-        "075678604089"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/31965911-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/cOUCemtq-zipHz699vx519QPneuvgp5-09mvxz4AioU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY1/OTExLTE3Mjg1OTk4/NDItNDY0MC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/khsuxk1Rtscj9kWzxxPH4wxEYvqrW1TN7JNidKKYfvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY1/OTExLTE3Mjg1OTk4/NDItNDY0MC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/31965911",
-      "community": {
-        "want": 374,
-        "have": 371
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Yellow Neon Translucent [Highlighter Yellow]",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30946447,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "US",
-      "year": "2024",
-      "format": [
-        "CD",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60865 0",
-        "075678608650",
-        "[Warner Music Logo] 58441118/0075678611698 21",
-        "IFPI LB46",
-        "IFPI 0765"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30946447-Charli-XCX-Brat",
-      "catno": "075678608650",
-      "thumb": "https://i.discogs.com/DZNQrzCjaAUUj3yDTKmoBJ6g1kFChKCNX9kw_48Tk3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/NDQ3LTE3MzA3NzAy/OTctNDk5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/e5PNswzSSOsBZpUM120Kemr3HqlJv7iqartXdt_yij4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/NDQ3LTE3MzA3NzAy/OTctNDk5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30946447",
-      "community": {
-        "want": 496,
-        "have": 1426
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Signed Insert",
-          "descriptions": [
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30930126,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "USA, Canada & UK",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Picture Disc",
-        "Stereo"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678606113",
-        "075678608865"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30930126-Charli-XCX-Brat",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/WGHUcL2HDYMHdqpw8emRclh7m_wWJzWgL1aWRjHXNzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMw/MTI2LTE3MTkyNDc1/MTgtMTkzOS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/2QgQXFS086kjzXxfPzaS8NyE_xcmEvAj0M9SAD7UBUo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMw/MTI2LTE3MTkyNDc1/MTgtMTkzOS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30930126",
-      "community": {
-        "want": 833,
-        "have": 1377
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Red",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Picture Disc",
-            "Stereo"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30924528,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "UK, Europe & US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Picture Disc",
-        "Stereo"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678609312"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30924528-Charli-XCX-Brat",
-      "catno": "075678609312",
-      "thumb": "https://i.discogs.com/GBMVXg91b3iZT8DVzQ7JQXAw13ZBJmK9Zvq4_5qde3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/NTI4LTE3MTg4Mjk1/NDItODYwNC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/EnINhPDxu8SfK2GIdseIVwOu2kZNKr-ApyQvG-fRFCo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI0/NTI4LTE3MTg4Mjk1/NDItODYwNC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30924528",
-      "community": {
-        "want": 797,
-        "have": 972
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Blue",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Picture Disc",
-            "Stereo"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30985003,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "Europe",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60924 4",
-        "075678609244"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30985003-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/t-t_smqKNhm_5gAUMq4U_TKADQZ2cRao3uCKLvwnPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg1/MDAzLTE3MzU5MDUz/MzUtOTk5My5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/IXxGu1lZEuWRQNCKzOAc4-PDRDcd_5hd74wbKNtxWB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg1/MDAzLTE3MzU5MDUz/MzUtOTk5My5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30985003",
-      "community": {
-        "want": 536,
-        "have": 1426
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Clear With Pink Splatter",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 32014145,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60408 9",
-        "075678604089"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/32014145-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/9C4NpN7BrTzSwyjTxPJ4Ch4HX1z4kfsSpsb1P_3tR1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE0/MTQ1LTE3MzczMjY3/NjItMTU1NS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/sSuBl80PSdLUtyydykNjMADnis5nnfcyZYxGRSLCx7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE0/MTQ1LTE3MzczMjY3/NjItMTU1NS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/32014145",
-      "community": {
-        "want": 307,
-        "have": 482
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Yellow Translucent [Highlighter]",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30898854,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "UK, Europe & US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Picture Disc"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "75678 60929"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30898854-Charli-XCX-Brat",
-      "catno": "0075678611674",
-      "thumb": "https://i.discogs.com/JKrNvDqXsjv2zTVLLac8gje8iUKWzY6oaqiThK6E_3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/ODU0LTE3MTc3Nzk2/MzgtNzgzMS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/DQ1j4N0owzjqPws9z2tk7wupg-Z5YtXE1_k0czl8pJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/ODU0LTE3MTc3Nzk2/MzgtNzgzMS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30898854",
-      "community": {
-        "want": 840,
-        "have": 855
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Green",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Picture Disc"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 32416455,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House",
-        "Future Pop"
-      ],
-      "country": "UK",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60288 7",
-        "075678602887"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/32416455-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/ePJJ2pcligKAYuvng6SZ5CadmYmKvSTLvPfZyZvOYEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/NDU1LTE3NTIyNTU4/NjctNDU4OS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/ccwyc2MaJ1XwcdViB3LVZFMdXQB_SR5cYD4clNUw864/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/NDU1LTE3NTIyNTU4/NjctNDU4OS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/32416455",
-      "community": {
-        "want": 388,
-        "have": 447
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Yellow [Highlighter Yellow], PVC Sleeve",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30954394,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House"
-      ],
-      "country": "US",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition",
-        "Picture Disc",
-        "Stereo"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "0 75678 60610 6",
-        "075678606106"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30954394-Charli-XCX-Brat",
-      "catno": "075678609312",
-      "thumb": "https://i.discogs.com/wNF_bWsujweqS9qI11ffob32_Hul6tFUSi2ys4P5NX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU0/Mzk0LTE3MTgzMTcz/MTEtMjAzNS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/oFk8T2GRbHrTrhsIyBxbPfneig0bP_eHnDxMb7kQCP0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU0/Mzk0LTE3MTgzMTcz/MTEtMjAzNS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30954394",
-      "community": {
-        "want": 409,
-        "have": 227
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "With Poster",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Picture Disc",
-            "Stereo"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31805186,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "China",
       "year": "2024",
       "format": [
-        "Microcassette",
+        "Cassette",
+        "Album",
         "Unofficial Release"
       ],
       "label": [
-        "Chun Microcassette",
-        "Atlantic"
+        "Sony Music"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 35294620,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/31805186-Charli-XCX-Brat",
-      "catno": "075678611681",
-      "thumb": "https://i.discogs.com/_iGdCGr_vvkk2-8OO_PYVqQUjbxcKFk4iFGRzA4eY1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA1/MTg2LTE3MjcwODc1/MTMtODMxOC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/2CYiIq4x8wtpaxYk9yxL6VWgFywb837-WK784tEKvhk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA1/MTg2LTE3MjcwODc1/MTMtODMxOC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/31805186",
+      "uri": "/release/35294620-Charli-XCX-Brat",
+      "catno": "2018",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/WFppq_3SwEzh6OHcx2d6B2ZmCkPdvLdlezJaB55KQ6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk0/NjIwLTE3NTk2ODk0/OTAtNjE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kD-_AeVL6cjQPGuSv5y1zp3bz_D_vhYEYY1jFhiN18Y/rs:fit/g:sm/q:90/h:925/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk0/NjIwLTE3NTk2ODk0/OTAtNjE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35294620",
       "community": {
-        "want": 94,
-        "have": 4
+        "want": 25,
+        "have": 3
       },
       "format_quantity": 1,
       "formats": [
         {
-          "name": "Microcassette",
+          "name": "Cassette",
           "qty": "1",
           "descriptions": [
+            "Album",
             "Unofficial Release"
           ]
         }
       ]
     },
     {
-      "id": 30898326,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "USA, Canada & UK",
+      "country": "US",
       "year": "2024",
       "format": [
         "Vinyl",
         "LP",
         "Album",
         "Limited Edition"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678611674",
-        "075678608872"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30898326-Charli-XCX-Brat",
-      "catno": "075678611674",
-      "thumb": "https://i.discogs.com/4Cv7TQ55Cey45WU6j36kjDUgbBy9BmkNDgipLRDQYss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MzI2LTE3Mjk2NTU1/NjEtODgxNy5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/fz7dDbMLP_8Bes7NWWYv-UNeTY-JsGTULQEPruanYrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MzI2LTE3Mjk2NTU1/NjEtODgxNy5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30898326",
-      "community": {
-        "want": 692,
-        "have": 1206
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Clear With Black Swirl [Smoky Black Marble]",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 32561391,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "Japan",
-      "year": "2024",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Warner Music Group",
-        "Charli XCX Inc.",
-        "Charli XCX Inc.",
-        "Atlantic Recording Corporation",
-        "GZ Media",
-        "Precision Record Pressing"
-      ],
-      "type": "release",
-      "barcode": [
-        "075678609244",
-        "10-104045 / 075678611674 - A 279642E1/H",
-        "10-104045 / 075678611674 - B 279642E2/E"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/32561391-Charli-XCX-Brat",
-      "catno": "075678609244",
-      "thumb": "https://i.discogs.com/TjNGDrjM44hYscc_z9dFjrEqv6CU9xGv7ZrGalfZrF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTYx/MzkxLTE3MzQxNjM3/NzUtMzc3MC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/XmxAyTja9PUOVS7IsdSszr_RucdDfpczwewVgRsfOKs/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTYx/MzkxLTE3MzQxNjM3/NzUtMzc3MC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/32561391",
-      "community": {
-        "want": 279,
-        "have": 94
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Clear With Pink Splatter, OBI",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30373688,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Electro House",
-        "Dance-pop",
-        "Hyperpop",
-        "Synth-pop",
-        "Future Pop",
-        "Electro",
-        "Electroclash"
-      ],
-      "country": "USA, Canada & UK",
-      "year": "2024",
-      "format": [
-        "CD",
-        "Album"
       ],
       "label": [
         "Atlantic",
@@ -2247,58 +1597,9 @@
         "Larrabee Sound Studios",
         "The Nest",
         "Sterling Sound",
-        "Sonopress"
+        "Urban Outfitters"
       ],
       "type": "release",
-      "barcode": [
-        "0 75678 61169 8",
-        "075678611698",
-        "ASCAP",
-        "BMI",
-        "SACEM",
-        "STIM",
-        "[Warner 'W' logo] 58441118/0075678611698 21",
-        "IFPI LB 46",
-        "IFPI 0765",
-        "[Warner 'W' logo] 58441118/0075678611698 21",
-        "IFPI LB 46",
-        "IFPI 072Y",
-        "[Warner 'W' logo] 58441118/0075678611698 21",
-        "IFPI LB 46",
-        "IFPI 076Y",
-        "[Warner 'W' logo] 58441118/0075678611698 21",
-        "IFPI LB 46",
-        "IFPI 0757"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/30373688-Charli-XCX-Brat",
-      "catno": "075678611698",
-      "thumb": "https://i.discogs.com/XPU8lm0enBgkql-SbsGkJRj41JvHAn4GCmZ64aWgx9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/eMtZvOYWb1r4Be4bU4dNC6-BakERCVJKo6IEfbGqHoc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30373688",
-      "community": {
-        "want": 1380,
-        "have": 6335
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30900474,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
       "genre": [
         "Electronic",
         "Pop"
@@ -2308,6 +1609,190 @@
         "Electro House",
         "Dance-pop"
       ],
+      "id": 30912861,
+      "barcode": [
+        "ASCAP",
+        "BMI",
+        "SACEM",
+        "STIM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30912861-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/DJ8nQSad6DlBcy8iWssjNFFzTKQyrRT6oRy7Uf4OR_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEy/ODYxLTE3MTc5MTc0/NTktNDU5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6TGqysDFEitSdl6lxpRpYCXKbuBJ0xIjPg9kQNV5DaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEy/ODYxLTE3MTc5MTc0/NTktNDU5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30912861",
+      "community": {
+        "want": 402,
+        "have": 568
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Swirl Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA, Canada & UK",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Atlantic",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation",
+        "Warner Music Group",
+        "Sony Music Publishing",
+        "BMG Rights Management (UK) Limited",
+        "Cirkut Breaker LLC",
+        "Universal Music Corp.",
+        "Universal Music Publishing International Ltd.",
+        "Omer Fedi Music",
+        "Electric Feel Music",
+        "Songs Of Universal",
+        "Songs of Universal, Inc.",
+        "Back Hair Music Publishing",
+        "Two Hands And A Bit Publishing",
+        "Good Soldier Songs",
+        "Concord Music Publishing",
+        "Warner/Chappell",
+        "Savoir Faire",
+        "EMI Blackwood Music Inc.",
+        "Warp Music Publishing",
+        "Warner Chappell Publishing",
+        "RICO Publishing",
+        "Sony Music Scandinavia",
+        "EMI Music Publishing",
+        "Sleeper Sounds",
+        "Henson Recording Studios",
+        "Westlake Studios",
+        "A2F Studios, Miami, FL",
+        "Larrabee Sound Studios",
+        "The Nest",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30926157,
+      "barcode": [
+        "0 75678 61168 1",
+        "075678611681",
+        "ASCAP",
+        "BMI",
+        "SACEM",
+        "STIM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30926157-Charli-XCX-Brat",
+      "catno": "075678611681",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/wYKJxB08LqJ_FqQCcFslY2bx9TZRFBAVdZZAGzHo7Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/MTU3LTE3MTgwNDI1/OTktNTI1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9DtzENtl37xtVjyU2dq9PqpmN_fBAoLabuXnxEKPW5k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI2/MTU3LTE3MTgwNDI1/OTktNTI1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30926157",
+      "community": {
+        "want": 363,
+        "have": 829
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Transparent Black",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House",
+        "Future Pop"
+      ],
+      "id": 32416455,
+      "barcode": [
+        "0 75678 60288 7",
+        "075678602887"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/32416455-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/ePJJ2pcligKAYuvng6SZ5CadmYmKvSTLvPfZyZvOYEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/NDU1LTE3NTIyNTU4/NjctNDU4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ccwyc2MaJ1XwcdViB3LVZFMdXQB_SR5cYD4clNUw864/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/NDU1LTE3NTIyNTU4/NjctNDU4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32416455",
+      "community": {
+        "want": 388,
+        "have": 446
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow [Highlighter Yellow], PVC Sleeve",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -2355,6 +1840,16 @@
         "Amazon Music"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30900474,
       "barcode": [
         "0 75678 60925 1",
         "075678609251",
@@ -2369,15 +1864,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30900474-Charli-XCX-Brat",
       "catno": "075678611674",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/j7VEAY9sTFb_ULXm5lfD00LGsVVg1P4NXe-hULswBJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/NDc0LTE3Mjg3NDE1/MTgtNDEwMi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/R1Vq7L3V0Y1mE2GxdBqMqKBBrMPgTtlZ_yg486BM1xo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/NDc0LTE3Mjg3NDE1/MTgtNDEwMi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30900474",
       "community": {
         "want": 493,
-        "have": 1661
+        "have": 1659
       },
       "format_quantity": 1,
       "formats": [
@@ -2394,9 +1891,77 @@
       ]
     },
     {
-      "id": 30892041,
-      "title": "Charli XCX - Brat",
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Picture Disc",
+        "Stereo"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 30954394,
+      "barcode": [
+        "0 75678 60610 6",
+        "075678606106"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
       "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30954394-Charli-XCX-Brat",
+      "catno": "075678609312",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/wNF_bWsujweqS9qI11ffob32_Hul6tFUSi2ys4P5NX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU0/Mzk0LTE3MTgzMTcz/MTEtMjAzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oFk8T2GRbHrTrhsIyBxbPfneig0bP_eHnDxMb7kQCP0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU0/Mzk0LTE3MTgzMTcz/MTEtMjAzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30954394",
+      "community": {
+        "want": 409,
+        "have": 227
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "With Poster",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "China",
+      "year": "2024",
+      "format": [
+        "Microcassette",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Chun Microcassette",
+        "Atlantic"
+      ],
+      "type": "release",
       "genre": [
         "Electronic",
         "Pop"
@@ -2406,6 +1971,429 @@
         "Electro House",
         "Dance-pop"
       ],
+      "id": 31805186,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/31805186-Charli-XCX-Brat",
+      "catno": "075678611681",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/_iGdCGr_vvkk2-8OO_PYVqQUjbxcKFk4iFGRzA4eY1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA1/MTg2LTE3MjcwODc1/MTMtODMxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2CYiIq4x8wtpaxYk9yxL6VWgFywb837-WK784tEKvhk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA1/MTg2LTE3MjcwODc1/MTMtODMxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31805186",
+      "community": {
+        "want": 94,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Microcassette",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA, Canada & UK",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation",
+        "Warner Music Group",
+        "Sony Music Publishing",
+        "BMG Rights Management (UK) Limited",
+        "Cirkut Breaker LLC",
+        "Universal Music Corp.",
+        "Universal Music Publishing International Ltd.",
+        "Omer Fedi Music",
+        "Electric Feel Music",
+        "Songs Of Universal",
+        "Songs of Universal, Inc.",
+        "Back Hair Music Publishing",
+        "Two Hands And A Bit Publishing",
+        "Good Soldier Songs",
+        "Concord Music Publishing",
+        "Warner/Chappell",
+        "Savoir Faire",
+        "EMI Blackwood Music Inc.",
+        "Warp Music Publishing",
+        "Warner Chappell Publishing",
+        "RICO Publishing",
+        "Sony Music Scandinavia",
+        "EMI Music Publishing",
+        "Sleeper Sounds",
+        "Henson Recording Studios",
+        "Westlake Studios",
+        "A2F Studios, Miami, FL",
+        "Larrabee Sound Studios",
+        "The Nest",
+        "Sterling Sound",
+        "Sonopress"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Electro House",
+        "Dance-pop",
+        "Hyperpop",
+        "Synth-pop",
+        "Future Pop",
+        "Electro",
+        "Electroclash"
+      ],
+      "id": 30373688,
+      "barcode": [
+        "0 75678 61169 8",
+        "075678611698",
+        "ASCAP",
+        "BMI",
+        "SACEM",
+        "STIM",
+        "[Warner 'W' logo] 58441118/0075678611698 21",
+        "IFPI LB 46",
+        "IFPI 0765",
+        "[Warner 'W' logo] 58441118/0075678611698 21",
+        "IFPI LB 46",
+        "IFPI 072Y",
+        "[Warner 'W' logo] 58441118/0075678611698 21",
+        "IFPI LB 46",
+        "IFPI 076Y",
+        "[Warner 'W' logo] 58441118/0075678611698 21",
+        "IFPI LB 46",
+        "IFPI 0757"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30373688-Charli-XCX-Brat",
+      "catno": "075678611698",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/XPU8lm0enBgkql-SbsGkJRj41JvHAn4GCmZ64aWgx9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eMtZvOYWb1r4Be4bU4dNC6-BakERCVJKo6IEfbGqHoc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30373688",
+      "community": {
+        "want": 1382,
+        "have": 6331
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA, Canada & UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30898326,
+      "barcode": [
+        "075678611674",
+        "075678608872"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30898326-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/4Cv7TQ55Cey45WU6j36kjDUgbBy9BmkNDgipLRDQYss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MzI2LTE3Mjk2NTU1/NjEtODgxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fz7dDbMLP_8Bes7NWWYv-UNeTY-JsGTULQEPruanYrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MzI2LTE3Mjk2NTU1/NjEtODgxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30898326",
+      "community": {
+        "want": 691,
+        "have": 1206
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Black Swirl [Smoky Black Marble]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Warner Music Group",
+        "Charli XCX Inc.",
+        "Charli XCX Inc.",
+        "Atlantic Recording Corporation",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 32561391,
+      "barcode": [
+        "075678609244",
+        "10-104045 / 075678611674 - A 279642E1/H",
+        "10-104045 / 075678611674 - B 279642E2/E"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/32561391-Charli-XCX-Brat",
+      "catno": "075678609244",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/TjNGDrjM44hYscc_z9dFjrEqv6CU9xGv7ZrGalfZrF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTYx/MzkxLTE3MzQxNjM3/NzUtMzc3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XmxAyTja9PUOVS7IsdSszr_RucdDfpczwewVgRsfOKs/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTYx/MzkxLTE3MzQxNjM3/NzUtMzc3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32561391",
+      "community": {
+        "want": 279,
+        "have": 94
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Pink Splatter, OBI",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30985003,
+      "barcode": [
+        "0 75678 60924 4",
+        "075678609244"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30985003-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/t-t_smqKNhm_5gAUMq4U_TKADQZ2cRao3uCKLvwnPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg1/MDAzLTE3MzU5MDUz/MzUtOTk5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IXxGu1lZEuWRQNCKzOAc4-PDRDcd_5hd74wbKNtxWB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTg1/MDAzLTE3MzU5MDUz/MzUtOTk5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30985003",
+      "community": {
+        "want": 535,
+        "have": 1426
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Pink Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 32014145,
+      "barcode": [
+        "0 75678 60408 9",
+        "075678604089"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/32014145-Charli-XCX-Brat",
+      "catno": "075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/9C4NpN7BrTzSwyjTxPJ4Ch4HX1z4kfsSpsb1P_3tR1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE0/MTQ1LTE3MzczMjY3/NjItMTU1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sSuBl80PSdLUtyydykNjMADnis5nnfcyZYxGRSLCx7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE0/MTQ1LTE3MzczMjY3/NjItMTU1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32014145",
+      "community": {
+        "want": 307,
+        "have": 482
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Translucent [Highlighter]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK, Europe & US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Picture Disc"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House"
+      ],
+      "id": 30898854,
+      "barcode": [
+        "75678 60929"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/30898854-Charli-XCX-Brat",
+      "catno": "0075678611674",
+      "title": "Charli XCX - Brat",
+      "thumb": "https://i.discogs.com/JKrNvDqXsjv2zTVLLac8gje8iUKWzY6oaqiThK6E_3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/ODU0LTE3MTc3Nzk2/MzgtNzgzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DQ1j4N0owzjqPws9z2tk7wupg-Z5YtXE1_k0czl8pJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/ODU0LTE3MTc3Nzk2/MzgtNzgzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30898854",
+      "community": {
+        "want": 840,
+        "have": 855
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -2418,6 +2406,16 @@
         "Atlantic Recording Corporation"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30892041,
       "barcode": [
         "1739079974"
       ],
@@ -2425,9 +2423,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30892041-Charli-XCX-Brat",
       "catno": "none",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/Bw52HSyzovH54-EWvPB0E1pB-ORAioxMW2SGIINX9NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODky/MDQxLTE3MTc3MTEy/MjItNDc0My5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/RZ8bePKdZBy5tGns_gHxDKuwU8r21dzdeyHhH_CEXcI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODky/MDQxLTE3MTc3MTEy/MjItNDc0My5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/30892041",
@@ -2449,18 +2449,6 @@
       ]
     },
     {
-      "id": 35694028,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Unknown",
       "year": "2024",
       "format": [
@@ -2476,6 +2464,16 @@
         "Warner Music Group"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 35694028,
       "barcode": [
         "0 75678 61169 8",
         "075678611698",
@@ -2487,9 +2485,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/35694028-Charli-XCX-Brat",
       "catno": "075678611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/9gt3xYs7G5j5LWaB9m2I550CZaQ3UYsOegyI_RpLUf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk0/MDI4LTE3NjM0MzAx/NjctMjEyMy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/daWvpqEV4J2I0c1Jiutdr3UzK1T1uFp9BkOaFWZ2oss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk0/MDI4LTE3NjM0MzAx/NjctMjEyMy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35694028",
@@ -2510,17 +2510,6 @@
       ]
     },
     {
-      "id": 36823021,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Canada",
       "year": "2024",
       "format": [
@@ -2564,6 +2553,15 @@
         "Sonopress"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 36823021,
       "barcode": [
         "0 75678 61169 8",
         "075678611698",
@@ -2578,9 +2576,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/36823021-Charli-XCX-Brat",
       "catno": "2-611698",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/fAhNDSbMtmlZNXNuJ0V73msBgKOP0x2ZtwY7tn69D-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIz/MDIxLTE3NzM5NzA5/NDktNzE3Mi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/JMJaFu7zgTzktheRXQCWwv0DX9yTVh5-ohpihuobTKQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIz/MDIxLTE3NzM5NzA5/NDktNzE3Mi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/36823021",
@@ -2600,18 +2600,6 @@
       ]
     },
     {
-      "id": 30865719,
-      "title": "Charli XCX - Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "USA, Canada & Europe",
       "year": "2024",
       "format": [
@@ -2629,6 +2617,16 @@
         "Precision Record Pressing"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30865719,
       "barcode": [
         "075678609244",
         "10-104045 / 075678611674 - A 279642E1/H",
@@ -2638,15 +2636,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30865719-Charli-XCX-Brat",
       "catno": "075678611674",
+      "title": "Charli XCX - Brat",
       "thumb": "https://i.discogs.com/75iW7xTjpc2CE2qifxkFjoDtGlbmsF01I9uf0P6Xos8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY1/NzE5LTE3MTc1MzA2/NDctODg4MC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/bw3evfY3OQ9Gd68k6OZu0vWLt5lY-PoU0LYu0th7YaM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY1/NzE5LTE3MTc1MzA2/NDctODg4MC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30865719",
       "community": {
-        "want": 2514,
-        "have": 4699
+        "want": 2513,
+        "have": 4698
       },
       "format_quantity": 1,
       "formats": [
@@ -2662,18 +2662,6 @@
       ]
     },
     {
-      "id": 32013515,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "US",
       "year": "2024",
       "format": [
@@ -2717,6 +2705,16 @@
         "Sterling Sound"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 32013515,
       "barcode": [
         "0 75678 60413 3",
         "075678603488",
@@ -2729,15 +2727,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32013515-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "075678603488",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/D5hhOe69bOZJzSBoUKTBk6tAoExyMrwsWFg4WPI1oCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEz/NTE1LTE3MjkwMzky/NDctNDMxMS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/PgzmkD470A12s7zmhZDPy0k0nSruXVWS3TNgdqaZU9w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEz/NTE1LTE3MjkwMzky/NDctNDMxMS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32013515",
       "community": {
         "want": 227,
-        "have": 737
+        "have": 735
       },
       "format_quantity": 2,
       "formats": [
@@ -2751,9 +2751,20 @@
       ]
     },
     {
-      "id": 31966730,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Warner Music Group",
+        "Atlantic Recording Corporation",
+        "Charli XCX Inc.",
+        "Charli XCX Inc."
+      ],
+      "type": "release",
       "genre": [
         "Electronic",
         "Pop"
@@ -2763,6 +2774,40 @@
         "Electro House",
         "Dance-pop"
       ],
+      "id": 31970924,
+      "barcode": [
+        "0 75678 60392 1",
+        "075678603921"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3505440,
+      "master_url": "https://api.discogs.com/masters/3505440",
+      "uri": "/release/31970924-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
+      "catno": "075678603921",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
+      "thumb": "https://i.discogs.com/U5AEvD7tX1Z2nCCwOW-M-Z-e6qwczFxBObD5nV79Ypw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTcw/OTI0LTE3Mjg2NTM0/OTAtNjc2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nDn4mgIngOOhbiFi4ezb37YfVO86gOcUOcMAhxKN-T0/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTcw/OTI0LTE3Mjg2NTM0/OTAtNjc2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31970924",
+      "community": {
+        "want": 262,
+        "have": 626
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -2840,6 +2885,16 @@
         "Sonopress"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31966730,
       "barcode": [
         "0 75678 60413 3",
         "075678604133",
@@ -2861,15 +2916,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31966730-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "075678604133",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/Hs_2E7z8TvdWE8p2qNPdvnP7f1h9MLPTe_ar_AS697w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY2/NzMwLTE3Mjg2MTE2/NDAtMTc1MC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/r9wiUYe6i2PglmT2lZt91iIA4OJea644eHhmvZFGsI0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY2/NzMwLTE3Mjg2MTE2/NDAtMTc1MC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31966730",
       "community": {
-        "want": 663,
-        "have": 4995
+        "want": 660,
+        "have": 4992
       },
       "format_quantity": 2,
       "formats": [
@@ -2883,66 +2940,17 @@
       ]
     },
     {
-      "id": 31970924,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
-      "country": "UK",
+      "country": "Worldwide",
       "year": "2024",
       "format": [
-        "Cassette",
+        "File",
+        "FLAC",
         "Album"
       ],
       "label": [
-        "Atlantic",
-        "Warner Music Group",
-        "Atlantic Recording Corporation",
-        "Charli XCX Inc.",
-        "Charli XCX Inc."
+        "Atlantic"
       ],
       "type": "release",
-      "barcode": [
-        "0 75678 60392 1",
-        "075678603921"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3505440",
-      "uri": "/release/31970924-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
-      "catno": "075678603921",
-      "thumb": "https://i.discogs.com/U5AEvD7tX1Z2nCCwOW-M-Z-e6qwczFxBObD5nV79Ypw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTcw/OTI0LTE3Mjg2NTM0/OTAtNjc2OC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/nDn4mgIngOOhbiFi4ezb37YfVO86gOcUOcMAhxKN-T0/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTcw/OTI0LTE3Mjg2NTM0/OTAtNjc2OC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/31970924",
-      "community": {
-        "want": 262,
-        "have": 626
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Cassette",
-          "qty": "2",
-          "text": "White",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 31967489,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
       "genre": [
         "Electronic",
         "Pop"
@@ -2957,17 +2965,7 @@
         "Leftfield",
         "Techno"
       ],
-      "country": "Worldwide",
-      "year": "2024",
-      "format": [
-        "File",
-        "FLAC",
-        "Album"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
+      "id": 31967489,
       "barcode": [
         "075679635037"
       ],
@@ -2975,9 +2973,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31967489-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "none",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/Q4V1GMjumQ3z8gbhYZxYuTIf9iWg7rJJYGvvF97Ui64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY3/NDg5LTE3Mjg2MjA4/MjQtNzkyOS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/SylHbLwaDgpcn1Fe3CgqOrsGyIb_WoRkneMzmwj-_6s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY3/NDg5LTE3Mjg2MjA4/MjQtNzkyOS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31967489",
@@ -2999,9 +2999,17 @@
       ]
     },
     {
-      "id": 32001212,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Atlantic"
+      ],
+      "type": "release",
       "genre": [
         "Electronic",
         "Pop"
@@ -3016,17 +3024,7 @@
         "Leftfield",
         "Techno"
       ],
-      "country": "Worldwide",
-      "year": "2024",
-      "format": [
-        "File",
-        "FLAC",
-        "Album"
-      ],
-      "label": [
-        "Atlantic"
-      ],
-      "type": "release",
+      "id": 32001212,
       "barcode": [
         "075679626998"
       ],
@@ -3034,9 +3032,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32001212-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "none",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/yN3O2sCZlp4ZxnEaGCZbFQ7ljEymyFrIrBkGY0eUTWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDAx/MjEyLTE3Mjg5Mjc3/NTEtNjI3Mi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/qkcSuWxXnY9uXvPUjLP7iMWzFPpTupPPnNsNiuBPe9I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDAx/MjEyLTE3Mjg5Mjc3/NTEtNjI3Mi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32001212",
@@ -3058,18 +3058,6 @@
       ]
     },
     {
-      "id": 32013392,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Dance-pop",
-        "Electro House",
-        "Future Pop"
-      ],
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -3086,6 +3074,16 @@
         "GZ Media"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Dance-pop",
+        "Electro House",
+        "Future Pop"
+      ],
+      "id": 32013392,
       "barcode": [
         "0 75678 60319 8",
         "075678603198",
@@ -3100,15 +3098,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32013392-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "075678603198",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/072bC4K5uIlxIynBuF0gTIpV9lnjgzt8NwVLyT-tIFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEz/MzkyLTE3MjkyNDc2/NTgtNTExNy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/93sRtfA4JpaHj5otay9_HLND_UTSEyoGDvhZGIqbuqk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEz/MzkyLTE3MjkyNDc2/NTgtNTExNy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32013392",
       "community": {
-        "want": 3543,
-        "have": 6803
+        "want": 3544,
+        "have": 6802
       },
       "format_quantity": 3,
       "formats": [
@@ -3124,9 +3124,18 @@
       ]
     },
     {
-      "id": 31963985,
-      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
-      "master_id": 3505440,
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Atlantic",
+        "Atlantic Recording Corporation"
+      ],
+      "type": "release",
       "genre": [
         "Electronic",
         "Pop"
@@ -3141,18 +3150,7 @@
         "Leftfield",
         "Techno"
       ],
-      "country": "Worldwide",
-      "year": "2024",
-      "format": [
-        "File",
-        "AAC",
-        "Album"
-      ],
-      "label": [
-        "Atlantic",
-        "Atlantic Recording Corporation"
-      ],
-      "type": "release",
+      "id": 31963985,
       "barcode": [
         "1767862943"
       ],
@@ -3160,14 +3158,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31963985-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat",
       "catno": "none",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat",
       "thumb": "https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/9CJgn90TkJGfC-akKMM87ta-7JRw8kSMvGScnPGsd-c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/31963985",
       "community": {
-        "want": 67,
+        "want": 66,
         "have": 36
       },
       "format_quantity": 0,
@@ -3184,18 +3184,6 @@
       ]
     },
     {
-      "id": 32450592,
-      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "US",
       "year": "2024",
       "format": [
@@ -3213,6 +3201,16 @@
         "Atlantic Recording Corporation"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 32450592,
       "barcode": [
         "0 75678 60398 3",
         "075678603983"
@@ -3221,15 +3219,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32450592-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not",
       "catno": "075678603983",
+      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
       "thumb": "https://i.discogs.com/les-OBKDllyqktdYMs26jVlyeh4dJYd7kNMMrDq1HEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDUw/NTkyLTE3MzMwODQ3/MDMtODg1My5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/o6Rx2zAHoIsSQTezTuseroc4_-JwC4hOd89OPWfPk2Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDUw/NTkyLTE3MzMwODQ3/MDMtODg1My5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32450592",
       "community": {
         "want": 206,
-        "have": 222
+        "have": 221
       },
       "format_quantity": 2,
       "formats": [
@@ -3246,18 +3246,6 @@
       ]
     },
     {
-      "id": 32104038,
-      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Japan",
       "year": "2024",
       "format": [
@@ -3272,20 +3260,32 @@
         "BIG LOVE RECORDS"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 32104038,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/32104038-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not",
       "catno": "075678603983TIC",
+      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
       "thumb": "https://i.discogs.com/jOBRKfr5LtXDzJqCfrNY2sPti4vKbP0tR2d4R-gWG6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTA0/MDM4LTE3Mjk4Nzk0/NjItNzUyMy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/ny_pcefWygfCD3_2Sj4UXDH1yYdOxR-sVq2mBmoGvC8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTA0/MDM4LTE3Mjk4Nzk0/NjItNzUyMy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32104038",
       "community": {
         "want": 279,
-        "have": 111
+        "have": 110
       },
       "format_quantity": 2,
       "formats": [
@@ -3303,18 +3303,6 @@
       ]
     },
     {
-      "id": 30921450,
-      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "Worldwide",
       "year": "2024",
       "format": [
@@ -3328,6 +3316,16 @@
         "Atlantic Recording Corporation"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 30921450,
       "barcode": [
         "1750468113"
       ],
@@ -3335,9 +3333,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/30921450-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not",
       "catno": "none",
+      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
       "thumb": "https://i.discogs.com/GGkDZ1ggSTClitAfWS2DCn-LYWt3-N9oXMwqocyTNYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/NDUwLTE3MTc5OTc1/MTYtNTQ2My5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/nKf7QsHancZuf01Oo49PIK4_HSnPdFurOuqhEVCnWns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIx/NDUwLTE3MTc5OTc1/MTYtNTQ2My5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30921450",
@@ -3360,18 +3360,6 @@
       ]
     },
     {
-      "id": 31998347,
-      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
-      "master_id": 3505440,
-      "genre": [
-        "Electronic",
-        "Pop"
-      ],
-      "style": [
-        "Future Pop",
-        "Electro House",
-        "Dance-pop"
-      ],
       "country": "UK",
       "year": "2024",
       "format": [
@@ -3421,6 +3409,16 @@
         "Precision Record Pressing"
       ],
       "type": "release",
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Future Pop",
+        "Electro House",
+        "Dance-pop"
+      ],
+      "id": 31998347,
       "barcode": [
         "0 75678 603280",
         "075678603280",
@@ -3433,15 +3431,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3505440,
       "master_url": "https://api.discogs.com/masters/3505440",
       "uri": "/release/31998347-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not",
       "catno": "075678603280",
+      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not",
       "thumb": "https://i.discogs.com/rAV8zLNpjeNss1_Zr-DVKaTrgQ3Gvy7b_4zsQmgaLD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTk4/MzQ3LTE3Mjk2Njgz/OTYtMzQxNi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/GZOMpzlAStB82x_qlXwWUOQxSzcBBthkKGgZnxlg7zw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTk4/MzQ3LTE3Mjk2Njgz/OTYtMzQxNi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31998347",
       "community": {
         "want": 1128,
-        "have": 2598
+        "have": 2597
       },
       "format_quantity": 2,
       "formats": [
@@ -3459,1296 +3459,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 3505440,
-    "genres": [
-      "Electronic",
-      "Pop"
-    ],
-    "styles": [
-      "Electro House",
-      "Dance-pop",
-      "Hyperpop",
-      "Synth-pop",
-      "Future Pop",
-      "Electro",
-      "Electroclash"
-    ],
-    "main_release": 30373688,
-    "most_recent_release": 36264112,
-    "resource_url": "https://api.discogs.com/masters/3505440",
-    "uri": "https://www.discogs.com/master/3505440-Charli-XCX-Brat",
-    "versions_url": "https://api.discogs.com/masters/3505440/versions",
-    "main_release_url": "https://api.discogs.com/releases/30373688",
-    "most_recent_release_url": "https://api.discogs.com/releases/36264112",
-    "num_for_sale": 1051,
-    "lowest_price": 8.99,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/eMtZvOYWb1r4Be4bU4dNC6-BakERCVJKo6IEfbGqHoc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/eMtZvOYWb1r4Be4bU4dNC6-BakERCVJKo6IEfbGqHoc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/XPU8lm0enBgkql-SbsGkJRj41JvHAn4GCmZ64aWgx9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTYtMzcxNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 593
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/qnpRdlj2EcgRTlruGiZGvgNEKturMT0L2AVNO-MLOkk/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYz/MTktNzM0Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/qnpRdlj2EcgRTlruGiZGvgNEKturMT0L2AVNO-MLOkk/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYz/MTktNzM0Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/yAFZ-7NnRyKc2y1feWWmqxfwNmMz_7cIzZVfKZrrwQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYz/MTktNzM0Ni5qcGVn.jpeg",
-        "width": 600,
-        "height": 464
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/2hgETkVH2EQ2cKDloKJPbXEVSl90YH-dIcT8cxpGFn8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktNjYxOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/2hgETkVH2EQ2cKDloKJPbXEVSl90YH-dIcT8cxpGFn8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktNjYxOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/v-ThVu10_7h2EKzIf2-vel8lN6blQVuhFduJECr0FeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktNjYxOC5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/PZxxV2uwwmLTvfE20Y4egrMDWtOW1rN6zIJB_x8-rn8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTQtNTA2MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/PZxxV2uwwmLTvfE20Y4egrMDWtOW1rN6zIJB_x8-rn8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTQtNTA2MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/CXEQGM1uSszeG2DPmXO0uUPQYKkXa_UhZVHOFPckUJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MTQtNTA2MS5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/scRaM-gFHuA11o6jDtHq2wL_rERq9XNhAgBv76Gev90/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzItNTA5OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/scRaM-gFHuA11o6jDtHq2wL_rERq9XNhAgBv76Gev90/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzItNTA5OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/j-sLWbYPmgwJB3z23aVexyLuNFYo7vcwmWGYs_dOPvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzItNTA5OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 463
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/3-eyQ5RFUGDKzfoKylNvsLboUREeuXrdmpqDXFFQUXQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDEtNjY0Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/3-eyQ5RFUGDKzfoKylNvsLboUREeuXrdmpqDXFFQUXQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDEtNjY0Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/wrGfVCj7v_7PJnpVnwJY3IMnLc0Bo2oUttp8OJS3Hpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDEtNjY0Ni5qcGVn.jpeg",
-        "width": 592,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/XUEmfh9J67RKyub5eTHPqWjGH97P6ZYwzeYQFOrF-M0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNTc4OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/XUEmfh9J67RKyub5eTHPqWjGH97P6ZYwzeYQFOrF-M0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNTc4OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/uo0acpkOqiv5Efhb9lbM2x3ZFts2tjkGa9deLGq_dSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNTc4OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/AzXVz2OHbNvp-cRtD09cexYHVDt0IwYcHC3IStfIpKs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtMzUwNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/AzXVz2OHbNvp-cRtD09cexYHVDt0IwYcHC3IStfIpKs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtMzUwNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/LOZJpBkouIAvEHYc5AQG4jEU_xr8zeAe_vb9XYNPgIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtMzUwNy5qcGVn.jpeg",
-        "width": 596,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Of9JYqoYOY2k1Mqh7_4WbYcx_XRco0TpzworwBVF20Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtOTA3NC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Of9JYqoYOY2k1Mqh7_4WbYcx_XRco0TpzworwBVF20Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtOTA3NC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/Bsen_bGzNr5yfFI0hdgM2JagoRQxhfG-NRjkToFbf3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtOTA3NC5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/X3x19Tgy-Q9aY34P8D8PPWClAFpyvQRi3s5G3X7EcbU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNzUyNi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/X3x19Tgy-Q9aY34P8D8PPWClAFpyvQRi3s5G3X7EcbU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNzUyNi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/LjUEu2yma3eETFFgxGSs_gH1UZxia5mEdUaNSrnQEkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNzUyNi5qcGVn.jpeg",
-        "width": 596,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/8fFw6EUplXc9-vOULf8b4Yz5EE1UwwN1c9tcxcXQvQA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNDgzMy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/8fFw6EUplXc9-vOULf8b4Yz5EE1UwwN1c9tcxcXQvQA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNDgzMy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/LbalnOcSeKk2u09FgoJ92EZN3i-nIsJ0Tg9pLSsPF1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtNDgzMy5qcGVn.jpeg",
-        "width": 600,
-        "height": 599
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/VMmsWMA8MMlYpFhtTa649eG1EH7sOo9ukLV77hK6V8g/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDgtNjcwNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/VMmsWMA8MMlYpFhtTa649eG1EH7sOo9ukLV77hK6V8g/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDgtNjcwNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/gcXRosJIj4Y6vjKbyTvZ9AdOATQ_4KBuRzRdc6oj35M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDgtNjcwNS5qcGVn.jpeg",
-        "width": 600,
-        "height": 296
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/__efSSCEZIevfc65bAYYz6mrj_GZyfvlqvimKZEHV9M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjMtNTY5Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/__efSSCEZIevfc65bAYYz6mrj_GZyfvlqvimKZEHV9M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjMtNTY5Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/mxQrL3UjfH_8VZQpSmumer2XIzkq4fZerDRhkb0Q0Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjMtNTY5Ni5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/_ixUbmM93wPO03xT0V4fEltqYipcuhQG-mUESzHE4xg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtMTY1My5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/_ixUbmM93wPO03xT0V4fEltqYipcuhQG-mUESzHE4xg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtMTY1My5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/z8PrJNb9DOjV51Eh_Bn32Kk7bGGXbCJfQwHZPOs6eGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDYtMTY1My5qcGVn.jpeg",
-        "width": 599,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/1zC3eyjDEgQNSRnrgoMQ893PHI0_exFK8gwGixTKbbk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtMzg1MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/1zC3eyjDEgQNSRnrgoMQ893PHI0_exFK8gwGixTKbbk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtMzg1MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/SHzhSLcO44LgRxd71hBZjCixov6A76TKH6SVivUOCZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtMzg1MS5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/E-1W3R6IxuEjhPV3NfIWRwQHE4RfFa5etcnfNLj1ojc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNTQzNi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/E-1W3R6IxuEjhPV3NfIWRwQHE4RfFa5etcnfNLj1ojc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNTQzNi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/5iY7HHOHI8rz3-Vkd5q4k4-wgojJoYuBhnslbAM0Tts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNTQzNi5qcGVn.jpeg",
-        "width": 597,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/W0DtVDoc8cyx0L1IkYg3nb00vaeT8r35mf2LSeg5LbU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNDQ1OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/W0DtVDoc8cyx0L1IkYg3nb00vaeT8r35mf2LSeg5LbU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNDQ1OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/L-du6SCGzTaV14wtr-lP-55uCjrn3UXT7NayEYFN6io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDQtNDQ1OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/_oKJaDwDyLWp6wI9WLUTOAKQBJeU_9w4KaipjkIde3Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtODIzNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/_oKJaDwDyLWp6wI9WLUTOAKQBJeU_9w4KaipjkIde3Y/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtODIzNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/bzl0rciv3mydSw2HLexW-knvpWXw6yefTgH35oillq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/NDUtODIzNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/5sLiZUOuoeK-LHzV0-6t3Y1fsvVJywiuiiXFWLt8oDw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjgtODY4Mi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/5sLiZUOuoeK-LHzV0-6t3Y1fsvVJywiuiiXFWLt8oDw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjgtODY4Mi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/J07riEDkTNopctLNp8h9WHG-xj8ACY-VtaHKhZPrFPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MjgtODY4Mi5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/i0R26OdTRt-UdGYhLBFoJdb3HtUCvYYTkwkuIqHUppo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktODA4My5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/i0R26OdTRt-UdGYhLBFoJdb3HtUCvYYTkwkuIqHUppo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktODA4My5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/vg0-CedzFncW95wOXJLNPXjObN3wwncgaItAmb3f46c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcz/Njg4LTE3MTc3ODYy/MzktODA4My5qcGVn.jpeg",
-        "width": 600,
-        "height": 592
-      }
-    ],
-    "year": 2024,
-    "tracklist": [
-      {
-        "position": "1",
-        "type_": "track",
-        "title": "360",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "DJ Cirkut",
-            "anv": "Cirkut",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1918834,
-            "resource_url": "https://api.discogs.com/artists/1918834"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Blake Slatkin",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 6729981,
-            "resource_url": "https://api.discogs.com/artists/6729981"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Henry Walter",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 487933,
-            "resource_url": "https://api.discogs.com/artists/487933"
-          },
-          {
-            "name": "Omer Fedi",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 7550735,
-            "resource_url": "https://api.discogs.com/artists/7550735"
-          }
-        ],
-        "duration": "2:13"
-      },
-      {
-        "position": "2",
-        "type_": "track",
-        "title": "Club Classics",
-        "extraartists": [
-          {
-            "name": "George Daniel",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 437154,
-            "resource_url": "https://api.discogs.com/artists/437154"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "George Daniel",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 437154,
-            "resource_url": "https://api.discogs.com/artists/437154"
-          }
-        ],
-        "duration": "2:33"
-      },
-      {
-        "position": "3",
-        "type_": "track",
-        "title": "Sympathy Is A Knife",
-        "extraartists": [
-          {
-            "name": "Charli XCX",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1345479,
-            "resource_url": "https://api.discogs.com/artists/1345479"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Jon Shave",
-            "anv": "Jonathan Christopher Shave",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 427032,
-            "resource_url": "https://api.discogs.com/artists/427032"
-          }
-        ],
-        "duration": "2:31"
-      },
-      {
-        "position": "4",
-        "type_": "track",
-        "title": "I Might Say Something Stupid",
-        "extraartists": [
-          {
-            "name": "Gesaffelstein",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1067369,
-            "resource_url": "https://api.discogs.com/artists/1067369"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Mike Levy (3)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1325506,
-            "resource_url": "https://api.discogs.com/artists/1325506"
-          }
-        ],
-        "duration": "1:49"
-      },
-      {
-        "position": "5",
-        "type_": "track",
-        "title": "Talk Talk",
-        "extraartists": [
-          {
-            "name": "Hudson Mohawke",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 812652,
-            "resource_url": "https://api.discogs.com/artists/812652"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Ross Birchard",
-            "anv": "Ross Matthew Birchard",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1648599,
-            "resource_url": "https://api.discogs.com/artists/1648599"
-          }
-        ],
-        "duration": "2:41"
-      },
-      {
-        "position": "6",
-        "type_": "track",
-        "title": "Von Dutch",
-        "extraartists": [
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Ashley Jacobson",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Vocals]",
-            "tracks": "",
-            "id": 7767433,
-            "resource_url": "https://api.discogs.com/artists/7767433"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          }
-        ],
-        "duration": "2:44"
-      },
-      {
-        "position": "7",
-        "type_": "track",
-        "title": "Everything Is Romantic",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charli XCX",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1345479,
-            "resource_url": "https://api.discogs.com/artists/1345479"
-          },
-          {
-            "name": "El Guincho",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1175057,
-            "resource_url": "https://api.discogs.com/artists/1175057"
-          },
-          {
-            "name": "Jae Deal",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 942636,
-            "resource_url": "https://api.discogs.com/artists/942636"
-          },
-          {
-            "name": "Jasper Harris",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 6749952,
-            "resource_url": "https://api.discogs.com/artists/6749952"
-          },
-          {
-            "name": "Marlonwiththeglasses",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional Production]",
-            "tracks": "",
-            "id": 14689056,
-            "resource_url": "https://api.discogs.com/artists/14689056"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Pablo D\u00edaz-Reixa",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1447319,
-            "resource_url": "https://api.discogs.com/artists/1447319"
-          }
-        ],
-        "duration": "3:23"
-      },
-      {
-        "position": "8",
-        "type_": "track",
-        "title": "Rewind",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "DJ Cirkut",
-            "anv": "Cirkut",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1918834,
-            "resource_url": "https://api.discogs.com/artists/1918834"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Henry Walter",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 487933,
-            "resource_url": "https://api.discogs.com/artists/487933"
-          }
-        ],
-        "duration": "2:48"
-      },
-      {
-        "position": "9",
-        "type_": "track",
-        "title": "So I",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Jon Shave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 427032,
-            "resource_url": "https://api.discogs.com/artists/427032"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Jon Shave",
-            "anv": "Jonathan Christopher Shave",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 427032,
-            "resource_url": "https://api.discogs.com/artists/427032"
-          }
-        ],
-        "duration": "3:31"
-      },
-      {
-        "position": "10",
-        "type_": "track",
-        "title": "Girl, So Confusing",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          }
-        ],
-        "duration": "2:54"
-      },
-      {
-        "position": "11",
-        "type_": "track",
-        "title": "Apple",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charli XCX",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1345479,
-            "resource_url": "https://api.discogs.com/artists/1345479"
-          },
-          {
-            "name": "George Daniel",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 437154,
-            "resource_url": "https://api.discogs.com/artists/437154"
-          },
-          {
-            "name": "Linus Wiklund",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1129207,
-            "resource_url": "https://api.discogs.com/artists/1129207"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "George Daniel",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 437154,
-            "resource_url": "https://api.discogs.com/artists/437154"
-          },
-          {
-            "name": "Linus Wiklund",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1129207,
-            "resource_url": "https://api.discogs.com/artists/1129207"
-          },
-          {
-            "name": "Noonie Bao",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1324393,
-            "resource_url": "https://api.discogs.com/artists/1324393"
-          }
-        ],
-        "duration": "2:31"
-      },
-      {
-        "position": "12",
-        "type_": "track",
-        "title": "B2b",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Gesaffelstein",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1067369,
-            "resource_url": "https://api.discogs.com/artists/1067369"
-          },
-          {
-            "name": "Omer Fedi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 7550735,
-            "resource_url": "https://api.discogs.com/artists/7550735"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Mike Levy (3)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1325506,
-            "resource_url": "https://api.discogs.com/artists/1325506"
-          }
-        ],
-        "duration": "2:58"
-      },
-      {
-        "position": "13",
-        "type_": "track",
-        "title": "Mean Girls",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Hudson Mohawke",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 812652,
-            "resource_url": "https://api.discogs.com/artists/812652"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Ross Birchard",
-            "anv": "Ross Matthew Birchard",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1648599,
-            "resource_url": "https://api.discogs.com/artists/1648599"
-          }
-        ],
-        "duration": "3:09"
-      },
-      {
-        "position": "14",
-        "type_": "track",
-        "title": "I Think About It All The Time",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          },
-          {
-            "name": "Finn Keane (2)",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1614557,
-            "resource_url": "https://api.discogs.com/artists/1614557"
-          },
-          {
-            "name": "Jon Shave",
-            "anv": "Jonathan Christopher Shave",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 427032,
-            "resource_url": "https://api.discogs.com/artists/427032"
-          }
-        ],
-        "duration": "2:15"
-      },
-      {
-        "position": "15",
-        "type_": "track",
-        "title": "365",
-        "extraartists": [
-          {
-            "name": "A. G. Cook",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "DJ Cirkut",
-            "anv": "Cirkut",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1918834,
-            "resource_url": "https://api.discogs.com/artists/1918834"
-          },
-          {
-            "name": "A. G. Cook",
-            "anv": "Alexander Guy Cook",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3608240,
-            "resource_url": "https://api.discogs.com/artists/3608240"
-          },
-          {
-            "name": "Charlotte Aitchison",
-            "anv": "",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3002587,
-            "resource_url": "https://api.discogs.com/artists/3002587"
-          }
-        ],
-        "duration": "3:23"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Charli XCX",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 1345479,
-        "resource_url": "https://api.discogs.com/artists/1345479",
-        "thumbnail_url": "https://i.discogs.com/K7w1zXh10kWeJoZ5ubzUo0n1TY2_Zwxn2M4Cv6KQe0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDU0/NzktMTc4MjgxMzYz/MC01MTc3LmpwZWc.jpeg"
-      }
-    ],
-    "title": "Brat",
-    "notes": "'brat':\r\n/200 - [url=https://www.discogs.com/release/32561391-Charli-XCX-Brat]Clear w/ Pink Splatter[/url] w/ Obi Strip (Big Love Records Exclusive)\r\n/500 - [url=https://www.discogs.com/release/30984958-Charli-XCX-Brat]Translucent Black Ice[/url]  w/ Signed Obi-strip (Assai Records Exclusive)\r\n/500 - [url=https://www.discogs.com/release/30865719-Charli-XCX-Brat]Clear w/ Neon Pink Splatter[/url] w/ Signed Obi-strip (Assai Records Exclusive)\r\n/1,500 - [url=https://www.discogs.com/release/30907941-Charli-XCX-Brat]Translucent Orange Swirl (Rough Trade UK[/url] / [url=https://www.discogs.com/release/30912861-Charli-XCX-Brat]Urban Outfitters US exclusive[/url])\r\n/2,000 - [url=https://www.discogs.com/release/30898854-Charli-XCX-Brat]Green Picture Disc[/url] (Webstore exclusive)\r\n/3,000 - [url=https://www.discogs.com/release/30898326-Charli-XCX-Brat]Clear w/ Black Smoke[/url] (Spotify Fans First exclusive)\r\n/3,000 - [url=https://www.discogs.com/release/30895656-Charli-XCX-Brat]Black & White Marble w/ White Cover[/url] (Blood Records exclusive)\r\n/3,000 - [url=https://www.discogs.com/release/30900081-Charli-XCX-Brat]Black Inside PVC Sleeve w/ Bonus 7\u201d[/url] (Web-store exclusive)\r\n/3,000 - [url=https://www.discogs.com/release/32067675-Charli-XCX-Brat]Clear w/ Black & White Splatter (Turntable Lab exclusive)[/url]\r\n/3,500 - [url=https://www.discogs.com/release/30954394-Charli-XCX-Brat]Blue Picture Disc[/url] (Web-store exclusive)\r\n/4,500 - [url=https://www.discogs.com/release/30930126-Charli-XCX-Brat]Red Picture Disc[/url] (Web-store exclusive)\r\n/??? - [url=https://www.discogs.com/release/30900474-Charli-XCX-Brat]Grey Marble[/url] (Amazon & Warner Music exclusive)\r\n/??? - [url=https://www.discogs.com/release/30865719-Charli-XCX-Brat]Clear w/ Neon Pink Splatter[/url] (Indie exclusive)\r\n/??? - [url=https://www.discogs.com/release/30895530-Charli-XCX-Brat]Pink w/ Black Splatter[/url] (Target/hmv/JB Hi-Fi exclusive)\r\n/??? - [url=https://www.discogs.com/release/30891144-Charli-XCX-Brat]Translucent Black Ice[/url] (Made in Canada)\r\n/??? - [url=https://www.discogs.com/release/30984958-Charli-XCX-Brat]Translucent Black Ice[/url] (Made in Czech Republic)\r\n/??? - [url=https://www.discogs.com/release/30895959-Charli-XCX-Brat]Picture Disc \u201c360_brat\u201d[/url] (Web-store exclusive; / [url=https://www.discogs.com/release/30911376-Charli-XCX-Brat]40 w/ Diary Entry)[/url]\r\n/??? - [url=https://www.discogs.com/release/32032082-Charli-XCX-Brat]Translucent Black Ice w/ Repeating Logo Clear Sleeve[/url] (Web-store exclusive)\r\n/??? - [url=https://www.discogs.com/release/31965911-Charli-XCX-Brat]Translucent 'Highlighter' Yellow[/url] (Web-store exclusive)\r\n/??? - [url=https://www.discogs.com/release/31789415-Charli-XCX-Brat]Blue & Yellow Split[/url] (Sweat Tour exclusive)\r\n/??? -  [url=https://www.discogs.com/release/32992746-Charli-XCX-Brat]Black Ice w/ Glitter [/url](St. Jerome's Laneway Festival exclusive)\r\n\r\n'brat and it's the same but there's three more songs so it's not' (Deluxe 2xLP):\r\n/250 - [url=https://www.discogs.com/release/32104038-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not]White w/ Obi-strip (Big Love Records exclusive)[/url]\r\n/300 - [url=https://www.discogs.com/release/31943833-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not]White[/url] w/ Numbered Obi-strip (Assai Records exclusive)\r\n/5,000 - [url=https://www.discogs.com/release/31998347-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not]Black & White Galaxy w/ White & Black Sleeve (Blood Records exclusive)[/url]\r\n/??? - [url=https://www.discogs.com/release/31943833-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not]White[/url]\r\n\r\n'brat and it\u2019s completely different but also still brat' (Album + Remixes 3xLP):\r\n/??? - [url=https://www.discogs.com/release/32013392-Charli-XCX-Brat-And-Its-Completely-Different-But-Also-Still-Brat]'Milky Clear' (Web-store exclusive)[/url]\r\n\r\n'brat and it\u2019s completely different' (Remixes 2xLP):\r\n/??? - [url=https://www.discogs.com/release/33384737-Charli-XCX-Brat-And-Its-Completely-Different]Clear w/ Powder Fill & White w/ Black & White Sleeve (Bad World exclusive)[/url]\r\n/??? - [Dark Brat Opaque Swirl] Black & Green Swirl (Urban Outfitters exclusive)\r\n/??? - [url=https://www.discogs.com/release/33129744-Charli-XCX-Brat-And-Its-Completely-Different]Translucent 'Brat' Green (Made in Canada)[/url]\r\n/??? - [url=https://www.discogs.com/release/33277026-Charli-XCX-Brat-And-Its-Completely-Different]Translucent 'Brat' Green (Made in Czech Republic)[/url]",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=WJW-VvmRKsE",
-        "title": "Charli xcx - 360 (official video)",
-        "description": "BRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nWriter / Director: Aidan Zamiri\n*Starring:\nMatisse Andrews\nQuenlin Blackwell\nSakura Bready\nChloe Cherry\nGreer Cohen\nAnna Collins\nA. G. Cook\nAlex Consani\nEmma Chamb",
-        "duration": 265,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=cwZ1L_0QLjw",
-        "title": "Charli xcx - Von dutch (official video)",
-        "description": "Charli xcx - Von dutch\nStream: Von dutch: https://charlixcx.lnk.to/VondutchID\n\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nOfficial Hair Partner SCHWARZKOPF https://www.instagram.com/schwarzkopfpro/\n\nDirecte",
-        "duration": 214,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=rd1AZym4lEY",
-        "title": "Charli xcx - Club classics (official lyric video)",
-        "description": "Charli xcx - Club classics\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/",
-        "duration": 159,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=S9s4Ckt-aKo",
-        "title": "Charli xcx - Sympathy is a knife (official lyric video)",
-        "description": "Charli xcx - Sympathy is a knife\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitte",
-        "duration": 157,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=TD2j1OuHoik",
-        "title": "Charli xcx - I might say something stupid (official lyric video)",
-        "description": "Charli xcx - I might say something stupid\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps",
-        "duration": 115,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=pIs46LzZUws",
-        "title": "Charli xcx - Talk talk (official lyric video)",
-        "description": "Charli xcx - Talk talk\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/char",
-        "duration": 172,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=FTIvFD7TCVg",
-        "title": "Charli xcx - Everything is romantic (official lyric video)",
-        "description": "Charli xcx - Everything is romantic\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twi",
-        "duration": 210,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=WlM7nm3TLnY",
-        "title": "Charli xcx - Rewind (official lyric video)",
-        "description": "Charli xcx - Rewind\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_",
-        "duration": 180,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=r9k1CR4LBjk",
-        "title": "Charli xcx - So I (official lyric video)",
-        "description": "Charli xcx - So I\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xc",
-        "duration": 217,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=QXKvjyoH5lM",
-        "title": "Charli xcx - Girl, so confusing (official lyric video)",
-        "description": "Charli xcx - Girl, so confusing\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter",
-        "duration": 186,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=CPWxExGk7PM",
-        "title": "Charli xcx - Apple (official lyric video)",
-        "description": "Charli xcx - Apple\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_x",
-        "duration": 155,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=If4-ckGcr0c",
-        "title": "Charli xcx - B2b (official lyric video)",
-        "description": "Charli xcx - B2b\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xcx",
-        "duration": 184,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=IKUQDMEBXN0",
-        "title": "Charli xcx - Mean girls (official lyric video)",
-        "description": "Charli xcx - Mean girls\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/cha",
-        "duration": 199,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Mn0aho8Ayfk",
-        "title": "Charli xcx - I think about it all the time (official lyric video)",
-        "description": "Charli xcx - I think about it all the time\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttp",
-        "duration": 143,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Ol9CCM240Ag",
-        "title": "Charli xcx - 365 (official lyric video)",
-        "description": "Charli xcx - 365\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xcx",
-        "duration": 214,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=z-lX8wsR0BI",
-        "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not CD Unboxing",
-        "description": "In this video I show you the Brat And It's The Same But There's Three More Songs So It's Not CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can get the album here:\nCD: https://amzn.to/4fJNpe8\nVinyl: ht",
-        "duration": 174,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=TWPNs4r7XXE",
-        "title": "Charli XCX - Brat CD Unboxing",
-        "description": "In this video I show you the Brat CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can get the album here:\nCD: https://amzn.to/3E0IJmU\nVinyl: https://amzn.to/40bcetF\nDigital: https://amzn.to/40dtajj\nMore",
-        "duration": 163,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=gxp3OaPkQ5w",
-        "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat CD Unboxing",
-        "description": "In this video I show you the Brat And It's Completely Different But Also Still Brat CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nCD: https://amzn.to/40ajIi6\nDigital: https://a",
-        "duration": 237,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=3C34IZ2SCe0",
-        "title": "Charli XCX - Brat and its completely different but also still brat (3X milky clear vinyl) | UNBOXING",
-        "description": "\ud83d\udcbf Thanks for watching!\nPlease, if you like it: subscribe, share and thumbs up!  \ud83d\udcbf \n\none time pressing. vinyl. tri-gatefold vinyl. printed inner paper sleeve. two 20 page lyric books. \nAvailable only on the charli xcx webstore @officialcharlixcx \n\n\n\ud83d\udcf7 @myun",
-        "duration": 0,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=QXKvjyoH5lM",
-        "title": "Charli xcx - Girl, so confusing (official lyric video)",
-        "description": "Charli xcx - Girl, so confusing\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter",
-        "duration": 186,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=huGd4efgdPA",
-        "title": "Charli xcx - Guess featuring billie eilish (official video)",
-        "description": "Charli xcx - Guess featuring billie eilish\nStream: https://Charlixcx.lnk.to/GuessBillieEilishID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nBRAT out now: https://charlixcx.lnk",
-        "duration": 161,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=bvy6aox2Sgw",
-        "title": "Charli xcx - 360 featuring robyn and yung lean (official lyric video)",
-        "description": "Charli xcx - 360 featuring robyn and yung lean\nStream: https://charlixcx.lnk.to/360remixID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nStream 360: https://charlixcx.lnk.to/360",
-        "duration": 129,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=yi_8VKPnd7c",
-        "title": "Charli xcx - Club classics featuring bb trickz (official audio)",
-        "description": "Charli xcx - Club classics featuring bb trickz\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrd",
-        "duration": 175,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=jfL8Vu9PfW8",
-        "title": "Charli xcx - Sympathy is a knife featuring ariana grande (official audio)",
-        "description": "Charli xcx - Sympathy is a knife featuring ariana grande\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRA",
-        "duration": 155,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=MRUdd94gyos",
-        "title": "Charli xcx - I might say something stupid featuring the 1975 & jon hopkins (official audio)",
-        "description": "Charli xcx - I might say something stupid featuring the 1975 & jon hopkins\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://ch",
-        "duration": 251,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=K5jyIoPbu4M",
-        "title": "Charli xcx - Talk talk featuring troye sivan (official lyric video)",
-        "description": "Charli xcx - Talk talk featuring troye sivan\nStream: https://charlixcx.lnk.to/TalktalktroyeID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nBRAT out now: https://charlixcx.lnk.t",
-        "duration": 174,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=RaiRdSlwsks",
-        "title": "Charli xcx - Von dutch (official lyric video)",
-        "description": "Charli xcx - Von dutch\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/char",
-        "duration": 175,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=99dsnI6M-a4",
-        "title": "Charli xcx - Everything is romantic featuring caroline polachek (official audio)",
-        "description": "Charli xcx - Everything is romantic featuring caroline polachek\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk",
-        "duration": 204,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=cN7he0b0sK8",
-        "title": "Charli xcx - Rewind featuring bladee (official audio)",
-        "description": "Charli xcx - Rewind featuring bladee\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT: h",
-        "duration": 163,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=nJsXrs1ZyNg",
-        "title": "Charli xcx - So I featuring a. g. cook (official audio)",
-        "description": "Charli xcx - So I featuring a. g. cook\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT:",
-        "duration": 280,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=vuF38F_nMY0",
-        "title": "Charli xcx - Apple featuring the japanese house (official audio)",
-        "description": "Charli xcx - Apple featuring the japanese house\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOr",
-        "duration": 158,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Lp8TaMWU-Ho",
-        "title": "Charli xcx - B2b featuring tinashe (official audio)",
-        "description": "Charli xcx - B2b featuring the tinashe\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT:",
-        "duration": 154,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=nAhjfiJjGj0",
-        "title": "Charli xcx - Mean girls featuring julian casablancas (official audio)",
-        "description": "Charli xcx - Mean girls featuring julian casablancas\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlx",
-        "duration": 227,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=K3D8_Mc3XTI",
-        "title": "Charli xcx - I think about it all the time featuring bon iver (official audio)",
-        "description": "Charli xcx - I think about it all the time featuring bon iver\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.t",
-        "duration": 200,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=oslpP-s_w4E",
-        "title": "Charli xcx - 365 featuring shygirl (official audio)",
-        "description": "Charli xcx - 365 featuring shygirl\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT: htt",
-        "duration": 122,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=6YO2_O1L_YY",
-        "title": "Charli xcx - Spring breakers featuring kesha (official audio)",
-        "description": "Charli xcx - Spring breakers featuring kesha\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder",
-        "duration": 143,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 3505440,
   "genres": [
     {

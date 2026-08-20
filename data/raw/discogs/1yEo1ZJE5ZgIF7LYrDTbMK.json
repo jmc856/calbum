@@ -8,16 +8,64 @@
   },
   "results": [
     {
-      "id": 35251621,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
+      "country": "UK & US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd.",
+        "Optimal Media GmbH",
+        "Metropolis Mastering",
+        "4AD"
+      ],
+      "type": "release",
       "genre": [
-        "Rock",
-        "Folk, World, & Country"
+        "Rock"
       ],
       "style": [
-        "Folk Rock"
+        "Folk Rock",
+        "Indie Rock"
       ],
+      "id": 35020178,
+      "barcode": [
+        "191400085039",
+        "BP 38965-01 A1 4AD0850 A2 = MATT @ METROPOLIS = 3\u22c0",
+        "BP 38965-01 B1 4AD0850 B2 1\u22c0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35020178-Big-Thief-Double-Infinity",
+      "catno": "4AD0850LPE2",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/hAiILwhxO7YF1SI6Al9_Aw0MwnHm-pVaM13zbWXBd6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDIw/MTc4LTE3NTcyNDk4/MDYtMjE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/llVTCqyYcgIeUdqcRf1Y0LtUguu7-RHXlKmU_F7s9G4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDIw/MTc4LTE3NTcyNDk4/MDYtMjE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35020178",
+      "community": {
+        "want": 71,
+        "have": 351
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Sparkle",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Australia & New Zealand",
       "year": "2025",
       "format": [
@@ -41,6 +89,14 @@
         "Program Records"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 35251621,
       "barcode": [
         "191400085008",
         "191400085008",
@@ -51,9 +107,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35251621-Big-Thief-Double-Infinity",
       "catno": "4AD0850LP",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/tI24_Em-ZvJK6c84P-sOohQR3o-FHmVL1cphNBxO9ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUx/NjIxLTE3NTkzMDEw/MTAtOTQzMC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/NyHKlp2Tssd1EDvDo9m43P7NwaodGNLrnMTNCRs7Hec/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjUx/NjIxLTE3NTkzMDEw/MTAtOTQzMC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35251621",
@@ -76,74 +134,6 @@
       ]
     },
     {
-      "id": 35020178,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock",
-        "Indie Rock"
-      ],
-      "country": "UK & US",
-      "year": "2025",
-      "format": [
-        "Vinyl",
-        "LP"
-      ],
-      "label": [
-        "4AD",
-        "Big Thief",
-        "Big Thief",
-        "4AD Ltd.",
-        "Optimal Media GmbH",
-        "Metropolis Mastering",
-        "4AD"
-      ],
-      "type": "release",
-      "barcode": [
-        "191400085039",
-        "BP 38965-01 A1 4AD0850 A2 = MATT @ METROPOLIS = 3\u22c0",
-        "BP 38965-01 B1 4AD0850 B2 1\u22c0"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35020178-Big-Thief-Double-Infinity",
-      "catno": "4AD0850LPE2",
-      "thumb": "https://i.discogs.com/hAiILwhxO7YF1SI6Al9_Aw0MwnHm-pVaM13zbWXBd6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDIw/MTc4LTE3NTcyNDk4/MDYtMjE5My5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/llVTCqyYcgIeUdqcRf1Y0LtUguu7-RHXlKmU_F7s9G4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDIw/MTc4LTE3NTcyNDk4/MDYtMjE5My5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35020178",
-      "community": {
-        "want": 71,
-        "have": 354
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Sparkle",
-          "descriptions": [
-            "LP"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35081051,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Indie Rock",
-        "Folk Rock"
-      ],
       "country": "USA & Europe",
       "year": "2025",
       "format": [
@@ -164,6 +154,14 @@
         "Metropolis Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 35081051,
       "barcode": [
         "191400085046"
       ],
@@ -171,9 +169,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35081051-Big-Thief-Double-Infinity",
       "catno": "4AD0850MC",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/ZoptPVvKYmzTuaO7TR3V9AnyTao-x1cmdDCASYQsI9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDgx/MDUxLTE3NTc3OTEy/ODYtOTg1MC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/9QorP2k6nWaGov3Tddaf-yi3szXtWFZjwFgpt3LzpLQ/rs:fit/g:sm/q:90/h:935/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDgx/MDUxLTE3NTc3OTEy/ODYtOTg1MC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35081051",
@@ -194,307 +194,6 @@
       ]
     },
     {
-      "id": 35028002,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Indie Rock"
-      ],
-      "country": "US",
-      "year": "2025",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "4AD",
-        "Big Thief",
-        "Big Thief",
-        "4AD Ltd."
-      ],
-      "type": "release",
-      "barcode": [
-        "191400085091"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35028002-Big-Thief-Double-Infinity",
-      "catno": "4AD0850LPE3",
-      "thumb": "https://i.discogs.com/UXA7CYeG0YwIkzrQnFilx2sxUD3VT6DnD6aQdnvyOfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDI4/MDAyLTE3NTcxODE4/OTEtNDQ3NS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/xy-ib0MNLkhfGznzpMVNd0PD1GqKqutliw89oMcXe9E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDI4/MDAyLTE3NTcxODE4/OTEtNDQ3NS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35028002",
-      "community": {
-        "want": 71,
-        "have": 204
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Black w/ Green Sparkles [Sparkle Universe]",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35033516,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Indie Rock",
-        "Folk Rock"
-      ],
-      "country": "Worldwide",
-      "year": "2025",
-      "format": [
-        "File",
-        "FLAC",
-        "Album"
-      ],
-      "label": [
-        "4AD"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35033516-Big-Thief-Double-Infinity",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/2tHIliKLTxXKS03usYigxbRNf6_40rTg0oWyOmV-gnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMz/NTE2LTE3NTcyMzgx/MDAtNTg5OC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/SE7CJu3fy9qiOh4FgDlMotSTDaJ5srRhjQpSaQuE3tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMz/NTE2LTE3NTcyMzgx/MDAtNTg5OC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35033516",
-      "community": {
-        "want": 15,
-        "have": 15
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "9",
-          "text": "16-bit/44.1kHz",
-          "descriptions": [
-            "FLAC",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35117138,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Indie Rock"
-      ],
-      "country": "Japan",
-      "year": "2025",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "4AD",
-        "Beat Records"
-      ],
-      "type": "release",
-      "barcode": [
-        "4582616194589",
-        "= MATT @ METROPOLIS 4AD0850 A2  BP38965-01 A1",
-        "4AD0850 B2 BP38965-01 B1"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35117138-Big-Thief-Double-Infinity",
-      "catno": "4AD0850LPJP",
-      "thumb": "https://i.discogs.com/LWU9r4FVsVgjeT4QnqiUipWhGs6j7UcdluP5h4MVrSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/MTM4LTE3NTk3ODU4/MjUtMjc1NC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/Q1VzlFNuZSVzYOsaiFKeicC706zlIWjazEWVtWgf5eo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/MTM4LTE3NTk3ODU4/MjUtMjc1NC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35117138",
-      "community": {
-        "want": 39,
-        "have": 40
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "text": "Green",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35283445,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
-      "country": "Europe",
-      "year": "2025",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "4AD",
-        "Big Thief",
-        "Big Thief",
-        "4AD Ltd.",
-        "Power Station",
-        "Festival Planet",
-        "Ringo Bingo",
-        "Fivestarstudios",
-        "Fivestarstudios",
-        "Metropolis Studios",
-        "Metropolis Mastering",
-        "Optimal Media GmbH"
-      ],
-      "type": "release",
-      "barcode": [
-        "191400085015",
-        "191400085015",
-        "4AD0850 A2 = MATT @ METROPOLIS = BP 38965 01 A1",
-        "4AD0850 B2 BP 38965 01 B1 = <",
-        "4AD0850 A2 = MATT @ METROPOLIS = T\u0190 BP 38965 01 A1 ",
-        "4AD0850 B2 BP 38965 01 B1 \u25b3<"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35283445-Big-Thief-Double-Infinity",
-      "catno": "4AD0850LP",
-      "thumb": "https://i.discogs.com/6XGEgY8C_0RA_kDpiLqWyj1Dqe0vSs82nqKFyAGtoys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgz/NDQ1LTE3NTk1OTc0/OTktMzg2My5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/s-VnxyyE0KYIdLNysjbYlVG1G5bNZ8rFv8Ys6dnb9pg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgz/NDQ1LTE3NTk1OTc0/OTktMzg2My5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35283445",
-      "community": {
-        "want": 32,
-        "have": 103
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35010911,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
-      "country": "USA, Canada & Europe",
-      "year": "2025",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "4AD",
-        "Big Thief",
-        "Big Thief",
-        "4AD Ltd.",
-        "Power Station",
-        "Festival Planet",
-        "Ringo Bingo",
-        "Fivestarstudios",
-        "Fivestarstudios",
-        "Metropolis Studios",
-        "Metropolis Mastering"
-      ],
-      "type": "release",
-      "barcode": [
-        "191400085015",
-        "191400085015",
-        "4AD0850 A1 = MATT @ METROPOLIS =",
-        "4AD0850 B1"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35010911-Big-Thief-Double-Infinity",
-      "catno": "4AD0850LP",
-      "thumb": "https://i.discogs.com/3ju64Px3jtdSlZL_A7Fkh8cavNvTjt94iqHPzbcgxJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDEw/OTExLTE3NTcwMjEy/MjAtMTM2NC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/WA8dgoipr9nnfHuazgb4CpAt9yYESb1dSc30nxMBZ04/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDEw/OTExLTE3NTcwMjEy/MjAtMTM2NC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35010911",
-      "community": {
-        "want": 118,
-        "have": 908
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 35067599,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Indie Rock"
-      ],
       "country": "Japan",
       "year": "2025",
       "format": [
@@ -508,14 +207,24 @@
         "BIG LOVE RECORDS"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 35067599,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35067599-Big-Thief-Double-Infinity",
       "catno": "4AD0850LPE2BL",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/bbIp1y1YlYp2xHvuQleQXRZSFn9jQbLwEeNkPyzYQxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY3/NTk5LTE3NTc2NzYx/NTItNzUzNi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/rjaAfIs7CzSPX3Ml9iNCeRrzhc5WqYyaYX2i1Wo6hbs/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY3/NTk5LTE3NTc2NzYx/NTItNzUzNi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35067599",
@@ -538,15 +247,6 @@
       ]
     },
     {
-      "id": 34931540,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
       "country": "USA & Europe",
       "year": "2025",
       "format": [
@@ -570,6 +270,13 @@
         "Metropolis Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 34931540,
       "barcode": [
         "191400085008",
         "4AD0850 A1 = MATT @ METROPOLIS =",
@@ -579,9 +286,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/34931540-Big-Thief-Double-Infinity",
       "catno": "4AD0850LPE",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/97Z-7nqTg_Fa7gi88555VNzqBv_O3tdA_zwxqaabsxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3Njc5ODUy/NTgtMzY4MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Yg51BK4bsJsQLEIYQ3fP-xcRG04NnmguUNKV1E3H8wY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3Njc5ODUy/NTgtMzY4MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/34931540",
@@ -605,15 +314,297 @@
       ]
     },
     {
-      "id": 35847685,
-      "title": "Big Thief - Double Infinity",
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "4AD"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 35033516,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
       "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35033516-Big-Thief-Double-Infinity",
+      "catno": "none",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/2tHIliKLTxXKS03usYigxbRNf6_40rTg0oWyOmV-gnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMz/NTE2LTE3NTcyMzgx/MDAtNTg5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SE7CJu3fy9qiOh4FgDlMotSTDaJ5srRhjQpSaQuE3tw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDMz/NTE2LTE3NTcyMzgx/MDAtNTg5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35033516",
+      "community": {
+        "want": 15,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "16-bit/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 35028002,
+      "barcode": [
+        "191400085091"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35028002-Big-Thief-Double-Infinity",
+      "catno": "4AD0850LPE3",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/UXA7CYeG0YwIkzrQnFilx2sxUD3VT6DnD6aQdnvyOfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDI4/MDAyLTE3NTcxODE4/OTEtNDQ3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xy-ib0MNLkhfGznzpMVNd0PD1GqKqutliw89oMcXe9E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDI4/MDAyLTE3NTcxODE4/OTEtNDQ3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35028002",
+      "community": {
+        "want": 71,
+        "have": 203
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black w/ Green Sparkles [Sparkle Universe]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "4AD",
+        "Beat Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 35117138,
+      "barcode": [
+        "4582616194589",
+        "= MATT @ METROPOLIS 4AD0850 A2  BP38965-01 A1",
+        "4AD0850 B2 BP38965-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35117138-Big-Thief-Double-Infinity",
+      "catno": "4AD0850LPJP",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/LWU9r4FVsVgjeT4QnqiUipWhGs6j7UcdluP5h4MVrSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/MTM4LTE3NTk3ODU4/MjUtMjc1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Q1VzlFNuZSVzYOsaiFKeicC706zlIWjazEWVtWgf5eo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTE3/MTM4LTE3NTk3ODU4/MjUtMjc1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35117138",
+      "community": {
+        "want": 39,
+        "have": 40
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd.",
+        "Power Station",
+        "Festival Planet",
+        "Ringo Bingo",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Metropolis Studios",
+        "Metropolis Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
       "genre": [
         "Rock"
       ],
       "style": [
         "Folk Rock"
       ],
+      "id": 35283445,
+      "barcode": [
+        "191400085015",
+        "191400085015",
+        "4AD0850 A2 = MATT @ METROPOLIS = BP 38965 01 A1",
+        "4AD0850 B2 BP 38965 01 B1 = <",
+        "4AD0850 A2 = MATT @ METROPOLIS = T\u0190 BP 38965 01 A1 ",
+        "4AD0850 B2 BP 38965 01 B1 \u25b3<"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35283445-Big-Thief-Double-Infinity",
+      "catno": "4AD0850LP",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/6XGEgY8C_0RA_kDpiLqWyj1Dqe0vSs82nqKFyAGtoys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgz/NDQ1LTE3NTk1OTc0/OTktMzg2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/s-VnxyyE0KYIdLNysjbYlVG1G5bNZ8rFv8Ys6dnb9pg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjgz/NDQ1LTE3NTk1OTc0/OTktMzg2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35283445",
+      "community": {
+        "want": 32,
+        "have": 103
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "USA, Canada & Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "4AD",
+        "Big Thief",
+        "Big Thief",
+        "4AD Ltd.",
+        "Power Station",
+        "Festival Planet",
+        "Ringo Bingo",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Metropolis Studios",
+        "Metropolis Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 35010911,
+      "barcode": [
+        "191400085015",
+        "191400085015",
+        "4AD0850 A1 = MATT @ METROPOLIS =",
+        "4AD0850 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35010911-Big-Thief-Double-Infinity",
+      "catno": "4AD0850LP",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/3ju64Px3jtdSlZL_A7Fkh8cavNvTjt94iqHPzbcgxJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDEw/OTExLTE3NTcwMjEy/MjAtMTM2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WA8dgoipr9nnfHuazgb4CpAt9yYESb1dSc30nxMBZ04/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDEw/OTExLTE3NTcwMjEy/MjAtMTM2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35010911",
+      "community": {
+        "want": 118,
+        "have": 906
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "USA & Europe",
       "year": "2025",
       "format": [
@@ -632,14 +623,23 @@
         "4AD Ltd."
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 35847685,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35847685-Big-Thief-Double-Infinity",
       "catno": "none",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/TB1Uu1KC2xcl8nZcDeMxeaiJWfmRQ6t1gTZOgucbJ-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQ3/Njg1LTE3NjQ5NDY5/NTgtODQyNS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/0FE_X9kudCCE3v9SV0ztLaS-V67K4gfuB7oViiUThpA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQ3/Njg1LTE3NjQ5NDY5/NTgtODQyNS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35847685",
@@ -661,16 +661,6 @@
       ]
     },
     {
-      "id": 35107655,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "style": [
-        "Indie Rock"
-      ],
       "country": "UK & US",
       "year": "2025",
       "format": [
@@ -685,6 +675,14 @@
         "Metropolis Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 35107655,
       "barcode": [
         "none",
         "4AD0850 A2 = MATT @ METROPOLIS = BP38965 0A",
@@ -694,9 +692,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35107655-Big-Thief-Double-Infinity",
       "catno": "4AD0850",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/Wsa1RGEgJLwhZ3jF1a5dSrgboGFEmb0toAQwCmqKNQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTA3/NjU1LTE3NTc5NTU1/OTEtMTE4OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/lpOdLnOkLdbvEmhGh90jUSoPhBjLWMs3jQXES_PVIo0/rs:fit/g:sm/q:90/h:690/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTA3/NjU1LTE3NTc5NTU1/OTEtMTE4OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35107655",
@@ -718,15 +718,6 @@
       ]
     },
     {
-      "id": 35016338,
-      "title": "Big Thief - Double Infinity ",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
       "country": "Japan",
       "year": "2025",
       "format": [
@@ -740,6 +731,13 @@
         "4AD Ltd."
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 35016338,
       "barcode": [
         "4 582616 194497",
         "4AD0850CDJP MT 961",
@@ -750,9 +748,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35016338-Big-Thief-Double-Infinity-",
       "catno": "4AD0850CDJP",
+      "title": "Big Thief - Double Infinity ",
       "thumb": "https://i.discogs.com/N_k1sy_VB2AWuD0LBkvtHDPAnjWOXfpevhFBXHAfGj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE2/MzM4LTE3NTcwODM5/MjAtMTg2MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/gKhDPAXiYdatnrHBAHh4w0eL-flmzF7K_xTCU8ZHp5I/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE2/MzM4LTE3NTcwODM5/MjAtMTg2MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35016338",
@@ -772,16 +772,6 @@
       ]
     },
     {
-      "id": 35059184,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Indie Rock",
-        "Folk Rock"
-      ],
       "country": "Europe",
       "year": "2025",
       "format": [
@@ -798,6 +788,14 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 35059184,
       "barcode": [
         "1 91400 08502 2",
         "4AD0850CD AP41465-01 manufactured by optimal media GmbH ",
@@ -808,9 +806,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35059184-Big-Thief-Double-Infinity",
       "catno": "4AD0850CD",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/UNJlpglLs6yMt7TBUnh7Nyl4pCwyvH8LCXj5orUywpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU5/MTg0LTE3NTc0OTkx/MzctNTYwOS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/NPPzbF2388hbaAfjussGHCy0cogu10pJm1wyULiBcb4/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU5/MTg0LTE3NTc0OTkx/MzctNTYwOS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35059184",
@@ -831,15 +831,6 @@
       ]
     },
     {
-      "id": 35049344,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
       "country": "Australia & New Zealand",
       "year": "2025",
       "format": [
@@ -862,6 +853,13 @@
         "Program Records"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 35049344,
       "barcode": [
         "191400085015",
         "191400085015",
@@ -872,9 +870,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35049344-Big-Thief-Double-Infinity",
       "catno": "4AD0850LP",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/PRUB9fLBjuyjanBmXI-68pLhYkPoJoIDXA-a1f5N1Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDQ5/MzQ0LTE3NTczODQx/MTgtMjQxMS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/RU8evpKE4O4g2EE4-cpw3ieIBCkQ4pobRr2nbyTsnuk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDQ5/MzQ0LTE3NTczODQx/MTgtMjQxMS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35049344",
@@ -895,16 +895,6 @@
       ]
     },
     {
-      "id": 35015816,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Indie Rock",
-        "Folk Rock"
-      ],
       "country": "USA & Europe",
       "year": "2025",
       "format": [
@@ -925,6 +915,14 @@
         "Sonopress"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "id": 35015816,
       "barcode": [
         "191400085022",
         "[Sonopress logo] 58616353/4AD0850CD A TO Z MEDIA 21",
@@ -935,9 +933,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/35015816-Big-Thief-Double-Infinity",
       "catno": "4AD0850CD",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/PDwvx3JdF-90BC9CnFMgfAT9I0gi1o3BwFG0Y-nP8CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/ODE2LTE3NTcwOTQ1/NjktMzk4NC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Ccs-wqNWXzM1ZFXGtkwUgu3KvETwxc0dElBrqqHFKP8/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/ODE2LTE3NTcwOTQ1/NjktMzk4NC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/35015816",
@@ -957,67 +957,6 @@
       ]
     },
     {
-      "id": 35058650,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Indie Rock",
-        "Folk Rock"
-      ],
-      "country": "Worldwide",
-      "year": "2025",
-      "format": [
-        "File",
-        "FLAC",
-        "Album"
-      ],
-      "label": [
-        "4AD"
-      ],
-      "type": "release",
-      "barcode": [
-        "0191400085060"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/3960194",
-      "uri": "/release/35058650-Big-Thief-Double-Infinity",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/uGgzgD0E7yxxDmaJK-OQSr7K8iQ9Hw9AUuW6hwoiCdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU4/NjUwLTE3NTc0ODQ1/OTAtOTMzMy5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/j-KEZjV38JsRvOGi_NezYHUbsKpaUGUa6M8aVqZRIYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU4/NjUwLTE3NTc0ODQ1/OTAtOTMzMy5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/35058650",
-      "community": {
-        "want": 14,
-        "have": 6
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "9",
-          "text": "24-bit/96kHz",
-          "descriptions": [
-            "FLAC",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 36169261,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Folk Rock"
-      ],
       "country": "UK",
       "year": "2025",
       "format": [
@@ -1041,6 +980,13 @@
         "Resident"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "id": 36169261,
       "barcode": [
         "191400085008",
         "4AD0850 A1 = MATT @ METROPOLIS =",
@@ -1050,9 +996,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/36169261-Big-Thief-Double-Infinity",
       "catno": "4AD0850LPE",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/GgcZtEvgv0joo860tDrw2vYCmIOtBXaZrEhPojQTOaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY5/MjYxLTE3NjgxMjYz/NzAtNDM2OS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/oXPcygSVBboOSi7UazUc2x4oMHOiTUXHJyJ0TgDf69g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTY5/MjYxLTE3NjgxMjYz/NzAtNDM2OS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/36169261",
@@ -1075,16 +1023,58 @@
       ]
     },
     {
-      "id": 34993598,
-      "title": "Big Thief - Double Infinity",
-      "master_id": 3960194,
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "4AD"
+      ],
+      "type": "release",
       "genre": [
-        "Rock",
-        "Folk, World, & Country"
+        "Rock"
       ],
       "style": [
-        "Indie Rock"
+        "Indie Rock",
+        "Folk Rock"
       ],
+      "id": 35058650,
+      "barcode": [
+        "0191400085060"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 3960194,
+      "master_url": "https://api.discogs.com/masters/3960194",
+      "uri": "/release/35058650-Big-Thief-Double-Infinity",
+      "catno": "none",
+      "title": "Big Thief - Double Infinity",
+      "thumb": "https://i.discogs.com/uGgzgD0E7yxxDmaJK-OQSr7K8iQ9Hw9AUuW6hwoiCdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU4/NjUwLTE3NTc0ODQ1/OTAtOTMzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/j-KEZjV38JsRvOGi_NezYHUbsKpaUGUa6M8aVqZRIYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDU4/NjUwLTE3NTc0ODQ1/OTAtOTMzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35058650",
+      "community": {
+        "want": 14,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "24-bit/96kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "US",
       "year": "2025",
       "format": [
@@ -1108,6 +1098,14 @@
         "Optimal Media GmbH"
       ],
       "type": "release",
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "id": 34993598,
       "barcode": [
         "191400085091",
         "4AD0850 A2 = MATT @ METROPOLIS = BP38965-01 A1",
@@ -1117,9 +1115,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 3960194,
       "master_url": "https://api.discogs.com/masters/3960194",
       "uri": "/release/34993598-Big-Thief-Double-Infinity",
       "catno": "4AD0850LPE3",
+      "title": "Big Thief - Double Infinity",
       "thumb": "https://i.discogs.com/PZCfpOyHN2GDiaIZ1UgILICyfZPpeeX2VRQIe3OXTQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTkz/NTk4LTE3NTczNjU4/MTQtNzYyOS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/MbAejD3fhakma4TR_2wA5rV_aPligTWO1yO_5C_EbjA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTkz/NTk4LTE3NTczNjU4/MTQtNzYyOS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/34993598",
@@ -1142,234 +1142,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 3960194,
-    "genres": [
-      "Rock"
-    ],
-    "styles": [
-      "Folk Rock"
-    ],
-    "main_release": 34931540,
-    "most_recent_release": 36169261,
-    "resource_url": "https://api.discogs.com/masters/3960194",
-    "uri": "https://www.discogs.com/master/3960194-Big-Thief-Double-Infinity",
-    "versions_url": "https://api.discogs.com/masters/3960194/versions",
-    "main_release_url": "https://api.discogs.com/releases/34931540",
-    "most_recent_release_url": "https://api.discogs.com/releases/36169261",
-    "num_for_sale": 269,
-    "lowest_price": 6.98,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/16cg-5zyk4_8p_s7ZnBSyaAQQ8MuGkBOpP_1RyAx_3I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3Njc5ODUy/NTgtMzY4MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/16cg-5zyk4_8p_s7ZnBSyaAQQ8MuGkBOpP_1RyAx_3I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3Njc5ODUy/NTgtMzY4MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/97Z-7nqTg_Fa7gi88555VNzqBv_O3tdA_zwxqaabsxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3Njc5ODUy/NTgtMzY4MS5qcGVn.jpeg",
-        "width": 599,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/ATSXBB7BQbrI6jjWv_C9cTQjqvn-T-zyGJd3Q0FQlB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctODY4My5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/ATSXBB7BQbrI6jjWv_C9cTQjqvn-T-zyGJd3Q0FQlB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctODY4My5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/F_w3O8gGVg5PBApaZzMVuxYnaCExU_6XzVsmpgd_Jzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctODY4My5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/kZxkQwUoqmCRv3V66970d3eiwT6lK3Ie3CYLXCer1Qc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNzc2Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/kZxkQwUoqmCRv3V66970d3eiwT6lK3Ie3CYLXCer1Qc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNzc2Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/pkymF4aMXP7oi_gZBH2G-gUeev7aJNgy0ynipftPorU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNzc2Ni5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/JPDRfqpL9_6en9dZ8Zle5VIXbRHO5eoLGCR9a8g04MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNTY5NS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/JPDRfqpL9_6en9dZ8Zle5VIXbRHO5eoLGCR9a8g04MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNTY5NS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/bj3jE3LCBQg115_VpMU50QIpopE1Y37fAT-CvRcL83E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctNTY5NS5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/aK3T2q3bqISfTvOI1BZfsGZBNZbt62Qic1UAqBsmKBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMTYzOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/aK3T2q3bqISfTvOI1BZfsGZBNZbt62Qic1UAqBsmKBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMTYzOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/tC7A1cRu_CgMCgvdidZVRF64uYO1U_FDWh9Qe-QLoWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMTYzOC5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/IdSzsGtXE-iNzmKpqqlZ74tZbTbSE2JzJMdi_9lerfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMjkxMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/IdSzsGtXE-iNzmKpqqlZ74tZbTbSE2JzJMdi_9lerfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMjkxMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/sWOxDcwaHcb9M8I7LRYHVJ4wXedurZxtJZLn2ruKOqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTYyNDIx/MDctMjkxMi5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/N540sGlACob5U7HwIxYTp-Hd4CHLTqkMNjFNRFJ2zHg/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNDkwNi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/N540sGlACob5U7HwIxYTp-Hd4CHLTqkMNjFNRFJ2zHg/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNDkwNi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/JpMIUov830YKyqAGTMo18vL6nxulpWwZAy-jz5z2C4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNDkwNi5qcGVn.jpeg",
-        "width": 600,
-        "height": 539
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/OoQzPEHe6yfjosUDU5Km7OpCPb7fL7IHa_JxMKAStVQ/rs:fit/g:sm/q:90/h:198/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNjI2Mi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/OoQzPEHe6yfjosUDU5Km7OpCPb7fL7IHa_JxMKAStVQ/rs:fit/g:sm/q:90/h:198/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNjI2Mi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/5dfWjHh-bL6eaEJlFATiDssD_m-t5AaE09n8o3z4eVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtNjI2Mi5qcGVn.jpeg",
-        "width": 400,
-        "height": 198
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/3tpyKylQBIUrit9VkqDdVi71c5usfTEPqjuXvW9wRbI/rs:fit/g:sm/q:90/h:315/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtMjc2MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/3tpyKylQBIUrit9VkqDdVi71c5usfTEPqjuXvW9wRbI/rs:fit/g:sm/q:90/h:315/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtMjc2MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/HeqZc8KgopSETo1dKIkCrqIywivR01fkYnam63EiKnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMx/NTQwLTE3NTczNzcw/MzUtMjc2MC5qcGVn.jpeg",
-        "width": 500,
-        "height": 315
-      }
-    ],
-    "year": 2025,
-    "tracklist": [
-      {
-        "position": "A1",
-        "type_": "track",
-        "title": "Incomprehensible",
-        "duration": ""
-      },
-      {
-        "position": "A2",
-        "type_": "track",
-        "title": "Words",
-        "duration": ""
-      },
-      {
-        "position": "A3",
-        "type_": "track",
-        "title": "Los Angeles",
-        "duration": ""
-      },
-      {
-        "position": "A4",
-        "type_": "track",
-        "title": "All Night All Day",
-        "duration": ""
-      },
-      {
-        "position": "A5",
-        "type_": "track",
-        "title": "Double Infinity",
-        "duration": ""
-      },
-      {
-        "position": "B6",
-        "type_": "track",
-        "title": "No Fear",
-        "duration": ""
-      },
-      {
-        "position": "B7",
-        "type_": "track",
-        "title": "Grandmother",
-        "duration": ""
-      },
-      {
-        "position": "B8",
-        "type_": "track",
-        "title": "Happy With You",
-        "duration": ""
-      },
-      {
-        "position": "B9",
-        "type_": "track",
-        "title": "How Could I Have Known",
-        "duration": ""
-      }
-    ],
-    "artists": [
-      {
-        "name": "Big Thief",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 5009441,
-        "resource_url": "https://api.discogs.com/artists/5009441",
-        "thumbnail_url": "https://i.discogs.com/uldSI_8y9-EVTFKjv3E29Jn3gnu25YGfGavFABX3w9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwMDk0/NDEtMTc2Njg2NDgx/NC00MTgzLnBuZw.jpeg"
-      }
-    ],
-    "title": "Double Infinity",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=nSqYsmmfbCI",
-        "title": "Big Thief - Incomprehensible (Official Lyric Video)",
-        "description": "'Incomprehensible' taken from 'Double Infinity' out now, via 4AD.\nhttps://bigthief.ffm.to/doubleinfinity\n\nBig Thief is Adrianne Lenker, Buck Meek & James Krivchenia\n\nAlbum cover photo by Bobby Doherty\nArtwork concept by Adrianne Lenker, Millie Minshall, M",
-        "duration": 234,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=TzoBMKw1URA",
-        "title": "Big Thief - Words (Official Lyric Video)",
-        "description": "'Words' taken from 'Double Infinity' out 5th September, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 228,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=GOeELtc6fqg",
-        "title": "Big Thief - Los Angeles (Official Lyric Video)",
-        "description": "'Los Angeles' taken from Double Infinity out now, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 238,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=5ypvGArgmIk",
-        "title": "Big Thief - All Night All Day (Official Lyric Video)",
-        "description": "'All Night All Day' taken from 'Double Infinity' out now, via 4AD.\nhttps://bigthief.ffm.to/doubleinfinity\n\nBig Thief is Adrianne Lenker, Buck Meek & James Krivchenia\n\nAlbum cover photo by Bobby Doherty\nArtwork concept by Adrianne Lenker, Millie Minshall, ",
-        "duration": 289,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=cFYismm7Mfg",
-        "title": "Big Thief - Double Infinity (Official Spanish Lyric Video)",
-        "description": "'Double Infinity' taken from 'Double Infinity' out 5th September, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 253,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=LWeNXOzPApY",
-        "title": "Big Thief - No Fear (Official Lyric Video)",
-        "description": "'No Fear' taken from 'Double Infinity' out 5th September, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 419,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=AqIeKeQY8G4",
-        "title": "Big Thief - Grandmother (feat. Laraaji) [Official Lyric Video]",
-        "description": "'Grandmother (feat. Laraaji)' taken from 'Double Infinity' out now, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 361,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=AxaN-jFAtIw",
-        "title": "Big Thief - Happy With You (Official Lyric Video)",
-        "description": "'Happy With You' taken from 'Double Infinity' out 5th September, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 267,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=9Qu9ATdW8LY",
-        "title": "Big Thief - How Could I Have Known (Official Lyric Video)",
-        "description": "'How Could I Have Known' taken from 'Double Infinity' out 5th September, via 4AD. https://bigthief.ffm.to/doubleinfinity",
-        "duration": 289,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 3960194,
   "genres": [
     {

@@ -8,15 +8,6 @@
   },
   "results": [
     {
-      "id": 33349916,
-      "title": "Kendrick Lamar - DAMN.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Italy",
       "year": "2017",
       "format": [
@@ -29,19 +20,28 @@
         "Top Dawg Entertainment"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 33349916,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/33349916-Kendrick-Lamar-DAMN",
       "catno": "none",
+      "title": "Kendrick Lamar - DAMN.",
       "thumb": "https://i.discogs.com/lcZ4kZRqJhullmFD_gP-sG5vNS2l1K6u7zyGgzF9ml0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ5/OTE2LTE3NDE0NTc4/ODgtMzgzNC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/RIfnSE_fDv2Hjed28SlUNEVj6yslnjmdOIaB9aWeBP0/rs:fit/g:sm/q:90/h:449/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ5/OTE2LTE3NDE0NTc4/ODgtMzgzNC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/33349916",
       "community": {
-        "want": 38,
+        "want": 39,
         "have": 22
       },
       "format_quantity": 1,
@@ -57,159 +57,6 @@
       ]
     },
     {
-      "id": 10559651,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "US",
-      "year": "2017",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath/Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Aftermath/Interscope Records",
-        "Aftermath/Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "GZ Media",
-        "Henson Recording Studios",
-        "Jungle City Studios",
-        "No Excuses Studios",
-        "Windmark Studios",
-        "Bernie Grundman Mastering"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02557 61828 0",
-        "602557618280",
-        "B0026745-01A SS #22",
-        "B00266745 -A 157776E1/A5",
-        "B0026745-01B SS #16",
-        "B00266745 -C 157776E2/A",
-        "B0026745-01C SS #42",
-        "B00266745 -C 157776E3/A3",
-        "B0026745-01D SS #25",
-        "B00266745 -D 157776E4/A2",
-        "B0026745-01A SS B0026745-A 157776E1/A4",
-        "B0026745-01B SS B0026745-B 157776E2/A",
-        "B0026745-01C SS B0026745-C 157776E3/A3",
-        "B0026745-01D SS B0026745-D 157776E4/A1",
-        "B0026745-01A SS A103 B0026745-A 157776E1/A13",
-        "B0026745-01B SS B0026745-B 157776E2/A8",
-        "B0026745-01C SS C112 B0026745-C 157776E3/A13",
-        "B0026745-01D SS B0026745-D 157776E4/A"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10559651-Kendrick-Lamar-Damn",
-      "catno": "B0026745-01",
-      "thumb": "https://i.discogs.com/Yfr6N1yv57x1tMDxXZBvUCktorHfBog1-t7OP22VjKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
-      "cover_image": "https://i.discogs.com/GpKKvCvX4NB3M7KCwKBmrE9CXNH9ugMvCpe_Abco2yQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10559651",
-      "community": {
-        "want": 11831,
-        "have": 33011
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "descriptions": [
-            "LP",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10129797,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Worldwide",
-      "year": "2017",
-      "format": [
-        "File",
-        "AAC",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath/Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment"
-      ],
-      "type": "release",
-      "barcode": [
-        "1223592280"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10129797-Kendrick-Lamar-Damn",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/G36M4Ulx7kA1596jhzrvhFCNtw7uNT0W3cv5tvfW9lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/Nzk3LTE1ODYwOTE2/MTktOTE4MC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/JMFf4if8eHbqG3_IhU1CgXtZaDJpXnaCIgMXqCYNkco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/Nzk3LTE1ODYwOTE2/MTktOTE4MC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10129797",
-      "community": {
-        "want": 400,
-        "have": 139
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "14",
-          "text": "256 kbps",
-          "descriptions": [
-            "AAC",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 13902091,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -236,6 +83,13 @@
         "Sony DADC, Terre Haute"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 13902091,
       "barcode": [
         "602557611816",
         "6 02557 61181 6",
@@ -247,14 +101,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/13902091-Kendrick-Lamar-Damn",
       "catno": "B0026717-02",
+      "title": "Kendrick Lamar - Damn.",
       "thumb": "https://i.discogs.com/X6ztKeQ4EBMHd2AvP8-lRHihWXPuAMQs8vGlWLZ7nCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAy/MDkxLTE1NjM2ODUz/NTctMzM0OS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/Qy23cBLHsezWlJS6h5-CN5HBshIj8L5F4gqlsLIAMi8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAy/MDkxLTE1NjM2ODUz/NTctMzM0OS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/13902091",
       "community": {
-        "want": 398,
+        "want": 397,
         "have": 165
       },
       "format_quantity": 1,
@@ -270,15 +126,88 @@
       ]
     },
     {
-      "id": 31267262,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "GZ Media",
+        "Henson Recording Studios",
+        "Jungle City Studios",
+        "No Excuses Studios",
+        "Windmark Studios",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 10559651,
+      "barcode": [
+        "6 02557 61828 0",
+        "602557618280",
+        "B0026745-01A SS #22",
+        "B00266745 -A 157776E1/A5",
+        "B0026745-01B SS #16",
+        "B00266745 -C 157776E2/A",
+        "B0026745-01C SS #42",
+        "B00266745 -C 157776E3/A3",
+        "B0026745-01D SS #25",
+        "B00266745 -D 157776E4/A2",
+        "B0026745-01A SS B0026745-A 157776E1/A4",
+        "B0026745-01B SS B0026745-B 157776E2/A",
+        "B0026745-01C SS B0026745-C 157776E3/A3",
+        "B0026745-01D SS B0026745-D 157776E4/A1",
+        "B0026745-01A SS A103 B0026745-A 157776E1/A13",
+        "B0026745-01B SS B0026745-B 157776E2/A8",
+        "B0026745-01C SS C112 B0026745-C 157776E3/A13",
+        "B0026745-01D SS B0026745-D 157776E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/10559651-Kendrick-Lamar-Damn",
+      "catno": "B0026745-01",
+      "title": "Kendrick Lamar - Damn.",
+      "thumb": "https://i.discogs.com/Yfr6N1yv57x1tMDxXZBvUCktorHfBog1-t7OP22VjKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/GpKKvCvX4NB3M7KCwKBmrE9CXNH9ugMvCpe_Abco2yQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10559651",
+      "community": {
+        "want": 11827,
+        "have": 33007
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Worldwide",
       "year": "2017",
       "format": [
@@ -300,14 +229,23 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 31267262,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/31267262-Kendrick-Lamar-Damn",
       "catno": "none",
+      "title": "Kendrick Lamar - Damn.",
       "thumb": "https://i.discogs.com/eTHL_67GqGCpQJYZXKUhBk_9Kwzf4G52zC9DciRJ-3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY3/MjYyLTE3MjE0MjE5/MjUtOTIyMy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/LNPTwjZIiMmYT_i_ZSEnQLOJYrVnMRAxtaDE94A9vQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY3/MjYyLTE3MjE0MjE5/MjUtOTIyMy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31267262",
@@ -330,15 +268,188 @@
       ]
     },
     {
-      "id": 13028904,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
+      "country": "Worldwide",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 10129797,
+      "barcode": [
+        "1223592280"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/10129797-Kendrick-Lamar-Damn",
+      "catno": "none",
+      "title": "Kendrick Lamar - Damn.",
+      "thumb": "https://i.discogs.com/G36M4Ulx7kA1596jhzrvhFCNtw7uNT0W3cv5tvfW9lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/Nzk3LTE1ODYwOTE2/MTktOTE4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JMFf4if8eHbqG3_IhU1CgXtZaDJpXnaCIgMXqCYNkco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/Nzk3LTE1ODYwOTE2/MTktOTE4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10129797",
+      "community": {
+        "want": 400,
+        "have": 139
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Trap"
+      ],
+      "id": 22472161,
+      "barcode": [
+        "6 02557 61175 5",
+        "0602557611755",
+        "Made in Mexico",
+        "(1007889) B002671602 02 0001",
+        "IFPI LV77",
+        "(1007889) B002671602 03 0001",
+        "IFPI LV77",
+        "IFPI KKBQ",
+        "(1007889) B002671602 06 0001",
+        "IFPI LV77",
+        "IFPI KKV7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/22472161-Kendrick-Lamar-Damn",
+      "catno": "B0026716-02IN03",
+      "title": "Kendrick Lamar - Damn.",
+      "thumb": "https://i.discogs.com/zXgDyT3OFuB6JwI8mmrhJKqxWmUBGyY8IM9C8FlJWaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcy/MTYxLTE3MjUxMzk4/NTctODQwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mS6FCZaf--cKqLDslKSA6l9AmHCW-1CnimJqMVI9Lmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcy/MTYxLTE3MjUxMzk4/NTctODQwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22472161",
+      "community": {
+        "want": 249,
+        "have": 319
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "AIFF",
+        "Album"
+      ],
+      "label": [
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Top Dawg Entertainment",
+        "Aftermath/Interscope Records",
+        "Top Dawg Entertainment",
+        "Bernie Grundman Mastering",
+        "No Excuses Studios",
+        "Jungle City Studios",
+        "Windmark Studios",
+        "Henson Recording Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 17249434,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/17249434-Kendrick-Lamar-Damn",
+      "catno": "none",
+      "title": "Kendrick Lamar - Damn.",
+      "thumb": "https://i.discogs.com/IGUlm8iYjeM0xLd8cXhzRYTn1W9hzyO9ioKxRvVRnqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ5/NDM0LTE2MTI0MzAy/NDEtOTY1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PQt5Pt7vNj-AxixF36xOgvikegJEPZGeFpwcSeTDEd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ5/NDM0LTE2MTI0MzAy/NDEtOTY1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17249434",
+      "community": {
+        "want": 160,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "descriptions": [
+            "AIFF",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Unknown",
       "year": "2017",
       "format": [
@@ -354,14 +465,23 @@
         "Aftermath/Interscope Records"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 13028904,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/13028904-Kendrick-Lamar-Damn",
       "catno": "00602567261193",
+      "title": "Kendrick Lamar - Damn.",
       "thumb": "https://i.discogs.com/P34rlvj0DWor9aZP-wq64UB_FSD1EVbSYe0J9Qsx_Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI4/OTA0LTE2NTk3MTQy/MjAtNDI4OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/kDPRcN31j1-FQuL6ps9Ya93_wbDfEPfiscbA_LA5Umk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDI4/OTA0LTE2NTk3MTQy/MjAtNDI4OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/13028904",
@@ -383,15 +503,6 @@
       ]
     },
     {
-      "id": 10441142,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Europe",
       "year": "2017",
       "format": [
@@ -419,6 +530,13 @@
         "Sterling Sound"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10441142,
       "barcode": [
         "602557618280",
         "6 02557 61828 0",
@@ -452,15 +570,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10441142-Kendrick-Lamar-Damn",
       "catno": "00602557618280",
+      "title": "Kendrick Lamar - Damn.",
       "thumb": "https://i.discogs.com/IRAWQPNPATslUN1m5eMdPTTioJfa_yG5sj-m28NojP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQx/MTQyLTE1MDQwODcx/MTUtODM5OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/ZpDDMOklvpsO_hrejhVAm6taSaFr17j4FTlmjgowujg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQx/MTQyLTE1MDQwODcx/MTUtODM5OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10441142",
       "community": {
-        "want": 4219,
-        "have": 16600
+        "want": 4217,
+        "have": 16595
       },
       "format_quantity": 2,
       "formats": [
@@ -476,15 +596,6 @@
       ]
     },
     {
-      "id": 10448824,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -508,6 +619,13 @@
         "GZ Media"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10448824,
       "barcode": [
         "6 02557 65653 4",
         "6 02557 61828 0",
@@ -520,15 +638,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10448824-Kendrick-Lamar-Damn",
       "catno": "B0026745-01",
+      "title": "Kendrick Lamar - Damn.",
       "thumb": "https://i.discogs.com/nP7-8BJKQ8mSUmnlltpSbP_lP04YTQvBrv19Cc6r9b4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ4/ODI0LTE0OTg1MzIx/ODQtOTk1NC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/kfmRvfrPXZFjLTBShWYR0CkRC47x3NeOHgqPMdzprmE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ4/ODI0LTE0OTg1MzIx/ODQtOTk1NC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10448824",
       "community": {
-        "want": 4922,
-        "have": 8974
+        "want": 4921,
+        "have": 8973
       },
       "format_quantity": 2,
       "formats": [
@@ -545,135 +665,6 @@
       ]
     },
     {
-      "id": 17249434,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Unknown",
-      "year": "2017",
-      "format": [
-        "File",
-        "AIFF",
-        "Album"
-      ],
-      "label": [
-        "Aftermath/Interscope Records",
-        "Aftermath/Interscope Records",
-        "Top Dawg Entertainment",
-        "Aftermath/Interscope Records",
-        "Top Dawg Entertainment",
-        "Bernie Grundman Mastering",
-        "No Excuses Studios",
-        "Jungle City Studios",
-        "Windmark Studios",
-        "Henson Recording Studios"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/17249434-Kendrick-Lamar-Damn",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/IGUlm8iYjeM0xLd8cXhzRYTn1W9hzyO9ioKxRvVRnqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ5/NDM0LTE2MTI0MzAy/NDEtOTY1MS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/PQt5Pt7vNj-AxixF36xOgvikegJEPZGeFpwcSeTDEd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQ5/NDM0LTE2MTI0MzAy/NDEtOTY1MS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/17249434",
-      "community": {
-        "want": 160,
-        "have": 4
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "14",
-          "descriptions": [
-            "AIFF",
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 22472161,
-      "title": "Kendrick Lamar - Damn.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious",
-        "Trap"
-      ],
-      "country": "US",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Technicolor, Guadalajara, Mexico",
-        "Technicolor, Guadalajara, Mexico"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02557 61175 5",
-        "0602557611755",
-        "Made in Mexico",
-        "(1007889) B002671602 02 0001",
-        "IFPI LV77",
-        "(1007889) B002671602 03 0001",
-        "IFPI LV77",
-        "IFPI KKBQ",
-        "(1007889) B002671602 06 0001",
-        "IFPI LV77",
-        "IFPI KKV7"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/22472161-Kendrick-Lamar-Damn",
-      "catno": "B0026716-02IN03",
-      "thumb": "https://i.discogs.com/zXgDyT3OFuB6JwI8mmrhJKqxWmUBGyY8IM9C8FlJWaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcy/MTYxLTE3MjUxMzk4/NTctODQwMy5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/mS6FCZaf--cKqLDslKSA6l9AmHCW-1CnimJqMVI9Lmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcy/MTYxLTE3MjUxMzk4/NTctODQwMy5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/22472161",
-      "community": {
-        "want": 250,
-        "have": 319
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10351304,
-      "title": "Kendrick Lamar - DAMN.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -687,14 +678,23 @@
         "Interscope Records"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10351304,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10351304-Kendrick-Lamar-DAMN",
       "catno": "none",
+      "title": "Kendrick Lamar - DAMN.",
       "thumb": "https://i.discogs.com/1OsM1mIFfRHuQ2TeDgPKwvRMaHYHe-Ri7QClHAzFMWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUx/MzA0LTE0OTU4MTcz/MDUtNzY2Mi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/7AW5HGKQWiFnpPY7BwPIj4mXfuMEMi0ySAR1a9Pqke4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUx/MzA0LTE0OTU4MTcz/MDUtNzY2Mi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10351304",
@@ -715,15 +715,6 @@
       ]
     },
     {
-      "id": 32631930,
-      "title": "Kendrick Lamar - Damn. Collectors Edition.",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Worldwide",
       "year": "2017",
       "format": [
@@ -738,6 +729,13 @@
         "Aftermath/Interscope Records"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 32631930,
       "barcode": [
         "1403517283"
       ],
@@ -745,9 +743,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/32631930-Kendrick-Lamar-Damn-Collectors-Edition",
       "catno": "none",
+      "title": "Kendrick Lamar - Damn. Collectors Edition.",
       "thumb": "https://i.discogs.com/-pVDc7JL0UDKqMvY4UBfIFR8aTCHsULx_qOSuwel4Pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMx/OTMwLTE3MzQ4MjUy/NzEtMjU2OC5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/6dwwX1AfOHm5dK1nVTl9ZUq0ZP5coawT_m7m35U0eyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjMx/OTMwLTE3MzQ4MjUy/NzEtMjU2OC5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/32631930",
@@ -769,15 +769,142 @@
       ]
     },
     {
-      "id": 24968269,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
+      "country": "South Korea",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Universal Music Korea",
+        "Universal Music Distribution",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "Jungle City Studios",
+        "Windmark Studios",
+        "Henson Recording Studios",
+        "No Excuses Studios",
+        "Bernie Grundman Mastering",
+        "Universal Music Distribution"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 19429945,
+      "barcode": [
+        "8 808678 263466",
+        "8808678263456"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/19429945-Kendrick-Lamar-Damn",
+      "catno": "DS31439-578 117-5",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/szReEOv7qZWhNS_hpZN0xEi5xcbQlCjLQew6wNuze4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI5/OTQ1LTE2MjU4MjQ1/ODAtMzUwNS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/yRoX7zggA3fNHAvqt3bJT2a2VNS_aN8A1yigj1juSCE/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI5/OTQ1LTE2MjU4MjQ1/ODAtMzUwNS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19429945",
+      "community": {
+        "want": 202,
+        "have": 29
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Numbered"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "Bernie Grundman Mastering",
+        "No Excuses Studios",
+        "Windmark Studios",
+        "Jungle City Studios",
+        "Henson Recording Studios"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 11565893,
+      "barcode": [
+        "602567140290",
+        "6 02567 14029 0",
+        "LC 06406",
+        "Sony DADC ['universal' logo] 6714029 21 A00",
+        "Sony DADC ['universal' logo] 6714029 15 A02",
+        "Sony DADC ['universal' logo] 6714029 15 A01",
+        "IFPI L551",
+        "IFPI L555",
+        "IFPI 946Q",
+        "IFPI 942R",
+        "IFPI 94V2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/11565893-Kendrick-Lamar-Damn",
+      "catno": "00602567140290",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/1yJYBg4fusBYGKfwQuo1QWvZDeGct1QIBuSJKyuSInI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODkzLTE1MTg2MTA5/MTMtMjM1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/t3dRzf_OxCKxYeFziUCRU0Tv-CM58Lw5gfP_u7-k150/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODkzLTE1MTg2MTA5/MTMtMjM1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11565893",
+      "community": {
+        "want": 554,
+        "have": 478
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Collectors Edition",
+          "descriptions": [
+            "Album",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Argentina",
       "year": "2017",
       "format": [
@@ -802,6 +929,13 @@
         "Teltron"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 24968269,
       "barcode": [
         "602557611755",
         "6 02557 61175 5",
@@ -814,9 +948,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/24968269-Kendrick-Lamar-Damn",
       "catno": "5761175",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/IBRwn3Vqp8oyXwN46JJN1Mv34WWvEC1ZGGbs486Qhv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY4/MjY5LTE2NjY5Mjcw/MTktNjM1Mi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/C5EVj65FuVG8bOTGndaG7NwXPWN2Fr6Un3NZM0ip1Kc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY4/MjY5LTE2NjY5Mjcw/MTktNjM1Mi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/24968269",
@@ -837,15 +973,6 @@
       ]
     },
     {
-      "id": 11354648,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -872,6 +999,13 @@
         "Sony DADC, Terre Haute"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 11354648,
       "barcode": [
         "602557611755",
         "6 02557 61175 5",
@@ -883,15 +1017,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/11354648-Kendrick-Lamar-Damn",
       "catno": "B0026716-02IN03",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/n0_gqIHMCikb-OF0O0X5zj9kpRQxCrLxZJT7R3QO8wE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU0/NjQ4LTE1MTQ4MzAw/MjYtMjc2NC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/VX2LKxcdvruMetAL5BI1kasSmU25L5teJBrAmByk8m4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU0/NjQ4LTE1MTQ4MzAw/MjYtMjc2NC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/11354648",
       "community": {
-        "want": 616,
-        "have": 2868
+        "want": 615,
+        "have": 2863
       },
       "format_quantity": 1,
       "formats": [
@@ -905,151 +1041,6 @@
       ]
     },
     {
-      "id": 19429945,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "South Korea",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Universal Music Korea",
-        "Universal Music Distribution",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "Jungle City Studios",
-        "Windmark Studios",
-        "Henson Recording Studios",
-        "No Excuses Studios",
-        "Bernie Grundman Mastering",
-        "Universal Music Distribution"
-      ],
-      "type": "release",
-      "barcode": [
-        "8 808678 263466",
-        "8808678263456"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/19429945-Kendrick-Lamar-Damn",
-      "catno": "DS31439-578 117-5",
-      "thumb": "https://i.discogs.com/szReEOv7qZWhNS_hpZN0xEi5xcbQlCjLQew6wNuze4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI5/OTQ1LTE2MjU4MjQ1/ODAtMzUwNS5wbmc.jpeg",
-      "cover_image": "https://i.discogs.com/yRoX7zggA3fNHAvqt3bJT2a2VNS_aN8A1yigj1juSCE/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI5/OTQ1LTE2MjU4MjQ1/ODAtMzUwNS5wbmc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/19429945",
-      "community": {
-        "want": 202,
-        "have": 29
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 11565893,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Europe",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album",
-        "Numbered"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "Bernie Grundman Mastering",
-        "No Excuses Studios",
-        "Windmark Studios",
-        "Jungle City Studios",
-        "Henson Recording Studios"
-      ],
-      "type": "release",
-      "barcode": [
-        "602567140290",
-        "6 02567 14029 0",
-        "LC 06406",
-        "Sony DADC ['universal' logo] 6714029 21 A00",
-        "Sony DADC ['universal' logo] 6714029 15 A02",
-        "Sony DADC ['universal' logo] 6714029 15 A01",
-        "IFPI L551",
-        "IFPI L555",
-        "IFPI 946Q",
-        "IFPI 942R",
-        "IFPI 94V2"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/11565893-Kendrick-Lamar-Damn",
-      "catno": "00602567140290",
-      "thumb": "https://i.discogs.com/1yJYBg4fusBYGKfwQuo1QWvZDeGct1QIBuSJKyuSInI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODkzLTE1MTg2MTA5/MTMtMjM1MS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/t3dRzf_OxCKxYeFziUCRU0Tv-CM58Lw5gfP_u7-k150/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/ODkzLTE1MTg2MTA5/MTMtMjM1MS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/11565893",
-      "community": {
-        "want": 555,
-        "have": 479
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Collectors Edition",
-          "descriptions": [
-            "Album",
-            "Numbered"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 27185697,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Israel",
       "year": "2017",
       "format": [
@@ -1075,6 +1066,13 @@
         "Helicon Records"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 27185697,
       "barcode": [
         "www.cdi.co.il 5761175 D1 3203287"
       ],
@@ -1082,9 +1080,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/27185697-Kendrick-Lamar-Damn",
       "catno": "B0026716-02",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/EPAboP5gpYfxnl0gSyfnfslyAgJBQ-LdawjMVfimw7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTg1/Njk3LTE2ODUwMTY4/NjAtODI4MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/WCSidOcQz9trMxjKT995fCwrW2SYcqiQ-bhRcRm2aBI/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTg1/Njk3LTE2ODUwMTY4/NjAtODI4MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/27185697",
@@ -1104,15 +1104,6 @@
       ]
     },
     {
-      "id": 11254474,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -1134,6 +1125,13 @@
         "Top Dawg Entertainment"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 11254474,
       "barcode": [
         "602567140290",
         "6 02567 14029 0"
@@ -1142,14 +1140,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/11254474-Kendrick-Lamar-Damn",
       "catno": "B0027757-02",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/8rg00pzqmajCXEs7rHSrBeK7Tmf_I6V1BgxjPgXbigw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU0/NDc0LTE1MTI4MjYx/NzYtOTE4My5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/toQRxnH6ULUY08ZewyTMEg-jT7fitsyxK8TkPfxu5WE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU0/NDc0LTE1MTI4MjYx/NzYtOTE4My5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/11254474",
       "community": {
-        "want": 704,
+        "want": 703,
         "have": 1195
       },
       "format_quantity": 1,
@@ -1166,80 +1166,6 @@
       ]
     },
     {
-      "id": 10426934,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Poland",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "Zagraniczna P\u0142yta - Polska Cena"
-      ],
-      "type": "release",
-      "barcode": [
-        "602557711530",
-        "6 02557 71153 0",
-        "[Universal] D52638 00602557711530",
-        "IFPI LD02",
-        "IFPI 5J82",
-        "BIEM/SDRM",
-        "LC 06406"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10426934-Kendrick-Lamar-Damn",
-      "catno": "00602557711530 (86)",
-      "thumb": "https://i.discogs.com/50EhD5mMKvtmzGnUjs1Sns5zQp-b216qLqwvmAwzkDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI2/OTM0LTE0OTcyMDA1/ODYtNzAzMS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/BuT7hICy0CHb1MWCdB-xfpsMwdcSRR98k1dheSJJIAc/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI2/OTM0LTE0OTcyMDA1/ODYtNzAzMS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10426934",
-      "community": {
-        "want": 428,
-        "have": 302
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10191384,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Europe",
       "year": "2017",
       "format": [
@@ -1265,6 +1191,13 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10191384,
       "barcode": [
         "6 02557 61175 5",
         "602557611755",
@@ -1288,15 +1221,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10191384-Kendrick-Lamar-Damn",
       "catno": "00602557611755",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/VeIl4mvtn9maOK69WtdV1zEy2Pzo_FJYVtXRb2nDZ6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkx/Mzg0LTE1MDAzMTkw/MjctNjc0OS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/8Opt0_rMHOVrNQTOyrlv7rKVDvU6lQTZ-6MUKmF1OXo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkx/Mzg0LTE1MDAzMTkw/MjctNjc0OS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10191384",
       "community": {
-        "want": 927,
-        "have": 4907
+        "want": 926,
+        "have": 4906
       },
       "format_quantity": 1,
       "formats": [
@@ -1310,15 +1245,150 @@
       ]
     },
     {
-      "id": 30388841,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
+      "country": "Mexico",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Group",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "Universal Music M\u00e9xico, S.A. de C.V.",
+        "Universal Music M\u00e9xico, S.A. de C.V.",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 12627160,
+      "barcode": [
+        "6 02557 61175 5",
+        "602557611755",
+        "(943843) 5761175 01 0001",
+        "IFPI L779",
+        "IFPI KK6M"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/12627160-Kendrick-Lamar-Damn",
+      "catno": "5761175",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/nXHhqXVyNUVA1kY1Y-sEtx8sN7_dvM90gEj7Gv4HXq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI3/MTYwLTE1NTA5NzI2/MzAtMTUzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pkumH03bioKmboLTeaabkUTWzBX6xpaQJH1FD6p_QsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI3/MTYwLTE1NTA5NzI2/MzAtMTUzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12627160",
+      "community": {
+        "want": 367,
+        "have": 145
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "Bernie Grundman Mastering",
+        "No Excuses Studios",
+        "Jungle City Studios",
+        "Windmark Studios",
+        "Henson Recording Studios",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Contemporary R&B",
+        "Jazzy Hip-Hop",
+        "Trap",
+        "Boom Bap"
+      ],
+      "id": 10133538,
+      "barcode": [
+        "602557611755",
+        "6 02557 61175 5",
+        "IN03",
+        "K03",
+        "DIDX-1085286 1 B02",
+        "DIDX-1085286 1 C01",
+        "DIDX-1085286 1 A02",
+        "IFPI L329",
+        "IFPI 50BV",
+        "IFPI 50BQ",
+        "IFPI 50BS"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/10133538-Kendrick-Lamar-Damn",
+      "catno": "B0026716-02",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/5gflVLxiFzEVd6bMZhfLHTmg7li-O4PgDpaFubQJO3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n9BtVuF-dJtmghgg5MhBtN_nME-Wqb4SboSfeBxnWVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10133538",
+      "community": {
+        "want": 1981,
+        "have": 3033
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Romania",
       "year": "2017",
       "format": [
@@ -1332,6 +1402,13 @@
         "Universal Music Romania & Bulgaria"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 30388841,
       "barcode": [
         "602557711530",
         "D52638 00602557711530",
@@ -1341,9 +1418,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/30388841-Kendrick-Lamar-Damn",
       "catno": "00602557711530 (70)",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/HXDbr9gnyqJ1T-wlmaBce-scYjAG2V4Tb80P2Y65mAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzg4/ODQxLTE3MTMwMzIz/MTUtODEwMC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/JESR2GvA2RYbR7Ea4v_tCDfVHvoz2hTHrX-N3fwRmQA/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzg4/ODQxLTE3MTMwMzIz/MTUtODEwMC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/30388841",
@@ -1363,15 +1442,6 @@
       ]
     },
     {
-      "id": 10689178,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Europe",
       "year": "2017",
       "format": [
@@ -1401,6 +1471,13 @@
         "HHV.DE"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10689178,
       "barcode": [
         "6 02557 85021 5",
         "602557850215",
@@ -1416,15 +1493,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10689178-Kendrick-Lamar-Damn",
       "catno": "00602557618280",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/Fnv73Azc7GwaUjhsRhJVpH4D0M2z9-rrlAjSUiKK4q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/MTc4LTE1MDI1MzIw/NzctMjE0NS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/2mSVrMqO_sdiH-aL1iguLGH0S4mnDB8zNC1y7lvVI1k/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/MTc4LTE1MDI1MzIw/NzctMjE0NS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10689178",
       "community": {
-        "want": 4611,
-        "have": 4772
+        "want": 4612,
+        "have": 4771
       },
       "format_quantity": 2,
       "formats": [
@@ -1441,86 +1520,7 @@
       ]
     },
     {
-      "id": 12627160,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Mexico",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Group",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "Universal Music M\u00e9xico, S.A. de C.V.",
-        "Universal Music M\u00e9xico, S.A. de C.V.",
-        "Technicolor, Guadalajara, Mexico",
-        "Technicolor, Guadalajara, Mexico"
-      ],
-      "type": "release",
-      "barcode": [
-        "6 02557 61175 5",
-        "602557611755",
-        "(943843) 5761175 01 0001",
-        "IFPI L779",
-        "IFPI KK6M"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/12627160-Kendrick-Lamar-Damn",
-      "catno": "5761175",
-      "thumb": "https://i.discogs.com/nXHhqXVyNUVA1kY1Y-sEtx8sN7_dvM90gEj7Gv4HXq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI3/MTYwLTE1NTA5NzI2/MzAtMTUzNi5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/pkumH03bioKmboLTeaabkUTWzBX6xpaQJH1FD6p_QsY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI3/MTYwLTE1NTA5NzI2/MzAtMTUzNi5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/12627160",
-      "community": {
-        "want": 367,
-        "have": 145
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10133538,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "style": [
-        "Conscious",
-        "Contemporary R&B",
-        "Jazzy Hip-Hop",
-        "Trap",
-        "Boom Bap"
-      ],
-      "country": "US",
+      "country": "Poland",
       "year": "2017",
       "format": [
         "CD",
@@ -1538,40 +1538,40 @@
         "Interscope Records",
         "Top Dawg Entertainment",
         "Top Dawg Entertainment",
-        "Bernie Grundman Mastering",
-        "No Excuses Studios",
-        "Jungle City Studios",
-        "Windmark Studios",
-        "Henson Recording Studios",
-        "Sony DADC, Terre Haute"
+        "Zagraniczna P\u0142yta - Polska Cena"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10426934,
       "barcode": [
-        "602557611755",
-        "6 02557 61175 5",
-        "IN03",
-        "K03",
-        "DIDX-1085286 1 B02",
-        "DIDX-1085286 1 C01",
-        "DIDX-1085286 1 A02",
-        "IFPI L329",
-        "IFPI 50BV",
-        "IFPI 50BQ",
-        "IFPI 50BS"
+        "602557711530",
+        "6 02557 71153 0",
+        "[Universal] D52638 00602557711530",
+        "IFPI LD02",
+        "IFPI 5J82",
+        "BIEM/SDRM",
+        "LC 06406"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10133538-Kendrick-Lamar-Damn",
-      "catno": "B0026716-02",
-      "thumb": "https://i.discogs.com/5gflVLxiFzEVd6bMZhfLHTmg7li-O4PgDpaFubQJO3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/n9BtVuF-dJtmghgg5MhBtN_nME-Wqb4SboSfeBxnWVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10133538",
+      "uri": "/release/10426934-Kendrick-Lamar-Damn",
+      "catno": "00602557711530 (86)",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/50EhD5mMKvtmzGnUjs1Sns5zQp-b216qLqwvmAwzkDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI2/OTM0LTE0OTcyMDA1/ODYtNzAzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BuT7hICy0CHb1MWCdB-xfpsMwdcSRR98k1dheSJJIAc/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI2/OTM0LTE0OTcyMDA1/ODYtNzAzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10426934",
       "community": {
-        "want": 1983,
-        "have": 3033
+        "want": 428,
+        "have": 302
       },
       "format_quantity": 1,
       "formats": [
@@ -1585,15 +1585,6 @@
       ]
     },
     {
-      "id": 10684334,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Russia",
       "year": "2017",
       "format": [
@@ -1605,14 +1596,23 @@
         "ChannelTapes"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10684334,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10684334-Kendrick-Lamar-Damn",
       "catno": "CT003",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/gLrQIXw9P7NUW2PiqKrkHlgeXErSFTtdukrqdtWiTl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg0/MzM0LTE1MDIzNTUw/MDgtNzc5OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/F3RC0qX8zG6zY32pG4kfPfaRnt2jGNrmi4-xulkU-Cw/rs:fit/g:sm/q:90/h:884/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg0/MzM0LTE1MDIzNTUw/MDgtNzc5OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10684334",
@@ -1633,180 +1633,6 @@
       ]
     },
     {
-      "id": 10343002,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Japan",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Interscope Records",
-        "Universal International",
-        "Universal Music LLC",
-        "Universal Music LLC"
-      ],
-      "type": "release",
-      "barcode": [
-        "4988031221303"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10343002-Kendrick-Lamar-Damn",
-      "catno": "UICS-1325",
-      "thumb": "https://i.discogs.com/Jvu_j8qHS0T2p9EihQo_53-je_DOp88mL4TU-r9szJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQz/MDAyLTE3MTY0Mjkx/MjgtOTQ5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/24B2eoNwLNgTs6KZiYeh984uby0g3oVIfQPf-_rbKuY/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQz/MDAyLTE3MTY0Mjkx/MjgtOTQ5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10343002",
-      "community": {
-        "want": 460,
-        "have": 86
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 30791613,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "Unknown",
-      "year": "2017",
-      "format": [
-        "Cassette",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/30791613-Kendrick-Lamar-Damn",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/NTzCDVlZxZVJEoRLC7Qm1FoVf6aeAbi6AIc5ohy9nbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkx/NjEzLTE3MTY3OTQ2/MjYtNzAxNS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/xn_MaP7g2bEbdzjRHAkj0BvfTjPJglGSFXKKQmu3hG0/rs:fit/g:sm/q:90/h:386/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkx/NjEzLTE3MTY3OTQ2/MjYtNzAxNS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/30791613",
-      "community": {
-        "want": 164,
-        "have": 42
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Cassette",
-          "qty": "1",
-          "text": "Clear",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 23401721,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
-      "country": "US",
-      "year": "2017",
-      "format": [
-        "CD",
-        "Album"
-      ],
-      "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
-        "Interscope Records",
-        "Universal Music Distribution",
-        "Universal Music Distribution",
-        "Aftermath Records",
-        "Aftermath Records",
-        "Interscope Records",
-        "Interscope Records",
-        "Top Dawg Entertainment",
-        "Top Dawg Entertainment",
-        "Technicolor, Guadalajara, Mexico",
-        "Technicolor, Guadalajara, Mexico"
-      ],
-      "type": "release",
-      "barcode": [
-        "602567140290",
-        "6 02567 14029 0",
-        "(1018564) A9 B002775702-2 04 0001",
-        "IFPI LT40",
-        "IFPI KKAY"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/23401721-Kendrick-Lamar-Damn",
-      "catno": "B0027757-02",
-      "thumb": "https://i.discogs.com/m3nzDv3DEgP4_ZavPuf_krBWrnvYhnI1yTLmIq_k65I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAx/NzIxLTE2NTM4NjQz/MDMtOTAyOS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/_rpWPYQmj9quBg8lEnZP-pwPc5Rnvp7o_XQ0KkDzn1Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAx/NzIxLTE2NTM4NjQz/MDMtOTAyOS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/23401721",
-      "community": {
-        "want": 236,
-        "have": 545
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "CD",
-          "qty": "1",
-          "text": "Collector's Edition",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 10135216,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -1820,14 +1646,23 @@
         "Interscope Records"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10135216,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10135216-Kendrick-Lamar-Damn",
       "catno": "none",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/nNBaqKgpNr0X2L1acTtiQ2jrQ4HSUJdJ6vwvKHA0SuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM1/MjE2LTE2NTk3MTQy/MTktMzYzOS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/kNfYUBXYqME4lUL1xJ-UDET4z41wIuq_PZmKqE6R-ds/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM1/MjE2LTE2NTk3MTQy/MTktMzYzOS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10135216",
@@ -1849,15 +1684,6 @@
       ]
     },
     {
-      "id": 31765259,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Japan",
       "year": "2017",
       "format": [
@@ -1870,6 +1696,13 @@
         "Top Dawg Entertainment"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 31765259,
       "barcode": [
         "4988031292730",
         "IFPI 45N0",
@@ -1880,14 +1713,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/31765259-Kendrick-Lamar-Damn",
       "catno": "UICS-1342",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/pOHUQlEgyg_CbBHOvtjgc51THgTrpe09W4qWsGr1obk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY1/MjU5LTE3MjY2NjQz/MDUtMjc4OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/iNLELJW4gTyBVh00HUderA-9KxPXQ_ynl5k6NG030VQ/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY1/MjU5LTE3MjY2NjQz/MDUtMjc4OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31765259",
       "community": {
-        "want": 120,
+        "want": 119,
         "have": 7
       },
       "format_quantity": 1,
@@ -1903,15 +1738,67 @@
       ]
     },
     {
-      "id": 10594721,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Aftermath/Interscope Records",
+        "Aftermath/Interscope Records",
+        "Universal Music Australia",
+        "Universal Music Australia",
+        "No Excuses Studios",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 10332366,
+      "barcode": [
+        "6 02557 61175 5",
+        "602557611755",
+        "[Universal logo] ANZ B002671602 A0101090273-0101 25",
+        "IFPI LV90",
+        "IFPI 6580",
+        "IFPI 6549"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/10332366-Kendrick-Lamar-Damn",
+      "catno": "B002671602",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/IzkrZ5XAVEyCD-t4g81_Mit2SYYHVoj0BHyvpjkgCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMy/MzY2LTE0OTU0NzQy/MjctMjg5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4Rsc_mJ1qD_F_DTiqb3QFiM0z39yj53pdwc-GUV8fVY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMy/MzY2LTE0OTU0NzQy/MjctMjg5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10332366",
+      "community": {
+        "want": 456,
+        "have": 302
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Argentina",
       "year": "2017",
       "format": [
@@ -1935,6 +1822,13 @@
         "Teltron"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10594721,
       "barcode": [
         "602557611755",
         "6 02557 61175 5",
@@ -1947,9 +1841,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10594721-Kendrick-Lamar-Damn",
       "catno": "5761175",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/7TWQsC6BlvVspNdUWfJfJCUeIllqM5eivHLpv16xkbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NzIxLTE1MDA4Mjcy/NzgtNzM4MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/UVRMqXDrsJYMKWdDw_cQkazIge3oOZkMxiHJQVpWuHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NzIxLTE1MDA4Mjcy/NzgtNzM4MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10594721",
@@ -1969,54 +1865,93 @@
       ]
     },
     {
-      "id": 10332366,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
-      "country": "Australia",
+      "id": 30791613,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/30791613-Kendrick-Lamar-Damn",
+      "catno": "none",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/NTzCDVlZxZVJEoRLC7Qm1FoVf6aeAbi6AIc5ohy9nbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkx/NjEzLTE3MTY3OTQ2/MjYtNzAxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xn_MaP7g2bEbdzjRHAkj0BvfTjPJglGSFXKKQmu3hG0/rs:fit/g:sm/q:90/h:386/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkx/NjEzLTE3MTY3OTQ2/MjYtNzAxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30791613",
+      "community": {
+        "want": 164,
+        "have": 42
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Japan",
       "year": "2017",
       "format": [
         "CD",
         "Album"
       ],
       "label": [
-        "Top Dawg Entertainment",
-        "Aftermath Entertainment",
         "Interscope Records",
-        "Aftermath/Interscope Records",
-        "Aftermath/Interscope Records",
-        "Universal Music Australia",
-        "Universal Music Australia",
-        "No Excuses Studios",
-        "Sony DADC Australia"
+        "Universal International",
+        "Universal Music LLC",
+        "Universal Music LLC"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10343002,
       "barcode": [
-        "6 02557 61175 5",
-        "602557611755",
-        "[Universal logo] ANZ B002671602 A0101090273-0101 25",
-        "IFPI LV90",
-        "IFPI 6580",
-        "IFPI 6549"
+        "4988031221303"
       ],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
-      "uri": "/release/10332366-Kendrick-Lamar-Damn",
-      "catno": "B002671602",
-      "thumb": "https://i.discogs.com/IzkrZ5XAVEyCD-t4g81_Mit2SYYHVoj0BHyvpjkgCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMy/MzY2LTE0OTU0NzQy/MjctMjg5Ni5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/4Rsc_mJ1qD_F_DTiqb3QFiM0z39yj53pdwc-GUV8fVY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMy/MzY2LTE0OTU0NzQy/MjctMjg5Ni5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/10332366",
+      "uri": "/release/10343002-Kendrick-Lamar-Damn",
+      "catno": "UICS-1325",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/Jvu_j8qHS0T2p9EihQo_53-je_DOp88mL4TU-r9szJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQz/MDAyLTE3MTY0Mjkx/MjgtOTQ5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/24B2eoNwLNgTs6KZiYeh984uby0g3oVIfQPf-_rbKuY/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQz/MDAyLTE3MTY0Mjkx/MjgtOTQ5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10343002",
       "community": {
-        "want": 456,
-        "have": 302
+        "want": 460,
+        "have": 86
       },
       "format_quantity": 1,
       "formats": [
@@ -2030,15 +1965,71 @@
       ]
     },
     {
-      "id": 10649767,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Aftermath Entertainment",
+        "Interscope Records",
+        "Universal Music Distribution",
+        "Universal Music Distribution",
+        "Aftermath Records",
+        "Aftermath Records",
+        "Interscope Records",
+        "Interscope Records",
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [
         "Conscious"
       ],
+      "id": 23401721,
+      "barcode": [
+        "602567140290",
+        "6 02567 14029 0",
+        "(1018564) A9 B002775702-2 04 0001",
+        "IFPI LT40",
+        "IFPI KKAY"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1164779,
+      "master_url": "https://api.discogs.com/masters/1164779",
+      "uri": "/release/23401721-Kendrick-Lamar-Damn",
+      "catno": "B0027757-02",
+      "title": "Kendrick Lamar - Damn",
+      "thumb": "https://i.discogs.com/m3nzDv3DEgP4_ZavPuf_krBWrnvYhnI1yTLmIq_k65I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAx/NzIxLTE2NTM4NjQz/MDMtOTAyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_rpWPYQmj9quBg8lEnZP-pwPc5Rnvp7o_XQ0KkDzn1Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAx/NzIxLTE2NTM4NjQz/MDMtOTAyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23401721",
+      "community": {
+        "want": 235,
+        "have": 545
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Collector's Edition",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Canada",
       "year": "2017",
       "format": [
@@ -2056,6 +2047,13 @@
         "No Excuses Studios"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10649767,
       "barcode": [
         "602557611755"
       ],
@@ -2063,9 +2061,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10649767-Kendrick-Lamar-Damn",
       "catno": "B002671602",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/CkVkba_SSNc9M8m-S1u6VURhwBPG6peiYz7wApzVUUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ5/NzY3LTE1MDI0NjAw/NzItOTg1Ny5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/lW4SNpkMkGpKoBsNpHESyzjaEZ0fbC6WH0QoyVrIImE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ5/NzY3LTE1MDI0NjAw/NzItOTg1Ny5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10649767",
@@ -2085,15 +2085,6 @@
       ]
     },
     {
-      "id": 10484968,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Bulgaria",
       "year": "2017",
       "format": [
@@ -2114,6 +2105,13 @@
         "Top Dawg Entertainment"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10484968,
       "barcode": [
         "025577153",
         "60255771530"
@@ -2122,9 +2120,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10484968-Kendrick-Lamar-Damn",
       "catno": "0060255711530(70)",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/aYmmKI37TbAceTuU_IyuFl3EVdAJy1anRIW5NTnkWXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/OTY4LTE0OTg0MDgy/MjYtNzYwMS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/R3lExh7Wy_o5AL-fNmAxF6Y9D_A0USAKBjTl4J8ab_k/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/OTY4LTE0OTg0MDgy/MjYtNzYwMS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10484968",
@@ -2144,15 +2144,6 @@
       ]
     },
     {
-      "id": 10493899,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "US",
       "year": "2017",
       "format": [
@@ -2173,6 +2164,13 @@
         "Top Dawg Entertainment"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 10493899,
       "barcode": [
         "602557660883",
         "6 02557 66088 3",
@@ -2184,9 +2182,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/10493899-Kendrick-Lamar-Damn",
       "catno": "B0026716-02",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/_uifHxU-f1VbcLTNAoPFoWH6KIYPRS82gP35UU7xc5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkz/ODk5LTE1MzA2NTM1/MDctNDYxNi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/aplWunCSSRJe8zcaHk4crG5G8ambhYr8SZ0bpBh8mYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkz/ODk5LTE1MzA2NTM1/MDctNDYxNi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10493899",
@@ -2207,15 +2207,6 @@
       ]
     },
     {
-      "id": 31071545,
-      "title": "Kendrick Lamar - Damn",
-      "master_id": 1164779,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [
-        "Conscious"
-      ],
       "country": "Europe",
       "year": "2017",
       "format": [
@@ -2242,6 +2233,13 @@
         "Bernie Grundman Mastering"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "id": 31071545,
       "barcode": [
         "6 02557 61828 0",
         "602557618280",
@@ -2259,15 +2257,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1164779,
       "master_url": "https://api.discogs.com/masters/1164779",
       "uri": "/release/31071545-Kendrick-Lamar-Damn",
       "catno": "00602557618280",
+      "title": "Kendrick Lamar - Damn",
       "thumb": "https://i.discogs.com/0Czg6u90QCemKu4mD-UC3cwGyo-WiONjxbc-b8DfVyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDcx/NTQ1LTE3MTk0ODcz/MDQtNTU5My5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/GpgTqMrWBo5L8SsQxCRUvW12Yzg47Ca1SX7Nt24EeWI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDcx/NTQ1LTE3MTk0ODcz/MDQtNTU5My5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/31071545",
       "community": {
-        "want": 706,
-        "have": 1649
+        "want": 704,
+        "have": 1647
       },
       "format_quantity": 2,
       "formats": [
@@ -2283,2117 +2283,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 1164779,
-    "genres": [
-      "Hip Hop",
-      "Funk / Soul"
-    ],
-    "styles": [
-      "Conscious",
-      "Contemporary R&B",
-      "Jazzy Hip-Hop",
-      "Trap",
-      "Boom Bap"
-    ],
-    "main_release": 10133538,
-    "most_recent_release": 36945222,
-    "resource_url": "https://api.discogs.com/masters/1164779",
-    "uri": "https://www.discogs.com/master/1164779-Kendrick-Lamar-Damn",
-    "versions_url": "https://api.discogs.com/masters/1164779/versions",
-    "main_release_url": "https://api.discogs.com/releases/10133538",
-    "most_recent_release_url": "https://api.discogs.com/releases/36945222",
-    "num_for_sale": 608,
-    "lowest_price": 5.81,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/n9BtVuF-dJtmghgg5MhBtN_nME-Wqb4SboSfeBxnWVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/n9BtVuF-dJtmghgg5MhBtN_nME-Wqb4SboSfeBxnWVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/5gflVLxiFzEVd6bMZhfLHTmg7li-O4PgDpaFubQJO3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTIyMDQ5/NjMtMzE5Ni5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/KFLOhJdNXJFZFU0cIiaxihOxQ4buhB-gPRayL19x64U/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAx/MDAtMzgxNC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/KFLOhJdNXJFZFU0cIiaxihOxQ4buhB-gPRayL19x64U/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAx/MDAtMzgxNC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/KRF2Bo_48Zq84D9H4qcYoyhAX-JaUME5i0YiL8fe310/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAx/MDAtMzgxNC5qcGVn.jpeg",
-        "width": 600,
-        "height": 470
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/FfyPDGxNLYgYstfjmfZcPVv-HEx7dxnkG77zij8DX2s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzM0NS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/FfyPDGxNLYgYstfjmfZcPVv-HEx7dxnkG77zij8DX2s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzM0NS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/eWAxZ03ZYmoqZhmaBI1rZunp72WXj5FS674NkUSL4rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzM0NS5qcGVn.jpeg",
-        "width": 596,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Sdgx2t723cRLkDpi429o84DnlewoZJrrwWoZ5-Pj8NE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtOTUyMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Sdgx2t723cRLkDpi429o84DnlewoZJrrwWoZ5-Pj8NE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtOTUyMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/76u1cRg5LTxJaQ956udlmkLnRgv3cWRXuc5hNg6J1ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtOTUyMi5qcGVn.jpeg",
-        "width": 600,
-        "height": 595
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/UvTo359gy9H_Tnq83pfkEfnbnJoMFJraZy1GEwMyWq4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/ODAtNTUzNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/UvTo359gy9H_Tnq83pfkEfnbnJoMFJraZy1GEwMyWq4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/ODAtNTUzNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/4M3KA3tfWk04NGcKuO-hb8PigHZbIyYOSHIeDvMRlWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/ODAtNTUzNS5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/OdE_hUrEzD64qaRfCDL-2c4JIXxkuxMkbidAFXksiZE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtNjI0NC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/OdE_hUrEzD64qaRfCDL-2c4JIXxkuxMkbidAFXksiZE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtNjI0NC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/ilzGQCkIUR-7dWRRAQd0fDeNLJCkRUksVVcguFQ39hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtNjI0NC5qcGVn.jpeg",
-        "width": 600,
-        "height": 595
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/zyPOkuCvMiUpfL7O4fhCObFaLM6hyqQf69QSUkcxYao/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTcwNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/zyPOkuCvMiUpfL7O4fhCObFaLM6hyqQf69QSUkcxYao/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTcwNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/I1GYIbPu-qTPE1KbiuOegOEnEE-BMuQgP1pWY-RaWwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTcwNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/iJ5HyRsmVef24NgCi7KbaVlo_35vhvi0TvVtSskZwPw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtODQ4MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/iJ5HyRsmVef24NgCi7KbaVlo_35vhvi0TvVtSskZwPw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtODQ4MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/09q8PRuKTPhBWPJ1OdoFA_D2B5b-MGAdBP1sjzghCP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTQtODQ4MC5qcGVn.jpeg",
-        "width": 599,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/RM0lGbgyGvEsVha3gNTiPmQAQkPLB6aukAshloUff_s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTkzOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/RM0lGbgyGvEsVha3gNTiPmQAQkPLB6aukAshloUff_s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTkzOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/rP7UlgMEZBJYMuz2aU7ckUxLW3qXovYMq20iQI9JaFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTkzOC5qcGVn.jpeg",
-        "width": 600,
-        "height": 595
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/EcSgbND4tr48AdvUR2M_Uia2zBOzTEFX2Nb92SQfcSA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/MTUtNDgzNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/EcSgbND4tr48AdvUR2M_Uia2zBOzTEFX2Nb92SQfcSA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/MTUtNDgzNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/2PBXKm0w8P6e2tQjxkG1eZAPLAiOyv_NXrF6Il6O7IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/MTUtNDgzNS5qcGVn.jpeg",
-        "width": 591,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Ju3_Vo5ilAZb9da0qPfTU8EY6I104LDzs9DhLnzJp7o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTUtNzk0OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Ju3_Vo5ilAZb9da0qPfTU8EY6I104LDzs9DhLnzJp7o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTUtNzk0OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/s74DwnsURyh2Jv-xG3xXvM-E2K_6Z_3AdHX3hWrDwbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTUtNzk0OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 592
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/ZcizTd-JH98jHnRphX0f2gC4DunXlHqkhJ9Z3x8gcr0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtNTU4MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/ZcizTd-JH98jHnRphX0f2gC4DunXlHqkhJ9Z3x8gcr0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtNTU4MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/SUqxxUHGwZrvrhQgZJt7gqW96m79iGZ8BAe_YWWs0dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtNTU4MS5qcGVn.jpeg",
-        "width": 594,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/ASvkRzoFvq9jhKdLMnaUXVQmd1CDQQ7__e11OUHrMWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMjI1NS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/ASvkRzoFvq9jhKdLMnaUXVQmd1CDQQ7__e11OUHrMWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMjI1NS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/ljKYfOFS70d-pBCw9jEaRPpqKUZqrGUbojtcMTV3inA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMjI1NS5qcGVn.jpeg",
-        "width": 600,
-        "height": 599
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/GPzjxPXtF8zWChtK0Uj7eJ4kJK5KT5TPKypD2xs0NUE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzUyMy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/GPzjxPXtF8zWChtK0Uj7eJ4kJK5KT5TPKypD2xs0NUE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzUyMy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/okJrYVDwyMQny7JGc8smA_HZb8C1baelQIperCcMv1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctNzUyMy5qcGVn.jpeg",
-        "width": 600,
-        "height": 598
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/18qSdI9ANbv2CNcBVyI_sI4QpmIW_LnlSSctNT_iNm8/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/OTktMTc3OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/18qSdI9ANbv2CNcBVyI_sI4QpmIW_LnlSSctNT_iNm8/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/OTktMTc3OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/ybinrt5o940gQ-ZODBQRrykBsbdU4muqXxhpPb1bWTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcw/OTktMTc3OC5qcGVn.jpeg",
-        "width": 576,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/UuQxDN2owtxaLr2hO3358vr5mrmB1zRY-fGbcVKMVEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/NjQtMjExNy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/UuQxDN2owtxaLr2hO3358vr5mrmB1zRY-fGbcVKMVEA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/NjQtMjExNy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/6wKIkE4Yp_DO9nYV7v0HgHK7R1elODlvp_pzjHEOgIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE0OTMwMTcx/NjQtMjExNy5qcGVn.jpeg",
-        "width": 600,
-        "height": 594
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/nBB8Bf0xe-x9fvoMTy-9-c-cCz5SJN0VlS-CbQNlExQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMTE5OS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/nBB8Bf0xe-x9fvoMTy-9-c-cCz5SJN0VlS-CbQNlExQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMTE5OS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/1UCl6oR2rnIPHqKz9cc-DiWpA7vdcO7_VXOFwjcMmJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTctMTE5OS5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/JFpFiFzrH8HyWJFllFuHQYd61EF5Cnh18uTsN8EmSHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTktMTE4MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/JFpFiFzrH8HyWJFllFuHQYd61EF5Cnh18uTsN8EmSHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTktMTE4MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/qA5o06wfcDCC72XlIoBjgGRWNvSnT2jTNz9uUHsSKco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTktMTE4MC5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/i-nW82Jfs5IBUCT3jnDfHWksa_Flgb7stL3YM5mi4Hs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTM1Ny5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/i-nW82Jfs5IBUCT3jnDfHWksa_Flgb7stL3YM5mi4Hs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTM1Ny5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/G5MTVRPS_b46lXFUXfvKqKJ4qNb4DD6AqWBcQieYaLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTYtNTM1Ny5qcGVn.jpeg",
-        "width": 597,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Vo0RWDIrsyQo6YCVh7z5QSxCxxXd91xsSktuNcigvGQ/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtMzA5Ny5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Vo0RWDIrsyQo6YCVh7z5QSxCxxXd91xsSktuNcigvGQ/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtMzA5Ny5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/DfKMTL2CRZc-yAENlnMTpUbG3HkqXsdnqXC6LvyRDSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTMz/NTM4LTE3MzAzNDAw/OTgtMzA5Ny5qcGVn.jpeg",
-        "width": 600,
-        "height": 471
-      }
-    ],
-    "year": 2017,
-    "tracklist": [
-      {
-        "position": "1",
-        "type_": "track",
-        "title": "Blood",
-        "extraartists": [
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Daniel Tannenbaum",
-            "anv": "D. Tannenbaum",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1612507,
-            "resource_url": "https://api.discogs.com/artists/1612507"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          }
-        ],
-        "duration": "1:58"
-      },
-      {
-        "position": "2",
-        "type_": "track",
-        "title": "DNA",
-        "extraartists": [
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Guitar [Additional]",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Mike Will Made It",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3269862,
-            "resource_url": "https://api.discogs.com/artists/3269862"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Michael Williams (28)",
-            "anv": "M. Williams II",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3269861,
-            "resource_url": "https://api.discogs.com/artists/3269861"
-          }
-        ],
-        "duration": "3:05"
-      },
-      {
-        "position": "3",
-        "type_": "track",
-        "title": "Yah",
-        "extraartists": [
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional], Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Dacoury Natche",
-            "anv": "D. Natche",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983560,
-            "resource_url": "https://api.discogs.com/artists/2983560"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          }
-        ],
-        "duration": "2:39"
-      },
-      {
-        "position": "4",
-        "type_": "track",
-        "title": "Element",
-        "extraartists": [
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "James Hunt (7)",
-            "anv": "James \"The White Black Man\" Hunt",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 2983562,
-            "resource_url": "https://api.discogs.com/artists/2983562"
-          },
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "James Blake",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1500084,
-            "resource_url": "https://api.discogs.com/artists/1500084"
-          },
-          {
-            "name": "Ricci Riera",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4681246,
-            "resource_url": "https://api.discogs.com/artists/4681246"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Tae Beast",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional]",
-            "tracks": "",
-            "id": 2596318,
-            "resource_url": "https://api.discogs.com/artists/2596318"
-          },
-          {
-            "name": "Brendan Silas Perry",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 5689044,
-            "resource_url": "https://api.discogs.com/artists/5689044"
-          },
-          {
-            "name": "Zeke Mishanec",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 3377952,
-            "resource_url": "https://api.discogs.com/artists/3377952"
-          },
-          {
-            "name": "Kid Capri",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 112737,
-            "resource_url": "https://api.discogs.com/artists/112737"
-          },
-          {
-            "name": "James Blake",
-            "anv": "J. Blake",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1500084,
-            "resource_url": "https://api.discogs.com/artists/1500084"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Ricci Riera",
-            "anv": "R. Riera",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 4681246,
-            "resource_url": "https://api.discogs.com/artists/4681246"
-          }
-        ],
-        "duration": "3:28"
-      },
-      {
-        "position": "5",
-        "type_": "track",
-        "title": "Feel",
-        "extraartists": [
-          {
-            "name": "Thundercat",
-            "anv": "",
-            "join": "",
-            "role": "Bass",
-            "tracks": "",
-            "id": 1800656,
-            "resource_url": "https://api.discogs.com/artists/1800656"
-          },
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Guitar [Additional]",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Chelsea Blythe",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 3890924,
-            "resource_url": "https://api.discogs.com/artists/3890924"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          }
-        ],
-        "duration": "3:34"
-      },
-      {
-        "position": "6",
-        "type_": "track",
-        "title": "Loyalty",
-        "extraartists": [
-          {
-            "name": "Rihanna",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 321128,
-            "resource_url": "https://api.discogs.com/artists/321128"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          },
-          {
-            "name": "Kuk Harrell",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Rihanna Vocal Production]",
-            "tracks": "",
-            "id": 248523,
-            "resource_url": "https://api.discogs.com/artists/248523"
-          },
-          {
-            "name": "Marcos Tovar",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Rihanna Vocals]",
-            "tracks": "",
-            "id": 825232,
-            "resource_url": "https://api.discogs.com/artists/825232"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Dacoury Natche",
-            "anv": "D. Natche",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983560,
-            "resource_url": "https://api.discogs.com/artists/2983560"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Terrace Martin",
-            "anv": "T. Martin",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 220244,
-            "resource_url": "https://api.discogs.com/artists/220244"
-          }
-        ],
-        "duration": "3:47"
-      },
-      {
-        "position": "7",
-        "type_": "track",
-        "title": "Pride",
-        "extraartists": [
-          {
-            "name": "Anna Wise",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Steve Lacy (4)",
-            "anv": "",
-            "join": "",
-            "role": "Backing Vocals",
-            "tracks": "",
-            "id": 4740695,
-            "resource_url": "https://api.discogs.com/artists/4740695"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Steve Lacy (4)",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4740695,
-            "resource_url": "https://api.discogs.com/artists/4740695"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional], Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Anna Wise",
-            "anv": "A. Wise",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2171755,
-            "resource_url": "https://api.discogs.com/artists/2171755"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Steve Lacy (4)",
-            "anv": "S. Lacy",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 4740695,
-            "resource_url": "https://api.discogs.com/artists/4740695"
-          }
-        ],
-        "duration": "4:31"
-      },
-      {
-        "position": "8",
-        "type_": "track",
-        "title": "Humble",
-        "extraartists": [
-          {
-            "name": "Matt Schaeffer",
-            "anv": "",
-            "join": "",
-            "role": "Guitar",
-            "tracks": "",
-            "id": 3890928,
-            "resource_url": "https://api.discogs.com/artists/3890928"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Mike Will Made It",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3269862,
-            "resource_url": "https://api.discogs.com/artists/3269862"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Michael Williams (28)",
-            "anv": "M. Williams II",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3269861,
-            "resource_url": "https://api.discogs.com/artists/3269861"
-          }
-        ],
-        "duration": "2:56"
-      },
-      {
-        "position": "9",
-        "type_": "track",
-        "title": "Lust",
-        "extraartists": [
-          {
-            "name": "Matthew A. Tavares",
-            "anv": "",
-            "join": "",
-            "role": "Electric Guitar",
-            "tracks": "",
-            "id": 2468525,
-            "resource_url": "https://api.discogs.com/artists/2468525"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "BadBadNotGood",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2468526,
-            "resource_url": "https://api.discogs.com/artists/2468526"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Blake Harden",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By",
-            "tracks": "",
-            "id": 3763103,
-            "resource_url": "https://api.discogs.com/artists/3763103"
-          },
-          {
-            "name": "Kamasi Washington",
-            "anv": "",
-            "join": "",
-            "role": "Strings",
-            "tracks": "",
-            "id": 324293,
-            "resource_url": "https://api.discogs.com/artists/324293"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Strings",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Kaytranada",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 3160392,
-            "resource_url": "https://api.discogs.com/artists/3160392"
-          },
-          {
-            "name": "RAT BOY",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 4461246,
-            "resource_url": "https://api.discogs.com/artists/4461246"
-          },
-          {
-            "name": "Alex Sowinski",
-            "anv": "A. Sowinski",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2468522,
-            "resource_url": "https://api.discogs.com/artists/2468522"
-          },
-          {
-            "name": "Chester Hansen",
-            "anv": "C. Hansen",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2468523,
-            "resource_url": "https://api.discogs.com/artists/2468523"
-          },
-          {
-            "name": "Dacoury Natche",
-            "anv": "D. Natche",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983560,
-            "resource_url": "https://api.discogs.com/artists/2983560"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Leland Whitty",
-            "anv": "L. Whitty",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2692944,
-            "resource_url": "https://api.discogs.com/artists/2692944"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Matthew A. Tavares",
-            "anv": "M. Tavares",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2468525,
-            "resource_url": "https://api.discogs.com/artists/2468525"
-          }
-        ],
-        "duration": "5:08"
-      },
-      {
-        "position": "10",
-        "type_": "track",
-        "title": "Love",
-        "extraartists": [
-          {
-            "name": "Zacari",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 5225088,
-            "resource_url": "https://api.discogs.com/artists/5225088"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Greg Kurstin",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 277673,
-            "resource_url": "https://api.discogs.com/artists/277673"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "Teddy Walton",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4024304,
-            "resource_url": "https://api.discogs.com/artists/4024304"
-          },
-          {
-            "name": "Brendan Silas Perry",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 5689044,
-            "resource_url": "https://api.discogs.com/artists/5689044"
-          },
-          {
-            "name": "Zeke Mishanec",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 3377952,
-            "resource_url": "https://api.discogs.com/artists/3377952"
-          },
-          {
-            "name": "Kid Capri",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 112737,
-            "resource_url": "https://api.discogs.com/artists/112737"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Greg Kurstin",
-            "anv": "G. Kurstin",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 277673,
-            "resource_url": "https://api.discogs.com/artists/277673"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Teddy Walton",
-            "anv": "T. Walton",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 4024304,
-            "resource_url": "https://api.discogs.com/artists/4024304"
-          },
-          {
-            "name": "Zacari Pacaldo",
-            "anv": "Z. Pacaldo",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 5689047,
-            "resource_url": "https://api.discogs.com/artists/5689047"
-          }
-        ],
-        "duration": "3:31"
-      },
-      {
-        "position": "11",
-        "type_": "track",
-        "title": "XXX",
-        "extraartists": [
-          {
-            "name": "U2",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 6520,
-            "resource_url": "https://api.discogs.com/artists/6520"
-          },
-          {
-            "name": "Kendrick Lamar",
-            "anv": "",
-            "join": "",
-            "role": "Keyboards [Additional Keys]",
-            "tracks": "",
-            "id": 1778977,
-            "resource_url": "https://api.discogs.com/artists/1778977"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Mike Will Made It",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3269862,
-            "resource_url": "https://api.discogs.com/artists/3269862"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Jolyon Thomas",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Vocal]",
-            "tracks": "",
-            "id": 498298,
-            "resource_url": "https://api.discogs.com/artists/498298"
-          },
-          {
-            "name": "Brendan Silas Perry",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 5689044,
-            "resource_url": "https://api.discogs.com/artists/5689044"
-          },
-          {
-            "name": "Zeke Mishanec",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 3377952,
-            "resource_url": "https://api.discogs.com/artists/3377952"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Kid Capri",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 112737,
-            "resource_url": "https://api.discogs.com/artists/112737"
-          },
-          {
-            "name": "Adam Clayton",
-            "anv": "A. Clayton",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 280113,
-            "resource_url": "https://api.discogs.com/artists/280113"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Dacoury Natche",
-            "anv": "D. Natche",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983560,
-            "resource_url": "https://api.discogs.com/artists/2983560"
-          },
-          {
-            "name": "Dave Evans (4)",
-            "anv": "D. Evans",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 501438,
-            "resource_url": "https://api.discogs.com/artists/501438"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Larry Mullen",
-            "anv": "L. Mullen",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 280111,
-            "resource_url": "https://api.discogs.com/artists/280111"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Michael Williams (28)",
-            "anv": "M. Williams II",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3269861,
-            "resource_url": "https://api.discogs.com/artists/3269861"
-          },
-          {
-            "name": "Paul Hewson",
-            "anv": "P. Hewson",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 501437,
-            "resource_url": "https://api.discogs.com/artists/501437"
-          }
-        ],
-        "duration": "4:14"
-      },
-      {
-        "position": "12",
-        "type_": "track",
-        "title": "Fear",
-        "extraartists": [
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Alchemist",
-            "anv": "The Alchemist",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 169508,
-            "resource_url": "https://api.discogs.com/artists/169508"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Carl Duckworth",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 14682306,
-            "resource_url": "https://api.discogs.com/artists/14682306"
-          },
-          {
-            "name": "Charles Edward Sydney Isom Jr.",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689045,
-            "resource_url": "https://api.discogs.com/artists/5689045"
-          },
-          {
-            "name": "Alan Maman",
-            "anv": "A. Maman",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 683241,
-            "resource_url": "https://api.discogs.com/artists/683241"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          }
-        ],
-        "duration": "6:54"
-      },
-      {
-        "position": "13",
-        "type_": "track",
-        "title": "God",
-        "extraartists": [
-          {
-            "name": "Mike Hector",
-            "anv": "",
-            "join": "",
-            "role": "Drums [Additional]",
-            "tracks": "",
-            "id": 5689042,
-            "resource_url": "https://api.discogs.com/artists/5689042"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "Anthony \"TopDawg\" Tiffith",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Cardo (3)",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2097575,
-            "resource_url": "https://api.discogs.com/artists/2097575"
-          },
-          {
-            "name": "DJ Dahi",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 2253749,
-            "resource_url": "https://api.discogs.com/artists/2253749"
-          },
-          {
-            "name": "Ricci Riera",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 4681246,
-            "resource_url": "https://api.discogs.com/artists/4681246"
-          },
-          {
-            "name": "Sounwave",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 1784576,
-            "resource_url": "https://api.discogs.com/artists/1784576"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Anthony Tiffith",
-            "anv": "A. Tiffith",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3368939,
-            "resource_url": "https://api.discogs.com/artists/3368939"
-          },
-          {
-            "name": "Dacoury Natche",
-            "anv": "D. Natche",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 2983560,
-            "resource_url": "https://api.discogs.com/artists/2983560"
-          },
-          {
-            "name": "Daniel Tannenbaum",
-            "anv": "D. Tannenbaum",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1612507,
-            "resource_url": "https://api.discogs.com/artists/1612507"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Mark Spears",
-            "anv": "M. Spears",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 1550262,
-            "resource_url": "https://api.discogs.com/artists/1550262"
-          },
-          {
-            "name": "Ricci Riera",
-            "anv": "R. Riera",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 4681246,
-            "resource_url": "https://api.discogs.com/artists/4681246"
-          },
-          {
-            "name": "Ronald LaTour",
-            "anv": "R. LaTour",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3097137,
-            "resource_url": "https://api.discogs.com/artists/3097137"
-          }
-        ],
-        "duration": "4:08"
-      },
-      {
-        "position": "14",
-        "type_": "track",
-        "title": "Duckworth",
-        "extraartists": [
-          {
-            "name": "9th Wonder",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 186837,
-            "resource_url": "https://api.discogs.com/artists/186837"
-          },
-          {
-            "name": "Derek \"MixedByAli\" Ali",
-            "anv": "Derek 'MixedByAli' Ali",
-            "join": "",
-            "role": "Mixed By",
-            "tracks": "",
-            "id": 14682252,
-            "resource_url": "https://api.discogs.com/artists/14682252"
-          },
-          {
-            "name": "Cyrus Taghipour",
-            "anv": "Cyrus 'Nois' Taghipour",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689046,
-            "resource_url": "https://api.discogs.com/artists/5689046"
-          },
-          {
-            "name": "Tyler Page",
-            "anv": "",
-            "join": "",
-            "role": "Mixed By [Assistant]",
-            "tracks": "",
-            "id": 5689048,
-            "resource_url": "https://api.discogs.com/artists/5689048"
-          },
-          {
-            "name": "9th Wonder",
-            "anv": "",
-            "join": "",
-            "role": "Producer",
-            "tracks": "",
-            "id": 186837,
-            "resource_url": "https://api.discogs.com/artists/186837"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Blake Harden",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By",
-            "tracks": "",
-            "id": 3763103,
-            "resource_url": "https://api.discogs.com/artists/3763103"
-          },
-          {
-            "name": "Brendan Silas Perry",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 5689044,
-            "resource_url": "https://api.discogs.com/artists/5689044"
-          },
-          {
-            "name": "Zeke Mishanec",
-            "anv": "",
-            "join": "",
-            "role": "Recorded By [Additional]",
-            "tracks": "",
-            "id": 3377952,
-            "resource_url": "https://api.discogs.com/artists/3377952"
-          },
-          {
-            "name": "B\u0113kon",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 5689043,
-            "resource_url": "https://api.discogs.com/artists/5689043"
-          },
-          {
-            "name": "Kid Capri",
-            "anv": "",
-            "join": "",
-            "role": "Vocals [Additional]",
-            "tracks": "",
-            "id": 112737,
-            "resource_url": "https://api.discogs.com/artists/112737"
-          },
-          {
-            "name": "Kendrick Duckworth",
-            "anv": "K. Duckworth",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 3062364,
-            "resource_url": "https://api.discogs.com/artists/3062364"
-          },
-          {
-            "name": "Patrick Douthit",
-            "anv": "P. Douthit",
-            "join": "",
-            "role": "Written-By",
-            "tracks": "",
-            "id": 878057,
-            "resource_url": "https://api.discogs.com/artists/878057"
-          }
-        ],
-        "duration": "4:08"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Kendrick Lamar",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 1778977,
-        "resource_url": "https://api.discogs.com/artists/1778977",
-        "thumbnail_url": "https://i.discogs.com/-4vxB93xDoTNY5faNzlkTlt8bPNHnMqyHoQ36LrUgfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Nzg5/NzctMTc2MDQ4Mjc1/OC03MTYxLmpwZWc.jpeg"
-      }
-    ],
-    "title": "Damn",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
-        "title": "Kendrick Lamar - HUMBLE.",
-        "description": "Kendrick Lamar DAMN. Available now http://smarturl.it/DAMN\nProd: Anthony \"Top Dawg\" Tiffith, Dave Free Nathan K. Scherrer, Jason Baum, Jamie Rabineau\nProd Co: TDE Films / FREENJOY INC\nDir: Dave Meyers & the little homies \n\nMusic video by Kendrick Lamar pe",
-        "duration": 184,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=NLZRYQMLDW4",
-        "title": "Kendrick Lamar - DNA.",
-        "description": "DAMN. available now http://smarturl.it/DAMN\n\nDir: Nabil & the little homies\nProducer: Anthony \u201cTop Dawg\u201d Tiffith, Dave Free, Angel J Rosa\nProduction co: TDE Films, AJR Films\n\n(C) 2017 Aftermath/Interscope (Top Dawg Entertainment)\n\nhttp://vevo.ly/l2Qp5O\nBe",
-        "duration": 286,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=glaG64Ao7sM",
-        "title": "Kendrick Lamar - ELEMENT.",
-        "description": "DAMN. available now http://smarturl.it/DAMN \n \nDirector: Jonas Lindstroem & the little homies\nProducer: Anthony \u201cTop Dawg\u201d Tiffith, Dave Free, Jannis Birsner \nProduction co: TDE Films, Iconoclast\n \nMusic video by Kendrick Lamar performing ELEMENT.. (C) 20",
-        "duration": 214,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=ox7RsX1Ee34",
-        "title": "Kendrick Lamar - LOVE. ft. Zacari",
-        "description": "DAMN. available now http://smarturl.it/DAMN \n \nVideo Director: Dave Meyers and the little homies\nVideo Producer: Anthony 'Top Dawg' Tiffith\nVideo Producer: Dave Free\nVideo Producer: Nathan K. Scherrer\nVideo Producer: Jason Baum\nVideo Producer: Jamie Rabin",
-        "duration": 223,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Dlh-dzB2U4Y",
-        "title": "Kendrick Lamar - LOYALTY. ft. Rihanna",
-        "description": "DAMN. available now http://smarturl.it/DAMN \n\nBest of Kendrick Lamar https://goo.gl/PTr3FF\nKendrick Lamar - Damn https://goo.gl/6XEm55\nSubscribe for more https://goo.gl/XGVyCd\n \nDir: Dave Meyers & the little homies \nProd Co: TDE Films / FREENJOY INC\nProd:",
-        "duration": 240,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=hcnNvy_svTE",
-        "title": "BLOOD.",
-        "description": "Provided to YouTube by Universal Music Group\n\nBLOOD. \u00b7 Kendrick Lamar\n\nDAMN. COLLECTORS EDITION.\n\n\u2117 2017 Aftermath/Interscope (Top Dawg Entertainment)\n\nReleased on: 2017-12-08\n\nProducer: Bekon\nProducer: Anthony 'Top Dawg' Tiffith\nComposer Lyricist: D. Tan",
-        "duration": 119,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=w8WKlj2n-hA",
-        "title": "Kendrick Lamar - DUCKWORTH. to PRIDE. DNA. BLOOD. (Clean Transitions)",
-        "description": "This is my first time doing something like this, so sorry if it's not as clean as it should be. Maybe I'll mix in more songs next time\n-\nDUCKWORTH to PRIDE DNA BLOOD (clean mix)\n-\nSongs:\n00:00 DUCKWORTH.\n3:43 PRIDE.\n8:26 DNA.\n12:01 BLOOD.",
-        "duration": 0,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 1164779,
   "genres": [
     {

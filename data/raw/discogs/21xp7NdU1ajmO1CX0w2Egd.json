@@ -8,17 +8,129 @@
   },
   "results": [
     {
-      "id": 21933142,
-      "title": "Black Country, New Road - Ants From Up There",
+      "country": "Japan",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22046980,
+      "barcode": [
+        "5054429153910",
+        "ZEN 278 A [MPO logo]\u00ae 21244790 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21244846 Summer",
+        "ZEN 278 C [MPO logo]\u00ae 21244910 Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21244901 Winter."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
       "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/22046980-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278JP",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/Iz_4081KFY85nE4RT2g_0nef3EhNDMzDcnpNhYdGp4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Cu_OHAVy1LoQjf6E1-rG2wcNTgd4j38HkSepnqIsZuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22046980",
+      "community": {
+        "want": 729,
+        "have": 197
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Crystal Clear Rose, Obi",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Chale Abbey",
+        "Fish Factory Studio",
+        "Chale Abbey",
+        "Abbey Road Studios",
+        "MPO"
+      ],
+      "type": "release",
       "genre": [
         "Rock"
       ],
       "style": [
         "Art Rock",
-        "Post Rock",
-        "Alternative Rock"
+        "Post Rock"
       ],
+      "id": 21979144,
+      "barcode": [
+        "5054429153330",
+        "ZEN 278 A [MPO logo]\u00ae 21245933 Spring",
+        "ZEN 278 B [MPO logo]\u00ae 21245458 Summer",
+        "ZEN 278 C Autumn,",
+        "ZEN 278 D [MPO logo]\u00ae 21245707 Winter."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 2486344,
+      "master_url": "https://api.discogs.com/masters/2486344",
+      "uri": "/release/21979144-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZEN278Y",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/3jB8uRnrAO6sVRxPVvMakRzWHC8Vuj_A_aegQ32mYtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tpIeKZnBDAxHlAzE_6D5PsRod37rMOypzhHbo_EgDhs/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21979144",
+      "community": {
+        "want": 954,
+        "have": 1898
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Bronze Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
       "country": "UK",
       "year": "2022",
       "format": [
@@ -39,6 +151,15 @@
         "MPO"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock",
+        "Alternative Rock"
+      ],
+      "id": 21933142,
       "barcode": [
         "5054429151428",
         "LC-12885",
@@ -71,15 +192,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/21933142-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZEN278",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/bcnZi_Xv1jMU3yJJNwfSu8vhnHxMHrZmLH4LfQZnzhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/---4xMv-kmYIiOGMAeh6I63r1ZdebPNreb8iMeJVe5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/21933142",
       "community": {
-        "want": 2531,
-        "have": 10904
+        "want": 2532,
+        "have": 10895
       },
       "format_quantity": 2,
       "formats": [
@@ -95,13 +218,6 @@
       ]
     },
     {
-      "id": 22215502,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [],
       "country": "Japan",
       "year": "2022",
       "format": [
@@ -115,6 +231,11 @@
         "Beat Records"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "id": 22215502,
       "barcode": [
         "4523132623856"
       ],
@@ -122,14 +243,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/22215502-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "BRC685",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/rqGLzf4xjKCBnssfmBsP0qL9yOgWb97eYX_MKTPnTtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE1/NTAyLTE2NzMwMDYx/ODgtOTQ2OS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/ZuJszUkAzQNaJ9RngWQnMq30lb-H0J0GiOBwOv_xM_8/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE1/NTAyLTE2NzMwMDYx/ODgtOTQ2OS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/22215502",
       "community": {
-        "want": 203,
+        "want": 201,
         "have": 69
       },
       "format_quantity": 1,
@@ -144,69 +267,16 @@
       ]
     },
     {
-      "id": 22046980,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [],
-      "country": "Japan",
+      "country": "Worldwide",
       "year": "2022",
       "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
+        "File",
+        "FLAC"
       ],
       "label": [
-        "Ninja Tune",
-        "Chale Abbey",
-        "Fish Factory Studio",
-        "Chale Abbey",
-        "Abbey Road Studios",
-        "MPO"
+        "Ninja Tune"
       ],
       "type": "release",
-      "barcode": [
-        "5054429153910",
-        "ZEN 278 A [MPO logo]\u00ae 21244790 Spring",
-        "ZEN 278 B [MPO logo]\u00ae 21244846 Summer",
-        "ZEN 278 C [MPO logo]\u00ae 21244910 Autumn,",
-        "ZEN 278 D [MPO logo]\u00ae 21244901 Winter."
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/2486344",
-      "uri": "/release/22046980-Black-Country-New-Road-Ants-From-Up-There",
-      "catno": "ZEN278JP",
-      "thumb": "https://i.discogs.com/Iz_4081KFY85nE4RT2g_0nef3EhNDMzDcnpNhYdGp4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/Cu_OHAVy1LoQjf6E1-rG2wcNTgd4j38HkSepnqIsZuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ2/OTgwLTE2NDQxNDM3/MDctNzE4OC5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/22046980",
-      "community": {
-        "want": 730,
-        "have": 197
-      },
-      "format_quantity": 2,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "text": "Crystal Clear Rose, Obi",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21979144,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
       "genre": [
         "Rock"
       ],
@@ -214,69 +284,37 @@
         "Art Rock",
         "Post Rock"
       ],
-      "country": "UK",
-      "year": "2022",
-      "format": [
-        "Vinyl",
-        "LP",
-        "Album",
-        "Limited Edition"
-      ],
-      "label": [
-        "Ninja Tune",
-        "Chale Abbey",
-        "Fish Factory Studio",
-        "Chale Abbey",
-        "Abbey Road Studios",
-        "MPO"
-      ],
-      "type": "release",
-      "barcode": [
-        "5054429153330",
-        "ZEN 278 A [MPO logo]\u00ae 21245933 Spring",
-        "ZEN 278 B [MPO logo]\u00ae 21245458 Summer",
-        "ZEN 278 C Autumn,",
-        "ZEN 278 D [MPO logo]\u00ae 21245707 Winter."
-      ],
+      "id": 22129318,
+      "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
-      "uri": "/release/21979144-Black-Country-New-Road-Ants-From-Up-There",
-      "catno": "ZEN278Y",
-      "thumb": "https://i.discogs.com/3jB8uRnrAO6sVRxPVvMakRzWHC8Vuj_A_aegQ32mYtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/tpIeKZnBDAxHlAzE_6D5PsRod37rMOypzhHbo_EgDhs/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktNjgyNi5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/21979144",
+      "uri": "/release/22129318-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "none",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/LQMECmyJUyXXfECfo1T2Jv0dx6xwgSOWGDhkNkIVaMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/i8b0g55F95Fg-9EdmtmmmtTAjS2NsSy-NEqa1C-Rt9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22129318",
       "community": {
-        "want": 955,
-        "have": 1899
+        "want": 80,
+        "have": 70
       },
-      "format_quantity": 2,
+      "format_quantity": 0,
       "formats": [
         {
-          "name": "Vinyl",
-          "qty": "2",
-          "text": "Bronze Marble",
+          "name": "File",
+          "qty": "10",
+          "text": "24-bit, 96kHz",
           "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition"
+            "FLAC"
           ]
         }
       ]
     },
     {
-      "id": 21933541,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Art Rock",
-        "Post Rock"
-      ],
       "country": "UK & Europe",
       "year": "2022",
       "format": [
@@ -302,6 +340,14 @@
         "Queen Elizabeth Hall"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock"
+      ],
+      "id": 21933541,
       "barcode": [
         "5054429153033",
         "LC-12885",
@@ -342,14 +388,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/21933541-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZEN278BX",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/hu1WMgd610uFVf7MQg5-3OT3Tc5Y8YAnAY_QmSwNxQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/NTQxLTE2NDM5NzU5/NzItNjg3Mi5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/kwHZK-EABWSO6JOBRx0HmUlGxc941kWqnuCVgMW8zOY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/NTQxLTE2NDM5NzU5/NzItNjg3Mi5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/21933541",
       "community": {
-        "want": 1213,
+        "want": 1212,
         "have": 6682
       },
       "format_quantity": 4,
@@ -380,9 +428,18 @@
       ]
     },
     {
-      "id": 22129318,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
+      "country": "UK",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune"
+      ],
+      "type": "release",
       "genre": [
         "Rock"
       ],
@@ -390,55 +447,39 @@
         "Art Rock",
         "Post Rock"
       ],
-      "country": "Worldwide",
-      "year": "2022",
-      "format": [
-        "File",
-        "FLAC"
+      "id": 22060855,
+      "barcode": [
+        "5054429153057",
+        "LC 12885"
       ],
-      "label": [
-        "Ninja Tune"
-      ],
-      "type": "release",
-      "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
-      "uri": "/release/22129318-Black-Country-New-Road-Ants-From-Up-There",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/LQMECmyJUyXXfECfo1T2Jv0dx6xwgSOWGDhkNkIVaMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/i8b0g55F95Fg-9EdmtmmmtTAjS2NsSy-NEqa1C-Rt9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI5/MzE4LTE2NDQ2ODAw/MDItODQ5Ny5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/22129318",
+      "uri": "/release/22060855-Black-Country-New-Road-Ants-From-Up-There",
+      "catno": "ZENCAS278",
+      "title": "Black Country, New Road - Ants From Up There",
+      "thumb": "https://i.discogs.com/Uf45G9YmM4t602p6P-S-wJhbDDmXii7yv5zG2faqdD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/agXhN2Zh6X8ZeCktoIdJcXUNBsMyQtxZ7TZAYf_B050/rs:fit/g:sm/q:90/h:945/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22060855",
       "community": {
-        "want": 81,
-        "have": 70
+        "want": 213,
+        "have": 200
       },
-      "format_quantity": 0,
+      "format_quantity": 1,
       "formats": [
         {
-          "name": "File",
-          "qty": "10",
-          "text": "24-bit, 96kHz",
+          "name": "Cassette",
+          "qty": "1",
           "descriptions": [
-            "FLAC"
+            "Album"
           ]
         }
       ]
     },
     {
-      "id": 21973654,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Post-Punk",
-        "Post Rock",
-        "Art Rock"
-      ],
       "country": "Europe",
       "year": "2022",
       "format": [
@@ -461,6 +502,15 @@
         "MPO"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Post-Punk",
+        "Post Rock",
+        "Art Rock"
+      ],
+      "id": 21973654,
       "barcode": [
         "5054429153743",
         "LC-12885",
@@ -475,14 +525,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/21973654-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZENCD278X",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/N2bU-t2WZKP3WE01EP2PMM1tXXxkWcuSfkvb8Bkd97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcz/NjU0LTE2NTg1ODcx/NzQtOTA3Ny5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/mPJqTJBu4-RQkXcj-KebHBbkr3qgzyvSURSZnxXfss4/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcz/NjU0LTE2NTg1ODcx/NzQtOTA3Ny5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/21973654",
       "community": {
-        "want": 436,
+        "want": 434,
         "have": 1099
       },
       "format_quantity": 2,
@@ -508,69 +560,6 @@
       ]
     },
     {
-      "id": 22060855,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Art Rock",
-        "Post Rock"
-      ],
-      "country": "UK",
-      "year": "2022",
-      "format": [
-        "Cassette",
-        "Album"
-      ],
-      "label": [
-        "Ninja Tune",
-        "Ninja Tune",
-        "Ninja Tune"
-      ],
-      "type": "release",
-      "barcode": [
-        "5054429153057",
-        "LC 12885"
-      ],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/2486344",
-      "uri": "/release/22060855-Black-Country-New-Road-Ants-From-Up-There",
-      "catno": "ZENCAS278",
-      "thumb": "https://i.discogs.com/Uf45G9YmM4t602p6P-S-wJhbDDmXii7yv5zG2faqdD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/agXhN2Zh6X8ZeCktoIdJcXUNBsMyQtxZ7TZAYf_B050/rs:fit/g:sm/q:90/h:945/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/ODU1LTE2NDQyMzA2/NTEtNTI0NS5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/22060855",
-      "community": {
-        "want": 214,
-        "have": 200
-      },
-      "format_quantity": 1,
-      "formats": [
-        {
-          "name": "Cassette",
-          "qty": "1",
-          "descriptions": [
-            "Album"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 21932389,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Art Rock",
-        "Post Rock",
-        "Alternative Rock"
-      ],
       "country": "UK",
       "year": "2022",
       "format": [
@@ -590,6 +579,15 @@
         "MPO"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Art Rock",
+        "Post Rock",
+        "Alternative Rock"
+      ],
+      "id": 21932389,
       "barcode": [
         "5054429153040",
         "5 054429 153323",
@@ -612,14 +610,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/21932389-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZEN278X",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/qjJyFwoeMG3fb25pWLb1tPnmx7qer59R4ZDFVPdeU_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/hgdfOLIrDncrp6Okziecko_QqNcQiWAw4mu6B76bfxU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/21932389",
       "community": {
-        "want": 1664,
+        "want": 1662,
         "have": 7314
       },
       "format_quantity": 2,
@@ -637,17 +637,6 @@
       ]
     },
     {
-      "id": 22037638,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Post-Punk",
-        "Post Rock",
-        "Art Rock"
-      ],
       "country": "UK",
       "year": "2022",
       "format": [
@@ -666,6 +655,15 @@
         "MPO"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Post-Punk",
+        "Post Rock",
+        "Art Rock"
+      ],
+      "id": 22037638,
       "barcode": [
         "5054429151435",
         "LC-12885",
@@ -678,15 +676,17 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/22037638-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZENCD278",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/X8CAQ-6zIFSq01c0JGloLHfKm8JosdNj3SzSYRlluQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/NjM4LTE2NDY1NDk0/MTUtMzM2Ni5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/W_a07nnl6RcUKvCa9ZnxuTcWF8u2BuG_jIBAOEK-L30/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/NjM4LTE2NDY1NDk0/MTUtMzM2Ni5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/22037638",
       "community": {
-        "want": 686,
-        "have": 1788
+        "want": 685,
+        "have": 1787
       },
       "format_quantity": 1,
       "formats": [
@@ -701,16 +701,6 @@
       ]
     },
     {
-      "id": 25260379,
-      "title": "Black Country, New Road - Ants From Up There",
-      "master_id": 2486344,
-      "genre": [
-        "Rock"
-      ],
-      "style": [
-        "Experimental",
-        "Folk Rock"
-      ],
       "country": "UK",
       "year": "2022",
       "format": [
@@ -728,6 +718,14 @@
         "MPO"
       ],
       "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Experimental",
+        "Folk Rock"
+      ],
+      "id": 25260379,
       "barcode": [
         "5054429153910"
       ],
@@ -735,14 +733,16 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 2486344,
       "master_url": "https://api.discogs.com/masters/2486344",
       "uri": "/release/25260379-Black-Country-New-Road-Ants-From-Up-There",
       "catno": "ZEN278RTE",
+      "title": "Black Country, New Road - Ants From Up There",
       "thumb": "https://i.discogs.com/WRgBYyETpb-Q90DBOwNNIRF4MW7UErtsiL5IfbYNFvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjYw/Mzc5LTE2NzE1NjEz/NzAtMjU0MS5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/rjR4ocVoHbpEKpInI1_07_CQdh2ByOZCFL-pK7WZNZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjYw/Mzc5LTE2NzE1NjEz/NzAtMjU0MS5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/25260379",
       "community": {
-        "want": 488,
+        "want": 487,
         "have": 309
       },
       "format_quantity": 2,
@@ -761,474 +761,6 @@
       ]
     }
   ],
-  "master": {
-    "id": 2486344,
-    "genres": [
-      "Rock"
-    ],
-    "styles": [
-      "Art Rock",
-      "Post Rock",
-      "Alternative Rock"
-    ],
-    "main_release": 21933142,
-    "most_recent_release": 36617056,
-    "resource_url": "https://api.discogs.com/masters/2486344",
-    "uri": "https://www.discogs.com/master/2486344-Black-Country-New-Road-Ants-From-Up-There",
-    "versions_url": "https://api.discogs.com/masters/2486344/versions",
-    "main_release_url": "https://api.discogs.com/releases/21933142",
-    "most_recent_release_url": "https://api.discogs.com/releases/36617056",
-    "num_for_sale": 172,
-    "lowest_price": 12.16,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/---4xMv-kmYIiOGMAeh6I63r1ZdebPNreb8iMeJVe5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/---4xMv-kmYIiOGMAeh6I63r1ZdebPNreb8iMeJVe5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/bcnZi_Xv1jMU3yJJNwfSu8vhnHxMHrZmLH4LfQZnzhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDM0MTE2/NDYtNzI4OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/8bz_T1Vhhj6z-r5pyZbFr7SXk3kG-XLq_qFiYsnbQ00/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNzgxNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/8bz_T1Vhhj6z-r5pyZbFr7SXk3kG-XLq_qFiYsnbQ00/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNzgxNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/5uHk0mALIC7J2lKhOXcMenhrbp2u0pARxeyfSxyxEpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNzgxNS5qcGVn.jpeg",
-        "width": 600,
-        "height": 599
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/wnXYeHo-UQFbu-2gMywiXGHmbW246LEAiS0ZbmeauGw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzYtMjc4Ny5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/wnXYeHo-UQFbu-2gMywiXGHmbW246LEAiS0ZbmeauGw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzYtMjc4Ny5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/wHABA2ZShFfhhs5lVRLrgb6Qi3zyEuyh_7a_kPD_wZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzYtMjc4Ny5qcGVn.jpeg",
-        "width": 600,
-        "height": 596
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/RKcTgtFiZiz6td6L3o4UxTwupx_dZwwLMd5PU2wYZgY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMjAyOS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/RKcTgtFiZiz6td6L3o4UxTwupx_dZwwLMd5PU2wYZgY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMjAyOS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/Utb5etInQZvWeq9AaSmzsiDqTHoClGHd_ZMqbFkexHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMjAyOS5qcGVn.jpeg",
-        "width": 600,
-        "height": 589
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/b9szVhrIJ579yF3DOvLKXwo4HsY5Dr_GpghCXdJGmps/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzItMjc2My5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/b9szVhrIJ579yF3DOvLKXwo4HsY5Dr_GpghCXdJGmps/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzItMjc2My5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/ntctAcbBWcK6GIqUZDrBRfQ6h8fSA2Gab7pqmWXpK3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzItMjc2My5qcGVn.jpeg",
-        "width": 593,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/oWjmO6GekHOa-m-MwwNXuMQjJjdL3BBQkR7pmjbFWKA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtNDI3MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/oWjmO6GekHOa-m-MwwNXuMQjJjdL3BBQkR7pmjbFWKA/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtNDI3MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/SOuLJXTaQHXU4TBuG8Jf5YISoQSbmC_AydimyHpeOis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtNDI3MC5qcGVn.jpeg",
-        "width": 600,
-        "height": 589
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/pSUWJ_C9n8WEryg_C0TKWwmVQQ3w0lE-V3HZLmmvc-U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtMjY4My5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/pSUWJ_C9n8WEryg_C0TKWwmVQQ3w0lE-V3HZLmmvc-U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtMjY4My5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/EPUNLxqawE4YOohFAAM1dSt5WlhWmwSOQWoUeyZtXj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtMjY4My5qcGVn.jpeg",
-        "width": 600,
-        "height": 596
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/8TNp-r8JactGaLc72Ob_QRyjc_phN9gtzAUM_VKmS9w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzMtNTMzNC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/8TNp-r8JactGaLc72Ob_QRyjc_phN9gtzAUM_VKmS9w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzMtNTMzNC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/VOr5hzMhPxmbZYbVRJRE9TbJpGIhaeTxRSp9-KnBqp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzMtNTMzNC5qcGVn.jpeg",
-        "width": 600,
-        "height": 592
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/rhb1RUgNU5US3Szg1xkcBvHvQCUUuea5bTI6p1YOa1I/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMzAzOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/rhb1RUgNU5US3Szg1xkcBvHvQCUUuea5bTI6p1YOa1I/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMzAzOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/bVmA3JfE0PN8rAqCGLwK31MlF0o3Tz354H1B5ZBU9lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMzAzOC5qcGVn.jpeg",
-        "width": 600,
-        "height": 589
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/J22uz-X2FINc96uSlQaF9y_VkaFrUbuBtlQn5xeuvLc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMTEyNC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/J22uz-X2FINc96uSlQaF9y_VkaFrUbuBtlQn5xeuvLc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMTEyNC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/7BiXpASOQsgsnvL8m84VxpqQI9ieNnjv_VvOsbRld1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzktMTEyNC5qcGVn.jpeg",
-        "width": 596,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/zZRhJWV48O3IkWNGXUnkMii_M23pag6kca6wVmP1-7g/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNDUxNS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/zZRhJWV48O3IkWNGXUnkMii_M23pag6kca6wVmP1-7g/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNDUxNS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/MgM-_Eg1IDSGNrjYCCRuv5zDdsar_b_cGUctPTwqjKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNDUxNS5qcGVn.jpeg",
-        "width": 582,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/--5Dob3XmX6xsmYM9zcxuFeNUuZX5F_2hWUB7g2sX38/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMTYzOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/--5Dob3XmX6xsmYM9zcxuFeNUuZX5F_2hWUB7g2sX38/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMTYzOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/2tRWXQA8nj7cjQaZG4woWTHwky1F3klzW_74N31XaOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtMTYzOC5qcGVn.jpeg",
-        "width": 592,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/JPNu6_slmDlYbjSI_c52V0Y93WfkP0SVW1g5HDLaxtg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzA4Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/JPNu6_slmDlYbjSI_c52V0Y93WfkP0SVW1g5HDLaxtg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzA4Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/cr4pe1aEN3k1R3-sPMw-G5C0_mCmC4lUuP2hUsPk7CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzA4Ni5qcGVn.jpeg",
-        "width": 591,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/VdhtA5pEFLcCluHlnK90gXwPIyfdniJiszEjmg2J7Pc/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtNTc2MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/VdhtA5pEFLcCluHlnK90gXwPIyfdniJiszEjmg2J7Pc/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtNTc2MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/xOo7MYunyQG-3hAJcsxQKl9xw94_nCEE_cwpilDnc5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzUtNTc2MS5qcGVn.jpeg",
-        "width": 586,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/o-TZa-0213rZhAdiv7v8iVSYBUplftlOmhXabdl5ERo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzY3MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/o-TZa-0213rZhAdiv7v8iVSYBUplftlOmhXabdl5ERo/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzY3MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/mpszA4pUn8EPXZVinOboujWo2k4tQszwE_LbjBLliM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktMzY3MC5qcGVn.jpeg",
-        "width": 594,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/hoFvPK4XKm-N4cPBz1nqRXdxewWJ2XXogcwiL7E7c_c/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNjY3OS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/hoFvPK4XKm-N4cPBz1nqRXdxewWJ2XXogcwiL7E7c_c/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNjY3OS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/GYaZ0K1UMbN4FBf0gpLMGBTs5AYgAaAIKoZqYm1VEuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtNjY3OS5qcGVn.jpeg",
-        "width": 581,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/gDbVLaenSFmdpOPFIWIJkAPpy5Ga-avCiIy54hZ9XPU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtMjMyMy5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/gDbVLaenSFmdpOPFIWIJkAPpy5Ga-avCiIy54hZ9XPU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtMjMyMy5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/qLHmkbRqzx1hexAiwiAxJLHQl080rA8nCVwwdZ572j8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzAtMjMyMy5qcGVn.jpeg",
-        "width": 596,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/gZSj16siIaNH9KqTXxEp0Z0XI1So6d8MFyZONweslVE/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjMwMS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/gZSj16siIaNH9KqTXxEp0Z0XI1So6d8MFyZONweslVE/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjMwMS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/qFdNpVOwajMkSIfQqJ8SYblMok9LqWmTgPDgMbRRpYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjMwMS5qcGVn.jpeg",
-        "width": 577,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/NYTekwm_1Qyp5pbdTsi_RvDJ62azyo8Qnum12khX6lA/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTA4MS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/NYTekwm_1Qyp5pbdTsi_RvDJ62azyo8Qnum12khX6lA/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTA4MS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/DfA0jNDqSDrd47RgnF1PIXy0ttOlxB14bN2bQe2oJn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTA4MS5qcGVn.jpeg",
-        "width": 586,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/MoXl6ph7L9C_TJ5-xshDtSfb_PfI9Oh4Zdx3PansGQA/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA3/MTQtODgxOC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/MoXl6ph7L9C_TJ5-xshDtSfb_PfI9Oh4Zdx3PansGQA/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA3/MTQtODgxOC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/a1zA55I30dW4BQq9U3JQN10rgy-CjcvTMnKZFLH2K7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA3/MTQtODgxOC5qcGVn.jpeg",
-        "width": 579,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/0qcxHvMiDQ1qV_Uu6M0wQ9wfHHlT7i-qyk9QfxO0Lpc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjctNjEyOS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/0qcxHvMiDQ1qV_Uu6M0wQ9wfHHlT7i-qyk9QfxO0Lpc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjctNjEyOS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/kmGaCfqjJ9X2SUMnUOURqPXLbmqT4q-NrTag-G7h5hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjctNjEyOS5qcGVn.jpeg",
-        "width": 591,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Y9fyI5u2_jkFe9VukIjWVX-8XSmnxfeLFVppfv5-RTw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtMzU0Mi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Y9fyI5u2_jkFe9VukIjWVX-8XSmnxfeLFVppfv5-RTw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtMzU0Mi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/8-0QPfvYSmn4k9DjIaDQ_yPw0PXNwKbbS2NOKp-KKIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtMzU0Mi5qcGVn.jpeg",
-        "width": 593,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/edkT0DfwWqTyYllZsQoowry2bqKRyH76nLJMhrGku2A/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjQ3MC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/edkT0DfwWqTyYllZsQoowry2bqKRyH76nLJMhrGku2A/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjQ3MC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/YkcU7iMQW9bzloctiIqNim2JHtqCBQdFpzoxNzLiNpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNjQ3MC5qcGVn.jpeg",
-        "width": 591,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/oPD8LRDgP8nyRWTscQloqGS0PT7GKOzuRAnZsxQ8R5o/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzctNDA5OC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/oPD8LRDgP8nyRWTscQloqGS0PT7GKOzuRAnZsxQ8R5o/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzctNDA5OC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/wDqvcDnbFsPu1F4zxoCfUXQrvUns9KzMED6DDuyBuJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzctNDA5OC5qcGVn.jpeg",
-        "width": 600,
-        "height": 597
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Jjihc93OaeikZ04viB-PWFrFy1W4kNHjpT3WlxcPjY4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTkwMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Jjihc93OaeikZ04viB-PWFrFy1W4kNHjpT3WlxcPjY4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTkwMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/C2aCgOIie4UeFBdHstFzy-tmkZ0a56c3HxdXRILw1eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTkwMi5qcGVn.jpeg",
-        "width": 598,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/XgVBuke2inktqd0cV7Dj5zk4kfAkZ0AwUT0r3JuU184/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA5/NTYtOTc1NS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/XgVBuke2inktqd0cV7Dj5zk4kfAkZ0AwUT0r3JuU184/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA5/NTYtOTc1NS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/DrdC1PaORjazJ0evEdy9lyMu2FEVPOec1LogaHelRkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzA5/NTYtOTc1NS5qcGVn.jpeg",
-        "width": 593,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/XJi31Zr4c1p2quMAvKydt18rk4z7SCS3IkaPwDZrmZE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktNjk4Ni5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/XJi31Zr4c1p2quMAvKydt18rk4z7SCS3IkaPwDZrmZE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktNjk4Ni5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/dsYzdVq-zXmw-XWvWOsghtgh8M1DYPO76eTnaGBrWlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjktNjk4Ni5qcGVn.jpeg",
-        "width": 586,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/5M2HJaaNGHdBZHCXsr_2kd3O3HPycU1bI-AfGtOrKoE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtOTkyMC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/5M2HJaaNGHdBZHCXsr_2kd3O3HPycU1bI-AfGtOrKoE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtOTkyMC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/7JUbCGOXCBOXTZIF2yNHdPSTvnl1D0vv0jKdR91Hwww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzgtOTkyMC5qcGVn.jpeg",
-        "width": 595,
-        "height": 600
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/s-iAW-eCXo5HReyJmbR1NXMoIaxd0B1Dc_5-ss19gto/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTgzMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/s-iAW-eCXo5HReyJmbR1NXMoIaxd0B1Dc_5-ss19gto/rs:fit/g:sm/q:90/h:280/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTgzMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/AVhlesI-hErawow0Yd1wn7ILLBVlcWuztdGv636wbj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtNTgzMi5qcGVn.jpeg",
-        "width": 600,
-        "height": 280
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/dBE05LHCzUACE0js5GCzyFMZ_HYNzwdfSMA-w1QozMs/rs:fit/g:sm/q:90/h:261/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNzQwMi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/dBE05LHCzUACE0js5GCzyFMZ_HYNzwdfSMA-w1QozMs/rs:fit/g:sm/q:90/h:261/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNzQwMi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/2wx7FXTKMETSKVBiIg1GRXE6jCDANLJCEcIRUFObnMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjYtNzQwMi5qcGVn.jpeg",
-        "width": 600,
-        "height": 261
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/rnEN_AgEmRMIkBJ8hl3AEYXeONolarPrhqStNJwmWeQ/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTgxOS5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/rnEN_AgEmRMIkBJ8hl3AEYXeONolarPrhqStNJwmWeQ/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTgxOS5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/CXJhPTgKjuIxjScle7U9JYFQQvcrZe3jWhLg-5snCgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MjgtMTgxOS5qcGVn.jpeg",
-        "width": 600,
-        "height": 294
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/Svlgn_9lSRWoC8pftRFY9Ok9Lmdl5LrhSK43pBSzZGA/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNzY5Mi5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/Svlgn_9lSRWoC8pftRFY9Ok9Lmdl5LrhSK43pBSzZGA/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNzY5Mi5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/Ls-w-LNKOXrOeKJwF2RjzluIIOgWVw1lq8o1MKwA45c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2NDg0MzAz/MzEtNzY5Mi5qcGVn.jpeg",
-        "width": 600,
-        "height": 559
-      },
-      {
-        "type": "secondary",
-        "uri": "https://i.discogs.com/4-K-jgOGQJZI3Ga9JuYa74foYkUtXssfZWZ1sTVXJ2o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2Njg3MTUy/OTMtOTQ4NC5qcGVn.jpeg",
-        "resource_url": "https://i.discogs.com/4-K-jgOGQJZI3Ga9JuYa74foYkUtXssfZWZ1sTVXJ2o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2Njg3MTUy/OTMtOTQ4NC5qcGVn.jpeg",
-        "uri150": "https://i.discogs.com/o7Vb1qLXiHWvfOBhli1Bdapz1f8jvbLMNcOUTriC25E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMz/MTQyLTE2Njg3MTUy/OTMtOTQ4NC5qcGVn.jpeg",
-        "width": 600,
-        "height": 450
-      }
-    ],
-    "year": 2022,
-    "tracklist": [
-      {
-        "position": "A1",
-        "type_": "track",
-        "title": "Intro",
-        "duration": "0:54"
-      },
-      {
-        "position": "A2",
-        "type_": "track",
-        "title": "Chaos Space Marine",
-        "extraartists": [
-          {
-            "name": "Tony Fagg",
-            "anv": "",
-            "join": "",
-            "role": "Banjo",
-            "tracks": "",
-            "id": 10716589,
-            "resource_url": "https://api.discogs.com/artists/10716589"
-          }
-        ],
-        "duration": "3:36"
-      },
-      {
-        "position": "A3",
-        "type_": "track",
-        "title": "Concorde",
-        "duration": "6:03"
-      },
-      {
-        "position": "A4",
-        "type_": "track",
-        "title": "Bread Song",
-        "duration": "6:21"
-      },
-      {
-        "position": "B1",
-        "type_": "track",
-        "title": "Good Will Hunting",
-        "duration": "4:57"
-      },
-      {
-        "position": "B2",
-        "type_": "track",
-        "title": "Haldern",
-        "duration": "5:05"
-      },
-      {
-        "position": "B3",
-        "type_": "track",
-        "title": "Mark's Theme",
-        "extraartists": [
-          {
-            "name": "Mark Paton (4)",
-            "anv": "",
-            "join": "",
-            "role": "Vocals",
-            "tracks": "",
-            "id": 10716595,
-            "resource_url": "https://api.discogs.com/artists/10716595"
-          }
-        ],
-        "duration": "2:47"
-      },
-      {
-        "position": "C1",
-        "type_": "track",
-        "title": "The Place Where He Inserted The Blade",
-        "duration": "7:13"
-      },
-      {
-        "position": "C2",
-        "type_": "track",
-        "title": "Snow Globes",
-        "duration": "9:13"
-      },
-      {
-        "position": "D",
-        "type_": "track",
-        "title": "Basketball Shoes",
-        "extraartists": [
-          {
-            "name": "Basil Tierney",
-            "anv": "",
-            "join": "",
-            "role": "Drums [Additional Drums]",
-            "tracks": "",
-            "id": 10716601,
-            "resource_url": "https://api.discogs.com/artists/10716601"
-          }
-        ],
-        "duration": "12:37"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Black Country, New Road",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 6959133,
-        "resource_url": "https://api.discogs.com/artists/6959133",
-        "thumbnail_url": "https://i.discogs.com/z1xZzKRIqrSW11aY6ItzmyfCV9QoHZnYS0JlVopc-sk/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY5NTkx/MzMtMTY1ODYyOTI3/MC03MzI5LmpwZWc.jpeg"
-      }
-    ],
-    "title": "Ants From Up There",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=hg2FriyudSw",
-        "title": "Black Country, New Road - 'Intro' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 56,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Jqy6WPSfZSA",
-        "title": "Black Country, New Road - 'Chaos Space Marine' (Official Audio)",
-        "description": "Taken from the album 'Ants From Up There', released 04 February 2022 on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYo",
-        "duration": 218,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=yjC4qXiBRu4",
-        "title": "Black Country, New Road - 'Concorde' (Official Video)",
-        "description": "Taken from the album 'Ants From Up There', released 04 February 2022 on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nLabel: Ninja Tune \nProject Managers: Mita De & Bianca Renzullo\nManagement: Dan McEvoy \nCommissioner: John M",
-        "duration": 387,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=Hi8HjWTUqwI",
-        "title": "Black Country, New Road - 'Bread Song' (Official Audio)",
-        "description": "Taken from the album 'Ants From Up There', released 04 February 2022 on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYo",
-        "duration": 383,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=EX67uWOlbgs",
-        "title": "Black Country, New Road - 'Good Will Hunting' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 299,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=K9osutGvu64",
-        "title": "Black Country, New Road - 'Haldern' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 307,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=UlRdFR5owyI",
-        "title": "Black Country, New Road - 'Mark\u2019s Theme' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 169,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=YPrs3DqraWM",
-        "title": "Black Country, New Road - 'The Place Where He Inserted the Blade' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 435,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=hTVwQ1Gjqas",
-        "title": "Black Country, New Road - 'Snow Globes' (Official Audio)",
-        "description": "Taken from the album 'Ants From Up There', released 04 February 2022 on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYo",
-        "duration": 555,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=uOnjuIb1TWY",
-        "title": "Black Country, New Road - 'Basketball Shoes' (Official Audio)",
-        "description": "'Ants From Up There', out now on Ninja Tune: https://bcnr.lnk.to/afutYo\nSubscribe: https://found.ee/bcnr-ys\n\nFollow Black Country, New Road -\nSpotify: https://found.ee/bcnr-sp\nApple Music: https://found.ee/bcnr-am\nYouTube: https://found.ee/bcnr-yt\nBandcam",
-        "duration": 0,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 2486344,
   "genres": [
     {

@@ -8,13 +8,6 @@
   },
   "results": [
     {
-      "id": 16023423,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "US",
       "year": "2016",
       "format": [
@@ -28,14 +21,21 @@
         "Mixtapes.com"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 16023423,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/16023423-Chance-The-Rapper-Coloring-Book",
       "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/mp-ev7BjY9Y_BCVkP79-DJmpjhVZ6otC_gEsUMGRWFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NDIzLTE2MDIwNjgz/OTUtOTUyNy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/uakYKumB4SOhUwoqUZAuKjxcZBnKsn-cG-8z1q5i2p8/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIz/NDIzLTE2MDIwNjgz/OTUtOTUyNy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/16023423",
@@ -56,13 +56,6 @@
       ]
     },
     {
-      "id": 8888067,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "Unknown",
       "year": "2016",
       "format": [
@@ -76,14 +69,21 @@
         "Not On Label (Chance The Rapper)"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 8888067,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/8888067-Chance-The-Rapper-Coloring-Book",
       "catno": "CTRCB3",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/8a5Lew6pHkYPXPO22K1CPEiCf2eD2mSFVvYiE72ttQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgw/NjctMTQ3OTU1MTA5/OS02MzM1LmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/w52sXWJSdHaD-tLwvkMU2uRiZ6Por_vZHr-I7YXBIUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODgw/NjctMTQ3OTU1MTA5/OS02MzM1LmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/8888067",
@@ -107,13 +107,6 @@
       ]
     },
     {
-      "id": 11400111,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "UK",
       "year": "2016",
       "format": [
@@ -129,6 +122,11 @@
         "Chance The Rapper, LLC"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 11400111,
       "barcode": [
         "CTRCB 3 A-1",
         "CTRCB 3 B-1",
@@ -139,9 +137,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/11400111-Chance-The-Rapper-Coloring-Book",
       "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/JAho8l4Sw4wN-gXoHWgXW_z38WdaTkCUiy_T3iHdvvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/MTExLTE1MTc2Mzcw/MzUtMjk0NC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/V2Fuihj0XZgvMF41T7m6PxLdRTZsox4BoK5AzAtZ2Bc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAw/MTExLTE1MTc2Mzcw/MzUtMjk0NC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/11400111",
@@ -165,13 +165,6 @@
       ]
     },
     {
-      "id": 25644094,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "US",
       "year": "2016",
       "format": [
@@ -186,6 +179,11 @@
         "Chance The Rapper, LLC"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 25644094,
       "barcode": [
         "CTRCB 3 A-2",
         "CTRCB 3 B-1",
@@ -196,9 +194,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/25644094-Chance-The-Rapper-Coloring-Book",
       "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/WWhAq1qT_2ydFdgJS8_QUFlcW7Br9Kq8gVZ3jpn4A_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ0/MDk0LTE2NzI2ODc1/NjMtNTQwMy5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/5tGLmGQyr72no0EFEqv-WyMYiEcLWnAxpm0uOmst2Jc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ0/MDk0LTE2NzI2ODc1/NjMtNTQwMy5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/25644094",
@@ -222,13 +222,6 @@
       ]
     },
     {
-      "id": 10786481,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "US",
       "year": "2016",
       "format": [
@@ -240,14 +233,21 @@
         "Not On Label (Chance The Rapper Self-released)"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 10786481,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/10786481-Chance-The-Rapper-Coloring-Book",
       "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/dUzY9CsKQ6UasPo8SVKI65ilrrvsiuTnEfuvBG71wQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/NDgxLTE1MDQzMDA1/ODktNTc1MC5qcGVn.jpeg",
       "cover_image": "https://i.discogs.com/cvl4DVoqli1iQA66gk3P8Z7VEaWohcuRj076fMlurZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg2/NDgxLTE1MDQzMDA1/ODktNTc1MC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/10786481",
@@ -268,13 +268,6 @@
       ]
     },
     {
-      "id": 9764958,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "US",
       "year": "2016",
       "format": [
@@ -287,14 +280,21 @@
         "Not On Label (Chance The Rapper)"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 9764958,
       "barcode": [],
       "user_data": {
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/9764958-Chance-The-Rapper-Coloring-Book",
       "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/y0xqPlOWhs4iI77Isse15KvsTzsjg91jDAv0QhBFSDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQ5/NTgtMTQ4NjAwMTUx/OC0xNjYxLmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/hXqgzIumzi4Nn4yw4KhWk634SslOoFSpKsrQD43it1w/rs:fit/g:sm/q:90/h:442/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQ5/NTgtMTQ4NjAwMTUx/OC0xNjYxLmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/9764958",
@@ -317,13 +317,6 @@
       ]
     },
     {
-      "id": 24740768,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
       "country": "Worldwide",
       "year": "2016",
       "format": [
@@ -336,6 +329,11 @@
         "Chance The Rapper"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 24740768,
       "barcode": [
         "1113239004"
       ],
@@ -343,9 +341,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/24740768-Chance-The-Rapper-Coloring-Book",
       "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/YgkNUHPoBUn8Jo_ao8Ma8y_DyJjl6OH_zm_0qDz-KK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NzY4LTE2NjUwODA0/MDgtNDU0Ni5wbmc.jpeg",
       "cover_image": "https://i.discogs.com/tUAUqpekbtDKiHuhOKkGOe2ZxsgRFyVNVmAaVDSA1qw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzQw/NzY4LTE2NjUwODA0/MDgtNDU0Ni5wbmc.jpeg",
       "resource_url": "https://api.discogs.com/releases/24740768",
@@ -367,13 +367,53 @@
       ]
     },
     {
-      "id": 9809223,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Chance The Rapper Self-released)"
+      ],
+      "type": "release",
       "genre": [
         "Hip Hop"
       ],
       "style": [],
+      "id": 8513820,
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_id": 1041739,
+      "master_url": "https://api.discogs.com/masters/1041739",
+      "uri": "/release/8513820-Chance-The-Rapper-Coloring-Book",
+      "catno": "none",
+      "title": "Chance The Rapper - Coloring Book",
+      "thumb": "https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DhDRUD8fTIG_se9Xpp6el7F9Gpd62A21CXy3HWyUoHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8513820",
+      "community": {
+        "want": 543,
+        "have": 267
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
       "country": "Unknown",
       "year": "2016",
       "format": [
@@ -388,6 +428,11 @@
         "Chance The Rapper, LLC"
       ],
       "type": "release",
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "id": 9809223,
       "barcode": [
         "CTRCB 3 A-1",
         "CTRCB 3 B-1",
@@ -398,9 +443,11 @@
         "in_wantlist": false,
         "in_collection": false
       },
+      "master_id": 1041739,
       "master_url": "https://api.discogs.com/masters/1041739",
       "uri": "/release/9809223-Chance-The-Rapper-Coloring-Book",
       "catno": "CTRCB 3",
+      "title": "Chance The Rapper - Coloring Book",
       "thumb": "https://i.discogs.com/jRB0N-hEWRjtQvLSwHXbcjg_XodcswOt3O-vYgI7tKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDky/MjMtMTQ4NjY2MDA1/MS0yNjkyLmpwZWc.jpeg",
       "cover_image": "https://i.discogs.com/ja-rz6hdIitjcDAxaOmiZ5AuzVPbKfa9xFWkM6bM9Cg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDky/MjMtMTQ4NjY2MDA1/MS0yNjkyLmpwZWc.jpeg",
       "resource_url": "https://api.discogs.com/releases/9809223",
@@ -422,445 +469,8 @@
           ]
         }
       ]
-    },
-    {
-      "id": 8513820,
-      "title": "Chance The Rapper - Coloring Book",
-      "master_id": 1041739,
-      "genre": [
-        "Hip Hop"
-      ],
-      "style": [],
-      "country": "Worldwide",
-      "year": "2016",
-      "format": [
-        "File",
-        "MP3",
-        "Mixtape"
-      ],
-      "label": [
-        "Not On Label (Chance The Rapper Self-released)"
-      ],
-      "type": "release",
-      "barcode": [],
-      "user_data": {
-        "in_wantlist": false,
-        "in_collection": false
-      },
-      "master_url": "https://api.discogs.com/masters/1041739",
-      "uri": "/release/8513820-Chance-The-Rapper-Coloring-Book",
-      "catno": "none",
-      "thumb": "https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
-      "cover_image": "https://i.discogs.com/DhDRUD8fTIG_se9Xpp6el7F9Gpd62A21CXy3HWyUoHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
-      "resource_url": "https://api.discogs.com/releases/8513820",
-      "community": {
-        "want": 543,
-        "have": 267
-      },
-      "format_quantity": 0,
-      "formats": [
-        {
-          "name": "File",
-          "qty": "14",
-          "text": "320 kbps",
-          "descriptions": [
-            "MP3",
-            "Mixtape"
-          ]
-        }
-      ]
     }
   ],
-  "master": {
-    "id": 1041739,
-    "genres": [
-      "Hip Hop"
-    ],
-    "styles": [],
-    "main_release": 8513820,
-    "most_recent_release": 29387722,
-    "resource_url": "https://api.discogs.com/masters/1041739",
-    "uri": "https://www.discogs.com/master/1041739-Chance-The-Rapper-Coloring-Book",
-    "versions_url": "https://api.discogs.com/masters/1041739/versions",
-    "main_release_url": "https://api.discogs.com/releases/8513820",
-    "most_recent_release_url": "https://api.discogs.com/releases/29387722",
-    "num_for_sale": 14,
-    "lowest_price": 20.0,
-    "images": [
-      {
-        "type": "primary",
-        "uri": "https://i.discogs.com/DhDRUD8fTIG_se9Xpp6el7F9Gpd62A21CXy3HWyUoHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
-        "resource_url": "https://i.discogs.com/DhDRUD8fTIG_se9Xpp6el7F9Gpd62A21CXy3HWyUoHQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
-        "uri150": "https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg",
-        "width": 600,
-        "height": 600
-      }
-    ],
-    "year": 2016,
-    "tracklist": [
-      {
-        "position": "1",
-        "type_": "track",
-        "title": "All We Got",
-        "extraartists": [
-          {
-            "name": "Chicago Children's Choir",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 5047452,
-            "resource_url": "https://api.discogs.com/artists/5047452"
-          },
-          {
-            "name": "Kanye West",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 137880,
-            "resource_url": "https://api.discogs.com/artists/137880"
-          },
-          {
-            "name": "Kanye West",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Uncredited]",
-            "tracks": "",
-            "id": 137880,
-            "resource_url": "https://api.discogs.com/artists/137880"
-          },
-          {
-            "name": "The Social Experiment",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Uncredited]",
-            "tracks": "",
-            "id": 3744029,
-            "resource_url": "https://api.discogs.com/artists/3744029"
-          }
-        ],
-        "duration": "3:23"
-      },
-      {
-        "position": "2",
-        "type_": "track",
-        "title": "No Problem",
-        "extraartists": [
-          {
-            "name": "2 Chainz",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 2523290,
-            "resource_url": "https://api.discogs.com/artists/2523290"
-          },
-          {
-            "name": "Lil Wayne",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1065010,
-            "resource_url": "https://api.discogs.com/artists/1065010"
-          },
-          {
-            "name": "Brasstracks",
-            "anv": "",
-            "join": "",
-            "role": "Producer [Uncredited]",
-            "tracks": "",
-            "id": 4691879,
-            "resource_url": "https://api.discogs.com/artists/4691879"
-          }
-        ],
-        "duration": "5:04"
-      },
-      {
-        "position": "3",
-        "type_": "track",
-        "title": "Summer Friends",
-        "extraartists": [
-          {
-            "name": "Francis And The Lights",
-            "anv": "Francis & The Lights",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1560282,
-            "resource_url": "https://api.discogs.com/artists/1560282"
-          },
-          {
-            "name": "Jeremih",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1502171,
-            "resource_url": "https://api.discogs.com/artists/1502171"
-          }
-        ],
-        "duration": "4:50"
-      },
-      {
-        "position": "4",
-        "type_": "track",
-        "title": "D.R.A.M. Sings Special",
-        "extraartists": [
-          {
-            "name": "D.R.A.M.",
-            "anv": "",
-            "join": "",
-            "role": "Featuring [Uncredited]",
-            "tracks": "",
-            "id": 4440880,
-            "resource_url": "https://api.discogs.com/artists/4440880"
-          }
-        ],
-        "duration": "1:41"
-      },
-      {
-        "position": "5",
-        "type_": "track",
-        "title": "Blessings",
-        "duration": "3:41"
-      },
-      {
-        "position": "6",
-        "type_": "track",
-        "title": "Same Drugs",
-        "duration": "4:17"
-      },
-      {
-        "position": "7",
-        "type_": "track",
-        "title": "Mixtape",
-        "extraartists": [
-          {
-            "name": "Lil Yachty",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 4938476,
-            "resource_url": "https://api.discogs.com/artists/4938476"
-          },
-          {
-            "name": "Young Thug (2)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 3243777,
-            "resource_url": "https://api.discogs.com/artists/3243777"
-          }
-        ],
-        "duration": "4:52"
-      },
-      {
-        "position": "8",
-        "type_": "track",
-        "title": "Angels",
-        "extraartists": [
-          {
-            "name": "Saba (14)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 3270638,
-            "resource_url": "https://api.discogs.com/artists/3270638"
-          }
-        ],
-        "duration": "3:26"
-      },
-      {
-        "position": "9",
-        "type_": "track",
-        "title": "Juke Jam",
-        "extraartists": [
-          {
-            "name": "Justin Bieber",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1602787,
-            "resource_url": "https://api.discogs.com/artists/1602787"
-          },
-          {
-            "name": "Towkio",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 4234294,
-            "resource_url": "https://api.discogs.com/artists/4234294"
-          }
-        ],
-        "duration": "3:39"
-      },
-      {
-        "position": "10",
-        "type_": "track",
-        "title": "All Night",
-        "extraartists": [
-          {
-            "name": "Knox Fortune",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 4230513,
-            "resource_url": "https://api.discogs.com/artists/4230513"
-          }
-        ],
-        "duration": "2:21"
-      },
-      {
-        "position": "11",
-        "type_": "track",
-        "title": "How Great",
-        "extraartists": [
-          {
-            "name": "Jay Electronica",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 969926,
-            "resource_url": "https://api.discogs.com/artists/969926"
-          },
-          {
-            "name": "My Cousin Nicole",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 5047451,
-            "resource_url": "https://api.discogs.com/artists/5047451"
-          }
-        ],
-        "duration": "5:37"
-      },
-      {
-        "position": "12",
-        "type_": "track",
-        "title": "Smoke Break",
-        "extraartists": [
-          {
-            "name": "Future (4)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 221673,
-            "resource_url": "https://api.discogs.com/artists/221673"
-          }
-        ],
-        "duration": "3:46"
-      },
-      {
-        "position": "13",
-        "type_": "track",
-        "title": "Finish Line / Drown",
-        "extraartists": [
-          {
-            "name": "Eryn Allen Kane",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 3866055,
-            "resource_url": "https://api.discogs.com/artists/3866055"
-          },
-          {
-            "name": "Kirk Franklin",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 178301,
-            "resource_url": "https://api.discogs.com/artists/178301"
-          },
-          {
-            "name": "Noname (18)",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 5934594,
-            "resource_url": "https://api.discogs.com/artists/5934594"
-          },
-          {
-            "name": "T-Pain",
-            "anv": "",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 382934,
-            "resource_url": "https://api.discogs.com/artists/382934"
-          }
-        ],
-        "duration": "6:46"
-      },
-      {
-        "position": "14",
-        "type_": "track",
-        "title": "Blessings (Reprise)",
-        "extraartists": [
-          {
-            "name": "Ty$",
-            "anv": "Ty Dolla $ign",
-            "join": "",
-            "role": "Featuring",
-            "tracks": "",
-            "id": 1825654,
-            "resource_url": "https://api.discogs.com/artists/1825654"
-          }
-        ],
-        "duration": "3:50"
-      }
-    ],
-    "artists": [
-      {
-        "name": "Chance The Rapper",
-        "anv": "",
-        "join": "",
-        "role": "",
-        "tracks": "",
-        "id": 3268583,
-        "resource_url": "https://api.discogs.com/artists/3268583",
-        "thumbnail_url": "https://i.discogs.com/hE2q_V5XDrLCb3KYb2TshEScWQBuvkhMw-MXTuuaq9k/rs:fit/g:sm/q:90/h:600/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjg1/ODMtMTU0NjcwNzcw/MC00ODU5LmpwZWc.jpeg"
-      }
-    ],
-    "title": "Coloring Book",
-    "data_quality": "Correct",
-    "videos": [
-      {
-        "uri": "https://www.youtube.com/watch?v=eedeXTWZUn8",
-        "title": "Chance The Rapper ft. Saba - Angels",
-        "description": "Written and performed by Chance the Rapper, Saba, Lido, Peter Cottontale, Nate Fox & Donnie Trumpet for The Social Experiment\nDirected by Austin Vesely (http://twitter.com/AustinVesely) with animation by Hebru Brand Studios. Presented by Chance the Rapper",
-        "duration": 214,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=DVkkYlQNmbc",
-        "title": "Chance the Rapper ft. 2 Chainz & Lil Wayne - No Problem (Official Video)",
-        "description": "Directed by Skim Nasty (http://twitter.com/AustinVesely) & Lil Chano from 79th\nDrone footage by Jeff Salzbrunn and Yakub Films",
-        "duration": 285,
-        "embed": true
-      },
-      {
-        "uri": "https://www.youtube.com/watch?v=be37-T72DNk",
-        "title": "Chance the Rapper - Same Drugs (Official Video)",
-        "description": "Same Drugs from the Grammy Nominated Coloring Book, featuring vocals from Chance The Rapper, Eryn Allen Kane, Yebba, John Legend, Francis Starlite and Macie Stewart.\n\nDirected by Jake Schreier\n\nwww.ChanceRaps.com",
-        "duration": 264,
-        "embed": true
-      }
-    ]
-  },
   "discogs_release_id": 1041739,
   "genres": [
     {
