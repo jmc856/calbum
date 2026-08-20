@@ -40,12 +40,11 @@ concurrency:
   group: sync
   cancel-in-progress: false
 
-permissions:
-  contents: write
-
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -147,3 +146,51 @@ jobs:
           git commit -m "sync: site payload [skip ci]"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+
+  # Deploy runs as a job here rather than on a push trigger, deliberately.
+  # Every commit this workflow makes carries "[skip ci]" (needed so a data
+  # commit doesn't retrigger the whole sync), and GitHub Actions HONORS that
+  # marker — a push-triggered Pages workflow would therefore never fire, and
+  # the site would silently freeze while the data kept updating. Netlify
+  # ignored "[skip ci]", which is why this wasn't a problem before.
+  # Chaining off `needs: sync` sidesteps the marker entirely.
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Check out the branch tip, NOT the triggering SHA — the sync job
+      # above just pushed the fresh payload, and the default checkout would
+      # build the pre-sync commit and deploy stale data.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install web dependencies
+        working-directory: web
+        run: npm ci
+
+      - name: Build site
+        working-directory: web
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

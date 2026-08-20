@@ -405,9 +405,28 @@ room.
 4. **`groupBy(albums, keyFn)` in `src/albums.ts` is the extensibility seam** —
    Artists is the same function with a different `keyFn`, which is why that
    destination cost a line rather than a rewrite.
-5. Deploy: `netlify.toml` at the repo root (`base = "web"`). The sync
-   workflow's `[skip ci]` marker suppresses GitHub Actions but not Netlify
-   (which uses `[skip netlify]`), so every data commit rebuilds the site.
+5. Deploy: **GitHub Pages on a public repo**, via a `deploy` job chained off
+   `needs: sync` in the same workflow.
+
+   Why a job and not a push-triggered workflow: every commit the sync
+   workflow makes carries `[skip ci]` (needed so a data commit doesn't
+   retrigger the whole sync), and **GitHub Actions honors that marker** — a
+   push-triggered Pages workflow would never fire and the site would freeze
+   while the data kept updating. Netlify ignored `[skip ci]`, which is why
+   this only became a hazard on switching hosts. Chaining off `needs:`
+   sidesteps it. The deploy job also checks out `ref: github.ref_name`
+   rather than the triggering SHA, or it would build the pre-sync commit.
+
+   Going public also removes two constraints this plan was written under:
+   Pages is free (the earlier "needs a paid plan" note was purely about the
+   repo being private), and Actions minutes become unlimited, so the 4-hour
+   cadence is no longer budget-bound.
+
+   Custom domain on a subdomain: `web/public/CNAME` holds the hostname, and
+   `VITE_SITE_URL` in `web/.env.production` feeds the **absolute** `og:url`
+   and `og:image` — relative OG URLs are not reliably resolved by iMessage,
+   Slack, or Facebook, and the link preview is this stage's whole point.
+   The domain is declared in those two places only.
 
 **Not built, deliberately:** routing/album detail pages (click goes straight to
 Spotify, so there's no second view), per-album notes, ratings, and
@@ -415,8 +434,16 @@ Spotify, so there's no second view), per-album notes, ratings, and
 static output, so it would add a moving part serving nothing).
 
 **Done when:** there is a public URL you'd actually send to someone.
-**Remaining manual step:** connect the private repo to Netlify once, in their
-UI — an OAuth flow that can't be scripted. Everything else is committed config.
+
+**Remaining manual steps** (none scriptable):
+1. Make the repo public. Audited safe — `.env` was never tracked or
+   committed, no hardcoded IDs, everything env-driven; Actions secrets live
+   in GitHub's store, not repo contents, so they stay private.
+2. Settings → Pages → Source: **GitHub Actions** (not "deploy from branch").
+3. Add the subdomain's DNS record: `CNAME <sub> → jmc856.github.io`.
+4. Settings → Pages → Custom domain: enter the same hostname, then tick
+   **Enforce HTTPS** once the certificate provisions (can take a few
+   minutes).
 
 ## Stage 5 — Optional, whenever (RYM ratings import)
 
