@@ -41,16 +41,15 @@ Everything else is generated and can be deleted and rebuilt.
   version history; a static file is directly fetchable by a browser with no host.
   JSON -> SQLite later is a 20-line script if ever needed.
 - **GitHub Actions cron, not a self-hosted daemon.** The Action already has the
-  checkout. **Repo is private.** Secrets are encrypted at rest and unreadable from a
-  public repo either way — visibility was never what protected them — but private
-  keeps the catalog and `GOOGLE_SA_JSON` out of public view for free. Cost tradeoff:
-  private gets 2,000 Actions minutes/month (Free plan, shared across the whole
-  account, billed rounded-up-per-job) vs. unlimited on public; cron cadence is set
-  to every 4 hours (not hourly) to keep comfortable headroom — see Stage 0.
-  `workflow_dispatch` is also enabled, so a run can be triggered on demand instead
-  of waiting for the next scheduled tick. Private
-  also means GitHub Pages needs a paid plan, so Stage 4 targets Netlify instead
-  (already used for `house_planner/`, see root `CLAUDE.md`).
+  checkout. **Repo is public** (flipped from private once Stage 4 needed free GitHub
+  Pages — audited safe first: `.env` was never tracked, no hardcoded secrets/IDs,
+  everything env-driven, and Actions secrets live in GitHub's encrypted store, not
+  repo contents, so visibility never protected them anyway). Public also means
+  unlimited Actions minutes, so the 4-hour cron cadence (not hourly) is a
+  reasonable-load choice, not a budget constraint — see Stage 0. `workflow_dispatch`
+  is also enabled, so a run can be triggered on demand instead of waiting for the
+  next scheduled tick. Stage 4 deploys to **GitHub Pages** (a project page at
+  `jmc856.github.io/calbum/`, no custom domain), not Netlify — see Stage 4 for why.
 - **Genre cascade, not single-source.** The requirement is a primary genre plus at least
   one sub-genre per album. Only Discogs (`genre[]` + `style[]`) produces that shape;
   MusicBrainz is flat community tags and Spotify's artist-level genres are flat and
@@ -537,6 +536,43 @@ Three tabs, one view. Three things worth fixing, none built yet:
    silently split into separate entries. Harmless while artists are just
    section headings; a real problem once they're first-class entities with
    portraits.
+
+## Stage 8 — Operational backlog
+
+**1. Write the README — highest priority of anything in this file.**
+`README.md` is currently an 8-byte stub; a public repo with a real live site
+and no README is the single most visible gap in the whole project right now,
+more so than any feature work above. Should cover at minimum: what calbum is
+and why it exists (see Problem, above), the pipeline shape (poll → overrides
+→ enrich → sheets → site, one write surface fanning out to read-only
+projections), the live site link, `mix setup`-equivalent local dev steps
+(`uv sync`, `.env` from `.env.example` if one gets added, `uv run pytest`),
+and a link to this file for anyone who wants the full design history. Doesn't
+need to duplicate `PLAN.md`'s depth — it's the front door, this file is the
+archive.
+
+**2. Multi-playlist tracking, to get around Spotify's 10,000-item-per-playlist
+cap.** Not the same idea as the rejected playlist reconciler in the cut list
+below — that was about resurrecting old per-year playlists for a backfill
+that no data exists to support. This is purely a capacity extension of the
+existing single-playlist model, needed only once `_selected` itself
+approaches the ceiling. At today's ~10 tracks/album average and 31 albums
+(~310 tracks), that's nowhere close — this is "whenever," not urgent, and
+worth revisiting only once real growth makes it a live concern.
+
+The shape, if picked up: `_selected` stays the *first* playlist, and once it
+fills, a new one (`_selected_2`, then `_selected_3`, ...) gets created by hand
+the same way `_selected` was originally — capture is still "add the album to
+a playlist," just without the operator needing to think about which one
+past the current write target. `poll.py`'s `PLAYLIST_NAME` constant
+(currently a single hardcoded string, resolved via
+`client.find_playlist_id`) becomes a prefix match returning every playlist
+whose name matches `_selected` or `_selected_N`, and the poller unions their
+items — same identity model (Spotify album ID), same mass-removal guard
+(constraint 7), just sourced from N playlists instead of one. No change to
+`albums.json`'s shape, `enrich.py`, `sheets.py`, or `site.py` — the fan-out
+stays entirely downstream of "what's the current keeper set," which is the
+only thing this touches.
 
 ---
 
