@@ -556,6 +556,20 @@ Three tabs, one view. Three things worth fixing, none built yet:
    section headings; a real problem once they're first-class entities with
    portraits.
 
+4. **A cover-art toggle — condensed view when it's off.** One switch, not
+   a per-tab setting — it applies across Albums, Genres, and Artists alike,
+   since all three render through the same `AlbumCard`/`Section` pair.
+   Lands here because it's the same surface as 1–3 above, not because it's
+   another differentiation axis. Off, a section becomes a dense list (title
+   + artist, no image); the point is fitting more of the catalog on screen
+   at once, which the cover grid trades away for browsability. Cheap:
+   `AlbumCard` already branches on whether `album.cover` exists (falls back
+   to a typographic tile), so "off" is the same component minus the
+   `<img>`/fallback block, plus a `.grid` variant with more, shorter rows
+   instead of a cover grid. State is one toggle at the app level, read by
+   every tab — no payload or backend change, since `cover` is already in
+   every record whether it's shown or not.
+
 ## Stage 8 — Operational backlog
 
 **1. Write the README — highest priority of anything in this file.**
