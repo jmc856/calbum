@@ -1,0 +1,551 @@
+{
+  "album_type": "album",
+  "total_tracks": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+  },
+  "href": "https://api.spotify.com/v1/albums/0U28P0QVB1QRxpqp5IHOlH",
+  "id": "0U28P0QVB1QRxpqp5IHOlH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02084a94988541c2402615d014",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851084a94988541c2402615d014",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "CHROMAKOPIA",
+  "release_date": "2024-10-28",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0U28P0QVB1QRxpqp5IHOlH",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+      },
+      "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+      "id": "4V8LLVI7PbaPR0K2TGSxFF",
+      "name": "Tyler, The Creator",
+      "type": "artist",
+      "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0U28P0QVB1QRxpqp5IHOlH/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+            },
+            "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+            "id": "20wkVLutqVOYrc0kxFs7rA",
+            "name": "Daniel Caesar",
+            "type": "artist",
+            "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197019,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QoyuMHNBe7lg3YW4Qtll4",
+        "id": "1QoyuMHNBe7lg3YW4Qtll4",
+        "name": "St. Chroma (feat. Daniel Caesar)",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1QoyuMHNBe7lg3YW4Qtll4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165412,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RePVWy39tLpHH0WwXgBsK",
+        "id": "5RePVWy39tLpHH0WwXgBsK",
+        "name": "Rah Tah Tah",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5RePVWy39tLpHH0WwXgBsK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284363,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1YdtGoSYDvVQKoUqSDXX41",
+        "id": "1YdtGoSYDvVQKoUqSDXX41",
+        "name": "Noid",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1YdtGoSYDvVQKoUqSDXX41",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+            },
+            "href": "https://api.spotify.com/v1/artists/0fGcIStdT1OpFFhOC7Wp36",
+            "id": "0fGcIStdT1OpFFhOC7Wp36",
+            "name": "Teezo Touchdown",
+            "type": "artist",
+            "uri": "spotify:artist:0fGcIStdT1OpFFhOC7Wp36"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253834,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0VaeksJaXy5R1nvcTMh3Xk",
+        "id": "0VaeksJaXy5R1nvcTMh3Xk",
+        "name": "Darling, I (feat. Teezo Touchdown)",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0VaeksJaXy5R1nvcTMh3Xk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 240742,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Umj02ZNl4d356pS1D38mn",
+        "id": "3Umj02ZNl4d356pS1D38mn",
+        "name": "Hey Jane",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3Umj02ZNl4d356pS1D38mn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168420,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3GdwjAsCsoE79ObhsJFyYb",
+        "id": "3GdwjAsCsoE79ObhsJFyYb",
+        "name": "I Killed You",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3GdwjAsCsoE79ObhsJFyYb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 269622,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ie0uyyvOKTTuIFBMPiNIl",
+        "id": "6ie0uyyvOKTTuIFBMPiNIl",
+        "name": "Judge Judy",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6ie0uyyvOKTTuIFBMPiNIl",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+            },
+            "href": "https://api.spotify.com/v1/artists/2qoQgPAilErOKCwE2Y8wOG",
+            "id": "2qoQgPAilErOKCwE2Y8wOG",
+            "name": "GloRilla",
+            "type": "artist",
+            "uri": "spotify:artist:2qoQgPAilErOKCwE2Y8wOG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+            },
+            "href": "https://api.spotify.com/v1/artists/3DbwFQlvLxRSi2uX8mf81A",
+            "id": "3DbwFQlvLxRSi2uX8mf81A",
+            "name": "Sexyy Red",
+            "type": "artist",
+            "uri": "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+            },
+            "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+            "id": "55Aa2cqylxrFIXC767Z865",
+            "name": "Lil Wayne",
+            "type": "artist",
+            "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 255915,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tFed7YsjGnIfxeLEQwx3R",
+        "id": "3tFed7YsjGnIfxeLEQwx3R",
+        "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3tFed7YsjGnIfxeLEQwx3R",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+            },
+            "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+            "id": "20wkVLutqVOYrc0kxFs7rA",
+            "name": "Daniel Caesar",
+            "type": "artist",
+            "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/6w71vXwHI2Oz6I5OO41tRM",
+            "id": "6w71vXwHI2Oz6I5OO41tRM",
+            "name": "LaToiya Williams",
+            "type": "artist",
+            "uri": "spotify:artist:6w71vXwHI2Oz6I5OO41tRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253909,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BSR9I4ExlCJdXJo2GpBD5",
+        "id": "4BSR9I4ExlCJdXJo2GpBD5",
+        "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4BSR9I4ExlCJdXJo2GpBD5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182326,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3yw3m8wgRB4ptDyAvtdhq5",
+        "id": "3yw3m8wgRB4ptDyAvtdhq5",
+        "name": "Tomorrow",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3yw3m8wgRB4ptDyAvtdhq5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+            },
+            "href": "https://api.spotify.com/v1/artists/5IcR3N7QB1j6KBL8eImZ8m",
+            "id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "name": "ScHoolboy Q",
+            "type": "artist",
+            "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+            "id": "6Jrxnp0JgqmeUX1veU591p",
+            "name": "Santigold",
+            "type": "artist",
+            "uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207273,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2aYHxnMF2umAavtgBvmkY1",
+        "id": "2aYHxnMF2umAavtgBvmkY1",
+        "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:2aYHxnMF2umAavtgBvmkY1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+            },
+            "href": "https://api.spotify.com/v1/artists/67FB4n52MgexGQIG8s0yUH",
+            "id": "67FB4n52MgexGQIG8s0yUH",
+            "name": "Lola Young",
+            "type": "artist",
+            "uri": "spotify:artist:67FB4n52MgexGQIG8s0yUH"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278014,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6jbYpRPTEFl1HFKHk1IC0m",
+        "id": "6jbYpRPTEFl1HFKHk1IC0m",
+        "name": "Like Him (feat. Lola Young)",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6jbYpRPTEFl1HFKHk1IC0m",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+            },
+            "href": "https://api.spotify.com/v1/artists/4E2rKHVDssGJm2SCDOMMJB",
+            "id": "4E2rKHVDssGJm2SCDOMMJB",
+            "name": "Doechii",
+            "type": "artist",
+            "uri": "spotify:artist:4E2rKHVDssGJm2SCDOMMJB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154261,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/35D1RA5uVFVhMc1qX80TaQ",
+        "id": "35D1RA5uVFVhMc1qX80TaQ",
+        "name": "Balloon (feat. Doechii)",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:35D1RA5uVFVhMc1qX80TaQ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 269704,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pvZCv4JOS5WBu7JITYef6",
+        "id": "0pvZCv4JOS5WBu7JITYef6",
+        "name": "I Hope You Find Your Way Home",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:0pvZCv4JOS5WBu7JITYef6",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "196872555059"
+  },
+  "genres": []
+}

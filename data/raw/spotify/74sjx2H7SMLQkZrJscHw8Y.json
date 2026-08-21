@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
+  },
+  "href": "https://api.spotify.com/v1/albums/74sjx2H7SMLQkZrJscHw8Y",
+  "id": "74sjx2H7SMLQkZrJscHw8Y",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27336759abf53baa9daf1e49c7e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0236759abf53baa9daf1e49c7e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485136759abf53baa9daf1e49c7e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Singin\u2019 to an Empty Chair",
+  "release_date": "2026-02-06",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:74sjx2H7SMLQkZrJscHw8Y",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+      "id": "1SoBNpuC0N4nvaQFENS0qf",
+      "name": "Ratboys",
+      "type": "artist",
+      "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/74sjx2H7SMLQkZrJscHw8Y/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 305308,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NXJ0NZc4VbNWgCY3V7s2y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NXJ0NZc4VbNWgCY3V7s2y",
+        "id": "0NXJ0NZc4VbNWgCY3V7s2y",
+        "name": "Open Up",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NXJ0NZc4VbNWgCY3V7s2y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 192060,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OgjYtezxviBj5WeZpkmN2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OgjYtezxviBj5WeZpkmN2",
+        "id": "1OgjYtezxviBj5WeZpkmN2",
+        "name": "Know You Then",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1OgjYtezxviBj5WeZpkmN2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 358064,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7uuisfl3OQhIIL7uT9jr65"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uuisfl3OQhIIL7uT9jr65",
+        "id": "7uuisfl3OQhIIL7uT9jr65",
+        "name": "Light Night Mountains All That",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7uuisfl3OQhIIL7uT9jr65",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182824,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Ckcc7WY6Q7QI6RcP9XzVA",
+        "id": "5Ckcc7WY6Q7QI6RcP9XzVA",
+        "name": "Anywhere",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5Ckcc7WY6Q7QI6RcP9XzVA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231957,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JRHY526eJNjtvod7k3Vgg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JRHY526eJNjtvod7k3Vgg",
+        "id": "4JRHY526eJNjtvod7k3Vgg",
+        "name": "Penny in the Lake",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4JRHY526eJNjtvod7k3Vgg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 143910,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cWQ44xFNoHqaDAgD5HrQ6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4cWQ44xFNoHqaDAgD5HrQ6",
+        "id": "4cWQ44xFNoHqaDAgD5HrQ6",
+        "name": "Strange Love",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4cWQ44xFNoHqaDAgD5HrQ6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190597,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5HFVwxAtMjpBC0ZytCu6l9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5HFVwxAtMjpBC0ZytCu6l9",
+        "id": "5HFVwxAtMjpBC0ZytCu6l9",
+        "name": "The World, So Madly",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5HFVwxAtMjpBC0ZytCu6l9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 509009,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TB7r6mm22pAgl3gOTFrnV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TB7r6mm22pAgl3gOTFrnV",
+        "id": "5TB7r6mm22pAgl3gOTFrnV",
+        "name": "Just Want You to Know the Truth",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5TB7r6mm22pAgl3gOTFrnV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 314764,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75WvSayWyFuysnDSQefp0n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75WvSayWyFuysnDSQefp0n",
+        "id": "75WvSayWyFuysnDSQefp0n",
+        "name": "What\u2019s Right?",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:75WvSayWyFuysnDSQefp0n",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 426354,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XRzX7BOyUOfsLmKFxP8EI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XRzX7BOyUOfsLmKFxP8EI",
+        "id": "1XRzX7BOyUOfsLmKFxP8EI",
+        "name": "Burn It Down",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1XRzX7BOyUOfsLmKFxP8EI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SoBNpuC0N4nvaQFENS0qf",
+            "id": "1SoBNpuC0N4nvaQFENS0qf",
+            "name": "Ratboys",
+            "type": "artist",
+            "uri": "spotify:artist:1SoBNpuC0N4nvaQFENS0qf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HVgtp6092h0mpN42LTZqW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HVgtp6092h0mpN42LTZqW",
+        "id": "7HVgtp6092h0mpN42LTZqW",
+        "name": "At Peace in the Hundred Acre Wood",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7HVgtp6092h0mpN42LTZqW",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2026 Ratboys LLC under exclusive license to New West Records, LLC",
+      "type": "C"
+    },
+    {
+      "text": "2026 Ratboys LLC under exclusive license to New West Records, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "607396661930"
+  },
+  "genres": []
+}

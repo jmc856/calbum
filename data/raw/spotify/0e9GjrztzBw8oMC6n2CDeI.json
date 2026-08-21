@@ -1,0 +1,751 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+  },
+  "href": "https://api.spotify.com/v1/albums/0e9GjrztzBw8oMC6n2CDeI",
+  "id": "0e9GjrztzBw8oMC6n2CDeI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0243fc02bcfa7cd4e6bb66aa22",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485143fc02bcfa7cd4e6bb66aa22",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "the record",
+  "release_date": "2023-03-31",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0e9GjrztzBw8oMC6n2CDeI",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+      },
+      "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+      "id": "1hLiboQ98IQWhpKeP9vRFw",
+      "name": "boygenius",
+      "type": "artist",
+      "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0e9GjrztzBw8oMC6n2CDeI/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 81733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12EkF8uGofptstVIX7Oc0C",
+        "id": "12EkF8uGofptstVIX7Oc0C",
+        "name": "Without You Without Them",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:12EkF8uGofptstVIX7Oc0C",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/38xXr3MkiKNzNDv4JDJagF",
+        "id": "38xXr3MkiKNzNDv4JDJagF",
+        "name": "$20",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:38xXr3MkiKNzNDv4JDJagF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214866,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/693xmBAOD4xwkS4W71W1Jn",
+        "id": "693xmBAOD4xwkS4W71W1Jn",
+        "name": "Emily I'm Sorry",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:693xmBAOD4xwkS4W71W1Jn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 296333,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48Qes8IUekSZpcNDQgYzUX",
+        "id": "48Qes8IUekSZpcNDQgYzUX",
+        "name": "True Blue",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:48Qes8IUekSZpcNDQgYzUX",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PJH1U5Iie893v48Fl9yaC",
+        "id": "5PJH1U5Iie893v48Fl9yaC",
+        "name": "Cool About It",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5PJH1U5Iie893v48Fl9yaC",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09DR0sHnQUhHOiSNttc1mv",
+        "id": "09DR0sHnQUhHOiSNttc1mv",
+        "name": "Not Strong Enough",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:09DR0sHnQUhHOiSNttc1mv",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257213,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FUGzUqkqRktGBvIeM3p2X",
+        "id": "0FUGzUqkqRktGBvIeM3p2X",
+        "name": "Revolution 0",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0FUGzUqkqRktGBvIeM3p2X",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 102146,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wdrHVkaD700qA8P3OjmYR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wdrHVkaD700qA8P3OjmYR",
+        "id": "3wdrHVkaD700qA8P3OjmYR",
+        "name": "Leonard Cohen",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3wdrHVkaD700qA8P3OjmYR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4QEsxFZRA3RnjQAPYS3UXa",
+        "id": "4QEsxFZRA3RnjQAPYS3UXa",
+        "name": "Satanist",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4QEsxFZRA3RnjQAPYS3UXa",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 294626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5eoy62yFNJAli6AyKK5qnH",
+        "id": "5eoy62yFNJAli6AyKK5qnH",
+        "name": "We're In Love",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5eoy62yFNJAli6AyKK5qnH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4LOg3dKvCAJiF9NYC7YqzG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LOg3dKvCAJiF9NYC7YqzG",
+        "id": "4LOg3dKvCAJiF9NYC7YqzG",
+        "name": "Anti-Curse",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4LOg3dKvCAJiF9NYC7YqzG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+            "id": "1hLiboQ98IQWhpKeP9vRFw",
+            "name": "boygenius",
+            "type": "artist",
+            "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+            },
+            "href": "https://api.spotify.com/v1/artists/12zbUHbPHL5DGuJtiUfsip",
+            "id": "12zbUHbPHL5DGuJtiUfsip",
+            "name": "Julien Baker",
+            "type": "artist",
+            "uri": "spotify:artist:12zbUHbPHL5DGuJtiUfsip"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zShh2S3moxyqU6u6fJZVQ",
+        "id": "1zShh2S3moxyqU6u6fJZVQ",
+        "name": "Letter To An Old Poet",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1zShh2S3moxyqU6u6fJZVQ",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 boygenius, under exclusive license to Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 boygenius, under exclusive license to Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602455119490"
+  },
+  "genres": []
+}

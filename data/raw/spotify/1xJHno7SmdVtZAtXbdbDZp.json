@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+  },
+  "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp",
+  "id": "1xJHno7SmdVtZAtXbdbDZp",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "GUTS",
+  "release_date": "2023-09-08",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1xJHno7SmdVtZAtXbdbDZp",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "name": "Olivia Rodrigo",
+      "type": "artist",
+      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1xJHno7SmdVtZAtXbdbDZp/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165833,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34sOdxWu9FljH84UXdRwu1",
+        "id": "34sOdxWu9FljH84UXdRwu1",
+        "name": "all-american bitch",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:34sOdxWu9FljH84UXdRwu1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184783,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3IX0yuEVvDbnqUwMBB3ouC",
+        "id": "3IX0yuEVvDbnqUwMBB3ouC",
+        "name": "bad idea right?",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 219724,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1kuGVB7EU95pJObxwvfwKS",
+        "id": "1kuGVB7EU95pJObxwvfwKS",
+        "name": "vampire",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 177212,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QT6j7rKt7Vk3IuV2AUO9W",
+        "id": "6QT6j7rKt7Vk3IuV2AUO9W",
+        "name": "lacy",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6QT6j7rKt7Vk3IuV2AUO9W",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203369,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sp71CUt0jXRNqHblPGp7b",
+        "id": "5sp71CUt0jXRNqHblPGp7b",
+        "name": "ballad of a homeschooled girl",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5sp71CUt0jXRNqHblPGp7b",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5CscrLqFBgPfZR8fGtikov",
+        "id": "5CscrLqFBgPfZR8fGtikov",
+        "name": "making the bed",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5CscrLqFBgPfZR8fGtikov",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231907,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53dtP2iUMvaF28JZcHnFuU",
+        "id": "53dtP2iUMvaF28JZcHnFuU",
+        "name": "logical",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:53dtP2iUMvaF28JZcHnFuU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211141,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gyxAWHebV7xPYVxqoi86f",
+        "id": "2gyxAWHebV7xPYVxqoi86f",
+        "name": "get him back!",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2gyxAWHebV7xPYVxqoi86f",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154516,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26QLJMK8G0M06sk7h7Fkse",
+        "id": "26QLJMK8G0M06sk7h7Fkse",
+        "name": "love is embarrassing",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:26QLJMK8G0M06sk7h7Fkse",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189386,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Nl5OkkmS5DaBZvuYofpAt",
+        "id": "3Nl5OkkmS5DaBZvuYofpAt",
+        "name": "the grudge",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3Nl5OkkmS5DaBZvuYofpAt",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199422,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6W9l02gRsXVxzIuQC1oc1X",
+        "id": "6W9l02gRsXVxzIuQC1oc1X",
+        "name": "pretty isn\u2019t pretty",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6W9l02gRsXVxzIuQC1oc1X",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo",
+            "type": "artist",
+            "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222358,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7fesNTgTEMEH0ye8MOgEDY",
+        "id": "7fesNTgTEMEH0ye8MOgEDY",
+        "name": "teenage dream",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7fesNTgTEMEH0ye8MOgEDY",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 Olivia Rodrigo, under exclusive license to Geffen Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458374483"
+  },
+  "genres": []
+}

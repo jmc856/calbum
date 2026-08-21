@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+  },
+  "href": "https://api.spotify.com/v1/albums/7mOrnQqDad3RgYQsJGaaqk",
+  "id": "7mOrnQqDad3RgYQsJGaaqk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2734738aa171569052376f162fe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e024738aa171569052376f162fe",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048514738aa171569052376f162fe",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Heavy Metal",
+  "release_date": "2024-12-06",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:7mOrnQqDad3RgYQsJGaaqk",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+      },
+      "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+      "id": "0kGweFvHWUfh6oLnookVeO",
+      "name": "Cameron Winter",
+      "type": "artist",
+      "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7mOrnQqDad3RgYQsJGaaqk/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7sMZ7doYb71bHK8tqviTCu",
+        "id": "7sMZ7doYb71bHK8tqviTCu",
+        "name": "The Rolling Stones",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7sMZ7doYb71bHK8tqviTCu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251637,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tdNTV4xpZgiom27mENc2N",
+        "id": "2tdNTV4xpZgiom27mENc2N",
+        "name": "Nausica\u00e4 (Love Will Be Revealed)",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2tdNTV4xpZgiom27mENc2N",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zf1izCOz2F22PF27uhxRF",
+        "id": "2zf1izCOz2F22PF27uhxRF",
+        "name": "Love Takes Miles",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2zf1izCOz2F22PF27uhxRF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210857,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nUPcVDYjCrnNMaXAJ9eO3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nUPcVDYjCrnNMaXAJ9eO3",
+        "id": "6nUPcVDYjCrnNMaXAJ9eO3",
+        "name": "Drinking Age",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6nUPcVDYjCrnNMaXAJ9eO3",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 331275,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RkuN09alt0DLZ9PlplUcc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RkuN09alt0DLZ9PlplUcc",
+        "id": "1RkuN09alt0DLZ9PlplUcc",
+        "name": "Cancer of the Skull",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1RkuN09alt0DLZ9PlplUcc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 287351,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/60WGJKqscT0bya3hPeQdYv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/60WGJKqscT0bya3hPeQdYv",
+        "id": "60WGJKqscT0bya3hPeQdYv",
+        "name": "Try as I May",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:60WGJKqscT0bya3hPeQdYv",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 167326,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zaztO9QEefcS7MBZNs9vP",
+        "id": "3zaztO9QEefcS7MBZNs9vP",
+        "name": "We're Thinking the Same Thing",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3zaztO9QEefcS7MBZNs9vP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 352354,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78ugJH8q6W3kiGLwM2K7Lg",
+        "id": "78ugJH8q6W3kiGLwM2K7Lg",
+        "name": "Nina + Field of Cops",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:78ugJH8q6W3kiGLwM2K7Lg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 403853,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FZsOypXRoYIrGI6s8C3Zm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FZsOypXRoYIrGI6s8C3Zm",
+        "id": "2FZsOypXRoYIrGI6s8C3Zm",
+        "name": "$0",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2FZsOypXRoYIrGI6s8C3Zm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+            },
+            "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+            "id": "0kGweFvHWUfh6oLnookVeO",
+            "name": "Cameron Winter",
+            "type": "artist",
+            "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229623,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AOrOCrxCsDkHRLLiIHT19"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AOrOCrxCsDkHRLLiIHT19",
+        "id": "7AOrOCrxCsDkHRLLiIHT19",
+        "name": "Can't Keep Anything",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7AOrOCrxCsDkHRLLiIHT19",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 Partisan Records / Play It Again Sam",
+      "type": "C"
+    },
+    {
+      "text": "2024 Partisan Records / Play It Again Sam",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "5400863168971"
+  },
+  "genres": []
+}

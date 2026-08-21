@@ -1,0 +1,447 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
+  },
+  "href": "https://api.spotify.com/v1/albums/2aVVkK5Wm8bcUGxMK0Hh4J",
+  "id": "2aVVkK5Wm8bcUGxMK0Hh4J",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27331ac28ab5f5e77fa1e0c8416",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0231ac28ab5f5e77fa1e0c8416",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485131ac28ab5f5e77fa1e0c8416",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Ill Times",
+  "release_date": "2024-07-19",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2aVVkK5Wm8bcUGxMK0Hh4J",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+      "id": "4Oov8BULUOBiX6UVpP04JW",
+      "name": "GUM",
+      "type": "artist",
+      "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+      "id": "0NLFuTzlY3oCTiJGBzpu97",
+      "name": "Ambrose Kenny-Smith",
+      "type": "artist",
+      "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2aVVkK5Wm8bcUGxMK0Hh4J/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227702,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26Jycq9kTirSDwIYl2VSYd",
+        "id": "26Jycq9kTirSDwIYl2VSYd",
+        "name": "Dud",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:26Jycq9kTirSDwIYl2VSYd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214629,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uN1jB8YzRN80gHI9Fn942"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uN1jB8YzRN80gHI9Fn942",
+        "id": "3uN1jB8YzRN80gHI9Fn942",
+        "name": "Ill Times",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3uN1jB8YzRN80gHI9Fn942",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 209821,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vvVhLzj05gT4YGAe4oNlm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vvVhLzj05gT4YGAe4oNlm",
+        "id": "2vvVhLzj05gT4YGAe4oNlm",
+        "name": "Minor Setback",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2vvVhLzj05gT4YGAe4oNlm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186209,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rbd8N98sfXhkvW3m2bL2y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rbd8N98sfXhkvW3m2bL2y",
+        "id": "6rbd8N98sfXhkvW3m2bL2y",
+        "name": "Fool For You",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6rbd8N98sfXhkvW3m2bL2y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179937,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0JssaAfW2bL2xk4fp5l2Qz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0JssaAfW2bL2xk4fp5l2Qz",
+        "id": "0JssaAfW2bL2xk4fp5l2Qz",
+        "name": "Resilience",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0JssaAfW2bL2xk4fp5l2Qz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190410,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3q9hvVcew3qfHhFDoW9UKN",
+        "id": "3q9hvVcew3qfHhFDoW9UKN",
+        "name": "Powertrippn'",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3q9hvVcew3qfHhFDoW9UKN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189526,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4qmMxh1zCrtgW71pxSZvIh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qmMxh1zCrtgW71pxSZvIh",
+        "id": "4qmMxh1zCrtgW71pxSZvIh",
+        "name": "Old Transistor Radio",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4qmMxh1zCrtgW71pxSZvIh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 146220,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7AFO7ZPLVoB4rksaDSjWqp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7AFO7ZPLVoB4rksaDSjWqp",
+        "id": "7AFO7ZPLVoB4rksaDSjWqp",
+        "name": "Emu Rock",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7AFO7ZPLVoB4rksaDSjWqp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4voTrQ46eNiFXIYtn0EAeV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4voTrQ46eNiFXIYtn0EAeV",
+        "id": "4voTrQ46eNiFXIYtn0EAeV",
+        "name": "Marionette",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4voTrQ46eNiFXIYtn0EAeV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+            "id": "4Oov8BULUOBiX6UVpP04JW",
+            "name": "GUM",
+            "type": "artist",
+            "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+            },
+            "href": "https://api.spotify.com/v1/artists/0NLFuTzlY3oCTiJGBzpu97",
+            "id": "0NLFuTzlY3oCTiJGBzpu97",
+            "name": "Ambrose Kenny-Smith",
+            "type": "artist",
+            "uri": "spotify:artist:0NLFuTzlY3oCTiJGBzpu97"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 262095,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1erGMpFmGjCuHjHHypED5g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1erGMpFmGjCuHjHHypED5g",
+        "id": "1erGMpFmGjCuHjHHypED5g",
+        "name": "The Gloater",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1erGMpFmGjCuHjHHypED5g",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2024 p(doom) records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2024 p(doom) records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00196922901621"
+  },
+  "genres": []
+}

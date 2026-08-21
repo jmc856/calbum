@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+  },
+  "href": "https://api.spotify.com/v1/albums/0npZ1Ryg8HaFGeb2HKYQIz",
+  "id": "0npZ1Ryg8HaFGeb2HKYQIz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b003471548f17f615a0b3f67",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02b003471548f17f615a0b3f67",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851b003471548f17f615a0b3f67",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "DeAnn",
+  "release_date": "2019-08-24",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0npZ1Ryg8HaFGeb2HKYQIz",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+      },
+      "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+      "id": "40ZNYROS4zLfyyBSs2PGe2",
+      "name": "Zach Bryan",
+      "type": "artist",
+      "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0npZ1Ryg8HaFGeb2HKYQIz/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 169961,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7oPTiW1fZyvIPeYOZTY4Wh",
+        "id": "7oPTiW1fZyvIPeYOZTY4Wh",
+        "name": "Flying or Crying",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7oPTiW1fZyvIPeYOZTY4Wh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181228,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4jEd9ccJZpjUCiI4Ru1NBE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jEd9ccJZpjUCiI4Ru1NBE",
+        "id": "4jEd9ccJZpjUCiI4Ru1NBE",
+        "name": "Hope Again",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4jEd9ccJZpjUCiI4Ru1NBE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253359,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4GeyPGMzh6VwdNcaCufY9f",
+        "id": "4GeyPGMzh6VwdNcaCufY9f",
+        "name": "God Speed",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4GeyPGMzh6VwdNcaCufY9f",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203359,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lGtn2Y4XarLIKdgoAeUdU",
+        "id": "1lGtn2Y4XarLIKdgoAeUdU",
+        "name": "Don't Give up on Me",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1lGtn2Y4XarLIKdgoAeUdU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184163,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1j0lC0auZK1xIPRwSEb4Rb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1j0lC0auZK1xIPRwSEb4Rb",
+        "id": "1j0lC0auZK1xIPRwSEb4Rb",
+        "name": "Doing Fine",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1j0lC0auZK1xIPRwSEb4Rb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239761,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Wxx1jXr6EyGdt8RuYFzvj",
+        "id": "6Wxx1jXr6EyGdt8RuYFzvj",
+        "name": "Letting Someone Go",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6Wxx1jXr6EyGdt8RuYFzvj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180337,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1s0E7x2mGfVwtZ0l5Q2g16"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1s0E7x2mGfVwtZ0l5Q2g16",
+        "id": "1s0E7x2mGfVwtZ0l5Q2g16",
+        "name": "Shivers Down Spines",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1s0E7x2mGfVwtZ0l5Q2g16",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6K4336phprB3Mj8qwYxibR",
+        "id": "6K4336phprB3Mj8qwYxibR",
+        "name": "Snow",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6K4336phprB3Mj8qwYxibR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185514,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1W6lpXe6E7GvntssrJJSLM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1W6lpXe6E7GvntssrJJSLM",
+        "id": "1W6lpXe6E7GvntssrJJSLM",
+        "name": "Man Thats Never Known You",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1W6lpXe6E7GvntssrJJSLM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179761,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32QPd5jB0qI9Uo5YVGKBLZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32QPd5jB0qI9Uo5YVGKBLZ",
+        "id": "32QPd5jB0qI9Uo5YVGKBLZ",
+        "name": "Moon in Oklahoma",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:32QPd5jB0qI9Uo5YVGKBLZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174673,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WuVLG5DRHKKuJ6deCw28p",
+        "id": "6WuVLG5DRHKKuJ6deCw28p",
+        "name": "Condemned",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6WuVLG5DRHKKuJ6deCw28p",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+            },
+            "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+            "id": "40ZNYROS4zLfyyBSs2PGe2",
+            "name": "Zach Bryan",
+            "type": "artist",
+            "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QmTkOwsFQm7eLipLIuQtx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QmTkOwsFQm7eLipLIuQtx",
+        "id": "6QmTkOwsFQm7eLipLIuQtx",
+        "name": "Sweet DeAnn",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6QmTkOwsFQm7eLipLIuQtx",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 Belting Bronco Records under exclusive license to Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 Belting Bronco Records under exclusive license to Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "093624884507"
+  },
+  "genres": []
+}

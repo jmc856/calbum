@@ -1,0 +1,418 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+  },
+  "href": "https://api.spotify.com/v1/albums/5wtE5aLX5r7jOosmPhJhhk",
+  "id": "5wtE5aLX5r7jOosmPhJhhk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851175c577a61aa13d4fb4b6534",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Swimming",
+  "release_date": "2018-08-03",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5wtE5aLX5r7jOosmPhJhhk",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+      "id": "4LLpKhyESsyAXpc4laK94U",
+      "name": "Mac Miller",
+      "type": "artist",
+      "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5wtE5aLX5r7jOosmPhJhhk/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 161840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01z2fBGB8Hl3Jd3zXe4IXR",
+        "id": "01z2fBGB8Hl3Jd3zXe4IXR",
+        "name": "Come Back to Earth",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:01z2fBGB8Hl3Jd3zXe4IXR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5p7GiBZNL1afJJDUrOA6C8",
+        "id": "5p7GiBZNL1afJJDUrOA6C8",
+        "name": "Hurt Feelings",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5p7GiBZNL1afJJDUrOA6C8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 288640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2dgrYdgguVZKeCsrVb9XEs",
+        "id": "2dgrYdgguVZKeCsrVb9XEs",
+        "name": "What's the Use?",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2dgrYdgguVZKeCsrVb9XEs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215413,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Xcy81PsJCOO6mhLZaQyQ4",
+        "id": "0Xcy81PsJCOO6mhLZaQyQ4",
+        "name": "Perfecto",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0Xcy81PsJCOO6mhLZaQyQ4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 345133,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bJ1DrEM4hNCafcDd1oxHx",
+        "id": "5bJ1DrEM4hNCafcDd1oxHx",
+        "name": "Self Care",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5bJ1DrEM4hNCafcDd1oxHx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 250120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16umSNZfofRpDqTvf8DIAo",
+        "id": "16umSNZfofRpDqTvf8DIAo",
+        "name": "Wings",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:16umSNZfofRpDqTvf8DIAo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 287040,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39NDBdU5Xkm5pCFGa5kZtI",
+        "id": "39NDBdU5Xkm5pCFGa5kZtI",
+        "name": "Ladders",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:39NDBdU5Xkm5pCFGa5kZtI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 271733,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4gT3mNJA8lnlkYFqGZ8IA2",
+        "id": "4gT3mNJA8lnlkYFqGZ8IA2",
+        "name": "Small Worlds",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4gT3mNJA8lnlkYFqGZ8IA2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210253,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oFEAWvPHP5TdSlmIs77sV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oFEAWvPHP5TdSlmIs77sV",
+        "id": "1oFEAWvPHP5TdSlmIs77sV",
+        "name": "Conversation Pt. 1",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1oFEAWvPHP5TdSlmIs77sV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237093,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YnwIp2b99p3e5dsFTXIIx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YnwIp2b99p3e5dsFTXIIx",
+        "id": "3YnwIp2b99p3e5dsFTXIIx",
+        "name": "Dunno",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3YnwIp2b99p3e5dsFTXIIx",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 345213,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JmFRXaJrkAUD2cs6U20KG",
+        "id": "2JmFRXaJrkAUD2cs6U20KG",
+        "name": "Jet Fuel",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:2JmFRXaJrkAUD2cs6U20KG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 347986,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6dFn6my1sHK2bcf23GlHwM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dFn6my1sHK2bcf23GlHwM",
+        "id": "6dFn6my1sHK2bcf23GlHwM",
+        "name": "2009",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6dFn6my1sHK2bcf23GlHwM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 312960,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EA2RhRHL4KWeNa7JfD1Yw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0EA2RhRHL4KWeNa7JfD1Yw",
+        "id": "0EA2RhRHL4KWeNa7JfD1Yw",
+        "name": "So It Goes",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0EA2RhRHL4KWeNa7JfD1Yw",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "093624906025"
+  },
+  "genres": []
+}

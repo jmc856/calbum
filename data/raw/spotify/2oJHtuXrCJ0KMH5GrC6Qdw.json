@@ -1,0 +1,283 @@
+{
+  "album_type": "album",
+  "total_tracks": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
+  },
+  "href": "https://api.spotify.com/v1/albums/2oJHtuXrCJ0KMH5GrC6Qdw",
+  "id": "2oJHtuXrCJ0KMH5GrC6Qdw",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27354dde2aba8ba85af6146aecb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0254dde2aba8ba85af6146aecb",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485154dde2aba8ba85af6146aecb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Mahashmashana",
+  "release_date": "2024-11-22",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2oJHtuXrCJ0KMH5GrC6Qdw",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+      },
+      "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+      "id": "2kGBy2WHvF0VdZyqiVCkDT",
+      "name": "Father John Misty",
+      "type": "artist",
+      "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2oJHtuXrCJ0KMH5GrC6Qdw/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 8,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 559900,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1wSzyIk6YisAMGtvbDEsuU",
+        "id": "1wSzyIk6YisAMGtvbDEsuU",
+        "name": "Mahashmashana",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1wSzyIk6YisAMGtvbDEsuU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266466,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nEkWBNfUA87RY6ZSx2aR3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nEkWBNfUA87RY6ZSx2aR3",
+        "id": "5nEkWBNfUA87RY6ZSx2aR3",
+        "name": "She Cleans Up",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5nEkWBNfUA87RY6ZSx2aR3",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 312326,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6P7bs2kVAOqt0rB8vnNS2f",
+        "id": "6P7bs2kVAOqt0rB8vnNS2f",
+        "name": "Josh Tillman and the Accidental Dose",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6P7bs2kVAOqt0rB8vnNS2f",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 388366,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BVtQuC6yQ85t3OsNAcFXC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BVtQuC6yQ85t3OsNAcFXC",
+        "id": "2BVtQuC6yQ85t3OsNAcFXC",
+        "name": "Mental Health",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2BVtQuC6yQ85t3OsNAcFXC",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 411742,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Teksu0ycbh71gosLr8XZZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Teksu0ycbh71gosLr8XZZ",
+        "id": "3Teksu0ycbh71gosLr8XZZ",
+        "name": "Screamland",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3Teksu0ycbh71gosLr8XZZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313197,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GaSnCKIL1BT3aImkVyfoA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7GaSnCKIL1BT3aImkVyfoA",
+        "id": "7GaSnCKIL1BT3aImkVyfoA",
+        "name": "Being You",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7GaSnCKIL1BT3aImkVyfoA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 515500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4en3xAIagTLEs5bu4gWIY2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4en3xAIagTLEs5bu4gWIY2",
+        "id": "4en3xAIagTLEs5bu4gWIY2",
+        "name": "I Guess Time Just Makes Fools of Us All",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4en3xAIagTLEs5bu4gWIY2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kGBy2WHvF0VdZyqiVCkDT",
+            "id": "2kGBy2WHvF0VdZyqiVCkDT",
+            "name": "Father John Misty",
+            "type": "artist",
+            "uri": "spotify:artist:2kGBy2WHvF0VdZyqiVCkDT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/68lEQbs1S1amvcGHxeezP2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68lEQbs1S1amvcGHxeezP2",
+        "id": "68lEQbs1S1amvcGHxeezP2",
+        "name": "Summer\u2019s Gone",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:68lEQbs1S1amvcGHxeezP2",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 Joshua Tillman. Under exclusive license to Sub Pop Records",
+      "type": "C"
+    },
+    {
+      "text": "2024 Joshua Tillman. Under exclusive license to Sub Pop Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "098787166668"
+  },
+  "genres": []
+}

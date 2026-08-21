@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+  },
+  "href": "https://api.spotify.com/v1/albums/1ycq58KRtWt3wFtbuIkvLn",
+  "id": "1ycq58KRtWt3wFtbuIkvLn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02aaa10f339ed589b84c51137d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851aaa10f339ed589b84c51137d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Prelude to Ecstasy",
+  "release_date": "2024-02-02",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1ycq58KRtWt3wFtbuIkvLn",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+      "id": "5SHgclK1ZpTdfdAmXW7J6s",
+      "name": "The Last Dinner Party",
+      "type": "artist",
+      "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1ycq58KRtWt3wFtbuIkvLn/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 96013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Bkv3iK8eRU6vu6uCspHuu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Bkv3iK8eRU6vu6uCspHuu",
+        "id": "1Bkv3iK8eRU6vu6uCspHuu",
+        "name": "Prelude To Ecstasy",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1Bkv3iK8eRU6vu6uCspHuu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201414,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/54wX7jxwKL2TQS9itIIMyJ",
+        "id": "54wX7jxwKL2TQS9itIIMyJ",
+        "name": "Burn Alive",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:54wX7jxwKL2TQS9itIIMyJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229667,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2w4cRBhWvHCsDpvyhiDkjq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2w4cRBhWvHCsDpvyhiDkjq",
+        "id": "2w4cRBhWvHCsDpvyhiDkjq",
+        "name": "Caesar on a TV Screen",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2w4cRBhWvHCsDpvyhiDkjq",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206571,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4uAPVHpdoGKHmIFkv1wgmb",
+        "id": "4uAPVHpdoGKHmIFkv1wgmb",
+        "name": "The Feminine Urge",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4uAPVHpdoGKHmIFkv1wgmb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 267977,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1HFwvkYsBkmHfjintlYaFZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1HFwvkYsBkmHfjintlYaFZ",
+        "id": "1HFwvkYsBkmHfjintlYaFZ",
+        "name": "On Your Side",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1HFwvkYsBkmHfjintlYaFZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227508,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YGpUNc3cScpjliOZojJ89",
+        "id": "4YGpUNc3cScpjliOZojJ89",
+        "name": "Beautiful Boy",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4YGpUNc3cScpjliOZojJ89",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 89796,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1w5GIyPp7oXKchE3JJ9uiN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1w5GIyPp7oXKchE3JJ9uiN",
+        "id": "1w5GIyPp7oXKchE3JJ9uiN",
+        "name": "Gjuha",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1w5GIyPp7oXKchE3JJ9uiN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176483,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5IXA8J6Xugs507nAzwSa5F",
+        "id": "5IXA8J6Xugs507nAzwSa5F",
+        "name": "Sinner",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5IXA8J6Xugs507nAzwSa5F",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 175410,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lNSP4ZdpVXJajfeIpUrfe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lNSP4ZdpVXJajfeIpUrfe",
+        "id": "1lNSP4ZdpVXJajfeIpUrfe",
+        "name": "My Lady of Mercy",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1lNSP4ZdpVXJajfeIpUrfe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 297763,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SclZG2EGcYlH3Hkep7RAU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SclZG2EGcYlH3Hkep7RAU",
+        "id": "1SclZG2EGcYlH3Hkep7RAU",
+        "name": "Portrait of a Dead Girl",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1SclZG2EGcYlH3Hkep7RAU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182623,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5crY7axm3GejOxy5PsnnPk",
+        "id": "5crY7axm3GejOxy5PsnnPk",
+        "name": "Nothing Matters",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5crY7axm3GejOxy5PsnnPk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+            },
+            "href": "https://api.spotify.com/v1/artists/5SHgclK1ZpTdfdAmXW7J6s",
+            "id": "5SHgclK1ZpTdfdAmXW7J6s",
+            "name": "The Last Dinner Party",
+            "type": "artist",
+            "uri": "spotify:artist:5SHgclK1ZpTdfdAmXW7J6s"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 324816,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5tf5Nmic4rcbXHyLHXu3Wz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tf5Nmic4rcbXHyLHXu3Wz",
+        "id": "5tf5Nmic4rcbXHyLHXu3Wz",
+        "name": "Mirror",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5tf5Nmic4rcbXHyLHXu3Wz",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2023 The Last Dinner Party, under exclusive licence to Universal Music Operations Limited",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2023 The Last Dinner Party, under exclusive licence to Universal Music Operations Limited",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602458853360"
+  },
+  "genres": []
+}

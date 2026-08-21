@@ -1,0 +1,451 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA"
+  },
+  "href": "https://api.spotify.com/v1/albums/6PkSBdx19zarn4ae1D08gA",
+  "id": "6PkSBdx19zarn4ae1D08gA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025d46e4578c8e1adad9206480",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515d46e4578c8e1adad9206480",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "ZUU",
+  "release_date": "2019-05-31",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+      },
+      "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+      "id": "6fxyWrfmjcbj5d12gXeiNV",
+      "name": "Denzel Curry",
+      "type": "artist",
+      "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6PkSBdx19zarn4ae1D08gA/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 126000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5sG65w8uKtjsJw7nc845Nc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sG65w8uKtjsJw7nc845Nc",
+        "id": "5sG65w8uKtjsJw7nc845Nc",
+        "name": "ZUU",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5sG65w8uKtjsJw7nc845Nc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 147866,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QbGvQssb0VLLS4x5NOmyJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QbGvQssb0VLLS4x5NOmyJ",
+        "id": "2QbGvQssb0VLLS4x5NOmyJ",
+        "name": "RICKY",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2QbGvQssb0VLLS4x5NOmyJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6HOYSQk7Npiuuy5KDdJQ3o"
+            },
+            "href": "https://api.spotify.com/v1/artists/6HOYSQk7Npiuuy5KDdJQ3o",
+            "id": "6HOYSQk7Npiuuy5KDdJQ3o",
+            "name": "Kiddo Marv",
+            "type": "artist",
+            "uri": "spotify:artist:6HOYSQk7Npiuuy5KDdJQ3o"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 192013,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0shSP8DgseLewHgAiMC4UL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0shSP8DgseLewHgAiMC4UL",
+        "id": "0shSP8DgseLewHgAiMC4UL",
+        "name": "WISH FEAT. KIDDO MARV",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0shSP8DgseLewHgAiMC4UL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+            },
+            "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+            "id": "1sBkRIssrMs1AbVkOJbc7a",
+            "name": "Rick Ross",
+            "type": "artist",
+            "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204386,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0pA0rcw7ci5X5XHrnBpkdn",
+        "id": "0pA0rcw7ci5X5XHrnBpkdn",
+        "name": "BIRDZ FEAT. RICK ROSS",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0pA0rcw7ci5X5XHrnBpkdn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xkFVS6IwwgHEAaRzXc9U3",
+            "id": "5xkFVS6IwwgHEAaRzXc9U3",
+            "name": "Tay Keith",
+            "type": "artist",
+            "uri": "spotify:artist:5xkFVS6IwwgHEAaRzXc9U3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182520,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TqfASuL5JRds7bJX01PdZ",
+        "id": "2TqfASuL5JRds7bJX01PdZ",
+        "name": "AUTOMATIC",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2TqfASuL5JRds7bJX01PdZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2FTOLKjQUswhpdMFq15Raf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2FTOLKjQUswhpdMFq15Raf",
+        "id": "2FTOLKjQUswhpdMFq15Raf",
+        "name": "SPEEDBOAT",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2FTOLKjQUswhpdMFq15Raf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 65640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wFwbyCz96QFLm2L6esbgf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wFwbyCz96QFLm2L6esbgf",
+        "id": "2wFwbyCz96QFLm2L6esbgf",
+        "name": "BUSHY B INTERLUDE",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2wFwbyCz96QFLm2L6esbgf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 64492,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3kUV3AVKhoWTNFxdFkCViB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3kUV3AVKhoWTNFxdFkCViB",
+        "id": "3kUV3AVKhoWTNFxdFkCViB",
+        "name": "YOO",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3kUV3AVKhoWTNFxdFkCViB",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3XFatrcJ1zXdwJXP3CrWle"
+            },
+            "href": "https://api.spotify.com/v1/artists/3XFatrcJ1zXdwJXP3CrWle",
+            "id": "3XFatrcJ1zXdwJXP3CrWle",
+            "name": "Ice Billion Berg",
+            "type": "artist",
+            "uri": "spotify:artist:3XFatrcJ1zXdwJXP3CrWle"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 164120,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OO7ybh0GQlXslHX4U4Vgr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OO7ybh0GQlXslHX4U4Vgr",
+        "id": "5OO7ybh0GQlXslHX4U4Vgr",
+        "name": "CAROLMART FEAT. ICE BILLION BERG",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5OO7ybh0GQlXslHX4U4Vgr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12NW4D7Ld2lyIXwjitgiA1"
+            },
+            "href": "https://api.spotify.com/v1/artists/12NW4D7Ld2lyIXwjitgiA1",
+            "id": "12NW4D7Ld2lyIXwjitgiA1",
+            "name": "Sam Sneak",
+            "type": "artist",
+            "uri": "spotify:artist:12NW4D7Ld2lyIXwjitgiA1"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 147720,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/27F7BWz4WuC8GuSIcFbx1a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27F7BWz4WuC8GuSIcFbx1a",
+        "id": "27F7BWz4WuC8GuSIcFbx1a",
+        "name": "SHAKE 88 FEAT. SAM SNEAK",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:27F7BWz4WuC8GuSIcFbx1a",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 49226,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0L1RASB4kWt9VDqJxX4yBF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0L1RASB4kWt9VDqJxX4yBF",
+        "id": "0L1RASB4kWt9VDqJxX4yBF",
+        "name": "BLACKLAND 66.6",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0L1RASB4kWt9VDqJxX4yBF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+            },
+            "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+            "id": "6fxyWrfmjcbj5d12gXeiNV",
+            "name": "Denzel Curry",
+            "type": "artist",
+            "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
+            },
+            "href": "https://api.spotify.com/v1/artists/04eqrYwakzHXxRABNRWbwM",
+            "id": "04eqrYwakzHXxRABNRWbwM",
+            "name": "PlayThatBoiZay",
+            "type": "artist",
+            "uri": "spotify:artist:04eqrYwakzHXxRABNRWbwM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180480,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5WtMpQgVIeZq06bXbYJO01"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5WtMpQgVIeZq06bXbYJO01",
+        "id": "5WtMpQgVIeZq06bXbYJO01",
+        "name": "P.A.T. FEAT. PLAYTHATBOIZAY",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:5WtMpQgVIeZq06bXbYJO01",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2019 PH Recordings, LLC, Under exclusive license to Loma Vista Recordings. Distributed by Concord Music Group, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2019 PH Recordings, LLC, Under exclusive license to Loma Vista Recordings. Distributed by Concord Music Group, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00888072111790"
+  },
+  "genres": []
+}

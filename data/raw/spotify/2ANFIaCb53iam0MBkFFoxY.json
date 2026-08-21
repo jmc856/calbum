@@ -1,0 +1,475 @@
+{
+  "album_type": "album",
+  "total_tracks": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+  },
+  "href": "https://api.spotify.com/v1/albums/2ANFIaCb53iam0MBkFFoxY",
+  "id": "2ANFIaCb53iam0MBkFFoxY",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737541018cfe436a0330fd919a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027541018cfe436a0330fd919a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517541018cfe436a0330fd919a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Balloonerism",
+  "release_date": "2025-01-17",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2ANFIaCb53iam0MBkFFoxY",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+      "id": "4LLpKhyESsyAXpc4laK94U",
+      "name": "Mac Miller",
+      "type": "artist",
+      "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2ANFIaCb53iam0MBkFFoxY/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 33141,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5eAKaGCR0QEuPOxOo0zXqs",
+        "id": "5eAKaGCR0QEuPOxOo0zXqs",
+        "name": "Tambourine Dream",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5eAKaGCR0QEuPOxOo0zXqs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+            },
+            "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+            "id": "7tYKF4w9nC0nq9CsPZTHyP",
+            "name": "SZA",
+            "type": "artist",
+            "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 315640,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JtAIBbCgomz38qPBSJzCn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JtAIBbCgomz38qPBSJzCn",
+        "id": "1JtAIBbCgomz38qPBSJzCn",
+        "name": "DJ's Chord Organ (feat. SZA)",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1JtAIBbCgomz38qPBSJzCn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204564,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KwIDHEK3CYbHPJUTMxxNu",
+        "id": "1KwIDHEK3CYbHPJUTMxxNu",
+        "name": "Do You Have A Destination?",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1KwIDHEK3CYbHPJUTMxxNu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222119,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1xKGnsdKOh8jx8pzSZAgXE",
+        "id": "1xKGnsdKOh8jx8pzSZAgXE",
+        "name": "5 Dollar Pony Rides",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1xKGnsdKOh8jx8pzSZAgXE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 285805,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1lw3asU5xp73sdBy0rYsuK",
+        "id": "1lw3asU5xp73sdBy0rYsuK",
+        "name": "Friendly Hallucinations",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1lw3asU5xp73sdBy0rYsuK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244857,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5auyZ3WJq8klh6OnhzBU35"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5auyZ3WJq8klh6OnhzBU35",
+        "id": "5auyZ3WJq8klh6OnhzBU35",
+        "name": "Mrs. Deborah Downer",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5auyZ3WJq8klh6OnhzBU35",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243522,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1e3AdX6I8gaQKjQMONn9tA",
+        "id": "1e3AdX6I8gaQKjQMONn9tA",
+        "name": "Stoned",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1e3AdX6I8gaQKjQMONn9tA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 169273,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2VOnMNQWQ44OqHWwvXn5z6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2VOnMNQWQ44OqHWwvXn5z6",
+        "id": "2VOnMNQWQ44OqHWwvXn5z6",
+        "name": "Shangri-La",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2VOnMNQWQ44OqHWwvXn5z6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 263941,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pu58kqegTnOxPNJpY3kr9",
+        "id": "4pu58kqegTnOxPNJpY3kr9",
+        "name": "Funny Papers",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4pu58kqegTnOxPNJpY3kr9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 143856,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CZKqoxQxASxZOhL8BAR7q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6CZKqoxQxASxZOhL8BAR7q",
+        "id": "6CZKqoxQxASxZOhL8BAR7q",
+        "name": "Excelsior",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6CZKqoxQxASxZOhL8BAR7q",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2nkHZUbKQ6bSQI7XVL7UAg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2nkHZUbKQ6bSQI7XVL7UAg",
+            "id": "2nkHZUbKQ6bSQI7XVL7UAg",
+            "name": "Delusional Thomas",
+            "type": "artist",
+            "uri": "spotify:artist:2nkHZUbKQ6bSQI7XVL7UAg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184711,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3TjgYUjG1tvQqvrfvI3LZo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TjgYUjG1tvQqvrfvI3LZo",
+        "id": "3TjgYUjG1tvQqvrfvI3LZo",
+        "name": "Transformations (feat. Delusional Thomas)",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3TjgYUjG1tvQqvrfvI3LZo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7A1NtjAcPODLamI5fO82ZN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7A1NtjAcPODLamI5fO82ZN",
+            "id": "7A1NtjAcPODLamI5fO82ZN",
+            "name": "Dylan Reynolds",
+            "type": "artist",
+            "uri": "spotify:artist:7A1NtjAcPODLamI5fO82ZN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189100,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sB5d7gdoCjspRwmRPi3wo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sB5d7gdoCjspRwmRPi3wo",
+        "id": "1sB5d7gdoCjspRwmRPi3wo",
+        "name": "Manakins",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:1sB5d7gdoCjspRwmRPi3wo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 308427,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45UKpYwpV9lyb1w790xEm1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45UKpYwpV9lyb1w790xEm1",
+        "id": "45UKpYwpV9lyb1w790xEm1",
+        "name": "Rick's Piano",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:45UKpYwpV9lyb1w790xEm1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+            },
+            "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "type": "artist",
+            "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 713090,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7e2EekCKjjntMR2ZMAMau0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7e2EekCKjjntMR2ZMAMau0",
+        "id": "7e2EekCKjjntMR2ZMAMau0",
+        "name": "Tomorrow Will Never Know",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:7e2EekCKjjntMR2ZMAMau0",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2025 Mac Miller\u2019s Estate under exclusive license to Warner Records Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2025 Mac Miller\u2019s Estate under exclusive license to Warner Records Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "093624851585"
+  },
+  "genres": []
+}

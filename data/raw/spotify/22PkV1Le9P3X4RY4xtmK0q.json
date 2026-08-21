@@ -1,0 +1,411 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+  },
+  "href": "https://api.spotify.com/v1/albums/22PkV1Le9P3X4RY4xtmK0q",
+  "id": "22PkV1Le9P3X4RY4xtmK0q",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273de17893c581b6f4fbeba51e1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02de17893c581b6f4fbeba51e1",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851de17893c581b6f4fbeba51e1",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Desire, I Want To Turn Into You",
+  "release_date": "2023-02-14",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:22PkV1Le9P3X4RY4xtmK0q",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+      "id": "4Ge8xMJNwt6EEXOzVXju9a",
+      "name": "Caroline Polachek",
+      "type": "artist",
+      "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/22PkV1Le9P3X4RY4xtmK0q/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 232625,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bp2wYweUPvsBrQfntdYcr",
+        "id": "4bp2wYweUPvsBrQfntdYcr",
+        "name": "Welcome To My Island",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4bp2wYweUPvsBrQfntdYcr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216374,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Q5LWPIKCuV6LRdDeqOYM7",
+        "id": "4Q5LWPIKCuV6LRdDeqOYM7",
+        "name": "Pretty In Possible",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4Q5LWPIKCuV6LRdDeqOYM7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193957,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40tRJ8bMkIkXh8vhHKQsoX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40tRJ8bMkIkXh8vhHKQsoX",
+        "id": "40tRJ8bMkIkXh8vhHKQsoX",
+        "name": "Bunny Is A Rider",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:40tRJ8bMkIkXh8vhHKQsoX",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 162909,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/203bhpOhWluOytYjvwQfl7",
+        "id": "203bhpOhWluOytYjvwQfl7",
+        "name": "Sunset",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:203bhpOhWluOytYjvwQfl7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 209067,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77ySu72hStpWbl3EZZiXzJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77ySu72hStpWbl3EZZiXzJ",
+        "id": "77ySu72hStpWbl3EZZiXzJ",
+        "name": "Crude Drawing Of An Angel",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:77ySu72hStpWbl3EZZiXzJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247375,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6GqesoY3jZD9BqT1v4UEmk",
+        "id": "6GqesoY3jZD9BqT1v4UEmk",
+        "name": "I Believe",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6GqesoY3jZD9BqT1v4UEmk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+            },
+            "href": "https://api.spotify.com/v1/artists/053q0ukIDRgzwTr4vNSwab",
+            "id": "053q0ukIDRgzwTr4vNSwab",
+            "name": "Grimes",
+            "type": "artist",
+            "uri": "spotify:artist:053q0ukIDRgzwTr4vNSwab"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+            },
+            "href": "https://api.spotify.com/v1/artists/2mpeljBig2IXLXRAFO9AAs",
+            "id": "2mpeljBig2IXLXRAFO9AAs",
+            "name": "Dido",
+            "type": "artist",
+            "uri": "spotify:artist:2mpeljBig2IXLXRAFO9AAs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245124,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0RVn3A5FHQ8OgiIxuRkepW",
+        "id": "0RVn3A5FHQ8OgiIxuRkepW",
+        "name": "Fly To You (feat. Grimes and Dido)",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0RVn3A5FHQ8OgiIxuRkepW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 267500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KE5Inz4uZKGb2EzETaOEe",
+        "id": "5KE5Inz4uZKGb2EzETaOEe",
+        "name": "Blood And Butter",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5KE5Inz4uZKGb2EzETaOEe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7y4aQuePr8SgBH14rXzheh",
+        "id": "7y4aQuePr8SgBH14rXzheh",
+        "name": "Hopedrunk Everasking",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7y4aQuePr8SgBH14rXzheh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 276000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JYayrgDyMYVrpMdcn5HxF",
+        "id": "3JYayrgDyMYVrpMdcn5HxF",
+        "name": "Butterfly Net",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3JYayrgDyMYVrpMdcn5HxF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 177500,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2x8zUjRP6z5N2GmZ13zU76"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2x8zUjRP6z5N2GmZ13zU76",
+        "id": "2x8zUjRP6z5N2GmZ13zU76",
+        "name": "Smoke",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:2x8zUjRP6z5N2GmZ13zU76",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ge8xMJNwt6EEXOzVXju9a",
+            "id": "4Ge8xMJNwt6EEXOzVXju9a",
+            "name": "Caroline Polachek",
+            "type": "artist",
+            "uri": "spotify:artist:4Ge8xMJNwt6EEXOzVXju9a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 297514,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JPF8Te7Jo3AuI2vKqrRUV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JPF8Te7Jo3AuI2vKqrRUV",
+        "id": "4JPF8Te7Jo3AuI2vKqrRUV",
+        "name": "Billions",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4JPF8Te7Jo3AuI2vKqrRUV",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(C) 2023 Perpetual Novice",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2023 Perpetual Novice",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "197187988518"
+  },
+  "genres": []
+}

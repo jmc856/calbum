@@ -1,0 +1,310 @@
+{
+  "album_type": "album",
+  "total_tracks": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/77KTk9PdOsC2NuMjGSDCS3"
+  },
+  "href": "https://api.spotify.com/v1/albums/77KTk9PdOsC2NuMjGSDCS3",
+  "id": "77KTk9PdOsC2NuMjGSDCS3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6bc598472ed677357b61d7d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6bc598472ed677357b61d7d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e6bc598472ed677357b61d7d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Where we've been, Where we go from here",
+  "release_date": "2024-02-16",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:77KTk9PdOsC2NuMjGSDCS3",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+      },
+      "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+      "id": "5HViQsHNdOovxKa420CPGR",
+      "name": "Friko",
+      "type": "artist",
+      "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/77KTk9PdOsC2NuMjGSDCS3/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 9,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 315633,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6uBRUPjd59DdYVTMMadvr1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6uBRUPjd59DdYVTMMadvr1",
+        "id": "6uBRUPjd59DdYVTMMadvr1",
+        "name": "Where We've Been",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6uBRUPjd59DdYVTMMadvr1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 208258,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2maziwd7gIqhwvmPbZrnGw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2maziwd7gIqhwvmPbZrnGw",
+        "id": "2maziwd7gIqhwvmPbZrnGw",
+        "name": "Crimson To Chrome",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2maziwd7gIqhwvmPbZrnGw",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223771,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g9XplZn5whuQ3N7rVufOU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1g9XplZn5whuQ3N7rVufOU",
+        "id": "1g9XplZn5whuQ3N7rVufOU",
+        "name": "Crashing Through",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1g9XplZn5whuQ3N7rVufOU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243912,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1D44KFZEd7TWLlBZP3cp3Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1D44KFZEd7TWLlBZP3cp3Z",
+        "id": "1D44KFZEd7TWLlBZP3cp3Z",
+        "name": "For Ella",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1D44KFZEd7TWLlBZP3cp3Z",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202086,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nnBkQVPV1u3HLxWGoncCy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4nnBkQVPV1u3HLxWGoncCy",
+        "id": "4nnBkQVPV1u3HLxWGoncCy",
+        "name": "Chemical",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4nnBkQVPV1u3HLxWGoncCy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234433,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5V9NMvMB5djRiq80yM9lhg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5V9NMvMB5djRiq80yM9lhg",
+        "id": "5V9NMvMB5djRiq80yM9lhg",
+        "name": "Statues",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5V9NMvMB5djRiq80yM9lhg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kfoKRbTefUnYVePjJG3Od"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kfoKRbTefUnYVePjJG3Od",
+        "id": "4kfoKRbTefUnYVePjJG3Od",
+        "name": "Until I'm With You Again",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4kfoKRbTefUnYVePjJG3Od",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 292599,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4TdS69BJc8gNvVXd6JUcUD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4TdS69BJc8gNvVXd6JUcUD",
+        "id": "4TdS69BJc8gNvVXd6JUcUD",
+        "name": "Get Numb To It!",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4TdS69BJc8gNvVXd6JUcUD",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+            "id": "5HViQsHNdOovxKa420CPGR",
+            "name": "Friko",
+            "type": "artist",
+            "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234091,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6VcegiqBfFvKWXv1R5Az5y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VcegiqBfFvKWXv1R5Az5y",
+        "id": "6VcegiqBfFvKWXv1R5Az5y",
+        "name": "Cardinal",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6VcegiqBfFvKWXv1R5Az5y",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2024 ATO Records, LLC. All Rights Reserved.",
+      "type": "C"
+    },
+    {
+      "text": "2024 ATO Records, LLC. All Rights Reserved.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00880882595852"
+  },
+  "genres": []
+}

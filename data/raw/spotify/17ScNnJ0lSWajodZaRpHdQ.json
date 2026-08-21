@@ -1,0 +1,828 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+  },
+  "href": "https://api.spotify.com/v1/albums/17ScNnJ0lSWajodZaRpHdQ",
+  "id": "17ScNnJ0lSWajodZaRpHdQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef854fe1d04279372a96f3d6",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ef854fe1d04279372a96f3d6",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Let God Sort Em Out",
+  "release_date": "2025-07-11",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:17ScNnJ0lSWajodZaRpHdQ",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+      },
+      "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+      "id": "2J257euzcjnDLipsyJH3F2",
+      "name": "Clipse",
+      "type": "artist",
+      "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+      },
+      "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+      "id": "0ONHkAv9pCAFxb0zJwDNTy",
+      "name": "Pusha T",
+      "type": "artist",
+      "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+      },
+      "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+      "id": "4P4gZvRYiVpvtCkmd37jRM",
+      "name": "Malice",
+      "type": "artist",
+      "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/17ScNnJ0lSWajodZaRpHdQ/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+            },
+            "href": "https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t",
+            "id": "5y2Xq6xcjJb2jVM54GHK3t",
+            "name": "John Legend",
+            "type": "artist",
+            "uri": "spotify:artist:5y2Xq6xcjJb2jVM54GHK3t"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+            },
+            "href": "https://api.spotify.com/v1/artists/5hMr1UPWUlLzQmHpE45EpH",
+            "id": "5hMr1UPWUlLzQmHpE45EpH",
+            "name": "Voices of Fire",
+            "type": "artist",
+            "uri": "spotify:artist:5hMr1UPWUlLzQmHpE45EpH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 240520,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6L3i4jdNnk0a9kMT3qIqTG",
+        "id": "6L3i4jdNnk0a9kMT3qIqTG",
+        "name": "The Birds Don't Sing",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6L3i4jdNnk0a9kMT3qIqTG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243906,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3znSvEwBq09We4cxxmwlZM",
+        "id": "3znSvEwBq09We4cxxmwlZM",
+        "name": "Chains & Whips",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3znSvEwBq09We4cxxmwlZM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258030,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mwlZQjUxspUTpAzLwexw7",
+        "id": "0mwlZQjUxspUTpAzLwexw7",
+        "name": "P.O.V.",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0mwlZQjUxspUTpAzLwexw7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 194866,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xaQ86cGRgcF8wwP1SkXsb",
+        "id": "0xaQ86cGRgcF8wwP1SkXsb",
+        "name": "So Be It",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0xaQ86cGRgcF8wwP1SkXsb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154066,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JvQhXD5FxkK2GjHCyFmZa",
+        "id": "1JvQhXD5FxkK2GjHCyFmZa",
+        "name": "Ace Trumpets",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1JvQhXD5FxkK2GjHCyFmZa",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+            },
+            "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+            "id": "1W3FSF1BLpY3hlVIgvenLz",
+            "name": "THE-DREAM",
+            "type": "artist",
+            "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iXd1ZXMPJYAp37hCr441H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3iXd1ZXMPJYAp37hCr441H",
+        "id": "3iXd1ZXMPJYAp37hCr441H",
+        "name": "All Things Considered",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3iXd1ZXMPJYAp37hCr441H",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 156013,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fZd2UtWZMntClCSnJ7PDY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fZd2UtWZMntClCSnJ7PDY",
+        "id": "3fZd2UtWZMntClCSnJ7PDY",
+        "name": "M.T.B.T.T.F.",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3fZd2UtWZMntClCSnJ7PDY",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 119973,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3J4lO2oyDMLEYGdHgRcJHW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3J4lO2oyDMLEYGdHgRcJHW",
+        "id": "3J4lO2oyDMLEYGdHgRcJHW",
+        "name": "E.B.I.T.D.A.",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3J4lO2oyDMLEYGdHgRcJHW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+            },
+            "href": "https://api.spotify.com/v1/artists/35fcckhFq2cF2u7hIG0fPv",
+            "id": "35fcckhFq2cF2u7hIG0fPv",
+            "name": "Stove God Cooks",
+            "type": "artist",
+            "uri": "spotify:artist:35fcckhFq2cF2u7hIG0fPv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201746,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6X5sXeRwqbqPsZ8FFFae0F",
+        "id": "6X5sXeRwqbqPsZ8FFFae0F",
+        "name": "F.I.C.O.",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6X5sXeRwqbqPsZ8FFFae0F",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF"
+            },
+            "href": "https://api.spotify.com/v1/artists/62EHYOwzTJYvqrvy5NXNDF",
+            "id": "62EHYOwzTJYvqrvy5NXNDF",
+            "name": "Ab-Liva",
+            "type": "artist",
+            "uri": "spotify:artist:62EHYOwzTJYvqrvy5NXNDF"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 153466,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6vh3knkD2m9behBKvuKePP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6vh3knkD2m9behBKvuKePP",
+        "id": "6vh3knkD2m9behBKvuKePP",
+        "name": "Inglorious Bastards",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6vh3knkD2m9behBKvuKePP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202066,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kIwGkZQksciLIjIbM0NFo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6kIwGkZQksciLIjIbM0NFo",
+        "id": "6kIwGkZQksciLIjIbM0NFo",
+        "name": "So Far Ahead",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6kIwGkZQksciLIjIbM0NFo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+            },
+            "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+            "id": "20qISvAhX20dpIbOOzGK3q",
+            "name": "Nas",
+            "type": "artist",
+            "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 152986,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2x2IOYqWknW8JWr32cg6JX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2x2IOYqWknW8JWr32cg6JX",
+        "id": "2x2IOYqWknW8JWr32cg6JX",
+        "name": "Let God Sort Em Out/Chandeliers",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2x2IOYqWknW8JWr32cg6JX",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2J257euzcjnDLipsyJH3F2",
+            "id": "2J257euzcjnDLipsyJH3F2",
+            "name": "Clipse",
+            "type": "artist",
+            "uri": "spotify:artist:2J257euzcjnDLipsyJH3F2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+            "id": "2RdwBSPQiwcmiDo9kixcl8",
+            "name": "Pharrell Williams",
+            "type": "artist",
+            "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+            },
+            "href": "https://api.spotify.com/v1/artists/0ONHkAv9pCAFxb0zJwDNTy",
+            "id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "name": "Pusha T",
+            "type": "artist",
+            "uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+            },
+            "href": "https://api.spotify.com/v1/artists/4P4gZvRYiVpvtCkmd37jRM",
+            "id": "4P4gZvRYiVpvtCkmd37jRM",
+            "name": "Malice",
+            "type": "artist",
+            "uri": "spotify:artist:4P4gZvRYiVpvtCkmd37jRM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186026,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XhsQnSiO6JPuiG4RPTugh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XhsQnSiO6JPuiG4RPTugh",
+        "id": "5XhsQnSiO6JPuiG4RPTugh",
+        "name": "By The Grace Of God",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:5XhsQnSiO6JPuiG4RPTugh",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2025 Clipse, under exclusive license to Roc Nation Distribution",
+      "type": "C"
+    },
+    {
+      "text": "2025 Clipse, under exclusive license to Roc Nation Distribution",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "810058342768"
+  },
+  "genres": []
+}

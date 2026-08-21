@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+  },
+  "href": "https://api.spotify.com/v1/albums/1nAQg0AjzpuT7lINu1J87y",
+  "id": "1nAQg0AjzpuT7lINu1J87y",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27342185bc39407adc74a39212a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0242185bc39407adc74a39212a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485142185bc39407adc74a39212a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Expert In A Dying Field",
+  "release_date": "2022-09-16",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1nAQg0AjzpuT7lINu1J87y",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+      },
+      "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+      "id": "7DjwIxbe8kpw4pqnzAMoin",
+      "name": "The Beths",
+      "type": "artist",
+      "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1nAQg0AjzpuT7lINu1J87y/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1bPcxJHusTrlr2Kj4kjK7e",
+        "id": "1bPcxJHusTrlr2Kj4kjK7e",
+        "name": "Expert In A Dying Field",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1bPcxJHusTrlr2Kj4kjK7e",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 219133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26nKaeICWQGG1EC3cTGliE",
+        "id": "26nKaeICWQGG1EC3cTGliE",
+        "name": "Knees Deep",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:26nKaeICWQGG1EC3cTGliE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JsEyO6GdNhUa1ZimkF6f9",
+        "id": "5JsEyO6GdNhUa1ZimkF6f9",
+        "name": "Silence Is Golden",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5JsEyO6GdNhUa1ZimkF6f9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281586,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cfp5Au5smgHT7kSN6F4kd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0cfp5Au5smgHT7kSN6F4kd",
+        "id": "0cfp5Au5smgHT7kSN6F4kd",
+        "name": "Your Side",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0cfp5Au5smgHT7kSN6F4kd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 132986,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4K8lSoy4WWjBibvfNECDgf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4K8lSoy4WWjBibvfNECDgf",
+        "id": "4K8lSoy4WWjBibvfNECDgf",
+        "name": "I Want To Listen",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4K8lSoy4WWjBibvfNECDgf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79BfRISdeTukD9efHO51lz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79BfRISdeTukD9efHO51lz",
+        "id": "79BfRISdeTukD9efHO51lz",
+        "name": "Head In The Clouds",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:79BfRISdeTukD9efHO51lz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/131Bs5zdIXTLopbbIEtits"
+        },
+        "href": "https://api.spotify.com/v1/tracks/131Bs5zdIXTLopbbIEtits",
+        "id": "131Bs5zdIXTLopbbIEtits",
+        "name": "Best Left",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:131Bs5zdIXTLopbbIEtits",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7flN6MxB2SlRgnu9AhiLxz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7flN6MxB2SlRgnu9AhiLxz",
+        "id": "7flN6MxB2SlRgnu9AhiLxz",
+        "name": "Change In The Weather",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7flN6MxB2SlRgnu9AhiLxz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LgpO5RdeHPEDSww4XP0WO",
+        "id": "5LgpO5RdeHPEDSww4XP0WO",
+        "name": "When You Know You Know",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5LgpO5RdeHPEDSww4XP0WO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vit526cUNjFwgwKChcDx1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vit526cUNjFwgwKChcDx1",
+        "id": "3vit526cUNjFwgwKChcDx1",
+        "name": "A Passing Rain",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3vit526cUNjFwgwKChcDx1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nXhzWvBfYvq1UVvQ1rzgT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4nXhzWvBfYvq1UVvQ1rzgT",
+        "id": "4nXhzWvBfYvq1UVvQ1rzgT",
+        "name": "I Told You That I Was Afraid",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4nXhzWvBfYvq1UVvQ1rzgT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+            },
+            "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+            "id": "7DjwIxbe8kpw4pqnzAMoin",
+            "name": "The Beths",
+            "type": "artist",
+            "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 289333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15KnGglqXvqvmy1zV7ulDE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15KnGglqXvqvmy1zV7ulDE",
+        "id": "15KnGglqXvqvmy1zV7ulDE",
+        "name": "2am",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:15KnGglqXvqvmy1zV7ulDE",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2022 Carpark Records",
+      "type": "C"
+    },
+    {
+      "text": "2022 Carpark Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "677517016451"
+  },
+  "genres": []
+}

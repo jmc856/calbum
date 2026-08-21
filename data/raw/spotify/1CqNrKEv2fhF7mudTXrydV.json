@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+  },
+  "href": "https://api.spotify.com/v1/albums/1CqNrKEv2fhF7mudTXrydV",
+  "id": "1CqNrKEv2fhF7mudTXrydV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731020612148d9a31d2dbd5b00",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021020612148d9a31d2dbd5b00",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511020612148d9a31d2dbd5b00",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lianne La Havas",
+  "release_date": "2020-07-17",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1CqNrKEv2fhF7mudTXrydV",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+      "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+      "name": "Lianne La Havas",
+      "type": "artist",
+      "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1CqNrKEv2fhF7mudTXrydV/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 292506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4uawMXx8VZ7WMrjAVOaCMe",
+        "id": "4uawMXx8VZ7WMrjAVOaCMe",
+        "name": "Bittersweet",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4uawMXx8VZ7WMrjAVOaCMe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 288453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18yYhT8fTVjFK9IBPiows6",
+        "id": "18yYhT8fTVjFK9IBPiows6",
+        "name": "Read My Mind",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:18yYhT8fTVjFK9IBPiows6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3DHweI4vICEnj2oZIxY57D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3DHweI4vICEnj2oZIxY57D",
+        "id": "3DHweI4vICEnj2oZIxY57D",
+        "name": "Green Papaya",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3DHweI4vICEnj2oZIxY57D",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gnvh9HRH5fCo5iDQXMvQN",
+        "id": "2gnvh9HRH5fCo5iDQXMvQN",
+        "name": "Can't Fight",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2gnvh9HRH5fCo5iDQXMvQN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 298720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kC97zPE0PxrcItXyGdk8P",
+        "id": "7kC97zPE0PxrcItXyGdk8P",
+        "name": "Paper Thin",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7kC97zPE0PxrcItXyGdk8P",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 64613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lItdfo91hRHhICLRgRueZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lItdfo91hRHhICLRgRueZ",
+        "id": "7lItdfo91hRHhICLRgRueZ",
+        "name": "Out of Your Mind - Interlude",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7lItdfo91hRHhICLRgRueZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 354533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5ygk8Hkp4WCCk7GXWEUP9V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ygk8Hkp4WCCk7GXWEUP9V",
+        "id": "5ygk8Hkp4WCCk7GXWEUP9V",
+        "name": "Weird Fishes",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5ygk8Hkp4WCCk7GXWEUP9V",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 314973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45RztUROkc4H1pHoCtRR6c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45RztUROkc4H1pHoCtRR6c",
+        "id": "45RztUROkc4H1pHoCtRR6c",
+        "name": "Please Don't Make Me Cry",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:45RztUROkc4H1pHoCtRR6c",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5f1WIrwto7nNtEVovPq6cR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5f1WIrwto7nNtEVovPq6cR",
+        "id": "5f1WIrwto7nNtEVovPq6cR",
+        "name": "Seven Times",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5f1WIrwto7nNtEVovPq6cR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WVWglJZaFth6NbuMFC81c",
+        "id": "6WVWglJZaFth6NbuMFC81c",
+        "name": "Courage",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6WVWglJZaFth6NbuMFC81c",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+            },
+            "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+            "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "name": "Lianne La Havas",
+            "type": "artist",
+            "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 407813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3opQwVHIpSMHubh9n9hn27"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3opQwVHIpSMHubh9n9hn27",
+        "id": "3opQwVHIpSMHubh9n9hn27",
+        "name": "Sour Flower",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3opQwVHIpSMHubh9n9hn27",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 Warner Records UK, a division of Warner Music UK Limited.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "190295048013"
+  },
+  "genres": []
+}
