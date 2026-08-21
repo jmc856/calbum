@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+  },
+  "href": "https://api.spotify.com/v1/albums/51VxHZphGLsI7aUPqIkJaz",
+  "id": "51VxHZphGLsI7aUPqIkJaz",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273f34338e9270f9c0561cf4c7e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f34338e9270f9c0561cf4c7e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851f34338e9270f9c0561cf4c7e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lost In The Dream",
+  "release_date": "2014-03-18",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:51VxHZphGLsI7aUPqIkJaz",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+      },
+      "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+      "id": "6g0mn3tzAds6aVeUYRsryU",
+      "name": "The War On Drugs",
+      "type": "artist",
+      "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/51VxHZphGLsI7aUPqIkJaz/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 532306,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5j58jhAFzAy0keSuQYsQBn",
+        "id": "5j58jhAFzAy0keSuQYsQBn",
+        "name": "Under The Pressure",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5j58jhAFzAy0keSuQYsQBn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 298920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0rUIff1QHd5zlOBtlHVqd9",
+        "id": "0rUIff1QHd5zlOBtlHVqd9",
+        "name": "Red Eyes",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0rUIff1QHd5zlOBtlHVqd9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 362613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0sFoW75slcoyNKYLBFrzRy",
+        "id": "0sFoW75slcoyNKYLBFrzRy",
+        "name": "Suffering",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0sFoW75slcoyNKYLBFrzRy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 431746,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/78uf7QYfexQ1sggf2fsKzg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78uf7QYfexQ1sggf2fsKzg",
+        "id": "78uf7QYfexQ1sggf2fsKzg",
+        "name": "An Ocean In Between The Waves",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:78uf7QYfexQ1sggf2fsKzg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 411626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26c1pgSO38s0mG57fXnqea"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26c1pgSO38s0mG57fXnqea",
+        "id": "26c1pgSO38s0mG57fXnqea",
+        "name": "Disappearing",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:26c1pgSO38s0mG57fXnqea",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 355960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2lVbMHEx1O8h7rvaNtI0pR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2lVbMHEx1O8h7rvaNtI0pR",
+        "id": "2lVbMHEx1O8h7rvaNtI0pR",
+        "name": "Eyes To The Wind",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2lVbMHEx1O8h7rvaNtI0pR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/463huLLxHrXwNJsdrfNI6Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/463huLLxHrXwNJsdrfNI6Z",
+        "id": "463huLLxHrXwNJsdrfNI6Z",
+        "name": "The Haunting Idle",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:463huLLxHrXwNJsdrfNI6Z",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 348226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2S2nmmJAS5efQ5fVrvYAQj",
+        "id": "2S2nmmJAS5efQ5fVrvYAQj",
+        "name": "Burning",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2S2nmmJAS5efQ5fVrvYAQj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 249466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ak3ro0ENx4TNNUcSvJKUM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ak3ro0ENx4TNNUcSvJKUM",
+        "id": "4ak3ro0ENx4TNNUcSvJKUM",
+        "name": "Lost In The Dream",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4ak3ro0ENx4TNNUcSvJKUM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+            },
+            "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+            "id": "6g0mn3tzAds6aVeUYRsryU",
+            "name": "The War On Drugs",
+            "type": "artist",
+            "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 461120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4nJih3CNsTBEmljhiQdc0S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4nJih3CNsTBEmljhiQdc0S",
+        "id": "4nJih3CNsTBEmljhiQdc0S",
+        "name": "In Reverse",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4nJih3CNsTBEmljhiQdc0S",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2014 Secretly Canadian",
+      "type": "C"
+    },
+    {
+      "text": "2014 Secretly Canadian",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "656605031064"
+  },
+  "genres": []
+}

@@ -1,0 +1,391 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI"
+  },
+  "href": "https://api.spotify.com/v1/albums/5AfELtBFbN1hM75hgqc7FI",
+  "id": "5AfELtBFbN1hM75hgqc7FI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e026fc26b002a2cf7d25f90cd72",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048516fc26b002a2cf7d25f90cd72",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Philadelphia's been good to me",
+  "release_date": "2026-05-29",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5AfELtBFbN1hM75hgqc7FI",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+      },
+      "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+      "id": "5gspAQIAH8nJUrMYgXjCJ2",
+      "name": "Kurt Vile",
+      "type": "artist",
+      "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5AfELtBFbN1hM75hgqc7FI/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 294720,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0aW3FQZlYWyj1gTn7mlc8t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0aW3FQZlYWyj1gTn7mlc8t",
+        "id": "0aW3FQZlYWyj1gTn7mlc8t",
+        "name": "Zoom 97",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0aW3FQZlYWyj1gTn7mlc8t",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 285149,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/34DBr8CO4BDpoigLzKYlrg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/34DBr8CO4BDpoigLzKYlrg",
+        "id": "34DBr8CO4BDpoigLzKYlrg",
+        "name": "99 BPM",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:34DBr8CO4BDpoigLzKYlrg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 335650,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21CU5fG0Pp0LUbXRDG1d48",
+        "id": "21CU5fG0Pp0LUbXRDG1d48",
+        "name": "Rock o\u2019 Stone",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:21CU5fG0Pp0LUbXRDG1d48",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 338527,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5RPcWcLxhD6V0mfdjqzn8i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5RPcWcLxhD6V0mfdjqzn8i",
+        "id": "5RPcWcLxhD6V0mfdjqzn8i",
+        "name": "You don\u2019t know cuz it\u2019s my life",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5RPcWcLxhD6V0mfdjqzn8i",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 296496,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/562yKTMPiyCsZrzjXzUzSF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/562yKTMPiyCsZrzjXzUzSF",
+        "id": "562yKTMPiyCsZrzjXzUzSF",
+        "name": "Chance to Bleed",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:562yKTMPiyCsZrzjXzUzSF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 351733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1N9TMe3p9PGRoJqJxbcoQ8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1N9TMe3p9PGRoJqJxbcoQ8",
+        "id": "1N9TMe3p9PGRoJqJxbcoQ8",
+        "name": "Philly\u2019s been good to me",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1N9TMe3p9PGRoJqJxbcoQ8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 611243,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WjiAtmCom6cI24hRprZjK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WjiAtmCom6cI24hRprZjK",
+        "id": "0WjiAtmCom6cI24hRprZjK",
+        "name": "99th song",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0WjiAtmCom6cI24hRprZjK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196817,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0q1XG4RaBHomVVzSMl99DD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0q1XG4RaBHomVVzSMl99DD",
+        "id": "0q1XG4RaBHomVVzSMl99DD",
+        "name": "Red Room Dub",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0q1XG4RaBHomVVzSMl99DD",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273476,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VBA4e493OrSY8aMDrKsfT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VBA4e493OrSY8aMDrKsfT",
+        "id": "1VBA4e493OrSY8aMDrKsfT",
+        "name": "Holiday OKV",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1VBA4e493OrSY8aMDrKsfT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 302613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5cWwBAsUVwOIjDAHjsvx54"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5cWwBAsUVwOIjDAHjsvx54",
+        "id": "5cWwBAsUVwOIjDAHjsvx54",
+        "name": "Every time I look at you",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5cWwBAsUVwOIjDAHjsvx54",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 155760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40rNnw7IyhUMcJNAQsKUI5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40rNnw7IyhUMcJNAQsKUI5",
+        "id": "40rNnw7IyhUMcJNAQsKUI5",
+        "name": "Piano for Sarah",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:40rNnw7IyhUMcJNAQsKUI5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+            },
+            "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+            "id": "5gspAQIAH8nJUrMYgXjCJ2",
+            "name": "Kurt Vile",
+            "type": "artist",
+            "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 439028,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6O054i2dzFqlxCyTgpLlwy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6O054i2dzFqlxCyTgpLlwy",
+        "id": "6O054i2dzFqlxCyTgpLlwy",
+        "name": "Avalanches of Snow",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6O054i2dzFqlxCyTgpLlwy",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2026 overnite kv incorporated, under exclusive license to Verve Label Group, a division of UMG Recordings, Inc.",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2026 overnite kv incorporated, under exclusive license to Verve Label Group, a division of UMG Recordings, Inc.",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00199957531368"
+  },
+  "genres": []
+}

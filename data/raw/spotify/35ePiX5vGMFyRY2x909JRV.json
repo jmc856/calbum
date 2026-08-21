@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/35ePiX5vGMFyRY2x909JRV"
+  },
+  "href": "https://api.spotify.com/v1/albums/35ePiX5vGMFyRY2x909JRV",
+  "id": "35ePiX5vGMFyRY2x909JRV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27318488ae4790938ab69921f0d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0218488ae4790938ab69921f0d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485118488ae4790938ab69921f0d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The Wild Hunt",
+  "release_date": "2010-04-11",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:35ePiX5vGMFyRY2x909JRV",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+      },
+      "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+      "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+      "name": "The Tallest Man On Earth",
+      "type": "artist",
+      "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/35ePiX5vGMFyRY2x909JRV/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201605,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5gW1MwRuuPSR57HrS9fJ5E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gW1MwRuuPSR57HrS9fJ5E",
+        "id": "5gW1MwRuuPSR57HrS9fJ5E",
+        "name": "The Wild Hunt",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5gW1MwRuuPSR57HrS9fJ5E",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213796,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EcbVJTt1vZ2LIqix0Qi3u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0EcbVJTt1vZ2LIqix0Qi3u",
+        "id": "0EcbVJTt1vZ2LIqix0Qi3u",
+        "name": "Burden of Tomorrow",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0EcbVJTt1vZ2LIqix0Qi3u",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181868,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0of74z3Pw73n6W537d5KqL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0of74z3Pw73n6W537d5KqL",
+        "id": "0of74z3Pw73n6W537d5KqL",
+        "name": "Troubles Will Be Gone",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0of74z3Pw73n6W537d5KqL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43fpRNj0zeBkOH3FgHY1ds"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43fpRNj0zeBkOH3FgHY1ds",
+        "id": "43fpRNj0zeBkOH3FgHY1ds",
+        "name": "You're Going Back",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:43fpRNj0zeBkOH3FgHY1ds",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 177098,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fVekFInIhcaEyXKtvJKeE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fVekFInIhcaEyXKtvJKeE",
+        "id": "3fVekFInIhcaEyXKtvJKeE",
+        "name": "The Drying of the Lawns",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3fVekFInIhcaEyXKtvJKeE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206203,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2tKMcFgiaLa8GGeUUK2UAU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2tKMcFgiaLa8GGeUUK2UAU",
+        "id": "2tKMcFgiaLa8GGeUUK2UAU",
+        "name": "King of Spain",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2tKMcFgiaLa8GGeUUK2UAU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 255860,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3QGFHhGxUDtPAhdipwSrpl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QGFHhGxUDtPAhdipwSrpl",
+        "id": "3QGFHhGxUDtPAhdipwSrpl",
+        "name": "Love is All",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3QGFHhGxUDtPAhdipwSrpl",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173406,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7J6v3WkSq62pwngwpJNvmW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7J6v3WkSq62pwngwpJNvmW",
+        "id": "7J6v3WkSq62pwngwpJNvmW",
+        "name": "Thousand Ways",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7J6v3WkSq62pwngwpJNvmW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195406,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JvoMGCxBXhy2kNMX3pIXk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JvoMGCxBXhy2kNMX3pIXk",
+        "id": "4JvoMGCxBXhy2kNMX3pIXk",
+        "name": "A Lion's Heart",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4JvoMGCxBXhy2kNMX3pIXk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+            },
+            "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+            "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "name": "The Tallest Man On Earth",
+            "type": "artist",
+            "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 292186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KFQ3mwz3UnyEzQfSpLTjM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3KFQ3mwz3UnyEzQfSpLTjM",
+        "id": "3KFQ3mwz3UnyEzQfSpLTjM",
+        "name": "Kids on the Run",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3KFQ3mwz3UnyEzQfSpLTjM",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2010 Dead Oceans",
+      "type": "C"
+    },
+    {
+      "text": "2010 Dead Oceans",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "0692788762401"
+  },
+  "genres": []
+}

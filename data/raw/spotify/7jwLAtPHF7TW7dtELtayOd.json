@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7jwLAtPHF7TW7dtELtayOd"
+  },
+  "href": "https://api.spotify.com/v1/albums/7jwLAtPHF7TW7dtELtayOd",
+  "id": "7jwLAtPHF7TW7dtELtayOd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac5899ddc449d1e54a1b8880",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac5899ddc449d1e54a1b8880",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ac5899ddc449d1e54a1b8880",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Transatlanticism",
+  "release_date": "2003-10-07",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:7jwLAtPHF7TW7dtELtayOd",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+      },
+      "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+      "id": "0YrtvWJMgSdVrk3SfNjTbx",
+      "name": "Death Cab for Cutie",
+      "type": "artist",
+      "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7jwLAtPHF7TW7dtELtayOd/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 246373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3yLgtIF1dEk9LJzaARBRxJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3yLgtIF1dEk9LJzaARBRxJ",
+        "id": "3yLgtIF1dEk9LJzaARBRxJ",
+        "name": "The New Year",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3yLgtIF1dEk9LJzaARBRxJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 210213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Sqly6V28vcAmZj4HYEdny"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Sqly6V28vcAmZj4HYEdny",
+        "id": "2Sqly6V28vcAmZj4HYEdny",
+        "name": "Lightness",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2Sqly6V28vcAmZj4HYEdny",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 219266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5IJVWLwidnnU2O4XiscsEe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5IJVWLwidnnU2O4XiscsEe",
+        "id": "5IJVWLwidnnU2O4XiscsEe",
+        "name": "Title and Registration",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5IJVWLwidnnU2O4XiscsEe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251186,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dzmxk0ULPrLGsrutoRQye"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dzmxk0ULPrLGsrutoRQye",
+        "id": "1dzmxk0ULPrLGsrutoRQye",
+        "name": "Expo '86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1dzmxk0ULPrLGsrutoRQye",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 132506,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57GMg4afe0ccCf5Fd22Fm8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/57GMg4afe0ccCf5Fd22Fm8",
+        "id": "57GMg4afe0ccCf5Fd22Fm8",
+        "name": "The Sound of Settling",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:57GMg4afe0ccCf5Fd22Fm8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6aS8aGFagfzRyQOHQunBQg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6aS8aGFagfzRyQOHQunBQg",
+        "id": "6aS8aGFagfzRyQOHQunBQg",
+        "name": "Tiny Vessels",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6aS8aGFagfzRyQOHQunBQg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 475093,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zBFQh3OBdtoRFWn2XRrIr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4zBFQh3OBdtoRFWn2XRrIr",
+        "id": "4zBFQh3OBdtoRFWn2XRrIr",
+        "name": "Transatlanticism",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4zBFQh3OBdtoRFWn2XRrIr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4w5EQJUc3iNpMAT9v11VgF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4w5EQJUc3iNpMAT9v11VgF",
+        "id": "4w5EQJUc3iNpMAT9v11VgF",
+        "name": "Passenger Seat",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4w5EQJUc3iNpMAT9v11VgF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ARb2dxpeDRtgWPbUM7gt7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ARb2dxpeDRtgWPbUM7gt7",
+        "id": "3ARb2dxpeDRtgWPbUM7gt7",
+        "name": "Death of an Interior Decorator",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3ARb2dxpeDRtgWPbUM7gt7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 332813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3YQRelZYOiGPJGttno6G1L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3YQRelZYOiGPJGttno6G1L",
+        "id": "3YQRelZYOiGPJGttno6G1L",
+        "name": "We Looked Like Giants",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3YQRelZYOiGPJGttno6G1L",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0YrtvWJMgSdVrk3SfNjTbx",
+            "id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "name": "Death Cab for Cutie",
+            "type": "artist",
+            "uri": "spotify:artist:0YrtvWJMgSdVrk3SfNjTbx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/617GoDMLDCGJSouPbBb1k7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/617GoDMLDCGJSouPbBb1k7",
+        "id": "617GoDMLDCGJSouPbBb1k7",
+        "name": "A Lack of Color",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:617GoDMLDCGJSouPbBb1k7",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2003 Barsuk Records",
+      "type": "C"
+    },
+    {
+      "text": "2003 Barsuk Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "655173103227"
+  },
+  "genres": []
+}

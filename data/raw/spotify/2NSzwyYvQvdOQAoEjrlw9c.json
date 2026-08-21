@@ -1,0 +1,499 @@
+{
+  "album_type": "album",
+  "total_tracks": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+  },
+  "href": "https://api.spotify.com/v1/albums/2NSzwyYvQvdOQAoEjrlw9c",
+  "id": "2NSzwyYvQvdOQAoEjrlw9c",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27325a647ace83ba32770ab5d0f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0225a647ace83ba32770ab5d0f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485125a647ace83ba32770ab5d0f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Lost Weekend",
+  "release_date": "2026-08-14",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2NSzwyYvQvdOQAoEjrlw9c",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id": "1r1uxoy19fzMxunt3ONAkG",
+      "name": "Phoebe Bridgers",
+      "type": "artist",
+      "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2NSzwyYvQvdOQAoEjrlw9c/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237708,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2itxcGh2MqEGswuXdeRlLL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2itxcGh2MqEGswuXdeRlLL",
+        "id": "2itxcGh2MqEGswuXdeRlLL",
+        "name": "The Outside",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2itxcGh2MqEGswuXdeRlLL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254614,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6eoIuFQSEXcwQqr0RnFdW8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6eoIuFQSEXcwQqr0RnFdW8",
+        "id": "6eoIuFQSEXcwQqr0RnFdW8",
+        "name": "Lost Boys",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6eoIuFQSEXcwQqr0RnFdW8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281544,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2EPxhPbZczxce6wHbuOlQ6",
+        "id": "2EPxhPbZczxce6wHbuOlQ6",
+        "name": "Kill Me",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2EPxhPbZczxce6wHbuOlQ6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207205,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2hAQCoAswuQ643VhIuRC2p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2hAQCoAswuQ643VhIuRC2p",
+        "id": "2hAQCoAswuQ643VhIuRC2p",
+        "name": "The Governor\u2019s Waltz",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2hAQCoAswuQ643VhIuRC2p",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239007,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TSHGfV9E66qCNu4UP6xZu",
+        "id": "6TSHGfV9E66qCNu4UP6xZu",
+        "name": "Bobby",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6TSHGfV9E66qCNu4UP6xZu",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218689,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GMPPheF4aMHMifOgp72eF",
+        "id": "1GMPPheF4aMHMifOgp72eF",
+        "name": "Lost Weekend",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1GMPPheF4aMHMifOgp72eF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214482,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4b1QYjd7i5D1Gx2VjN21qI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4b1QYjd7i5D1Gx2VjN21qI",
+        "id": "4b1QYjd7i5D1Gx2VjN21qI",
+        "name": "Haunted",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4b1QYjd7i5D1Gx2VjN21qI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 166882,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/696AN0lEtK19M7S7eX7A8y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/696AN0lEtK19M7S7eX7A8y",
+        "id": "696AN0lEtK19M7S7eX7A8y",
+        "name": "Panorama",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:696AN0lEtK19M7S7eX7A8y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236205,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09IT8imSuZBu1mjhNWHjuo",
+        "id": "09IT8imSuZBu1mjhNWHjuo",
+        "name": "Still Standing",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:09IT8imSuZBu1mjhNWHjuo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197624,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6KrQFqTPua1s1Thfx6US7V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6KrQFqTPua1s1Thfx6US7V",
+        "id": "6KrQFqTPua1s1Thfx6US7V",
+        "name": "Liberty Tree",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6KrQFqTPua1s1Thfx6US7V",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 102513,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tQxEN6xSkPvnL1kPFB9Bj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tQxEN6xSkPvnL1kPFB9Bj",
+        "id": "7tQxEN6xSkPvnL1kPFB9Bj",
+        "name": "Never Going Back!",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7tQxEN6xSkPvnL1kPFB9Bj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 140001,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2MAhy15YKrS4bvQnwhv0vM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MAhy15YKrS4bvQnwhv0vM",
+        "id": "2MAhy15YKrS4bvQnwhv0vM",
+        "name": "Other Plans",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2MAhy15YKrS4bvQnwhv0vM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 55879,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44xqTKtFjOoYB9M4jA6gPk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/44xqTKtFjOoYB9M4jA6gPk",
+        "id": "44xqTKtFjOoYB9M4jA6gPk",
+        "name": "Lost Parade",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:44xqTKtFjOoYB9M4jA6gPk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217205,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5s50vIGQHK8FG8LfSdHC5q",
+        "id": "5s50vIGQHK8FG8LfSdHC5q",
+        "name": "I Can\u2019t Wait",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5s50vIGQHK8FG8LfSdHC5q",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264817,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1eDwVLcbEje9j6wtBYpXZ4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1eDwVLcbEje9j6wtBYpXZ4",
+        "id": "1eDwVLcbEje9j6wtBYpXZ4",
+        "name": "As Above",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:1eDwVLcbEje9j6wtBYpXZ4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+            "id": "1r1uxoy19fzMxunt3ONAkG",
+            "name": "Phoebe Bridgers",
+            "type": "artist",
+            "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 128568,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0lktuKEQwCm2zTyc4BZYv0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lktuKEQwCm2zTyc4BZYv0",
+        "id": "0lktuKEQwCm2zTyc4BZYv0",
+        "name": "Lost Weekend (Reprise)",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:0lktuKEQwCm2zTyc4BZYv0",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2026 Dead Oceans",
+      "type": "C"
+    },
+    {
+      "text": "2026 Dead Oceans",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "656605170060"
+  },
+  "genres": []
+}
