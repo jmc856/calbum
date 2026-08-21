@@ -1,0 +1,1394 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "098787166668",
+    "artist": "Father John Misty",
+    "title": "Mahashmashana",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 32370513,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Blood Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32370513-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622V",
+      "thumb": "https://i.discogs.com/qIFqRFu8RHHBLQ_M3Jn6BLDs2jjM_BajwOd63CrzXvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzcw/NTEzLTE3MzIzMTEz/NTEtNjMxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wTqMLE9YMLWha-WKVnMZ9sbj3EWBEctHGhWsgH8V4MA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzcw/NTEzLTE3MzIzMTEz/NTEtNjMxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32370513",
+      "community": {
+        "want": 94,
+        "have": 169
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Copper",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Embossed",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32370510,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "Canada",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Sub Pop",
+        "Joshua Tillman",
+        "Joshua Tillman",
+        "Sub Pop Records",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16665 1",
+        "0 98787 16660 6",
+        "SP-1666-A CB 44272.1(3)...",
+        "SP-1666-B CB 44272.2 44272.[scratched out](3)...",
+        "SP-1666-C CB 44272.3(3)...",
+        "SP-1666-D CB 44272.4(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32370510-Father-John-Misty-Mahashmashana",
+      "catno": "SP1666",
+      "thumb": "https://i.discogs.com/Gxnaq31S_KfbACb-cyrTCwtoU-IUyodqufNpk6LVV8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzcw/NTEwLTE3MzIzMTAz/MjQtNzMxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-DPmTLGqafUjzpwOG_GIFoZtxQ4aliV5HanTcJ12zHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzcw/NTEwLTE3MzIzMTAz/MjQtNzMxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32370510",
+      "community": {
+        "want": 65,
+        "have": 204
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Red with Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32355558,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688293",
+        "5065019688422",
+        "SP-1666-A CB",
+        "SP-1666-B CB",
+        "SP-1666-C CB",
+        "SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32355558-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622VRT",
+      "thumb": "https://i.discogs.com/OccGEfcgEWT3N6lnYxBG5V3JoR8STmDtLwTTrK_mSYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NTU4LTE3MzM4NDY1/MTMtNDIxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jO7p-wpU3W6qpqkYX9SD1Z5sjdloxZREmO4EHdzKE-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NTU4LTE3MzM4NDY1/MTMtNDIxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32355558",
+      "community": {
+        "want": 97,
+        "have": 254
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Red & Orange Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32374791,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Bella Union",
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 065019 688293",
+        "5 065019 688439",
+        "LC13566",
+        "SP-1666-A CB",
+        "SP-1666-B CB",
+        "SP-1666-C CB",
+        "SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32374791-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622V",
+      "thumb": "https://i.discogs.com/_wIu0tm9d5ZO2R7PLHL-IjKFD4kk4ugSF2vVS5p84cQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc0/NzkxLTE3MzU0NzQx/ODktMzk3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uf8zivVKWHz2Ku5fKmJXOveBdvusuK6SB2-tq6IZzXU/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc0/NzkxLTE3MzU0NzQx/ODktMzk3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32374791",
+      "community": {
+        "want": 66,
+        "have": 148
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Purple Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36697315,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/36697315-Father-John-Misty-Mahashmashana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/blfqvT9sKIwp75zXUKGlp6wEfuOmLiMqCsk2--dr9t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk3/MzE1LTE3NzI4MjM1/MjItNjEyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EvC_oYK7TNC6EEOujoBI8i4A55gANyCD9pI-a8CRWz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk3/MzE1LTE3NzI4MjM1/MjItNjEyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36697315",
+      "community": {
+        "want": 3,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "8",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32399889,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Sub Pop",
+        "Sub Pop",
+        "Joshua Tillman",
+        "Joshua Tillman",
+        "Sub Pop Records",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Vertigo Vinyl",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16775 7",
+        "0 98787 16660 6",
+        "SP-1666-A CB 44272.1(3)",
+        "SP-1666-B CB 442272.2 444272.B(3)",
+        "SP-1666-C CB 44272.3(3)...",
+        "SP-1666-D CB 44272.4(3)...",
+        "SP-1666-A CB 44272.1(3)...",
+        "SP-1666-B CB 44272.2 44272. \u0336B\u0336(3)...",
+        "SP-1666-C CB 44272.3(3)...",
+        "SP-1666-D CB 44272.4(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32399889-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/NA4Jwmx3_Oy4kD5PRulaAWya1Cfjdle1_TpdSp4Z4rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk5/ODg5LTE3MzM1MDY0/MDUtMTM5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Nhwn3184_INzFKNy0M3R_9v5aJjzVVpnmuuunckNhUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk5/ODg5LTE3MzM1MDY0/MDUtMTM5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32399889",
+      "community": {
+        "want": 95,
+        "have": 212
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Red w/ Gray Mashup [Ink & Haze]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32394486,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Bella Union",
+        "Joshua Tillman",
+        "Joshua Tillman",
+        "Bella Union Records",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Profact International"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688316",
+        "469697 @1",
+        "IFPI LW03",
+        "IFPI AAHP5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32394486-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622CD",
+      "thumb": "https://i.discogs.com/GwzRzT3WcxDCRC-nawTvaYq4m6Hily9rCmNX2zD9ELU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk0/NDg2LTE3MzI1NTg1/MDMtOTcyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YZxiWakXHwD-LjMIC1J_WvKYe4PXYjizfFU0rTGdiIo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk0/NDg2LTE3MzI1NTg1/MDMtOTcyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32394486",
+      "community": {
+        "want": 33,
+        "have": 341
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32390532,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688293",
+        "5065019688309",
+        "SP-1666-A CB",
+        "SP-1666-B CB",
+        "SP-1666-C CB",
+        "SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32390532-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622VX",
+      "thumb": "https://i.discogs.com/sxIRvyYMTkDB4h9ErJVoTN1RGTF5BjCkaSK8A73N9oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzkw/NTMyLTE3MzI0OTQ5/ODQtNTkyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SZ_P9FBdJhES-iNu2WI-TrWloNWpITd9PMnmnVUfY58/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzkw/NTMyLTE3MzI0OTQ5/ODQtNTkyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32390532",
+      "community": {
+        "want": 108,
+        "have": 799
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Dark Red & Silver Marble",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32353329,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16660 6",
+        "SP-1666-A CB 44272.1 (3)... ",
+        "SP-1666-B CB 44272.2 44272.3\u0336 (3)...",
+        "SP-1666-C CB 44272.3 (3)...",
+        "SP-1666-D CB 44272.4( 3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32353329-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/uCFD7JHDBzuXo3qS8VShbnUklLHiJajW0T240Bhejgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUz/MzI5LTE3MzI0MDA1/NjYtMTkyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rCJx4fGx6TquKOo62WvQKlMtuoICMi8n_yBC1IfWdno/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzUz/MzI5LTE3MzI0MDA1/NjYtMTkyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32353329",
+      "community": {
+        "want": 111,
+        "have": 547
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Purple Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32381793,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock",
+        "Pop Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Holiday Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727130991",
+        "(Side A) SP-1666-A CB",
+        "(Side B) SP-1666-B CB",
+        "(Side C) SP-1666-C CB",
+        "(Side D) SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32381793-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/btbsw5cTEl8AKvSUhZ51FSVTb8numAZOc544woRleWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzgx/NzkzLTE3MzI0MTgw/NDAtMjYyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BC50D6MeobvYcV09sfmOD1Fl9rOPP35fmZYaOdMUY4w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzgx/NzkzLTE3MzI0MTgw/NDAtMjYyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32381793",
+      "community": {
+        "want": 93,
+        "have": 129
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue/Green/White Marble [Blue-Mashup]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32366790,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688538",
+        "3700187687731",
+        "SP-1666-A CB",
+        "SP-1666-B CB",
+        "SP-1666-C CB",
+        "SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32366790-Father-John-Misty-Mahashmashana",
+      "catno": "BLV8773",
+      "thumb": "https://i.discogs.com/oy97Y9jZVYxGuCR62OJ_QyQ730wUKaLquB6FYimyo3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY2/NzkwLTE3MzQ4ODA4/NTgtOTI1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DexxaD9NQOjmUyhkLRas7-xqsVwSYKkgTGX33KOvj2w/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY2/NzkwLTE3MzQ4ODA4/NTgtOTI1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32366790",
+      "community": {
+        "want": 70,
+        "have": 172
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White Label, Embossed",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32343684,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Sub Pop",
+        "Joshua Tillman",
+        "Joshua Tillman",
+        "Sub Pop Records",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "The ADS Group",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16662 0",
+        "SP1666 26598-CD-0044 24-268-07-2",
+        "IFPI LY89",
+        "IFPI L813"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32343684-Father-John-Misty-Mahashmashana",
+      "catno": "SP 1666",
+      "thumb": "https://i.discogs.com/MSSZ91N_Xfyjg8Zaa0huUgsK7SL7GLvU4Ojg4cvyRk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQz/Njg0LTE3MzIxMTc5/NjUtNTQ1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-02eMT8u6XgYYGqhVfhOcF5DOqOty03SV5FYJxHnd0I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQz/Njg0LTE3MzIxMTc5/NjUtNTQ1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32343684",
+      "community": {
+        "want": 53,
+        "have": 318
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32365560,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688293",
+        "SP-1666-A CB",
+        "SP-1666-B CB",
+        "SP-1666-C CB",
+        "SP-1666-D CB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32365560-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622V",
+      "thumb": "https://i.discogs.com/1QkNkBe44DjIshSH93gOz0zrW45T-VyKWPMn9eRgM3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY1/NTYwLTE3MzIzODI0/MzAtOTI0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6PCTRXUHHnpEaHhO30Wbh3cY8qWOZttK1_CG3JKe-W0/rs:fit/g:sm/q:90/h:586/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY1/NTYwLTE3MzIzODI0/MzAtOTI0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32365560",
+      "community": {
+        "want": 118,
+        "have": 604
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32490147,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Bella Union",
+        "Bella Union",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 065019 688293",
+        "5 065019 688453",
+        "LC13566"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32490147-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1622V",
+      "thumb": "https://i.discogs.com/ven0ER9mXzW6bZbR41MYVfrbfJxWN3lxb3BN1zWFriU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDkw/MTQ3LTE3MzUyOTkz/NDktOTc3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-wEGa9O_uvpm7qBwiktG5n2rpvNwHweniO5rnkEv1cA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDkw/MTQ3LTE3MzUyOTkz/NDktOTc3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32490147",
+      "community": {
+        "want": 53,
+        "have": 114
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue & Silver Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32312274,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House",
+        "Record Technology Incorporated",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16660 6",
+        "SP-1666-A CB 44272.1(3)",
+        "SP-1666-B CB 442272.2 444272.B(3)",
+        "SP-1666-C CB 44272.3(3)...",
+        "SP-1666-D CB 44272.4(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32312274-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/SD8xzA-UKZlsCm212S_knj5sMleS7_WNaqtYQSQSaS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEy/Mjc0LTE3MzI3NTQ5/NzctODc2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vgu_R8RhZUW_lFET_ksCiF1R7m4MBhBZM2IE0ATvySY/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEy/Mjc0LTE3MzI3NTQ5/NzctODc2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32312274",
+      "community": {
+        "want": 191,
+        "have": 2714
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Teal Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32803695,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "UK & Ireland",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Bella Union Records",
+        "Sub Pop"
+      ],
+      "type": "release",
+      "barcode": [
+        "5065019688378"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32803695-Father-John-Misty-Mahashmashana",
+      "catno": "BELLA1522CS",
+      "thumb": "https://i.discogs.com/gZ8DvDe4tJ0o7MoFlXLxTDmlWn_crY5Q-JWV_z2UNUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODAz/Njk1LTE3MzY1MDY0/OTMtMzQ1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XyKHDyqV9zCJSZlDQLDSQgVMSsxPuKXT3b7udYtZiks/rs:fit/g:sm/q:90/h:650/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODAz/Njk1LTE3MzY1MDY0/OTMtMzQ1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32803695",
+      "community": {
+        "want": 24,
+        "have": 15
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32308731,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Sub Pop",
+        "Vinyl Me, Please",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Joshua Tillman",
+        "Joshua Tillman"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16660 6",
+        "0 98787 16663 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32308731-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/RCwf-3XcT36quBYS4XYkTRfBDUqjVvLDIhdJ4R0lelQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzEtNjc1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-mlqpRfkdZzTO0p9jDQHDuGlDFreqcdyi5MP63wbV2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzEtNjc1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32308731",
+      "community": {
+        "want": 169,
+        "have": 479
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Silver Metallic",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32338149,
+      "title": "Father John Misty - Mahashmashana",
+      "master_id": 3659271,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Sub Pop",
+        "Fivestarstudios",
+        "Fivestarstudios",
+        "Eastwest Studios",
+        "Eastwest Studios",
+        "United Recording Studios",
+        "United Recording Studios",
+        "Drew's House",
+        "Drew's House"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 98787 16660 6",
+        "0 98787 16773 3",
+        "SP-1666-A",
+        "44272.1 (3)",
+        "SP-1666-B",
+        "44272.2 (3)",
+        "SP-1666-C",
+        "44272.3 (3)",
+        "SP-1666-D",
+        "44272.4 (3)"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3659271",
+      "uri": "/release/32338149-Father-John-Misty-Mahashmashana",
+      "catno": "SP-1666",
+      "thumb": "https://i.discogs.com/vmMNsCMqob4YF_p6UiN0C9Ur791bjSOVrZcIZ57Wn44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzM4/MTQ5LTE3MzIwNTA2/MjYtNzA2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/C1LdN2_mCyHDuShUF-ixUfxt5T5GyAGU5oGVtgA6qDM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzM4/MTQ5LTE3MzIwNTA2/MjYtNzA2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32338149",
+      "community": {
+        "want": 103,
+        "have": 349
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue w/ Silver Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3659271,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Folk Rock"
+    ],
+    "main_release": 32308731,
+    "most_recent_release": 35847562,
+    "resource_url": "https://api.discogs.com/masters/3659271",
+    "uri": "https://www.discogs.com/master/3659271-Father-John-Misty-Mahashmashana",
+    "versions_url": "https://api.discogs.com/masters/3659271/versions",
+    "main_release_url": "https://api.discogs.com/releases/32308731",
+    "most_recent_release_url": "https://api.discogs.com/releases/35847562",
+    "num_for_sale": 161,
+    "lowest_price": 9.46,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-mlqpRfkdZzTO0p9jDQHDuGlDFreqcdyi5MP63wbV2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzEtNjc1OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/-mlqpRfkdZzTO0p9jDQHDuGlDFreqcdyi5MP63wbV2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzEtNjc1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/RCwf-3XcT36quBYS4XYkTRfBDUqjVvLDIhdJ4R0lelQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzEtNjc1OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/35xyyOuhjY2aBYuvdHjWrwXpGGgexdM6AU3666jfw4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzMtMzkzNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/35xyyOuhjY2aBYuvdHjWrwXpGGgexdM6AU3666jfw4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzMtMzkzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/e9Jj0O_f89oVtZDKf5KU2iwZhM2ZCJ4VFAAnmAKlqnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzMtMzkzNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kN2WZvPyOyQUNApsOTAPGvWIZgaQ-vzrKy_iY4jNAgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMzkxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kN2WZvPyOyQUNApsOTAPGvWIZgaQ-vzrKy_iY4jNAgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMzkxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lguxhtv3X1WAEp4-Kjro1ejluvskeANMu2uJ8FvVl1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMzkxMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZHy8bn09cjT-YoZ8PLyuvdIcme3saDK6hTMS-t6B4zw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMjU2NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZHy8bn09cjT-YoZ8PLyuvdIcme3saDK6hTMS-t6B4zw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMjU2NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YJLLrpoyGvKaWeGTRm8TZ49BnibFkl6O90VFRHl8U2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzA4/NzMxLTE3MzE3ODA1/MzItMjU2NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 288
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Mahashmashana",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "She Cleans Up",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Josh Tillman And The Accidental Dose",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Mental Health",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Screamland",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Being You",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "I Guess Time Just Makes Fools Of Us All",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Summer\u2019s Gone",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Father John Misty",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2607662,
+        "resource_url": "https://api.discogs.com/artists/2607662",
+        "thumbnail_url": "https://i.discogs.com/Ti_jNS4XWxw-pKaIVhtH06NOkz7YStvGEu_T8F3gH1o/rs:fit/g:sm/q:90/h:381/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MDc2/NjItMTc3MzYxMTc4/OC01MTc5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Mahashmashana",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=DV_JHlxfFDA",
+        "title": "Father John Misty - Mahashmashana (Visualizer)",
+        "description": "\u201cMahashmashana\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nInstagram: https://www.inst",
+        "duration": 560,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pVzu0M0LWTM",
+        "title": "Father John Misty - She Cleans Up (Official Video)",
+        "description": "The official video for \u201cShe Cleans Up\u201d by Father John Misty from the upcoming album \u2018Mahashmashana,\u2019 out November 22nd. \nPre-Order Album & Stream \u201cShe Cleans Up\u201d: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial St",
+        "duration": 271,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=e-aPRow5Fi0",
+        "title": "Father John Misty - Josh Tillman and the Accidental Dose (Official Video)",
+        "description": "\u201cJosh Tillman and the Accidental Dose\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nInst",
+        "duration": 313,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SMQ8jmKdRXE",
+        "title": "Father John Misty - Mental Health (Visualizer)",
+        "description": "\u201cMental Health\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nInstagram: https://www.inst",
+        "duration": 389,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Kdzl-j24Ut8",
+        "title": "Father John Misty - Screamland (Official Video)",
+        "description": "\"Screamland\" by Father John Misty  \nFrom the upcoming album \u2018Mahashmashana\u2019, out November 22nd. \nPre-Order Album & Stream \u201cScreamland\u201d: https://fjm.ffm.to/mahashmashana\n\nDirector/Editor: Estefania Kr\u00f6l\nVideo Production House: KR\u00d6LHAUS\nwww.estefaniakrol.co",
+        "duration": 416,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=R3n3rmHgnOg",
+        "title": "Father John Misty - Being You (Visualizer)",
+        "description": "\u201cBeing You\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nInstagram: https://www.instagra",
+        "duration": 314,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=S0EbxLrqUKU",
+        "title": "Father John Misty - I Guess Time Just Makes Fools of Us All (Visualizer)",
+        "description": "\u201cI Guess Time Just Makes Fools of Us All\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nI",
+        "duration": 517,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2qzRFOwAuCM",
+        "title": "Father John Misty - Summer's Gone (Official Visualizer)",
+        "description": "\u201cSummer's Gone\u201d by Father John Misty from the album, \u2018Mahashmashana,\u2019 out now.\nOrder & Stream Album: https://fjm.ffm.to/mahashmashana\n\nFather John Misty: https://fatherjohnmisty.com\nOfficial Store: https://fatherjohnmisty.store\nInstagram: https://www.inst",
+        "duration": 258,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3659271,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

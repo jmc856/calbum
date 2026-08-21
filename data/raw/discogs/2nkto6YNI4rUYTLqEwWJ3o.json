@@ -1,0 +1,2424 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886446626635",
+    "artist": "Tyler, The Creator",
+    "title": "Flower Boy",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 22590212,
+      "title": "Tyler, The Creator - Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Worldwide",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1254572564"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/22590212-TylerCreator-Flower-Boy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/HK0qzh3m5sXxyP23x2F41YtJdrcN6bc6VNTfoTYM1So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTkw/MjEyLTE2NDc4NjUw/NDItNjk1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/anOrkWLxH18eVWRgPy2OyFtjP4KVLHaXMYOwAk0G9to/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTkw/MjEyLTE2NDc4NjUw/NDItNjk1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22590212",
+      "community": {
+        "want": 80,
+        "have": 39
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11234808,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia Records",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854411329",
+        "8 89854 41132 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11234808-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/hoVhyMAsOGORjG8Ynl1jhBcVdQv19uJLTWYXxGoJsr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODA4LTE1MjU4NzUy/NzUtMjYyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ul67clflJDNYKOZ_dqrcblf205Iyyhlbuqb6QeLeuwQ/rs:fit/g:sm/q:90/h:912/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODA4LTE1MjU4NzUy/NzUtMjYyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11234808",
+      "community": {
+        "want": 868,
+        "have": 165
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Yellow",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26435510,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Chile",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Mala Onda Discos"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/26435510-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "MLND DSCS-003",
+      "thumb": "https://i.discogs.com/ugIqiv8z-RiTY9F92EL7mRA_9RMkX8q3xBzF7mjKJhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDM1/NTEwLTE2Nzg5Mzc3/MzgtNzM1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BcWreNY8XGGy3PKOB1s02C7_Pmx6sbNgFQ-z3hW0w3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDM1/NTEwLTE2Nzg5Mzc3/MzgtNzM1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26435510",
+      "community": {
+        "want": 55,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28479895,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "BMG",
+        "Sony Music Entertainment International Services GmbH",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Coldwater Studios",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Bernie Grundman Mastering",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Caroline Elleray",
+        "Universal Publishing",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "A$AP Rocky Music Publishing LLC",
+        "BMG Chrysalis",
+        "Young Money Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Better Be Good Music",
+        "The Royalty Network, Inc.",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "Minder Music",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 63062 1",
+        "889854630621",
+        "LC00162",
+        "BIEM/GEMA",
+        "ASCAP",
+        "BMI",
+        "88985441132",
+        "[Sony Music logo] 57435385/88985463062 22",
+        "IFPI LB47",
+        "IFPI 0736",
+        "IFPI 072Y",
+        "IFPI 0705"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/28479895-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985463062",
+      "thumb": "https://i.discogs.com/H8_XPSvcOxnt39487jcf3jmDzmWkQAmDEs0g1KEzehs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDc5/ODk1LTE2OTY2OTc5/MjItNTgwMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/jOWD94mcZQwHDGt706mnA_4X6bYHkkw4HsfPy1DNOyA/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDc5/ODk1LTE2OTY2OTc5/MjItNTgwMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28479895",
+      "community": {
+        "want": 137,
+        "have": 421
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Explicit Cover",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10589522,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854630621",
+        "8 89854 63062 1",
+        "A01 IFPI L329 DIDX-1086369 1",
+        "IFPI L329",
+        "IFPI 59BM",
+        "BMI",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10589522-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985463062",
+      "thumb": "https://i.discogs.com/i8qphkc8cr5DIpbDlXynW4P33ZirpIFrFCOmzlte4qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTIyLTE1MDA0ODYz/NTMtNDM0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JuldQSZfONtnUvfeFbttBSrTeE9o28kXG2T_SIuaHr8/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTIyLTE1MDA0ODYz/NTMtNDM0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10589522",
+      "community": {
+        "want": 939,
+        "have": 1473
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Explicit Cover",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27933060,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Neo Soul",
+        "Jazzy Hip-Hop",
+        "Pop Rap"
+      ],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 41132 9",
+        "56896525/88985441132RD1 21",
+        "IFPI LB47",
+        "IFPI 076Z",
+        "IFPI LP74",
+        "IFPI 1018"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/27933060-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/YZfOsE6-cz-st4BJPoYYnjDFVMMT3hoJz-8og8EnzUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTMz/MDYwLTE3MjU5NDMz/NzItODUyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9PEZH0SmYRc7Fq9mcdIL7d7XzpI1WEAHyOqdOVf4fvg/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTMz/MDYwLTE3MjU5NDMz/NzItODUyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27933060",
+      "community": {
+        "want": 189,
+        "have": 542
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14741218,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Russia",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Limited Edition",
+        "Promo",
+        "Unofficial Release",
+        "Stereo"
+      ],
+      "label": [
+        "AAA Recordings",
+        "Golfwang Production",
+        "Golfwang Production"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/14741218-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "GLF0717LP",
+      "thumb": "https://i.discogs.com/bTCI48UFgymuLYT6_HSfkqQFj8a8tBQepd7vXcnB5bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MjE4LTE1ODA2NzY4/NjEtNjY2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iHd7PWzYUazNjBShZ9DRqSxxPzAnVDmgMuJ5VpB5yPc/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MjE4LTE1ODA2NzY4/NjEtNjY2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14741218",
+      "community": {
+        "want": 756,
+        "have": 114
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellow",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Limited Edition",
+            "Promo",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26929892,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia",
+        "Sony Music Entertainment",
+        "United Record Pressing",
+        "Nashville Record Productions"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854690519",
+        "8 89854 69051 9",
+        "88985-46905-1-A WG/NRP \u24ca",
+        "88985-46905-1-B RE-1 NRP \u24ca",
+        "88985-46905-1-C RE-6 WG/NRP \u24ca",
+        "88985-46905-1-D RE-5 NRP \u24ca",
+        "AL88985469051",
+        "BL88985469051",
+        "CL88985469051",
+        "DL88985469051",
+        "ASCAP",
+        "BMI",
+        "\u24ca"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/26929892-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "889854690519",
+      "thumb": "https://i.discogs.com/qSKi9PvJFyVSXWCMqpSWJ2UAhh3pIrc-iZLmZ7DBvzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTI5/ODkyLTE2ODI4NTQw/NTItMzMxOC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/1otD4JbkqjkTLJtdxeEsLbGEMZnx1I3TpadcOMeqGeM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTI5/ODkyLTE2ODI4NTQw/NTItMzMxOC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26929892",
+      "community": {
+        "want": 373,
+        "have": 1743
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10728109,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Columbia Records",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Nashville Record Productions",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 78941 1",
+        "889854789411",
+        "AL88985478941",
+        "88985-46905-1-A WG/NRP \u24e4",
+        "BL88985478941",
+        "88985 46905-1-B-RE-1 NRP \u24e4",
+        "CL88985478941",
+        "88985-46905-1-C-RE-6 WG/NRP \u24e4",
+        "DL88985478941",
+        "88985 46905-1-D-RE-5 NRP \u24e4",
+        "\u24e4",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10728109-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985478941",
+      "thumb": "https://i.discogs.com/rj0pfFCN5F90YjwwnnrirmEBcK_T3GNwxD8K4V9SUvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MTA5LTE1MDU4NDM1/MzUtOTEwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bSIDBbK69kWza--KhjUy8g_a5p-fspPlVfqG-oIcyXc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MTA5LTE1MDU4NDM1/MzUtOTEwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10728109",
+      "community": {
+        "want": 9240,
+        "have": 9233
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellow (Bumble Bee) Translucent, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26664608,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Russia",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/26664608-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Qd4rwo-d66hfqVvoJXmIQG9OpPrTKmLlsl6-CpnNGQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY0/NjA4LTE2ODA3NTE1/ODUtMzU2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FdtOyZgpZo33mAzBuBwU5OOQo3wgibkIZK5iAGUnuyk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY0/NjA4LTE2ODA3NTE1/ODUtMzU2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26664608",
+      "community": {
+        "want": 99,
+        "have": 2
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11234839,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Bernie Grundman Mastering",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854775643"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11234839-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/czGpDoejxFFoEpJVFPboRGBEKjv2xq7Q24TFMLAvcbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODM5LTE1MjU4Nzg2/ODMtMzk1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n7N5VLg4dHMl6WwcbMjjDSQCxFKX_59soVTHhizmiZ0/rs:fit/g:sm/q:90/h:912/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODM5LTE1MjU4Nzg2/ODMtMzk1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11234839",
+      "community": {
+        "want": 771,
+        "have": 244
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23375357,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854690519",
+        "8 89854 69051 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/23375357-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985469051",
+      "thumb": "https://i.discogs.com/Cq3eQVUnQUaclIYZUrFkllWJGdITvc0ZetbqKIQr10U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc1/MzU3LTE2NTM2NzE5/MTAtMzY5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0Xu3XJQvKQiGBz3vigLm9v70YprdluqS3O2PNTnI0gQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc1/MzU3LTE2NTM2NzE5/MTAtMzY5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23375357",
+      "community": {
+        "want": 1850,
+        "have": 30467
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11234827,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Bernie Grundman Mastering",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854411329",
+        "8 89854 41132 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11234827-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/7OSRBHFyFw1dQ5cumMOZI6H2ygHfRJzpX0Zl3T7IA-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODI3LTE1MjU4NzYz/ODEtNDUyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hu_BoquUVoX7jwW5_BJz6kKXdjSOlBxzGD4iLScu-ZQ/rs:fit/g:sm/q:90/h:912/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODI3LTE1MjU4NzYz/ODEtNDUyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11234827",
+      "community": {
+        "want": 770,
+        "have": 146
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11196546,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Bernie Grundman Mastering",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854411329",
+        "8 89854 41132 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11196546-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/K7heVZnQWqnJPfCmW8smxqccDaBLHlY5Ahb3TQmEGoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk2/NTQ2LTE1MjU4NzYx/NjEtMzI4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_zIz5DuMzIGTuSc0nKiuspVCtrLuW8IgAWA-6tOCrrg/rs:fit/g:sm/q:90/h:912/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk2/NTQ2LTE1MjU4NzYx/NjEtMzI4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11196546",
+      "community": {
+        "want": 901,
+        "have": 200
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Pink",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11195697,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia",
+        "Sony Music Entertainment",
+        "United Record Pressing",
+        "Nashville Record Productions"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854690519",
+        "8 89854 69051 9",
+        "88985-46905-1-A WG/NRP \u24ca",
+        "88985-46905-1-B RE-1 NRP \u24ca",
+        "88985-46905-1-C RE-6 WG/NRP \u24ca",
+        "88985-46905-1-D RE-5 NRP \u24ca",
+        "88985-46905-1-A-RE-2 III NRP \u24ca",
+        "88985-46905-1-B-RE-2 NRP \u24ca",
+        "88985-46905-1-C-RE-2 NRP \u24ca",
+        "88985-46905-1-D RE-2 III NRP \u24ca",
+        "AL88985469051",
+        "BL88985469051",
+        "CL88985469051",
+        "DL88985469051",
+        "ASCAP",
+        "BMI",
+        "\u24ca"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11195697-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985469051",
+      "thumb": "https://i.discogs.com/S4IiXeBQ8u99vfa517_P0RVzsYt1cYlnHVaJEjK80GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk1/Njk3LTE1MTM5OTgz/ODktMjY2Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/QW7IXSNEfBqsNoIpLN9DobwxtFZXMO9fwwFsmmpgCeg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk1/Njk3LTE1MTM5OTgz/ODktMjY2Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11195697",
+      "community": {
+        "want": 7888,
+        "have": 34833
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26508608,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment International Services GmbH",
+        "Optimal Media GmbH",
+        "Coldwater Studios",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 41132 9",
+        "0889854411329",
+        "LC00162",
+        "BIEM/GEMA",
+        "AH85762-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9702"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/26508608-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/eVLeSAunxudzwiLoq-ZE8yTrgfGnqrka1exfdCJ3d9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjA4LTE2Nzk1NzQw/MjEtNDM5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QkhrwpxLHZm8WEpOvyRiBQ04twuLbuNIBDopUdVCAfU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA4/NjA4LTE2Nzk1NzQw/MjEtNDM5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26508608",
+      "community": {
+        "want": 304,
+        "have": 444
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Censored Cover",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10806811,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "USA, Canada & Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10806811-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/2mFUrLxFC8hm1RiUSqzftVEIRaVkS7BUutPPlxtqU_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA2/ODExLTE1MDQ2MjU2/NjAtNzAzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LgPpUqSVx07BB6WE-WIuIzeCgf9bCsUrSL1vE_aphwA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA2/ODExLTE1MDQ2MjU2/NjAtNzAzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10806811",
+      "community": {
+        "want": 966,
+        "have": 399
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear ",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10598982,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Bernie Grundman Mastering",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854411329",
+        "8 89854 41132 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10598982-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/uTdLhEN2vj-zTe-fWWLCWlepfLYnj5e7KcoiAbvXe9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk4/OTgyLTE1MDA2ODMz/MTYtODcwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7rBOzzFJ35ozZaHQuL44__yvemc5G_9BBUxkoJrbOEM/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk4/OTgyLTE1MDA2ODMz/MTYtODcwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10598982",
+      "community": {
+        "want": 622,
+        "have": 324
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Explicit Cover, Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10589554,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Bernie Grundman Mastering",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 41132 9",
+        "0889854411329",
+        "IFPI L329",
+        "IFPI 50BM",
+        "A01 DIDX-1086369 1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10589554-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985441132",
+      "thumb": "https://i.discogs.com/jFLr8V3kEz6oyeRH6wczuI4RHv8-xmPjQ8HavzBDies/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTMtMjU0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GR4uuBjiQsfYFl5n4oJMO_i8VpcaBE1nXqiqbDKJjSQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTMtMjU0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10589554",
+      "community": {
+        "want": 2911,
+        "have": 7472
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Censored Cover, Digisleeve",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10666007,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "BMG",
+        "Sony Music Entertainment International Services GmbH",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Optimal Media GmbH",
+        "Coldwater Studios",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Bernie Grundman Mastering",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Caroline Elleray",
+        "Universal Publishing",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "A$AP Rocky Music Publishing LLC",
+        "BMG Chrysalis",
+        "Young Money Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Better Be Good Music",
+        "The Royalty Network, Inc.",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "Minder Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 63062 1",
+        "889854630621",
+        "LC00162",
+        "BIEM/GEMA",
+        "ASCAP",
+        "BMI",
+        "88985441132",
+        "AH85762-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9702",
+        "AH85762-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9759"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/10666007-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985463062",
+      "thumb": "https://i.discogs.com/sh5u30PpFJMXsKbBODNGjmVkwmj_5PeidBH4kr028zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY2/MDA3LTE1MDI5OTIy/NjYtOTI5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zSSd3US62RF2VgLCu6qG71qEsSEyScp6EFuMaLPcT0I/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY2/MDA3LTE1MDI5OTIy/NjYtOTI5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10666007",
+      "community": {
+        "want": 729,
+        "have": 1258
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Explicit Cover",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11316793,
+      "title": "Tyler, The Creator - Scum Fuck Flower Boy",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Paramount Recording Studios",
+        "Chalice Recording Studios",
+        "Golf Wang Steak Sauce",
+        "Young Money Publishing, Inc.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Minder Music Ltd.",
+        "Heaven's Research",
+        "BMG Bumblebee",
+        "BMG Chrysalis",
+        "Wb Music Corp.",
+        "Roy Ayers Ubiquity, Inc.",
+        "ASAP Rocky Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Better Be Good Music",
+        "The Royalty Network",
+        "Universal Music Publishing",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia",
+        "Sony Music Entertainment",
+        "SST GmbH",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 69051 9",
+        "889854690519",
+        "88985469051 A 121895 MPO SST AL",
+        "88985469051 B 121895 SST AL MPO",
+        "88985469051 C 121896 MPO SST AL",
+        "88985469051 D 121896 SST AL MPO",
+        "BIEM/GEMA",
+        "ASCAP",
+        "BMI",
+        "LC00162",
+        "MPO"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11316793-TylerCreator-Scum-Fuck-Flower-Boy",
+      "catno": "88985469051",
+      "thumb": "https://i.discogs.com/BLUQEtnh9RfLpQ5xziQrkp1bownGtYmWLO4U2DkKPzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/NzkzLTE1NzQ1MDc2/MzItODQwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Sa3FBlEN7JxQjm45VekyijW9dsoZf7kZoRgd_Ny9wvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE2/NzkzLTE1NzQ1MDc2/MzItODQwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11316793",
+      "community": {
+        "want": 2721,
+        "have": 15977
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold, MPO Pressing",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11029298,
+      "title": "Tyler, The Creator - Flower Boy = \u30d5\u30e9\u30ef\u30fc\u30fb\u30dc\u30fc\u30a4",
+      "master_id": 1212609,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Sony Records Int'l",
+        "Sony Music Labels Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "4 547366 323573"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1212609",
+      "uri": "/release/11029298-TylerCreator-Flower-Boy-%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4",
+      "catno": "SICP 5610",
+      "thumb": "https://i.discogs.com/1_o1VFfEbENopOIpGRdoeRFd1IpwBx2n0F82TJXtGiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI5/Mjk4LTE1MTEzMDI5/NzYtOTgzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xL9MIRT4y2unjoIMLiXOyzMhEZGnCYV2mwqNfvyaX_w/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI5/Mjk4LTE1MTEzMDI5/NzYtOTgzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11029298",
+      "community": {
+        "want": 660,
+        "have": 136
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1212609,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Jazzy Hip-Hop",
+      "Pop Rap",
+      "Neo Soul"
+    ],
+    "main_release": 10589554,
+    "most_recent_release": 33806358,
+    "resource_url": "https://api.discogs.com/masters/1212609",
+    "uri": "https://www.discogs.com/master/1212609-TylerCreator-Scum-Fuck-Flower-Boy",
+    "versions_url": "https://api.discogs.com/masters/1212609/versions",
+    "main_release_url": "https://api.discogs.com/releases/10589554",
+    "most_recent_release_url": "https://api.discogs.com/releases/33806358",
+    "num_for_sale": 534,
+    "lowest_price": 5.81,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/GR4uuBjiQsfYFl5n4oJMO_i8VpcaBE1nXqiqbDKJjSQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTMtMjU0Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GR4uuBjiQsfYFl5n4oJMO_i8VpcaBE1nXqiqbDKJjSQ/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTMtMjU0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jFLr8V3kEz6oyeRH6wczuI4RHv8-xmPjQ8HavzBDies/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTMtMjU0Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 526
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gn81dNiiWHQEH1ynFkA2wKeKmtCnmBqa9Mo7sKS7Xgk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtMTUwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/gn81dNiiWHQEH1ynFkA2wKeKmtCnmBqa9Mo7sKS7Xgk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtMTUwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pSxycYO5gG2eQzSpwpup0fqdB7Xo9iEBm8qpQraNCXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtMTUwOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 530
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/azt4GKBRbdiBPBnmNjzGww5Z58Ue8o5ScIj6gp3GJ6A/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtODk0My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/azt4GKBRbdiBPBnmNjzGww5Z58Ue8o5ScIj6gp3GJ6A/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtODk0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LUn7Lf3MobIYQvCe0xv_77KzWZnL3SW0UUXmGH3YGuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtODk0My5qcGVn.jpeg",
+        "width": 600,
+        "height": 530
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lNDOasNB_YUeuTnX018ODlwTvMcI9W0gB6QZBoV0wgM/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtOTQ2Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lNDOasNB_YUeuTnX018ODlwTvMcI9W0gB6QZBoV0wgM/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtOTQ2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ei5ilPGX3eo9ACDTJI6eGPb1Nc6Ws0O0nco5zvWT59s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NTAtOTQ2Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 511
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/J1OUBmPRBd0sUv2Cy-GjgUujJgWTWEqBE7V5WkKnTPU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/ODQtNzQ2Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/J1OUBmPRBd0sUv2Cy-GjgUujJgWTWEqBE7V5WkKnTPU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/ODQtNzQ2Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2CZB3LbHV6lzCRozbFOGQCC4hUh0aMeoagnf10QTzoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/ODQtNzQ2Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kFfk7bFMslOrti47R9siYlFH9le6IB1SBv5OeTuhzlA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NDgtMjQwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kFfk7bFMslOrti47R9siYlFH9le6IB1SBv5OeTuhzlA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NDgtMjQwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ajdy1McGyQIJmt94ZHDSy9MSc9Jacc-vU4pZ73s0QVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE3NDgyODg0/NDgtMjQwMC5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/p03J4bYJ73jCvCqRku7LlGsa56FCAO_umoYIO55zw3k/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTQtNjEzMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/p03J4bYJ73jCvCqRku7LlGsa56FCAO_umoYIO55zw3k/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTQtNjEzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Koa2joHS9gzJj32Pb1J0ctZY0dNwGkZsrrT7bDMfIpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg5/NTU0LTE1MDA0ODY2/MTQtNjEzMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 530
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Foreword",
+        "extraartists": [
+          {
+            "name": "Rex Orange County",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5729537,
+            "resource_url": "https://api.discogs.com/artists/5729537"
+          },
+          {
+            "name": "Austin Feinstein",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 4359941,
+            "resource_url": "https://api.discogs.com/artists/4359941"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Alex O'Connor",
+            "anv": "A. O'Connor",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6068121,
+            "resource_url": "https://api.discogs.com/artists/6068121"
+          },
+          {
+            "name": "Damo Suzuki",
+            "anv": "D. Suzuki",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 110310,
+            "resource_url": "https://api.discogs.com/artists/110310"
+          },
+          {
+            "name": "Holger Sch\u00fcring",
+            "anv": "H. Sch\u00fcring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1666022,
+            "resource_url": "https://api.discogs.com/artists/1666022"
+          },
+          {
+            "name": "Irmin Schmidt",
+            "anv": "I. Schmidt",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 92183,
+            "resource_url": "https://api.discogs.com/artists/92183"
+          },
+          {
+            "name": "Jaki Liebezeit",
+            "anv": "J. Liebezeit",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 48582,
+            "resource_url": "https://api.discogs.com/artists/48582"
+          },
+          {
+            "name": "Michael Karoli",
+            "anv": "M. Karoli",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 120164,
+            "resource_url": "https://api.discogs.com/artists/120164"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:13"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Where This Flower Blooms",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:14"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Sometimes...",
+        "extraartists": [
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Shane Powers",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 4359942,
+            "resource_url": "https://api.discogs.com/artists/4359942"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "0:36"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "See You Again",
+        "extraartists": [
+          {
+            "name": "Kali Uchis",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3741760,
+            "resource_url": "https://api.discogs.com/artists/3741760"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:00"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Who Dat Boy",
+        "extraartists": [
+          {
+            "name": "ASAP Rocky",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2409771,
+            "resource_url": "https://api.discogs.com/artists/2409771"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Rakim Mayers",
+            "anv": "R. Mayers",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2790999,
+            "resource_url": "https://api.discogs.com/artists/2790999"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:24"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Pothole",
+        "extraartists": [
+          {
+            "name": "Alexander Brettin",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 3543121,
+            "resource_url": "https://api.discogs.com/artists/3543121"
+          },
+          {
+            "name": "Jaden Smith",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2037284,
+            "resource_url": "https://api.discogs.com/artists/2037284"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Roy Ayers",
+            "anv": "R. Ayers",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2265,
+            "resource_url": "https://api.discogs.com/artists/2265"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:56"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Garden Shed",
+        "extraartists": [
+          {
+            "name": "Rex Orange County",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 5729537,
+            "resource_url": "https://api.discogs.com/artists/5729537"
+          },
+          {
+            "name": "Estelle",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 39946,
+            "resource_url": "https://api.discogs.com/artists/39946"
+          },
+          {
+            "name": "Austin Feinstein",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 4359941,
+            "resource_url": "https://api.discogs.com/artists/4359941"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Estelle Swaray",
+            "anv": "E. Swaray",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 369550,
+            "resource_url": "https://api.discogs.com/artists/369550"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:43"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Boredom",
+        "extraartists": [
+          {
+            "name": "Corinne Bailey Rae",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 237379,
+            "resource_url": "https://api.discogs.com/artists/237379"
+          },
+          {
+            "name": "Anna Of The North",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4959950,
+            "resource_url": "https://api.discogs.com/artists/4959950"
+          },
+          {
+            "name": "Rex Orange County",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5729537,
+            "resource_url": "https://api.discogs.com/artists/5729537"
+          },
+          {
+            "name": "Austin Feinstein",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 4359941,
+            "resource_url": "https://api.discogs.com/artists/4359941"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "5:20"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "I Ain't Got Time!",
+        "extraartists": [
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:26"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "911 / Mr. Lonely",
+        "extraartists": [
+          {
+            "name": "ASAP Rocky",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 2409771,
+            "resource_url": "https://api.discogs.com/artists/2409771"
+          },
+          {
+            "name": "Anna Of The North",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 4959950,
+            "resource_url": "https://api.discogs.com/artists/4959950"
+          },
+          {
+            "name": "Davon Wilson",
+            "anv": "Davon \"Jasper\" Wilson",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 2243824,
+            "resource_url": "https://api.discogs.com/artists/2243824"
+          },
+          {
+            "name": "Lionel Boyce",
+            "anv": "Lionel \"L. Boy\" Boyce",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 3283337,
+            "resource_url": "https://api.discogs.com/artists/3283337"
+          },
+          {
+            "name": "Schoolboy Q",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 2353545,
+            "resource_url": "https://api.discogs.com/artists/2353545"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Steve Lacy (4)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4740695,
+            "resource_url": "https://api.discogs.com/artists/4740695"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Raymond Calhoun",
+            "anv": "R. Calhoun",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 394031,
+            "resource_url": "https://api.discogs.com/artists/394031"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "4:15"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Droppin' Seeds",
+        "extraartists": [
+          {
+            "name": "Lil Wayne",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1065010,
+            "resource_url": "https://api.discogs.com/artists/1065010"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Dwayne Carter",
+            "anv": "D. Carter Jr.",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 689691,
+            "resource_url": "https://api.discogs.com/artists/689691"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "1:00"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "November",
+        "extraartists": [
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Glitter",
+        "extraartists": [
+          {
+            "name": "Steve Lacy (4)",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 4740695,
+            "resource_url": "https://api.discogs.com/artists/4740695"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Enjoy Right Now, Today",
+        "extraartists": [
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Pharrell Williams",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 90037,
+            "resource_url": "https://api.discogs.com/artists/90037"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "3:55"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Tyler, The Creator",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1967268,
+        "resource_url": "https://api.discogs.com/artists/1967268",
+        "thumbnail_url": "https://i.discogs.com/-wyQjw_vvgKo4DAiU82_JbPZt-Do6F-RGT4dZ6jiavQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjgtMTMwNTA5NjIy/OC5qcGVn.jpeg"
+      }
+    ],
+    "title": "Scum Fuck Flower Boy",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=OB12BslMI3Q",
+        "title": "Tyler The Creator - Scum Fuck Flower Boy [Full Album]",
+        "description": "A Banging new album by Tyler The Creator.\nTracklist:\n1.Foreword (Ft. Can & Rex Orange County)\n2.Where This Flower Blooms (Ft. Frank Ocean)\n3.Sometimes...\n4.See You Again (Ft. Kali Uchis)\n5.Who Dat Boy (Ft. A$AP Rocky)\n6.Pothole (Ft. Jaden Smith)\n7.Garden ",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1212609,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

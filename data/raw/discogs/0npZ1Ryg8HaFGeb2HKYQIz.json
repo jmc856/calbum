@@ -1,0 +1,201 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "093624884507",
+    "artist": "Zach Bryan",
+    "title": "DeAnn",
+    "year": 2019
+  },
+  "results": [
+    {
+      "id": 18294358,
+      "title": "Zach Bryan - DeAnn",
+      "master_id": 2231182,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Country"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Belting Bronco Records",
+        "Warner Records Inc.",
+        "Belting Bronco Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2231182",
+      "uri": "/release/18294358-Zach-Bryan-DeAnn",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/U9cHNV6pS7Tt_FgfTqlm31B49msBrJNkHEzIG4Q_hIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/MzU4LTE2MTg0MTQx/MDUtMzcxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4AwD0S9adA4Mab33kD0XbYLu7Ninm7twVmMwCt4b-pA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/MzU4LTE2MTg0MTQx/MDUtMzcxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18294358",
+      "community": {
+        "want": 177,
+        "have": 176
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2231182,
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk",
+      "Country"
+    ],
+    "main_release": 18294358,
+    "most_recent_release": 19518703,
+    "resource_url": "https://api.discogs.com/masters/2231182",
+    "uri": "https://www.discogs.com/master/2231182-Zach-Bryan-DeAnn",
+    "versions_url": "https://api.discogs.com/masters/2231182/versions",
+    "main_release_url": "https://api.discogs.com/releases/18294358",
+    "most_recent_release_url": "https://api.discogs.com/releases/19518703",
+    "num_for_sale": 51,
+    "lowest_price": 16.78,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4AwD0S9adA4Mab33kD0XbYLu7Ninm7twVmMwCt4b-pA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/MzU4LTE2MTg0MTQx/MDUtMzcxMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4AwD0S9adA4Mab33kD0XbYLu7Ninm7twVmMwCt4b-pA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/MzU4LTE2MTg0MTQx/MDUtMzcxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/U9cHNV6pS7Tt_FgfTqlm31B49msBrJNkHEzIG4Q_hIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk0/MzU4LTE2MTg0MTQx/MDUtMzcxMC5qcGVn.jpeg",
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "year": 2019,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Flying Or Crying",
+        "duration": "2:49"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Hope Again",
+        "duration": "3:01"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "God Speed",
+        "duration": "4:13"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Don't Give Up On Me",
+        "duration": "3:23"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Doing Fine",
+        "duration": "3:04"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Letting Someone Go",
+        "duration": "3:59"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Shivers Down Spines",
+        "duration": "3:00"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Snow",
+        "duration": "2:58"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Man That's Never Known You",
+        "duration": "3:05"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Moon In Oklahoma",
+        "duration": "2:59"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Condemned",
+        "duration": "2:54"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Sweet DeAnn",
+        "duration": "3:24"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Zach Bryan",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9148201,
+        "resource_url": "https://api.discogs.com/artists/9148201",
+        "thumbnail_url": "https://i.discogs.com/aNfrQoJZ_gc-9y3hZGZzEBvYBPbqWAh4PRbw7a08qQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkxNDgy/MDEtMTc0MDI5ODM2/NC00NzM0LmpwZWc.jpeg"
+      }
+    ],
+    "title": "DeAnn",
+    "data_quality": "Correct"
+  },
+  "discogs_release_id": 2231182,
+  "genres": [
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Country",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

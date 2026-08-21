@@ -1,0 +1,1276 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00888072111790",
+    "artist": "Denzel Curry",
+    "title": "ZUU",
+    "year": 2019
+  },
+  "results": [
+    {
+      "id": 13706064,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2019",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13706064-Denzel-Curry-Zuu",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/BgAulR25L3x83MV1nsIetkx1sjJn9E47eexTtYF0Krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fhAVryUtH54CFbkjKQOqoJCeiB4umJcHzXGfw_L_4GQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13706064",
+      "community": {
+        "want": 168,
+        "have": 164
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23513525,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (Denzel Curry Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/23513525-Denzel-Curry-Zuu",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/nRk8eZ331Uh40Z-7L88tszYftNnVYJiOCMdO9AL1108/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTEz/NTI1LTE2NTQ3Mzc2/OTYtNjU0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/M2jmypikL3SO805DXnqo5R29iuDiZZ-8F6MpESLO-Wg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTEz/NTI1LTE2NTQ3Mzc2/OTYtNjU0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23513525",
+      "community": {
+        "want": 14,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24b/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13897896,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Hardcore Hip-Hop",
+        "Gangsta"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Concord Music Group, Inc.",
+        "Concord Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "888072106604",
+        "(1084629) X6.4.LVR00697.SA.1 01",
+        "IFPI L247",
+        "IFPI KK7H"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13897896-Denzel-Curry-Zuu",
+      "catno": "LVR00697",
+      "thumb": "https://i.discogs.com/JQrfvzvHt5kFgony_NevooF2mRz09-0ApJxN3omTXvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk3/ODk2LTE1NjUxMTky/OTUtOTE1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ry1n6WJr6hlnKBDLiDS_hkityblVUGgDR6gBjABr87M/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk3/ODk2LTE1NjUxMTky/OTUtOTE1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13897896",
+      "community": {
+        "want": 237,
+        "have": 612
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13972367,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Loma Vista Recordings",
+        "Concord Music Group, Inc.",
+        "Concord Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "888072098060",
+        "8 8807209806 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13972367-Denzel-Curry-Zuu",
+      "catno": "LVR00653",
+      "thumb": "https://i.discogs.com/ByViCaIBnU35CfdQMvpkeDwQl1kPgSd-bqMCf04qZlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/MzY3LTE1NjUyNzk3/MjEtMzkzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xS7a1zH0J_Xnt0YZxCmncMFw-5dwdblHH8_5-TwRTzA/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/MzY3LTE1NjUyNzk3/MjEtMzkzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13972367",
+      "community": {
+        "want": 687,
+        "have": 2239
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14041858,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "Europe",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "Caroline International"
+      ],
+      "type": "release",
+      "barcode": [
+        "888072098060",
+        "8 8807209806 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/14041858-Denzel-Curry-Zuu",
+      "catno": "LVR00653",
+      "thumb": "https://i.discogs.com/bpPwnKFKQFsQ_kA76NNgX_WqhL6bPhojgnTJvF6dLw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQx/ODU4LTE2ODEzODA2/NzItMTE2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lf7F61CytbmTnP9AYHdKKtL2raIR6yYplfY8ZSsI4IE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQx/ODU4LTE2ODEzODA2/NzItMTE2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14041858",
+      "community": {
+        "want": 416,
+        "have": 1298
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13983306,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Loma Vista",
+        "Vinyl Me, Please",
+        "Vinyl Me, Please. Exclusive Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "8807209806"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13983306-Denzel-Curry-Zuu",
+      "catno": "LVR00653",
+      "thumb": "https://i.discogs.com/28IhdNTsVcrlk2MK9Ohk3m3a5EtfvzIOPR9yniibJSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgz/MzA2LTE1NjU5NjQw/OTctODQ2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fielx1-N2LYm_TFn4tmkki8DmAtVL97BbN9N_mWsMpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgz/MzA2LTE1NjU5NjQw/OTctODQ2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13983306",
+      "community": {
+        "want": 890,
+        "have": 731
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear with Green/Orange Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13913470,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Loma Vista",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13913470-Denzel-Curry-Zuu",
+      "catno": "LVR00653",
+      "thumb": "https://i.discogs.com/YmvOG1m7AAiWjdopXNpUfiiDJhvK6ot-D9M0BMAFDws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEz/NDcwLTE1NjQwMDg3/MDAtODkzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kgji6_ezC-C9F_LAPvuvUEuprznwKM847za2ZXbujE8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTEz/NDcwLTE1NjQwMDg3/MDAtODkzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13913470",
+      "community": {
+        "want": 594,
+        "have": 645
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13977232,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Box Set",
+        "Album",
+        "Limited Edition",
+        "Special Edition",
+        "Vinyl",
+        "7\"",
+        "45 RPM"
+      ],
+      "label": [
+        "Loma Vista",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8807210873 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13977232-Denzel-Curry-Zuu",
+      "catno": "LVR00707",
+      "thumb": "https://i.discogs.com/4-o07vvbI1lx0UjurlLb6lgl1r8ElsKqo45r1U6xnvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/MjMyLTE1NjUzMjQx/MDYtNTA0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/z_saCMh2KytpGA9ZJV8evZuWHuk5ZkScfFajwZKkh5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/MjMyLTE1NjUzMjQx/MDYtNTA0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13977232",
+      "community": {
+        "want": 532,
+        "have": 649
+      },
+      "format_quantity": 6,
+      "formats": [
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Special Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "6",
+          "text": "Green",
+          "descriptions": [
+            "7\"",
+            "45 RPM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14013189,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Gangsta",
+        "Hardcore Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "Sterling Sound",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Concord Music Group, Inc.",
+        "Concord Music Group, Inc.",
+        "Sterling Sound",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "888072098060",
+        "JN-H STERLING A8 LVR00653-A",
+        "JN-H STERLING B8 LVR00653-B",
+        "JN-H STERLING # LVR00653-A",
+        "JN-H STERLING LVR00653-B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/14013189-Denzel-Curry-Zuu",
+      "catno": "LVR00653",
+      "thumb": "https://i.discogs.com/o7cQPZ5lrNI_wiqo6GNNsivic1TShP2TyKK6jJls_GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEz/MTg5LTE1NzQyMTEy/MDQtNjkxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9SZolxBTcr4qW8VMyt1-jIv3y1utZAiP2-4AalYJhdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEz/MTg5LTE1NzQyMTEy/MDQtNjkxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14013189",
+      "community": {
+        "want": 687,
+        "have": 3322
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green Transparent, 180g",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14653777,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Hardcore Hip-Hop",
+        "Gangsta"
+      ],
+      "country": "Europe",
+      "year": "2019",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Loma Vista",
+        "Caroline International",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Optimal Media GmbH",
+        "Loma Vista Recordings",
+        "Caroline International",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8807210660 4",
+        "[Universal logo] 7210660 [Universal logo] AJ75041-01 manufactured by optimal media GmbH",
+        "IFPI L577"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/14653777-Denzel-Curry-Zuu",
+      "catno": "LVR00697",
+      "thumb": "https://i.discogs.com/H3QKHjZEIzMrDjDITOTKiy6_wUjATWo0vxsdt9XGuwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUz/Nzc3LTE3NjY2NTg5/MjgtNjk3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rc6MeJTYXTUE81lhcaazXMEJxbhwPNxVuKP6bJYh6Ss/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUz/Nzc3LTE3NjY2NTg5/MjgtNjk3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14653777",
+      "community": {
+        "want": 114,
+        "have": 312
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13846753,
+      "title": "Denzel Curry - Zuu",
+      "master_id": 1573890,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Trap",
+        "Hardcore Hip-Hop",
+        "Gangsta"
+      ],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Loma Vista",
+        "PH Recordings, LLC",
+        "PH Recordings, LLC",
+        "Concord Music Group, Inc.",
+        "Concord Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1573890",
+      "uri": "/release/13846753-Denzel-Curry-Zuu",
+      "catno": "PRO-LVR00716",
+      "thumb": "https://i.discogs.com/P1ERyg21r7tK-cDSWPWEN4ITQr71dRns5buGQuwZ20o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ2/NzUzLTE1NjI0NjAx/MTEtMjI3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/om0T3lGaxgkhnegeh5JLqEPcSUbc_euIvaua9vs-mfk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ2/NzUzLTE1NjI0NjAx/MTEtMjI3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13846753",
+      "community": {
+        "want": 51,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Clean",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1573890,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Trap",
+      "Gangsta",
+      "Hardcore Hip-Hop"
+    ],
+    "main_release": 13706064,
+    "most_recent_release": 31630030,
+    "resource_url": "https://api.discogs.com/masters/1573890",
+    "uri": "https://www.discogs.com/master/1573890-Denzel-Curry-Zuu",
+    "versions_url": "https://api.discogs.com/masters/1573890/versions",
+    "main_release_url": "https://api.discogs.com/releases/13706064",
+    "most_recent_release_url": "https://api.discogs.com/releases/31630030",
+    "num_for_sale": 139,
+    "lowest_price": 5.22,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/fhAVryUtH54CFbkjKQOqoJCeiB4umJcHzXGfw_L_4GQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fhAVryUtH54CFbkjKQOqoJCeiB4umJcHzXGfw_L_4GQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/BgAulR25L3x83MV1nsIetkx1sjJn9E47eexTtYF0Krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2019,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Zuu",
+        "extraartists": [
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Keanu Beats",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5533014,
+            "resource_url": "https://api.discogs.com/artists/5533014"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          }
+        ],
+        "duration": "2:06"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Ricky",
+        "extraartists": [
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          }
+        ],
+        "duration": "2:27"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Wish",
+        "extraartists": [
+          {
+            "name": "Kiddo Marv",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 7190967,
+            "resource_url": "https://api.discogs.com/artists/7190967"
+          },
+          {
+            "name": "Charlie Heat",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3261875,
+            "resource_url": "https://api.discogs.com/artists/3261875"
+          },
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Mickey De Grand IV",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2736663,
+            "resource_url": "https://api.discogs.com/artists/2736663"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Marvin Beauville",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7200371,
+            "resource_url": "https://api.discogs.com/artists/7200371"
+          }
+        ],
+        "duration": "3:12"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Birdz",
+        "extraartists": [
+          {
+            "name": "Rick Ross",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 181022,
+            "resource_url": "https://api.discogs.com/artists/181022"
+          },
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "William Roberts (2)",
+            "anv": "William Roberts II",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 992746,
+            "resource_url": "https://api.discogs.com/artists/992746"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          }
+        ],
+        "duration": "3:24"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Automatic",
+        "extraartists": [
+          {
+            "name": "Tay Keith",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4392224,
+            "resource_url": "https://api.discogs.com/artists/4392224"
+          },
+          {
+            "name": "Tay Keith",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4392224,
+            "resource_url": "https://api.discogs.com/artists/4392224"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Mark Maturah",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7200369,
+            "resource_url": "https://api.discogs.com/artists/7200369"
+          }
+        ],
+        "duration": "3:02"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Speedboat",
+        "extraartists": [
+          {
+            "name": "Rugah Rahj",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3533324,
+            "resource_url": "https://api.discogs.com/artists/3533324"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          }
+        ],
+        "duration": "3:42"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Bushy B Interlude",
+        "extraartists": [
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Lavares Joseph",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6827968,
+            "resource_url": "https://api.discogs.com/artists/6827968"
+          }
+        ],
+        "duration": "1:05"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Yoo",
+        "extraartists": [
+          {
+            "name": "Plus Pierre",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7200367,
+            "resource_url": "https://api.discogs.com/artists/7200367"
+          }
+        ],
+        "duration": "1:04"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Carolmart",
+        "extraartists": [
+          {
+            "name": "Ice Billion Berg",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 7190968,
+            "resource_url": "https://api.discogs.com/artists/7190968"
+          },
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Jasper Harris",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 6749952,
+            "resource_url": "https://api.discogs.com/artists/6749952"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Lavares Joseph",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6827968,
+            "resource_url": "https://api.discogs.com/artists/6827968"
+          }
+        ],
+        "duration": "2:44"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Shake 88",
+        "extraartists": [
+          {
+            "name": "Sam Sneak",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3071429,
+            "resource_url": "https://api.discogs.com/artists/3071429"
+          },
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Lavares Joseph",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6827968,
+            "resource_url": "https://api.discogs.com/artists/6827968"
+          },
+          {
+            "name": "Sam Sneak",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3071429,
+            "resource_url": "https://api.discogs.com/artists/3071429"
+          },
+          {
+            "name": "Tate Kobang",
+            "anv": "Joshua Goods",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6182810,
+            "resource_url": "https://api.discogs.com/artists/6182810"
+          }
+        ],
+        "duration": "2:27"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Blackland 66.6",
+        "extraartists": [
+          {
+            "name": "Denzel Curry",
+            "anv": "Reyshod Curry",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Sam Sneak",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3071429,
+            "resource_url": "https://api.discogs.com/artists/3071429"
+          },
+          {
+            "name": "Shane Starks",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7200368,
+            "resource_url": "https://api.discogs.com/artists/7200368"
+          }
+        ],
+        "duration": "0:49"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "P.A.T.",
+        "extraartists": [
+          {
+            "name": "PlayThatBoiZay",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 7190969,
+            "resource_url": "https://api.discogs.com/artists/7190969"
+          },
+          {
+            "name": "Finatik N Zac",
+            "anv": "FNZ",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2522018,
+            "resource_url": "https://api.discogs.com/artists/2522018"
+          },
+          {
+            "name": "Ronny J",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3597664,
+            "resource_url": "https://api.discogs.com/artists/3597664"
+          },
+          {
+            "name": "Denzel Curry",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2894422,
+            "resource_url": "https://api.discogs.com/artists/2894422"
+          },
+          {
+            "name": "Isaiah Loubeau",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7200370,
+            "resource_url": "https://api.discogs.com/artists/7200370"
+          }
+        ],
+        "duration": "3:00"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Denzel Curry",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2894422,
+        "resource_url": "https://api.discogs.com/artists/2894422",
+        "thumbnail_url": "https://i.discogs.com/Wl_iN-NLq1YLMHGPaOrt49pguGmPVIyeA-GKdRL30Sw/rs:fit/g:sm/q:90/h:600/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4OTQ0/MjItMTY1NTQwNTE3/NC01OTI2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Zuu",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=3WHm6tfvKlk",
+        "title": "Denzel Curry - RICKY",
+        "description": "STREAM RICKY: https://found.ee/DC_RICKY \nLIMITED EDITION VINYL + MORE: https://found.ee/DC_ZUUStore\n\nDirector: Twelve\u2019len \nSupervising Director: Zev Deans \nProducer: Wes Hager \nProducer: Zori Davidkova\nDP: Chris Raymond \nEditor: Michael Russel \n\nSTREAM ZU",
+        "duration": 152,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=B0b0kC7AhXY",
+        "title": "Denzel Curry - SPEEDBOAT (Official Music Video)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nVisuals by Zev Deans\n\nSTREAM SPEEDBOAT: https://found.ee/DC_SPEEDBOAT\n\nSpotify: https://found.ee/DC_SPEEDBOATSpotify \nApple Music: https://found.ee/DC_SPEEDB",
+        "duration": 223,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ibxqnEnOcEQ",
+        "title": "Denzel Curry - ZUU",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nZUU by Denzel Curry\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_ZUUiTunes\nAmazon: https://",
+        "duration": 126,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pEZDFv6DNQU",
+        "title": "Denzel Curry - WISH (feat. Kiddo Marv)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nWISH by Denzel Curry featuring Kiddo Marv\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_ZUUi",
+        "duration": 192,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=h6Wy3gwb8_s",
+        "title": "Denzel Curry - BIRDZ (feat. Rick Ross)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nBIRDZ by Denzel Curry\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_ZUUiTunes\nAmazon: https:",
+        "duration": 205,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zIqm5-3dkAU",
+        "title": "Denzel Curry - AUTOMATIC",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nAUTOMATIC by Denzel Curry\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_ZUUiTunes\nAmazon: ht",
+        "duration": 183,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Q3hj4vkRkaw",
+        "title": "Denzel Curry - CAROLMART (feat. Ice Billion Berg)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nCAROLMART by Denzel Curry\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_ZUUiTunes\nAmazon: ht",
+        "duration": 165,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=391sNDfyNJM",
+        "title": "Denzel Curry - P.A.T. (feat. PlayThatBoiZay)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nP.A.T. by Denzel Curry featuring PlayThatBoiZay\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/D",
+        "duration": 181,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ltN58roAM5c",
+        "title": "Denzel Curry -  SHAKE 88 (feat. Sam Sneak)",
+        "description": "ZUU OUT NOW: https://found.ee/DC_ZUU\nLimited edition vinyl and more: http://found.ee/DC_ZUUSTORE\n\nSHAKE 88 by Denzel Curry featuring Sam Sneak\n\nSpotify: https://found.ee/DC_ZUUSpotify\nApple Music: https://found.ee/DC_ZUUApple\niTunes: https://found.ee/DC_Z",
+        "duration": 148,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bMnbStzaqv8",
+        "title": "Denzel Curry - Zuu CD Unboxing",
+        "description": "In this video I show you the Zuu CD by Denzel Curry.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can get the album here:\nCD: https://amzn.to/45xjzbi\nVinyl: https://amzn.to/3Fuw25a\nDigital: https://amzn.to/4dFqGQU\nMor",
+        "duration": 89,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1573890,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Trap",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Gangsta",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hardcore Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

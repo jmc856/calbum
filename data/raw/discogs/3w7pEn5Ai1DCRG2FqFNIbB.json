@@ -1,0 +1,576 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "093624828730",
+    "artist": "Zach Bryan",
+    "title": "The Great American Bar Scene",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 32416026,
+      "title": "Zach Bryan - The Great American Bar Scene",
+      "master_id": 3664305,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Country"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Music Group",
+        "Belting Bronco Records",
+        "Belting Bronco Records",
+        "Warner Records Inc.",
+        "Electric Lady Studios",
+        "Infinite Family",
+        "Club Roar",
+        "Zach Bryan Publishing Designee",
+        "Warner-Tamerlane Publishing Corp."
+      ],
+      "type": "release",
+      "barcode": [
+        "0093624839989"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3664305",
+      "uri": "/release/32416026-Zach-Bryan-The-Great-American-Bar-Scene",
+      "catno": "093624839989",
+      "thumb": "https://i.discogs.com/u8IPMrfLmnn9vIiQNKUFi0b7vb7ALUEh2BRn_TpTsbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/MDI2LTE3MzkwNDY2/NDgtNjE3Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-QAP5T5-Gg7pY8mOs7ahtIw35TaCIGcCvV-FS_H2d74/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE2/MDI2LTE3MzkwNDY2/NDgtNjE3Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32416026",
+      "community": {
+        "want": 80,
+        "have": 405
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31295912,
+      "title": "Zach Bryan - The Great American Bar Scene",
+      "master_id": 3664305,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Country"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "ALAC",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Belting Bronco Records",
+        "Belting Bronco Records",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3664305",
+      "uri": "/release/31295912-Zach-Bryan-The-Great-American-Bar-Scene",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/7VPQ67ogKWNgHZEbFHQknhqzlEU-bkvnsBNmxyjqSyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjk1/OTEyLTE3MjE3MjQ0/MDUtNDI3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-uQFyOyGZqU-I4gJNju4VTD_B7_J4brmpe1PJt6O3UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjk1/OTEyLTE3MjE3MjQ0/MDUtNDI3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31295912",
+      "community": {
+        "want": 222,
+        "have": 150
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "19",
+          "text": "High Resolution 24-Bit/48 kHz",
+          "descriptions": [
+            "ALAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32368914,
+      "title": "Zach Bryan - The Great American Bar Scene",
+      "master_id": 3664305,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Country"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Music Group",
+        "Belting Bronco Records",
+        "Belting Bronco Records",
+        "Warner Records Inc.",
+        "Electric Lady Studios",
+        "Infinite Family",
+        "Club Roar",
+        "Zach Bryan Publishing Designee",
+        "Warner-Tamerlane Publishing Corp.",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 83997 2",
+        "093624839972",
+        "10-106500 - 093624839972 - A 286974E1/A",
+        "10-106500 - 093624839972 - B 286974E2/D",
+        "10-106500 - 093624839972 - C 286974E3/E",
+        "10-106500 - 093624839972 - D 286974E4/H"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3664305",
+      "uri": "/release/32368914-Zach-Bryan-The-Great-American-Bar-Scene",
+      "catno": "093624839972",
+      "thumb": "https://i.discogs.com/G4_cyWMdufTRPOAfpPxSWxHI8RF4CKlRKVzY6fSF3LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY4/OTE0LTE3MzIzMDg4/NTMtMTI1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/G1YrNRhusUZib6EYGERzhIzYFil71KqFLlCuQ4xWohY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY4/OTE0LTE3MzIzMDg4/NTMtMTI1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32368914",
+      "community": {
+        "want": 874,
+        "have": 5864
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32749287,
+      "title": "Zach Bryan - The Great American Bar Scene",
+      "master_id": 3664305,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Country"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Music Group",
+        "Belting Bronco Records",
+        "Belting Bronco Records",
+        "Warner Records Inc.",
+        "Electric Lady Studios",
+        "Infinite Family",
+        "Club Roar",
+        "Zach Bryan Publishing Designee",
+        "Warner-Tamerlane Publishing Corp.",
+        "Noeline Hofmann Publishing Designee",
+        "BAdams Music Limited",
+        "Vallantunes",
+        "Kobalt Music Publishing",
+        "John Moreland Publishing Designee",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 83998 9 ",
+        "[Warner 'W' logo] 58485467/0093624839989 21",
+        "IFPI LP 73",
+        "IFPI 072Y"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3664305",
+      "uri": "/release/32749287-Zach-Bryan-The-Great-American-Bar-Scene",
+      "catno": "093624839989",
+      "thumb": "https://i.discogs.com/YYSkjAxWrtn_gqiHX_ct7KObN-9E1j_CH9qujSILTvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ5/Mjg3LTE3Njg5Mjkz/NjItNzk4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6ujYYQ0Tfka9l4Y5aDoN2s5_pUa5Ol7z4umEODqqxbA/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQ5/Mjg3LTE3Njg5Mjkz/NjItNzk4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32749287",
+      "community": {
+        "want": 42,
+        "have": 120
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32697783,
+      "title": "Zach Bryan - The Great American Bar Scene",
+      "master_id": 3664305,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Country"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Belting Bronco Records",
+        "Belting Bronco Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624839972",
+        "404471 1A 093624839972",
+        "404471 1B 093624839972",
+        "404471 1C 093624839972",
+        "404471 1D 093624839972"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3664305",
+      "uri": "/release/32697783-Zach-Bryan-The-Great-American-Bar-Scene",
+      "catno": "093624839972",
+      "thumb": "https://i.discogs.com/00i5UVTccCnWJhgqD23Z2Rcj5T6vh17-bTsF7uCD6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk3/NzgzLTE3MzU0OTg1/MTctMjA1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gl35Xyk_rvVmtJTmeBlx4ul-B3hxLcS_QoGy_4cV5ks/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk3/NzgzLTE3MzU0OTg1/MTctMjA1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32697783",
+      "community": {
+        "want": 267,
+        "have": 991
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3664305,
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Country"
+    ],
+    "main_release": 31295912,
+    "most_recent_release": 32749287,
+    "resource_url": "https://api.discogs.com/masters/3664305",
+    "uri": "https://www.discogs.com/master/3664305-Zach-Bryan-The-Great-American-Bar-Scene",
+    "versions_url": "https://api.discogs.com/masters/3664305/versions",
+    "main_release_url": "https://api.discogs.com/releases/31295912",
+    "most_recent_release_url": "https://api.discogs.com/releases/32749287",
+    "num_for_sale": 106,
+    "lowest_price": 10.0,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-uQFyOyGZqU-I4gJNju4VTD_B7_J4brmpe1PJt6O3UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjk1/OTEyLTE3MjE3MjQ0/MDUtNDI3NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/-uQFyOyGZqU-I4gJNju4VTD_B7_J4brmpe1PJt6O3UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjk1/OTEyLTE3MjE3MjQ0/MDUtNDI3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7VPQ67ogKWNgHZEbFHQknhqzlEU-bkvnsBNmxyjqSyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjk1/OTEyLTE3MjE3MjQ0/MDUtNDI3NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Lucky Enough (Poem)",
+        "duration": "2:42"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Mechanical Bull",
+        "duration": "3:28"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "The Great American Bar Scene",
+        "duration": "3:36"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "28",
+        "duration": "3:53"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "American Nights",
+        "duration": "3:38"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Oak Island",
+        "duration": "3:59"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Purple Gas",
+        "extraartists": [
+          {
+            "name": "Noeline Hofmann",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 15368577,
+            "resource_url": "https://api.discogs.com/artists/15368577"
+          }
+        ],
+        "duration": "3:00"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Boons",
+        "duration": "3:05"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "The Way Back",
+        "duration": "3:05"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Memphis; The Blues",
+        "extraartists": [
+          {
+            "name": "John Moreland",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1359135,
+            "resource_url": "https://api.discogs.com/artists/1359135"
+          }
+        ],
+        "duration": "3:09"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Like Ida",
+        "duration": "3:35"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Bass Boat",
+        "duration": "3:36"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Better Days",
+        "extraartists": [
+          {
+            "name": "John Mayer",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 254479,
+            "resource_url": "https://api.discogs.com/artists/254479"
+          }
+        ],
+        "duration": "3:32"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Towers",
+        "duration": "2:50"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Sandpaper",
+        "extraartists": [
+          {
+            "name": "Bruce Springsteen",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 219986,
+            "resource_url": "https://api.discogs.com/artists/219986"
+          }
+        ],
+        "duration": "3:36"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "Northern Thunder",
+        "duration": "3:30"
+      },
+      {
+        "position": "17",
+        "type_": "track",
+        "title": "Funny Man",
+        "duration": "3:16"
+      },
+      {
+        "position": "18",
+        "type_": "track",
+        "title": "Pink Skies",
+        "extraartists": [
+          {
+            "name": "Watchhouse",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 9375904,
+            "resource_url": "https://api.discogs.com/artists/9375904"
+          }
+        ],
+        "duration": "3:49"
+      },
+      {
+        "position": "19",
+        "type_": "track",
+        "title": "Bathwater",
+        "duration": "1:40"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Zach Bryan",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9148201,
+        "resource_url": "https://api.discogs.com/artists/9148201",
+        "thumbnail_url": "https://i.discogs.com/aNfrQoJZ_gc-9y3hZGZzEBvYBPbqWAh4PRbw7a08qQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkxNDgy/MDEtMTc0MDI5ODM2/NC00NzM0LmpwZWc.jpeg"
+      }
+    ],
+    "title": "The Great American Bar Scene",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=UDsK6q10Y1k",
+        "title": "Zach Bryan - The Great American Bar Scene",
+        "description": "I lost my money to some dirty old bookie \nWay up in Philly \nHe was a bad man\nBut you can\u2019t bet your life on the table \nWhen you\u2019ve got yourself \na bad hand\nSo I went and got my good friend, Mickey, \nAnd we made ourselves \nA bold stand \nWound up bleedin\u2019 o",
+        "duration": 217,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XhqHCKmi4G8",
+        "title": "Zach Bryan - The Great American Bar Scene [Full Album]",
+        "description": "Zach Bryan - The Great American Bar Scene [Full Album]\n\n\ud83d\udd14 Subscribe to The Pulse\u2019s channel: https://bit.ly/3YfxvD6\n\nTracklist:\n00:00  Lucky Enough (Poem)\n02:42 Mechanical Bull\n06:11 The Great American Bar Scene\n09:48 28\n13:41 American Nights\n17:20 Oak Isl",
+        "duration": 3608,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3664305,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Country",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

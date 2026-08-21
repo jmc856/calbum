@@ -1,0 +1,899 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5400863168971",
+    "artist": "Cameron Winter",
+    "title": "Heavy Metal",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 32564664,
+      "title": "Cameron Winter - Heavy Metal",
+      "master_id": 3686919,
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Soul",
+        "Soft Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Magic Mountain Tuxedo",
+        "The Diamond Mine",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863168957",
+        "PTPS50CD AO22882-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9755",
+        "IFPI 9723",
+        "IFPI 9757"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3686919",
+      "uri": "/release/32564664-Cameron-Winter-Heavy-Metal",
+      "catno": "PTPS50CD",
+      "thumb": "https://i.discogs.com/z2YWZsuOwRvtBT95zPjqpJk_qpq1yTsjFslzZZ6-6VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY0/NjY0LTE3NTk0MDc0/MjctODE1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sNQwxMizKWFOHqbTtP4zDu-LxbjOMNY4r00P8V6kyqg/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTY0/NjY0LTE3NTk0MDc0/MjctODE1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32564664",
+      "community": {
+        "want": 435,
+        "have": 941
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32538570,
+      "title": "Cameron Winter - Heavy Metal",
+      "master_id": 3686919,
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Acoustic",
+        "Folk",
+        "Soul",
+        "Soft Rock"
+      ],
+      "country": "USA, Canada & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Partisan Records LLC",
+        "Play It Again Sam",
+        "Magic Mountain Tuxedo",
+        "The Diamond Mine",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5400863170660",
+        "PTPS 51LP  BO19456-01 A1",
+        "PTPS 51LP  BO19456-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3686919",
+      "uri": "/release/32538570-Cameron-Winter-Heavy-Metal",
+      "catno": "PTPS 50LPX",
+      "thumb": "https://i.discogs.com/kgvLipuckeKRtl0JRpxoL63ap5yojemmn7mVW4FUpB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3NDc2OTYw/NTItODA1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y1xUQ-9v9SV1MXI1q4r6wAlecpfRFnrD5Y9pcn6Qt6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3NDc2OTYw/NTItODA1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32538570",
+      "community": {
+        "want": 2343,
+        "have": 8803
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver [Heavy Metal]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35664250,
+      "title": "Cameron Winter - Heavy Metal",
+      "master_id": 3686919,
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Acoustic",
+        "Soul",
+        "Soft Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Partisan Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "USBQU2400169",
+        "USBQU2400170",
+        "USBQU2400171",
+        "USBQU2400172",
+        "USBQU2400173",
+        "USBQU2400174",
+        "USBQU2400175",
+        "USBQU2400176",
+        "USBQU2400177",
+        "USBQU2400178"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3686919",
+      "uri": "/release/35664250-Cameron-Winter-Heavy-Metal",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/4NXubmHwSL_wcu2Pcc3sCpRAgxK-Ugz7ex5NPXZ5paY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjY0/MjUwLTE3NjMxNTAz/NzQtMjcyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AekPKLC9Fald1xJgnn1DV-pvRD4qA9DXb3ors3IEsjo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjY0/MjUwLTE3NjMxNTAz/NzQtMjcyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35664250",
+      "community": {
+        "want": 21,
+        "have": 14
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "24-bit/88.2kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3686919,
+    "genres": [
+      "Rock",
+      "Funk / Soul",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Acoustic",
+      "Folk",
+      "Soul",
+      "Soft Rock"
+    ],
+    "main_release": 32538570,
+    "most_recent_release": 36913311,
+    "resource_url": "https://api.discogs.com/masters/3686919",
+    "uri": "https://www.discogs.com/master/3686919-Cameron-Winter-Heavy-Metal",
+    "versions_url": "https://api.discogs.com/masters/3686919/versions",
+    "main_release_url": "https://api.discogs.com/releases/32538570",
+    "most_recent_release_url": "https://api.discogs.com/releases/36913311",
+    "num_for_sale": 222,
+    "lowest_price": 11.62,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/lZ0-bURblvhhtxU7J3lYpp3LSABeP744ytEoZ2cFtCE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3NDc2OTYw/NTItODA1MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lZ0-bURblvhhtxU7J3lYpp3LSABeP744ytEoZ2cFtCE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3NDc2OTYw/NTItODA1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kgvLipuckeKRtl0JRpxoL63ap5yojemmn7mVW4FUpB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3NDc2OTYw/NTItODA1MS5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ajdPghT5Lb07kepKELybYDBBAEJfSERiOhq3QwdnZuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNjI2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ajdPghT5Lb07kepKELybYDBBAEJfSERiOhq3QwdnZuQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNjI2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7KRsJ9nzCSMtZRUAFloYb7As4LO4YTflwakNMQwVoig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNjI2My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/luyFLbjbMjanaPWQfjShIJfZSpfFnkOzEFPsjQCfxyU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNDIzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/luyFLbjbMjanaPWQfjShIJfZSpfFnkOzEFPsjQCfxyU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNDIzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aANZ9TfBt6E5c_yCpAom0i9ZxxE8ZK79IGNZKsGKJKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNDIzNi5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/J2n7kfwtsx0WNgZW6UpzfEIrl9qHY-8c4AsWCS15RWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtMTc4NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/J2n7kfwtsx0WNgZW6UpzfEIrl9qHY-8c4AsWCS15RWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtMTc4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/w28eMiPdNm84xLlMXnzDf2gcvMZFlbJOlPujMg-l7Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtMTc4NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9xTO1ej052lLzLlvzKRD33upSHVbLC4gT5nhbNGGj_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNTE1MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9xTO1ej052lLzLlvzKRD33upSHVbLC4gT5nhbNGGj_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNTE1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eD8yD5vZs08vWefETLgoeSR2SANr-SeeTRdIrGzBkgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDUtNTE1MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/x0sVjBrnWd2_p07pY-_-JeJySTMTPjBrT2ugo6CsRSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtMjcwNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/x0sVjBrnWd2_p07pY-_-JeJySTMTPjBrT2ugo6CsRSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtMjcwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ExguJm05fo-fdyD03C99Vfdc_hjCRC4cPbinrB9f6s4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtMjcwNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/AzjUKIhPTvA6gBQ8qjOd0xiPWDWIJYZMgeEBBuHwhEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNTgwOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/AzjUKIhPTvA6gBQ8qjOd0xiPWDWIJYZMgeEBBuHwhEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNTgwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IR5381JCliNfzGYejNWXAt4nuIBFUOogaGc1NNdndzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTM4/NTcwLTE3MzM5NDYz/NDYtNTgwOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "The Rolling Stones",
+        "extraartists": [
+          {
+            "name": "James Richardson",
+            "anv": "",
+            "join": "",
+            "role": "Classical Guitar [Nylon String Guitar]",
+            "tracks": "",
+            "id": 1090053,
+            "resource_url": "https://api.discogs.com/artists/1090053"
+          },
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:18"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Nausica\u00e4 (Love Will Be Revealed)",
+        "extraartists": [
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Xan Aird",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar",
+            "tracks": "",
+            "id": 3228818,
+            "resource_url": "https://api.discogs.com/artists/3228818"
+          },
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "James Richardson",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 1090053,
+            "resource_url": "https://api.discogs.com/artists/1090053"
+          }
+        ],
+        "duration": "4:11"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Love Takes Miles",
+        "extraartists": [
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Handclaps",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "Jesse Kotansky",
+            "anv": "",
+            "join": "",
+            "role": "Strings",
+            "tracks": "",
+            "id": 3704388,
+            "resource_url": "https://api.discogs.com/artists/3704388"
+          }
+        ],
+        "duration": "3:18"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Drinking Age",
+        "extraartists": [
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "James Richardson",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 1090053,
+            "resource_url": "https://api.discogs.com/artists/1090053"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:30"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Cancer Of The Skull",
+        "extraartists": [
+          {
+            "name": "James Richardson",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, French Horn",
+            "tracks": "",
+            "id": 1090053,
+            "resource_url": "https://api.discogs.com/artists/1090053"
+          },
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "Peter Hess",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone, Clarinet",
+            "tracks": "",
+            "id": 491189,
+            "resource_url": "https://api.discogs.com/artists/491189"
+          }
+        ],
+        "duration": "5:31"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Try As I May",
+        "extraartists": [
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "Jesse Kotansky",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3704388,
+            "resource_url": "https://api.discogs.com/artists/3704388"
+          }
+        ],
+        "duration": "4:47"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "We're Thinking The Same Thing",
+        "extraartists": [
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "Jesse Kotansky",
+            "anv": "",
+            "join": "",
+            "role": "Strings",
+            "tracks": "",
+            "id": 3704388,
+            "resource_url": "https://api.discogs.com/artists/3704388"
+          }
+        ],
+        "duration": "2:47"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Nina + Field Of Cops",
+        "extraartists": [
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "James Richardson",
+            "anv": "",
+            "join": "",
+            "role": "French Horn, Trumpet",
+            "tracks": "",
+            "id": 1090053,
+            "resource_url": "https://api.discogs.com/artists/1090053"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "5:52"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "$0",
+        "extraartists": [
+          {
+            "name": "Lucas Carpenter (3)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 6062842,
+            "resource_url": "https://api.discogs.com/artists/6062842"
+          },
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          },
+          {
+            "name": "Jesse Kotansky",
+            "anv": "",
+            "join": "",
+            "role": "Strings",
+            "tracks": "",
+            "id": 3704388,
+            "resource_url": "https://api.discogs.com/artists/3704388"
+          }
+        ],
+        "duration": "6:43"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Can't Keep Anything",
+        "extraartists": [
+          {
+            "name": "Loren Humphrey",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Engineer, Mixed By",
+            "tracks": "",
+            "id": 2204186,
+            "resource_url": "https://api.discogs.com/artists/2204186"
+          },
+          {
+            "name": "Cameron Winter",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Written-By, Engineer, Mixed By",
+            "tracks": "",
+            "id": 9902284,
+            "resource_url": "https://api.discogs.com/artists/9902284"
+          }
+        ],
+        "duration": "3:49"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Cameron Winter",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 9902284,
+        "resource_url": "https://api.discogs.com/artists/9902284",
+        "thumbnail_url": "https://i.discogs.com/_c8BfI88IVD3ibUvo8g4uD1JW7v5RGHUeAnWELyNuXQ/rs:fit/g:sm/q:90/h:600/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk5MDIy/ODQtMTc2NzI4NzQ3/MC02MDM4LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Heavy Metal",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Xee_2r-5L2U",
+        "title": "Love Takes Miles",
+        "description": "Directed by Andy Swartz\n\nLove Takes Miles by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/inst",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=U4UFAejSQFA",
+        "title": "Cameron Winter - Love Takes Miles",
+        "description": "Director: Celia Rowlson-Hall\n\nStarring Lucas Hedges \n\nChoreography by Celia Rowlson-Hall in collaboration with Lucas Hedges \n\nProducers: Mia Lidofsky and Adele Romanski\n\nDOP: Kelly Jeffrey \n\nPA Extraordinaire: Maisie Coburn \n\nEditor: Kevin Tadge \n\nSound D",
+        "duration": 273,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kbP1724y7Ws",
+        "title": "The Rolling Stones",
+        "description": "Directed by Andy Swartz\n\nThe Rolling Stones by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/in",
+        "duration": 209,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=25WNG0VAZJw",
+        "title": "Nausica\u00e4 (Love Will Be Revealed)",
+        "description": "Nausica\u00e4 (Love Will Be Revealed) by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagram\nhtt",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Xee_2r-5L2U",
+        "title": "Love Takes Miles",
+        "description": "Directed by Andy Swartz\n\nLove Takes Miles by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/inst",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=3mfI0jL3J14",
+        "title": "Drinking Age",
+        "description": "Directed by Andy Swartz\n\nDrinking Age by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagra",
+        "duration": 213,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=--tJyeuNKhE",
+        "title": "Cancer of the Skull",
+        "description": "Provided to YouTube by PIAS\n\nCancer of the Skull \u00b7 Cameron Winter\n\nHeavy Metal\n\n\u2117 Partisan Records / Play It Again Sam\n\nReleased on: 2024-12-06\n\nProducer: Cameron Winter\nProducer: Loren Humphrey\nComposer: Cameron Winter\n\nAuto-generated by YouTube.",
+        "duration": 332,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hxZ_oa8QeOs",
+        "title": "Try as I May",
+        "description": "Try as I May by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagram\nhttps://www.cameronwint",
+        "duration": 288,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Vr2VSJY9sgg",
+        "title": "We're Thinking the Same Thing",
+        "description": "Provided to YouTube by PIAS\n\nWe're Thinking the Same Thing \u00b7 Cameron Winter\n\nHeavy Metal\n\n\u2117 Partisan Records / Play It Again Sam\n\nReleased on: 2024-12-06\n\nProducer: Cameron Winter\nProducer: Loren Humphrey\nComposer: Cameron Winter\n\nAuto-generated by YouTub",
+        "duration": 168,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2UMxwFvQuow",
+        "title": "Nina + Field of Cops",
+        "description": "Nina + Field of Cops by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagram\nhttps://www.cam",
+        "duration": 353,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ETZKZzz7MWo",
+        "title": "$0",
+        "description": "Directed by Andy Swartz\n\n$0 by Cameron Winter, from the album Heavy Metal, out December 6 on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagram\nh",
+        "duration": 391,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-6DT3RtDJO0",
+        "title": "Can't Keep Anything",
+        "description": "Can't Keep Anything by Cameron Winter, from the album Heavy Metal, out now on Partisan Records/Play It Again Sam:  https://CameronWinter.lnk.to/heavymetal\n\nFOLLOW:\nhttps://www.mrcameronwinter.com\nhttps://www.cameronwinter.lnk.to/instagram\nhttps://www.came",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=M-zL9unQdQc",
+        "title": "Cameron Winter - Live at St. John\u2019s Lutheran Church 7\u201d",
+        "description": "The Rolling Stones & Try As I May, included as a 7\u201d single with the Rough Trade Albums of the Year edition of Heavy Metal.\n\nhttps://untitled.stream/library/project/3o7z1JhI7gd0LyzU3rzwK",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3686919,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Acoustic",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soft Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

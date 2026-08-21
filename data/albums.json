@@ -34,8 +34,59 @@
       "Tyler, The Creator"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3639498,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Jazz",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Hardcore Hip-Hop",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      }
+    ],
     "id": "0U28P0QVB1QRxpqp5IHOlH",
     "release_date": "2024-10-28",
     "release_year": 2024,
@@ -51,8 +102,24 @@
       "boygenius"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3038081,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0e9GjrztzBw8oMC6n2CDeI",
     "release_date": "2023-03-31",
     "release_year": 2023,
@@ -118,8 +185,24 @@
       "Zach Bryan"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273b003471548f17f615a0b3f67",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2231182,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Country",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0npZ1Ryg8HaFGeb2HKYQIz",
     "release_date": "2019-08-24",
     "release_year": 2019,
@@ -175,8 +258,14 @@
       "Malice"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef854fe1d04279372a96f3d6",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3905515,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "17ScNnJ0lSWajodZaRpHdQ",
     "release_date": "2025-07-11",
     "release_year": 2025,
@@ -237,8 +326,34 @@
       "Lianne La Havas"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2731020612148d9a31d2dbd5b00",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1772523,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1CqNrKEv2fhF7mudTXrydV",
     "release_date": "2020-07-17",
     "release_year": 2020,
@@ -393,8 +508,14 @@
       "Saba"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e40d77b9cd4e59f992eff87",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1432323,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1crhG7YecAj6ZN0AAYMYsb",
     "release_date": "2018-04-05",
     "release_year": 2018,
@@ -448,8 +569,19 @@
       "The Beths"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27342185bc39407adc74a39212a",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2782454,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1nAQg0AjzpuT7lINu1J87y",
     "release_date": "2022-09-16",
     "release_year": 2022,
@@ -465,8 +597,29 @@
       "Japanese Breakfast"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2124691,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1uD1kdwTWH1DZQZqGKz6rY",
     "release_date": "2021-06-04",
     "release_year": 2021,
@@ -482,8 +635,44 @@
       "Olivia Rodrigo"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3231790,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alt-Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Ballad",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Power Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1xJHno7SmdVtZAtXbdbDZp",
     "release_date": "2023-09-08",
     "release_year": 2023,
@@ -527,8 +716,39 @@
       "The Last Dinner Party"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3381640,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alt-Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Baroque Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1ycq58KRtWt3wFtbuIkvLn",
     "release_date": "2024-02-02",
     "release_year": 2024,
@@ -635,8 +855,44 @@
       "Caroline Polachek"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273de17893c581b6f4fbeba51e1",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2980216,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Downtempo",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "UK Garage",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Leftfield",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alt-Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "22PkV1Le9P3X4RY4xtmK0q",
     "release_date": "2023-02-14",
     "release_year": 2023,
@@ -652,8 +908,34 @@
       "Wednesday"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27379cc56467c944a260be5c2a9",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3977033,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Shoegaze",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Country Rock",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_style"
+      }
+    ],
     "id": "29HKbQ2pgXgElTnH66mFXK",
     "release_date": "2025-09-19",
     "release_year": 2025,
@@ -669,8 +951,54 @@
       "Mac Miller"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2737541018cfe436a0330fd919a",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2888173,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Cloud Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Abstract",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Rhythm & Blues",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2ANFIaCb53iam0MBkFFoxY",
     "release_date": "2025-01-17",
     "release_year": 2025,
@@ -753,8 +1081,24 @@
       "Ambrose Kenny-Smith"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27331ac28ab5f5e77fa1e0c8416",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3547205,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Blues Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2aVVkK5Wm8bcUGxMK0Hh4J",
     "release_date": "2024-07-19",
     "release_year": 2024,
@@ -833,8 +1177,34 @@
       "Tyler, The Creator"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1212609,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2nkto6YNI4rUYTLqEwWJ3o",
     "release_date": "2017-07-21",
     "release_year": 2017,
@@ -850,8 +1220,24 @@
       "Father John Misty"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27354dde2aba8ba85af6146aecb",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3659271,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2oJHtuXrCJ0KMH5GrC6Qdw",
     "release_date": "2024-11-22",
     "release_year": 2024,
@@ -867,8 +1253,19 @@
       "Vince Staples"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2732129eda0ae3c8426c3d4dc7d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3498525,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "30BFY5VHii4PyWqkTubUWX",
     "release_date": "2024-05-24",
     "release_year": 2024,
@@ -965,8 +1362,24 @@
       "Zach Bryan"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2732bcbc6c38c3e8a35b32223c2",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3664305,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Country",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3w7pEn5Ai1DCRG2FqFNIbB",
     "release_date": "2024-07-04",
     "release_year": 2024,
@@ -999,8 +1412,24 @@
       "Vince Staples"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27386f51d101637fd4dc59fc32a",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 926522,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Gangsta",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4Csoz10NhNJOrCTUoPBdUD",
     "release_date": "2015-06-30",
     "release_year": 2015,
@@ -1145,8 +1574,24 @@
       "JID"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2763401,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4rJDCELWL0fjdmN9Gn4f4g",
     "release_date": "2022-10-31",
     "release_year": 2022,
@@ -1233,8 +1678,74 @@
       "Vince Staples"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1200128,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hip-House",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "UK Garage",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Techno",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Deconstructed Club",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hardcore Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hyphy",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Glitch Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Avantgarde",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Leftfield",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5h3WJG0aZjNOrayFu3MhCS",
     "release_date": "2017-06-23",
     "release_year": 2017,
@@ -1250,8 +1761,29 @@
       "Mac Miller"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273d9d8f1a08476cd347fbea313",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1669934,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Blues",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5sY6UIQ32GqwMLAfSNEaXb",
     "release_date": "2020-01-17",
     "release_year": 2020,
@@ -1267,8 +1799,34 @@
       "Mac Miller"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1403861,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Disco",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Trap",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5wtE5aLX5r7jOosmPhJhhk",
     "release_date": "2018-08-03",
     "release_year": 2018,
@@ -1284,8 +1842,14 @@
       "Young Fathers"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c9827f0c27cfa23c24fb451",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2965330,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6CmlLROLOUJZnZ8QeCCpqD",
     "release_date": "2023-02-03",
     "release_year": 2023,
@@ -1329,8 +1893,29 @@
       "Denzel Curry"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1573890,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Trap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Gangsta",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Hardcore Hip-Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6PkSBdx19zarn4ae1D08gA",
     "release_date": "2019-05-31",
     "release_year": 2019,
@@ -1385,8 +1970,24 @@
       "Black Thought"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273977af34911b47ddc618e0861",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2742335,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Boom Bap",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6g8wQSzYvVEOrUc9VqQPBJ",
     "release_date": "2022-08-12",
     "release_year": 2022,
@@ -1453,8 +2054,19 @@
       "Ratboys"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27336759abf53baa9daf1e49c7e",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 4117261,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "74sjx2H7SMLQkZrJscHw8Y",
     "release_date": "2026-02-06",
     "release_year": 2026,
@@ -1470,8 +2082,19 @@
       "Friko"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e6bc598472ed677357b61d7d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3399781,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "77KTk9PdOsC2NuMjGSDCS3",
     "release_date": "2024-02-16",
     "release_year": 2024,
@@ -1510,8 +2133,54 @@
       "Denzel Curry"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2798453,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Boom Bap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Trap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7KtyUeiJidoZO0ybxBXw0Q",
     "release_date": "2022-03-25",
     "release_year": 2022,
@@ -1565,8 +2234,44 @@
       "Cameron Winter"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2734738aa171569052376f162fe",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3686919,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Acoustic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soft Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7mOrnQqDad3RgYQsJGaaqk",
     "release_date": "2024-12-06",
     "release_year": 2024,
@@ -1582,8 +2287,19 @@
       "Saba"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273819c0f21cca81b0088bed05d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1215857,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7wsj4nv8jBENZT3IfcfnWA",
     "release_date": "2016-10-27",
     "release_year": 2016,

@@ -1,0 +1,331 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "888915284100",
+    "artist": "Saba",
+    "title": "Bucket List Project",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 10630492,
+      "title": "Saba (14) - Bucket List Project",
+      "master_id": 1215857,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Saba Pivot LLC"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1215857",
+      "uri": "/release/10630492-Saba-Bucket-List-Project",
+      "catno": "88915 28410",
+      "thumb": "https://i.discogs.com/QMlmkI7gURqrH9wHH4dyScBD5fOTCeVYE0uOSmp37CA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NDkyLTE1MDEyNzc5/NjQtNjg3OS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/mXC4xEbk2SD2F_SXM4zG_lX2ZUbZiSS4OlajEsKXm9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NDkyLTE1MDEyNzc5/NjQtNjg3OS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10630492",
+      "community": {
+        "want": 187,
+        "have": 25
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9432331,
+      "title": "Saba (14) - Bucket List Project",
+      "master_id": 1215857,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Trap"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label",
+        "Saba Pivot LLC"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1215857",
+      "uri": "/release/9432331-Saba-Bucket-List-Project",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/nqf75kjA7xJVVC-sXFZX83pXIDSnvfv3PNML88SdS0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzIz/MzEtMTY4ODc0OTE2/Ny02NTYyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ppaIUV_AEAUfQw5D7m6Z1TZEtMxdxI_gj4--yK4PFAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzIz/MzEtMTY4ODc0OTE2/Ny02NTYyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9432331",
+      "community": {
+        "want": 19,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1215857,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious"
+    ],
+    "main_release": 10630492,
+    "most_recent_release": 23410547,
+    "resource_url": "https://api.discogs.com/masters/1215857",
+    "uri": "https://www.discogs.com/master/1215857-Saba-14-Bucket-List-Project",
+    "versions_url": "https://api.discogs.com/masters/1215857/versions",
+    "main_release_url": "https://api.discogs.com/releases/10630492",
+    "most_recent_release_url": "https://api.discogs.com/releases/23410547",
+    "num_for_sale": 10,
+    "lowest_price": 106.38,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/mXC4xEbk2SD2F_SXM4zG_lX2ZUbZiSS4OlajEsKXm9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NDkyLTE1MDEyNzc5/NjQtNjg3OS5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/mXC4xEbk2SD2F_SXM4zG_lX2ZUbZiSS4OlajEsKXm9s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NDkyLTE1MDEyNzc5/NjQtNjg3OS5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/QMlmkI7gURqrH9wHH4dyScBD5fOTCeVYE0uOSmp37CA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NDkyLTE1MDEyNzc5/NjQtNjg3OS5wbmc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "In Loving Memory",
+        "duration": "1:57"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Stoney",
+        "duration": "3:32"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "GPS",
+        "duration": "3:48"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Church (Liquor Store)",
+        "duration": "4:05"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Westside Bound 3",
+        "duration": "2:58"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "MOST",
+        "duration": "3:34"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Symmetry",
+        "duration": "4:33"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Photosynthesis",
+        "duration": "3:23"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "The Billy Williams Story",
+        "duration": "3:54"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Bucket List",
+        "duration": "3:36"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "American Hypnosis",
+        "duration": "4:14"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "California / Outro",
+        "duration": "6:25"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Saba (14)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3270638,
+        "resource_url": "https://api.discogs.com/artists/3270638",
+        "thumbnail_url": "https://i.discogs.com/RVWqD-A95S7HxPWe5bwej3giMDsOJ3qUoPLgAOMfnUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNzA2/MzgtMTc0Mjg0OTQx/MS03ODkyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Bucket List Project",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Oi6n2g4EAqA",
+        "title": "Saba - Bucket List Project [Full Album]",
+        "description": "HELP ME GET TO MY DREAM OF 100,000 SUBSCRIBERS \n\n-------------------------------------------\n\nSupport Royal Rap, Like, Share Comment And Subscribe :) \n2nd Channel - Speed Music - https://www.youtube.com/channel/UChyNBaYZ6F6t5xKsZGBnn0A\n\n------------------",
+        "duration": 2979,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xN23njIDet0",
+        "title": "Saba - Westside Bound 3 ft. Joseph Chilliams (Official Video @HOTCFILMS)",
+        "description": "Bucket List Tour: http://sabapivot.com/shows\n\nBucket List Project: http://sabapivot.com\nOn Google Play: http://bit.ly/2kxRlH7\nOn ITunes: http://smarturl.it/SabaBLP\nOn Spotify:\nhttps://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM\nOn Tidal: http://bit.ly/2",
+        "duration": 171,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7b2Ke0VVvis",
+        "title": "Saba - Bucket List feat. Matthew Santos (Audio)",
+        "description": "Get the album, \u201cBucket List Project\u201d. Out Now!\niTunes: https://itunes.apple.com/us/album/bucket-list-project/id1166396546?uo=4&at=1001l3Iq&ct=888915284100&app=itunes\nSpotify: https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM\nGoogle Play: https://p",
+        "duration": 216,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=T_v-DcDPtfE",
+        "title": "Saba - In Loving Memory (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 117,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0kbnw3dBIR8",
+        "title": "Saba - MOST (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-im95V9IQEM",
+        "title": "Saba - Stoney (Ft. Phoelix & BJRKNC) (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-NDDeM5wqQo",
+        "title": "Saba - Photosynthesis (Ft. Jean Deaux) (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 202,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XQF8zeOt2rE",
+        "title": "Saba - Stoney feat. Phoelix & BJRKNC (Audio)",
+        "description": "Get the album, \u201cBucket List Project\u201d. Out Now!\niTunes: https://itunes.apple.com/us/album/bucket-list-project/id1166396546?uo=4&at=1001l3Iq&ct=888915284100&app=itunes\nSpotify: https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM\nGoogle Play: https://p",
+        "duration": 213,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=poYy7ZgpZk0",
+        "title": "Saba - Photosynthesis feat. Jean Deaux (Audio)",
+        "description": "Get the album, \u201cBucket List Project\u201d. Out Now!\n\nFollow\nFacebook // http://facebook.com/sabapivot\nInstagram // http://instagram.com/sabapivot\nTwitter // http://twitter.com/sabapivot\nApple Music // https://itunes.apple.com/us/artist/sa...\nSoundCloud // ",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=I3QnxDLIhcE",
+        "title": "Saba - In Loving Memory (Audio)",
+        "description": "Get the album, \u201cBucket List Project\u201d. Out Now!\niTunes: https://itunes.apple.com/us/album/bucket-list-project/id1166396546?uo=4&at=1001l3Iq&ct=888915284100&app=itunes\nSpotify: https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM\nGoogle Play: https://p",
+        "duration": 118,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zmnyh8jkpxs",
+        "title": "Saba - California (Ft. Ravyn Lenae & Phoelix) (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 385,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=M0cNx_h0Q_M",
+        "title": "Saba - Westside Bound 3 (Ft. Joseph Chilliams) (Bucket List Project)",
+        "description": "Saba 'Bucket List Project' Pre-Order https://smarturl.it/SabaBLP",
+        "duration": 178,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xVjs_WaCXZU",
+        "title": "Saba - Church / Liquor Store feat. Noname (Audio)",
+        "description": "Get the album, \u201cBucket List Project\u201d. Out Now!\niTunes: https://itunes.apple.com/us/album/bucket-list-project/id1166396546?uo=4&at=1001l3Iq&ct=888915284100&app=itunes\nSpotify: https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM\nGoogle Play: https://p",
+        "duration": 246,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1215857,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

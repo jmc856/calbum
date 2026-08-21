@@ -1,0 +1,564 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602465774375",
+    "artist": "Vince Staples",
+    "title": "Dark Times",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 33688011,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602465756197"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/33688011-Vince-Staples-Dark-Times",
+      "catno": "602465756197",
+      "thumb": "https://i.discogs.com/eifPeuDeM8OwaTdcH-i3UXmcmG_zJRzl_A4EeY8O5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjg4/MDExLTE3NzUxMTQ5/NzgtNDcwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ueSvYuxL0PriQyle-0-dx0jiqPTG7r22qWfxQpxN2Qo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjg4/MDExLTE3NzUxMTQ5/NzgtNDcwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33688011",
+      "community": {
+        "want": 48,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31436150,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602465860115",
+        "602465743494"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/31436150-Vince-Staples-Dark-Times",
+      "catno": "602465743494",
+      "thumb": "https://i.discogs.com/CHfPC8VF2XkMWuDLcsfMQvenW1UGRZkUiMW8JqK1ZKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDM2/MTUwLTE3MjMxNzcz/NjgtMjU1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n8o0gQEwgVzO97F83-cN6J0q_kJEboXFCwYOQRNPZLM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDM2/MTUwLTE3MjMxNzcz/NjgtMjU1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31436150",
+      "community": {
+        "want": 431,
+        "have": 1448
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31417706,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02465 75620 3",
+        "602465756203"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/31417706-Vince-Staples-Dark-Times",
+      "catno": "602465756203",
+      "thumb": "https://i.discogs.com/2nq_6FGWID66-9YjjLqWDMfFPwV1stDg3vDT-dQpFrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE3/NzA2LTE3MjMwMDI1/OTAtMjg1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uGLf5uU4bxM7jGWqbhq_u70XwMCzrCr-hwFEkJSkqoc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE3/NzA2LTE3MjMwMDI1/OTAtMjg1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31417706",
+      "community": {
+        "want": 105,
+        "have": 92
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30793233,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/30793233-Vince-Staples-Dark-Times",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/--vk7F69PKPSj10RA_HnainSHzDfDDoePUsAiyVJmlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjMzLTE3MTY4MDg3/NTEtNDE3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0FbBjpB73Gagy9o9ktMOhyw5gdRH_hU-eZd9ea64iU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjMzLTE3MTY4MDg3/NTEtNDE3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30793233",
+      "community": {
+        "want": 104,
+        "have": 47
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31633552,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Recordings",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "Universal International Music B.V."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02465 74349 4",
+        "602465743494",
+        "LC08427",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/31633552-Vince-Staples-Dark-Times",
+      "catno": "00602465743494",
+      "thumb": "https://i.discogs.com/Qy6PHQKXUIvmMm-vaf6snw2spcN6_JNUe_lPTNFFz7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjMz/NTUyLTE3MjUyNzI3/NjEtMzcwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TB_QqR2LIFwPoJr7kS4RGtVjVL_L8svxhuFLNMK0XvQ/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjMz/NTUyLTE3MjUyNzI3/NjEtMzcwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31633552",
+      "community": {
+        "want": 215,
+        "have": 507
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31253599,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Black Belt Mastering",
+        "Record Technology Incorporated",
+        "Furnace Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "602465860115",
+        "602465743494",
+        "602465743494-A BLACKBELT-LEVI 44073.1(3)... FRP",
+        "602465743494-B BLACKBELT-LEVI 44073.2(3)... FRP",
+        "FRP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/31253599-Vince-Staples-Dark-Times",
+      "catno": "602465743494",
+      "thumb": "https://i.discogs.com/Nk77rz9EQaMZxk6CibWGKVFAHduwTYeA97QC7TSMsQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUz/NTk5LTE3NTUwMTI4/NjYtNDM0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6UsJdo_yv9BvH6_n9HGomvlRX5dqkETB8fVPzIE6INA/rs:fit/g:sm/q:90/h:555/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUz/NTk5LTE3NTUwMTI4/NjYtNDM0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31253599",
+      "community": {
+        "want": 755,
+        "have": 1911
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30781557,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/30781557-Vince-Staples-Dark-Times",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/4NusoojbYzBTfbCmAg64wQQO6nO7n6lnq35DX8p-zic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgx/NTU3LTE3MTY4Mzgw/MzgtNjg0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tBo15UUpsEpAkJIDGwDPHtQV1QFRUFjYmg7OawAQscQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgx/NTU3LTE3MTY4Mzgw/MzgtNjg0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30781557",
+      "community": {
+        "want": 19,
+        "have": 14
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31418057,
+      "title": "Vince Staples - Dark Times",
+      "master_id": 3498525,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602465756197"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3498525",
+      "uri": "/release/31418057-Vince-Staples-Dark-Times",
+      "catno": "602465756197",
+      "thumb": "https://i.discogs.com/HbcHRby3Z9AqFhbZRT0KfuvAo81ZpkySov25RbRMjC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE4/MDU3LTE3MjI5NzA1/ODUtOTY1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QrYVlzyhQKeCBILJLqg4cMW0ntU4jqx7_te-7H6LYZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDE4/MDU3LTE3MjI5NzA1/ODUtOTY1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31418057",
+      "community": {
+        "want": 110,
+        "have": 62
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3498525,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Jazzy Hip-Hop"
+    ],
+    "main_release": 30793233,
+    "most_recent_release": 33688011,
+    "resource_url": "https://api.discogs.com/masters/3498525",
+    "uri": "https://www.discogs.com/master/3498525-Vince-Staples-Dark-Times",
+    "versions_url": "https://api.discogs.com/masters/3498525/versions",
+    "main_release_url": "https://api.discogs.com/releases/30793233",
+    "most_recent_release_url": "https://api.discogs.com/releases/33688011",
+    "num_for_sale": 59,
+    "lowest_price": 17.99,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0FbBjpB73Gagy9o9ktMOhyw5gdRH_hU-eZd9ea64iU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjMzLTE3MTY4MDg3/NTEtNDE3MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0FbBjpB73Gagy9o9ktMOhyw5gdRH_hU-eZd9ea64iU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjMzLTE3MTY4MDg3/NTEtNDE3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/--vk7F69PKPSj10RA_HnainSHzDfDDoePUsAiyVJmlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjMzLTE3MTY4MDg3/NTEtNDE3MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Close Your Eyes And Swing",
+        "duration": "0:31"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Black&Blue",
+        "duration": "3:19"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Government Cheese",
+        "duration": "2:45"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Children's Song",
+        "duration": "2:13"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Shame On The Devil",
+        "duration": "3:25"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "\u00c9touff\u00e9e",
+        "duration": "4:28"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Liars",
+        "duration": "0:57"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Justin",
+        "duration": "2:04"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "\"Radio\"",
+        "duration": "2:57"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Nothing Matters",
+        "duration": "2:42"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Little Homies",
+        "duration": "3:45"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Freeman",
+        "duration": "2:35"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Why Won't The Sun Come Out?",
+        "duration": "3:25"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Vince Staples",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1971480,
+        "resource_url": "https://api.discogs.com/artists/1971480",
+        "thumbnail_url": "https://i.discogs.com/g8CY7yZzu0YzpdwOZL40nRR_QGR7WF9CyKiGDwwb2fo/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzE0/ODAtMTcxNDg1ODU0/MS0xNzAxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Dark Times",
+    "data_quality": "Correct"
+  },
+  "discogs_release_id": 3498525,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,1833 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "656605152561",
+    "artist": "Japanese Breakfast",
+    "title": "Jubilee",
+    "year": 2021
+  },
+  "results": [
+    {
+      "id": 27553914,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2021",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/27553914-Japanese-Breakfast-Jubilee",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/feDnsISspfRg1tFLIMIJzp20xcQmkOgfmAK8OYGuzAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTUz/OTE0LTE2ODgyODI0/MjQtNjQyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/u9ku-iT8ms-JAoGN3KoAf17EegNN-Q8YKzdjarb9Mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTUz/OTE0LTE2ODgyODI0/MjQtNjQyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27553914",
+      "community": {
+        "want": 17,
+        "have": 9
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24bit/96kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21275353,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308016109"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/21275353-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/9vgHmltA0YC6qi9T1GO5wQHHarq26nNQtWBmrwSxOWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjc1/MzUzLTE2MzkzNDcw/NTYtNTE4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yebmLJEVo86sEMV_kT4jDc0Lp452KxU9ygM0KxBBfSg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjc1/MzUzLTE2MzkzNDcw/NTYtNTE4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21275353",
+      "community": {
+        "want": 235,
+        "have": 254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green Transparent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21342085,
+      "title": "Japanese Breakfast - Jubilee ",
+      "master_id": 2124691,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 56605 15251 6",
+        "LC 29265"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/21342085-Japanese-Breakfast-Jubilee-",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/NkFNu69niqpaNAEpevN44Xbq8xJiSjcye4wEV864n8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQy/MDg1LTE2Mzk0Mzk2/NzctMTQ5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KSDjVKJxXoyjliMbZ8SK49wEL0bjP_u79kqnLrYJ1aE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQy/MDg1LTE2Mzk0Mzk2/NzctMTQ5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21342085",
+      "community": {
+        "want": 308,
+        "have": 595
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow & Black Swirl",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21086185,
+      "title": "Japanese Breakfast - Jubilee ",
+      "master_id": 2124691,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "LC 29265",
+        "6 56605 15251 6",
+        "617308014082"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/21086185-Japanese-Breakfast-Jubilee-",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/qDd2LSWI-YWNZAxjowGe6ZsTwmjoVKUmHgCnKOeIZzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg2/MTg1LTE2Mzc5ODMy/MjYtNzEyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/a5NsrBBnN4-hllk6m3Vfzux6ZjTujxy95Hht-p7NxMI/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg2/MTg1LTE2Mzc5ODMy/MjYtNzEyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21086185",
+      "community": {
+        "want": 277,
+        "have": 524
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow / Green [Radioactive Yellow]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18988069,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 56605 15251 6",
+        "LC 29265",
+        "DOC225LP-A CM",
+        "DOC225LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18988069-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/aA5QnNJzOM9gqopdpS9M7gxWS_J07KMllo8cafIUUzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/MDY5LTE2MjI3NTI2/MTktODI4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UE3CHjMVlzCGMLNz-JCCh1cNb-ayH4fokcZVm8SRzRc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg4/MDY5LTE2MjI3NTI2/MTktODI4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18988069",
+      "community": {
+        "want": 760,
+        "have": 6011
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19019221,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Secretly Society",
+        "Spice House Sound",
+        "Record Technology Incorporated",
+        "Secretly Society"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516",
+        "6 5660-51525-4 7",
+        "LC 29265",
+        "DOC 225 LP-A 210321 37622.1(3)... cm",
+        "DOC 225 LP-B 210321 37622.2(3)... cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/19019221-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/W-CxkcOQFtHmqp0Af62pP5WHqFhGWRJ972MmOFr2qf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE5/MjIxLTE2MjMxNzc4/NTctNzgwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/v7fL4p77kXifZw02JpwUkeeeZgkKRG5XN5wHfuHmaXc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE5/MjIxLTE2MjMxNzc4/NTctNzgwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19019221",
+      "community": {
+        "want": 389,
+        "have": 755
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Opaque Pink Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28906864,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516",
+        "DOC225LP-A 210321 CM 37622.2(3)...",
+        "DOC225LP-B 210321 CM 37622.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/28906864-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/3Ft6ysMqFrygFlEqZOdU5zi7faVjJOOXhA17dG0A4W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA2/ODY0LTE2OTk5MTQx/ODktMjYwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Wpo77sI6VIYLyyWEWZQCLD9ILo5hYpCczh37Cbvrfn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA2/ODY0LTE2OTk5MTQx/ODktMjYwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28906864",
+      "community": {
+        "want": 81,
+        "have": 321
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24599510,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Spice House Sound",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516",
+        "DOC225LP-A   CM",
+        "DOC225LP-B 210321 CM 37622.2(3)...",
+        "DOC225LP-A CM",
+        "DOC225LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/24599510-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/zxkACHyu3sijCiopmZHTpbO1N2ZThayuP_7b65fxaLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk5/NTEwLTE3MTUyMzAw/NTAtMzMzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wYQAUTDWWXnr2n7ndztrt_JdOJnxg7SkpOouXmxh3fE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk5/NTEwLTE3MTUyMzAw/NTAtMzMzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24599510",
+      "community": {
+        "want": 134,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear with Yellow Swirl; Bandcamp Bundle: Jubilee Enamel Pin, Jubilee Slipmat",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18983230,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308003734"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18983230-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/ki6oVedx2myzV2vNkhfqckvjW3TAbtuS2NUyzDc1c0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgz/MjMwLTE2MjI3NTMw/NjgtMzg3Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9SrrMIJ3NSEBC2_BNaYbIWvbx0DdymMY76LkkokDjTY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgz/MjMwLTE2MjI3NTMw/NjgtMzg3Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18983230",
+      "community": {
+        "want": 334,
+        "have": 175
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Coke Bottle Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18935578,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop",
+        "Synth-pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "End Of An Ear"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308003758",
+        "DOC225LP-A CM",
+        "DOC225LP-A CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18935578-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/CAxTbFhccUv6QDvqz3iw0ZnGYdX95FUMNsZPPkGCc2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM1/NTc4LTE2MjIzMDk4/ODItMTkzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f_YpD8ww4XfyVNiJee0wdijvX41ov1UNeTW9iUHfyqg/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM1/NTc4LTE2MjIzMDk4/ODItMTkzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18935578",
+      "community": {
+        "want": 369,
+        "have": 269
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26240450,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2021",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/26240450-Japanese-Breakfast-Jubilee",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/NKuS46TKLr6Guhr4N_E2h3vhOw3Rdxgp23Pw6xLSLAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQw/NDUwLTE2Nzc0Njgz/OTQtNjA4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/mG1vWod1h9qosXWuEI7anbi45Uui0XZibPhOZHJhPQA/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQw/NDUwLTE2Nzc0Njgz/OTQtNjA4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26240450",
+      "community": {
+        "want": 12,
+        "have": 11
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18924697,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Spice House Sound",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152530",
+        "DOC225LP-A   CM",
+        "DOC225LP-B   210321   CM   37622.2(3)...",
+        "DOC225LP-A CM",
+        "DOC225LP-B CM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18924697-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/uhHqQ4LmGhen1whPz3B2KZyDh9WqIFNmfGHmg_ZGonw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI0/Njk3LTE2MjI3NDQy/NTMtMjQ4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/P7mnhs_AnlUMIWrWgdMHs6T8YOYS8P2fiLXMMTUTtjo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI0/Njk3LTE2MjI3NDQy/NTMtMjQ4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18924697",
+      "community": {
+        "want": 724,
+        "have": 3066
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Yellow Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18925789,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Synth-pop",
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516",
+        "617308003765",
+        "DOC2255LP-A  CM",
+        "DOC2255LP-B  CM 210321 37622.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18925789-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/JpHEUifWMYRLvJ756TMB4gZ28UqdbO8Vwzr6fc7Xyvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI1/Nzg5LTE2MjIyNDkz/NTItNjQzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DgATxW4g1iAxv1mLSlKCjD1xT5hhNATBWnoOVnBqLVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI1/Nzg5LTE2MjIyNDkz/NTItNjQzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18925789",
+      "community": {
+        "want": 420,
+        "have": 599
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink Translucent [Pink Glass]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19055890,
+      "title": "Japanese Breakfast - Jubilee ",
+      "master_id": 2124691,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "TTL Editions",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound",
+        "Turntable Lab"
+      ],
+      "type": "release",
+      "barcode": [
+        "LC 29265",
+        "6 56605 15251 6",
+        "6 1730 80037 4 1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/19055890-Japanese-Breakfast-Jubilee-",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/i7jsn6vOqVEoevxcWvitexSLnEj3bzeaez1wjs7k2uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU1/ODkwLTE2MjMzMzY2/MDEtNjk1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RZRtO4fQQijvLjpZgupGNt9QRO-76VJJFaK595QRL5k/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU1/ODkwLTE2MjMzMzY2/MDEtNjk1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19055890",
+      "community": {
+        "want": 371,
+        "have": 572
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Opaque",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31008070,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Record Technology Incorporated",
+        "Copycats Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "DOC 225 LP-A 210321 37622.1(3)... cm",
+        "DOC 225 LP-B 210321 37622.2(3)... cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/31008070-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/xccHdWM0aURrp2nWV7SvG1KJcxnM3navvDWvNgP0UQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA4/MDcwLTE3MTg4NTU5/MDMtMTUwMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tHHDd-siQBAGsgY0MbRPkFgxT3joad8Q5nWY_fjiKlY/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA4/MDcwLTE3MTg4NTU5/MDMtMTUwMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31008070",
+      "community": {
+        "want": 44,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18688387,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Vinyl Me, Please",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152554",
+        "656605152516",
+        "LC 29265"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18688387-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/a_hh--NAxI447WZegK_AYzBOBmEjK0UtQEFG2QhSi-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNTQwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4Pxm5O8yYzVGpZ198rkC8eWMVzdwC5DSUcDUGkuU234/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNTQwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18688387",
+      "community": {
+        "want": 1086,
+        "have": 853
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear with Orange Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19007908,
+      "title": "Japanese Breakfast - Jubilee ",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 1730 - 80042 - 7 4",
+        "6 56605 15251 6",
+        "LC 29265",
+        "DOC225LP-A   CM",
+        "DOC225LP-B   210321   CM   37622.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/19007908-Japanese-Breakfast-Jubilee-",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/SsU-Z7bstkZ64mSRIMXOaQvLbJXlKrPBxUoZzNFKUt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA3/OTA4LTE2MjI4MjU2/MzYtMjkyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/54yGQ7kK51iWNNFxtMn1deyc4nk7UCmBeR3XFJzwMG8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA3/OTA4LTE2MjI4MjU2/MzYtMjkyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19007908",
+      "community": {
+        "want": 438,
+        "have": 511
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Turquoise Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20132491,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "4526180564027"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/20132491-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225JCD",
+      "thumb": "https://i.discogs.com/HfFvsMczpAMRU8g8563OCNjWYQspY6rHqcepujIlJqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMy/NDkxLTE2NTY3NTMz/MTQtNzM2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f7pKh5NlAPR_NCifGMc8MnrAaDSKjei4IswKAqqfH9w/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMy/NDkxLTE2NTY3NTMz/MTQtNzM2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20132491",
+      "community": {
+        "want": 69,
+        "have": 22
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19008385,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308004854",
+        "656605152516",
+        "LC 29265",
+        "DOC 225 LP-A cm",
+        "DOC 225 LP-B cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/19008385-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/h5dXamDnxc3965rbPw6awWmobKahxdXsbMzi9hGFQ04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/Mzg1LTE2ODQyNzIw/NjktNTMwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LOYwuSRjrlBcRs5LCNFyKjnRrkr3AuTFUPzM3rIftfc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA4/Mzg1LTE2ODQyNzIw/NjktNTMwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19008385",
+      "community": {
+        "want": 534,
+        "have": 1819
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Yellow Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18991360,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152523",
+        "6 56605 15252 3",
+        "LC 29265",
+        "USJ5G2022501",
+        "USJ5G2022502",
+        "USJ5G2022503",
+        "USJ5G2022504",
+        "USJ5G2022505",
+        "USJ5G2022506",
+        "USJ5G2022507",
+        "USJ5G2022508",
+        "USJ5G2022509",
+        "USJ5G2022510",
+        "DOC225CD 6745-CD-4432 21-078-06",
+        "IFPI LK13",
+        "IFPI L822",
+        "DOC225CD 6745-CD-4432 21-65-20-2",
+        "IFPI LY89",
+        "IFPI L820",
+        "DOC225CD 6745-CD-4432 21-165-20-2",
+        "IFPI LY89",
+        "IFPI L822"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18991360-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/almKcXNJDMLYnj_iXXnmiGHUe0ueOwYhTmmcVfNaNPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTkx/MzYwLTE2MjI3NTc4/MDgtNTMzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6p9QQCfxFKwpdmVjnE0CCX8WvL8jvx21Iuiez5JOdxM/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTkx/MzYwLTE2MjI3NTc4/MDgtNTMzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18991360",
+      "community": {
+        "want": 311,
+        "have": 973
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26428325,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152523",
+        "6 56605 15252 3",
+        "LC 29265",
+        "USJ5G2022501",
+        "USJ5G2022502",
+        "USJ5G2022503",
+        "USJ5G2022504",
+        "USJ5G2022505",
+        "USJ5G2022506",
+        "USJ5G2022507",
+        "USJ5G2022508",
+        "USJ5G2022509",
+        "USJ5G2022510",
+        "DOC225CD - Breakfast",
+        "none",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/26428325-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/hJ0XtAqNXYpfmos50kdyH1RwSWLz7dw7hAd0fTYJf8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDI4/MzI1LTE2Nzg4ODY1/MjAtOTg2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-qEYQ0csZaNU4CL04LoXAH3-I_pZYSYRWGG13ezfO0o/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDI4/MzI1LTE2Nzg4ODY1/MjAtOTg2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26428325",
+      "community": {
+        "want": 62,
+        "have": 136
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18935125,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152592"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/18935125-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/06AYHTIA9HvthVuGiQW7ujXJ0D-3W3ebcQCUqZTn_z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM1/MTI1LTE2MjMzMzAy/MDMtMzAwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hKSLflYA-MCLbUTwWa-2pLgZULXpG36SdtLtIjCuz0U/rs:fit/g:sm/q:90/h:948/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM1/MTI1LTE2MjMzMzAy/MDMtMzAwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18935125",
+      "community": {
+        "want": 145,
+        "have": 409
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28021320,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Record Technology Incorporated",
+        "A to Z Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "DOC 225 LP-A 210321 37622.1(3)... cm",
+        "DOC 225 LP-B 210321 37622.2(3)... cm"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/28021320-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/TMFtx_qjzK41f0bo9L6fIfHtPjtr87nv_EN7FIU3BBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDIx/MzIwLTE2OTI0ODA3/OTYtNDQyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FZdi8vUal6f966Uz2iX336GowCpFcNUcYTng2XVXWKg/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDIx/MzIwLTE2OTI0ODA3/OTYtNDQyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28021320",
+      "community": {
+        "want": 50,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25338562,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Spice House Sound",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516",
+        "6 56605 15251 6",
+        "LC 29265",
+        "10-94618 / DOC225LP - A 239808E1/C",
+        "10-94618 / DOC225LP - B 239808E2/B",
+        "10-94618 / DOC225LP - A 239808E1/C",
+        "10-94618 / DOC225LP - B 239808E2/C",
+        "10-94618 / DOC225LP - A 239808E1/H",
+        "10-94618 / DOC225LP - A 239808E1/L",
+        "10-94618 / DOC225LP - A 239808E1/D",
+        "10-94618 / DOC225LP - B 239808E2/D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/25338562-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/Bz6Kctdz_mI-o1iey61D9--mGiEVD1fndrHCcySLOuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM4/NTYyLTE2Njk5NTg1/MTMtNDU4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-bzIczOpYoduIAHCMcqLiLozFQ5v2r6-Oj2SH4UrZv4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzM4/NTYyLTE2Njk5NTg1/MTMtNDU4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25338562",
+      "community": {
+        "want": 184,
+        "have": 995
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21174052,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Brooklyn Vegan"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152516"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/21174052-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225LP",
+      "thumb": "https://i.discogs.com/Ar8IEFWfPuxI05VOHgPKuKJuy9Um2uwmNKFWaVRYCDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTc0/MDUyLTE2MzgyNTAw/MzktMzQzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/US2kfLCQ-a9M4-44_MMDjvHULChYkfE_HZCrmWDt38A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTc0/MDUyLTE2MzgyNTAw/MzktMzQzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21174052",
+      "community": {
+        "want": 246,
+        "have": 916
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Translucent Yellow",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19423381,
+      "title": "Japanese Breakfast - Jubilee",
+      "master_id": 2124691,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Japan",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Spice House Sound",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605152530",
+        "4526180566199",
+        "DOC225LP-A   CM",
+        "DOC225LP-B   CM   "
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2124691",
+      "uri": "/release/19423381-Japanese-Breakfast-Jubilee",
+      "catno": "DOC225",
+      "thumb": "https://i.discogs.com/hQYTFCaprr1Vb6t_o106Ew8W38nhXFgjKO8kCyZyOSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIz/MzgxLTE2MjU3Njcz/MzQtOTcxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LCfIPVE02sV8yd2TszBjLYCvoM1jqmzt2DthwF5Sr5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDIz/MzgxLTE2MjU3Njcz/MzQtOTcxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19423381",
+      "community": {
+        "want": 245,
+        "have": 67
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Yellow Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2124691,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Indie Rock",
+      "Indie Pop"
+    ],
+    "main_release": 18688387,
+    "most_recent_release": 34398277,
+    "resource_url": "https://api.discogs.com/masters/2124691",
+    "uri": "https://www.discogs.com/master/2124691-Japanese-Breakfast-Jubilee",
+    "versions_url": "https://api.discogs.com/masters/2124691/versions",
+    "main_release_url": "https://api.discogs.com/releases/18688387",
+    "most_recent_release_url": "https://api.discogs.com/releases/34398277",
+    "num_for_sale": 301,
+    "lowest_price": 9.3,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/4Pxm5O8yYzVGpZ198rkC8eWMVzdwC5DSUcDUGkuU234/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNTQwNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4Pxm5O8yYzVGpZ198rkC8eWMVzdwC5DSUcDUGkuU234/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNTQwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a_hh--NAxI447WZegK_AYzBOBmEjK0UtQEFG2QhSi-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNTQwNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PVujLkUg5_JLp0t0etizLozh-4DnC0KuJpz7qXsPbRQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNDI4NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/PVujLkUg5_JLp0t0etizLozh-4DnC0KuJpz7qXsPbRQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNDI4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XmMwxpR2C_F9bgNY8UlcRfxpFaFjROez2_v-7c9CFcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjMtNDI4NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/z5u2MzqWhMENmDDvpUkbLgWKuaDHpEi6uw99u1X1yP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjctMTUxNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/z5u2MzqWhMENmDDvpUkbLgWKuaDHpEi6uw99u1X1yP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjctMTUxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/eD-vGnrK982buq0tczH0fHhT6IJJlDYSWBroDMo8L5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjctMTUxNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zvt81gl9oYBf-75dFV3zZD51SG8xUjl-i3y0e6yQWX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjUtODczMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/zvt81gl9oYBf-75dFV3zZD51SG8xUjl-i3y0e6yQWX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjUtODczMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zAw0r1mUo10C_Dz-fGOmpb9lNySd_l5aKdi7lItTo9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjUtODczMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cGzE2ODvlLz9RQEUr1xD__hsyVAAlhsd7Fn3F9_ATrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjgtNDQwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/cGzE2ODvlLz9RQEUr1xD__hsyVAAlhsd7Fn3F9_ATrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjgtNDQwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9ZxLRL2sKQfbLoTGYQjnYzgdDjlLjvHIKyVAe19ChHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjA3Njg2/MjgtNDQwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/588A1YvD-rShhcIU7EzVG9QODHTcp31IqyLfvX29nFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzMtMzQyOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/588A1YvD-rShhcIU7EzVG9QODHTcp31IqyLfvX29nFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzMtMzQyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UDXXgj2kSmCxXS5kLLVh6_X3j7bPHgwyAsA2YW2uR9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzMtMzQyOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6DefmEO1-XrPLQiU2G8PopjTHuZGNlxPz_eaxQdOd-k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtODU5My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/6DefmEO1-XrPLQiU2G8PopjTHuZGNlxPz_eaxQdOd-k/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtODU5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/a7ZlYOXpjmrdYO6ilyh4ISVAwIHPOeOiZqsJxvN3n7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtODU5My5qcGVn.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qosQORsDcovMn-i4Glkcjd5NhBVLuYBWt-f-WpeMXbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtNzI5MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qosQORsDcovMn-i4Glkcjd5NhBVLuYBWt-f-WpeMXbk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtNzI5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jMflJXsEulvAoiGFSTZ3gt4nzXUQPFjfBSe6nWCOn4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtNzI5MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8VgruVQFZ0T_QAy5fsQ6Perw6rrwKzz22d5ZhtaC8YQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtOTM4NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/8VgruVQFZ0T_QAy5fsQ6Perw6rrwKzz22d5ZhtaC8YQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtOTM4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uGVxOZdUF6nli-hKPouD7TGT75Z_YfEId_Fo6DOf4FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzYtOTM4NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FHXfpuWeQgbUIc_tlLEUdfhQ5EeRM6rYXjIgXbcw6W4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzQtNzE0Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FHXfpuWeQgbUIc_tlLEUdfhQ5EeRM6rYXjIgXbcw6W4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzQtNzE0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QIWhHaWLjlQle8MgRXr5Zw_wHxPVQD_MD9haOtqWy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg4/Mzg3LTE2MjI2ODUx/MzQtNzE0Ni5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      }
+    ],
+    "year": 2021,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Paprika",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Be Sweet",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Kokomo, IN",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Slide Tackle",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Posing In Bondage",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Sit",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Savage Good Boy",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "In Hell",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Tactics",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Posing For Cars",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Japanese Breakfast",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3602279,
+        "resource_url": "https://api.discogs.com/artists/3602279",
+        "thumbnail_url": "https://i.discogs.com/eJflhaFY92jiQO5w7ic7x50-6LMVF9YDBO3NN9NND90/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2MDIy/NzktMTc0MjAwNTA5/My01NzE4LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Jubilee",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=mcoC5ZgaFjY",
+        "title": "Japanese Breakfast - Savage Good Boy (Official Video)",
+        "description": "\u201cSavage Good Boy\u201d the new song by Japanese Breakfast from the album \u2018Jubilee\u2019, out June 4th on Dead Oceans.\n\nSTREAM/BUY: https://japanesebreakfast.ffm.to/jubilee\n\nhttp://japanesebreakfast.rocks/\nhttps://www.instagram.com/jbrekkie/\nhttps://twitter.",
+        "duration": 147,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2ZfcZEIo6Bw",
+        "title": "Japanese Breakfast - Be Sweet (Official Video)",
+        "description": "\"Be Sweet\" the new song by Japanese Breakfast from 'Jubilee', out June 4th on Dead Oceans.\nSTREAM/BUY: https://japanesebreakfast.ffm.to/jubilee\n\nhttp://japanesebreakfast.rocks/\nhttps://www.instagram.com/jbrekkie/\nhttps://twitter.com/jbrekkie\n\nLyrics:\nTell",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=q2pQIqR-m_w",
+        "title": "Japanese Breakfast - Posing In Bondage (Official Video)",
+        "description": "\u201cPosing in Bondage\u201d the new song by Japanese Breakfast from the album \u2018Jubilee\u2019, out June 4th on Dead Oceans.\nSTREAM/BUY: https://japanesebreakfast.ffm.to/jubilee\n\nhttp://japanesebreakfast.rocks/\nhttps://www.instagram.com/jbrekkie/\nhttps://twitter",
+        "duration": 264,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aA5l2qsX_O8",
+        "title": "Paprika",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nPaprika \u00b7 Japanese Breakfast\n\nJubilee\n\n\u2117 2021 Dead Oceans\n\nReleased on: 2021-06-04\n\nComposer: Michelle Zauner\nLyricist: Michelle Zauner\n\nAuto-generated by YouTube.",
+        "duration": 221,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=iukT568feEw",
+        "title": "Sit",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nSit \u00b7 Japanese Breakfast\n\nJubilee\n\n\u2117 2021 Dead Oceans\n\nReleased on: 2021-06-04\n\nComposer: Michelle Zauner\nLyricist: Michelle Zauner\n\nAuto-generated by YouTube.",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-LJNqfcvKOI",
+        "title": "Tactics",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nTactics \u00b7 Japanese Breakfast\n\nJubilee\n\n\u2117 2021 Dead Oceans\n\nReleased on: 2021-06-04\n\nComposer: Michelle Zauner\nLyricist: Michelle Zauner\n\nAuto-generated by YouTube.",
+        "duration": 234,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=u1fwn0O2GJw",
+        "title": "In Hell",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nIn Hell \u00b7 Japanese Breakfast\n\nJubilee\n\n\u2117 2021 Dead Oceans\n\nReleased on: 2021-06-04\n\nComposer: Michelle Zauner\nLyricist: Michelle Zauner\n\nAuto-generated by YouTube.",
+        "duration": 159,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BNV1rm16zhE",
+        "title": "Kokomo, IN",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nKokomo, IN \u00b7 Japanese Breakfast\n\nJubilee\n\n\u2117 2021 Dead Oceans\n\nReleased on: 2021-06-04\n\nComposer: Michelle Zauner\nLyricist: Michelle Zauner\n\nAuto-generated by YouTube.",
+        "duration": 219,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2124691,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

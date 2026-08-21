@@ -1,0 +1,1056 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5054429157048",
+    "artist": "Young Fathers",
+    "title": "Heavy Heavy",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 25991446,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Experimental"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "White Label"
+      ],
+      "label": [
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "barcode": [
+        "ZEN 285 A1  = MATT @ METROPOLIS",
+        "MPO 22 288706",
+        "ZEN 285 B1",
+        "MPO 22 288078"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25991446-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285W",
+      "thumb": "https://i.discogs.com/q5zDhOw5slU3krBUDmOYP0oJyOPC6DAjSvomqmGD2fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTkx/NDQ2LTE2NzU1MzYy/NDMtNTQ5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4kGtvhkKbejO3L4jL0TzV5cseXOthyJzMNFsdBhRZAQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTkx/NDQ2LTE2NzU1MzYy/NDMtNTQ5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25991446",
+      "community": {
+        "want": 68,
+        "have": 169
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "140g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26026846,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429158021"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/26026846-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285SF",
+      "thumb": "https://i.discogs.com/UiJ7TaqnZJ72gf6Qm3MB0RzmeG0L63_tAIGpEsBk56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI2/ODQ2LTE2NzU4MDQ4/ODktNTc5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/l5fToZHfB0_WHZgGnOqTNlQjKTL8Gs9uXgi3xwnxtX4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI2/ODQ2LTE2NzU4MDQ4/ODktNTc5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26026846",
+      "community": {
+        "want": 45,
+        "have": 71
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Opaque, 140g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26030266,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Trip Hop",
+        "Experimental"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Beat Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/26030266-Young-Fathers-Heavy-Heavy",
+      "catno": "BRC730",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/26030266",
+      "community": {
+        "want": 21,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25969858,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Gospel",
+        "Psychedelic"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios",
+        "Northwind Recording",
+        "Metropolis Mastering",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429157994",
+        "LC-12885",
+        "ZEN285 A1  MPO\u24c7 22 288200  = Matt @ Metropolis = ",
+        "ZEN285 B1  MPO\u24c7 22 288201 ",
+        "= Matt @ Metropolis = ZEN285 A1 MPO\u24c7 22 288168 ",
+        "= Matt @ Metropolis = ZEN285 B1 MPO\u24c7 22 288105"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25969858-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285N",
+      "thumb": "https://i.discogs.com/dSwaWeVENwfMWguR5vaMT3Sl2iXF7w4JVDlfsA0q6Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/ODU4LTE2NzUzNjU5/ODMtMTQyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xre6kKbWAByCEdcYBX5nI_qpYqyThEKj8dg73lpYeDk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTY5/ODU4LTE2NzUzNjU5/ODMtMTQyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25969858",
+      "community": {
+        "want": 194,
+        "have": 1617
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Opaque, 140g",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26394521,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Gospel",
+        "Psychedelic"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios",
+        "Northwind Recording",
+        "Metropolis Mastering",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429158038",
+        "LC-12885"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/26394521-Young-Fathers-Heavy-Heavy",
+      "catno": "ZENCAS285",
+      "thumb": "https://i.discogs.com/B2rJ7CyzA5orlPqkmWw9TuwFTJm_9wm461zfEF4m9_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk0/NTIxLTE2Nzg2Mjg4/NDgtMzk4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lBJvdKCA7EZYre3VV-5QdChl8SfWR0qO0il2p2fq4fE/rs:fit/g:sm/q:90/h:959/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk0/NTIxLTE2Nzg2Mjg4/NDgtMzk4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26394521",
+      "community": {
+        "want": 20,
+        "have": 27
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25978696,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [
+        "Conscious",
+        "Leftfield"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Metropolis Mastering",
+        "MPO",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios",
+        "Northwind Recording"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429157987",
+        "LC-12885",
+        "ZEN 285 A1 [MPO logo]\u00ae 22 290805 =MATT @ METROPOLIS=",
+        "ZEN 285 B1 [MPO logo]\u00ae 22 290804"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25978696-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285X",
+      "thumb": "https://i.discogs.com/YRCTPiZ92Hkl5hgynRXtBUsfG62VZXgDo9ZPj7FC_xI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/Njk2LTE2Nzg4NDA5/NTQtNjc1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IfNO9iH8rl0rG4SsTx_pG9KA9Qd_GcJwJ5w_YKafQT4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/Njk2LTE2Nzg4NDA5/NTQtNjc1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25978696",
+      "community": {
+        "want": 76,
+        "have": 406
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White, 140g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29349316,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ambient"
+      ],
+      "country": "UK & Ireland",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Resident"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429190267"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/29349316-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285RA",
+      "thumb": "https://i.discogs.com/85aUoBlK43F89KH4seVeQ3vtcKY6CNJzQAAS2UTwa5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ5/MzE2LTE3MDM5NTQ1/NDEtNzA0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/grWiMsmHtLPHAgsAgTbStoy88l-7sWSlfvaW_Urrq6Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ5/MzE2LTE3MDM5NTQ1/NDEtNzA0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29349316",
+      "community": {
+        "want": 45,
+        "have": 72
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White W/ Pink Splatter, Resident Album Of The Year Edition",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27844491,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Test Pressing"
+      ],
+      "label": [
+        "Ninja Tune",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/27844491-Young-Fathers-Heavy-Heavy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/guqA2bW_IRzPLTG8PZZDYk1XSf0tuB-wM4ny6iNCIOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQ0/NDkxLTE2OTA4OTU3/NzMtNDA3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/23ZlwkGgtlrDmxi6QtsFZUpim7NCA4PzKsZIJ0UizeI/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQ0/NDkxLTE2OTA4OTU3/NzMtNDA3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27844491",
+      "community": {
+        "want": 25,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25978300,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios",
+        "Metropolis Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429158014",
+        "ZEN285 A1 = MATT @ METROPOLIS=",
+        "ZEN285 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25978300-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285RT",
+      "thumb": "https://i.discogs.com/PhvFS5c1pRbLrrmWWs-D0PgUuINvAA63ugUqpdAQx4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MzAwLTE2NzU0NDk0/NDMtNjcyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EFgynu5F6QeOvc3wmSYf3EVMtPjGQwDqE9SQWzdeUYQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MzAwLTE2NzU0NDk0/NDMtNjcyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25978300",
+      "community": {
+        "want": 95,
+        "have": 264
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Opaque, 140gm",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26002492,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Trip Hop",
+        "Experimental"
+      ],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429157062",
+        "LC-12885",
+        "none",
+        "none",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/26002492-Young-Fathers-Heavy-Heavy",
+      "catno": "ZENCD285",
+      "thumb": "https://i.discogs.com/tesHb1fyltU3CRF8mvVJU9BSVT5p-WfgKJbgfZbJlm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDAy/NDkyLTE2NzU3Njkw/OTYtMTMzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/20TLSsMBX_R7Y14MnInYo3Ms4ZQ-D6AGBqh5bkZ6B2A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDAy/NDkyLTE2NzU3Njkw/OTYtMTMzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26002492",
+      "community": {
+        "want": 74,
+        "have": 336
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25976959,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25976959-Young-Fathers-Heavy-Heavy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/e9-AlpwuBRbdV8hZcJrBagpSVjFibff6sVEAGzCPWS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/OTU5LTE2NzU0MjYw/NzYtNzUzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NNuOF39RRNtANoT3ICFkB0MbeE6Df41nFmZPbT2v-QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/OTU5LTE2NzU0MjYw/NzYtNzUzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25976959",
+      "community": {
+        "want": 28,
+        "have": 69
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "24b / 44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29095294,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Out Of The Blue, Leith",
+        "Narcissus Studios",
+        "Metropolis Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429178159",
+        "ZEN285 A1 = MATT @ METROPOLIS=",
+        "ZEN285 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/29095294-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285RTAY",
+      "thumb": "https://i.discogs.com/rI1Q_ru4D37EvYvCwUTKG0lC-xYf1rbwhTJPF5UlCy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk1/Mjk0LTE3MDg0NzE1/NzctMzU0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QtgJT8PqAJ6ChqYvN85Yw5Nni_5I1eeQBwqc32rSImY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk1/Mjk0LTE3MDg0NzE1/NzctMzU0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29095294",
+      "community": {
+        "want": 46,
+        "have": 110
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Rose Pink Vinyl",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25999315,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [
+        "Conscious",
+        "Leftfield"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Ninja Tune",
+        "Ninja Tune",
+        "Metropolis Mastering",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429171600",
+        "LC-12885",
+        "ZEN 285 A1 [MPO logo]\u00ae 22 290805 =MATT @ METROPOLIS=",
+        "ZEN 285 B1 [MPO logo]\u00ae 22 290804"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25999315-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285A",
+      "thumb": "https://i.discogs.com/VvSUJ3tBvCtRzS5SknfxzjCsXxFYccWZcEt0H2h33aU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk5/MzE1LTE2NzU1OTc0/MjYtMzA0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7qINV_ztyyeZ3BHDlzIaHrLrP5rT-JmUL39NUzXMIKE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk5/MzE1LTE2NzU1OTc0/MjYtMzA0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25999315",
+      "community": {
+        "want": 85,
+        "have": 376
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White, 140g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26248415,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Ninja Tune",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "MPO",
+        "Vinyl Me, Please"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429157055",
+        "ZEN 285 A1  = MATT @ METROPOLIS",
+        "MPO 22 288706",
+        "ZEN 285 B1",
+        "MPO 22 288078"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/26248415-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285",
+      "thumb": "https://i.discogs.com/LiOoPq_n2qXpcbp6l8Hk_8m9mfhexFg05jDXIixvLHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ4/NDE1LTE3MTc1NDkz/MTUtNTcxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cX-uW5lPwtvX53fxEqM8Mazxzw41cIMJ0AOZFq9fM6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ4/NDE1LTE3MTc1NDkz/MTUtNTcxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26248415",
+      "community": {
+        "want": 93,
+        "have": 254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gray",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25976887,
+      "title": "Young Fathers - Heavy Heavy",
+      "master_id": 2965330,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Ninja Tune"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429157055",
+        "ZEN 285 A1  = MATT @ METROPOLIS",
+        "MPO 22 288706",
+        "ZEN 285 B1",
+        "MPO 22 288078"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2965330",
+      "uri": "/release/25976887-Young-Fathers-Heavy-Heavy",
+      "catno": "ZEN285",
+      "thumb": "https://i.discogs.com/bo8_c-7mcQpGp9zlMRMCpgosQwvbA-RnKIw4vm6Z-NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/ODg3LTE2NzU0MjU1/ODQtNTEyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Gl_XODPXyzNcZG2gL_Wx6tIh5HGjnWAfE6ayghepV_A/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/ODg3LTE2NzU0MjU1/ODQtNTEyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25976887",
+      "community": {
+        "want": 199,
+        "have": 1151
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "140g",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2965330,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 25976959,
+    "most_recent_release": 35074010,
+    "resource_url": "https://api.discogs.com/masters/2965330",
+    "uri": "https://www.discogs.com/master/2965330-Young-Fathers-Heavy-Heavy",
+    "versions_url": "https://api.discogs.com/masters/2965330/versions",
+    "main_release_url": "https://api.discogs.com/releases/25976959",
+    "most_recent_release_url": "https://api.discogs.com/releases/35074010",
+    "num_for_sale": 212,
+    "lowest_price": 8.09,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NNuOF39RRNtANoT3ICFkB0MbeE6Df41nFmZPbT2v-QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/OTU5LTE2NzU0MjYw/NzYtNzUzNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/NNuOF39RRNtANoT3ICFkB0MbeE6Df41nFmZPbT2v-QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/OTU5LTE2NzU0MjYw/NzYtNzUzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/e9-AlpwuBRbdV8hZcJrBagpSVjFibff6sVEAGzCPWS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc2/OTU5LTE2NzU0MjYw/NzYtNzUzNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Rice",
+        "duration": "2:39"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "I Saw",
+        "duration": "3:27"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Drum",
+        "duration": "3:38"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Tell Somebody",
+        "duration": "3:10"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Geronimo",
+        "duration": "3:33"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Shoot Me Down",
+        "duration": "3:28"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Ululation",
+        "duration": "2:53"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Sink or Swim",
+        "duration": "3:04"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Holy Moly",
+        "duration": "3:29"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Be Your Lady",
+        "duration": "3:14"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Young Fathers",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1526704,
+        "resource_url": "https://api.discogs.com/artists/1526704",
+        "thumbnail_url": "https://i.discogs.com/0zoCNdK4dzT9POBq5SYMUbi0hW_uRv7xOuQRH2jnXPE/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MjY3/MDQtMTUxNjY1OTIz/Ny0xNDIxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Heavy Heavy",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=uPyC0JUfZrU",
+        "title": "Young Fathers - 'I Saw' (Official Video)",
+        "description": "Taken from the album 'Heavy Heavy', released 03 February 2023 on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nHeavy Heavy Tour 2023. \nTickets on sale NOW: https://bit.ly/YFTour23\n\nYoung Fathers @young_father",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-QEVHzUsV2A",
+        "title": "Young Fathers - 'Sink Or Swim' (Official Audio)",
+        "description": "Heavy Heavy', out now on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/youngfathers-am\nYouTube: https://found.ee/",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1cH9kmxJCU8",
+        "title": "Young Fathers - 'Tell Somebody' (Official Video)",
+        "description": "Taken from the album 'Heavy Heavy', released 03 February 2023 on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nYoung Fathers @young_fathers\nLabel: Ninja Tune @ninjatune\nWest Mgmt / Marc Picken & James Stanson",
+        "duration": 191,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Wue-_EBUEuk",
+        "title": "Young Fathers - 'Be Your Lady' (Official Audio)",
+        "description": "Heavy Heavy', out now on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/youngfathers-am\nYouTube: https://found.ee/",
+        "duration": 196,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=CmPrU-ygD_U",
+        "title": "Young Fathers - 'Ululation' (Official Audio)",
+        "description": "Heavy Heavy', out now on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/youngfathers-am\nYouTube: https://found.ee/",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wTc1r3VKUXI",
+        "title": "Young Fathers - 'Drum' (Official Audio)",
+        "description": "Heavy Heavy', out now on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/youngfathers-am\nYouTube: https://found.ee/",
+        "duration": 220,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AlgcqWf6evk",
+        "title": "Young Fathers - 'Rice' (Lyric Video)",
+        "description": "Taken from the album 'Heavy Heavy', released 03 February 2023 on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/yo",
+        "duration": 160,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8OTvhFGTOuM",
+        "title": "Young Fathers - 'Holy Moly' (Official Audio)",
+        "description": "Heavy Heavy', out now on Ninja Tune: https://youngfathers.lnk.to/heavyYo\nSubscribe: https://found.ee/youngfathers-ys\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: https://found.ee/youngfathers-am\nYouTube: https://found.ee/",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Ho5-hIprIlU",
+        "title": "Young Fathers - 'Geronimo' (Official Audio)",
+        "description": "New album 'Heavy Heavy', released 03 February 2023 on Ninja Tune: https://youngfathers.lnk.to/heavyYo\n'Geronimo', out now on Ninja Tune: https://youngfathers.lnk.to/geronimoYT\n\nFollow Young Fathers -\nSpotify: https://found.ee/youngfathers-sp\nApple Music: ",
+        "duration": 215,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2965330,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

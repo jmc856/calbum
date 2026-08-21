@@ -1,0 +1,1321 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602557445763",
+    "artist": "Vince Staples",
+    "title": "Big Fish Theory",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 15705238,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Australasia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "Universal Music Australia",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 602557 445725",
+        "IFPI LV91 Sony DADC [Universal logo] A0101091453-0101 16",
+        "IFPI LV91",
+        "IFPI 6543"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/15705238-Vince-Staples-Big-Fish-Theory",
+      "catno": "5744572",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/15705238",
+      "community": {
+        "want": 77,
+        "have": 13
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12582648,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 44572 5",
+        "602557445725",
+        "Sony DADC [Universal logo] 5744572 11 A00",
+        "IFPI L551",
+        "IFPI 94V6",
+        "LC 08427",
+        "BIEM / SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/12582648-Vince-Staples-Big-Fish-Theory",
+      "catno": "00602557445725",
+      "thumb": "https://i.discogs.com/cTqjehmiVxCUoKYqtMNZmHSQNCooP_l-w4ScFPAg1R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/NjQ4LTE1MzgwNDgz/MzEtNzA2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gx0TmtiNSUK89knfNvLJreqZmmZ8jqsbwi1Ms2DNzl4/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/NjQ4LTE1MzgwNDgz/MzEtNzA2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12582648",
+      "community": {
+        "want": 161,
+        "have": 80
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16282936,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Hip Hop",
+        "Hip-House",
+        "UK Garage",
+        "Techno",
+        "Experimental",
+        "Deconstructed Club",
+        "Hardcore Hip-Hop",
+        "Hyphy",
+        "Glitch Hop",
+        "Avantgarde",
+        "Leftfield"
+      ],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1440887126"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/16282936-Vince-Staples-Big-Fish-Theory",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Neqt7cx8EFjZGEQK06uPBf3PsC9BJSV0EX-vwK83n6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/OTM2LTE2NjYwMzg4/OTEtNjUwMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IUVU6Bmx6bGOaQYAqcVS1GwEEtUHnUSCMnGu9qWJvkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/OTM2LTE2NjYwMzg4/OTEtNjUwMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16282936",
+      "community": {
+        "want": 88,
+        "have": 12
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23529125,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/23529125-Vince-Staples-Big-Fish-Theory",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/T7cJpfWhWenHldbNAbemh6E8yoA0foM5C7ZGmNqBDLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/MTI1LTE2NTQ4NzA1/MjAtNzMxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YOTsnNomEOBnJWl2Z74fXNNHtysREXPxuP0shddOBTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/MTI1LTE2NTQ4NzA1/MjAtNzMxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23529125",
+      "community": {
+        "want": 18,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24b/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10480302,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 44572 5",
+        "arvato 56861285/00602557445725 21",
+        "IFPI LB47",
+        "IFPI 0795",
+        "LC 08427",
+        "BIEM / SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/10480302-Vince-Staples-Big-Fish-Theory",
+      "catno": "00602557445725",
+      "thumb": "https://i.discogs.com/2UkQPfgtuSIm39VjuIf0kzfy-TgZNVDFJHnC48OqZnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgw/MzAyLTE2OTg3NjA5/MjYtMjc0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PEn7eFm490JBH7fKGUVEQJlJW_WIWvFSeGfAHtmbCoY/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgw/MzAyLTE2OTg3NjA5/MjYtMjc0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10480302",
+      "community": {
+        "want": 275,
+        "have": 260
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11027376,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Hip Hop",
+        "Hip-House",
+        "Techno",
+        "Experimental",
+        "Deconstructed Club",
+        "Hardcore Hip-Hop",
+        "Hyphy",
+        "Glitch Hop"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Picture Disc"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Urban Outfitters",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0026995-01 LP01-A 162336E1/A",
+        "B0026995-01 LP01-B 162336E2/A",
+        "B0026995-01 LP02-A 162336E3/A",
+        "B0026995-01 LP02-B 162336E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/11027376-Vince-Staples-Big-Fish-Theory",
+      "catno": "B0026416-01",
+      "thumb": "https://i.discogs.com/LsZHFQ_NO4qVcmdH6FzuP3L3a81nDDw0LO-Wne4vOBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI3/Mzc2LTE2NTA3NjM4/ODgtODgyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VnvKXsxHdoZXOqq8hAPveG2FlHwwuKivRLExE-m6288/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI3/Mzc2LTE2NTA3NjM4/ODgtODgyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11027376",
+      "community": {
+        "want": 1489,
+        "have": 848
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25303201,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6025574458310"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/25303201-Vince-Staples-Big-Fish-Theory",
+      "catno": "00602557445725LP",
+      "thumb": "https://i.discogs.com/S9f-W610XKgBQI8rrOIsIvXwgDgBly45IXzKSKJ5Uc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzAz/MjAxLTE2Njk1ODg5/ODgtNzkzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2vsG4YfpAnMULsbrsS1fVvKZa7TDyUvSUfvhpjGF_sA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzAz/MjAxLTE2Njk1ODg5/ODgtNzkzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25303201",
+      "community": {
+        "want": 194,
+        "have": 88
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11271320,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "AIFF",
+        "FLAC",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0714FWYX3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/11271320-Vince-Staples-Big-Fish-Theory",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/8APR7oxsp0PGxhBTzusT1NAZyL6FdKpTsV5f5wq1-64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/MzIwLTE1OTQzMjg4/NTktOTkzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cWWoc-9nmr5qD0K0TxQ_2RwKI318jrpOFgb-kR8IUYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcx/MzIwLTE1OTQzMjg4/NTktOTkzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11271320",
+      "community": {
+        "want": 62,
+        "have": 25
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "AAC",
+            "AIFF",
+            "FLAC",
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11063896,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Hip Hop",
+        "Hip-House",
+        "UK Garage",
+        "Techno",
+        "Experimental",
+        "Deconstructed Club",
+        "Hardcore Hip-Hop",
+        "Hyphy",
+        "Glitch Hop"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Picture Disc"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc.",
+        "Universal International Music B.V.",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 44583 1",
+        "602557445831",
+        "LC08427",
+        "BIEM / SDRM",
+        "00602557768046",
+        "00602557768107",
+        "162336E1/A B0 026995-01 LP01 A",
+        "162336E2/A B0 026995-01 LP01 B",
+        "162336E3/A B0 026995-01 LP02 A",
+        "162336E4/A B0 026995-01 LP02 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/11063896-Vince-Staples-Big-Fish-Theory",
+      "catno": "0062557445831",
+      "thumb": "https://i.discogs.com/9-edMWbEJMzIax4sRTYXMOEtjdRMchf1FBmCuo-JHCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYz/ODk2LTE1NjAzNDc1/NjEtMzkzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3GNzYx9DWUpowqXo6KzMQuxVwWIg2e1klGQadIkX4E8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYz/ODk2LTE1NjAzNDc1/NjEtMzkzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11063896",
+      "community": {
+        "want": 2546,
+        "have": 3902
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14928058,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602557445800",
+        "602557445800"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/14928058-Vince-Staples-Big-Fish-Theory",
+      "catno": "602557445800",
+      "thumb": "https://i.discogs.com/Oyq20zwOWuvMXMTaXcmHdlp__Pv6WwAH0NkMqAgwc5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/MDU4LTE1ODQyMzA5/ODUtNDcwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SohnKji4XrFGrDGCQ2uOa8zZVfe--uLiW8ft5Ak-Wuc/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/MDU4LTE1ODQyMzA5/ODUtNDcwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14928058",
+      "community": {
+        "want": 145,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Autographed",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10727279,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "House",
+        "Techno",
+        "Electro House",
+        "G-Funk"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Cassette",
+        "Album",
+        "Special Edition"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "602557807400",
+        "6 02557 80740 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/10727279-Vince-Staples-Big-Fish-Theory",
+      "catno": "B0027122-04",
+      "thumb": "https://i.discogs.com/M5-Onbsgt55qJILexs_hXEmq0jwO3adlshLjEWPhyWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI3/Mjc5LTE2NDMxNjcy/NTAtOTYzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FWJszuC7d2NF114jzAc0SzKMVGsMXan2xeRXE2bGE08/rs:fit/g:sm/q:90/h:937/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI3/Mjc5LTE2NDMxNjcy/NTAtOTYzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10727279",
+      "community": {
+        "want": 333,
+        "have": 116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10454968,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 44572 5",
+        "602557445725"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/10454968-Vince-Staples-Big-Fish-Theory",
+      "catno": "00602557445725",
+      "thumb": "https://i.discogs.com/gYIaSM85UkBDRtfCH0kX5uweLaZjuT-6g9QFWGzxclY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/OTY4LTE1MDAwMzIx/NDMtNjQwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8jHRj4WwFg-SGF8VYq6FfzGa2pGWwflBA62gZShFrrM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/OTY4LTE1MDAwMzIx/NDMtNjQwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10454968",
+      "community": {
+        "want": 593,
+        "have": 518
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12594736,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 44572 5",
+        "(619043) 72.4.2641402 01 0001",
+        "IFPI L247",
+        "IFPI KK7N"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/12594736-Vince-Staples-Big-Fish-Theory",
+      "catno": "B002641402",
+      "thumb": "https://i.discogs.com/Ym7lHKpROT5AXXxwmkLnVg3oa8nYX4syVcAgu-gT_uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NzM2LTE1MzgyNTY0/MjctNzY1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9nEONy-XWKDCPx3Bzqiz-tNpIsaB7GGv-ZWPECT7wVY/rs:fit/g:sm/q:90/h:500/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NzM2LTE1MzgyNTY0/MjctNzY1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12594736",
+      "community": {
+        "want": 113,
+        "have": 61
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10753568,
+      "title": "Vince Staples - Big Fish Theory",
+      "master_id": 1200128,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Picture Disc"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0026995-01 LP01-A 162336E1/A",
+        "B0026995-01 LP01-B 162336E2/A",
+        "B0026995-01 LP02-A 162336E3/A",
+        "B0026995-01 LP02-B 162336E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1200128",
+      "uri": "/release/10753568-Vince-Staples-Big-Fish-Theory",
+      "catno": "00602557445725",
+      "thumb": "https://i.discogs.com/GmVAC7aChsaMe3bCwGfndA82Tte4vdDgwEZwjwwPI40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUz/NTY4LTE1MDk4MjMy/MTYtMzg1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9OouZtHy9KoJAQOzUrUSv6tOftqLh0rn1_GD2tXoIxg/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUz/NTY4LTE1MDk4MjMy/MTYtMzg1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10753568",
+      "community": {
+        "want": 1158,
+        "have": 1092
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Autographed",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Picture Disc"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1200128,
+    "genres": [
+      "Electronic",
+      "Hip Hop"
+    ],
+    "styles": [
+      "Hip Hop",
+      "Hip-House",
+      "UK Garage",
+      "Techno",
+      "Experimental",
+      "Deconstructed Club",
+      "Hardcore Hip-Hop",
+      "Hyphy",
+      "Glitch Hop",
+      "Avantgarde",
+      "Leftfield"
+    ],
+    "main_release": 16282936,
+    "most_recent_release": 25303201,
+    "resource_url": "https://api.discogs.com/masters/1200128",
+    "uri": "https://www.discogs.com/master/1200128-Vince-Staples-Big-Fish-Theory",
+    "versions_url": "https://api.discogs.com/masters/1200128/versions",
+    "main_release_url": "https://api.discogs.com/releases/16282936",
+    "most_recent_release_url": "https://api.discogs.com/releases/25303201",
+    "num_for_sale": 16,
+    "lowest_price": 40.7,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/IUVU6Bmx6bGOaQYAqcVS1GwEEtUHnUSCMnGu9qWJvkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/OTM2LTE2NjYwMzg4/OTEtNjUwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/IUVU6Bmx6bGOaQYAqcVS1GwEEtUHnUSCMnGu9qWJvkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/OTM2LTE2NjYwMzg4/OTEtNjUwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Neqt7cx8EFjZGEQK06uPBf3PsC9BJSV0EX-vwK83n6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/OTM2LTE2NjYwMzg4/OTEtNjUwMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Crabs In A Bucket",
+        "extraartists": [
+          {
+            "name": "Justin Vernon",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer, Programmed By [Additional]",
+            "tracks": "",
+            "id": 818925,
+            "resource_url": "https://api.discogs.com/artists/818925"
+          },
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Zack Sekoff",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Electric Guitar, Keyboards, Programmed By",
+            "tracks": "",
+            "id": 3445976,
+            "resource_url": "https://api.discogs.com/artists/3445976"
+          }
+        ],
+        "duration": "3:17"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Big Fish",
+        "extraartists": [
+          {
+            "name": "Juicy J",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 376312,
+            "resource_url": "https://api.discogs.com/artists/376312"
+          },
+          {
+            "name": "Christian Rich",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Programmed By",
+            "tracks": "",
+            "id": 1250799,
+            "resource_url": "https://api.discogs.com/artists/1250799"
+          }
+        ],
+        "duration": "3:18"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Alyssa Interlude",
+        "extraartists": [
+          {
+            "name": "Zack Sekoff",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Electric Guitar, Keyboards, Programmed By",
+            "tracks": "",
+            "id": 3445976,
+            "resource_url": "https://api.discogs.com/artists/3445976"
+          }
+        ],
+        "duration": "2:38"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Love Can Be...",
+        "extraartists": [
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Ray J",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 33815,
+            "resource_url": "https://api.discogs.com/artists/33815"
+          },
+          {
+            "name": "Damon Albarn",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional], Keyboards",
+            "tracks": "",
+            "id": 3882,
+            "resource_url": "https://api.discogs.com/artists/3882"
+          },
+          {
+            "name": "GTA (4)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2765127,
+            "resource_url": "https://api.discogs.com/artists/2765127"
+          }
+        ],
+        "duration": "2:58"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "745",
+        "extraartists": [
+          {
+            "name": "Jimmy Edgar",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Programmed By",
+            "tracks": "",
+            "id": 52501,
+            "resource_url": "https://api.discogs.com/artists/52501"
+          }
+        ],
+        "duration": "3:47"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Ramona Park Is Yankee Stadium",
+        "extraartists": [
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Ray Brady",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 413956,
+            "resource_url": "https://api.discogs.com/artists/413956"
+          }
+        ],
+        "duration": "0:51"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Yeah Right",
+        "extraartists": [
+          {
+            "name": "Kendrick Lamar",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 1778977,
+            "resource_url": "https://api.discogs.com/artists/1778977"
+          },
+          {
+            "name": "Ku\u010dka",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 3720556,
+            "resource_url": "https://api.discogs.com/artists/3720556"
+          },
+          {
+            "name": "Sophie (42)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3150192,
+            "resource_url": "https://api.discogs.com/artists/3150192"
+          },
+          {
+            "name": "Flume",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 2384511,
+            "resource_url": "https://api.discogs.com/artists/2384511"
+          }
+        ],
+        "duration": "3:08"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Homage",
+        "extraartists": [
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Zack Sekoff",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Synth [Bass], Programmed By",
+            "tracks": "",
+            "id": 3445976,
+            "resource_url": "https://api.discogs.com/artists/3445976"
+          }
+        ],
+        "duration": "2:53"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Samo",
+        "extraartists": [
+          {
+            "name": "ASAP Rocky",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 2409771,
+            "resource_url": "https://api.discogs.com/artists/2409771"
+          },
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals [Additional]",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Sophie (42)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3150192,
+            "resource_url": "https://api.discogs.com/artists/3150192"
+          }
+        ],
+        "duration": "2:54"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Party People",
+        "extraartists": [
+          {
+            "name": "Zack Sekoff",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Programmed By",
+            "tracks": "",
+            "id": 3445976,
+            "resource_url": "https://api.discogs.com/artists/3445976"
+          }
+        ],
+        "duration": "2:58"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "BagBak",
+        "extraartists": [
+          {
+            "name": "Ray Brady",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 413956,
+            "resource_url": "https://api.discogs.com/artists/413956"
+          },
+          {
+            "name": "Ken Rogers",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 1060545,
+            "resource_url": "https://api.discogs.com/artists/1060545"
+          }
+        ],
+        "duration": "2:40"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Rain Come Down",
+        "extraartists": [
+          {
+            "name": "Ty$",
+            "anv": "Ty Dolla Sign",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 1825654,
+            "resource_url": "https://api.discogs.com/artists/1825654"
+          },
+          {
+            "name": "Taylor Mackall",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Additional]",
+            "tracks": "",
+            "id": 5879964,
+            "resource_url": "https://api.discogs.com/artists/5879964"
+          },
+          {
+            "name": "Zack Sekoff",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Synthesizer, Programmed By",
+            "tracks": "",
+            "id": 3445976,
+            "resource_url": "https://api.discogs.com/artists/3445976"
+          }
+        ],
+        "duration": "4:41"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Vince Staples",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1971480,
+        "resource_url": "https://api.discogs.com/artists/1971480",
+        "thumbnail_url": "https://i.discogs.com/g8CY7yZzu0YzpdwOZL40nRR_QGR7WF9CyKiGDwwb2fo/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzE0/ODAtMTcxNDg1ODU0/MS0xNzAxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Big Fish Theory",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=0l9kzS_B7gg",
+        "title": "Vince Staples - Big Fish (Official Video)",
+        "description": "Check out the official music video for \"Big Fish\" by Vince Staples\n\nVince Staples \"BIG FISH THEORY\" available now: http://smarturl.it/BigFishTheory\n\nMusic video by Vince Staples performing Big Fish. (C) 2017 Def Jam Recordings, a division of UMG Recording",
+        "duration": 167,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YeUOvrnOCVY",
+        "title": "Vince Staples - Rain Come Down",
+        "description": "Vince Staples \"BIG FISH THEORY\" available now: http://smarturl.it/BigFishTheory\n\nMusic video by Vince Staples performing Rain Come Down. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc. (ARTium Recordings)\n\nhttp://www.vevo.com/watch/USUV717",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xa4vBlzMaeQ",
+        "title": "Vince Staples - Crabs In A Bucket (Official Audio)",
+        "description": "Music video by Vince Staples performing Crabs In A Bucket. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\n#VinceStaples #CrabsInABucket #Vevo",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WHJE2IHJ2cw",
+        "title": "Vince Staples - SAMO (Audio)",
+        "description": "Music video by Vince Staples performing SAMO. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/v6zRXd",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YLpH78k5A9A",
+        "title": "Vince Staples - 745 (Official Audio)",
+        "description": "Music video by Vince Staples performing 745. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/zv6GLo\n\n#VinceStaples #745 #Vevo",
+        "duration": 228,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=C6iAzyhm0p0",
+        "title": "Vince Staples - Yeah Right (Official Audio)",
+        "description": "Music video by Vince Staples performing Yeah Right. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/rKABmk\n\n#VinceStaples #YeahRight #Vevo",
+        "duration": 189,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=94PJe7SeQRo",
+        "title": "Alyssa Interlude",
+        "description": "Provided to YouTube by Universal Music Group\n\nAlyssa Interlude \u00b7 Vince Staples\n\nBig Fish Theory\n\n\u2117 2017 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nReleased on: 2017-06-23\n\nComposer Lyricist, Producer, Programming Engineer: Zack Sekoff\nRecordi",
+        "duration": 159,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1200128,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hip Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hip-House",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "UK Garage",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Techno",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Deconstructed Club",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hardcore Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hyphy",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Glitch Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Avantgarde",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Leftfield",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

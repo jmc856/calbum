@@ -1,0 +1,1953 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "4099964038637",
+    "artist": "Danger Mouse",
+    "title": "Cheat Codes",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 24200498,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "BMG"
+      ],
+      "type": "release",
+      "barcode": [
+        "538791651-A [peace sign] SPARKLEBEAR 220207",
+        "538791651-B [peace sign] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24200498-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538791651",
+      "thumb": "https://i.discogs.com/3cBBA-8qdi8_Aw2n98-rVBGotPsKI5WdGu_M7PZoq3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/NDk4LTE2NjA0OTY3/MTUtMTE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ptN2QhhWlVe9Zf_YllSVo4jWPcLY6NrhapgffF110dA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/NDk4LTE2NjA0OTY3/MTUtMTE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24200498",
+      "community": {
+        "want": 216,
+        "have": 69
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24187841,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Album",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 050538 803631",
+        "LC19813",
+        "538791651-A [CMS logo] SPARKLEBEAR 220207",
+        "538791651-B [CMS logo] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24187841-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538803631",
+      "thumb": "https://i.discogs.com/Zzjt4qAn3kNsYaTsO-CT3NjHn53kYZGB2tlgUMR314Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg3/ODQxLTE2NjE1MDM0/NDItNDg1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/T7GtPn9sLautGne2Vi4ZKmfvkYoRCP7TO3psc-sJwbE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg3/ODQxLTE2NjE1MDM0/NDItNDg1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24187841",
+      "community": {
+        "want": 758,
+        "have": 1066
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24210182,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "BMG"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24210182-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/EO57DRsSMsfuRk6PBIQF367FgrCk8_PxC6VOvE5g3Yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjEw/MTgyLTE2NjA1Nzc1/OTUtOTM1My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/vzUXKfvsUbJl8wAn7FKIVJIco-dBgggy_YEkTrqHkEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjEw/MTgyLTE2NjA1Nzc1/OTUtOTM1My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24210182",
+      "community": {
+        "want": 32,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24156605,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Instrumental",
+        "Boom Bap"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "EMI Longitude Music",
+        "Sweet Science",
+        "Sony Music Publishing",
+        "Legendelphia Music LLC",
+        "Universal Music Publishing",
+        "Gold Bulb Music",
+        "Afrika Kuruvilla Kurian",
+        "Universal Music",
+        "MGB Songs",
+        "Rocket Music Ltd.",
+        "Prince Jaibari",
+        "Beautiful Sekai Publishing",
+        "SC Mosswagon Music Company",
+        "Figure 8",
+        "Dean Josiah Cover",
+        "Universal Music-MGB Songs",
+        "Unichappell Music, Inc.",
+        "Mort Shuman Songs",
+        "Warner-Tamerlane Publishing Corp.",
+        "Third Side Music",
+        "The Clyde Otis Music Group",
+        "JoeyBad Publishing",
+        "Reservoir Media Management",
+        "The Journey Is Everything Publishing",
+        "Sony ATV",
+        "Universal Publishing (UK) Ltd.",
+        "Lord Dihoo Music",
+        "Catalogue Music",
+        "De Wolfe Ltd.",
+        "Warner/Chappell",
+        "Jean Pierre Alarcen",
+        "Berrie Wilson",
+        "Colin Catt",
+        "Phil Gunn",
+        "Mark Wirtz",
+        "ASAP Rocky Music Publishing",
+        "Definitive Jux Music",
+        "American Songs",
+        "Pulse Music Group, LA",
+        "Aniyah's Music",
+        "Claudio Canali",
+        "Giuseppe Cossa",
+        "Demond Price",
+        "Drumwork Publishing",
+        "Combine Music Corp.",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4050538791655",
+        "4050538791655>",
+        "4 050538 791655 >",
+        "LC19813",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "SESAC",
+        "538791651-A [CMS logo] SPARKLEBEAR 220207",
+        "538791651-B [CMS logo] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24156605-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538791651",
+      "thumb": "https://i.discogs.com/IsJpUFMPNL_fjiUmWY_QkQrDNYpdZCJatiEy74EkQi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU2/NjA1LTE2NzQ0NzY2/ODktNDEyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qhUcSdzFboM2HNmP1h_I1jQya4UzduRrTw3J2U7gBxs/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU2/NjA1LTE2NzQ0NzY2/ODktNDEyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24156605",
+      "community": {
+        "want": 1477,
+        "have": 9706
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35339290,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Instrumental",
+        "Boom Bap"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "EMI Longitude Music",
+        "Sweet Science",
+        "Sony Music Publishing",
+        "Legendelphia Music LLC",
+        "Universal Music Publishing",
+        "Gold Bulb Music",
+        "Afrika Kuruvilla Kurian",
+        "Universal Music",
+        "MGB Songs",
+        "Rocket Music Ltd.",
+        "Prince Jaibari",
+        "Beautiful Sekai Publishing",
+        "SC Mosswagon Music Company",
+        "Figure 8",
+        "Dean Josiah Cover",
+        "Universal Music-MGB Songs",
+        "Unichappell Music, Inc.",
+        "Mort Shuman Songs",
+        "Warner-Tamerlane Publishing Corp.",
+        "Third Side Music",
+        "The Clyde Otis Music Group",
+        "JoeyBad Publishing",
+        "Reservoir Media Management",
+        "The Journey Is Everything Publishing",
+        "Sony ATV",
+        "Universal Publishing (UK) Ltd.",
+        "Lord Dihoo Music",
+        "Catalogue Music",
+        "De Wolfe Ltd.",
+        "Warner/Chappell",
+        "Jean Pierre Alarcen",
+        "Berrie Wilson",
+        "Colin Catt",
+        "Phil Gunn",
+        "Mark Wirtz",
+        "ASAP Rocky Music Publishing",
+        "Definitive Jux Music",
+        "American Songs",
+        "Pulse Music Group, LA",
+        "Aniyah's Music",
+        "Claudio Canali",
+        "Giuseppe Cossa",
+        "Demond Price",
+        "Drumwork Publishing",
+        "Combine Music Corp.",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4050538791655",
+        "4050538791655>",
+        "4 050538 791655 >",
+        "LC19813",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "SESAC",
+        "538791651-A (2) 1 JNH STERLING",
+        "538791651-B (2) 1 JNH STERLING",
+        "538791651-A 1 (2) JNH STERLING",
+        "538791651-B (2) 5 JNH STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/35339290-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538791651",
+      "thumb": "https://i.discogs.com/_tJ8xxjSGtpnmiN2vv_hQ8gkhJOJQ7m1gHFEAQHqFoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzM5/MjkwLTE3NjAxMjU1/MDYtNzE3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kWlDXNRv6nP_V5SUBEU0WTDIZHF_oss7su6aBhAu_QA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzM5/MjkwLTE3NjAxMjU1/MDYtNzE3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35339290",
+      "community": {
+        "want": 64,
+        "have": 175
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24195077,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 050538 803648"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24195077-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538803648",
+      "thumb": "https://i.discogs.com/ykUQcysmCmeoIiinf73BA_hdY1z4yzemGBHCNrFKltQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTk1/MDc3LTE3NjI4Njk2/ODktMTUzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fUecYQVBfKI041ejHxVSL6mQr7PdIeP0o6Lfnu8r6FQ/rs:fit/g:sm/q:90/h:908/w:562/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTk1/MDc3LTE3NjI4Njk2/ODktMTUzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24195077",
+      "community": {
+        "want": 134,
+        "have": 101
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24109484,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Album",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4050538803624",
+        "4 050538 803624",
+        "LC 19813",
+        "BIEM GEMA",
+        "538791651A [CMS logo] SPARKLEBEAR 220207",
+        "538791651B [CMS logo] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24109484-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538803621",
+      "thumb": "https://i.discogs.com/ezGbBDiQEtxs2Qn9DBBp_H3r28h7_4WqUxkZE54-9aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA5/NDg0LTE3NzE2MTgy/OTQtNzY0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/g_3jFqabuoxF9E0iNf2a78ByIuUwm5_I5PgzWp9_YWM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA5/NDg0LTE3NzE2MTgy/OTQtNzY0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24109484",
+      "community": {
+        "want": 1273,
+        "have": 6718
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37217643,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Instrumental",
+        "Boom Bap"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Promo"
+      ],
+      "label": [
+        "BMG",
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "EMI Longitude Music",
+        "Sweet Science",
+        "Sony Music Publishing",
+        "Legendelphia Music LLC",
+        "Universal Music Publishing",
+        "Gold Bulb Music",
+        "Afrika Kuruvilla Kurian",
+        "Universal Music",
+        "MGB Songs",
+        "Rocket Music Ltd.",
+        "Prince Jaibari",
+        "Beautiful Sekai Publishing",
+        "SC Mosswagon Music Company",
+        "Figure 8",
+        "Dean Josiah Cover",
+        "Universal Music-MGB Songs",
+        "Unichappell Music, Inc.",
+        "Mort Shuman Songs",
+        "Warner-Tamerlane Publishing Corp.",
+        "Third Side Music",
+        "The Clyde Otis Music Group",
+        "JoeyBad Publishing",
+        "Reservoir Media Management",
+        "The Journey Is Everything Publishing",
+        "Sony ATV",
+        "Universal Publishing (UK) Ltd.",
+        "Lord Dihoo Music",
+        "Catalogue Music",
+        "De Wolfe Ltd.",
+        "Warner/Chappell",
+        "Jean Pierre Alarcen",
+        "Berrie Wilson",
+        "Colin Catt",
+        "Phil Gunn",
+        "Mark Wirtz",
+        "ASAP Rocky Music Publishing",
+        "Definitive Jux Music",
+        "American Songs",
+        "Pulse Music Group, LA",
+        "Aniyah's Music",
+        "Claudio Canali",
+        "Giuseppe Cossa",
+        "Demond Price",
+        "Drumwork Publishing",
+        "Combine Music Corp.",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4050538791655",
+        "4050538791655>",
+        "4 050538 791655 >",
+        "LC19813",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "SESAC",
+        "538791651-A [CMS logo] SPARKLEBEAR 220207",
+        "538791651-B [CMS logo] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/37217643-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538791651",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/37217643",
+      "community": {
+        "want": 4,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Screen Printed Jackets, \"For Friends Only\"",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25921180,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "EMI Longitude Music",
+        "Sweet Science",
+        "Sony Music Publishing",
+        "Legendelphia Music LLC",
+        "Universal Music Publishing",
+        "Gold Bulb Music",
+        "Afrika Kuruvilla Kurian",
+        "Universal Music",
+        "MGB Songs",
+        "Rocket Music Ltd.",
+        "Prince Jaibari",
+        "Beautiful Sekai Publishing",
+        "SC Mosswagon Music Company",
+        "Figure 8",
+        "Dean Josiah Cover",
+        "Universal Music-MGB Songs",
+        "Unichappell Music, Inc.",
+        "Mort Shuman Songs",
+        "Warner-Tamerlane Publishing Corp.",
+        "Third Side Music",
+        "The Clyde Otis Music Group",
+        "JoeyBad Publishing",
+        "Reservoir Media Management",
+        "The Journey Is Everything Publishing",
+        "Sony ATV",
+        "Universal Publishing (UK) Ltd.",
+        "Lord Dihoo Music",
+        "Catalogue Music",
+        "De Wolfe Ltd.",
+        "Warner/Chappell",
+        "Jean Pierre Alarcen",
+        "Berrie Wilson",
+        "Colin Catt",
+        "Phil Gunn",
+        "Mark Wirtz",
+        "ASAP Rocky Music Publishing",
+        "Definitive Jux Music",
+        "American Songs",
+        "Pulse Music Group, LA",
+        "Aniyah's Music",
+        "Claudio Canali",
+        "Giuseppe Cossa",
+        "Demond Price",
+        "Drumwork Publishing",
+        "Combine Music Corp.",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "4050538791655",
+        "4050538791655>",
+        "4 050538 791655 >",
+        "LC19813",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "SESAC",
+        "538791651-A [CMS logo] SPARKLEBEAR 220207",
+        "538791651-B [CMS logo] SPARKLEBEAR 220207"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/25921180-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538791651",
+      "thumb": "https://i.discogs.com/X1MCfKGLZ6Ug6a7sJT0ZPvFqv1_JjD2mX6LQR-mA-P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIx/MTgwLTE2NzQ5ODA2/NzItNDM1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6TYY0mKkbodve0rnMbWaxoO-qhjrF1dJ_btw4VJm7yg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIx/MTgwLTE2NzQ5ODA2/NzItNDM1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25921180",
+      "community": {
+        "want": 251,
+        "have": 1860
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24183740,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Boom Bap"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "BMG Rights Management (UK) Limited",
+        "BMG Rights Management (UK) Limited",
+        "Mondo Studio, Los Angeles",
+        "Chicago Mastering Service",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 050538 803662",
+        "LC 19813",
+        "[Sonopress Logo] 58189884/538803662 21",
+        "IFPI LB 46",
+        "IFPI 0718",
+        "IFPI 079Y"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24183740-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538803662",
+      "thumb": "https://i.discogs.com/MAE8UemnVxurM598VosNUp9b1v8CAeWprREuQrgsLy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDcx/OTktMzI3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pDW3y1VK9p2mN61Nkf1B--e7G7zY0bIpogLPBvqfPg4/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDcx/OTktMzI3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24183740",
+      "community": {
+        "want": 269,
+        "have": 1186
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24162971,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "BMG"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 050538 823578",
+        "4050538823578"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/24162971-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "538823572",
+      "thumb": "https://i.discogs.com/mscT712t9esbiEdNcb7Dzrg6zIupdbbaLlq55sYVvDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYy/OTcxLTE2NjA5OTYw/MTItNTk5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VTWE9CW3J7W8ronIcsG_ONZo8j1vzJ-XZ5bN_zuumzo/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYy/OTcxLTE2NjA5OTYw/MTItNTk5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24162971",
+      "community": {
+        "want": 180,
+        "have": 314
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25837999,
+      "title": "Danger Mouse & Black Thought - Cheat Codes",
+      "master_id": 2742335,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "BMG Rights Management (UK) Limited"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2742335",
+      "uri": "/release/25837999-Danger-Mouse-Black-Thought-Cheat-Codes",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/QsLL7_frRUoHERG16N5IDu8puQFTeehx0_s8Com0TA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTk5LTE2NzQzMTIx/MjUtNTc2Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/0KaBh1IkJf5EzI4XJfgP_oc2MYW9N8EPbQHeVCnQMio/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM3/OTk5LTE2NzQzMTIx/MjUtNTc2Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25837999",
+      "community": {
+        "want": 25,
+        "have": 14
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "44.1kHz \u00b7 24bit",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2742335,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious",
+      "Boom Bap"
+    ],
+    "main_release": 24183740,
+    "most_recent_release": 37217643,
+    "resource_url": "https://api.discogs.com/masters/2742335",
+    "uri": "https://www.discogs.com/master/2742335-Danger-Mouse-Black-Thought-Cheat-Codes",
+    "versions_url": "https://api.discogs.com/masters/2742335/versions",
+    "main_release_url": "https://api.discogs.com/releases/24183740",
+    "most_recent_release_url": "https://api.discogs.com/releases/37217643",
+    "num_for_sale": 216,
+    "lowest_price": 8.91,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/pDW3y1VK9p2mN61Nkf1B--e7G7zY0bIpogLPBvqfPg4/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDcx/OTktMzI3OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/pDW3y1VK9p2mN61Nkf1B--e7G7zY0bIpogLPBvqfPg4/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDcx/OTktMzI3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MAE8UemnVxurM598VosNUp9b1v8CAeWprREuQrgsLy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDcx/OTktMzI3OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 539
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4hjA5hJV9z3JycM1Gg4puUv-K7hte0exb7_y3EiH82M/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODM0/NzUtMzMyMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4hjA5hJV9z3JycM1Gg4puUv-K7hte0exb7_y3EiH82M/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODM0/NzUtMzMyMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cGUYOjFh0Wv-UyEtIqkuiIR1iz1tel9o4XHqikaaLuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODM0/NzUtMzMyMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 514
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NbA4FyKyeyGxOmeKCWGwV_Qb_G8f6MtVeYo0PpEyDvY/rs:fit/g:sm/q:90/h:264/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDc0/NzktMzYyNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/NbA4FyKyeyGxOmeKCWGwV_Qb_G8f6MtVeYo0PpEyDvY/rs:fit/g:sm/q:90/h:264/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDc0/NzktMzYyNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Z3B5TVaoOiK8TyXJVHnee6tzksfJobd4KRFYB3QF3Us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE2NjA1NDc0/NzktMzYyNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 264
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RRRF1bLp5jr4J-bazrlflVE1rKRAWs23atihy0wwGF4/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQx/MDItNjQxOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/RRRF1bLp5jr4J-bazrlflVE1rKRAWs23atihy0wwGF4/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQx/MDItNjQxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bIKrOFa62pZE_-7uJ0WUSkH_M9QPc9pZhWFuFl97xQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQx/MDItNjQxOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 296
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Dbee05irDaHBrdZGBeZXO_U3rlJ9MizNesOjSTHPyHg/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzMtNjg2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Dbee05irDaHBrdZGBeZXO_U3rlJ9MizNesOjSTHPyHg/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzMtNjg2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LW-IX07uKr9fQHmlaHFTqhfS2WVK2t77y3ZJEFjGAxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzMtNjg2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 294
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yG22X17BopfeNmbbrzIeBuJO14k60-nlGQLxcCUZA1g/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzQtNTQ5My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/yG22X17BopfeNmbbrzIeBuJO14k60-nlGQLxcCUZA1g/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzQtNTQ5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0sQxizCpav9dvVWWLWKD2SlMfPqT_BFhYOvb4O-k7LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzQtNTQ5My5qcGVn.jpeg",
+        "width": 600,
+        "height": 296
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dcdcvimK022A9bduy60C7hyjfUN2617NyFpYSyh6ZFc/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzUtNTkxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/dcdcvimK022A9bduy60C7hyjfUN2617NyFpYSyh6ZFc/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzUtNTkxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/E8NbftJfbLTT4ovkeLTM4P8FL-6vp8SKxmqJtrinZnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODQw/MzUtNTkxMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 297
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lNdl5VsUGw5uHALDC-hybUI-gh5eiLA32rvsyds2QNI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODMz/MzgtODU1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lNdl5VsUGw5uHALDC-hybUI-gh5eiLA32rvsyds2QNI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODMz/MzgtODU1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/raGja7h6pMWIfRIAl8OzcWCebRApOT-S9cQoUQbvkgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgz/NzQwLTE3NDM2ODMz/MzgtODU1NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Sometimes",
+        "extraartists": [
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Clarence Reid",
+            "anv": "C. Reid",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 211510,
+            "resource_url": "https://api.discogs.com/artists/211510"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "2:10"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Cheat Codes",
+        "extraartists": [
+          {
+            "name": "Inflo",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 4124430,
+            "resource_url": "https://api.discogs.com/artists/4124430"
+          },
+          {
+            "name": "James Mercer",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 270644,
+            "resource_url": "https://api.discogs.com/artists/270644"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Lester Johnson",
+            "anv": "L. Johnson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 396027,
+            "resource_url": "https://api.discogs.com/artists/396027"
+          },
+          {
+            "name": "Matthew Watson (2)",
+            "anv": "M. Watson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 534615,
+            "resource_url": "https://api.discogs.com/artists/534615"
+          },
+          {
+            "name": "Michael Liggins",
+            "anv": "M. Liggins",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 342403,
+            "resource_url": "https://api.discogs.com/artists/342403"
+          },
+          {
+            "name": "Robert Thompson",
+            "anv": "R. Thompson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 191744,
+            "resource_url": "https://api.discogs.com/artists/191744"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "2:14"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "The Darkest Part",
+        "extraartists": [
+          {
+            "name": "Inflo",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 4124430,
+            "resource_url": "https://api.discogs.com/artists/4124430"
+          },
+          {
+            "name": "Sam Cohen",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Drums",
+            "tracks": "",
+            "id": 1738719,
+            "resource_url": "https://api.discogs.com/artists/1738719"
+          },
+          {
+            "name": "Kid Sister",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 630161,
+            "resource_url": "https://api.discogs.com/artists/630161"
+          },
+          {
+            "name": "Raekwon",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 100558,
+            "resource_url": "https://api.discogs.com/artists/100558"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Corey Woods",
+            "anv": "C. Woods",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 606577,
+            "resource_url": "https://api.discogs.com/artists/606577"
+          },
+          {
+            "name": "Dean Josiah Cover",
+            "anv": "D. Cover",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7466643,
+            "resource_url": "https://api.discogs.com/artists/7466643"
+          },
+          {
+            "name": "Pauline Matthews",
+            "anv": "P. Matthews",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2535027,
+            "resource_url": "https://api.discogs.com/artists/2535027"
+          },
+          {
+            "name": "Sam Cohen",
+            "anv": "S. Cohen",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1738719,
+            "resource_url": "https://api.discogs.com/artists/1738719"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "No Gold Teeth",
+        "extraartists": [
+          {
+            "name": "Brian Burton",
+            "anv": "",
+            "join": "",
+            "role": "Organ",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Jerry Ragovoy",
+            "anv": "J. Ragovoy",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 293080,
+            "resource_url": "https://api.discogs.com/artists/293080"
+          },
+          {
+            "name": "Mort Shuman",
+            "anv": "M. Shuman",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 261801,
+            "resource_url": "https://api.discogs.com/artists/261801"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "2:33"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Because",
+        "extraartists": [
+          {
+            "name": "Dylan Cartlidge",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 10705549,
+            "resource_url": "https://api.discogs.com/artists/10705549"
+          },
+          {
+            "name": "Joey Bada$$",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3057476,
+            "resource_url": "https://api.discogs.com/artists/3057476"
+          },
+          {
+            "name": "Russ (15)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1482900,
+            "resource_url": "https://api.discogs.com/artists/1482900"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Dylan Cartlidge",
+            "anv": "D. Cartlidge",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 10705549,
+            "resource_url": "https://api.discogs.com/artists/10705549"
+          },
+          {
+            "name": "Herman Kelly",
+            "anv": "H. Kelly",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 597610,
+            "resource_url": "https://api.discogs.com/artists/597610"
+          },
+          {
+            "name": "Jo-Vaughn Scott",
+            "anv": "J. Scott",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3116197,
+            "resource_url": "https://api.discogs.com/artists/3116197"
+          },
+          {
+            "name": "Russ Vitale",
+            "anv": "R. Vitale",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7323944,
+            "resource_url": "https://api.discogs.com/artists/7323944"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "4:41"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Belize",
+        "extraartists": [
+          {
+            "name": "MF Doom",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 25058,
+            "resource_url": "https://api.discogs.com/artists/25058"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Daniel Dumile",
+            "anv": "D. Dumile",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 701676,
+            "resource_url": "https://api.discogs.com/artists/701676"
+          },
+          {
+            "name": "George Stavis",
+            "anv": "G. Stavis",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1382548,
+            "resource_url": "https://api.discogs.com/artists/1382548"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "3:54"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Aquamarine ",
+        "extraartists": [
+          {
+            "name": "Sam Cohen",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1738719,
+            "resource_url": "https://api.discogs.com/artists/1738719"
+          },
+          {
+            "name": "Michael Kiwanuka",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2281535,
+            "resource_url": "https://api.discogs.com/artists/2281535"
+          },
+          {
+            "name": "Barry Stoller",
+            "anv": "B. Stoller",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 289276,
+            "resource_url": "https://api.discogs.com/artists/289276"
+          },
+          {
+            "name": "Berrie Wilson",
+            "anv": "B. Wilson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11785685,
+            "resource_url": "https://api.discogs.com/artists/11785685"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Dean Josiah Cover",
+            "anv": "D. Cover",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 7466643,
+            "resource_url": "https://api.discogs.com/artists/7466643"
+          },
+          {
+            "name": "Jean-Pierre Alarcen",
+            "anv": "J. Alarcen",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 532430,
+            "resource_url": "https://api.discogs.com/artists/532430"
+          },
+          {
+            "name": "Michael Kiwanuka",
+            "anv": "M. Kiwanuka",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2281535,
+            "resource_url": "https://api.discogs.com/artists/2281535"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "3:58"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Identical Deaths",
+        "extraartists": [
+          {
+            "name": "Tongues Unknown",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Guitar",
+            "tracks": "",
+            "id": 11785688,
+            "resource_url": "https://api.discogs.com/artists/11785688"
+          },
+          {
+            "name": "J-Zone",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 21070,
+            "resource_url": "https://api.discogs.com/artists/21070"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "",
+            "join": "",
+            "role": "Organ",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Colin Catt",
+            "anv": "C. Catt",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1031108,
+            "resource_url": "https://api.discogs.com/artists/1031108"
+          },
+          {
+            "name": "Phil Gunn",
+            "anv": "P. Gunn",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1031110,
+            "resource_url": "https://api.discogs.com/artists/1031110"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "2:41"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Strangers",
+        "extraartists": [
+          {
+            "name": "Dylan Cartlidge",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals, Bass",
+            "tracks": "",
+            "id": 10705549,
+            "resource_url": "https://api.discogs.com/artists/10705549"
+          },
+          {
+            "name": "ASAP Rocky",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2409771,
+            "resource_url": "https://api.discogs.com/artists/2409771"
+          },
+          {
+            "name": "Run The Jewels",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3351365,
+            "resource_url": "https://api.discogs.com/artists/3351365"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Dylan Cartlidge",
+            "anv": "D. Cartlidge",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 10705549,
+            "resource_url": "https://api.discogs.com/artists/10705549"
+          },
+          {
+            "name": "Jaime Meline",
+            "anv": "J. Meline",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 783191,
+            "resource_url": "https://api.discogs.com/artists/783191"
+          },
+          {
+            "name": "Mark Wirtz",
+            "anv": "M. Wirtz",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 342665,
+            "resource_url": "https://api.discogs.com/artists/342665"
+          },
+          {
+            "name": "Michael Render",
+            "anv": "M. Render",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654341,
+            "resource_url": "https://api.discogs.com/artists/654341"
+          },
+          {
+            "name": "Rakim Mayers",
+            "anv": "R. Mayers",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2790999,
+            "resource_url": "https://api.discogs.com/artists/2790999"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "4:08"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Close To Famous",
+        "extraartists": [
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "2:28"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Saltwater",
+        "extraartists": [
+          {
+            "name": "Matthew Buscarino",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional]",
+            "tracks": "",
+            "id": 11785682,
+            "resource_url": "https://api.discogs.com/artists/11785682"
+          },
+          {
+            "name": "Conway The Machine",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4871603,
+            "resource_url": "https://api.discogs.com/artists/4871603"
+          },
+          {
+            "name": "Sam Cohen",
+            "anv": "",
+            "join": "",
+            "role": "Organ, Bass",
+            "tracks": "",
+            "id": 1738719,
+            "resource_url": "https://api.discogs.com/artists/1738719"
+          },
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Claudio Canali",
+            "anv": "C. Canali",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 629077,
+            "resource_url": "https://api.discogs.com/artists/629077"
+          },
+          {
+            "name": "Demond Price",
+            "anv": "D. Price",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5003556,
+            "resource_url": "https://api.discogs.com/artists/5003556"
+          },
+          {
+            "name": "Giuseppe Cossa",
+            "anv": "G. Cossa",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 629079,
+            "resource_url": "https://api.discogs.com/artists/629079"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          }
+        ],
+        "duration": "3:22"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Violas And Lupitas",
+        "extraartists": [
+          {
+            "name": "Brian Burton",
+            "anv": "B. Burton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 650228,
+            "resource_url": "https://api.discogs.com/artists/650228"
+          },
+          {
+            "name": "Tariq Trotter",
+            "anv": "T. Trotter",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 213176,
+            "resource_url": "https://api.discogs.com/artists/213176"
+          },
+          {
+            "name": "Tony Joe White",
+            "anv": "T. White",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 249828,
+            "resource_url": "https://api.discogs.com/artists/249828"
+          }
+        ],
+        "duration": "2:21"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Danger Mouse",
+        "anv": "",
+        "join": "&",
+        "role": "",
+        "tracks": "",
+        "id": 109129,
+        "resource_url": "https://api.discogs.com/artists/109129",
+        "thumbnail_url": "https://i.discogs.com/IsuzXnarS9wBNqPCwzc4rgaG5gziJfZ6xGaMqRZ7h0o/rs:fit/g:sm/q:90/h:405/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwOTEy/OS0xNjI1MTQ0NDU5/LTE4MzQuanBlZw.jpeg"
+      },
+      {
+        "name": "Black Thought",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 12466,
+        "resource_url": "https://api.discogs.com/artists/12466",
+        "thumbnail_url": "https://i.discogs.com/efZSxQHGlR7_gL7UShCCs1b4lq1ggn3vxDa9Sbp3ukU/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDY2/LTE2NjY0MDkxOTkt/ODkwMi5qcGVn.jpeg"
+      }
+    ],
+    "title": "Cheat Codes",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=yPdHD1neCV8",
+        "title": "Danger Mouse & Black Thought - Strangers (feat. A$AP Rocky and Run The Jewels) (Official Video)",
+        "description": "Listen to 'Strangers' here: https://DangerMouse.lnk.to/StrangersID\n\nThe new album 'Cheat Codes' is out now: https://DMxBT.lnk.to/CheatCodesID \n\nSubscribe to Danger Mouse & Black Thought: https://www.youtube.com/channel/UC2wkFAQLd9wweKQwrwAJHFQ?sub_confirm",
+        "duration": 248,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MHvNapx5PFo",
+        "title": "Danger Mouse & Black Thought - Aquamarine feat. Michael Kiwanuka (Official Video)",
+        "description": "Danger Mouse & Black Thought \"Aquamarine\" (feat Michael Kiwanuka) from their debut Cheat Codes album. Stream/Download the single everywhere with one link https://dmxbt.lnk.to/AquamarinePR\n\nThe new album 'Cheat Codes' is out now: https://DMxBT.lnk.to/Cheat",
+        "duration": 239,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qZFZh62tw3o",
+        "title": "Danger Mouse & Black Thought - Belize (feat. MF DOOM) (Official Music Video)",
+        "description": "Official Music Video for 'Belize' feat. MF DOOM by Danger Mouse & Black Thought. The new album 'Cheat Codes' is out now: https://DMxBT.lnk.to/CheatCodesID \n\nSubscribe to Danger Mouse & Black Thought: https://www.youtube.com/channel/UC2wkFAQLd9wweKQwrwAJHF",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=10RM92UFt_A",
+        "title": "Danger Mouse & Black Thought - Because feat. Joey Bada$$, Russ, and Dylan Cartlidge (Official Video)",
+        "description": "Official video for Because feat. Joey Bada$$, Russ, and Dylan Cartlidge Listen to 'Because' here: https://DMxBT.lnk.to/BecauseID\n\nThe new album 'Cheat Codes' is out now: https://DMxBT.lnk.to/CheatCodesID \n\nSubscribe to Danger Mouse & Black Thought: https:",
+        "duration": 289,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yrq1pVgGkMs",
+        "title": "Danger Mouse & Black Thought - No Gold Teeth (Official Video)",
+        "description": "Listen to 'No Gold Teeth' here: https://DMxBT.lnk.to/NoGoldTeethID\n\nThe new album 'Cheat Codes' is out now: https://DMxBT.lnk.to/CheatCodesID \n\nVideo Directed by UNCANNY, the UK-based creative duo of George Muncey and Elliot Elder\n\nOfficial Store\nhttps://",
+        "duration": 154,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=GSBwqIJrruI",
+        "title": "The Darkest Part (feat. Raekwon and Kid Sister)",
+        "description": "Provided to YouTube by BMG Rights Management (UK) Ltd.\n\nThe Darkest Part (feat. Raekwon and Kid Sister) \u00b7 Danger Mouse \u00b7 Black Thought \u00b7 Raekwon \u00b7 Kid Sister\n\nCheat Codes\n\n\u2117 2022 BMG Rights Management (UK) Limited\n\nReleased on: 2022-08-12\n\nSound  Engineer",
+        "duration": 225,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cnuNRReq7ns",
+        "title": "Saltwater (feat. Conway the Machine)",
+        "description": "Provided to YouTube by BMG Rights Management (UK) Ltd.\n\nSaltwater (feat. Conway the Machine) \u00b7 Danger Mouse \u00b7 Black Thought \u00b7 Conway the Machine\n\nCheat Codes\n\n\u2117 2022 BMG Rights Management (UK) Limited\n\nReleased on: 2022-08-12\n\nSound  Engineer, Producer: D",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=87JfNtn7INo",
+        "title": "Cheat Codes",
+        "description": "Provided to YouTube by BMG Rights Management (UK) Ltd.\n\nCheat Codes \u00b7 Danger Mouse \u00b7 Black Thought\n\nCheat Codes\n\n\u2117 2022 BMG Rights Management (UK) Limited\n\nReleased on: 2022-08-12\n\nSound  Engineer, Producer: Danger Mouse\nMixer, Sound  Engineer: Kennie Tak",
+        "duration": 135,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=PzeXBVPuN3s",
+        "title": "Sometimes",
+        "description": "Provided to YouTube by BMG Rights Management (UK) Ltd.\n\nSometimes \u00b7 Danger Mouse \u00b7 Black Thought\n\nCheat Codes\n\n\u2117 2022 BMG Rights Management (UK) Limited\n\nReleased on: 2022-08-12\n\nSound  Engineer, Producer: Danger Mouse\nMixer, Sound  Engineer: Kennie Takah",
+        "duration": 131,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YLygomW8roo",
+        "title": "Close to Famous",
+        "description": "Provided to YouTube by BMG Rights Management (UK) Ltd.\n\nClose to Famous \u00b7 Danger Mouse \u00b7 Black Thought\n\nCheat Codes\n\n\u2117 2022 BMG Rights Management (UK) Limited\n\nReleased on: 2022-08-12\n\nSound  Engineer, Producer: Danger Mouse\nMixer, Sound  Engineer: Kennie",
+        "duration": 149,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Rx3p3d0drTE",
+        "title": "Danger Mouse & Black Thought - Cheat Codes (Full Album)",
+        "description": "Buy: https://dangermouseblackthought.bandcamp.com/album/cheat-codes\nTracklist:\n01. Sometimes\n02. Cheat Codes\n03. The Darkest Part feat. Raekwon & Kid Sister\n04. No Gold Teeth\n05. Because feat. Joey Bada$$, Russ & Dylan Cartlidge\n06. Belize feat. MF DOOM\n0",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2742335,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Boom Bap",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

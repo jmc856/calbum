@@ -1,0 +1,2830 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602458374483",
+    "artist": "Olivia Rodrigo",
+    "title": "GUTS",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 28585045,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Brazil",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Solutions 2 Go Do Brasil",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Universal Music Ltda.",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16372 8",
+        "AA1000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28585045-Olivia-Rodrigo-Guts",
+      "catno": "060245816372",
+      "thumb": "https://i.discogs.com/Uh402hQKA5byUU7DyYueNdQhCycx5HwHSsbjZG45lVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg1/MDQ1LTE2OTcyMzg5/MDgtMzE2Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/jYwM8QCyzGoCcHijWaaIFniyQInHvMUnsbDkcuHZKsQ/rs:fit/g:sm/q:90/h:507/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg1/MDQ1LTE2OTcyMzg5/MDgtMzE2Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28585045",
+      "community": {
+        "want": 68,
+        "have": 92
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28255030,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "UMG Commercial Services",
+        "Geffen Records",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16362 9",
+        "602458163629",
+        "(1240892) 01020101 00602458163629-A (2) JN-H STERLING",
+        "(1240893) 01010101 00602458163629-RE1-13 JN-H STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28255030-Olivia-Rodrigo-Guts",
+      "catno": "5816362",
+      "thumb": "https://i.discogs.com/WlQ8UdoApp3f_ygTJh-WreqFcMF7ajARQyTXUCdbToQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/MDMwLTE2OTU0MTU4/ODQtOTEzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2p3rz-XfgwjP2T6HKKS8WMuzR7TYEKGh3Fys2wFojiA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/MDMwLTE2OTU0MTU4/ODQtOTEzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28255030",
+      "community": {
+        "want": 494,
+        "have": 1610
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27940218,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Sterling Sound Nashville",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "6 02458 16366 7",
+        "602458163667",
+        "00602455977625-A (1-1) P1 JN-H STERLING [MPO logo]\u00ae23 316738",
+        "00602455977625-RE1-B (1-3) JN-H STERLING [MPO logo]\u00ae23 316739",
+        "00602455977625-A (1-1) P1 JN-H STERLING [MPO logo]\u00ae23 317194",
+        "00602455977625-RE1-B (1-3) JN-H STERLING [MPO logo]\u00ae23 316695",
+        "00602455977625-A (1-1) P1 JN-H STERLING [MPO logo]\u00ae23 316738",
+        "00602455977625-RE1-B (1-2) JN-H STERLING [MPO logo]\u00ae23 316216"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/27940218-Olivia-Rodrigo-Guts",
+      "catno": "5816366",
+      "thumb": "https://i.discogs.com/GYxzrFpDJOmbJXsOa3rAe8TW4FbX333A69w-EZbdWEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/MjE4LTE2OTQyMDg0/NDEtNzcwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GyTcJlYaMRBarfNJ55cMXZNF7jK7C6FuQ0JU8hncPLk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/MjE4LTE2OTQyMDg0/NDEtNzcwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27940218",
+      "community": {
+        "want": 1126,
+        "have": 4698
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lavender",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28244848,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Rock",
+        "Ballad",
+        "Alt-Pop",
+        "Acoustic"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458163612",
+        "6 02458 16361 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28244848-Olivia-Rodrigo-Guts",
+      "catno": "5816361",
+      "thumb": "https://i.discogs.com/h3O7antH-Uibzd599NcgyiRnIyCLBHAM82hQJspabJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ0/ODQ4LTE2OTQ1NDk2/OTctMzUxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W1FKUVPh0wRyc2A-jCepkN71WpT8zpKZETVgr6xQl7o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ0/ODQ4LTE2OTQ1NDk2/OTctMzUxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28244848",
+      "community": {
+        "want": 362,
+        "have": 1708
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27940287,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ballad",
+        "Indie Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Sterling Sound Nashville",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "00602455977625-A (1) JN-H STERLING [MPO logo]\u00ae23 316708 M1",
+        "00602455977625-RE1-B (1-2) JN-H STERLING [MPO logo]\u00ae23 316709",
+        "00602455977625-A (1) JN-H STERLING [MPO logo]\u00ae24 349582 M1",
+        "00602455977625-RE1-B (1-2) JN-H STERLING [MPO logo]\u00ae24 249583",
+        "00602455977625-A (1) JN-H STERLING [MPO logo]\u00ae23 315833",
+        "00602455977625-RE1-B (1-3) JN-H STERLING [MPO logo]\u00ae23 315801"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/27940287-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/czdUuf2G6S_Z6zgwwZACIi6wK4HTNPllvGu37izHVpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/Mjg3LTE3NDc2MzEy/NjctOTU0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zd4UBoa9QL4SjIWZtlXaxrh0rZMxq0CfNas784N9PHo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/Mjg3LTE3NDc2MzEy/NjctOTU0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27940287",
+      "community": {
+        "want": 1018,
+        "have": 12731
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28219012,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico",
+        "Target"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97743 4",
+        "(1241443) 5816372 04 0001",
+        "IFPI LV77",
+        "IFPI KKTV",
+        "(1241443) 5816372 02 0001",
+        "IFPI LV77",
+        "IFPI KKV2",
+        "(1241443) 5816372 01 0001",
+        "IFPI LV77",
+        "IFPI KKF0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28219012-Olivia-Rodrigo-Guts",
+      "catno": "5597743",
+      "thumb": "https://i.discogs.com/2bO_pwPupGkMM7zTVl7Hhy8oGtF9oJVRfriU-eg4om8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE5/MDEyLTE3MDM2Mzgz/MDQtMzcyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8clojnlW6Tm8pMX38UdARBTE9tqjdej84v_9gHXnGxc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE5/MDEyLTE3MDM2Mzgz/MDQtMzcyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28219012",
+      "community": {
+        "want": 284,
+        "have": 2439
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Alternative Cover",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28204270,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16360 5",
+        "602458163605",
+        "00602458163605-A (2) JN-H STERLING (1240886) 01010203",
+        "00602458163605-REI-B (2-1) JN-H STERLING (1240887) 01010103"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28204270-Olivia-Rodrigo-Guts",
+      "catno": "5816360",
+      "thumb": "https://i.discogs.com/rqTZsWyMA7PpGz-OWhrhrO2ojWRVHwk5lbroa5f13z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA0/MjcwLTE2OTUxNTEz/NTItODI2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-MKIoPtmHxdbr43OEtnsDNaudNBiyWXpROS735IiklY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA0/MjcwLTE2OTUxNTEz/NTItODI2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28204270",
+      "community": {
+        "want": 451,
+        "have": 1771
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29009989,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "00602455977625-A (2) JN-H STERLING (1240888) 02010108",
+        "00602455977625-RE1-B (2-6) JN-H STERLING (1240889) 02010201",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010303",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010303",
+        "00602455977625-A (2-3) JN-H STERLING (1240888) 04010206",
+        "00602455977625-RE1-B (2-5) JN-H STERLING (1240889) 01010310",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010127",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010418"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/29009989-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/MIRNnVNEauBF3E9TJWHTaUnteCdB46Gmx3iI42PQnww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA5/OTg5LTE3MDUwMzE4/MDktMTk3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y5XYP_DY1lUH0pm2KEXIkw-4OEQuN3Js2pC-XtFoXvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA5/OTg5LTE3MDUwMzE4/MDktMTk3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29009989",
+      "community": {
+        "want": 207,
+        "have": 1134
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28201615,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Pop Rock",
+        "Pop Punk",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico",
+        "Target"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97742 7",
+        "602455977427",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010305",
+        "00602455977625-RE1-B (2-5) JN-H STERLING (1240889) 01010312",
+        "00602455977625-A  (2) JN-H STERLING (1240888) 01010118",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010328",
+        "00602455977625-A (2-2) JN-H STERLING (1240888) 02010309",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010319"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28201615-Olivia-Rodrigo-Guts",
+      "catno": "5597742",
+      "thumb": "https://i.discogs.com/ggm_mT56N3FeRjZgksB1JM0qWlzAfIFjTBxx7ekg7fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NjE1LTE2OTQ0NTg2/NTAtOTcxNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/P1H_1695ov8By1ekoi30IULfshLb2EqRfzsxBvvYYEw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NjE1LTE2OTQ0NTg2/NTAtOTcxNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28201615",
+      "community": {
+        "want": 1751,
+        "have": 18316
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Magenta, Alternative Artwork",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27940302,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16372 8",
+        "602458163728",
+        "6 02458 22036 0",
+        "602458220360",
+        "(1241443) 5816372 07 0001",
+        "(1241443) 5816372 04 0001",
+        "IFPI KKTV",
+        "IFPI KKV2",
+        "IFPI LV77",
+        "(1241443) 5816372 07 0001",
+        "IFPI LV77",
+        "IFPI KKNP",
+        "IFPI KK01"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/27940302-Olivia-Rodrigo-Guts",
+      "catno": "5816372",
+      "thumb": "https://i.discogs.com/8QRMidcOH1m5j2Ib5pBYdIO0QUyFmrIC-at0sUCOQAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/MzAyLTE2OTQ1Nzg2/NTUtOTMzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yLYRWh9Bbyj1lOzvVBPn-7G6rl3Vh6yqZ2F8X452PV4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQw/MzAyLTE2OTQ1Nzg2/NTUtOTMzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27940302",
+      "community": {
+        "want": 657,
+        "have": 3833
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28212004,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "MPO",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16362 9",
+        "602458163629",
+        "00602458163629-A (1) [MPO logo]\u00ae23 315945 JN-H STERLING",
+        "00602458163629-RE1-B (1-1) JN-H STERLING [MPO logo]\u00ae 23 315828",
+        "00602458163629-A (1) [MPO logo]\u00ae23 315917 JN-H STERLING",
+        "00602458163629-RE1-B (1-1) JN-H STERLING [MPO logo]\u00ae 23 315918"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28212004-Olivia-Rodrigo-Guts",
+      "catno": "5816362",
+      "thumb": "https://i.discogs.com/DBD4ixrvX0vslrAYYH2biOt1bYNUs-ZTRDXz9aTOShw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/MDA0LTE2OTQ2MzQ5/NzQtNzQ3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HLNQFYZmO69s2zPuvDwuaTZIPwweN3p9WLEUekkrhu0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/MDA0LTE2OTQ2MzQ5/NzQtNzQ3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28212004",
+      "community": {
+        "want": 393,
+        "have": 1220
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28206163,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "USA, Canada & Europe",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458163735",
+        "6 02458 16373 5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28206163-Olivia-Rodrigo-Guts",
+      "catno": "5816373",
+      "thumb": "https://i.discogs.com/YENmkFEwegRZAdtW_Z4TbccgSOFv9oDWsaLi3FLDkfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MTYzLTE2OTY5MTkx/ODgtMzc1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HSwbbQK35B4ZLq7TjpDVQDmAiLXiLGlNzMaa3r9cjEk/rs:fit/g:sm/q:90/h:928/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MTYzLTE2OTY5MTkx/ODgtMzc1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28206163",
+      "community": {
+        "want": 250,
+        "have": 699
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Purple Transparent",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28389103,
+      "title": "\u5967\u8389\u7dad\u4e9e* - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Taiwan",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Universal Music Taiwan",
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "SLS Studios",
+        "MixStar Studios",
+        "The Wheelhouse, Vancouver",
+        "Amusement Studios",
+        "Amusement Studios",
+        "Eastwest Studios",
+        "Electric Lady Studios",
+        "Skylight Studios",
+        "Sterling Sound Edgewater, NJ",
+        "Liv Laf Luv",
+        "Sony/ATV Tunes LLC",
+        "Sony/ATV Allegro",
+        "Daniel Leonard Nigro Music",
+        "Good Deal Publishing",
+        "Songs Of Universal, Inc.",
+        "Kenny + Betty Tunes",
+        "WC Music Corp"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16372 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28389103-%E5%A5%A7%E8%8E%89%E7%B6%AD%E4%BA%9E-Guts",
+      "catno": "5816372",
+      "thumb": "https://i.discogs.com/O_vYkgEPYBmiguHFAG64aR9nh2lpmViksHD_54GFK4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg5/MTAzLTE2OTU2NDc4/NTctMTY1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Mdb5nvXSkmzl3lmNacagwIIkpmaU5E2iTfP9Ykhaayc/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg5/MTAzLTE2OTU2NDc4/NTctMTY1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28389103",
+      "community": {
+        "want": 70,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28212055,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16359 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28212055-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/48_eAVu-sqZjKziYgdVc8DYBgmLCScHF6lKkJNmN1m8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/MDU1LTE2OTQ2MjY0/ODQtNjkxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CPG-X9q6vHT_mz03j4h-LhsidHCNPB6daFE6sBieSDY/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjEy/MDU1LTE2OTQ2MjY0/ODQtNjkxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28212055",
+      "community": {
+        "want": 320,
+        "have": 815
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28242940,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo",
+        "Box Set",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458354362",
+        "6 02458 35436 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28242940-Olivia-Rodrigo-Guts",
+      "catno": "00602458354362",
+      "thumb": "https://i.discogs.com/RkvOhrFHZUGTPxNjET7D6iVsUfSvYXXNqr6EG_BtCRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQy/OTQwLTE2OTQ4MDYy/MTktNDg5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UWV7tBLB_Rql2lsfFBwMk6AbHAuNWdME91F7kdeSYoE/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQy/OTQwLTE2OTQ4MDYy/MTktNDg5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28242940",
+      "community": {
+        "want": 140,
+        "have": 243
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28454560,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Universal Music",
+        "Geffen Records",
+        "Universal Music LLC",
+        "Universal Music LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988031 591123",
+        "4988031591123",
+        "UICX-1808 MT 461 [Universal Music logo]",
+        "IFPI L164",
+        "IFPI 442A",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28454560-Olivia-Rodrigo-Guts",
+      "catno": "UICF-1137",
+      "thumb": "https://i.discogs.com/mxYh-jHapN_0lq2PTX-te43XQUtY3FvUzu3KyIxo8po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDU0/NTYwLTE3MTEyMDgy/NTMtNzY0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RUwxJGLqaexGpxLadzdSWx4jny8G3PlJ2bUunJGteh4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDU0/NTYwLTE3MTEyMDgy/NTMtNzY0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28454560",
+      "community": {
+        "want": 82,
+        "have": 47
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28208182,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ballad",
+        "Indie Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico",
+        "Target"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97744 1",
+        "602455977441",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010202",
+        "00602455977625-REI-B (2-4) JN-H STERLING (1240889) 01010102"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28208182-Olivia-Rodrigo-Guts",
+      "catno": "5597744",
+      "thumb": "https://i.discogs.com/LKJzplffuCusQ9PV-6gu3RLyz-ZXD1aVmcF0ONOsiMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MTgyLTE3NzM3ODE3/MzYtNTUzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Vbx6w3QdA9-DQodOZSYLRESymkAyQTnNqsyS3evzR_U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA4/MTgyLTE3NzM3ODE3/MzYtNTUzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28208182",
+      "community": {
+        "want": 1238,
+        "have": 1885
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green [Sea Foam Green], Alternative Artwork, Signed",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28255435,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Indie Pop",
+        "Power Pop",
+        "Ballad",
+        "Alt-Pop"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "6 02458 16367 4",
+        "602458163674",
+        "00602455977625-A (2) JN-H STERLING (1240888) 01010214",
+        "00602455977625-REI-B (2-6) JN-H STERLING (1240889) 04010216"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28255435-Olivia-Rodrigo-Guts",
+      "catno": "5816367",
+      "thumb": "https://i.discogs.com/aE1fdyYlkCGdZAU1Q5k3E_DSaXbZUH8dr_S6x7jVAE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/NDM1LTE2OTUxNTAz/MjYtMzI5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7_L_QxXo0VUJHgc8Xt1-9OD9odSgAoBj2bqrChIpOvU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU1/NDM1LTE2OTUxNTAz/MjYtMzI5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28255435",
+      "community": {
+        "want": 404,
+        "have": 885
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Light Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28206793,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "USA, Canada & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Hot Topic"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "30802399"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28206793-Olivia-Rodrigo-Guts",
+      "catno": "5816371",
+      "thumb": "https://i.discogs.com/S-JJv8kGbBx7PXZyyR78R-SYuYcBEv-VtyV5cH4Zh8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/NzkzLTE2OTQyMDY3/MTctNDc2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EYi2uSpd2tHV2AwMl-dtjNyWxnuZKLANN3fgG7mJUdk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/NzkzLTE2OTQyMDY3/MTctNDc2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28206793",
+      "community": {
+        "want": 505,
+        "have": 615
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Bright Blue]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28199419,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ballad",
+        "Indie Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Olivia Rodrigo"
+      ],
+      "type": "release",
+      "barcode": [
+        "1694386825"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28199419-Olivia-Rodrigo-Guts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/zr5Z442l8D31FDUb8K1-K6WlM9Z6a7aXulwu_16yszA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NDE5LTE3MDA5NDQz/MTYtMTk5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f_5S8L5WsTkJYWuYBq0j331UMqY6z3uTAEdrS39CAMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NDE5LTE3MDA5NDQz/MTYtMTk5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28199419",
+      "community": {
+        "want": 545,
+        "have": 988
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31904788,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "South Korea",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Universal Music Australia",
+        "Liv Laf Luv",
+        "Sony/ATV Tunes LLC",
+        "Sony/ATV Allegro",
+        "Daniel Leonard Nigro Music",
+        "Good Deal Publishing",
+        "Songs of Universal, Inc.",
+        "Kenny + Betty Tunes",
+        "WC Music Corp",
+        "SLS Studios",
+        "MixStar Studios",
+        "The Wheelhouse, Vancouver",
+        "Amusement Studios",
+        "Amusement Studios",
+        "Eastwest Studios",
+        "Electric Lady Studios",
+        "Skylight Studios",
+        "Sterling Sound Edgewater, NJ"
+      ],
+      "type": "release",
+      "barcode": [
+        "8808678265026",
+        "8 808678 265026",
+        "230919 UNIDW-31595 IFPI LA71",
+        "IFPI LA71",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/31904788-Olivia-Rodrigo-Guts",
+      "catno": "DW31595",
+      "thumb": "https://i.discogs.com/eos0j4hSf3KbrSbFUtfWdRdr4i8Ktwnncms1cRrZz38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA0/Nzg4LTE3MjgwMzc1/MDItODU0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0XyavVCucVG8XgsBnYOPIAdxub9kfNnFFphhetqRNdc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA0/Nzg4LTE3MjgwMzc1/MDItODU0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31904788",
+      "community": {
+        "want": 48,
+        "have": 13
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28209574,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Walmart"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "6 02458 16368 1",
+        "602458163681",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010217",
+        "00602455977625-REI-B (2-6) JN-H STERLING (1240889) 02010116",
+        "00602455977625-A (2) JN-H STERLING (1240888) 02010104",
+        "00602455977625-REI-B (2-5) JN-H STERLING (1240889) 02010221"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28209574-Olivia-Rodrigo-Guts",
+      "catno": "5816368",
+      "thumb": "https://i.discogs.com/cODjppne2tQbeS4wObFM0UHl5ZWjjPSXR0y0HjRl3l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA5/NTc0LTE2OTQyMjE0/NDQtNjc2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/H0QF0UTHkHM3TOBPh4b6oYhlhCTDU2ccN7fLE_rdSFs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA5/NTc0LTE2OTQyMjE0/NDQtNjc2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28209574",
+      "community": {
+        "want": 516,
+        "have": 3500
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Transparent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33797115,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ballad",
+        "Indie Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/33797115-Olivia-Rodrigo-Guts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/kUXlsw9HZOS_AOA8FFbHgrzKbb66YpceHvuWH_pKtYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzk3/MTE1LTE3NDU1MTE3/NzctOTk5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ln5STaWB-j7pGD2Rs66wfFc7eWpyol9vEDwjcl95-7s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzk3/MTE1LTE3NDU1MTE3/NzctOTk5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33797115",
+      "community": {
+        "want": 19,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-Bit / 48-kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28205878,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "USA & Canada",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Sterling Sound",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "6 02458 16366 7",
+        "602458163667",
+        "00602455977625-A (2) JN-H STERLING (1240888) 02010222",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010104",
+        "00602455977625-A (2) JN-H STERLING (1240888) 02010105",
+        "00602455977625-RE1-B (2-6) JN-H STERLING (1240889) 02010107",
+        "00602955977625-A (2-3) JN-H STERLING (1240888) 03010108",
+        "00602955977625-RE1-B (2-5)JN-H STERLING (1240889) 03010107"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28205878-Olivia-Rodrigo-Guts",
+      "catno": "5816366",
+      "thumb": "https://i.discogs.com/ZMD-DURDFaYDmBsm9pm3iYW3l0xyDq6zf5z2lHozeRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA1/ODc4LTE3MDM2Mjcz/MDgtODk5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ykjd15W0HZEtZDcUezmkpnVJvgBFNm4k_cVnzplBjt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA1/ODc4LTE3MDM2Mjcz/MDgtODk5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28205878",
+      "community": {
+        "want": 953,
+        "have": 4511
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lavender",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28300600,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "SLS Studios",
+        "MixStar Studios",
+        "The Wheelhouse, Vancouver",
+        "Amusement Studios",
+        "Amusement Studios",
+        "Eastwest Studios",
+        "Electric Lady Studios",
+        "Skylight Studios",
+        "Sterling Sound Edgewater, NJ",
+        "Liv Laf Luv",
+        "Sony/ATV Tunes LLC",
+        "Sony/ATV Allegro",
+        "Daniel Leonard Nigro Music",
+        "Good Deal Publishing",
+        "Songs Of Universal, Inc.",
+        "Kenny + Betty Tunes",
+        "WC Music Corp",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16372 8",
+        "602458163728",
+        "[Universal logo] 5819562 [Universal logo] AN00241-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9755",
+        "[Universal logo] 5819562 [Universal logo] AN00241-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9718",
+        "[Universal logo] 5819562 [Universal logo] AN00241-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9746"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28300600-Olivia-Rodrigo-Guts",
+      "catno": "5816372",
+      "thumb": "https://i.discogs.com/x9BwOmWlEduSKhGqau1bov3CgMyINb3nwiZbJZtujyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAw/NjAwLTE2OTU2NDM2/MzgtOTA1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZZScUxe9kOei0dZx1nwSj-3EH1YWN9sdbc5lwln-5iY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzAw/NjAwLTE2OTU2NDM2/MzgtOTA1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28300600",
+      "community": {
+        "want": 241,
+        "have": 2356
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28239703,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Australasia",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Universal Music Australia",
+        "Liv Laf Luv",
+        "Sony/ATV Tunes LLC",
+        "Sony/ATV Allegro",
+        "Daniel Leonard Nigro Music",
+        "Good Deal Publishing",
+        "Songs of Universal, Inc.",
+        "Kenny + Betty Tunes",
+        "WC Music Corp",
+        "SLS Studios",
+        "MixStar Studios",
+        "The Wheelhouse, Vancouver",
+        "Amusement Studios",
+        "Amusement Studios",
+        "Eastwest Studios",
+        "Electric Lady Studios",
+        "Skylight Studios",
+        "Sterling Sound Edgewater, NJ",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "0602458163728",
+        "6 02458 16372 8",
+        "(1243001) 5816372 02 0001 IFPI LV77",
+        "IFPI LV77",
+        "IFPI KKF0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28239703-Olivia-Rodrigo-Guts",
+      "catno": "5816372",
+      "thumb": "https://i.discogs.com/vKVyq-74fCDvUwNnD743Zb9ekOX24m3czlPOhIqB7_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM5/NzAzLTE2OTQ4Mzgy/OTgtNzY4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HNGFEMACJtepFtY7aiKZYmxf5J_chsg72qLT1f1FW08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM5/NzAzLTE2OTQ4Mzgy/OTgtNzY4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28239703",
+      "community": {
+        "want": 103,
+        "have": 502
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28424857,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Argentina",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Universal Music Argentina S.A.",
+        "Universal Music Argentina S.A."
+      ],
+      "type": "release",
+      "barcode": [
+        "602458163728",
+        "6 02458 16372 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28424857-Olivia-Rodrigo-Guts",
+      "catno": "602458163728",
+      "thumb": "https://i.discogs.com/DnPAXlO-EjRhO5UvGFrFZeoTIgILDUI1Y3adA_I5gv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI0/ODU3LTE2OTU5MTQy/ODgtNTEwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ssu3LHYFBXz5A2H_RN-za--g3tfYC5ljw-dfu3CXThs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI0/ODU3LTE2OTU5MTQy/ODgtNTEwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28424857",
+      "community": {
+        "want": 87,
+        "have": 765
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28200562,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Pop Rock",
+        "Pop Punk",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Picture Disc"
+      ],
+      "label": [
+        "Geffen Records",
+        "Spotify",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Sterling Sound",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 16370 4",
+        "602458163704",
+        "00602455977625 - A (1) JN-H STERLING BN00082-01 A1",
+        "00602455977625 - RE1 - B (1-2) JN-H STERLING BN00082-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28200562-Olivia-Rodrigo-Guts",
+      "catno": "5816370",
+      "thumb": "https://i.discogs.com/9_IB4rHy07RxoFKxZ1pAiueZzowmZ6d3JEmY7oTb5mM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAw/NTYyLTE2OTQ4MTE0/NjItMTMxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8AshWjoD0rv30gVUyBC_SgB8Wqpa2jQoyn8hcX2K-uo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAw/NTYyLTE2OTQ4MTE0/NjItMTMxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28200562",
+      "community": {
+        "want": 1154,
+        "have": 4805
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Alternative Artwork ",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28184464,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458369977",
+        "602455977625",
+        "00602455977625-A (1) JN-H STERLING MPO 23315913",
+        "00602455977625-RE1-B (1-2) JN-H STERLING MPO 23315914"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28184464-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/2drPra97MhSk8HGJMRGIgYZafUpXfvctK33D3VluBQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTg0/NDY0LTE2OTQzODg1/MzItMjkyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zD71AjaTtB5BmQZU7PGCp4AA7CPcHGtbcHbS5GO8Rnw/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTg0/NDY0LTE2OTQzODg1/MzItMjkyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28184464",
+      "community": {
+        "want": 576,
+        "have": 3092
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180 Gram, Signed Print",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28201984,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Pop Rock",
+        "Pop Punk",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "UMG Commercial Services",
+        "Geffen Records",
+        "HMV",
+        "Empik",
+        "Media Markt",
+        "Platomania.nl",
+        "JB Hi-Fi",
+        "Fnac (Portugal)"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 19561 3",
+        "602458195613",
+        "6 02455 97742 7",
+        "602455977427"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28201984-Olivia-Rodrigo-Guts",
+      "catno": "00602458195613",
+      "thumb": "https://i.discogs.com/AwrQU68oe_hyCY20j3Uez2tsCwby_NANs_aM5vioifI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/OTg0LTE2OTQ5Mzc5/MjgtMTgzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PBs8UYGQHL-sSUJM_2PQDcQBbHu0y0PuSdHxT7dw7bE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/OTg0LTE2OTQ5Mzc5/MjgtMTgzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28201984",
+      "community": {
+        "want": 722,
+        "have": 2998
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple, Alternative Artwork",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28215562,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455977625",
+        "602458163599"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28215562-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/36-Zp0Ha3HCZ_pIYIwSbV-3d6YKLsSuA1ISZYWkRsjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE1/NTYyLTE2OTUzMzUy/MDEtODgxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6nhX5pG4ExVcJLyDq145tmmUXjDPMm2Oe_MWFTy0y20/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE1/NTYyLTE2OTUzMzUy/MDEtODgxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28215562",
+      "community": {
+        "want": 413,
+        "have": 1484
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28206124,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Sterling Sound Edgewater, NJ",
+        "Optimal Media GmbH",
+        "Amusement Studios",
+        "Eastwest Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97743 4",
+        "[Universal logo] 5819562 [Universal logo] AN00241-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9755",
+        "5819562",
+        "00602458195620"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28206124-Olivia-Rodrigo-Guts",
+      "catno": "5597743",
+      "thumb": "https://i.discogs.com/y1MJf7UqbvE2CtMNLMNatJwujWlC7yOXfhMF9sd6xJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MTI0LTE2OTQxODc5/MzctNjQ5NS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/sD3_l6bzwPyvaZBdI74GXA-KN-m0T_A8nYkJGKrqU6c/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MTI0LTE2OTQxODc5/MzctNjQ5NS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28206124",
+      "community": {
+        "want": 222,
+        "have": 788
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Alternative Artwork",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28200520,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Ballad",
+        "Indie Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Olivia Rodrigo"
+      ],
+      "type": "release",
+      "barcode": [
+        "1694767605"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28200520-Olivia-Rodrigo-Guts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/DvQ9JvHdr2wTIQCT18Q3RowTl1l0FnyK1Fvt-qkp64U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAw/NTIwLTE3MDA5NDUx/NjYtMTczMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3HUzlMzAfcdC8u2Pc5fsiCh472K56mF3gshC6kXLgZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAw/NTIwLTE3MDA5NDUx/NjYtMTczMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28200520",
+      "community": {
+        "want": 46,
+        "have": 101
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps, Clean",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28209163,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Amazon.com"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455977625",
+        "602458163650"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28209163-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/8IPgc-rWJ3ovSFA2Gmda78VP06VoSGYVfHA_x6zGdGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA5/MTYzLTE2OTQyMTIz/NjUtNTcwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/F6D7uK2tnLpqUXDBd0ZwyDfgq00GzO0Jz4Gd9Z5FwW8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA5/MTYzLTE2OTQyMTIz/NjUtNTcwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28209163",
+      "community": {
+        "want": 822,
+        "have": 2414
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Bright Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28260316,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "MPO",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458163605",
+        "00602458163605-A (1) JN-H STERLING [MPO logo]\u00ae23 317026",
+        "00602458163605-RE1-B (1-1) JN-H STERLING [MPO logo]\u00ae 23 316930"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28260316-Olivia-Rodrigo-Guts",
+      "catno": "5816360",
+      "thumb": "https://i.discogs.com/GMMVC5w8sa2xRGHyQPDbu2lJKUNzA6_jXvNPva7e8do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjYw/MzE2LTE3NDIyNzgz/OTctMzgxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/usSzYHmQS5HkQLgbEvov3MAfkj7CCMp5NZknAFv0yaE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjYw/MzE2LTE3NDIyNzgz/OTctMzgxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28260316",
+      "community": {
+        "want": 421,
+        "have": 1011
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28202107,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Pop Punk",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "MPO",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458163612",
+        "00602458163612-A (1) JN-H STERLING [MPO Logo]\u00ae23 317086",
+        "00602458163612-RE1-B (1-1) JN-H STERLING [MPO logo]\u00ae 23 317061"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28202107-Olivia-Rodrigo-Guts",
+      "catno": "5816361",
+      "thumb": "https://i.discogs.com/ZckVBl7tIPXvc_kBMKFSCtCTIdxUrBWbRqF1QxxSwQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAy/MTA3LTE2OTQ2Mjk4/NDQtODA2NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Hpr5DCwdbPoG64JpKlXOlkojQ75cY3qQ8MqvzCnqexk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAy/MTA3LTE2OTQ2Mjk4/NDQtODA2NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28202107",
+      "community": {
+        "want": 495,
+        "have": 2118
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Opaque Dark Blue Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28256623,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Sterling Sound Nashville",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 97762 5",
+        "602455977625",
+        "6 02455 95414 5",
+        "602455954145",
+        "00602455977625-A (2) JN-H STERLING (1240888) 02010108",
+        "00602455977625-RE1-B (2-6) JN-H STERLING (1240889) 02010201",
+        "00602455977625-A (2-1) JN-H STERLING (1240888) 01010303",
+        "00602455977625-RE1-B (2-4) JN-H STERLING (1240889) 01010303"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28256623-Olivia-Rodrigo-Guts",
+      "catno": "5597762",
+      "thumb": "https://i.discogs.com/7w0mTSb6XhgVeZCK1ANc3YUbT47ELOb1eKOTwXj6_10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU2/NjIzLTE3ODM1NDE4/NzItOTUxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wre0_sXpAc8p60Pe6fghh4cWoOYJWRmv-YVkTRBXQ48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU2/NjIzLTE3ODM1NDE4/NzItOTUxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28256623",
+      "community": {
+        "want": 460,
+        "have": 3322
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180 Gram, Signed Print",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28206235,
+      "title": "Olivia Rodrigo - Guts",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Geffen Records",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458413977",
+        "6 02458 41397 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28206235-Olivia-Rodrigo-Guts",
+      "catno": "5841397",
+      "thumb": "https://i.discogs.com/ib74Az-Tmkpmdk_iuXgz4uY6m1RCwN6ikiqu3rFKZsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MjM1LTE3NjcyNzEy/NDktMjkzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5_fpch2Ul7Mftx5LkGjaZbf3-LOGBaN4BW8F8GKCx7g/rs:fit/g:sm/q:90/h:974/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjA2/MjM1LTE3NjcyNzEy/NDktMjkzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28206235",
+      "community": {
+        "want": 223,
+        "have": 370
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Red Transparent, Alternative Artwork",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28247899,
+      "title": "Olivia Rodrigo = \u30aa\u30ea\u30f4\u30a3\u30a2\u30fb\u30ed\u30c9\u30ea\u30b4* - Guts = \u30ac\u30c3\u30c4",
+      "master_id": 3231790,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Power Pop",
+        "Pop Punk",
+        "Acoustic",
+        "Ballad"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Geffen Records",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Universal Music",
+        "Geffen Records",
+        "Universal Music LLC",
+        "Universal Music LLC",
+        "Sterling Sound",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988031 591116",
+        "4988031591116",
+        "JASRAC ",
+        "UICX-1808 MT 461 [Universal Music logo]",
+        "IFPI L164",
+        "IFPI L154",
+        "IFPI 442A",
+        "\u00a53,620",
+        "\u00a53,300"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3231790",
+      "uri": "/release/28247899-Olivia-Rodrigo-%E3%82%AA%E3%83%AA%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B4-Guts-%E3%82%AC%E3%83%83%E3%83%84",
+      "catno": "UICF-9073",
+      "thumb": "https://i.discogs.com/8EBlxTNDPIWiVUSQpOL-mqmUrll2t-LabnONSKNgeio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ3/ODk5LTE2OTQ1ODgw/MDMtMTUzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BhotxLDbkgzLkqv20SgbLmMIcqSL9WqU7-ztqxYIIGs/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ3/ODk5LTE2OTQ1ODgw/MDMtMTUzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28247899",
+      "community": {
+        "want": 159,
+        "have": 294
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28990315,
+      "title": "Olivia Rodrigo - Guts: The Secret Tracks",
+      "master_id": 0,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Pop Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Single Sided",
+        "EP",
+        "Record Store Day",
+        "Etched",
+        "Limited Edition"
+      ],
+      "label": [
+        "Geffen Records",
+        "Geffen Records",
+        "UMG Commercial Services",
+        "Olivia Rodrigo",
+        "Olivia Rodrigo",
+        "Geffen Records",
+        "Liv Laf Luv",
+        "Sony/ATV Tunes LLC",
+        "Sony/ATV Allegro",
+        "Daniel Leonard Nigro Music",
+        "Annie Clark",
+        "Phenomenal Nothing Music",
+        "Hipgnosis Songs Group",
+        "Kenny + Betty Tunes",
+        "WC Music Corp",
+        "SLS Studios",
+        "Amusement Studios",
+        "Sterling Sound Edgewater, NJ",
+        "Amusement Studios",
+        "EastWest Studios",
+        "Third Man Mastering",
+        "Third Man Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "602458554762",
+        "6 02458 55476 2",
+        "ASCAP",
+        "00602458554762A TMM TMP WAR.",
+        "602458554762-A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/28990315-Olivia-Rodrigo-Guts-The-Secret-Tracks",
+      "catno": "602458554762",
+      "thumb": "https://i.discogs.com/cX8VZkZAWZTjWdFX-IDYA_qtHsJuysIfrvOn9X-JAOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTkw/MzE1LTE3MDA4NDAw/NjgtMjUzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0FmV32RNeTEtxGmNnrEWCfSLNi1gg7TUM1OykmBbV8I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTkw/MzE1LTE3MDA4NDAw/NjgtMjUzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28990315",
+      "community": {
+        "want": 4994,
+        "have": 7137
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple [Deep Purple]",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Single Sided",
+            "EP",
+            "Record Store Day",
+            "Etched",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3231790,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alt-Pop",
+      "Ballad",
+      "Indie Pop",
+      "Pop Rock",
+      "Power Pop"
+    ],
+    "main_release": 28199419,
+    "most_recent_release": 36129379,
+    "resource_url": "https://api.discogs.com/masters/3231790",
+    "uri": "https://www.discogs.com/master/3231790-Olivia-Rodrigo-Guts",
+    "versions_url": "https://api.discogs.com/masters/3231790/versions",
+    "main_release_url": "https://api.discogs.com/releases/28199419",
+    "most_recent_release_url": "https://api.discogs.com/releases/36129379",
+    "num_for_sale": 627,
+    "lowest_price": 12.15,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/f_5S8L5WsTkJYWuYBq0j331UMqY6z3uTAEdrS39CAMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NDE5LTE3MDA5NDQz/MTYtMTk5My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/f_5S8L5WsTkJYWuYBq0j331UMqY6z3uTAEdrS39CAMA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NDE5LTE3MDA5NDQz/MTYtMTk5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zr5Z442l8D31FDUb8K1-K6WlM9Z6a7aXulwu_16yszA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk5/NDE5LTE3MDA5NDQz/MTYtMTk5My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": " All-American Bitch",
+        "duration": "2:45"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Bad Idea Right?",
+        "duration": "3:04"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Vampire",
+        "duration": "3:39"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Lacy",
+        "duration": "2:57"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Ballad Of A Homeschooled Girl",
+        "duration": "3:23"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Making The Bed",
+        "duration": "3:18"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Logical",
+        "duration": "3:51"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Get Him Back!",
+        "duration": "3:31"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Love Is Embarrassing",
+        "duration": "2:34"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "The Grudge",
+        "duration": "3:09"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Pretty Isn't Pretty",
+        "duration": "3:19"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Teenage Dream",
+        "duration": "3:42"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Olivia Rodrigo",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7592689,
+        "resource_url": "https://api.discogs.com/artists/7592689",
+        "thumbnail_url": "https://i.discogs.com/mcknqhAtO2JpRXNEyC4la38Qi_rM3noUfU5E3X1OZQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc1OTI2/ODktMTc3NTMyNjA2/OS02MzYxLnBuZw.jpeg"
+      }
+    ],
+    "title": "Guts",
+    "notes": "CD:\r\n- Standard CD\r\n- Target exclusive CD with Alternative Cover\r\nGuts (Spilled) releases:\r\n- [url=https://www.discogs.com/release/31529953-Olivia-Rodrigo-Guts-Spilled-Japan-Tour-Edition]Japan Tour Edition CD[/url]\r\n\r\nVinyl:\r\n- Black, [url=https://www.discogs.com/release/29009989-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/29708641-Olivia-Rodrigo-Guts]EU[/url] standard\r\n- Bright Pink, [url=https://www.discogs.com/release/28209163-Olivia-Rodrigo-Guts]Amazon exclusive[/url]\r\n- Bright Blue, [url=https://www.discogs.com/release/28206793-Olivia-Rodrigo-Guts]Hot Topic exclusive[/url]\r\n- Lavender, [url=https://www.discogs.com/release/28205878-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/27940218-Olivia-Rodrigo-Guts]EU[/url] indie retail exclusive\r\n- Picture Disc, [url=https://www.discogs.com/release/28200562-Olivia-Rodrigo-Guts]Spotify Fans First exclusive[/url]\r\n- Magenta, [url=https://www.discogs.com/release/28201615-Olivia-Rodrigo-Guts]US Target exclusive[/url] / [url=https://www.discogs.com/release/28201984-Olivia-Rodrigo-Guts]EU various retail exclusive[/url] with Alternative Cover\r\n- Sea Foam Green, [url=https://www.discogs.com/release/28208182-Olivia-Rodrigo-Guts]Target exclusive[/url] with Alternative Cover & Signed Print\r\n- Light Pink, [url=https://www.discogs.com/release/28255435-Olivia-Rodrigo-Guts]Urban Outfitters exclusive[/url]\r\n- Transparent, [url=https://www.discogs.com/release/28209574-Olivia-Rodrigo-Guts]Walmart exclusive[/url]\r\n- Red, [url=https://www.discogs.com/release/28215562-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/28212055-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive\r\n- White, [url=https://www.discogs.com/release/28204270-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/28260316-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive\r\n- Blue, [url=https://www.discogs.com/release/28244848-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/28202107-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive\r\n- Purple, [url=https://www.discogs.com/release/28255030-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/28212004-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive\r\n- 180 Gram Black, [url=https://www.discogs.com/release/28256623-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/28184464-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive with Signed Print\r\nGuts (Spilled) releases:\r\n- Splatter, [url=https://www.discogs.com/release/31252708-Olivia-Rodrigo-Guts-Spilled]special edition[/url]\r\n- Zoetrope Picture Disc, [url=https://www.discogs.com/release/31274393-Olivia-Rodrigo-Guts-Spilled]Blood Records exclusive[/url]\r\n- Marbled Red & Purple, [url=https://www.discogs.com/release/32425548-Olivia-Rodrigo-Guts-Spilled]Record Store Day Black Friday 'RSD First'[/url]\r\nAnniversary releases:\r\n- Marbled Silver, [url=https://www.discogs.com/release/31737368-Olivia-Rodrigo-Guts]US[/url] & [url=https://www.discogs.com/release/32419734-Olivia-Rodrigo-Guts]EU[/url] webstore exclusive\r\n\r\nAll gatefold jackets came with the 'G' cover, except for the:\r\n- Target exclusives, with the Sea Foam Green being numbered on the back cover.\r\n- White vinyl, with the 'U' cover\r\n- Blue vinyl, with the 'T' cover\r\n- Purple vinyl, with the 'S' cover\r\n- Splatter vinyl, with the Guts (spilled) cover\r\n- Blood Records exclusive, with Guts (spilled) purple-foiled sleeve\r\n\r\nVinyl albums initially released in the US were pressed by [l3269847]\r\nVinyl albums initially released in Europe were pressed by [l56025]\r\n\r\nCassette:\r\n- Standard Cassette, Purple\r\n- Alternative Artwork, Red",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Dj9qJsJTsjQ",
+        "title": "Olivia Rodrigo - bad idea right? (Official Video)",
+        "description": "Listen to \"bad idea right?\" on 'GUTS' now: https://OliviaRodrigo.lnk.to/GUTS\n\u2018GUTS (spilled)\u2019 Out Now: https://OliviaRodrigo.lnk.to/GUTSspilled\n \nStore: https://OliviaRodrigo.lnk.to/store\n \nFollow Olivia Rodrigo:\nInstagram: https://www.instagram.com/olivi",
+        "duration": 191,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZsJ-BHohXRI",
+        "title": "Olivia Rodrigo - get him back! (Official Video)",
+        "description": "Listen to \u201cget him back!\u201d on 'GUTS' now: https://OliviaRodrigo.lnk.to/GUTS\n\u2018GUTS (spilled)\u2019 Out Now: https://OliviaRodrigo.lnk.to/GUTSspilled\n \nMusic video shot on iPhone 15 Pro in collaboration with Apple.\n#shotoniphone #ShotoniPhone15Pro #ShotoniPhone #",
+        "duration": 210,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RlPNh_PBZb4",
+        "title": "Olivia Rodrigo - vampire (Official Video)",
+        "description": "Listen to \"vampire\" on 'GUTS' now: https://OliviaRodrigo.lnk.to/GUTS\n\u2018GUTS (spilled)\u2019 Out Now: https://OliviaRodrigo.lnk.to/GUTSspilled\n \nStore: https://OliviaRodrigo.lnk.to/store\n \nCreate a Short to vampire: https://yt.be/vampireOR2\n \nFollow Olivia Rodri",
+        "duration": 245,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3231790,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alt-Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Ballad",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Power Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

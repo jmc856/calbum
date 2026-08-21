@@ -1,0 +1,721 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "198588683668",
+    "artist": "Saba",
+    "title": "CARE FOR ME",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 11895120,
+      "title": "Saba (14) - Care For Me",
+      "master_id": 1432323,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Saba Pivot LLC"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1432323",
+      "uri": "/release/11895120-Saba-Care-For-Me",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/lr9Eq4mNUzeaC7dWtliP9FDjQKNXDJwjAepT8V8JcF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fCUDfJcdmhjx2FpdyrAHLv9xZYUWU_3lhMTCNs9citA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11895120",
+      "community": {
+        "want": 199,
+        "have": 92
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12605516,
+      "title": "Saba (14) - Care For Me",
+      "master_id": 1432323,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition"
+      ],
+      "label": [
+        "Not On Label",
+        "Vinyl Me, Please. Rap & Hip Hop",
+        "Saba Pivot LLC",
+        "Offbeat Ventures, LLC",
+        "Vinyl Me, Please",
+        "Offbeat Ventures, LLC",
+        "Offbeat Ventures, LLC",
+        "Vinyl Me, Please",
+        "Vinyl Me, Please",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "177834E1/A",
+        "177834E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1432323",
+      "uri": "/release/12605516-Saba-Care-For-Me",
+      "catno": "VMP-043",
+      "thumb": "https://i.discogs.com/pLgeSXMcqLV5rNVLUKWPlPqxWTlQP6DD3a0QmeO6giE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA1/NTE2LTE1Mzg0NjE3/NzktMjE4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FTpodfx3d2HCkTTHs64_HGp8BlpRblfuQt4ETiIFGQo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA1/NTE2LTE1Mzg0NjE3/NzktMjE4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12605516",
+      "community": {
+        "want": 2316,
+        "have": 3021
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Grey, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14679447,
+      "title": "Saba (14) - Care For Me",
+      "master_id": 1432323,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Not On Label",
+        "A to Z Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "177834E1/A",
+        "177834E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1432323",
+      "uri": "/release/14679447-Saba-Care-For-Me",
+      "catno": "VMP-043",
+      "thumb": "https://i.discogs.com/RRm0_FobiCq_Y6sVFupU4JLHO9n1S8NWGWgOa0j-ghE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc5/NDQ3LTE1Nzk0NzEz/MDQtMzYwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ytIpoDnCNJWWbnrnHymtdliGDPnMF6J_V-yiqbSiK_0/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc5/NDQ3LTE1Nzk0NzEz/MDQtMzYwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14679447",
+      "community": {
+        "want": 170,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1432323,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 11895120,
+    "most_recent_release": 26203943,
+    "resource_url": "https://api.discogs.com/masters/1432323",
+    "uri": "https://www.discogs.com/master/1432323-Saba-14-Care-For-Me",
+    "versions_url": "https://api.discogs.com/masters/1432323/versions",
+    "main_release_url": "https://api.discogs.com/releases/11895120",
+    "most_recent_release_url": "https://api.discogs.com/releases/26203943",
+    "num_for_sale": 41,
+    "lowest_price": 57.55,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/fCUDfJcdmhjx2FpdyrAHLv9xZYUWU_3lhMTCNs9citA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fCUDfJcdmhjx2FpdyrAHLv9xZYUWU_3lhMTCNs9citA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lr9Eq4mNUzeaC7dWtliP9FDjQKNXDJwjAepT8V8JcF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/MTIwLTE2ODg3NDkw/NjgtMzgzOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2018,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Busy / Sirens",
+        "extraartists": [
+          {
+            "name": "Matt Wheeler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1001273,
+            "resource_url": "https://api.discogs.com/artists/1001273"
+          },
+          {
+            "name": "Satya Jimenez",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 6438913,
+            "resource_url": "https://api.discogs.com/artists/6438913"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          },
+          {
+            "name": "theMIND",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 5137877,
+            "resource_url": "https://api.discogs.com/artists/5137877"
+          }
+        ],
+        "duration": "5:29"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Broken Girls",
+        "extraartists": [
+          {
+            "name": "Nick Phelps",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 402494,
+            "resource_url": "https://api.discogs.com/artists/402494"
+          },
+          {
+            "name": "Andre Mateo",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 6438914,
+            "resource_url": "https://api.discogs.com/artists/6438914"
+          },
+          {
+            "name": "Alex Baez",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1846305,
+            "resource_url": "https://api.discogs.com/artists/1846305"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "4:37"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Life",
+        "extraartists": [
+          {
+            "name": "Alex Baez",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1846305,
+            "resource_url": "https://api.discogs.com/artists/1846305"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "3:48"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Calligraphy",
+        "extraartists": [
+          {
+            "name": "Cheflee",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 5420277,
+            "resource_url": "https://api.discogs.com/artists/5420277"
+          },
+          {
+            "name": "Alex Baez",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1846305,
+            "resource_url": "https://api.discogs.com/artists/1846305"
+          },
+          {
+            "name": "Herbie One",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 6438912,
+            "resource_url": "https://api.discogs.com/artists/6438912"
+          },
+          {
+            "name": "Satya Jimenez",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 6438913,
+            "resource_url": "https://api.discogs.com/artists/6438913"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "3:04"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Fighter",
+        "extraartists": [
+          {
+            "name": "SeanZY",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 6438911,
+            "resource_url": "https://api.discogs.com/artists/6438911"
+          },
+          {
+            "name": "Alex Baez",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1846305,
+            "resource_url": "https://api.discogs.com/artists/1846305"
+          },
+          {
+            "name": "Kaina Castillo",
+            "anv": "Kaina",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 6670679,
+            "resource_url": "https://api.discogs.com/artists/6670679"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "4:42"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Smile",
+        "extraartists": [
+          {
+            "name": "Emanuel Townsend",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 5899559,
+            "resource_url": "https://api.discogs.com/artists/5899559"
+          },
+          {
+            "name": "SeanZY",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 6438911,
+            "resource_url": "https://api.discogs.com/artists/6438911"
+          },
+          {
+            "name": "Matt Wheeler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1001273,
+            "resource_url": "https://api.discogs.com/artists/1001273"
+          },
+          {
+            "name": "Satya Jimenez",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 6438913,
+            "resource_url": "https://api.discogs.com/artists/6438913"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "3:28"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Logout",
+        "extraartists": [
+          {
+            "name": "Cheflee",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 5420277,
+            "resource_url": "https://api.discogs.com/artists/5420277"
+          },
+          {
+            "name": "Brandon Farmer",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 6438915,
+            "resource_url": "https://api.discogs.com/artists/6438915"
+          },
+          {
+            "name": "Huntly Morrison",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 6438916,
+            "resource_url": "https://api.discogs.com/artists/6438916"
+          },
+          {
+            "name": "Daoud (3)",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 8034284,
+            "resource_url": "https://api.discogs.com/artists/8034284"
+          },
+          {
+            "name": "Matt Wheeler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1001273,
+            "resource_url": "https://api.discogs.com/artists/1001273"
+          },
+          {
+            "name": "Herbie One",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 6438912,
+            "resource_url": "https://api.discogs.com/artists/6438912"
+          },
+          {
+            "name": "Satya Jimenez",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 6438913,
+            "resource_url": "https://api.discogs.com/artists/6438913"
+          },
+          {
+            "name": "Chance The Rapper",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3268583,
+            "resource_url": "https://api.discogs.com/artists/3268583"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "2:30"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Grey",
+        "extraartists": [
+          {
+            "name": "Brandon Farmer",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 6438915,
+            "resource_url": "https://api.discogs.com/artists/6438915"
+          },
+          {
+            "name": "Matt Wheeler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1001273,
+            "resource_url": "https://api.discogs.com/artists/1001273"
+          },
+          {
+            "name": "Herbie One",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 6438912,
+            "resource_url": "https://api.discogs.com/artists/6438912"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "4:00"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Prom / King",
+        "extraartists": [
+          {
+            "name": "Brandon Farmer",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 6438915,
+            "resource_url": "https://api.discogs.com/artists/6438915"
+          },
+          {
+            "name": "Alex Baez",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1846305,
+            "resource_url": "https://api.discogs.com/artists/1846305"
+          },
+          {
+            "name": "Herbie One",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 6438912,
+            "resource_url": "https://api.discogs.com/artists/6438912"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "7:31"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Heaven All Around Me",
+        "extraartists": [
+          {
+            "name": "Andre Mateo",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 6438914,
+            "resource_url": "https://api.discogs.com/artists/6438914"
+          },
+          {
+            "name": "Matt Wheeler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1001273,
+            "resource_url": "https://api.discogs.com/artists/1001273"
+          },
+          {
+            "name": "Herbie One",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 6438912,
+            "resource_url": "https://api.discogs.com/artists/6438912"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          }
+        ],
+        "duration": "3:32"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Saba (14)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3270638,
+        "resource_url": "https://api.discogs.com/artists/3270638",
+        "thumbnail_url": "https://i.discogs.com/RVWqD-A95S7HxPWe5bwej3giMDsOJ3qUoPLgAOMfnUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNzA2/MzgtMTc0Mjg0OTQx/MS03ODkyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Care For Me",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=U_IEiTWaEtM",
+        "title": "Saba - CALLIGRAPHY (Official Audio)",
+        "description": "Care For Me Tour tickets // https://sabapivot.com/sabatour\n\nMusic Producer // daedaePIVOT, Daoud, Saba\nTrumpet // HerbieOne\nViolin // Satya Jimenez\nBass // Cheflee\nMixed // Papi Beatz\n\nFollow\nFacebook // http://facebook.com/sabapivot\nInstagram // http://i",
+        "duration": 185,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1432323,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

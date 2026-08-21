@@ -1,0 +1,914 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "607396661930",
+    "artist": "Ratboys",
+    "title": "Singin\u2019 to an Empty Chair",
+    "year": 2026
+  },
+  "results": [
+    {
+      "id": 36400414,
+      "title": "Ratboys - Singin\u2019 To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "Vinyl",
+        "LP",
+        "Single Sided",
+        "Etched",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "New West Records",
+        "New West Records",
+        "Ratboys LLC",
+        "New West Records, LLC",
+        "SST GmbH",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 59921 9",
+        "607396599219",
+        "LC 52772",
+        "NW5959 A SST MPO\u00ae\ufe0f 25 380518",
+        "NW5959 B SST MPO\u00ae\ufe0f 25 380517",
+        "NW5959 B SST MPO\u00ae\ufe0f 25 378642",
+        "607396595914",
+        "6 07396 59591 4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36400414-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW5959",
+      "thumb": "https://i.discogs.com/BI9T-O8oPNYK5bHP7_T6S7nyfQ5unziDE3buCcyjm7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDAw/NDE0LTE3NzAxNzEz/MjktNzc5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aYqNXqKxd_Tg45qutTfM4at7nuiFCSBX_KdjQV2k-_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDAw/NDE0LTE3NzAxNzEz/MjktNzc5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36400414",
+      "community": {
+        "want": 18,
+        "have": 120
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Salmon",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Salmon",
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36786061,
+      "title": "Ratboys - Singin\u2019 To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Cassette",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "New West Records",
+        "Ratboys LLC",
+        "New West Records, LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "607396902910",
+        "6 07396 90291 0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36786061-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW9029CS",
+      "thumb": "https://i.discogs.com/XubERAmqOatFQvCDlQ4NIiJO8pgWkHglAjksWIaryJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg2/MDYxLTE3NzY4NDI1/OTUtMjQ3Ny5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/e8d0cCEQsLRpnO7MiF-LTnNdnph9jyVqK448Rnco1Ww/rs:fit/g:sm/q:90/h:710/w:430/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg2/MDYxLTE3NzY4NDI1/OTUtMjQ3Ny5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36786061",
+      "community": {
+        "want": 4,
+        "have": 21
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Solid Green",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36398593,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Limited Edition"
+      ],
+      "label": [
+        "New West Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "607396661909",
+        "6 07396 66190 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36398593-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW6619",
+      "thumb": "https://i.discogs.com/-ZqW_Rw1xVgR3wQ4Aa5lP6xGBqYeRLVVUJGjezTECw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk4/NTkzLTE3NzAxNTI5/ODEtOTM4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kfh9--oocxQgeCAR_YOOZScKj0zGB6Oem-qUay4Ww9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk4/NTkzLTE3NzAxNTI5/ODEtOTM4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36398593",
+      "community": {
+        "want": 13,
+        "have": 86
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Autographed",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36364051,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "New West Records",
+        "Electrical Audio",
+        "Rosebud Studios",
+        "Ratboys Publishing",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07296 66192 3",
+        "NWR6619CD  6745-CD-7497  25-329-21-2",
+        "IFPI LY89",
+        "IFPI L817",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36364051-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW6619",
+      "thumb": "https://i.discogs.com/bQYowtmTpCG4OFQfCAfyLDva6hWtKNvOFf72iw_6Vss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzY0/MDUxLTE3NzQ5ODE5/MTAtMTEwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/goePuFMhg_agq58vFRNvrrw3wXQHYCG1bGpsyTTKDQk/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzY0/MDUxLTE3NzQ5ODE5/MTAtMTEwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36364051",
+      "community": {
+        "want": 23,
+        "have": 75
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36390670,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "Single Sided"
+      ],
+      "label": [
+        "New West Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 59891 5",
+        "6 07396 59591 4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36390670-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW5959",
+      "thumb": "https://i.discogs.com/k-AYdVPZa-s3dW9qQWb44TKpzzvz_5CBFJv5u91peng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzkw/NjcwLTE3NzA0MTg5/NjktMjYyMC5naWY.jpeg",
+      "cover_image": "https://i.discogs.com/Mdf3zZ1KKpooXnq9laFWlPcmKPUyk5ysr0H4Mn5BAkY/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzkw/NjcwLTE3NzA0MTg5/NjktMjYyMC5naWY.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36390670",
+      "community": {
+        "want": 49,
+        "have": 485
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Indie Retail Exclusive, Green",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Single Sided"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36435019,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Vinyl",
+        "LP",
+        "Single Sided"
+      ],
+      "label": [
+        "New West Records",
+        "New West Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 59591 4",
+        "6 07396 59931 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36435019-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW5959",
+      "thumb": "https://i.discogs.com/fi6VXndk9uNgwCh-F9zzHRsrqwyz2Q7iu86MPUTmcec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/MDE5LTE3NzA0ODYw/OTQtMTcwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hbhbH7u7uGH-c0tsuky8U94On7qLr23xLuj0CI_SVCk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/MDE5LTE3NzA0ODYw/OTQtMTcwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36435019",
+      "community": {
+        "want": 27,
+        "have": 96
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Vinyl, Signed",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Single Sided"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38204526,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 0,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "New West Records",
+        "Electrical Audio",
+        "Rosebud Studios",
+        "Ratboys Publishing",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 66192 3",
+        "NWR6619CD  6745-CD-7497  25-329-21-2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/38204526-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW6619",
+      "thumb": "https://i.discogs.com/k3VX88sbKJrcC9JHL9wfHF23zkvuZmFEY628tNEZnz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA0/NTI2LTE3ODcyNTkx/ODUtODgyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MpNP1MPtOcFp0gSrlC0wnbJYLenBL-GS9G5cFf17GSU/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA0/NTI2LTE3ODcyNTkx/ODUtODgyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38204526",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37119687,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "Single Sided",
+        "Etched",
+        "All Media",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "New West Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 59891 5",
+        "6 07396 59591 4",
+        "LC 52772",
+        "NW5959 A K SST",
+        "MPO\u00ae\ufe0f 25 383780",
+        "NW5959 B K SST",
+        "MPO\u00ae\ufe0f 25 383783",
+        "NW5959 C K SST",
+        "MPO\u00ae\ufe0f 25 383292",
+        "607396706617",
+        "Sticker"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/37119687-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW5959",
+      "thumb": "https://i.discogs.com/dmMAcS0-F7PxF6M47AxHORZjTWTWdSDoXr2vgX3qb6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTE5/Njg3LTE3NzY2Mzk0/MTYtMzgzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/63XTNF9wlWeYRls6JWURDSxnne7pzhwT6v9V-ns8qWE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTE5/Njg3LTE3NzY2Mzk0/MTYtMzgzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37119687",
+      "community": {
+        "want": 24,
+        "have": 193
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Olive Green Marble",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Olive Green Marble",
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Olive Green Marble",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36373810,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "Single Sided",
+        "Etched",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "New West Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07296 66192 3",
+        "6 07396 59901 1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36373810-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW6619",
+      "thumb": "https://i.discogs.com/QMsoqBhCc7iie0EBYx9mIkJFV7kNz8UKpYrXTqSIWJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzcz/ODEwLTE3Njk5MTM5/ODMtMzE1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9j5-bWx4u__d7FucPcJr2Aq1bL7V0PpqFZgZc4OFyOI/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzcz/ODEwLTE3Njk5MTM5/ODMtMzE1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36373810",
+      "community": {
+        "want": 33,
+        "have": 166
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White With Pink Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White With Pink Splatter",
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Autographed",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36435382,
+      "title": "Ratboys - Singin' To An Empty Chair",
+      "master_id": 4117261,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Country Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "Single Sided",
+        "Etched",
+        "All Media",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "New West Records",
+        "Ratboys LLC",
+        "New West Records, LLC",
+        "Driftless Cabin",
+        "Electrical Audio",
+        "Rosebud Studios",
+        "SST GmbH",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 07396 59891 5",
+        "6 07396 59591 4",
+        "LC 52772",
+        "NW5959 A K SST MPO\u00ae\ufe0f 25 383780",
+        "NW5959 B K SST MPO\u00ae\ufe0f 25 383783",
+        "NW5959 C K SST MPO\u00ae\ufe0f 25 383292"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4117261",
+      "uri": "/release/36435382-Ratboys-Singin-To-An-Empty-Chair",
+      "catno": "NW5959",
+      "thumb": "https://i.discogs.com/81nogvofThnHYCNA0z-ZrPP0c2_QaBjAKgX0tPWDp1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/MzgyLTE3NzU4NTI3/NTEtNjA2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KbLdhgeTCat53T0St49J73RPS8hvidoogmSQteB4k9o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDM1/MzgyLTE3NzU4NTI3/NTEtNjA2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36435382",
+      "community": {
+        "want": 34,
+        "have": 450
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 4117261,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 36364051,
+    "most_recent_release": 37119687,
+    "resource_url": "https://api.discogs.com/masters/4117261",
+    "uri": "https://www.discogs.com/master/4117261-Ratboys-Singin-To-An-Empty-Chair",
+    "versions_url": "https://api.discogs.com/masters/4117261/versions",
+    "main_release_url": "https://api.discogs.com/releases/36364051",
+    "most_recent_release_url": "https://api.discogs.com/releases/37119687",
+    "num_for_sale": 61,
+    "lowest_price": 12.31,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/goePuFMhg_agq58vFRNvrrw3wXQHYCG1bGpsyTTKDQk/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzY0/MDUxLTE3NzQ5ODE5/MTAtMTEwOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/goePuFMhg_agq58vFRNvrrw3wXQHYCG1bGpsyTTKDQk/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzY0/MDUxLTE3NzQ5ODE5/MTAtMTEwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bQYowtmTpCG4OFQfCAfyLDva6hWtKNvOFf72iw_6Vss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzY0/MDUxLTE3NzQ5ODE5/MTAtMTEwOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 545
+      }
+    ],
+    "year": 2026,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Open Up",
+        "extraartists": [
+          {
+            "name": "Elizabeth Jordan (4)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 17556345,
+            "resource_url": "https://api.discogs.com/artists/17556345"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer, Loops",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Know You Then",
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Light Night Mountains All That",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Anywhere",
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Penny In The Lake",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Strange Love",
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "The World, So Madly",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Just Want You To Know The Truth",
+        "extraartists": [
+          {
+            "name": "Andrew Krull",
+            "anv": "Andy Krull",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 10730386,
+            "resource_url": "https://api.discogs.com/artists/10730386"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "",
+            "join": "",
+            "role": "Piano, Loops",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "What's Right?",
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Burn It Down",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "",
+            "join": "",
+            "role": "Piano, Loops",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "At Peace In The Hundred Acre Wood",
+        "extraartists": [
+          {
+            "name": "Jenny Conlee",
+            "anv": "",
+            "join": "",
+            "role": "Electric Organ [Hammond B-3]",
+            "tracks": "",
+            "id": 443640,
+            "resource_url": "https://api.discogs.com/artists/443640"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Ratboys",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4187002,
+        "resource_url": "https://api.discogs.com/artists/4187002",
+        "thumbnail_url": "https://i.discogs.com/9Jrb0LQZ5ap0nB6UimP2Sn_jdHp-4vNYyWR-WAQyl44/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxODcw/MDItMTYyMDMxNjc2/Ni01NTQzLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Singin' To An Empty Chair",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=KYUMoL9FrIA",
+        "title": "Ratboys - \"Anywhere\" [Official Music Video]",
+        "description": "Stream or download the new single here:  http://newwst.com/anywhere\n\nPre-order + pre-save the new album 'Singin' to an Empty Chair' here: http://newwst.com/singin\n\nFollow Ratboys: \nInstagram: https://www.instagram.com/ratboysband\nTwitter: https://www.twit",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lX5adLHQobY",
+        "title": "Ratboys - \"Penny in the Lake\" [Official Music Video]",
+        "description": "Stream or download the new single here:  http://newwst.com/penny\n\nPre-order + pre-save the new album 'Singin' to an Empty Chair' here: http://newwst.com/singin\n\nFollow Ratboys: \nInstagram: https://www.instagram.com/ratboysband\nTwitter: https://www.twitter",
+        "duration": 239,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SgF8ugvCbr0",
+        "title": "Ratboys - \"Light Night Mountains All That\" [Official Music Video]",
+        "description": "Stream or download the new single here: http://newwst.com/lightnight\n\nFollow Ratboys: \nInstagram: https://www.instagram.com/ratboysband\nTwitter: https://www.twitter.com/ratboysband\nFacebook: https://www.facebook.com/ratboysmusic\nBandcamp: https://ratboys.",
+        "duration": 380,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 4117261,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

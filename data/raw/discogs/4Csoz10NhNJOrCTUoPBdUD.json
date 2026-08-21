@@ -1,0 +1,1171 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602547373274",
+    "artist": "Vince Staples",
+    "title": "Summertime '06",
+    "year": 2015
+  },
+  "results": [
+    {
+      "id": 37596546,
+      "title": "Vince Staples - Summertime '06",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602547373397"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/37596546-Vince-Staples-Summertime-06",
+      "catno": "B0023374-02",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/37596546",
+      "community": {
+        "want": 6,
+        "have": 0
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7823522,
+      "title": "Vince Staples - Summertime '06",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "Canada",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "ARTium Recordings",
+        "Def Jam Recordings",
+        "Universal Music Canada Inc.",
+        "Universal Music Canada Inc.",
+        "Africa Kurian Music",
+        "Now-Again Records",
+        "Czeslaw Niemen Publishing Designee",
+        "Polskie Nagrania",
+        "Irving Music",
+        "Bangvillage 247 Publishing LLC",
+        "Nayvadius Maximus Music",
+        "Sonny Digital Music Group",
+        "Sony Music Entertainment",
+        "Darwin's Music",
+        "Now-Again Records",
+        "4220 Feng Shui Studios",
+        "Westlake Studios",
+        "No Excuses Studios",
+        "The Whitely Room Studios",
+        "The Fortress of Amplitude",
+        "The Mastering Palace"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02547 37338 0",
+        "602547373380",
+        "M0S1 A9 DJR B002337302-2.1 AG02",
+        "M0S1 A9 DJR B002337302-2.2 AG02",
+        "IFPI LT40",
+        "IFPI 2U9I",
+        "ASCAP/BMI",
+        "ASCAP/BMI/SESAC",
+        "ASCAP/BMI/ZAIKS",
+        "ASCAP",
+        "ZAIKS",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7823522-Vince-Staples-Summertime-06",
+      "catno": "B002337302",
+      "thumb": "https://i.discogs.com/E_lkXe6cO5Qelo1MiTtqQYsY82VfbkMl4HqVFhpOXgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjM1/MjItMTQ0OTkyNjM0/NC0yMTIzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/HjiUkgz37bgmyZKcj8kh5Vxc507EIwV0DTxpuibhhZc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjM1/MjItMTQ0OTkyNjM0/NC0yMTIzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7823522",
+      "community": {
+        "want": 134,
+        "have": 123
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7866707,
+      "title": "Vince Staples - Summertime '06",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Special Edition"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "ARTium Recordings",
+        "Sterling Sound",
+        "United Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02547 55216 7",
+        "602547552167",
+        "B0023376-01-A-RE1 LP1  RJ STERLING (A)  \u24ca",
+        "B0023376-01-B-RE1 LP1  RJ STERLING (B)  \u24ca",
+        "B0023889-01-A-RE1  \u0337L\u0337P\u03371\u0337  RJ STERLING (B\u0337) (C)  \u24ca",
+        "B0023889-01-B-RE1   \u0337L\u0337P\u03371\u0337  RJ STERLING (D)  \u24ca",
+        "\u24ca"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7866707-Vince-Staples-Summertime-06",
+      "catno": "B0023980-01",
+      "thumb": "https://i.discogs.com/yQb4cLxUapiIjnXi_HgdBB8DcHloiIBE5txK7D05lzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjY3/MDctMTQ1MDQ5Nzkz/NS0yOTA1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/MiIe7bf_G03_SQrQHQoHsJDRI40azm9p2DRGlFLS12s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjY3/MDctMTQ1MDQ5Nzkz/NS0yOTA1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7866707",
+      "community": {
+        "want": 2534,
+        "have": 1443
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Buttercream",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7191393,
+      "title": "Vince Staples - Summertime '06",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "ARTium Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02547 37338 0",
+        "602547373380"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7191393-Vince-Staples-Summertime-06",
+      "catno": "B0023373-02",
+      "thumb": "https://i.discogs.com/9BSf9JVrkPZSgnBvW8Ljc8abzDltrA_wihNxgSYrQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/rx8w0VU2kQu9Li1eFry4-kAToHzGZdUSO3PrcSpXm2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7191393",
+      "community": {
+        "want": 438,
+        "have": 592
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7880747,
+      "title": "Vince Staples - Summertime '06",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "ARTium Recordings",
+        "Blacksmith Music",
+        "UMG Recordings, Inc.",
+        "Universal International Music B.V.",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "Now-Again Records",
+        "Polskie Nagrania",
+        "Sony Music Entertainment",
+        "Universal International",
+        "Dahi Productions",
+        "Arvato",
+        "Arvato",
+        "Africa Kurian Music",
+        "Publishing Designee",
+        "Czeslaw Niemen Publishing Designee",
+        "Irving Music",
+        "Bangvillage 247 Publishing LLC",
+        "Nayvadius Maximus Music",
+        "Sonny Digital Music Group",
+        "Darwin's Music",
+        "4220 Feng Shui Studios",
+        "Westlake Studios",
+        "No Excuses Studios",
+        "The Whitely Room Studios",
+        "The Fortress of Amplitude",
+        "The Mastering Palace"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02547 37338 0",
+        "602547373380",
+        "LC01846",
+        "[\"UNIVERSAL\" x4 logo] arvato 56118868/00602547373403 21",
+        "[\"UNIVERSAL\" x4 logo] arvato 56118871/00602547438164 21",
+        "IFPI LB 46",
+        "IFPI LB47",
+        "IFPI 0773",
+        "BIEM/SDRM",
+        "0602547373403",
+        "0602547438164"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7880747-Vince-Staples-Summertime-06",
+      "catno": "0602547373380",
+      "thumb": "https://i.discogs.com/U9ntlrNweSs_cNu49sZ1FoODn61slPIZPxFamXHwDFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODA3/NDctMTQ1MDgwOTIx/MC05MTIwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XL7VkbM6Xq44SvIHQW7WB6t3FYwxW7zBbBT-TodA5Ss/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODA3/NDctMTQ1MDgwOTIx/MC05MTIwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7880747",
+      "community": {
+        "want": 193,
+        "have": 344
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7855481,
+      "title": "Vince Staples - Summertime '06 (Segment 2)",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "ARTium Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "602547532305"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7855481-Vince-Staples-Summertime-06-Segment-2",
+      "catno": "B0023899-01",
+      "thumb": "https://i.discogs.com/jczkBiqMh00yUUL6ZU_GT9VX1Lr2x7bwPVrYtBUiHpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU0/ODEtMTQ1MDQ5Nzc1/OS05NTU2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Zk4RtbupMwBfYub0CJCkLJtJ-OKdVNJ7Caz0R4wb5pQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTU0/ODEtMTQ1MDQ5Nzc1/OS05NTU2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7855481",
+      "community": {
+        "want": 1493,
+        "have": 1937
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7831069,
+      "title": "Vince Staples - Summertime '06 (Segment 1)",
+      "master_id": 926522,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Gangsta"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Blacksmith Music",
+        "ARTium Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 0254737343 4",
+        "602547373434"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/926522",
+      "uri": "/release/7831069-Vince-Staples-Summertime-06-Segment-1",
+      "catno": "B0023376-01",
+      "thumb": "https://i.discogs.com/O_xqDjyJmudrWHQmgzsLunO8ZQrDgKeP2bKJQiEez9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzEw/NjktMTY2ODQ4NTg3/NS00NDM0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/D7XMV0-LaK9PyE36XFDjIcwSTsBb97olVo13cocUz0E/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzEw/NjktMTY2ODQ4NTg3/NS00NDM0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7831069",
+      "community": {
+        "want": 2058,
+        "have": 3287
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 926522,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Gangsta",
+      "Conscious"
+    ],
+    "main_release": 7191393,
+    "most_recent_release": 30606433,
+    "resource_url": "https://api.discogs.com/masters/926522",
+    "uri": "https://www.discogs.com/master/926522-Vince-Staples-Summertime-06",
+    "versions_url": "https://api.discogs.com/masters/926522/versions",
+    "main_release_url": "https://api.discogs.com/releases/7191393",
+    "most_recent_release_url": "https://api.discogs.com/releases/30606433",
+    "num_for_sale": 99,
+    "lowest_price": 15.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/rx8w0VU2kQu9Li1eFry4-kAToHzGZdUSO3PrcSpXm2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/rx8w0VU2kQu9Li1eFry4-kAToHzGZdUSO3PrcSpXm2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/9BSf9JVrkPZSgnBvW8Ljc8abzDltrA_wihNxgSYrQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1O_WxKlhgo-xJKuKVkHHY7sESmCh9AjaiKKeijgqirk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS03OTE5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/1O_WxKlhgo-xJKuKVkHHY7sESmCh9AjaiKKeijgqirk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS03OTE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3Cl6D4Kram4nh4x6sqRm0dKH9-kgVbeNuPI7G64cnyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS03OTE5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DwbL46RIuZTS7zp57ZhQjNL8h_28oosTSLev9J7aGmg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS05NDcwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/DwbL46RIuZTS7zp57ZhQjNL8h_28oosTSLev9J7aGmg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS05NDcwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SwcFOaveci6PulQvaFo03raHFa5pcEulHF7Sa3qwNus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS05NDcwLmpwZWc.jpeg",
+        "width": 594,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qm6XXwc5J5sohcFW3NsrjU9pqhUxmlk-vkCFYwwwHI4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS0zNjY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qm6XXwc5J5sohcFW3NsrjU9pqhUxmlk-vkCFYwwwHI4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS0zNjY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/H1Q-dUnI7IyugyYxBKY7eax3o8_TxG6IW2DoWSkg96Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS0zNjY5LmpwZWc.jpeg",
+        "width": 592,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PApzBJqlQTks5imSEi1TyBxhzRBjnwxhHrcE-1vSN3I/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS01MDA2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/PApzBJqlQTks5imSEi1TyBxhzRBjnwxhHrcE-1vSN3I/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS01MDA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5fX1ebr977ZloYELerjVpPDVqV83PnMJ0IOOoWYPdBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTUxMzk4Nzgz/OS01MDA2LmpwZWc.jpeg",
+        "width": 565,
+        "height": 600
+      }
+    ],
+    "year": 2015,
+    "tracklist": [
+      {
+        "position": "1-1",
+        "type_": "track",
+        "title": "Ramona Park Legend Pt. 1",
+        "extraartists": [
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "0:36"
+      },
+      {
+        "position": "1-2",
+        "type_": "track",
+        "title": "Lift Me Up",
+        "extraartists": [
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          }
+        ],
+        "duration": "4:31"
+      },
+      {
+        "position": "1-3",
+        "type_": "track",
+        "title": "Norf Norf",
+        "extraartists": [
+          {
+            "name": "Clams Casino",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2077774,
+            "resource_url": "https://api.discogs.com/artists/2077774"
+          }
+        ],
+        "duration": "3:03"
+      },
+      {
+        "position": "1-4",
+        "type_": "track",
+        "title": "Birds & Bees",
+        "extraartists": [
+          {
+            "name": "Daley",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 153610,
+            "resource_url": "https://api.discogs.com/artists/153610"
+          },
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Organ [Farfisa]",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          }
+        ],
+        "duration": "2:42"
+      },
+      {
+        "position": "1-5",
+        "type_": "track",
+        "title": "Loca",
+        "extraartists": [
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "2:41"
+      },
+      {
+        "position": "1-6",
+        "type_": "track",
+        "title": "Lemme Know",
+        "extraartists": [
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          },
+          {
+            "name": "Jhen\u00e9 Aiko",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3588219,
+            "resource_url": "https://api.discogs.com/artists/3588219"
+          },
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "3:42"
+      },
+      {
+        "position": "1-7",
+        "type_": "track",
+        "title": "Dopeman",
+        "extraartists": [
+          {
+            "name": "Joey Fatts",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3105630,
+            "resource_url": "https://api.discogs.com/artists/3105630"
+          },
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "1:53"
+      },
+      {
+        "position": "1-8",
+        "type_": "track",
+        "title": "Jump Off The Roof",
+        "extraartists": [
+          {
+            "name": "Josh Lippi",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Piano",
+            "tracks": "",
+            "id": 1286881,
+            "resource_url": "https://api.discogs.com/artists/1286881"
+          },
+          {
+            "name": "Snoh Aalegra",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3934926,
+            "resource_url": "https://api.discogs.com/artists/3934926"
+          },
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Organ, Piano, Glockenspiel",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "3:43"
+      },
+      {
+        "position": "1-9",
+        "type_": "track",
+        "title": "Se\u00f1orita",
+        "extraartists": [
+          {
+            "name": "Christian Rich",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1250799,
+            "resource_url": "https://api.discogs.com/artists/1250799"
+          }
+        ],
+        "duration": "3:08"
+      },
+      {
+        "position": "1-10",
+        "type_": "track",
+        "title": "Summertime",
+        "extraartists": [
+          {
+            "name": "Clams Casino",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2077774,
+            "resource_url": "https://api.discogs.com/artists/2077774"
+          }
+        ],
+        "duration": "4:19"
+      },
+      {
+        "position": "2-1",
+        "type_": "track",
+        "title": "Ramona Park Legend Pt. 2",
+        "extraartists": [
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          },
+          {
+            "name": "Earl Sweatshirt",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 1967265,
+            "resource_url": "https://api.discogs.com/artists/1967265"
+          }
+        ],
+        "duration": "1:27"
+      },
+      {
+        "position": "2-2",
+        "type_": "track",
+        "title": "3230",
+        "extraartists": [
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Bass, Organ, Glockenspiel, Percussion",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "2:52"
+      },
+      {
+        "position": "2-3",
+        "type_": "track",
+        "title": "Surf",
+        "extraartists": [
+          {
+            "name": "Kilo Kish",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2072129,
+            "resource_url": "https://api.discogs.com/artists/2072129"
+          },
+          {
+            "name": "Clams Casino",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2077774,
+            "resource_url": "https://api.discogs.com/artists/2077774"
+          },
+          {
+            "name": "Mikky Ekko",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2001096,
+            "resource_url": "https://api.discogs.com/artists/2001096"
+          }
+        ],
+        "duration": "2:31"
+      },
+      {
+        "position": "2-4",
+        "type_": "track",
+        "title": "Might Be Wrong",
+        "extraartists": [
+          {
+            "name": "Josh Lippi",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1286881,
+            "resource_url": "https://api.discogs.com/artists/1286881"
+          },
+          {
+            "name": "GeNNo",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 10519279,
+            "resource_url": "https://api.discogs.com/artists/10519279"
+          },
+          {
+            "name": "eeeeeeee",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4486063,
+            "resource_url": "https://api.discogs.com/artists/4486063"
+          },
+          {
+            "name": "Steve Wyreman",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Organ, Piano",
+            "tracks": "",
+            "id": 709061,
+            "resource_url": "https://api.discogs.com/artists/709061"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          },
+          {
+            "name": "Kevin Randolph",
+            "anv": "",
+            "join": "",
+            "role": "Synth",
+            "tracks": "",
+            "id": 203565,
+            "resource_url": "https://api.discogs.com/artists/203565"
+          }
+        ],
+        "duration": "3:59"
+      },
+      {
+        "position": "2-5",
+        "type_": "track",
+        "title": "Get Paid",
+        "extraartists": [
+          {
+            "name": "Desi Mo",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3974787,
+            "resource_url": "https://api.discogs.com/artists/3974787"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "3:12"
+      },
+      {
+        "position": "2-6",
+        "type_": "track",
+        "title": "Street Punks",
+        "extraartists": [
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "3:06"
+      },
+      {
+        "position": "2-7",
+        "type_": "track",
+        "title": "Hang N' Bang",
+        "extraartists": [
+          {
+            "name": "Aston Matthews",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3298233,
+            "resource_url": "https://api.discogs.com/artists/3298233"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "2:06"
+      },
+      {
+        "position": "2-8",
+        "type_": "track",
+        "title": "C.N.B.",
+        "extraartists": [
+          {
+            "name": "Delvyn Brumfield",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 4592871,
+            "resource_url": "https://api.discogs.com/artists/4592871"
+          },
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          },
+          {
+            "name": "James Fauntleroy II",
+            "anv": "James Fauntleroy",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 737282,
+            "resource_url": "https://api.discogs.com/artists/737282"
+          }
+        ],
+        "duration": "4:13"
+      },
+      {
+        "position": "2-9",
+        "type_": "track",
+        "title": "Like It Is",
+        "extraartists": [
+          {
+            "name": "Delvyn Brumfield",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 4592871,
+            "resource_url": "https://api.discogs.com/artists/4592871"
+          },
+          {
+            "name": "DJ Dahi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2253749,
+            "resource_url": "https://api.discogs.com/artists/2253749"
+          },
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "4:36"
+      },
+      {
+        "position": "2-10",
+        "type_": "track",
+        "title": "'06",
+        "extraartists": [
+          {
+            "name": "No I.D.",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 108618,
+            "resource_url": "https://api.discogs.com/artists/108618"
+          }
+        ],
+        "duration": "0:47"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Vince Staples",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1971480,
+        "resource_url": "https://api.discogs.com/artists/1971480",
+        "thumbnail_url": "https://i.discogs.com/g8CY7yZzu0YzpdwOZL40nRR_QGR7WF9CyKiGDwwb2fo/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzE0/ODAtMTcxNDg1ODU0/MS0xNzAxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Summertime '06",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=bn15IvVrprw",
+        "title": "Vince Staples - Lift Me Up",
+        "description": "Download Vince Staples debut album \u201cSummertime \u201806\u201d now: http://smarturl.it/Summertime06?IQid=...\nStream on Spotify: http://smarturl.it/sSummerTime06?IQid...\n\niTunes: http://smarturl.it/iSummertime06?IQid...\nGoogle: http://smarturl.it/gSummertime06?",
+        "duration": 257,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5OAYMMod9Wo",
+        "title": "Vince Staples - Se\u00f1orita (Explicit)",
+        "description": "Download Vince Staples debut album\u201cSummertime \u201806\u201d now: http://smarturl.it/Summertime06?IQid=vevo\nStream on Spotify: http://smarturl.it/sSummerTime06?IQid=vevo \n\niTunes: http://smarturl.it/iSummertime06?IQid=vevo \nGoogle: http://smarturl.it/gSummert",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mb6Jc4juSF8",
+        "title": "Vince Staples - Norf Norf (Explicit) (Official Video)",
+        "description": "Download Vince Staples debut album\u201cSummertime \u201806\u201d now: http://smarturl.it/Summertime06?IQid=vevo\nStream on Spotify: http://smarturl.it/sSummerTime06?IQid=vevo\n \niTunes: http://smarturl.it/iSummertime06?IQid=vevo\nGoogle: http://smarturl.it/gSummerti",
+        "duration": 184,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 926522,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Gangsta",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

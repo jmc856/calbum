@@ -1,0 +1,1028 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "677517016451",
+    "artist": "The Beths",
+    "title": "Expert In A Dying Field",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 24466700,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio",
+        "Record Technology Incorporated",
+        "Joe Lambert Mastering",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 11641 0",
+        "LC23488",
+        "LP-CAK-164 A Carl -JLM 1257323 244769E1 39688.1(3)...",
+        "LP-CAK-164 B Carl -JLM 1254164 244769E2 39688.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24466700-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/ODxywrgjqX_d0QA1wt88S9BYQYVHOIh_IY9_iRsy0DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODgwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UVTeTxyN-fYRT80aq9pB_mFItqbCqMCp0DE7VN28XDY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODgwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24466700",
+      "community": {
+        "want": 207,
+        "have": 642
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Spring Green",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31778606,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Pop Punk"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records",
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/31778606-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/BzUEhQVY2e2kKEXPb0kX64vuILZp6sZ1XN3LYemO0t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc4/NjA2LTE3MjY4MDgz/MjEtODYxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vpMsTYj-udzmFVWtR6-sNr0JlYofSlahdmuswl3gKL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc4/NjA2LTE3MjY4MDgz/MjEtODYxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31778606",
+      "community": {
+        "want": 4,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-bit/96kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30201596,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Pop Punk"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/30201596-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/dzokeYUyQpIiqmlid4cmGmFmmEE1vXBgCZ55dXKe42g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/NTk2LTE3MTEzNzY2/OTUtNjQ4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/n_TlFHaRz6AXqHVrgy4z0swrBDoyoYJnMWqcBlbBzyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/NTk2LTE3MTEzNzY2/OTUtNjQ4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30201596",
+      "community": {
+        "want": 4,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-bit / 96 kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33051135,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alt-Pop"
+      ],
+      "country": "New Zealand",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Special Edition"
+      ],
+      "label": [
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "Signed",
+        "Hot pink colour"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/33051135-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "IVY831",
+      "thumb": "https://i.discogs.com/E1OKascoE49ZdWaz_PNyu9ph53AgRLSRIoHCoPsxp9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDUx/MTM1LTE3Mzg3NTAx/ODYtODE0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/juOU-jR2at3qd_1_Kgv49tv1E57ct1zz9_UoVLCbYNU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDUx/MTM1LTE3Mzg3NTAx/ODYtODE0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33051135",
+      "community": {
+        "want": 24,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Signed",
+          "descriptions": [
+            "LP",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24527939,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "New Zealand",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Ivy League Records",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 34 1004 106864"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24527939-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "IVY831",
+      "thumb": "https://i.discogs.com/X3aSTStDn3TaLj34l6OmFvSC9uQHCqUyeSVdj3Cn2QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI3/OTM5LTE2NjMyOTc3/NjUtOTk1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SRQnSjnUB0B8_BGop0vA9tqRcldKCouR4I5cASR15Pk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI3/OTM5LTE2NjMyOTc3/NjUtOTk1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24527939",
+      "community": {
+        "want": 92,
+        "have": 468
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Hot Pink",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24712547,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition"
+      ],
+      "label": [
+        "Carpark Records",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio",
+        "Record Technology Incorporated",
+        "Joe Lambert Mastering",
+        "GZ Media",
+        "Vinyl Me, Please",
+        "Vinyl Me, Please. Exclusive Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 11641 0",
+        "LC23488",
+        "LP-CAK-164 A Carl -JLM 1257323 244769E1 39688.1(3)...",
+        "LP-CAK-164 B Carl -JLM 1254164 244769E2 39688.2(3)..."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24712547-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/vNfxgd7vQOmGm7mG5WfO56RQ8lZ1d-uqCglcHIh3WiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEy/NTQ3LTE2NjYyOTYw/ODMtNzcxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SwfDQPpDPmM5SV4mJBYKnBAQZEVIwcL6-cBnsHUbca4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEy/NTQ3LTE2NjYyOTYw/ODMtNzcxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24712547",
+      "community": {
+        "want": 126,
+        "have": 264
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Hot Pink Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30710000,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "New Zealand",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/30710000-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/Foxm1616Gol7rtaV8QdVPp520XhvOipCiLZ_zlD2ook/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzEw/MDAwLTE3MTYwMjQ2/ODUtNjYwMC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/lbnBudP-BY8LAOgCgIWp19RCy7lAnjdEP9l2N-kw61k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzEw/MDAwLTE3MTYwMjQ2/ODUtNjYwMC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30710000",
+      "community": {
+        "want": 37,
+        "have": 43
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Translucent Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24534263,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Flexi-disc",
+        "7\"",
+        "45 RPM",
+        "Shape",
+        "Single Sided",
+        "Single",
+        "Limited Edition"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio",
+        "Jonathan Pearce's Studio",
+        "Future Classic Studios",
+        "Joe Lambert Mastering",
+        "Rough Trade",
+        "Joe Lambert Mastering",
+        "Record Technology Incorporated",
+        "GZ Media",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 01644 4",
+        "677517016444",
+        "244769E1 1257323 39688.1(3)\u2026 Carl - JLM LP-CAK-164A",
+        "244769E2 1254164 39688.2(3)\u2026 Carl - JLM LP-CAK-164 B",
+        "246925H1/A 10-95622/LP-CAK-164 - A",
+        "LC23488"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24534263-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/grPlTSKa00tS_Z9dzE5A5PESccPNQlMCozCt2sL-Wm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/MjYzLTE2NzMzODQz/MDctNDExMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GvQejWLSqzu1W2ymta3VXl7Qiyc94zGPPmkaLlqW4tk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/MjYzLTE2NzMzODQz/MDctNDExMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24534263",
+      "community": {
+        "want": 160,
+        "have": 467
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Galaxy Blue]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "Flexi-disc",
+          "qty": "1",
+          "text": "Orange, Square",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Shape",
+            "Single Sided",
+            "Single",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24502319,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Jonathan Pearce's Studio",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 01642 0",
+        "MGE1854 [DISC MAKERS LOGO]",
+        "IFPI LZ71",
+        "IFPI ALK07"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24502319-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/UQJB9IxPbfZA2VlOaeAa7iAcehcXNviY4CSCt-_J9bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAy/MzE5LTE2NjMwODQx/MTItNzY2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gno4qQvPk_1GZJnRSXm3nIk7d0qpnbGADqG5527yrYk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAy/MzE5LTE2NjMwODQx/MTItNzY2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24502319",
+      "community": {
+        "want": 107,
+        "have": 363
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28588459,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/28588459-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/S4TT-6wii4SbSingb-spcXOIxL8yghqu70G2r5Tgskg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg4/NDU5LTE2OTcyNzc1/MzgtNzY3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xw0dX5ddx5Lq5U467fUb1osqVIAMlsrr5wIj2L6Sp5E/rs:fit/g:sm/q:90/h:218/w:218/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg4/NDU5LTE2OTcyNzc1/MzgtNzY3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28588459",
+      "community": {
+        "want": 4,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24643718,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2022",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Ivy League",
+        "Carpark Records",
+        "Carpark Records",
+        "Ivy League Records",
+        "Jonathan Pearce's Studio",
+        "Jonathan Pearce's Studio",
+        "Future Classic Studios",
+        "Stebbing Recording Centre Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "9 341004 106871",
+        "STEBBING  IFPI P801 IVY832 15331A",
+        "IFPI LD11",
+        "IFPI P801"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24643718-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "IVY832",
+      "thumb": "https://i.discogs.com/kARHwmShdl4V9YVl7hKk1And2PakZ6EJa77ilyYuCEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQz/NzE4LTE2NjQ0Mjc4/NjYtODA0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HHhyZQiB2fuYtSWWWkjdvbWDGSrAOf0c1A8vOAVo06M/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQz/NzE4LTE2NjQ0Mjc4/NjYtODA0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24643718",
+      "community": {
+        "want": 40,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24534761,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 01640 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24534761-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/0bIsQhin8kL88nwQd19fbO97SMiIiw5CNnFyYz0LPRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/NzYxLTE3MjQzMjc2/MDctNDMxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vuJHYnmK8i8em9YcvbIr6MTT8LhIJpzPWQYBabI6HNc/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM0/NzYxLTE3MjQzMjc2/MDctNDMxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24534761",
+      "community": {
+        "want": 34,
+        "have": 108
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Orange",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24495668,
+      "title": "The Beths - Expert In A Dying Field",
+      "master_id": 2782454,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA, Canada & Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Future Classic Studios",
+        "Carpark Records",
+        "Carpark Records",
+        "Jonathan Pearce's Studio",
+        "Record Technology Incorporated",
+        "Joe Lambert Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 01641 3",
+        "LP-CAK-164A Carl-JLM 39688.1(3)... 1257323 244769E1",
+        "LP-CAK-164B 244769E2 Carl-JLM 39688.2(3)... 1254164"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2782454",
+      "uri": "/release/24495668-The-Beths-Expert-In-A-Dying-Field",
+      "catno": "CAK164",
+      "thumb": "https://i.discogs.com/fyf_vYtHv8yS4UkKq5MsiVw62F9wxwaf2hC9n93Vyb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NjY4LTE2NjMwMTk5/OTktNDc5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DihTrynCfvBRRpZqcOeqkFOuOhiJFdJQeByOyk86rvI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NjY4LTE2NjMwMTk5/OTktNDc5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24495668",
+      "community": {
+        "want": 244,
+        "have": 2269
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Canary Yellow",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2782454,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 24466700,
+    "most_recent_release": 36996012,
+    "resource_url": "https://api.discogs.com/masters/2782454",
+    "uri": "https://www.discogs.com/master/2782454-The-Beths-Expert-In-A-Dying-Field",
+    "versions_url": "https://api.discogs.com/masters/2782454/versions",
+    "main_release_url": "https://api.discogs.com/releases/24466700",
+    "most_recent_release_url": "https://api.discogs.com/releases/36996012",
+    "num_for_sale": 146,
+    "lowest_price": 12.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/UVTeTxyN-fYRT80aq9pB_mFItqbCqMCp0DE7VN28XDY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODgwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UVTeTxyN-fYRT80aq9pB_mFItqbCqMCp0DE7VN28XDY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODgwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ODxywrgjqX_d0QA1wt88S9BYQYVHOIh_IY9_iRsy0DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODgwOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 586
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WnHX5Wnxgb3oXW_yHasMjfRQAB592BUBwP-siG1ZSgo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTI2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/WnHX5Wnxgb3oXW_yHasMjfRQAB592BUBwP-siG1ZSgo/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTI2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NuGlCmlrUY28gYoBZ9W3q4FBrBo2k5HBfR9WZEEGw0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTI2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-Up37gb8NyXbPb6fn8_KspgGH7E2rzvYe6s1yUkp8fE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjczNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/-Up37gb8NyXbPb6fn8_KspgGH7E2rzvYe6s1yUkp8fE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjczNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qCh5lI7ihLWGRrSNmxpkbfFMp5_BVlZv3roUyg8ddo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjczNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oaStqQvWSQPwjVmIf4TN3F3WfgdUAys-zglwUaSqevg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjA3Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/oaStqQvWSQPwjVmIf4TN3F3WfgdUAys-zglwUaSqevg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjA3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/t-KMuJAMFDYANHnf2Pd9AQelXaw0ZzYFwZnExsGFbU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjA3Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vDx4-9puWoMn9K_J9IE3fLFqKEYWFsBOVyEKdIE-MHQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNDM5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vDx4-9puWoMn9K_J9IE3fLFqKEYWFsBOVyEKdIE-MHQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNDM5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kLK1KvNw7Eh2YRzePNb608tTXxi-cVHtQq_-bWrGH6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNDM5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2DcfcXpRmSe33trMc_wCyOGgDbGnlOj5pIy0Xoyu32s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzM2NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/2DcfcXpRmSe33trMc_wCyOGgDbGnlOj5pIy0Xoyu32s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzM2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WCvVH8YUsoHyCFbauO3coXjiBm4E5Ncfkk6_kynqCzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzM2NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/T1MBDOTWi4iuu7z564CYycnnuSdyUJ293-lWz1GoRLw/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/NDUtOTk5OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/T1MBDOTWi4iuu7z564CYycnnuSdyUJ293-lWz1GoRLw/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/NDUtOTk5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Bq3Wv0yyMb_e_vMHGFJltNrjrHejQmkxVmHW65pbZqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/NDUtOTk5OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 542
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/k0QA7_WxvvHu9pNIa5LDvcYtkzzCvkZ0gbhOeKMB6Y0/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjQzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/k0QA7_WxvvHu9pNIa5LDvcYtkzzCvkZ0gbhOeKMB6Y0/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjQzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/DVxAk-TEjpqgx1BRIcf2xEjRuhKpKfdnSVUjopypOHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNjQzOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 524
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/60ohnbanCBTbIJvRjHTRhQqzp6p7sEffnzZd4n3vNiM/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODUzNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/60ohnbanCBTbIJvRjHTRhQqzp6p7sEffnzZd4n3vNiM/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODUzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jvkdXUuH3GF_2vDJ-gycANl1JQMKKNXeHcfEWflZjTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktODUzNC5qcGVn.jpeg",
+        "width": 570,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xOPCOzZK_Z-611FEpi78-4TNU-x2Uw6aeqRgydGDcXs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTE2Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/xOPCOzZK_Z-611FEpi78-4TNU-x2Uw6aeqRgydGDcXs/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTE2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/S9kI1n0G7TUdYmRYNQlK2y28PzJfryY41aWtV232_YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktOTE2Ni5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M23oQ6oB_OmhAiYeXk-6RAAhYkFp3EbKQ2Oz4XagU60/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzY3MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/M23oQ6oB_OmhAiYeXk-6RAAhYkFp3EbKQ2Oz4XagU60/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzY3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7nR7pDueLMX6V2XKTc2tumMDnfXMmHACXJEYTVBG6XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY2/NzAwLTE2NjI3Njc5/MTktNzY3MS5qcGVn.jpeg",
+        "width": 594,
+        "height": 600
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Expert In A Dying Field",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Knees Deep",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Silence Is Golden",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Your Side",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "I Want To Listen",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Head In The Clouds",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Best Left",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Change In The Weather",
+        "extraartists": [
+          {
+            "name": "Jonathan Pearce (2)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1805614,
+            "resource_url": "https://api.discogs.com/artists/1805614"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "When You Know You Know",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "A Passing Rain",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "I Told You That I Was Afraid",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "2am",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Beths",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 5568990,
+        "resource_url": "https://api.discogs.com/artists/5568990",
+        "thumbnail_url": "https://i.discogs.com/TbRIaNKetNAMDB2hgfBhRUIb8CpOakfDmeY9W1dF_PQ/rs:fit/g:sm/q:90/h:489/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1Njg5/OTAtMTYyMDY4NjY5/Mi01MjA2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Expert In A Dying Field",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=-KACt6YhOyY",
+        "title": "The Beths - \"Expert In A Dying Field\" (Official)",
+        "description": "\"Expert In A Dying Field\" features on The Beths' forthcoming album \"Expert In A Dying Field\", out September 16 via Carpark Records and Ivy League\n\nPRE-ORDER \"EXPERT IN A DYING FIELD\" NOW \nhttps://thebeths.lnk.to/ExpertInADyingField\n\nCAST\nThe Beths:\nElizab",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=d5ZxW1r1Zc8",
+        "title": "The Beths - \"Silence Is Golden\" (official music video)",
+        "description": "\"Silence Is Golden\" features on The Beths' forthcoming album \"Expert In A Dying Field\", out September 16 via Carpark Records and Ivy League\n\nPRE-ORDER \"EXPERT IN A DYING FIELD\" NOW \nhttps://thebeths.lnk.to/ExpertInADyingField\n\nCREDITS\nThe Beths are:\nEliza",
+        "duration": 177,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1XriDeVHO8w",
+        "title": "The Beths - \"Knees Deep\" (Official)",
+        "description": "\"Knees Deep\" features on The Beths' forthcoming album \"Expert In A Dying Field\", out September 16 via Carpark Records and Ivy League\n\nPRE-ORDER \"EXPERT IN A DYING FIELD\" NOW \nhttps://thebeths.lnk.to/ExpertInADyingField\n\nCREDITS\nThe Beths are:\nElizabeth St",
+        "duration": 248,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-KACt6YhOyY",
+        "title": "The Beths - \"Expert In A Dying Field\" (Official)",
+        "description": "\"Expert In A Dying Field\" features on The Beths' forthcoming album \"Expert In A Dying Field\", out September 16 via Carpark Records and Ivy League\n\nPRE-ORDER \"EXPERT IN A DYING FIELD\" NOW \nhttps://thebeths.lnk.to/ExpertInADyingField\n\nCAST\nThe Beths:\nElizab",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=d5ZxW1r1Zc8",
+        "title": "The Beths - \"Silence Is Golden\" (official)",
+        "description": "\"Silence Is Golden\" features on The Beths' forthcoming album \"Expert In A Dying Field\", out September 16 via Carpark Records and Ivy League\n\nPRE-ORDER \"EXPERT IN A DYING FIELD\" NOW \nhttps://thebeths.lnk.to/ExpertInADyingField\n\nCREDITS\nThe Beths are:\nEliza",
+        "duration": 177,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2782454,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

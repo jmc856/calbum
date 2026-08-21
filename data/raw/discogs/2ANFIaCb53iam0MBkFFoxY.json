@@ -1,0 +1,1027 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "093624851585",
+    "artist": "Mac Miller",
+    "title": "Balloonerism",
+    "year": 2025
+  },
+  "results": [
+    {
+      "id": 32654370,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "093624847106"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32654370-Mac-Miller-Balloonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/JH4-86Fh6Ek9EpZri0Ls-gHPMBaX3kntERQq3B945Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjU0/MzcwLTE3MzcyMjky/MjctNjkyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PQcQTuHcZrsO1Qz7Lqjk8LggLkHqxSQk5ZP_iwIlxVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjU0/MzcwLTE3MzcyMjky/MjctNjkyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32654370",
+      "community": {
+        "want": 484,
+        "have": 2215
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32952030,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [
+        "Conscious",
+        "Cloud Rap"
+      ],
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 85160 8",
+        "093624851608",
+        "093624851608-A Strat 273731E1 1808579",
+        "093624851608-B Strat 273731E2 1808584",
+        "093624851608-C Strat 273731E3 1811623",
+        "093624851608-D Strat 273731E4 1808620"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32952030-Mac-Miller-Balloonerism",
+      "catno": "093624851608",
+      "thumb": "https://i.discogs.com/2sHjYhhRQ_EEsgywgmI26hWj07HxcbedCxM-WHcM9Vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUy/MDMwLTE3Nzc1NjU2/MzgtNDEzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3xdskwmS7eW0SrK8e89NazPCOc_DTHdgGZ8w3mO8q7w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUy/MDMwLTE3Nzc1NjU2/MzgtNDEzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32952030",
+      "community": {
+        "want": 220,
+        "have": 2387
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32844486,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Cloud Rap",
+        "Jazzy Hip-Hop",
+        "Conscious",
+        "Abstract",
+        "Neo Soul",
+        "Rhythm & Blues",
+        "Experimental",
+        "Psychedelic"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "AAC",
+        "File",
+        "MPEG-4 Video",
+        "All Media",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Mac Miller's Estate",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1780891320"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32844486-Mac-Miller-Balloonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/zs4j8SBAuYpDZ-JQmk-y6O62Tz5DR_J4L1NUcuNjw60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3MzY4ODI5/MTQtMzE0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GcTijwaFINgfDjRuEaGwvRmlDAuVecIvia4guhPqahk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3MzY4ODI5/MTQtMzE0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32844486",
+      "community": {
+        "want": 199,
+        "have": 246
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC"
+          ]
+        },
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "MPEG-4 Video"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32844594,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "USA & Canada",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 84709 0",
+        "093624847090"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32844594-Mac-Miller-Balloonerism",
+      "catno": "093624847090",
+      "thumb": "https://i.discogs.com/DjaUM9Of8lAjAc09hoR_9tXMFQt3_d9lpCwM_ixAM3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NTk0LTE3MzcxMjIx/NjctNzA2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VVsFdX73gMlxAJmWrc2ZNe_4W1bWf8UioW46JuFKvQc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NTk0LTE3MzcxMjIx/NjctNzA2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32844594",
+      "community": {
+        "want": 1355,
+        "have": 3637
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32885532,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc.",
+        "GZ Media",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 84711 3",
+        "093624847113",
+        "093624851608-A Stratty 273731E1 1807989",
+        "093624851608-B Stratty 273731E2 1780938",
+        "093624851608-C Strat 273731E3 1796323",
+        "093624851608-D Strat 273731E4 1796325"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32885532-Mac-Miller-Balloonerism",
+      "catno": "093624847113",
+      "thumb": "https://i.discogs.com/ly0ZsQo5Gdqf5j3DZNqJxc-l8M_bzUyMJ_azDmm8Vps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODg1/NTMyLTE3NDM2MzA2/ODktNDY1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aab30uHJOWb4bHjYQl-2l9fGDFMu5u7BicMCmVCfbf8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODg1/NTMyLTE3NDM2MzA2/ODktNDY1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32885532",
+      "community": {
+        "want": 1384,
+        "have": 2113
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White & Blue Smash",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32878281,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 85160 8",
+        "093624851608"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32878281-Mac-Miller-Balloonerism",
+      "catno": "093624851608",
+      "thumb": "https://i.discogs.com/SJ7lGevgUATr8W95h3_yCUpkusDs4VthyDlW6j8VWvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/MjgxLTE3MzcyMDcw/NDMtMzkyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Wxz8hMWlTu94Z2ZW_8Og1c7vBI3jBvz_f5ujaUHPy_E/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/MjgxLTE3MzcyMDcw/NDMtMzkyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32878281",
+      "community": {
+        "want": 285,
+        "have": 1476
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32912829,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Music Group",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "093624847946",
+        "0 93624 84794 6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32912829-Mac-Miller-Balloonerism",
+      "catno": "093624847946",
+      "thumb": "https://i.discogs.com/nU68_mg-djyHuy6mLJBx6eTM1s4uMNBa55j8v6ljcoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEy/ODI5LTE3Mzc1MDcz/NTktMjYxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1cQVg5E--fxGeldM8Gk2cj0vrA9DTj5yRF7UJQHQ-bs/rs:fit/g:sm/q:90/h:940/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEy/ODI5LTE3Mzc1MDcz/NTktMjYxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32912829",
+      "community": {
+        "want": 63,
+        "have": 354
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32922855,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Conscious",
+        "Abstract",
+        "Experimental",
+        "Neo Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624847083"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32922855-Mac-Miller-Balloonerism",
+      "catno": "093624851608",
+      "thumb": "https://i.discogs.com/JGYjJaqQuxfrST31fGG-acEeN5QGRdwSfrcsuYhkA0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIy/ODU1LTE3NDAyNDA1/NjUtODE2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tXy5xH2y_YUy-aJr5McpPPpF01D5qc6-E8EpIN0LbZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIy/ODU1LTE3NDAyNDA1/NjUtODE2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32922855",
+      "community": {
+        "want": 325,
+        "have": 1022
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32878587,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Rhythm & Blues",
+        "Neo Soul",
+        "Abstract"
+      ],
+      "country": "Europe",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc.",
+        "GZ Media",
+        "ID Labs",
+        "Bernie Grundman Mastering",
+        "The Sanctuary, Los Angeles"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 84709 0",
+        "093624847090",
+        "093624851608-A 273731E1 1823045 STRATTY",
+        "093624851608-B 273731E2 1830679 STRATTY",
+        "093624851608-C 273731E3 2112986 STRATTY",
+        "093624851608-D 273731E4 1852457 STRATTY"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32878587-Mac-Miller-Balloonerism",
+      "catno": "093624847090",
+      "thumb": "https://i.discogs.com/_NRF_3zSulKFBLerN--iSSeprlYjZ8XYMQwUheYYeko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/NTg3LTE3NjQwNzEy/NzYtOTY3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zmAFSwobM8zdnJaHO9lgTCozn87ZX303ufHD6arBBqM/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc4/NTg3LTE3NjQwNzEy/NzYtOTY3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32878587",
+      "community": {
+        "want": 214,
+        "have": 1359
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32879643,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624845782"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32879643-Mac-Miller-Balloonerism",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ETrnls-73CJk5ANILSctjhtRdpj7SsWM07WdDt8-qYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc5/NjQzLTE3Mzk2NTU4/NjYtMTExMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CVuT0XuzI9pMgOeQii4JAIwQL1z2GwXX64ukp5spZJc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc5/NjQzLTE3Mzk2NTU4/NjYtMTExMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32879643",
+      "community": {
+        "want": 307,
+        "have": 1365
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Emerald Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32890389,
+      "title": "Mac Miller - Balloonerism",
+      "master_id": 2888173,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2025",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Mac Miller's Estate",
+        "Mac Miller's Estate",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Warner Records",
+        "The Sanctuary, Los Angeles",
+        "ID Labs",
+        "Bernie Grundman Mastering",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 85159 2",
+        "[Warner Logo] 58409445/0093624851592 21",
+        "IFPI LB 46",
+        "IFPI 072Y"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2888173",
+      "uri": "/release/32890389-Mac-Miller-Balloonerism",
+      "catno": "093624851592",
+      "thumb": "https://i.discogs.com/XU8Cffja41hqvJ_Yq3k_2QlB0wWrT7CgKedy4jsl8rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODkw/Mzg5LTE3MzczMTEy/NjMtMjM5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-ileWhOoOrJvCyKAGp1wnY0h7hZwS_wDoeGDEdekXMc/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODkw/Mzg5LTE3MzczMTEy/NjMtMjM5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32890389",
+      "community": {
+        "want": 201,
+        "have": 1160
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2888173,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Cloud Rap",
+      "Jazzy Hip-Hop",
+      "Conscious",
+      "Abstract",
+      "Neo Soul",
+      "Rhythm & Blues",
+      "Experimental",
+      "Psychedelic"
+    ],
+    "main_release": 32844486,
+    "most_recent_release": 28001442,
+    "resource_url": "https://api.discogs.com/masters/2888173",
+    "uri": "https://www.discogs.com/master/2888173-Mac-Miller-Balloonerism",
+    "versions_url": "https://api.discogs.com/masters/2888173/versions",
+    "main_release_url": "https://api.discogs.com/releases/32844486",
+    "most_recent_release_url": "https://api.discogs.com/releases/28001442",
+    "num_for_sale": 314,
+    "lowest_price": 11.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/GcTijwaFINgfDjRuEaGwvRmlDAuVecIvia4guhPqahk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3MzY4ODI5/MTQtMzE0Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GcTijwaFINgfDjRuEaGwvRmlDAuVecIvia4guhPqahk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3MzY4ODI5/MTQtMzE0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zs4j8SBAuYpDZ-JQmk-y6O62Tz5DR_J4L1NUcuNjw60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3MzY4ODI5/MTQtMzE0Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-wLL6rjHu9alPKcWHWCJpwHyXHIFqV2OCwpSO6OOZpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3NDE4NzY2/NjQtODQ5OC5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/-wLL6rjHu9alPKcWHWCJpwHyXHIFqV2OCwpSO6OOZpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3NDE4NzY2/NjQtODQ5OC5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/QyjeOS6SJl0XP27kffWFruoJu-dbjqcTLOG-r9iFVT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQ0/NDg2LTE3NDE4NzY2/NjQtODQ5OC5wbmc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2025,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Tambourine Dream",
+        "duration": "0:33"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "DJ's Chord Organ ",
+        "extraartists": [
+          {
+            "name": "SZA (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3272791,
+            "resource_url": "https://api.discogs.com/artists/3272791"
+          }
+        ],
+        "duration": "5:15"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Do You Have A Destination?",
+        "duration": "3:24"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "5 Dollar Pony Rides",
+        "duration": "3:42"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Friendly Hallucinations",
+        "duration": "4:45"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Mrs. Deborah Downer",
+        "duration": "4:04"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Stoned",
+        "duration": "4:03"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Shangri-La ",
+        "duration": "2:49"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Funny Papers",
+        "duration": "4:23"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Excelsior ",
+        "duration": "2:23"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Transformations",
+        "extraartists": [
+          {
+            "name": "Delusional Thomas",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3797057,
+            "resource_url": "https://api.discogs.com/artists/3797057"
+          }
+        ],
+        "duration": "3:04"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Manakins",
+        "duration": "3:09"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Rick's Piano",
+        "duration": "5:08"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Tomorrow Will Never Know",
+        "duration": "11:53"
+      },
+      {
+        "position": "Video",
+        "type_": "track",
+        "title": "Balloonerism Trailer",
+        "duration": "2:45"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Mac Miller",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2165577,
+        "resource_url": "https://api.discogs.com/artists/2165577",
+        "thumbnail_url": "https://i.discogs.com/WCYt9HQ_COBX2S4bfArSJPdMHPpCR8WqkO4kHNwP4VU/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjU1/NzctMTY0Mjk0Njcx/MS0xMDcwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Balloonerism",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=pG_9cqMsYYU",
+        "title": "Mac Miller - Tambourine Dream",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 34,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lJqDlEYEUA8",
+        "title": "Mac Miller - DJ\u2019s Chord Organ (feat. SZA)",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 316,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=exfNMKltGKg",
+        "title": "Mac Miller - Do You Have A Destination?",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 205,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=90QSE0QLryI",
+        "title": "Mac Miller - 5 Dollar Pony Rides",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 223,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IpL_q927ofQ",
+        "title": "Mac Miller - Friendly Hallucinations",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 286,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lJovDVpKrrY",
+        "title": "Mac Miller - Mrs. Deborah Downer",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 245,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=m94MMHG1fJY",
+        "title": "Mac Miller - Stoned",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 244,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=r1mTyiE-JTA",
+        "title": "Mac Miller - Shangri-La",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 170,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IMUNeQ3W2ew",
+        "title": "Mac Miller - Funny Papers",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 264,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=f4e3aVU7cjI",
+        "title": "Mac Miller - Excelsior",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 144,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_rgX2JDVFy8",
+        "title": "Mac Miller - Transformations (feat. Delusional Thomas)",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1o35ne6NVUE",
+        "title": "Mac Miller - Manakins",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 190,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xl57ANUPqq8",
+        "title": "Mac Miller - Rick\u2019s Piano",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 309,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=TZnlmi5ofcc",
+        "title": "Mac Miller - Tomorrow Will Never Know",
+        "description": "Balloonerism by Mac Miller is out now: https://macmiller.lnk.to/balloonerism \n\nProduced by Pencil TV\nCreative Direction by Danae Gosset\nLead Design and Animation: Tal Uliel\nType Animation: Tal Uliel\n2D Animation: Tal Uliel, Gabby Sibilska, Alienor Delapor",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hf9uWK2pHZI",
+        "title": "Mac Miller - Balloonerism CD Unboxing",
+        "description": "In this video I show you the Balloonerism CD by Mac Miller.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nCD: https://amzn.to/3PGxOS6\nVinyl: https://amzn.to/4fZgnXz\nDigital: https://amzn.to/3Wls",
+        "duration": 141,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2888173,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Cloud Rap",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Abstract",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Rhythm & Blues",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

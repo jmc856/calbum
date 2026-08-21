@@ -1,0 +1,1105 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602448773098",
+    "artist": "JID",
+    "title": "The Forever Story",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 33741021,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1652407604"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/33741021-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/P5I6dIlF8qaU0vZIoP73vEyYyZTiEchB-etKpg7DJN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQx/MDIxLTE3NDQ5OTM3/MjItODAxMy5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/cpDg8Q8M78AVEI4zhCx73iMYFLdOnmySTCSm3_yyNN8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQx/MDIxLTE3NDQ5OTM3/MjItODAxMy5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33741021",
+      "community": {
+        "want": 33,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "256 kbps, Clean, Extended Version",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24320237,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0B8L11GXZ"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/24320237-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/hKYlvYTEw0zAA4h6A6I37F90S42vb57V29P5VCf067k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzIw/MjM3LTE2NjE2NDE2/NTMtODg2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/C4aWnsyBOaFAHrmYZ2HXsBenm7ih3-qiIweV5QuCaFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzIw/MjM3LTE2NjE2NDE2/NTMtODg2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24320237",
+      "community": {
+        "want": 65,
+        "have": 35
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33740970,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1790783321"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/33740970-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/A6ehu4yJMftVM8Uwh3hN7aFnQK6I5OojmCLc_aS6RpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQw/OTcwLTE3NDQ5OTM0/NDQtNTkzNC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/DfK_LLUZgcUgtofD9B0bxcOmL_ulwlpuJuIB90fcwtA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQw/OTcwLTE3NDQ5OTM0/NDQtNTkzNC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33740970",
+      "community": {
+        "want": 10,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps, Clean",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25485268,
+      "title": "J.I.D - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records",
+        "UMG Commercial Services",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "602448609199",
+        "252375E1/A",
+        "252375E2/A",
+        "252375E3/B",
+        "252375E4/A",
+        "252375E1/B",
+        "252375E2/A",
+        "252375E3/B",
+        "252375E4/A",
+        "252375E1/E",
+        "252375E2/D",
+        "252375E3/E",
+        "252375E4/D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/25485268-JID-The-Forever-Story",
+      "catno": "B0036774-01",
+      "thumb": "https://i.discogs.com/MA1acwfAJUjFrGrDgMwN5AsPJtrD7yU8_50MYkPmyto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg1/MjY4LTE3MzEyODMw/NzMtNjA1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ReYl9WObts9urhSe4EnbBUnknkb8DEvVoIowQGGAMZA/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg1/MjY4LTE3MzEyODMw/NzMtNjA1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25485268",
+      "community": {
+        "want": 2542,
+        "have": 6270
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24335903,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1637738689"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/24335903-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/4rjgYbsq_hDGq1I7fapiL79t1fd0gr054ToReWEHtUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM1/OTAzLTE2NjE2NDE2/ODktNzQ1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/43FE0gxoMK2L21wCr4kcHkvwVPEoZZTrC8A7SOVnxWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM1/OTAzLTE2NjE2NDE2/ODktNzQ1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24335903",
+      "community": {
+        "want": 341,
+        "have": 160
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps, Explicit",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29871721,
+      "title": "J.I.D - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Dreamville",
+        "Dreamville",
+        "Interscope Records",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "602448673916",
+        "LC06406"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/29871721-JID-The-Forever-Story",
+      "catno": "B0036899-01",
+      "thumb": "https://i.discogs.com/aJZHM_eCaIvCqgZ9dZTGWUzPQfKNDb1Gk16_ZU2kIKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODcx/NzIxLTE3MDg1MTIz/MDQtNDUzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/l5s1I6qJntygiKjtvj_Ouw7-JV1WoLKenLa7rCLuC3Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODcx/NzIxLTE3MDg1MTIz/MDQtNDUzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29871721",
+      "community": {
+        "want": 274,
+        "have": 336
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25674790,
+      "title": "J.I.D - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Europe",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02448 60919 9",
+        "BIEM/SDRM",
+        "LC06406",
+        "252375E1/C",
+        "252375E2/B",
+        "252375E3/C",
+        "252375E4/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/25674790-JID-The-Forever-Story",
+      "catno": "00602448609199",
+      "thumb": "https://i.discogs.com/0_WF_UfVUPAbzud014-3B93XSNnBG-G97apKm06ViyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc0/NzkwLTE3NDE5NDg0/NDQtNTE1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BR-xUiYJGQglkFzvd7SrCe-JT8qv2QPzJOaod703SvQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc0/NzkwLTE3NDE5NDg0/NDQtNTE1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25674790",
+      "community": {
+        "want": 711,
+        "have": 1473
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25065313,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1652407604"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/25065313-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/J35W-7UVJme4k5BiyVni4EWtGeWn7MbOSqxZQj65Tn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY1/MzEzLTE2Njc2NzEx/OTItNjYzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JMFby76XM4X-Vy8vFdEwsIhECSAxNUALustKmMpfMp4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY1/MzEzLTE2Njc2NzEx/OTItNjYzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25065313",
+      "community": {
+        "want": 42,
+        "have": 12
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "256 kbps, Explicit, Extended Version",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34823960,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "CDr",
+        "Album",
+        "Deluxe Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "725752902659"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/34823960-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/BipukOjblTNX-5mQ-VUH3S2v2GEXmb8b2iPAGnBOFh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODIz/OTYwLTE3NTUyNjA5/MDktMjYzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W38yapRF9kpjKeVknWsi6_FzG--OPOY9exq_u6Trc9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODIz/OTYwLTE3NTUyNjA5/MDktMjYzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34823960",
+      "community": {
+        "want": 77,
+        "have": 5
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31196893,
+      "title": "JID* - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Dreamville",
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/31196893-JID-The-Forever-Story",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/C3F8RK19v2JDXhcagxA5WsCTutEBzmKCEZ9YQZsGvR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk2/ODkzLTE3MjA3Mzkx/ODAtMjQ4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gxdZDe3XDv4lq7MMJFm6OUqKsXpj-ro6VzwboG-7itk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk2/ODkzLTE3MjA3Mzkx/ODAtMjQ4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31196893",
+      "community": {
+        "want": 30,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "88.2kHz/24-bit, Extended Version",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25485466,
+      "title": "J.I.D - The Forever Story",
+      "master_id": 2763401,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "USA & Canada",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Dreamville",
+        "Dreamville",
+        "Interscope Records",
+        "Interscope Records",
+        "Dreamville",
+        "Interscope Records",
+        "UMG Commercial Services",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "602448673916"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2763401",
+      "uri": "/release/25485466-JID-The-Forever-Story",
+      "catno": "B0036899-01",
+      "thumb": "https://i.discogs.com/kxdkJVwNyzoNBjpyTj79ozD46yYlfViY3fUl74cr5L0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg1/NDY2LTE2NzE1Njcx/ODQtNDM1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9BhlYtlIIHLdQwK_47_KzLYwcqtu8I1cUk41FvFUfh8/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg1/NDY2LTE2NzE1Njcx/ODQtNDM1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25485466",
+      "community": {
+        "want": 1285,
+        "have": 2072
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2763401,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious",
+      "Jazzy Hip-Hop"
+    ],
+    "main_release": 24335903,
+    "most_recent_release": 35497120,
+    "resource_url": "https://api.discogs.com/masters/2763401",
+    "uri": "https://www.discogs.com/master/2763401-JID-The-Forever-Story",
+    "versions_url": "https://api.discogs.com/masters/2763401/versions",
+    "main_release_url": "https://api.discogs.com/releases/24335903",
+    "most_recent_release_url": "https://api.discogs.com/releases/35497120",
+    "num_for_sale": 50,
+    "lowest_price": 26.49,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/43FE0gxoMK2L21wCr4kcHkvwVPEoZZTrC8A7SOVnxWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM1/OTAzLTE2NjE2NDE2/ODktNzQ1NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/43FE0gxoMK2L21wCr4kcHkvwVPEoZZTrC8A7SOVnxWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM1/OTAzLTE2NjE2NDE2/ODktNzQ1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4rjgYbsq_hDGq1I7fapiL79t1fd0gr054ToReWEHtUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM1/OTAzLTE2NjE2NDE2/ODktNzQ1NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Galaxy",
+        "duration": "0:52"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Raydar",
+        "duration": "3:24"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "&",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          },
+          {
+            "name": "Kenny Mason (3)",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 8114950,
+            "resource_url": "https://api.discogs.com/artists/8114950"
+          }
+        ],
+        "title": "Dance Now",
+        "duration": "3:47"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Crack Sandwich",
+        "duration": "4:57"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "&",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          },
+          {
+            "name": "EarthGang",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 3672765,
+            "resource_url": "https://api.discogs.com/artists/3672765"
+          }
+        ],
+        "title": "Can't Punk Me",
+        "duration": "3:23"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Surround Sound",
+        "extraartists": [
+          {
+            "name": "21 Savage",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3259639,
+            "resource_url": "https://api.discogs.com/artists/3259639"
+          },
+          {
+            "name": "Yung Baby Tate",
+            "anv": "Baby Tate",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 7546818,
+            "resource_url": "https://api.discogs.com/artists/7546818"
+          }
+        ],
+        "duration": "3:49"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Kody Blu 31",
+        "duration": "3:44"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Bruddanem",
+        "extraartists": [
+          {
+            "name": "Lil Durk",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3102850,
+            "resource_url": "https://api.discogs.com/artists/3102850"
+          }
+        ],
+        "duration": "3:55"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Sistanem",
+        "duration": "6:09"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "&",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          },
+          {
+            "name": "Ari Lennox",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 4792952,
+            "resource_url": "https://api.discogs.com/artists/4792952"
+          }
+        ],
+        "title": "Can't Make U Change",
+        "duration": "4:48"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Stars",
+        "extraartists": [
+          {
+            "name": "Yasiin Bey",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2538994,
+            "resource_url": "https://api.discogs.com/artists/2538994"
+          }
+        ],
+        "duration": "4:18"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "&",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          },
+          {
+            "name": "Kenny Mason (3)",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 8114950,
+            "resource_url": "https://api.discogs.com/artists/8114950"
+          }
+        ],
+        "title": "Just In Time",
+        "extraartists": [
+          {
+            "name": "Lil Wayne",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1065010,
+            "resource_url": "https://api.discogs.com/artists/1065010"
+          }
+        ],
+        "duration": "3:27"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Money",
+        "duration": "4:26"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Better Days",
+        "extraartists": [
+          {
+            "name": "Johnta Austin",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 404077,
+            "resource_url": "https://api.discogs.com/artists/404077"
+          }
+        ],
+        "duration": "4:14"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "artists": [
+          {
+            "name": "J.I.D",
+            "anv": "JID",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 7246829,
+            "resource_url": "https://api.discogs.com/artists/7246829"
+          }
+        ],
+        "title": "Lauder Too",
+        "extraartists": [
+          {
+            "name": "Ravyn Lenae",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4732204,
+            "resource_url": "https://api.discogs.com/artists/4732204"
+          }
+        ],
+        "duration": "3:53"
+      }
+    ],
+    "artists": [
+      {
+        "name": "J.I.D",
+        "anv": "JID",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7246829,
+        "resource_url": "https://api.discogs.com/artists/7246829",
+        "thumbnail_url": "https://i.discogs.com/-9y-t1rGR13vTO6meXZBuy8xwdX5u00ZOsmvHDDWIm0/rs:fit/g:sm/q:90/h:600/w:524/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcyNDY4/MjktMTc0NDk5OTM1/OC01NTUzLnBuZw.jpeg"
+      }
+    ],
+    "title": "The Forever Story",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=DUOYU61gkgs",
+        "title": "Bruddanem",
+        "description": "Provided to YouTube by Universal Music Group\n\nBruddanem \u00b7 JID \u00b7 Lil Durk\n\nThe Forever Story\n\n\u2117 2022 Dreamville/Interscope Records\n\nReleased on: 2022-10-31\n\nProducer: TU!\nProducer: DJ Khalil\nProducer: Christo\nAdditionalproducer: Yuli\nRecording Engineer: Jo",
+        "duration": 236,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ovQkVCCZ4VA",
+        "title": "JID - The Forever Story (Full Album)",
+        "description": "",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2763401,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

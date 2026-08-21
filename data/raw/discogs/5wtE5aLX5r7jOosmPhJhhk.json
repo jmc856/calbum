@@ -1,0 +1,735 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "093624906025",
+    "artist": "Mac Miller",
+    "title": "Swimming",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 12681846,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "REMember Music",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624904229",
+        "24431 1A 1-571455",
+        "24431 1B 1-571455",
+        "24431 1A 1-571455",
+        "24431 1XD 1-571455"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/12681846-Mac-Miller-Swimming",
+      "catno": "573401-1",
+      "thumb": "https://i.discogs.com/C9fT8XECGJt9mqDnOLvUvFLt245eGesSmjzjjBKhrHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgx/ODQ2LTE1NDM5OTUz/OTgtMTUxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FxfNT8S9RcTpMl8UVPDv8Ti0SZ3dyP-IUpzlt0VDkXs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgx/ODQ2LTE1NDM5OTUz/OTgtMTUxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12681846",
+      "community": {
+        "want": 2990,
+        "have": 1396
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12681974,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "USA & Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "REMember Music",
+        "Warner Music Group",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. Records Inc.",
+        "WEA International Inc.",
+        "WEA International Inc.",
+        "Record Industry"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624904236",
+        "24431 1A 1-571455",
+        "24431 1B 1-571455",
+        "24431 1C 1-571455",
+        "24431 1XD 1-571455"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/12681974-Mac-Miller-Swimming",
+      "catno": "571455-1",
+      "thumb": "https://i.discogs.com/8GcLzxNrE8KI_ETkyjUSZxulml5xwxSLDfZzfGfnYzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgx/OTc0LTE2MDIxMjUx/NTUtMTIwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UxOqXBpYmvZO4Q0VfDHMyJXyQyKb-UAxEinnrYjp0wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgx/OTc0LTE2MDIxMjUx/NTUtMTIwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12681974",
+      "community": {
+        "want": 3790,
+        "have": 9106
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30567199,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Disco",
+        "Trap"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/30567199-Mac-Miller-Swimming",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/nxXK848ckS-FJLxeQoEmvjL31hcg5oCk2ZrcOPh5uPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY3/MTk5LTE3MTQ2ODcy/NzctNjQ5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f9vqyycu6tVuaTuXdyVh_-Q9l5i7o5l9SIWik2fGCqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY3/MTk5LTE3MTQ2ODcy/NzctNjQ5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30567199",
+      "community": {
+        "want": 24,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "44.1kHz/24-bit",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12863535,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "USA & Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "Remember Music",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. Records Inc.",
+        "Warner Music Group",
+        "Larrabee Sound Studios",
+        "Bernie Grundman Mastering",
+        "Record Industry"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90423 6",
+        "093624904236",
+        "093624904236 (K1)",
+        "24331 3A 1-571455",
+        "24431 3B 1-571455",
+        "24431 3C 1-571455",
+        "24431 3D 1-571455"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/12863535-Mac-Miller-Swimming",
+      "catno": "093624904236",
+      "thumb": "https://i.discogs.com/SXwLaUkTPr_Ex_AjlKhMwfpbjDifcQC-vW7bMSRSZ5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/NTM1LTE3NzYzODE3/MDQtMzI3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qioWurZtiIdb_qk65CoN6mWulchvPMQhi-WinU8ZUro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/NTM1LTE3NzYzODE3/MDQtMzI3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12863535",
+      "community": {
+        "want": 4889,
+        "have": 27471
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21028165,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Disco",
+        "Trap"
+      ],
+      "country": "Worldwide",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "Warner Bros. Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1408996052"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/21028165-Mac-Miller-Swimming",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/4V06Ida27hUNJyfqLWjAsBdMy19l6YKT9S0EhAIUcDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE2MzcyNDMw/OTYtNDUwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yOM7QF0UhziMC6fAAe8hcnTc14uCT9bzorZcEueDLH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE2MzcyNDMw/OTYtNDUwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21028165",
+      "community": {
+        "want": 1655,
+        "have": 1524
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22875947,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Disco"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "REMember Music"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/22875947-Mac-Miller-Swimming",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/CAQAbdmqsa4cUNl7OzDWx7wcpbkhJ3heAzZQtNam914/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc1/OTQ3LTE2NDk5MzMx/MDEtODY0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aciK7UI0BayDJossTqRC9tTDUjumI_KHhbyphUOhZaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc1/OTQ3LTE2NDk5MzMx/MDEtODY0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22875947",
+      "community": {
+        "want": 426,
+        "have": 394
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12330900,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Disco",
+        "Trap"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "Warner Music Group",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. Records Inc.",
+        "WEA International Inc.",
+        "WEA International Inc.",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90603 2",
+        "093624906032",
+        " (1040973) 1.4.571455.SA.1 02 0001",
+        "IFPI L247",
+        "IFPI KKTY"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/12330900-Mac-Miller-Swimming",
+      "catno": "571455-2",
+      "thumb": "https://i.discogs.com/9APuvZKbvxS5n6oA7J0RuqlOwMAbp66JChM5i7Hf2aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/OTAwLTE3NDU0NDc2/NzMtNzg5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eJu6D3yuY5YxMFIMhZXE_gquCVTfiuO6g0xMLoLKkcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/OTAwLTE3NDU0NDc2/NzMtNzg5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12330900",
+      "community": {
+        "want": 1057,
+        "have": 2402
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12353968,
+      "title": "Mac Miller - Swimming",
+      "master_id": 1403861,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Bros. Records",
+        "REMember Music",
+        "WEA International Inc.",
+        "WEA International Inc.",
+        "Larrabee Sound Studios",
+        "Bernie Grundman Mastering",
+        "Room 719, Burbank, CA",
+        "Island Sound Studios, Hawaii",
+        "The Ble Compound, Los Angeles, CA",
+        "Estudios Del Sur",
+        "Conway Studios",
+        "ID Labs",
+        "Legacy Music Group, Dallas, TX",
+        "Ameraycan Studios",
+        "Studio X",
+        "Dubway Studios",
+        "Vic Wainstein Home Studio, Los Angeles, CA",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90603 2",
+        "093624906032",
+        "LC00392",
+        "[Warner logo] 57055095/0093624906032 21",
+        "IFPI LP 73",
+        "IFPI 0710",
+        "GEMA/BIEM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1403861",
+      "uri": "/release/12353968-Mac-Miller-Swimming",
+      "catno": "9362-49060-3",
+      "thumb": "https://i.discogs.com/nEmBjgALVBwaDMtIzMYCu2zuuQ_gKNzcqFDzDT-Ddoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUz/OTY4LTE1MzM1NTE4/MjAtNDAzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nA5oZPmbO2aitzWxlG30t62Ckq731Vz7eQ1eDXdywo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUz/OTY4LTE1MzM1NTE4/MjAtNDAzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12353968",
+      "community": {
+        "want": 457,
+        "have": 1105
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1403861,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Jazzy Hip-Hop",
+      "Disco",
+      "Trap"
+    ],
+    "main_release": 21028165,
+    "most_recent_release": 38102790,
+    "resource_url": "https://api.discogs.com/masters/1403861",
+    "uri": "https://www.discogs.com/master/1403861-Mac-Miller-Swimming",
+    "versions_url": "https://api.discogs.com/masters/1403861/versions",
+    "main_release_url": "https://api.discogs.com/releases/21028165",
+    "most_recent_release_url": "https://api.discogs.com/releases/38102790",
+    "num_for_sale": 338,
+    "lowest_price": 11.05,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/yOM7QF0UhziMC6fAAe8hcnTc14uCT9bzorZcEueDLH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE2MzcyNDMw/OTYtNDUwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/yOM7QF0UhziMC6fAAe8hcnTc14uCT9bzorZcEueDLH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE2MzcyNDMw/OTYtNDUwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4V06Ida27hUNJyfqLWjAsBdMy19l6YKT9S0EhAIUcDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE2MzcyNDMw/OTYtNDUwOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MKfgGZ6HUKwRS-dqvc8dwZEboUZ955GqSpqQZlw-JeA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE3NTM3Mzgw/MjEtNzUwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MKfgGZ6HUKwRS-dqvc8dwZEboUZ955GqSpqQZlw-JeA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE3NTM3Mzgw/MjEtNzUwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rPcakVd9uT_xuKy9k9DSftwVXj0bz9kRH6VVUD_Yoko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTY1LTE3NTM3Mzgw/MjEtNzUwOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2018,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Come Back To Earth ",
+        "duration": "2:41"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Hurt Feelings",
+        "duration": "4:05"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "What's The Use?",
+        "duration": "4:48"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Perfecto",
+        "duration": "3:35"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Self Care",
+        "duration": "5:45"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Wings",
+        "duration": "4:10"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Ladders",
+        "duration": "4:47"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Small Worlds",
+        "duration": "4:31"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Conversation, Pt. 1",
+        "duration": "3:30"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Dunno",
+        "duration": "3:57"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Jet Fuel",
+        "duration": "5:45"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "2009",
+        "duration": "5:48"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "So It Goes",
+        "duration": "5:12"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Mac Miller",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2165577,
+        "resource_url": "https://api.discogs.com/artists/2165577",
+        "thumbnail_url": "https://i.discogs.com/WCYt9HQ_COBX2S4bfArSJPdMHPpCR8WqkO4kHNwP4VU/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjU1/NzctMTY0Mjk0Njcx/MS0xMDcwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Swimming",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=W4ocPPhtglU",
+        "title": "Mac Miller - Come Back To Earth",
+        "description": "SWIMMING is available now.\nGet it here: https://ad.gt/swimming",
+        "duration": 204,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8f2SPsLxPzQ",
+        "title": "Mac Miller - Hurt Feelings",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nVideography by Justin Boyd\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp:",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NjuiM8Rb2Iw",
+        "title": "Mac Miller - What's the Use?",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nCharacter by Todd Hippensteel\nProduced by Keith Tilford \nProduction Company: language.la\n\nht",
+        "duration": 289,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=j_KAlIVNtHo",
+        "title": "Mac Miller - Perfecto",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nVideography by Justin Boyd\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp:",
+        "duration": 216,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SsKT0s5J8ko",
+        "title": "Mac Miller - Self Care",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Christian Weber \n\nCreative Director: Eric Tilford\nEditor: Dustin Zimmer @ Exile Edit\nStylist: Taylor Brechtel\nProduction Designer: Jeff Everett\nExecutive Producers: Alex Fis",
+        "duration": 348,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=USIf2ZyKDN8",
+        "title": "Mac Miller - Wings",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nVideography by Justin Boyd\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp:",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=eU581WvbUyQ",
+        "title": "Mac Miller - Ladders",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nVideography by Justin Boyd\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp:",
+        "duration": 287,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=v2E3ATcEGM4",
+        "title": "Mac Miller - Small Worlds",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nIllustrations by Anthony Gaddis\nProduced by Keith Tilford \nProduction Company: language.la\n\n",
+        "duration": 272,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ogodJg67Y4M",
+        "title": "Mac Miller - Conversation Pt. 1",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nNebulae by Salmonick Atelier, Space Nebulae Artist Teun van der Zalm \nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp://www.",
+        "duration": 211,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kL-oX-PAMho",
+        "title": "Mac Miller - Dunno",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp://www.macmillerswebsite.com",
+        "duration": 238,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FrfNEoNnCt4",
+        "title": "Mac Miller - Jet Fuel",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nVideography: Justin Boyd\n\u201cSelf Care\u201d video directed by Christian Weber\nProduced by Keith Tilford \nProduction Company: language.la\n\nhttp://www",
+        "duration": 346,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=u_SvAhS7Di0",
+        "title": "Mac Miller - 2009",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nPhotography by Christian Weber\nAnimation by LUTCH.tv, Lead Animator Jon Lutjens\nProduced by Keith Tilford \nProduction Company: language.la\n\nh",
+        "duration": 351,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hT7uYDjFfrY",
+        "title": "Mac Miller - So It Goes",
+        "description": "Listen to Swimming by Mac Miller: https://MacMiller.lnk.to/swimming \n\nDirected by Anthony Gaddis & Eric Tilford \n\nAnimation by LUXX.TV, Lead Animator Tim Clapham\nCharacter by Todd Hippensteel\nProduced by Keith Tilford \nProduction Company: language.la\n\nhtt",
+        "duration": 323,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1403861,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Disco",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Trap",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

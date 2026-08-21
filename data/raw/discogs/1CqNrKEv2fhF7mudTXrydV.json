@@ -1,0 +1,2351 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "190295048013",
+    "artist": "Lianne La Havas",
+    "title": "Lianne La Havas",
+    "year": 2020
+  },
+  "results": [
+    {
+      "id": 15636634,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Neo Soul",
+        "Folk"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Picture Disc"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records UK",
+        "Warner Records UK",
+        "Warner Music UK Ltd.",
+        "HMV",
+        "JPC"
+      ],
+      "type": "release",
+      "barcode": [
+        "0190295252410",
+        "190295252410"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15636634-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295252410",
+      "thumb": "https://i.discogs.com/TGRS7CYIg20DiPv5lKp1HvR_9NGMZeJ7TxXEb2OqBKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/NjM0LTE2MDYyMzY5/OTktMTk5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BjgnsqDVVC1mz7-6GKd_XJBuvqBcER3iQAKByC5P9uM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/NjM0LTE2MDYyMzY5/OTktMTk5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15636634",
+      "community": {
+        "want": 198,
+        "have": 359
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15626936,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Neo Soul",
+        "Folk"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Metropolis Mastering",
+        "Metropolis Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 190295 252403",
+        "0 190295 265014",
+        "0190295265014 BK01297-01 A1  Stu.",
+        "0190295265014 BK01297-01 B1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15626936-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295265014",
+      "thumb": "https://i.discogs.com/qqi_3eacek6_5QqKAcUfQQcYcc1ivp3UZWUMvNGAvys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/OTM2LTE1OTQ5NzA1/OTgtODIxMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kAyDvISmTskC92ryIBw4LdqUAI_dyaBg1lib4TOEX2U/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/OTM2LTE1OTQ5NzA1/OTgtODIxMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15626936",
+      "community": {
+        "want": 384,
+        "have": 715
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15642187,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records UK",
+        "Warner Records UK",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "0190295254889",
+        "0 190295 254889",
+        "0190295254889 AK09304-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9702",
+        "IFPI 9721"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15642187-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295254889",
+      "thumb": "https://i.discogs.com/Lh620FUrpcurJ3hol76nPjVmfhU33ibD8OlXsMnup-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQy/MTg3LTE1OTUwODE3/NTUtMTc4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8PLXlf4tZgQrbxMVa5I6F4V2KWVQ1Tmb_RXBb064868/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQy/MTg3LTE1OTUwODE3/NTUtMTc4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15642187",
+      "community": {
+        "want": 114,
+        "have": 350
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15634783,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Neo Soul",
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Nonesuch",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "0190295254889",
+        "[Warner logo] 57478869/0190295254889 21",
+        "IFPI LB45",
+        "IFPI 0740",
+        "[Warner logo] 57478869/0190295254889 21",
+        "IFPI LB45",
+        "IFPI 077Z"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15634783-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295254889",
+      "thumb": "https://i.discogs.com/Fjaf96lbiqtTyiII4s4ce8gOJXk7yaOXrSYXZtiZpME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/NzgzLTE1OTUwMjY0/MDEtNDA4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IY0DLAI6i8-itoapsFcOKIX3ZPUXeNwSQiyPPlW_8o0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/NzgzLTE1OTUwMjY0/MDEtNDA4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15634783",
+      "community": {
+        "want": 107,
+        "have": 167
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15622319,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Neo Soul",
+        "Folk"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records UK",
+        "Warner Records UK",
+        "Optimal Media GmbH",
+        "Universal Music Publishing Ltd.",
+        "Warner/Chappell",
+        "Method Paperwork",
+        "Copyright Control",
+        "MOS Music Publishing",
+        "Downtown Music Publishing",
+        "Domino Publishing Ltd.",
+        "Studio Seventeen, Bath",
+        "123 Studios",
+        "The Pool, London",
+        "Red Bull Studios, New York, NY",
+        "The Crow's Nest Studio",
+        "Real World Studios",
+        "The Diamond Mine",
+        "Studio 19",
+        "The Premises Studio (London)",
+        "Earseed Recording",
+        "Eagle Rock Studios",
+        "Rumours, NYC",
+        "Metropolis Mastering",
+        "Iguana Studio, London"
+      ],
+      "type": "release",
+      "barcode": [
+        "190295265014",
+        "1 90295 265014",
+        "BK01297-01 A1 0190295265014 1| Stu.",
+        "BK01297-01 B1 0190295265014 1|",
+        "GEMA/MCPS"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15622319-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295265014",
+      "thumb": "https://i.discogs.com/KMlCVE-fqigUBj3X1Wucp6THGyjwr2yQN0RZIOUUM3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM2/OTgtNDU4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ehTYP9j7v_m6CsvJz_zHrcx2i1xwVTkMtZYvw-LRdhk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM2/OTgtNDU4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15622319",
+      "community": {
+        "want": 1118,
+        "have": 4273
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35480941,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Jazz",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Funk"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records UK"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/35480941-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295265014",
+      "thumb": "https://i.discogs.com/7HptEV7LkzNjQUDg3M3TK9_H5WB6Vp26n4KPsx_g6Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDgw/OTQxLTE3NjE0Nzc5/NDMtNzIwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dNkfyO2xPF9qYU2KsFlhuPwkiDImrBzGsQJGkGqg1Ak/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDgw/OTQxLTE3NjE0Nzc5/NDMtNzIwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35480941",
+      "community": {
+        "want": 17,
+        "have": 68
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Black Vinyl",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15622410,
+      "title": "Lianne La Havas - Lianne La Havas",
+      "master_id": 1772523,
+      "genre": [
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records UK",
+        "Warner Records UK",
+        "Warner Music UK Ltd.",
+        "Warner/Chappell",
+        "Universal Music Publishing Ltd.",
+        "Studio Seventeen, Bath",
+        "123 Studios",
+        "ReplayHeaven.com",
+        "Method Paperwork",
+        "The Pool, London",
+        "Red Bull Studios, New York, NY",
+        "Copyright Control",
+        "Iguana Studio, London",
+        "The Crow's Nest Studio",
+        "MOS Publishing Limited",
+        "Echo Beach Management",
+        "Real World Studios",
+        "The Diamond Mine",
+        "The Premises Studio (London)",
+        "Downtown Music Publishing",
+        "Rumours, NYC",
+        "Domino Publishing Co. Ltd.",
+        "Eagle Rock Studios",
+        "Metropolis Mastering",
+        "Metropolis Mastering",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "190295265014",
+        "1 90295 265014",
+        "1 90295 252427",
+        "0190295265014   Stu.   BK01297-01 A1   1|",
+        "0190295265014   1=   BK01297-01 B1",
+        "GEMA/MCPS"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1772523",
+      "uri": "/release/15622410-Lianne-La-Havas-Lianne-La-Havas",
+      "catno": "0190295265014",
+      "thumb": "https://i.discogs.com/xyQb84sXwPaR1JZvLd_U8mc-NqbLNbFmE_6Py9E_27I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/NDEtNTcyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vOsfCP8sGZdNOFtPWRq8ZeeguJ-NBNlPScHjt2Vgul0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/NDEwLTE1OTU3NjQw/NDEtNTcyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15622410",
+      "community": {
+        "want": 807,
+        "have": 2339
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Mint Green",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1772523,
+    "genres": [
+      "Funk / Soul",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Neo Soul",
+      "Folk"
+    ],
+    "main_release": 15622319,
+    "most_recent_release": 35480941,
+    "resource_url": "https://api.discogs.com/masters/1772523",
+    "uri": "https://www.discogs.com/master/1772523-Lianne-La-Havas-Lianne-La-Havas",
+    "versions_url": "https://api.discogs.com/masters/1772523/versions",
+    "main_release_url": "https://api.discogs.com/releases/15622319",
+    "most_recent_release_url": "https://api.discogs.com/releases/35480941",
+    "num_for_sale": 126,
+    "lowest_price": 10.14,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ehTYP9j7v_m6CsvJz_zHrcx2i1xwVTkMtZYvw-LRdhk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM2/OTgtNDU4OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ehTYP9j7v_m6CsvJz_zHrcx2i1xwVTkMtZYvw-LRdhk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM2/OTgtNDU4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KMlCVE-fqigUBj3X1Wucp6THGyjwr2yQN0RZIOUUM3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM2/OTgtNDU4OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X7PEivJgaXYZPVDkLqikdV4FmjhLc1lT2yGR7pmTSGM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjgwMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/X7PEivJgaXYZPVDkLqikdV4FmjhLc1lT2yGR7pmTSGM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjgwMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ApLZ_VJLcEJKBxVXOVmoZOuhOprHCoCSsbjHKPNr0KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjgwMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FirGBHPybwtY1a1Axmpi8WEAXirALJKSJ6bzyebdSzM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzQtOTAwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FirGBHPybwtY1a1Axmpi8WEAXirALJKSJ6bzyebdSzM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzQtOTAwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QrlDEZlrjckiFt6buFc_tY5cBN3MI9_zgPiE06pP3zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzQtOTAwMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SQiRfGNrowgrPAxMX_e_fnYVZm4X94TFID6aDP1JM_o/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM3/MzgtNTkxNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SQiRfGNrowgrPAxMX_e_fnYVZm4X94TFID6aDP1JM_o/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM3/MzgtNTkxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xnrPUv2My63WW5jtXeFR5tA6qo0O105qyVgtRyubwPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTQ3MjM3/MzgtNTkxNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 580
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M-o2Fh9B7-0ZevxRNJ4nsEUzF1e5tIxW0cL6unOkaJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNzM3OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/M-o2Fh9B7-0ZevxRNJ4nsEUzF1e5tIxW0cL6unOkaJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNzM3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cYblhFh4maQR3sYJSvq0_x2YdEUMgaSaeaKlYJhpMzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNzM3OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1_efj89kXjCydNv-TNrVEgiR06Q3CRnIAeYhW9FUMX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNjIwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/1_efj89kXjCydNv-TNrVEgiR06Q3CRnIAeYhW9FUMX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNjIwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VjKmqvxvaMvFwQI927XLVBfFTUm-JD2nHoq0i5X6GEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtNjIwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0EWbdMLCH0BMjnEPcCTlmLFb81WyG4pIQpgphGLe3ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtODQ0Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0EWbdMLCH0BMjnEPcCTlmLFb81WyG4pIQpgphGLe3ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtODQ0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QBZoAuAAA4nNgsnuLqDUMqhloNxY8gcaPct3Ui6MYj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtODQ0Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/A54qgaeJSisZDbYnHvBg0qu1mH7pwWdtVMyPrjeGFwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjU1Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/A54qgaeJSisZDbYnHvBg0qu1mH7pwWdtVMyPrjeGFwI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjU1Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IDKW1994a0PthkmrzO9bYb9ilKkKrpNM_-hMoRrHjS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTg2MzA4/MzMtMjU1Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8wzoqBNXWgOUjcCS_ho9M_OILDeCR35ik9HN9sZQakI/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MDktMTkyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/8wzoqBNXWgOUjcCS_ho9M_OILDeCR35ik9HN9sZQakI/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MDktMTkyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/A5f7x6BMl4dVABagRC_rt_B2roktAfqj4TOeJzZSbLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MDktMTkyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 468
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YShH6n_68J6jYb1rz8WZZSsNtKHiSdliMHtxCzw92E4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MTAtODk2MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/YShH6n_68J6jYb1rz8WZZSsNtKHiSdliMHtxCzw92E4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MTAtODk2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5jNIS0IrgBFvWzePC8qlom2uxd6VQZc561TZnCup-MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjIy/MzE5LTE1OTU0MTIy/MTAtODk2MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Bittersweet",
+        "extraartists": [
+          {
+            "name": "Kim Oliver",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 796939,
+            "resource_url": "https://api.discogs.com/artists/796939"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Yves Fernandez (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1930979,
+            "resource_url": "https://api.discogs.com/artists/1930979"
+          },
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Robert Wilks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2121870,
+            "resource_url": "https://api.discogs.com/artists/2121870"
+          },
+          {
+            "name": "James Wyatt",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards, Piano",
+            "tracks": "",
+            "id": 2835070,
+            "resource_url": "https://api.discogs.com/artists/2835070"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar, Backing Vocals",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Dan Grech-Marguerat",
+            "anv": "Dan Grech",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 298410,
+            "resource_url": "https://api.discogs.com/artists/298410"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Hal Ritson",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Sample Replay], Keyboards, Drums, Programmed By",
+            "tracks": "",
+            "id": 234170,
+            "resource_url": "https://api.discogs.com/artists/234170"
+          },
+          {
+            "name": "Richard Adlam",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Sample Replay], Keyboards, Drums, Programmed By",
+            "tracks": "",
+            "id": 721323,
+            "resource_url": "https://api.discogs.com/artists/721323"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Lead Vocals Recorded By]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Elroy Powell",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Sample Replay]",
+            "tracks": "",
+            "id": 455451,
+            "resource_url": "https://api.discogs.com/artists/455451"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Read My Mind",
+        "extraartists": [
+          {
+            "name": "Yves Fernandez (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 1930979,
+            "resource_url": "https://api.discogs.com/artists/1930979"
+          },
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Daniel Moyler",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2772452,
+            "resource_url": "https://api.discogs.com/artists/2772452"
+          },
+          {
+            "name": "Robert Wilks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2121870,
+            "resource_url": "https://api.discogs.com/artists/2121870"
+          },
+          {
+            "name": "Jonny Breakwell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 5060657,
+            "resource_url": "https://api.discogs.com/artists/5060657"
+          },
+          {
+            "name": "Bruno Major",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Piano",
+            "tracks": "",
+            "id": 6144304,
+            "resource_url": "https://api.discogs.com/artists/6144304"
+          },
+          {
+            "name": "James Wyatt",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Fender Rhodes, Juno, and Moog], Piano",
+            "tracks": "",
+            "id": 2835070,
+            "resource_url": "https://api.discogs.com/artists/2835070"
+          },
+          {
+            "name": "Chris Tabron",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Yamaha CS Reface]",
+            "tracks": "",
+            "id": 1239767,
+            "resource_url": "https://api.discogs.com/artists/1239767"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Yamaha CS Reface]",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Renaud Letang",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Lead Vocals]",
+            "tracks": "",
+            "id": 240666,
+            "resource_url": "https://api.discogs.com/artists/240666"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Lead Vocals]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Bruno Major",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6144304,
+            "resource_url": "https://api.discogs.com/artists/6144304"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Green Papaya",
+        "extraartists": [
+          {
+            "name": "Frida Mariama Touray",
+            "anv": "Frida Touray",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 3626991,
+            "resource_url": "https://api.discogs.com/artists/3626991"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Backing Vocals]",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Robert Wilks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Backing Vocals]",
+            "tracks": "",
+            "id": 2121870,
+            "resource_url": "https://api.discogs.com/artists/2121870"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Fender Rhodes, Moog], Grand Piano",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production], Mixed By",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Can't Fight",
+        "extraartists": [
+          {
+            "name": "Davide Rossi",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Strings], Strings",
+            "tracks": "",
+            "id": 385848,
+            "resource_url": "https://api.discogs.com/artists/385848"
+          },
+          {
+            "name": "Yves Fernandez (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 1930979,
+            "resource_url": "https://api.discogs.com/artists/1930979"
+          },
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Daniel Moyler",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2772452,
+            "resource_url": "https://api.discogs.com/artists/2772452"
+          },
+          {
+            "name": "Jonny Breakwell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 5060657,
+            "resource_url": "https://api.discogs.com/artists/5060657"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Renaud Letang",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 240666,
+            "resource_url": "https://api.discogs.com/artists/240666"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Mura Masa",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3946226,
+            "resource_url": "https://api.discogs.com/artists/3946226"
+          },
+          {
+            "name": "Alex Crossan",
+            "anv": "Alex Crossan (Mura Masa)",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4941600,
+            "resource_url": "https://api.discogs.com/artists/4941600"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Paper Thin",
+        "extraartists": [
+          {
+            "name": "Johan Harryson",
+            "anv": "Joe Harryson",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 4473930,
+            "resource_url": "https://api.discogs.com/artists/4473930"
+          },
+          {
+            "name": "Homer Steinweiss",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 307876,
+            "resource_url": "https://api.discogs.com/artists/307876"
+          },
+          {
+            "name": "Homer Steinweiss",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 307876,
+            "resource_url": "https://api.discogs.com/artists/307876"
+          },
+          {
+            "name": "Johan Harryson",
+            "anv": "Joe Harryson",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 4473930,
+            "resource_url": "https://api.discogs.com/artists/4473930"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Homer Steinweiss",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 307876,
+            "resource_url": "https://api.discogs.com/artists/307876"
+          },
+          {
+            "name": "Johan Harryson",
+            "anv": "Joe Harryson",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4473930,
+            "resource_url": "https://api.discogs.com/artists/4473930"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocal Production]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Out Of Your Mind (Interlude)",
+        "extraartists": [
+          {
+            "name": "Geordan Reid-Campbell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 3117994,
+            "resource_url": "https://api.discogs.com/artists/3117994"
+          },
+          {
+            "name": "Geordan Reid-Campbell",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards, Bass Guitar, Drums, Percussion",
+            "tracks": "",
+            "id": 3117994,
+            "resource_url": "https://api.discogs.com/artists/3117994"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Geordan Reid-Campbell",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3117994,
+            "resource_url": "https://api.discogs.com/artists/3117994"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Geordan Reid-Campbell",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3117994,
+            "resource_url": "https://api.discogs.com/artists/3117994"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Weird Fishes",
+        "extraartists": [
+          {
+            "name": "Chris Dagger",
+            "anv": "Christopher Dagger",
+            "join": "",
+            "role": "Arranged By [Original Arrangement]",
+            "tracks": "",
+            "id": 2835071,
+            "resource_url": "https://api.discogs.com/artists/2835071"
+          },
+          {
+            "name": "James Wyatt",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Original Arrangement]",
+            "tracks": "",
+            "id": 2835070,
+            "resource_url": "https://api.discogs.com/artists/2835070"
+          },
+          {
+            "name": "Jay Sikora",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Original Arrangement]",
+            "tracks": "",
+            "id": 873485,
+            "resource_url": "https://api.discogs.com/artists/873485"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Original Arrangement]",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Rhianna Kenny",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Original Arrangement]",
+            "tracks": "",
+            "id": 522088,
+            "resource_url": "https://api.discogs.com/artists/522088"
+          },
+          {
+            "name": "James Wyatt",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Vocal]",
+            "tracks": "",
+            "id": 2835070,
+            "resource_url": "https://api.discogs.com/artists/2835070"
+          },
+          {
+            "name": "Frida Mariama Touray",
+            "anv": "Frida Touray",
+            "join": "",
+            "role": "Backing Vocals, Handclaps",
+            "tracks": "",
+            "id": 3626991,
+            "resource_url": "https://api.discogs.com/artists/3626991"
+          },
+          {
+            "name": "Yves Fernandez (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Handclaps",
+            "tracks": "",
+            "id": 1930979,
+            "resource_url": "https://api.discogs.com/artists/1930979"
+          },
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Robert Wilks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2121870,
+            "resource_url": "https://api.discogs.com/artists/2121870"
+          },
+          {
+            "name": "Daniel Moyler",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional Vocals]",
+            "tracks": "",
+            "id": 2772452,
+            "resource_url": "https://api.discogs.com/artists/2772452"
+          },
+          {
+            "name": "Jonny Breakwell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional Vocals]",
+            "tracks": "",
+            "id": 5060657,
+            "resource_url": "https://api.discogs.com/artists/5060657"
+          },
+          {
+            "name": "James Wyatt",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Fender Rhodes], Vocoder, Backing Vocals, Handclaps",
+            "tracks": "",
+            "id": 2835070,
+            "resource_url": "https://api.discogs.com/artists/2835070"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Backing Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Dan Grech-Marguerat",
+            "anv": "Dan Grech",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 298410,
+            "resource_url": "https://api.discogs.com/artists/298410"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Colin Greenwood",
+            "anv": "Colin Charles Greenwood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 365785,
+            "resource_url": "https://api.discogs.com/artists/365785"
+          },
+          {
+            "name": "Ed O'Brien",
+            "anv": "Edward John O'Brien",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 365794,
+            "resource_url": "https://api.discogs.com/artists/365794"
+          },
+          {
+            "name": "Jonny Greenwood",
+            "anv": "Jonathan Greenwood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 152377,
+            "resource_url": "https://api.discogs.com/artists/152377"
+          },
+          {
+            "name": "Phil Selway",
+            "anv": "Philip James Selway",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 365781,
+            "resource_url": "https://api.discogs.com/artists/365781"
+          },
+          {
+            "name": "Thom Yorke",
+            "anv": "Thomas Edward Yorke",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4854,
+            "resource_url": "https://api.discogs.com/artists/4854"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Please Don't Make Me Cry",
+        "extraartists": [
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums [Additional]",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional Drums]",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Robert Wilks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Additional Drums]",
+            "tracks": "",
+            "id": 2121870,
+            "resource_url": "https://api.discogs.com/artists/2121870"
+          },
+          {
+            "name": "Nick Hakim",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Wurlitzer, Micromoog], Mellotron, Electric Guitar, Drum Programming, Backing Vocals, Bass Guitar",
+            "tracks": "",
+            "id": 3294095,
+            "resource_url": "https://api.discogs.com/artists/3294095"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar, Snare",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Chris Tabron",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1239767,
+            "resource_url": "https://api.discogs.com/artists/1239767"
+          },
+          {
+            "name": "Brandon Peralta",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 6360914,
+            "resource_url": "https://api.discogs.com/artists/6360914"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Nick Hakim",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3294095,
+            "resource_url": "https://api.discogs.com/artists/3294095"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocal Production]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Nick Hakim",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Engineer",
+            "tracks": "",
+            "id": 3294095,
+            "resource_url": "https://api.discogs.com/artists/3294095"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Nick Hakim",
+            "anv": "Nicholas Hakim",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3294095,
+            "resource_url": "https://api.discogs.com/artists/3294095"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3 ",
+        "type_": "track",
+        "title": "Seven Times",
+        "extraartists": [
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Yves Fernandez (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 1930979,
+            "resource_url": "https://api.discogs.com/artists/1930979"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Dan See",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 1990837,
+            "resource_url": "https://api.discogs.com/artists/1990837"
+          },
+          {
+            "name": "Daniel Moyler",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2772452,
+            "resource_url": "https://api.discogs.com/artists/2772452"
+          },
+          {
+            "name": "Jonny Breakwell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant]",
+            "tracks": "",
+            "id": 5060657,
+            "resource_url": "https://api.discogs.com/artists/5060657"
+          },
+          {
+            "name": "Gareth Lockrane",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 849011,
+            "resource_url": "https://api.discogs.com/artists/849011"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Rhodes]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Beni Giles",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3069484,
+            "resource_url": "https://api.discogs.com/artists/3069484"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Courage",
+        "extraartists": [
+          {
+            "name": "Tim McNalley",
+            "anv": "",
+            "join": "",
+            "role": "Cello, Violin",
+            "tracks": "",
+            "id": 3560651,
+            "resource_url": "https://api.discogs.com/artists/3560651"
+          },
+          {
+            "name": "Bill Malina",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 132901,
+            "resource_url": "https://api.discogs.com/artists/132901"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Vocals]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Joe Harrison (8)",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards",
+            "tracks": "",
+            "id": 4467068,
+            "resource_url": "https://api.discogs.com/artists/4467068"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Joe Harrison (8)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4467068,
+            "resource_url": "https://api.discogs.com/artists/4467068"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocal Production]",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocal Production]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Paul Castelluzzo",
+            "anv": "",
+            "join": "",
+            "role": "Whistling",
+            "tracks": "",
+            "id": 5944604,
+            "resource_url": "https://api.discogs.com/artists/5944604"
+          },
+          {
+            "name": "Joe Harrison (8)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4467068,
+            "resource_url": "https://api.discogs.com/artists/4467068"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Sour Flower",
+        "extraartists": [
+          {
+            "name": "Burniss Earl Travis II",
+            "anv": "Burniss Travis",
+            "join": "",
+            "role": "Double Bass",
+            "tracks": "",
+            "id": 3500784,
+            "resource_url": "https://api.discogs.com/artists/3500784"
+          },
+          {
+            "name": "Mark Guiliana",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 304729,
+            "resource_url": "https://api.discogs.com/artists/304729"
+          },
+          {
+            "name": "Chris Tabron",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 1239767,
+            "resource_url": "https://api.discogs.com/artists/1239767"
+          },
+          {
+            "name": "Nate Odden",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 4062270,
+            "resource_url": "https://api.discogs.com/artists/4062270"
+          },
+          {
+            "name": "Augusto Sanchez",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant Recording]",
+            "tracks": "",
+            "id": 7948697,
+            "resource_url": "https://api.discogs.com/artists/7948697"
+          },
+          {
+            "name": "Brandon Peralta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assistant Recording]",
+            "tracks": "",
+            "id": 6360914,
+            "resource_url": "https://api.discogs.com/artists/6360914"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Vocals]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Backing Vocals, Guitar",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Stuart Hawkes",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 300468,
+            "resource_url": "https://api.discogs.com/artists/300468"
+          },
+          {
+            "name": "Chris Tabron",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 1239767,
+            "resource_url": "https://api.discogs.com/artists/1239767"
+          },
+          {
+            "name": "Brandon Peralta",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 6360914,
+            "resource_url": "https://api.discogs.com/artists/6360914"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Piano, Keyboards",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          },
+          {
+            "name": "Chris Tabron",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1239767,
+            "resource_url": "https://api.discogs.com/artists/1239767"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Vocals]",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Lianne La Havas",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2602758,
+            "resource_url": "https://api.discogs.com/artists/2602758"
+          },
+          {
+            "name": "Matt Hales",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 195541,
+            "resource_url": "https://api.discogs.com/artists/195541"
+          },
+          {
+            "name": "Sam Crowe",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2780880,
+            "resource_url": "https://api.discogs.com/artists/2780880"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Lianne La Havas",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2602758,
+        "resource_url": "https://api.discogs.com/artists/2602758",
+        "thumbnail_url": "https://i.discogs.com/NmEfOElCMgnewNzGvc2P0qKzHJgkhApNG12PIBQdk7A/rs:fit/g:sm/q:90/h:600/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MDI3/NTgtMTYxODg4MTkw/Mi00MTYzLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Lianne La Havas",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=AHeW8McMBS8",
+        "title": "Weird Fishes",
+        "description": "Provided to YouTube by Warner Records\n\nWeird Fishes \u00b7 Lianne La Havas\n\nWeird Fishes\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nProducer: Beni Giles\nOriginal Arranger: Christopher Dagger\nMixer: Dan Grech\nAdditional Programming: Dan ",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZmbiD9SCF7w",
+        "title": "Read My Mind",
+        "description": "Provided to YouTube by Warner Records\n\nRead My Mind \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nProducer: Beni Giles\nGuitar, Piano: Bruno Major\nKeyboards: Chris Tabron\nDrums, Percussion: Dan See",
+        "duration": 289,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BgirEShyrMg",
+        "title": "Sour Flower",
+        "description": "Provided to YouTube by Warner Records\n\nSour Flower \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nAssistant  Recording  Engineer: Augusto Sanchez\nAssistant  Recording  Engineer: Brandon Peralta\nAss",
+        "duration": 408,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=y12ZQbGGK_M",
+        "title": "Seven Times",
+        "description": "Provided to YouTube by Warner Records\n\nSeven Times \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nMixer, Producer: Beni Giles\nDrums, Percussion: Dan See\nEngineer: Daniel Moyler\nFlute: Gareth Lockra",
+        "duration": 211,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qwPJd6nQV9Y",
+        "title": "Please Don't Make Me Cry",
+        "description": "Provided to YouTube by Warner Records\n\nPlease Don't Make Me Cry \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nDrums  Recording  Engineer: Beni Giles\nAdditional  Production: Beni Giles\nAssistant  M",
+        "duration": 316,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AI4wVtrmMAc",
+        "title": "Bittersweet (Full Length)",
+        "description": "Provided to YouTube by Warner Records\n\nBittersweet (Full Length) \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nProducer: Beni Giles\nMixer: Dan Grech\nAdditional  Programming: Dan Grech\nDrums, Percu",
+        "duration": 293,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hX1kUBhmVAs",
+        "title": "Courage",
+        "description": "Provided to YouTube by Warner Records\n\nCourage \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nEngineer: Bill Malina\nGuitar, Keyboards: Joe Harrison\nProducer: Joe Harrison\nGuitar: Lianne La Havas\nPr",
+        "duration": 219,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8KRgHWa8P90",
+        "title": "Green Papaya",
+        "description": "Provided to YouTube by Warner Records\n\nGreen Papaya \u00b7 Lianne La Havas\n\nLianne La Havas\n\n\u2117 2020 Warner Records UK, a division of Warner Music UK Limited.\n\nAdditional  Vocal  Recording  Engineer: Beni Giles\nMixer: Beni Giles\nAdditional  Production: Beni ",
+        "duration": 246,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1772523,
+  "genres": [
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

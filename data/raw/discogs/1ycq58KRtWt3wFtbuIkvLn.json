@@ -1,0 +1,4722 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602458853360",
+    "artist": "The Last Dinner Party",
+    "title": "Prelude to Ecstasy",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 31241695,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Universal Music Group",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal International",
+        "Universal Music LLC",
+        "Universal Music LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988031 644645",
+        "4988031644645",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/31241695-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "UICI-1163",
+      "thumb": "https://i.discogs.com/X5n74MB9-9aWhxes-Vf9BSIpmWisUE_Z23arhgMZR-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQx/Njk1LTE3MjExNzY2/MjAtODYzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jYYUIkkaoHZYMLKRAXvFNnz6TpIy5Yz5eujqGaoMFk8/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQx/Njk1LTE3MjExNzY2/MjAtODYzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31241695",
+      "community": {
+        "want": 26,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32006870,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "DVD",
+        "DVD-Video",
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "602475217046",
+        "[Universal logo] 7521708 [Universal logo] DO25130-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9747",
+        "[Universal logo] 6806877 [Universal logo] AO22564-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9706"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/32006870-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "7521704",
+      "thumb": "https://i.discogs.com/WzKvtIN_BVShb_GIBvQP6977CO1rjT9Ef_El7ZrTxyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA2/ODcwLTE3MzE2NjUw/MjgtMjAxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wwOAFNcP2xULO7Ocw1oZHxgctwqwi4N6Qmo_II3tHHI/rs:fit/g:sm/q:90/h:849/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA2/ODcwLTE3MzE2NjUw/MjgtMjAxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32006870",
+      "community": {
+        "want": 56,
+        "have": 105
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "DVD",
+          "qty": "1",
+          "text": "Short Film",
+          "descriptions": [
+            "DVD-Video"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29672104,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "CD",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "0 602465 080551",
+        "602465080551",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29672104-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "6508055",
+      "thumb": "https://i.discogs.com/uua6hwq5iWS4PuEnvLIDpjabpD_YRXkbTXBesmzRIYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcy/MTA0LTE3MDY4NzU0/NjEtMzQwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/twXRv333AGOIw--3XvdEz0yjLCD19WR0bxfHdGFUjcw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcy/MTA0LTE3MDY4NzU0/NjEtMzQwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29672104",
+      "community": {
+        "want": 341,
+        "have": 292
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Cream",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1"
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Roundhouse Edition",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32098137,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51910 5",
+        "602458519105"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/32098137-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851910",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/32098137",
+      "community": {
+        "want": 21,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30302873,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Island Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/30302873-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/UksolEjUVV3f8l_jPoSrWNbf-nzF7dxzVzRY75xs0kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAy/ODczLTE3MTIyNTEy/MjgtNjE1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4qp0uVZpE_iJRW-dMYfjBOxxueYXMCWb2-weVOJET48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAy/ODczLTE3MTIyNTEy/MjgtNjE1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30302873",
+      "community": {
+        "want": 15,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29648242,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51904 4",
+        "602458519044",
+        "BIEM/SDRM",
+        "LC 00407"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29648242-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851904",
+      "thumb": "https://i.discogs.com/yxy_GWhMRXCWEhR4N60G1Fz8a_EZixKDtqLq6RnyOig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MjQyLTE3MDcwMDQ1/MzAtNzk3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oTWacnDKBX4PDl4h82mKinHms_M-l-wbsv9gvyZRJCQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MjQyLTE3MDcwMDQ1/MzAtNzk3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29648242",
+      "community": {
+        "want": 887,
+        "have": 4373
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Oxblood Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29792122,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo",
+        "CD",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Optimal Media GmbH",
+        "Rough Trade",
+        "Golding"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51910 5",
+        "602458519105",
+        "00602458867398",
+        "BIEM/SDRM",
+        "LC 00407",
+        "[Universal logo] 5851910 [Universal logo] AN07780-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9753",
+        "The Last Dinner Party U061 [Golding 'g' logo]"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29792122-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851910",
+      "thumb": "https://i.discogs.com/V7LoCx4mmELTR48ssHvk0O0LY_C-EQKTKTFUpHw5IKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzky/MTIyLTE3MDc4NTM0/NjctNjcwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/z6t5ogZwiOYksjHMm1laXIK39Thn86YiK9uIYGbPduI/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzky/MTIyLTE3MDc4NTM0/NjctNjcwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29792122",
+      "community": {
+        "want": 110,
+        "have": 189
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1"
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29844139,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51910 5",
+        "602458519095",
+        "(1251838) 00602458519105 04 0001",
+        "IFPI LV77",
+        "IFPI KKV7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29844139-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851910",
+      "thumb": "https://i.discogs.com/P5wEp3sZELjbCdaEmTto9JYhT6QOefLcQPXioeJDsec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ0/MTM5LTE3MDgyODI2/NjItNDM2NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yNpCkQBdxdfbqxAcGKpxPHM7iB44Q3z6mxFcBA7WJyc/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ0/MTM5LTE3MDgyODI2/NjItNDM2NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29844139",
+      "community": {
+        "want": 74,
+        "have": 211
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Official Signed Insert",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29664472,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "CD",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Universal Music Operations Ltd.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Rough Trade",
+        "Optimal Media GmbH",
+        "Sector 5 Studios",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51906 8",
+        "BIEM/SDRM",
+        "LC 00407",
+        "BN05217-01 A1 ST 5851903 II 7",
+        "BN05217-01 B1 ST 5851903 II 7",
+        "5886739 AN07483-01 manufactured by optimal media Gmbh [2 universal logos] ",
+        "IFPI L578"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29664472-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851906",
+      "thumb": "https://i.discogs.com/HRy6BV48UhvcclOlmMl_jDzySm3SWWFnEnwDPylGYjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjY0/NDcyLTE3MDY5NTg1/MzQtNjYxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nBzVPvFmmaaEUk6CJVNb0OKjze9w3JIusZKIRATen1c/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjY0/NDcyLTE3MDY5NTg1/MzQtNjYxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29664472",
+      "community": {
+        "want": 322,
+        "have": 1529
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Cream",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Rough Trade Bonus"
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29671876,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Universal International Music B.V.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Optimal Media GmbH",
+        "Kobalt Music Publishing",
+        "The Church, London",
+        "Sterling Sound Edgewater, NJ"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51910 5",
+        "602458519105",
+        "BIEM/SDRM",
+        "LC 00407",
+        "GBUM72303257",
+        "GBUM72309267",
+        "GBUM72309269",
+        "GBUM72309272",
+        "GBUM72309278",
+        "GBUM72309268",
+        "GBUM72309270",
+        "GBUM72305555",
+        "GBUM72307637",
+        "GBUM72309279",
+        "GBUM72301930",
+        "GBUM72309271",
+        "[Universal logo] 5851910 [Universal logo] AN07780-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9753",
+        "[Universal logo] 5851910 [Universal logo] AN07780-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9721"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29671876-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851910",
+      "thumb": "https://i.discogs.com/0W2l2taz0dKrrJekCIdBQHUIPWbOd-28dHHnq189_jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcx/ODc2LTE3MjQzMzQ2/MTYtNTc2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BWJhBP14wvFV_tSHom3UlsS0yB4vf_EdMJA3mTzRuIg/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcx/ODc2LTE3MjQzMzQ2/MTYtNTc2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29671876",
+      "community": {
+        "want": 154,
+        "have": 1013
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29677606,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Limited Edition",
+        "Special Edition"
+      ],
+      "label": [
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "602465003376"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29677606-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "602465003376",
+      "thumb": "https://i.discogs.com/jNykLUv3HMKtYnctyfHQNZnBb6zUW3qcAgO0GNal-yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc3/NjA2LTE3MDY5MTA5/MzUtNzE2My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/NagWwoJrGmMcFqz_1llZFnZ6pebWRN0NKz3t2qnMKas/rs:fit/g:sm/q:90/h:848/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc3/NjA2LTE3MDY5MTA5/MzUtNzE2My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29677606",
+      "community": {
+        "want": 91,
+        "have": 179
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "The Archives Zine Edition",
+          "descriptions": [
+            "Limited Edition",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34274935,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "The Church, London",
+        "Sterling Sound Edgewater, NJ",
+        "Universal Island Records Ltd.",
+        "The Last Dinner Party",
+        "The Last Dinner Party"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/34274935-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/LxxofLhZuMB3r-WObQ2cTmWAJHdw9Dn4WjU47Zm9gW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc0/OTM1LTE3NDk5OTE5/MDUtNjkxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vxeNfkJbJd-vnqkW4Q98Z7Jug4kVLJiM90t4wZeJj8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc0/OTM1LTE3NDk5OTE5/MDUtNjkxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34274935",
+      "community": {
+        "want": 14,
+        "have": 11
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-Bit / 48-kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29739412,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "BIG LOVE RECORDS"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51904 4",
+        "Island 585-1904-JPN"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29739412-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851904",
+      "thumb": "https://i.discogs.com/ClsUX3LgnZE1F5J37DwVbrJ1-4xh4fXXmLidhzNb7iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM5/NDEyLTE3MDc0MjQw/MjgtMzYyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nQnHmKMeizf-lDi36lcLDOF74V8XB0IxHZ9zmiZR6uw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzM5/NDEyLTE3MDc0MjQw/MjgtMzYyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29739412",
+      "community": {
+        "want": 226,
+        "have": 167
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Oxblood Red",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30182387,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51910 5",
+        "602458519095",
+        "(1251838)  00602458519105 04    0001",
+        "IFPI LV77",
+        "IFPI KKV7",
+        "(1251838)  00602458519105 03    0001",
+        "IFPI LV77",
+        "IFPI KKTV"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/30182387-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851910",
+      "thumb": "https://i.discogs.com/u4JxBdnQTUKZM902XQcfey3yi4vSZZDedSQRXNQf0ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTgy/Mzg3LTE3MzU2OTcw/OTAtOTc2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UVuhwwx0ZsziinG8OA-PSOibvOQhrwu9_SNVXC5QHy0/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTgy/Mzg3LTE3MzU2OTcw/OTAtOTc2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30182387",
+      "community": {
+        "want": 47,
+        "have": 172
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30097070,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Universal Island Records Ltd."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/30097070-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/DYKkxBtlIKUMecTmlmbYUR7aCPSTvGqP1-Zm1lJ9P_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk3/MDcwLTE3MTA0Mzk0/NzktNjI3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wNr3-rdXWd6KF0rkywOHjEkl9k2p5Q-6VbRorMZGLgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk3/MDcwLTE3MTA0Mzk0/NzktNjI3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30097070",
+      "community": {
+        "want": 13,
+        "have": 12
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24bit/48kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29680660,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Universal Music Operations Ltd.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "GZ Media",
+        "The Church, London",
+        "Sterling Sound Edgewater, NJ",
+        "Blood Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "LC00407",
+        "BIEM / SDRM",
+        "275204E1/A BLOOD269-A",
+        "275204E2/A BLOOD269-B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29680660-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "BLOOD269",
+      "thumb": "https://i.discogs.com/fKT_cZUHcaP5svTXnHhzsGRk-ncAeWjbetMU437VeTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njgw/NjYwLTE3MDcyNTY2/MTgtNjc1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XQ2wY8Xs5ozTvt-QbM_30A5PLjkuhWqKLopbvuThbm4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njgw/NjYwLTE3MDcyNTY2/MTgtNjc1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29680660",
+      "community": {
+        "want": 732,
+        "have": 941
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Wine Stain",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29648131,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Universal International Music B.V.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Universal International Music B.V.",
+        "Optimal Media GmbH",
+        "Kobalt Music Publishing",
+        "The Church, London",
+        "Sterling Sound Edgewater, NJ",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51903 7",
+        "602458519037",
+        "LC 00407",
+        "BIEM/SDRM",
+        "BN05217-01 A1 ST 5851903 VV",
+        "BN05217-01 B1 ST 5851903 VV",
+        "BN05217-01 A1 ST 1=v 5851903",
+        "BN05217-01 B1 ST 5851903 1=+",
+        "BN05217-01 A4 ST 5851903",
+        "BN05217-01 B2 ST 5851903 TIS",
+        "BN05217-01 A1 ST 5851903 2+",
+        "BN05217-01 B1 ST 2| 5851903"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29648131-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851903",
+      "thumb": "https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jGNDwxQCRZq5NHcv4FVquXBK837uZiVvC5tXA128mWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29648131",
+      "community": {
+        "want": 729,
+        "have": 5110
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29670682,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Universal International Music B.V.",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51908 2",
+        "0602458519082",
+        "BIEM/SDRM",
+        "LC 00407",
+        "7808337512O",
+        "0 602458 834901 >",
+        "BN05217-01 A1 ST XI|\\  5851903",
+        "BN05217-01 B1 ST XI|\\  5851903",
+        "BN05217-01 A1 ST \u03d11  5851903",
+        "BN05217-01 B1 ST \u22a4=\u2227  5851903"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29670682-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851908",
+      "thumb": "https://i.discogs.com/hz1D6BydsoRw0PSDRkwmO4_g54oUt7kHmGUpT6aW6mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcw/NjgyLTE3MDcyMzkz/MDctNjU4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hverX8tfTNwahzLTMiYFBeb1YowlgLtQc2NHxxXTd8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcw/NjgyLTE3MDcyMzkz/MDctNjU4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29670682",
+      "community": {
+        "want": 444,
+        "have": 2758
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Smokey Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29676631,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock",
+        "Baroque Pop"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Universal International Music B.V.",
+        "Kobalt Music Publishing",
+        "The Church, London",
+        "Optimal Media GmbH",
+        "Sterling Sound Edgewater, NJ"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51909 9",
+        "602458519099",
+        "BIEM/SDRM",
+        "LC 00407",
+        "B0CM5GCXHW",
+        "[Universal logo] 5851910 [Universal logo]  AN07780-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9708"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29676631-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851909",
+      "thumb": "https://i.discogs.com/gekuyjGpDdfzG8TKCgZLRIUJFnpprfV2TFOIhsHK61E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtNzA2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KEeAVVKX_UYMkYgbJRsj4cyT6xmvstkS9RI7ymLrQd8/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtNzA2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29676631",
+      "community": {
+        "want": 214,
+        "have": 369
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Amazon Signed Edition",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31700189,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Promo",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Universal Music Group",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal International",
+        "Universal Music LLC",
+        "Universal Music LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988031 644645",
+        "4988031644645",
+        "JASRAC",
+        "UICI-1163 1",
+        "IFPI L278",
+        "IFPI 45N3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/31700189-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "UICI-1163",
+      "thumb": "https://i.discogs.com/FOYYvxQuW5YS6V5DP4vkcMlhm2IimzS_ZlRVt2hU-7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzAw/MTg5LTE3MjU5Njkx/NzgtMjg2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-7Xw6kqOX2vMcetJRWONlrcf9qLx38u92CFwhR2Rfuc/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzAw/MTg5LTE3MjU5Njkx/NzgtMjg2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31700189",
+      "community": {
+        "want": 26,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37855473,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Germany",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Universal International Music B.V.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Universal International Music B.V.",
+        "Optimal Media GmbH",
+        "Kobalt Music Publishing",
+        "The Church, London",
+        "Sterling Sound Edgewater, NJ",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51903 7",
+        "602458519037",
+        "LC 00407",
+        "BIEM/SDRM",
+        "BN05217-01 A4 ST 5851903 +1E",
+        "BN05217-01 B2 ST 5851903 TIS JIV"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/37855473-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851903",
+      "thumb": "https://i.discogs.com/aSAaQ1yi40BNChqsijeVPXjHjdJkdcBJzHBVOjUf4xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU1/NDczLTE3ODM3ODQ3/MjAtODM1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KtzBwlk8gBRmQvoi6iG0wdvwSYx3BX25wedObjGAbRQ/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU1/NDczLTE3ODM3ODQ3/MjAtODM1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37855473",
+      "community": {
+        "want": 0,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29674792,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Baroque Pop"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51912 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29674792-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851912",
+      "thumb": "https://i.discogs.com/QZr1pB84VzV7qd465WwMq2DABubZYyaqjXeZCgdPnPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc0/NzkyLTE3MDY4OTE4/NDMtODUxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SmvdprufKxibCOOMlybLRucjUkQ7eDLlqyMfaGf-aKI/rs:fit/g:sm/q:90/h:911/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc0/NzkyLTE3MDY4OTE4/NDMtODUxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29674792",
+      "community": {
+        "want": 77,
+        "have": 254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29671765,
+      "title": "The Last Dinner Party - Prelude To Ecstasy",
+      "master_id": 3381640,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Picture Disc",
+        "Stereo"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02458 51905 1",
+        "602458519051",
+        "LC 00407",
+        "BIEM/SDRM",
+        "00602458519037 A -63713- 3 KR SST",
+        "00602458519037 B -63713- I KR SST"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/29671765-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+      "catno": "5851905",
+      "thumb": "https://i.discogs.com/_ujMKfdsxtBC3bwejRASu5C4YUHaqWwdKtUpuw-pNEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcx/NzY1LTE3MDY4NzIy/OTEtOTI3OC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/tndBlhP-1uog35tNjVTvpZWxujE8sx7K6iNbAubY8Zw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcx/NzY1LTE3MDY4NzIy/OTEtOTI3OC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29671765",
+      "community": {
+        "want": 277,
+        "have": 1952
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31944100,
+      "title": "The Last Dinner Party - Prelude To Ecstasy: Acoustics And Covers",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo",
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Schallplattenfabrik Pallas GmbH",
+        "Schallplattenfabrik Pallas GmbH",
+        "SST GmbH",
+        "The Church, London",
+        "Sensible Music Studios",
+        "The George Tavern",
+        "The Last Dinner Party Studio",
+        "Studio Brussel",
+        "Brudenell Social Club",
+        "Hebden Bridge Trades Club",
+        "Showbox SoDo",
+        "Sterling Sound Edgewater, NJ"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02465 72773 9",
+        "0602465727739",
+        "LC 00407",
+        "BIEM/SDRM",
+        "00602458519037 A Kr SST -63713-I",
+        "00602458519037 B Kr SST -63713-II",
+        "00602465727739 C Kr SST -64580-II",
+        "00602465727739 D Kr SST -64580-II"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/31944100-The-Last-Dinner-Party-Prelude-To-Ecstasy-Acoustics-And-Covers",
+      "catno": "6572773",
+      "thumb": "https://i.discogs.com/w4yCw3IKxuohoBYJMdvpot7rQpCmfDQ69GOCys8t5RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQ0/MTAwLTE3NDc2NTg1/NjktNzQ4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NvV6VOxOjbW1iHhq8CbNOPp1sVK4nLUUfb7TMt6gd8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQ0/MTAwLTE3NDc2NTg1/NjktNzQ4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31944100",
+      "community": {
+        "want": 246,
+        "have": 2379
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Amber [Translucent] ",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Amber [Translucent] ",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32580318,
+      "title": "The Last Dinner Party - Prelude To Ecstasy: Acoustics And Covers",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Special Edition",
+        "Stereo",
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Universal Music Operations Ltd.",
+        "Schallplattenfabrik Pallas GmbH",
+        "Schallplattenfabrik Pallas GmbH",
+        "SST GmbH",
+        "The Church, London",
+        "Sensible Music Studios",
+        "The George Tavern",
+        "The Last Dinner Party Studio",
+        "Studio Brussel",
+        "Brudenell Social Club",
+        "Hebden Bridge Trades Club",
+        "Showbox SoDo",
+        "Sterling Sound Edgewater, NJ"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02465 72773 9",
+        "0602465727739",
+        "LC 00407",
+        "00602458519037 A Kr SST -63713-I",
+        "00602458519037 B Kr SST -63713-II",
+        "00602465727739 C Kr SST -64580-II",
+        "00602465727739 D Kr SST -64580-II",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/32580318-The-Last-Dinner-Party-Prelude-To-Ecstasy-Acoustics-And-Covers",
+      "catno": "6572773",
+      "thumb": "https://i.discogs.com/qMDivW0tmSarjpz4fyQfruswzzV7unpLGiO0K_kNpOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTgw/MzE4LTE3MzUzNDA3/NzQtMzM5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wbxFD8Ngbf7mqMM_xFbRt9XnIOUKCMvP78G7f6Ewdyk/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTgw/MzE4LTE3MzUzNDA3/NzQtMzM5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32580318",
+      "community": {
+        "want": 137,
+        "have": 217
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Rough Trade Edition",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Special Edition",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Amber [Translucent] ",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32035886,
+      "title": "The Last Dinner Party - Prelude To Ecstasy: Acoustics And Covers",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo",
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "All Media",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Island Records",
+        "Island Records",
+        "Universal Music Operations Ltd.",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "The Church, London",
+        "Sensible Music Studios",
+        "The George Tavern",
+        "The Last Dinner Party Studio",
+        "Studio Brussel",
+        "Brudenell Social Club",
+        "Hebden Bridge Trades Club",
+        "Showbox SoDo",
+        "Sterling Sound Edgewater, NJ",
+        "Blood Records",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "LC00407",
+        "BIEM / SDRM",
+        "288457E1/A BLOOD369-A",
+        "288457E2/A BLOOD369-B",
+        "288457E3/C BLOOD369-C",
+        "288457E4/B BLOOD369-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/32035886-The-Last-Dinner-Party-Prelude-To-Ecstasy-Acoustics-And-Covers",
+      "catno": "BLOOD369",
+      "thumb": "https://i.discogs.com/hXyRip_cpy0r7NH3u2AtaArDYqUGtAHa7U8vzp0pX6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM1/ODg2LTE3MjkyNTM2/MzItOTA4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zT9_MF_9ujgTN3lJGHMch5rvZq72j3LBS0-i91GcO18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM1/ODg2LTE3MjkyNTM2/MzItOTA4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32035886",
+      "community": {
+        "want": 253,
+        "have": 1403
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Rosette",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Rosette",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31981499,
+      "title": "The Last Dinner Party - Prelude To Ecstasy: Acoustics And Covers",
+      "master_id": 3381640,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Island Records",
+        "Universal Music Operations Ltd.",
+        "Optimal Media GmbH",
+        "The Last Dinner Party",
+        "The Last Dinner Party",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02468 06877 8",
+        "602468068778",
+        "[Universal logo] 6806877 [Universal logo] AO22564-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9757",
+        "LC 00407"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3381640",
+      "uri": "/release/31981499-The-Last-Dinner-Party-Prelude-To-Ecstasy-Acoustics-And-Covers",
+      "catno": "6806877",
+      "thumb": "https://i.discogs.com/CIeFFuZpesW3k-oQEtwHHxXv8xOFUoCgFPuWWKvtgok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgx/NDk5LTE3MjkxODAx/MTctNzUzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SVz2t4zTySASObDtpBWo-NkQJ-C3gRyLY8u7uwQVwQc/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgx/NDk5LTE3MjkxODAx/MTctNzUzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31981499",
+      "community": {
+        "want": 56,
+        "have": 307
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3381640,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alt-Pop",
+      "Indie Rock",
+      "Alternative Rock",
+      "Baroque Pop"
+    ],
+    "main_release": 29676631,
+    "most_recent_release": 37855473,
+    "resource_url": "https://api.discogs.com/masters/3381640",
+    "uri": "https://www.discogs.com/master/3381640-The-Last-Dinner-Party-Prelude-To-Ecstasy",
+    "versions_url": "https://api.discogs.com/masters/3381640/versions",
+    "main_release_url": "https://api.discogs.com/releases/29676631",
+    "most_recent_release_url": "https://api.discogs.com/releases/37855473",
+    "num_for_sale": 423,
+    "lowest_price": 4.05,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/KEeAVVKX_UYMkYgbJRsj4cyT6xmvstkS9RI7ymLrQd8/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtNzA2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/KEeAVVKX_UYMkYgbJRsj4cyT6xmvstkS9RI7ymLrQd8/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtNzA2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/gekuyjGpDdfzG8TKCgZLRIUJFnpprfV2TFOIhsHK61E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtNzA2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 537
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iK1_PkaDXDLRhT8fIoX-4WiuK5kLQu5ycphXh6AnJ7Y/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtMTE1My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/iK1_PkaDXDLRhT8fIoX-4WiuK5kLQu5ycphXh6AnJ7Y/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtMTE1My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lKtX8giJHoHebMiSty1COdR1rRa3UKAt4aJbvwBBlag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NTAtMTE1My5qcGVn.jpeg",
+        "width": 600,
+        "height": 534
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/S31-C4Nlo1UDzClMd6HTm8Pg9-gxw_TsEv_oRPwgNzk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDc5MTA1/NTEtMjIzMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/S31-C4Nlo1UDzClMd6HTm8Pg9-gxw_TsEv_oRPwgNzk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDc5MTA1/NTEtMjIzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4ahvs5NHMCEf_hn1jDcaQhZxK0HA0gY4xieFw2oTdIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDc5MTA1/NTEtMjIzMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 537
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v89tKfiWIad1c3tcY6Obl9etNRaLX3JUPw3rP6UP5pA/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDMx/ODUtMzEwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/v89tKfiWIad1c3tcY6Obl9etNRaLX3JUPw3rP6UP5pA/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDMx/ODUtMzEwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1tc6jKN5pvwi8wmWa1hIrZLBg525XrTZLv6WwqOxbEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDMx/ODUtMzEwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 531
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rZP22di_wxytX522NnJzyHoQUkH6K2Q_Zq0Pg6Dy1xk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDktOTMxOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/rZP22di_wxytX522NnJzyHoQUkH6K2Q_Zq0Pg6Dy1xk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDktOTMxOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XyZOCBexKz3pb4b9qfjbu4AVtfevw3j2lrpmF5PaKe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDktOTMxOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MVg_qfD7LZOU67tcZMgtlpZvcHoPfrWxcLS8CXUTK5w/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDItNDgxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MVg_qfD7LZOU67tcZMgtlpZvcHoPfrWxcLS8CXUTK5w/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDItNDgxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/COqCcbqyPb52RkNDLuFGMihtgZpFSkd2TZTBizi6MT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3MDY5MDQ0/NDItNDgxOS5qcGVn.jpeg",
+        "width": 581,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/r6gWsOJx5o4DUHs7G9WqT5wUL-Y_KDYZ1_QIJSzDR2Y/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3NjEwNjM0/NTItNzE2NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/r6gWsOJx5o4DUHs7G9WqT5wUL-Y_KDYZ1_QIJSzDR2Y/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3NjEwNjM0/NTItNzE2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9y8cv5DJo4O3yuuwlMuj6vqctUSH6501zohKKKhnkqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njc2/NjMxLTE3NjEwNjM0/NTItNzE2NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 534
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Prelude To Ecstasy",
+        "extraartists": [
+          {
+            "name": "Alistair Goodwin (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Trombone",
+            "tracks": "",
+            "id": 14132071,
+            "resource_url": "https://api.discogs.com/artists/14132071"
+          },
+          {
+            "name": "Ashley Myall",
+            "anv": "",
+            "join": "",
+            "role": "Bassoon",
+            "tracks": "",
+            "id": 6422042,
+            "resource_url": "https://api.discogs.com/artists/6422042"
+          },
+          {
+            "name": "Alex Marshall (9)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 9230716,
+            "resource_url": "https://api.discogs.com/artists/9230716"
+          },
+          {
+            "name": "Midori Jaeger",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7237921,
+            "resource_url": "https://api.discogs.com/artists/7237921"
+          },
+          {
+            "name": "Roc\u00edo Bola\u00f1os",
+            "anv": "",
+            "join": "",
+            "role": "Clarinet",
+            "tracks": "",
+            "id": 5041842,
+            "resource_url": "https://api.discogs.com/artists/5041842"
+          },
+          {
+            "name": "Sam Becker",
+            "anv": "",
+            "join": "",
+            "role": "Double Bass",
+            "tracks": "",
+            "id": 6843427,
+            "resource_url": "https://api.discogs.com/artists/6843427"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Pasha Mansurov",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 3553770,
+            "resource_url": "https://api.discogs.com/artists/3553770"
+          },
+          {
+            "name": "Robyn Blair",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 14132074,
+            "resource_url": "https://api.discogs.com/artists/14132074"
+          },
+          {
+            "name": "Serafina Steer",
+            "anv": "",
+            "join": "",
+            "role": "Harp",
+            "tracks": "",
+            "id": 717324,
+            "resource_url": "https://api.discogs.com/artists/717324"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "Philip Howarth",
+            "anv": "",
+            "join": "",
+            "role": "Oboe",
+            "tracks": "",
+            "id": 6608413,
+            "resource_url": "https://api.discogs.com/artists/6608413"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Elsa Bradley",
+            "anv": "",
+            "join": "",
+            "role": "Timpani, Tubular Bells",
+            "tracks": "",
+            "id": 7491834,
+            "resource_url": "https://api.discogs.com/artists/7491834"
+          },
+          {
+            "name": "Chris Brewster (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trombone",
+            "tracks": "",
+            "id": 12221518,
+            "resource_url": "https://api.discogs.com/artists/12221518"
+          },
+          {
+            "name": "Bradley Jones (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 10226341,
+            "resource_url": "https://api.discogs.com/artists/10226341"
+          },
+          {
+            "name": "Lucy Humphris",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 7716967,
+            "resource_url": "https://api.discogs.com/artists/7716967"
+          },
+          {
+            "name": "Jenny Ames",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 3802148,
+            "resource_url": "https://api.discogs.com/artists/3802148"
+          },
+          {
+            "name": "Richard Jones (40)",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 5005859,
+            "resource_url": "https://api.discogs.com/artists/5005859"
+          },
+          {
+            "name": "Zami Jalil",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 6165266,
+            "resource_url": "https://api.discogs.com/artists/6165266"
+          },
+          {
+            "name": "Aleksandra Mansurova",
+            "anv": "Aleksandra Masurova",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 12448807,
+            "resource_url": "https://api.discogs.com/artists/12448807"
+          },
+          {
+            "name": "Chihiro Ono",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5995756,
+            "resource_url": "https://api.discogs.com/artists/5995756"
+          },
+          {
+            "name": "Emma Smith",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 319663,
+            "resource_url": "https://api.discogs.com/artists/319663"
+          },
+          {
+            "name": "Freya Goldmark",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 14132080,
+            "resource_url": "https://api.discogs.com/artists/14132080"
+          },
+          {
+            "name": "Lucy Wilkins",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 405765,
+            "resource_url": "https://api.discogs.com/artists/405765"
+          },
+          {
+            "name": "Paloma Deike",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3012775,
+            "resource_url": "https://api.discogs.com/artists/3012775"
+          },
+          {
+            "name": "Phillip Granell",
+            "anv": "Phil Granell",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5005864,
+            "resource_url": "https://api.discogs.com/artists/5005864"
+          },
+          {
+            "name": "Rosie Tompsett",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 1102654,
+            "resource_url": "https://api.discogs.com/artists/1102654"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          }
+        ],
+        "duration": "1:36"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Burn Alive",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alex Marshall (9)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 9230716,
+            "resource_url": "https://api.discogs.com/artists/9230716"
+          },
+          {
+            "name": "Midori Jaeger",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7237921,
+            "resource_url": "https://api.discogs.com/artists/7237921"
+          },
+          {
+            "name": "Sam Becker",
+            "anv": "",
+            "join": "",
+            "role": "Double Bass",
+            "tracks": "",
+            "id": 6843427,
+            "resource_url": "https://api.discogs.com/artists/6843427"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Pasha Mansurov",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 3553770,
+            "resource_url": "https://api.discogs.com/artists/3553770"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Elsa Bradley",
+            "anv": "",
+            "join": "",
+            "role": "Timpani",
+            "tracks": "",
+            "id": 7491834,
+            "resource_url": "https://api.discogs.com/artists/7491834"
+          },
+          {
+            "name": "Jenny Ames",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 3802148,
+            "resource_url": "https://api.discogs.com/artists/3802148"
+          },
+          {
+            "name": "Richard Jones (40)",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 5005859,
+            "resource_url": "https://api.discogs.com/artists/5005859"
+          },
+          {
+            "name": "Zami Jalil",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 6165266,
+            "resource_url": "https://api.discogs.com/artists/6165266"
+          },
+          {
+            "name": "Aleksandra Mansurova",
+            "anv": "Aleksandra Masurova",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 12448807,
+            "resource_url": "https://api.discogs.com/artists/12448807"
+          },
+          {
+            "name": "Chihiro Ono",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5995756,
+            "resource_url": "https://api.discogs.com/artists/5995756"
+          },
+          {
+            "name": "Emma Smith",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 319663,
+            "resource_url": "https://api.discogs.com/artists/319663"
+          },
+          {
+            "name": "Freya Goldmark",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 14132080,
+            "resource_url": "https://api.discogs.com/artists/14132080"
+          },
+          {
+            "name": "Lucy Wilkins",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 405765,
+            "resource_url": "https://api.discogs.com/artists/405765"
+          },
+          {
+            "name": "Paloma Deike",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3012775,
+            "resource_url": "https://api.discogs.com/artists/3012775"
+          },
+          {
+            "name": "Phillip Granell",
+            "anv": "Phil Granell",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5005864,
+            "resource_url": "https://api.discogs.com/artists/5005864"
+          },
+          {
+            "name": "Rosie Tompsett",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 1102654,
+            "resource_url": "https://api.discogs.com/artists/1102654"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Robertson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Caesar On A TV Screen",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alistair Goodwin (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Trombone",
+            "tracks": "",
+            "id": 14132071,
+            "resource_url": "https://api.discogs.com/artists/14132071"
+          },
+          {
+            "name": "Alex Marshall (9)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 9230716,
+            "resource_url": "https://api.discogs.com/artists/9230716"
+          },
+          {
+            "name": "Midori Jaeger",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7237921,
+            "resource_url": "https://api.discogs.com/artists/7237921"
+          },
+          {
+            "name": "Rebekah Rayner",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 10438693,
+            "resource_url": "https://api.discogs.com/artists/10438693"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Pasha Mansurov",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 3553770,
+            "resource_url": "https://api.discogs.com/artists/3553770"
+          },
+          {
+            "name": "Robyn Blair",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 14132074,
+            "resource_url": "https://api.discogs.com/artists/14132074"
+          },
+          {
+            "name": "Serafina Steer",
+            "anv": "",
+            "join": "",
+            "role": "Harp",
+            "tracks": "",
+            "id": 717324,
+            "resource_url": "https://api.discogs.com/artists/717324"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Flute",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Elsa Bradley",
+            "anv": "",
+            "join": "",
+            "role": "Timpani",
+            "tracks": "",
+            "id": 7491834,
+            "resource_url": "https://api.discogs.com/artists/7491834"
+          },
+          {
+            "name": "Chris Brewster (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trombone",
+            "tracks": "",
+            "id": 12221518,
+            "resource_url": "https://api.discogs.com/artists/12221518"
+          },
+          {
+            "name": "Bradley Jones (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 10226341,
+            "resource_url": "https://api.discogs.com/artists/10226341"
+          },
+          {
+            "name": "Lucy Humphris",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 7716967,
+            "resource_url": "https://api.discogs.com/artists/7716967"
+          },
+          {
+            "name": "Jenny Ames",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 3802148,
+            "resource_url": "https://api.discogs.com/artists/3802148"
+          },
+          {
+            "name": "Richard Jones (40)",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 5005859,
+            "resource_url": "https://api.discogs.com/artists/5005859"
+          },
+          {
+            "name": "Zami Jalil",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 6165266,
+            "resource_url": "https://api.discogs.com/artists/6165266"
+          },
+          {
+            "name": "Aleksandra Mansurova",
+            "anv": "Aleksandra Masurova",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 12448807,
+            "resource_url": "https://api.discogs.com/artists/12448807"
+          },
+          {
+            "name": "Chihiro Ono",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5995756,
+            "resource_url": "https://api.discogs.com/artists/5995756"
+          },
+          {
+            "name": "Emma Smith",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 319663,
+            "resource_url": "https://api.discogs.com/artists/319663"
+          },
+          {
+            "name": "Freya Goldmark",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 14132080,
+            "resource_url": "https://api.discogs.com/artists/14132080"
+          },
+          {
+            "name": "Lucy Wilkins",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 405765,
+            "resource_url": "https://api.discogs.com/artists/405765"
+          },
+          {
+            "name": "Paloma Deike",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3012775,
+            "resource_url": "https://api.discogs.com/artists/3012775"
+          },
+          {
+            "name": "Phillip Granell",
+            "anv": "Phil Granell",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5005864,
+            "resource_url": "https://api.discogs.com/artists/5005864"
+          },
+          {
+            "name": "Rosie Tompsett",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 1102654,
+            "resource_url": "https://api.discogs.com/artists/1102654"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar, Flute",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "3:49"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "The Feminine Urge",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alex Marshall (9)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 9230716,
+            "resource_url": "https://api.discogs.com/artists/9230716"
+          },
+          {
+            "name": "Midori Jaeger",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7237921,
+            "resource_url": "https://api.discogs.com/artists/7237921"
+          },
+          {
+            "name": "Sam Becker",
+            "anv": "",
+            "join": "",
+            "role": "Double Bass",
+            "tracks": "",
+            "id": 6843427,
+            "resource_url": "https://api.discogs.com/artists/6843427"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Jenny Ames",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 3802148,
+            "resource_url": "https://api.discogs.com/artists/3802148"
+          },
+          {
+            "name": "Richard Jones (40)",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 5005859,
+            "resource_url": "https://api.discogs.com/artists/5005859"
+          },
+          {
+            "name": "Zami Jalil",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 6165266,
+            "resource_url": "https://api.discogs.com/artists/6165266"
+          },
+          {
+            "name": "Aleksandra Mansurova",
+            "anv": "Aleksandra Masurova",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 12448807,
+            "resource_url": "https://api.discogs.com/artists/12448807"
+          },
+          {
+            "name": "Chihiro Ono",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5995756,
+            "resource_url": "https://api.discogs.com/artists/5995756"
+          },
+          {
+            "name": "Emma Smith",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 319663,
+            "resource_url": "https://api.discogs.com/artists/319663"
+          },
+          {
+            "name": "Freya Goldmark",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 14132080,
+            "resource_url": "https://api.discogs.com/artists/14132080"
+          },
+          {
+            "name": "Lucy Wilkins",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 405765,
+            "resource_url": "https://api.discogs.com/artists/405765"
+          },
+          {
+            "name": "Paloma Deike",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3012775,
+            "resource_url": "https://api.discogs.com/artists/3012775"
+          },
+          {
+            "name": "Phillip Granell",
+            "anv": "Phil Granell",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5005864,
+            "resource_url": "https://api.discogs.com/artists/5005864"
+          },
+          {
+            "name": "Rosie Tompsett",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 1102654,
+            "resource_url": "https://api.discogs.com/artists/1102654"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Robertson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "3:26"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "On Your Side",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Serafina Steer",
+            "anv": "",
+            "join": "",
+            "role": "Harp",
+            "tracks": "",
+            "id": 717324,
+            "resource_url": "https://api.discogs.com/artists/717324"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Elsa Bradley",
+            "anv": "",
+            "join": "",
+            "role": "Tubular Bells",
+            "tracks": "",
+            "id": 7491834,
+            "resource_url": "https://api.discogs.com/artists/7491834"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Robertson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "4:27"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Beautiful Boy",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Pasha Mansurov",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 3553770,
+            "resource_url": "https://api.discogs.com/artists/3553770"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Flute, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Flute, Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Piano",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          }
+        ],
+        "duration": "3:47"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Gjuha",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Organ",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Mandolin, Guitar",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          }
+        ],
+        "duration": "1:29"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Sinner",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alistair Goodwin (2)",
+            "anv": "",
+            "join": "",
+            "role": "Bass Trombone",
+            "tracks": "",
+            "id": 14132071,
+            "resource_url": "https://api.discogs.com/artists/14132071"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Robyn Blair",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 14132074,
+            "resource_url": "https://api.discogs.com/artists/14132074"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Chris Brewster (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trombone",
+            "tracks": "",
+            "id": 12221518,
+            "resource_url": "https://api.discogs.com/artists/12221518"
+          },
+          {
+            "name": "Bradley Jones (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 10226341,
+            "resource_url": "https://api.discogs.com/artists/10226341"
+          },
+          {
+            "name": "Lucy Humphris",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 7716967,
+            "resource_url": "https://api.discogs.com/artists/7716967"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          }
+        ],
+        "duration": "2:56"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "My Lady Of Mercy",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "2:55"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Portrait Of A Dead Girl",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alex Marshall (9)",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 9230716,
+            "resource_url": "https://api.discogs.com/artists/9230716"
+          },
+          {
+            "name": "Midori Jaeger",
+            "anv": "",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 7237921,
+            "resource_url": "https://api.discogs.com/artists/7237921"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Jenny Ames",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 3802148,
+            "resource_url": "https://api.discogs.com/artists/3802148"
+          },
+          {
+            "name": "Richard Jones (40)",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 5005859,
+            "resource_url": "https://api.discogs.com/artists/5005859"
+          },
+          {
+            "name": "Zami Jalil",
+            "anv": "",
+            "join": "",
+            "role": "Viola",
+            "tracks": "",
+            "id": 6165266,
+            "resource_url": "https://api.discogs.com/artists/6165266"
+          },
+          {
+            "name": "Aleksandra Mansurova",
+            "anv": "Aleksandra Masurova",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 12448807,
+            "resource_url": "https://api.discogs.com/artists/12448807"
+          },
+          {
+            "name": "Chihiro Ono",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5995756,
+            "resource_url": "https://api.discogs.com/artists/5995756"
+          },
+          {
+            "name": "Emma Smith",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 319663,
+            "resource_url": "https://api.discogs.com/artists/319663"
+          },
+          {
+            "name": "Freya Goldmark",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 14132080,
+            "resource_url": "https://api.discogs.com/artists/14132080"
+          },
+          {
+            "name": "Lucy Wilkins",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 405765,
+            "resource_url": "https://api.discogs.com/artists/405765"
+          },
+          {
+            "name": "Paloma Deike",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 3012775,
+            "resource_url": "https://api.discogs.com/artists/3012775"
+          },
+          {
+            "name": "Phillip Granell",
+            "anv": "Phil Granell",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 5005864,
+            "resource_url": "https://api.discogs.com/artists/5005864"
+          },
+          {
+            "name": "Rosie Tompsett",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 1102654,
+            "resource_url": "https://api.discogs.com/artists/1102654"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "4:57"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Nothing Matters",
+        "extraartists": [
+          {
+            "name": "Georgia Davies",
+            "anv": "",
+            "join": "",
+            "role": "Bass Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Alistair Goodwin",
+            "anv": "",
+            "join": "",
+            "role": "Bass Trombone",
+            "tracks": "",
+            "id": 3235908,
+            "resource_url": "https://api.discogs.com/artists/3235908"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Jimmy Robertson",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 292235,
+            "resource_url": "https://api.discogs.com/artists/292235"
+          },
+          {
+            "name": "Robyn Blair",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 14132074,
+            "resource_url": "https://api.discogs.com/artists/14132074"
+          },
+          {
+            "name": "Serafina Steer",
+            "anv": "",
+            "join": "",
+            "role": "Harp",
+            "tracks": "",
+            "id": 717324,
+            "resource_url": "https://api.discogs.com/artists/717324"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "",
+            "join": "",
+            "role": "Lead Guitar, Vocals [Additional]",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Chris Gehringer",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 326440,
+            "resource_url": "https://api.discogs.com/artists/326440"
+          },
+          {
+            "name": "Alan Moulder",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 2768,
+            "resource_url": "https://api.discogs.com/artists/2768"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Score, Conductor",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Bradley Jones (3)",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 10226341,
+            "resource_url": "https://api.discogs.com/artists/10226341"
+          },
+          {
+            "name": "Lucy Humphris",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 7716967,
+            "resource_url": "https://api.discogs.com/artists/7716967"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Guitar",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional], Organ, Piano, Synthesizer",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Abigail Morris",
+            "anv": "Morris",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105701,
+            "resource_url": "https://api.discogs.com/artists/14105701"
+          },
+          {
+            "name": "Aurora Nishevci",
+            "anv": "Nishevci",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105698,
+            "resource_url": "https://api.discogs.com/artists/14105698"
+          },
+          {
+            "name": "Emily Roberts (5)",
+            "anv": "Roberts",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132065,
+            "resource_url": "https://api.discogs.com/artists/14132065"
+          },
+          {
+            "name": "Georgia Davies",
+            "anv": "Davies",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14132068,
+            "resource_url": "https://api.discogs.com/artists/14132068"
+          },
+          {
+            "name": "Lizzie Mayland",
+            "anv": "Mayland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 14105695,
+            "resource_url": "https://api.discogs.com/artists/14105695"
+          },
+          {
+            "name": "Rhys Downing",
+            "anv": "Downing",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2436838,
+            "resource_url": "https://api.discogs.com/artists/2436838"
+          }
+        ],
+        "duration": "3:02"
+      },
+      {
+        "position": "",
+        "type_": "index",
+        "title": "Mirror/Outro",
+        "duration": "5:24",
+        "sub_tracks": [
+          {
+            "position": "12a",
+            "type_": "track",
+            "title": "Mirror",
+            "duration": "4:33"
+          },
+          {
+            "position": "12b",
+            "type_": "track",
+            "title": "Outro",
+            "duration": "0:51"
+          }
+        ]
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Last Dinner Party",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 12964128,
+        "resource_url": "https://api.discogs.com/artists/12964128",
+        "thumbnail_url": "https://i.discogs.com/VrEd-fI5k5Wji88DVwrHWkUJBG9riqRQ7PJ8ENhL1XU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyOTY0/MTI4LTE3NjE0Mzg2/MjAtOTI2Mi5qcGVn.jpeg"
+      }
+    ],
+    "title": "Prelude To Ecstasy",
+    "notes": "Prelude To Ecstasy:\r\n???x Test Pressing \r\n250x Oxblood *Big Love Japan Excl w/obi*\r\n500x Oxblood *Assai Records Excl w/obi*\r\n500x Cream *Roundhouse Edition Alt Cover*\r\n???x Oxblood *Indies*\r\n2000x Cream *Rough Trade Excl*\r\n2000x Spilled Red Wine Stain *Blood Records Excl*\r\n???x Smokey Marble *Record Store Excl*\r\n???x Picture Disc *Web Store Excl*\r\n???x Black\r\n???x Black *Signed Jackets*\r\n\r\nPrelude To Ecstasy (Acoustics & Covers):\r\n???x Translucent Amber\r\n3500x Rosette *Blood Records Excl*\r\n200x Translucent Amber *Assai Records Excl w/obi*\r\n500x Translucent Amber *Rough Trade Excl Hand Numbered mirror board Alt Cover*",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=tC5DX7hPQhU",
+        "title": "The Last Dinner Party - Prelude To Ecstasy",
+        "description": "'Prelude to Ecstasy,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord ser",
+        "duration": 97,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=t1gLp75csdA",
+        "title": "The Last Dinner Party - Portrait Of A Dead Girl",
+        "description": "'Portrait of a Dead Girl,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discor",
+        "duration": 298,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pETz4IMmeDU",
+        "title": "The Last Dinner Party - Nothing Matters",
+        "description": "\u201cPrelude To Ecstasy - our debut album will be yours on the 2nd February 2024 \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\nOur first ever single 'Nothing Matters' is out now \u2764\ufe0f\ud83c\udff9 https://tldp.lnk.to/nothingmattersID\n\nFollow The Last Dinner Party:\nInstagram: ht",
+        "duration": 184,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rviP4LEjaZo",
+        "title": "The Last Dinner Party - On Your Side",
+        "description": "Prelude To Ecstasy - our debut album will be yours on the 2nd February 2024 \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\nListen to 'On Your Side' here: https://tldp.lnk.to/onyoursideID\n\nFollow The Last Dinner Party:\nInstagram:/thelastdinnerparty  \nTiktok:/the",
+        "duration": 288,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Rn90THdOpd4",
+        "title": "The Last Dinner Party - The Feminine Urge",
+        "description": "'The Feminine Urge,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord serv",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=iGHtt_BdszI",
+        "title": "The Last Dinner Party - Mirror",
+        "description": "'Mirror,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord server, for aft",
+        "duration": 326,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=VhsUKk_UVbA",
+        "title": "The Last Dinner Party - Beautiful Boy",
+        "description": "'Beautiful Boy,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord server, ",
+        "duration": 228,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wqcYU_eoihU",
+        "title": "The Last Dinner Party - Caesar on a TV Screen",
+        "description": "Prelude To Ecstasy - our debut album will be yours on the 2nd February 2024 \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\n\nListen to 'Caesar on a TV screen' here: https://tldp.lnk.to/caesaronatvscreenVD\n\nFollow The Last Dinner Party:\nTikTok:/thelastdinnerparty",
+        "duration": 265,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=l4BWxFgmAjo",
+        "title": "The Last Dinner Party - Burn Alive",
+        "description": "'Burn Alive,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord server, for",
+        "duration": 202,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Hczus04VBlQ",
+        "title": "The Last Dinner Party - Gjuha",
+        "description": "'Gjuha,' taken from our debut album 'Prelude To Ecstasy' - OUT NOW \ud83c\udf47 https://tldp.lnk.to/preludetoecstasyID\u201d\n\nSign up to our mailing list and we'll tell you all our secrets: https://tldp.lnk.to/signup\nOr join us in The Parlour, or Discord server, for afte",
+        "duration": 91,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=EDYw6hxYJjk",
+        "title": "The Feminine Urge",
+        "description": "Provided to YouTube by Universal Music Group\n\nThe Feminine Urge \u00b7 The Last Dinner Party\n\nPrelude to Ecstasy\n\n\u2117 An Island Records recording; \u2117 2024 Dinner Party, under exclusive licence to Universal Music Operations Limited\n\nReleased on: 2024-02-02\n\nProduc",
+        "duration": 207,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3381640,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alt-Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Baroque Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

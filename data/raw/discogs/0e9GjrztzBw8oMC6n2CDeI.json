@@ -1,0 +1,1923 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602455119490",
+    "artist": "boygenius",
+    "title": "the record",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 26756471,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Alternative Rock"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "BIG LOVE RECORDS",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0037332-01 A -SS- 256119E1 1516189",
+        "B0037332-01-B-RE1 -SS- 257522E2 1522788"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26756471-boygenius-The-Record",
+      "catno": "00602455091758",
+      "thumb": "https://i.discogs.com/hLW2N-0DZDOuW2IQS6VACQ03S3vgL13YBtbOlhelCrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzU2/NDcxLTE2ODIwMjYx/NDItMzA5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qqVBpm17uRxQSkvmJk2SJCfHgccMlthlXqOzY9BTh-E/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzU2/NDcxLTE2ODIwMjYx/NDItMzA5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26756471",
+      "community": {
+        "want": 266,
+        "have": 84
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Beige & Pink Swirl [Bone], Obi",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26603456,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Optimal Media GmbH",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455099389",
+        "6 02455 09938 9",
+        "LC 06406",
+        "BIEM/SDRM",
+        "BMI",
+        "[Universal logo] 5509938 [Universal logo] AN89434-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9708",
+        "[Universal logo] 5509938 [Universal logo] AN89434-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9706",
+        "[Universal logo] 5509938 [Universal logo] AN89434-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9718",
+        "[Universal logo] 5509938 [Universal logo] AN89434-01 manufactured by optimal media GmbH",
+        "IFPI L576",
+        "IFPI 9701"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26603456-boygenius-The-Record",
+      "catno": "00602455099389",
+      "thumb": "https://i.discogs.com/s1wlQUVNKICi5c8uL0EGQy7UbQ8Z_cvUeTMEHNyv6R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTkzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6ZzKw_-EXWRIA3knx-uwnF8mQPNnf4Fr8QR8TT-J1s8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTkzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26603456",
+      "community": {
+        "want": 491,
+        "have": 1727
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26621405,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Urban Outfitters",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "82970625",
+        "B0037332-01 A -SS- 256119E1 1516189",
+        "B0037332-01-B-RE1 -SS- 257522E2 1522788"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26621405-boygenius-The-Record",
+      "catno": "B0037336-01",
+      "thumb": "https://i.discogs.com/DuoqEAicFBr1J1XFXpsFwDivbPEE9dA0NAW2vskYD8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIx/NDA1LTE2ODA0NTUw/ODItOTE2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AGWzINr7jSPognsxqkhshL_98PgfyhOQFzny4hGjrcc/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIx/NDA1LTE2ODA0NTUw/ODItOTE2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26621405",
+      "community": {
+        "want": 523,
+        "have": 1049
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Beige & Pink Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25842814,
+      "title": "boygenius - The Record",
+      "master_id": 0,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "File",
+        "FLAC",
+        "Single"
+      ],
+      "label": [
+        "Interscope Records",
+        "boygenius",
+        "boygenius"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/25842814-boygenius-The-Record",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/zbYb6MVeFKOoYNVgU3hu-6U_0USHL244-f_5i3CFPbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQy/ODE0LTE2NzQzMzgy/NjAtNTA5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/q6ID4SLFFS6b3PxGnPxkVy10HjHFI4sLMopyABwK3p4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQy/ODE0LTE2NzQzMzgy/NjAtNTA5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25842814",
+      "community": {
+        "want": 163,
+        "have": 307
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "3",
+          "descriptions": [
+            "FLAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27415872,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0037332-01 A -SS- 256119E1 1462912",
+        "B0037332-01 B -SS- 256119E2 1462910"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/27415872-boygenius-The-Record",
+      "catno": "B0037332-01",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/27415872",
+      "community": {
+        "want": 125,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Rejected",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26601641,
+      "title": "boygenius - The Record ",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "Universal International Music B.V.",
+        "GZ Media",
+        "GZ Media",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455067449",
+        "6 02455 06744 9",
+        "LC 06406",
+        "BIEM/SDRM",
+        "B0037332-01 A -SS- 256119E1 1462912",
+        "B0037332-01-B-RE1 -SS- 257522E2 1488722",
+        "00602455067449"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26601641-boygenius-The-Record-",
+      "catno": "00602455066077",
+      "thumb": "https://i.discogs.com/7Y_gDCI6qYnQSTjQF6QbSMO9wKzfJsL4IIO9Ld6JagA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NjQxLTE2ODAzNTMw/MzAtNTU4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fPzgjN72o7AdjuFduNK8a_ggvHsrBF62Ef-je325jZ4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NjQxLTE2ODAzNTMw/MzAtNTU4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26601641",
+      "community": {
+        "want": 875,
+        "have": 4837
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Blue Jay]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29797471,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "boygenius",
+        "boygenius",
+        "Interscope Records",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455066077",
+        "6 02455 06607 7",
+        "LC 06406",
+        "BIEM/SDRM",
+        "B0037332-01 A -SS- 256119E1 1772776",
+        "B0037332-01-RE2 -SS- 257522E2 1725467",
+        "B0037332-01 A -SS- 256119E1 1820466 02231021",
+        "B0037332-01-RE2 -SS- 257522E2 02213773 2203080 XXXXXXX"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/29797471-boygenius-The-Record",
+      "catno": "00602455066077",
+      "thumb": "https://i.discogs.com/K4j3YuU0f32zHoBmYoVEnu2mUS_UOw3FZxacDgyKazs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzk3/NDcxLTE3MDc5MDk4/NjUtNTc4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Z5fFFTrxS9BtJZNroAYp-gwLGKHJNV96S8r7hJnIohc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzk3/NDcxLTE3MDc5MDk4/NjUtNTc4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29797471",
+      "community": {
+        "want": 136,
+        "have": 1985
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26635757,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "country": "Australasia",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "Interscope Records",
+        "Universal Music Australia",
+        "Universal Music Australia",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 09938 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26635757-boygenius-The-Record",
+      "catno": "B003747502",
+      "thumb": "https://i.discogs.com/ioWHkVv5k-e-F-_MPWZBSOPyTk043sadL1ogw74uOV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM1/NzU3LTE2ODA1MTU5/ODQtNTUwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/j6a8nKrANOaoCh4lP0WczEBf1a3sQcPmv0K7mJokRD8/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM1/NzU3LTE2ODA1MTU5/ODQtNTUwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26635757",
+      "community": {
+        "want": 65,
+        "have": 112
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26601599,
+      "title": "boygenius - The Record ",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Interscope Records",
+        "Spotify"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06741 8",
+        "602455067418",
+        "6 02455 06607 7",
+        "B0037332-01-A -55- 1533235 256119E1",
+        "B0037332-01-B-REI -55- 1533100 257522E2",
+        "LC06406"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26601599-boygenius-The-Record-",
+      "catno": "0602455067418",
+      "thumb": "https://i.discogs.com/nd-Oj5m9xh9dWltvTMIokxPeaDAHvNptF-fwrMEYHAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NTk5LTE2ODAyNTUz/NTgtNjg1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bZ2leq_KzPvkbeBfr0WxLKiXB6x_aWggJx6WvC3rswk/rs:fit/g:sm/q:90/h:618/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NTk5LTE2ODAyNTUz/NTgtNjg1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26601599",
+      "community": {
+        "want": 491,
+        "have": 1623
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Custard Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26684918,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records",
+        "UMG Commercial Services",
+        "Boygenius",
+        "Boygenius",
+        "Interscope Records",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455066077",
+        "6 02455 06607 7",
+        "BMI",
+        "B0037332-01 A -SS- 1462912 256119E1",
+        "B0037332-01-B-RE1 -SS- 1523926 257522E2",
+        "B0037332-01 A -SS- 1516186 256119E1",
+        "B0037332-01-B-RE1 -SS- 1516174 257522E2",
+        "B0037332-01 A -SS- 1516187 256119E1",
+        "B0037332-01-B-RE1 -SS- 1537214 257522E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26684918-boygenius-The-Record",
+      "catno": "B0037332-01",
+      "thumb": "https://i.discogs.com/iZqv8f13i59_nrgF5BLTlb4b9gVeUMEDIgbh1LoOEEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/OTE4LTE2ODY1MTY2/NzUtNjkzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5AxJ6vampIdE81_wRhkpv6vHHxgjK_eKrvnTTDsuckA/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/OTE4LTE2ODY1MTY2/NzUtNjkzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26684918",
+      "community": {
+        "want": 469,
+        "have": 3235
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26597252,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455067432",
+        "B0037332-01 A -SS- 256119E1 1462912",
+        "B0037332-01-B-RE1 -SS- 257522E2 1516178",
+        "B0037332-01 A -SS- 256119E1 1516187",
+        "B0037332-01-B-RE1 -SS- 257522E2 1516173"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26597252-boygenius-The-Record",
+      "catno": "B0037337-01",
+      "thumb": "https://i.discogs.com/irWZLXXtMglPI4IFpXbpzPz6dstGiVF9Nnt8B_UjBsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk3/MjUyLTE2ODAyMDY1/MTEtNTQzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LAvhb1nw8IQOpNCvtboXTXX0pP4ObEUE-0IlOmZSQLw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk3/MjUyLTE2ODAyMDY1/MTEtNTQzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26597252",
+      "community": {
+        "want": 709,
+        "have": 4500
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26681225,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (Boygenius Self-released)",
+        "Shangri-La, Malibu, CA",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26681225-boygenius-The-Record",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/8CdS-VC_8rNvspMsugtmh-xSrxUQJu3cqGkGjTYlI2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njgx/MjI1LTE2ODA4ODM1/ODYtNzM5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ubKvjzRUtmsi2XRIp1O0Hmsagb7lOza0mJGkFZVV3Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njgx/MjI1LTE2ODA4ODM1/ODYtNzM5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26681225",
+      "community": {
+        "want": 24,
+        "have": 42
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24b / 48kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33211341,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Interscope Records",
+        "boygenius",
+        "boygenius"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/33211341-boygenius-The-Record",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Q4x67sh_fkP_xINfEolBUe_hcJrqr23260BYT0THi9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEx/MzQxLTE3NDAxOTI5/NDYtNzE0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nnRS8afkP6fXjj_QNqK-uU06HNAy0iZgIEuBCbBx2Dc/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjEx/MzQxLTE3NDAxOTI5/NDYtNzE0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33211341",
+      "community": {
+        "want": 57,
+        "have": 91
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Vinyl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30502057,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock",
+        "Dream Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/30502057-boygenius-The-Record",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/JbBY914lbr-OVbwVtEwwZxFGCS2YReO-Fpv0c97AYRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAy/MDU3LTE3MTQwNTg5/NTQtNTY3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/r-YkYDMoCkrXvP3KhN0GOHfD1oMm4B_kAFhCwcVu8cI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAy/MDU3LTE3MTQwNTg5/NTQtNTY3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30502057",
+      "community": {
+        "want": 12,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "Hi-Res 24-bit / 48 kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26616770,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "Interscope Records",
+        "UMG Commercial Services",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 09938 9",
+        "602455099389",
+        "BMI",
+        "(1213833) B003747502 02 0001 ",
+        "IFPI L779",
+        "IFPI KKBQ",
+        "(1213833) B003747502 01 0001 ",
+        "IFPI L779",
+        "IFPI KK01"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26616770-boygenius-The-Record",
+      "catno": "B0037475-02",
+      "thumb": "https://i.discogs.com/_q8CdIawo4Mpg6MCPrafbZ2QKuh7pDF4iQTOSY9IFlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE2/NzcwLTE2ODUyMzAx/MzUtMjYxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7o6iSMltRbcENvanV_V8V5dXde1M_gV3QMdZmAEIUeg/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE2/NzcwLTE2ODUyMzAx/MzUtMjYxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26616770",
+      "community": {
+        "want": 264,
+        "have": 1248
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26604833,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Interscope Records",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455066077",
+        "256119E2 1462912 -SS- B0037332-01 A",
+        "257522E2 1488722 -SS- B0037332-01-B-REI",
+        "256119E1 1516186 -SS- B0037332-01 A",
+        "257522E2 1533099 -SS- B0037322-01-B-RE1",
+        "256119E1 1462912 -SS- B0037332-01 A",
+        "257522E2 1488722 -SS- B0037332-01-B RE1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26604833-boygenius-The-Record",
+      "catno": "00602455066077",
+      "thumb": "https://i.discogs.com/FAEvMjEZGCDO-Fn6bWFqZgnXVfs5KgBPSBMC5uU8cy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA0/ODMzLTE3MjEzMjI0/MTktMjE5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9eWga4qt1Wuhh_zwVFAgKVPu5y5MAchI2g2iJCbdT0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA0/ODMzLTE3MjEzMjI0/MTktMjE5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26604833",
+      "community": {
+        "want": 558,
+        "have": 6366
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26599718,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "Boygenius",
+        "Boygenius",
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455091758",
+        "LC 06406",
+        "BIEM/SDRM",
+        "BMI",
+        "B0037332-01 A -SS- 1533235 256119E1",
+        "B0037332-01-B-RE1 -SS- 1533100 257522E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26599718-boygenius-The-Record",
+      "catno": "00602455091758",
+      "thumb": "https://i.discogs.com/7nZ9chHaouZ1G9-jL8BsQfYg1ODu7GQG03aWH7Ngy1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE3NTg1NTU4/NjctNjg0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lewodGbK36bwvuHFVhpuwfXX2UKZpW153TAqVPp5GGg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE3NTg1NTU4/NjctNjg0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26599718",
+      "community": {
+        "want": 596,
+        "have": 3838
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26603729,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Rough Trade",
+        "Media-Saturn Deutschland GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455067425"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26603729-boygenius-The-Record",
+      "catno": "00602455066077",
+      "thumb": "https://i.discogs.com/smigkN0Wq1NBz8R6LVL4vE1n8cboEKnNWRWZ3-MF7f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NzI5LTE2ODAzNTIx/OTktMzUzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5oF46eQ3B3jV_271FTtlgw1F5-ngrHOELzbMmLDN8bA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NzI5LTE2ODAzNTIx/OTktMzUzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26603729",
+      "community": {
+        "want": 454,
+        "have": 2599
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Beige Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36320077,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0037332-01 A -SS- 256119E1 1462912",
+        "B0037332-01-B-RE1 -SS- 257522E2 1488722"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/36320077-boygenius-The-Record",
+      "catno": "B0037332-01",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/36320077",
+      "community": {
+        "want": 20,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26610605,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Target"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06740 1",
+        "6 02455 06607 7",
+        "B0037332-01 A -SS- 256119E1 1516192",
+        "B0037332-01-B-RE1 -SS- 257522E2 1516174",
+        "B0037332-01 A -SS- 256119E1 1516187",
+        "B0037332-01-B-RE1 -SS- 257522E2 1516180",
+        "B0037332-01 A -SS- 256119E1 146292",
+        "B0037332-01-RE2 -SS- 257522E2 1719650",
+        "B0037332-01 A -SS- 256119E1 1521741",
+        "B0037332-01-RE2 -SS- 257522E2 1725467"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26610605-boygenius-The-Record",
+      "catno": "B0037335-01",
+      "thumb": "https://i.discogs.com/MipbHzHtUmh26Um1x5lemU98AoOD13ovtAW1qctof0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjEw/NjA1LTE2ODA0NTIy/NTgtMjE4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Bj14XBKMX-yVNy2l9mvI6XAvP9Fn4htNkW59jL9tj-Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjEw/NjA1LTE2ODA0NTIy/NTgtMjE4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26610605",
+      "community": {
+        "want": 578,
+        "have": 8646
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26596523,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "Universal International Music B.V.",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "boygenius",
+        "boygenius",
+        "Interscope Records",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06743 2",
+        "602455067432",
+        "LC 06406",
+        "BIEM/SDRM",
+        "B0037332-01 A -SS- 256119E1 1533235",
+        "B0037332-01-B-RE1 -SS- 257522E2 1567949"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26596523-boygenius-The-Record",
+      "catno": "00602455067432",
+      "thumb": "https://i.discogs.com/mUy-FeANEnbRsvfTyLy6ePSI-RoSA2hIcivAxklX1A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/NTIzLTE2ODAzNDk0/ODgtMTI0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sBB96kQu1n5ZE3_PItWIzasflKfkTZt-mbczfelWFYk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/NTIzLTE2ODAzNDk0/ODgtMTI0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26596523",
+      "community": {
+        "want": 607,
+        "have": 4412
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26785574,
+      "title": "boygenius - The Record ",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Spotify"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06741 8",
+        "602455067418",
+        "B0037332-01 A -SS-",
+        "1516191 256119E1",
+        "B0037332-01-B-REI -SS-",
+        "1523926 257522E2",
+        "B0037332-01"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26785574-boygenius-The-Record-",
+      "catno": "B0037340-01",
+      "thumb": "https://i.discogs.com/aQqEs21MgcHgB6gvCnjvsv5C-pMHR8XVvzFM3dFBGCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzg1/NTc0LTE3MzYxMTM1/NjktNDU5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hhUDgPHGdHVM1ppAMMMjnUQq2wbmhhsx_HhjpkftU_8/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzg1/NTc0LTE3MzYxMTM1/NjktNDU5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26785574",
+      "community": {
+        "want": 274,
+        "have": 496
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Custard Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26751314,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "North America (inc Mexico)",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "UMG Commercial Services",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios",
+        "Sony Songs",
+        "Sony Music Publishing (US) LLC",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06745 6",
+        "B0037332-01 A -SS- 1516186 256119E1",
+        "B0037332-01-B-RE1 -SS- 1533099 257522E2",
+        "B0037332-01",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26751314-boygenius-The-Record",
+      "catno": "B0037339-01",
+      "thumb": "https://i.discogs.com/iAtGwvHOx-9Eu9Az_h_vxohETk1MpYfSooDlUpO7Bgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MzE0LTE2ODE0MjIz/MTMtNzk0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eVsUlwgi7xrtm1eg-Mgq5KimzLrw-KYWkxoz4AlNGUg/rs:fit/g:sm/q:90/h:575/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MzE0LTE2ODE0MjIz/MTMtNzk0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26751314",
+      "community": {
+        "want": 271,
+        "have": 1085
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26601422,
+      "title": "boygenius - The Record",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "Universal International Music B.V.",
+        "GZ Media",
+        "GZ Media",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "602455067456",
+        "6 02455 06745 6",
+        "LC 06406",
+        "BIEM/SDRM",
+        "00602455067456",
+        "B0037332-01 A -SS- 256119E1 1533235",
+        "B0037332-01-B-RE1 -SS- 257522E2 1537214",
+        "B0037332-01 A -SS- 256119E1 1521741",
+        "B0037332-01-B-RE1 -SS- 257522E2 1516178"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26601422-boygenius-The-Record",
+      "catno": "00602455066077",
+      "thumb": "https://i.discogs.com/2qsuAdYoXV661y0CAsYM6NmmIMpHwZOMSKRh24myr3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NDIyLTE2ODAyNTc4/MTktNzY0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aX4bBn5V5cgoFbZx0bBgMjLgz-ichcKDq73o57WxEQw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAx/NDIyLTE2ODAyNTc4/MTktNzY0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26601422",
+      "community": {
+        "want": 385,
+        "have": 3683
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Silver",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26684951,
+      "title": "boygenius - The Record ",
+      "master_id": 3038081,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Soft Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Interscope Records",
+        "Interscope Records",
+        "boygenius",
+        "boygenius",
+        "UMG Commercial Services",
+        "GZ Media",
+        "GZ Media",
+        "Shangri-La, Malibu, CA",
+        "Sound City Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02455 06744 9",
+        "B0037332-01",
+        "B0037332-01 A -SS- 1462912 256119E1 ",
+        "B0037332-01-B-RE1 -SS- 1523927 257522E2 ",
+        "B0037332-01 A -SS- 1516192 256119E1",
+        "B0037332-01-B-RE1 -SS- 1527688 257522E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3038081",
+      "uri": "/release/26684951-boygenius-The-Record-",
+      "catno": "B0037338-01",
+      "thumb": "https://i.discogs.com/0UAlW1Aoc6b_4xhVNPzUkLEHEub5oCgKC_4Q0Vxmuxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/OTUxLTE2ODA5MDg2/NjUtOTEzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LecvYAPSi3PGg0--SMstgwZoyPdULfIX_i56YQUG68U/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/OTUxLTE2ODA5MDg2/NjUtOTEzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26684951",
+      "community": {
+        "want": 266,
+        "have": 1945
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Blue Jay]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3038081,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Indie Rock"
+    ],
+    "main_release": 26603456,
+    "most_recent_release": 29913712,
+    "resource_url": "https://api.discogs.com/masters/3038081",
+    "uri": "https://www.discogs.com/master/3038081-boygenius-The-Record",
+    "versions_url": "https://api.discogs.com/masters/3038081/versions",
+    "main_release_url": "https://api.discogs.com/releases/26603456",
+    "most_recent_release_url": "https://api.discogs.com/releases/29913712",
+    "num_for_sale": 494,
+    "lowest_price": 7.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/6ZzKw_-EXWRIA3knx-uwnF8mQPNnf4Fr8QR8TT-J1s8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTkzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/6ZzKw_-EXWRIA3knx-uwnF8mQPNnf4Fr8QR8TT-J1s8/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTkzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s1wlQUVNKICi5c8uL0EGQy7UbQ8Z_cvUeTMEHNyv6R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTkzNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 539
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jXcCocobZsma2wcWrqdqJkgaE9nTVPUKcisdldBm78k/rs:fit/g:sm/q:90/h:30/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzI5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jXcCocobZsma2wcWrqdqJkgaE9nTVPUKcisdldBm78k/rs:fit/g:sm/q:90/h:30/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzI5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/o85h7jaWOhQ_6XLg2kqs4BxGmSTW7ja-7Oi-YPj2lO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzI5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 30
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MjnA04uDnVOkHLVCDx260Lo0sWtey3O46Iv7v42fQvA/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtNDExNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MjnA04uDnVOkHLVCDx260Lo0sWtey3O46Iv7v42fQvA/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtNDExNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LYgfDBJgI-QsvmYcPOJZarxy28iv6SmbDHD1Pk-jtas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtNDExNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 539
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N-uObM_G6of_6TxmyjCrnS9zyyYy0-Zp_Nz5Iu3gWsQ/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTU5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/N-uObM_G6of_6TxmyjCrnS9zyyYy0-Zp_Nz5Iu3gWsQ/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTU5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VFKWWLBrUkR8We5JNsnvJ4ZRJ4GV9e1RgDjY8T50lG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTU5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 546
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9K1ci1TXxPJ5V1Oe8tP1l09FTGFgh0aN_2PBczXh21s/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzIwNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9K1ci1TXxPJ5V1Oe8tP1l09FTGFgh0aN_2PBczXh21s/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzIwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IqCQ-Tuwek1RQ5OcB5HQ7bEQQZW5c02ofhDpKzxxkHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMzIwNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 547
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jg0WjVJ1vJwQhv3MGQ1QnEDgMzj_Hu4qnEw__1hHEsY/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTc5OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jg0WjVJ1vJwQhv3MGQ1QnEDgMzj_Hu4qnEw__1hHEsY/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTc5OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/50GmDUtSpoRHxsaKehuaHkGQ6aVKYNGv0EtFppTaMVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtOTc5OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 526
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vK8tX-EZoH7hye1fEsC2vMxGYnBPfPVU99zBenPoil0/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtMzU0Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vK8tX-EZoH7hye1fEsC2vMxGYnBPfPVU99zBenPoil0/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtMzU0Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/flHLOrGUhbz_5_lnYxfnTq5Fv9rGG4ZaD1mwROjQNyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTMtMzU0Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 517
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2J4caUPxOVF1dnlRCZOQ6gFFcShyH_cg7SIH_M7Xwe8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI4/MTgtOTgzMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/2J4caUPxOVF1dnlRCZOQ6gFFcShyH_cg7SIH_M7Xwe8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI4/MTgtOTgzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ytqfp1MtJ3RJ1C-qlI9LDpLfy7JBfL1wbuw9znmnCU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI4/MTgtOTgzMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/at8FldAhFNfQc1rqw8Y-BM_z8v-RyHHKL8Dn8AaaLEk/rs:fit/g:sm/q:90/h:544/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTc4My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/at8FldAhFNfQc1rqw8Y-BM_z8v-RyHHKL8Dn8AaaLEk/rs:fit/g:sm/q:90/h:544/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTc4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XutEXyCyF9idlRirkFbeg_hhOYo7O6vGRddYl8KoL7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTU2NDI3/NTItMTc4My5qcGVn.jpeg",
+        "width": 543,
+        "height": 544
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SZ3iFbvtMT4-TTWvVjGZxEU2QJaIPln-Sxj1ESYEzRk/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDEtMTIzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SZ3iFbvtMT4-TTWvVjGZxEU2QJaIPln-Sxj1ESYEzRk/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDEtMTIzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kSrbgauoYu_fCcsCmpkaKuBf4qFD4jysVidrjTG0EnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDEtMTIzOC5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9lOBDVFOWOvTEzFbZHNmm15Q2GyivWchw64gch50zlU/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDAtNjM3NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9lOBDVFOWOvTEzFbZHNmm15Q2GyivWchw64gch50zlU/rs:fit/g:sm/q:90/h:600/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDAtNjM3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/poRWcX1bPnkHboqzB6Pvs4PfPj_7mNk9C6G1Cvz52_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODE5NDM0/NDAtNjM3NC5qcGVn.jpeg",
+        "width": 457,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_yqr3pma0GsRygG5DIU_V0gqbKFXSUqLCkl99si1BzQ/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODAyODQz/NTgtOTcwMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/_yqr3pma0GsRygG5DIU_V0gqbKFXSUqLCkl99si1BzQ/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODAyODQz/NTgtOTcwMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qUIYyAla9hdkETvd-mP_9T434nZ8mUfLtLzCQrVbJ5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODAyODQz/NTgtOTcwMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 533
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GUrEOkp8CAfhjJ8KGppzQF4mTsDaBlVxTyehwwwAJbw/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODUyODcz/NjYtMjkwNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GUrEOkp8CAfhjJ8KGppzQF4mTsDaBlVxTyehwwwAJbw/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODUyODcz/NjYtMjkwNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vCPJ9aRlmbHEHtJWEoMSBTgAGR-1W7RjY2c9Vpn24YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2ODUyODcz/NjYtMjkwNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 546
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BIFnnrmhG9hROXdRZo-oyGfEDfsTU5xn68t4zTe9Xco/rs:fit/g:sm/q:90/h:172/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MDUtNDUyOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/BIFnnrmhG9hROXdRZo-oyGfEDfsTU5xn68t4zTe9Xco/rs:fit/g:sm/q:90/h:172/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MDUtNDUyOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/_Q1D9vqyX3CYK5R1FHo1zCvOHggZj89ULyBr8k0F7iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MDUtNDUyOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 172
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1kp8shZtg2fkPgNJAKvyO7k3Adc1qemm6TZpZ5DIw7Y/rs:fit/g:sm/q:90/h:173/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MjktMjYzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/1kp8shZtg2fkPgNJAKvyO7k3Adc1qemm6TZpZ5DIw7Y/rs:fit/g:sm/q:90/h:173/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MjktMjYzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/exaYulyA0ak0McgwpTuthSrdmMlHWlEVEeQg4VnztAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAz/NDU2LTE2OTgzMzg2/MjktMjYzNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 173
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Without You Without Them",
+        "duration": "1:22"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "$20",
+        "duration": "3:20"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Emily I'm Sorry",
+        "duration": "3:35"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "True Blue",
+        "duration": "4:56"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Cool About It",
+        "duration": "3:00"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Not Strong Enough",
+        "duration": "3:55"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Revolution 0",
+        "duration": "4:17"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Leonard Cohen",
+        "duration": "1:42"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Satanist",
+        "duration": "4:50"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "We're In Love",
+        "duration": "4:55"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Anti-Curse",
+        "duration": "3:19"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Letter To An Old Poet",
+        "duration": "3:08"
+      }
+    ],
+    "artists": [
+      {
+        "name": "boygenius",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 6774153,
+        "resource_url": "https://api.discogs.com/artists/6774153",
+        "thumbnail_url": "https://i.discogs.com/5neiPqfoIuaYYDvacmHtoHGGNsURi-KZsd_OkOXS-4A/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NzQx/NTMtMTY3NDQ5MTAz/Ny02NjE1LmpwZWc.jpeg"
+      }
+    ],
+    "title": "The Record",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=DP3uaGax9cw",
+        "title": "boygenius \u2013 not strong enough \ufe5dslowed + reverb\ufe5e \ud83c\udf0c",
+        "description": "i think i've been having revelations\n\nlook at this viral mattress\n\u2193 affiliate link \u2193\nhttps://amzn.to/4alSppS\n\njoin amazon prime and enjoy convenience, entertainment, and savings\n\u2193 affiliate link \u2193\nhttps://amzn.to/4607Dyd\n\namazon prime video free trial her",
+        "duration": 324,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bfHpKnzGnnQ",
+        "title": "boygenius - Without You Without Them (official audio)",
+        "description": "boygenius - Without You Without Them (official audio)\n\nlisten to \u201cWithout You Without Them\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ni",
+        "duration": 82,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yJFaEfwu6J8",
+        "title": "boygenius - $20 (official audio)",
+        "description": "boygenius - $20 (official audio)\n\nlisten to \u201cthe record\u201d out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.lnk.to/instagram\ntwitter: ",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vsUH50GOih0",
+        "title": "boygenius - Emily I\u2019m Sorry (official audio)",
+        "description": "boygenius - Emily I\u2019m Sorry (official audio)\n\nlisten to \u201cthe record\u201d out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.lnk.to/instagr",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HQH1snAzwKE",
+        "title": "boygenius - True Blue (official audio)",
+        "description": "boygenius - True Blue (official audio)\n\nlisten to \u201cthe record\u201d out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.lnk.to/instagram\ntwi",
+        "duration": 297,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=G-XICfi4j3Q",
+        "title": "boygenius - Cool About It (official audio)",
+        "description": "boygenius - Cool About It (official audio)\n\nlisten to \u201cCool About It\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boyg",
+        "duration": 181,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bIX_ouNJsTs",
+        "title": "boygenius \u2013 Not Strong Enough (official music video)",
+        "description": "boygenius \u2013 Not Strong Enough (official music video)\n \nlisten to \u201cthe record\u201d out now: https://boygenius.lnk.to/therecord\n \nfollow boygenius:\n \nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.lnk.",
+        "duration": 236,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=X1uy0tKJCg8",
+        "title": "boygenius - Revolution 0 (official audio)",
+        "description": "boygenius - Revolution 0 (official audio)\n\nlisten to \u201cRevolution 0\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygen",
+        "duration": 258,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rlura6D_9qs",
+        "title": "boygenius - Letter To An Old Poet (official audio)",
+        "description": "boygenius - Letter To An Old Poet (official audio)\n\nlisten to \u201cLetter To An Old Poet\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagr",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hCRI9kXfKuM",
+        "title": "boygenius - Leonard Cohen (official audio)",
+        "description": "boygenius - Leonard Cohen (official audio)\n\nlisten to \u201cLeonard Cohen\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boyg",
+        "duration": 103,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-KWQ-g9ax1c",
+        "title": "boygenius - Satanist (official audio)",
+        "description": "boygenius - Satanist (official audio)\n\nlisten to \u201cSatanist\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.lnk.",
+        "duration": 291,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Fkc9-0XeNRY",
+        "title": "boygenius - We're In Love (official audio)",
+        "description": "boygenius - We're In Love (official audio)\n\nlisten to \u201cWe're In Love\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boyg",
+        "duration": 295,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-w4tZ4GVcqE",
+        "title": "boygenius - Anti-Curse (official audio)",
+        "description": "boygenius - Anti-Curse (official audio)\n\nlisten to \u201cAnti-Curse\u201d from \u201cthe record\u201d, out now: https://boygenius.lnk.to/therecord \n\nfollow boygenius:\n\nwebsite: https://www.xboygeniusx.com\nmerch store: https://www.boygenius.store\ninstagram: https://boygenius.",
+        "duration": 199,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3038081,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

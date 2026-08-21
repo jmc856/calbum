@@ -1,0 +1,1884 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "093624905981",
+    "artist": "Mac Miller",
+    "title": "Circles",
+    "year": 2020
+  },
+  "results": [
+    {
+      "id": 15392788,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624894308",
+        "000056775737"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15392788-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/wdVilyTIK7oj4SclIYcqhiUX_GzyOIHci5_Nuu5tLz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzky/Nzg4LTE1OTA3ODk2/OTEtNzQzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gikB_qNVcYM1YN-pEv85GBOVZOMi9uWYAZ-MJAc1XhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzky/Nzg4LTE1OTA3ODk2/OTEtNzQzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15392788",
+      "community": {
+        "want": 2695,
+        "have": 5467
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16092334,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Home, Los Angeles",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90599 8",
+        "093624905998",
+        "[Warner logo] 57399460/0093624905998 21",
+        "IFPI LP 73",
+        "IFPI 0721",
+        "IFPI 077Z",
+        "GEMA/BIEM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/16092334-Mac-Miller-Circles",
+      "catno": "093624905998",
+      "thumb": "https://i.discogs.com/7N_Mp8KkmkcjDu2LT81h26VnwjUyQ2HTv5vNjtJdwY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/MzM0LTE3NDY1NTQ2/NzgtNDYxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0LugwlWkFcmUa4KQ9sm1CJAUXxXnWoXbv658nHCcrP4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDky/MzM0LTE3NDY1NTQ2/NzgtNDYxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16092334",
+      "community": {
+        "want": 259,
+        "have": 497
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15397716,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15397716-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/01Hjbr3F3g8R9pZhQ5pR4QIm0e_nV3M8ASFgbHOs0LY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/NzE2LTE1OTA4Njky/ODEtMTQyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/goxmSvslbdA9o5HEWlmJlI3Gv2_9H5YCwSCPzr71_80/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/NzE2LTE1OTA4Njky/ODEtMTQyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15397716",
+      "community": {
+        "want": 590,
+        "have": 115
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14918390,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Australia",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "DW",
+        "Music Distribution Coalition",
+        "Music Distribution Coalition"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90599 8",
+        "093624905998",
+        "9362490599 6101001402 DW",
+        "ifpi LC17",
+        "ifpi K414"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/14918390-Mac-Miller-Circles",
+      "catno": "9362490599",
+      "thumb": "https://i.discogs.com/pB9gqVhRysQCCZmk4fhiHLst1acN0W5LX4EPOzYlx_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE4/MzkwLTE1ODQwNjM0/MDUtNjU1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CusoQtv0gjXSSHHJy8GtLluFZ3ORO-IPWgM6HkDmmN8/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE4/MzkwLTE1ODQwNjM0/MDUtNjU1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14918390",
+      "community": {
+        "want": 237,
+        "have": 160
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34362871,
+      "title": "Mac Miller - Circles",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Conscious",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Mac Miller)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/34362871-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Bq60mK5gAaiyB12Ze5_FIb3mx6y2mIarjQ72pmYQtTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzYy/ODcxLTE3NTA4MDg5/OTMtNTQ4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hwJz70EAYpuK14l73DhDGMOIA_AX1znY2r7YoEUgf9g/rs:fit/g:sm/q:90/h:949/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzYy/ODcxLTE3NTA4MDg5/OTMtNTQ4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34362871",
+      "community": {
+        "want": 6,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26444399,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Conscious",
+        "Pop Rap",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Buena onda tapes"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/26444399-Mac-Miller-Circles",
+      "catno": "BNND-001",
+      "thumb": "https://i.discogs.com/DMx_By-C3y4bQM5mS8KTBuEystqu6cbVtwADa_sDeBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ0/Mzk5LTE2NzkwMDE5/ODgtOTI4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aNFxHha7RMB-karKsRG3fSQYfv-bKZyA5raC1qfaOrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ0/Mzk5LTE2NzkwMDE5/ODgtOTI4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26444399",
+      "community": {
+        "want": 72,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15389727,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "Capitol Mastering",
+        "GZ Media",
+        "Precision Record Pressing",
+        "Blue Slide Park Music",
+        "You Can't Take It With You Music",
+        "Kobalt Songs Music Publishing",
+        "Universal Music Publishing",
+        "Bourne Co.",
+        "N 22nd Publishing",
+        "Grass Root Productions",
+        "Trio Music Company",
+        "Sony/ATV/ID Labs Worldwide Sound",
+        "Universal Publishing",
+        "Baro Sarka",
+        "Garrett Wayne Stevenson",
+        "V. Wainstein",
+        "Just Isn't Music Ltd.",
+        "Jeff Gitty Music",
+        "Songs Of Global Entertainment",
+        "Spirit One Music",
+        "Alexander Manzano"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90559 2",
+        "093624905592",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "APRA",
+        "SECAC",
+        "GEMA",
+        "093624905592-A RE 2 IS 10-87686/093624905592-A/WR MASTERED BY CAPITOL 203186E1/A1",
+        "093624905592-B RE 2 IS 10-87686/093624905592-B/WR 203186E2/A1",
+        "093624905592-C IS 10-87686/093624905592-C/WR MASTERED BY CAPITOL 203186E3/A",
+        "093624905592-D IS 10-87686/093624905592-D/WR 203186E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15389727-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/YQj1DsQKGCfoYrnBDr0ptLybyTRECY-i8bPXorPA7PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NzI3LTE1OTA3NjAz/MTEtNDQzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/c51Cvc_q5KUd5wndINI_O5woT1RCXczP21VNKalFcO0/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/NzI3LTE1OTA3NjAz/MTEtNDQzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15389727",
+      "community": {
+        "want": 2475,
+        "have": 9247
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15040115,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Bernie Grundman Mastering",
+        "Capitol Mastering",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592",
+        "093624905592-A RE 2 IS 10-87686/093624905592-A/WR MASTERED BY CAPITOL 203186E1/A1",
+        "093624905592-B RE 2 IS 10-87686/093624905592-B/WR 203186E2/A1",
+        "093624905592-C IS 10-87686/093624905592-C/WR MASTERED BY CAPITOL 203186E3/A",
+        "093624905592-D IS 10-87686/093624905592-D/WR 203186E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15040115-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/rr69rH4CydHj25Q_dNL50jGLOB8QcojfHRoB1zFXhGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/MTE1LTE1ODU4NzIx/NDgtNTkzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0XxFiKcwiJaZEbvWsEBjDOrJQivJztO8IZz8TwUC1xA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/MTE1LTE1ODU4NzIx/NDgtNTkzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15040115",
+      "community": {
+        "want": 4678,
+        "have": 27527
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14671543,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/14671543-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/0UfIU1vUT6AMmsl5R1773IDIyPqp4etT-t-qU5h0Zk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NTQzLTE1ODcxMzEy/NTctNzA0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ihVYGCVoDqpnpIsnnAWJxGT2EJe2BCVGv8TETIN37fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NTQzLTE1ODcxMzEy/NTctNzA0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14671543",
+      "community": {
+        "want": 162,
+        "have": 32
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "VBR",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31325776,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "GZ Media",
+        "GZ Media",
+        "Precision Record Pressing",
+        "Blue Slide Park Music",
+        "You Can't Take It With You Music",
+        "Kobalt Songs Music Publishing",
+        "Universal Music Publishing",
+        "Bourne Co.",
+        "N 22nd Publishing",
+        "Grass Root Productions",
+        "Trio Music Company",
+        "Sony/ATV/ID Labs Worldwide Sound",
+        "Universal Publishing",
+        "Baro Sarka",
+        "Garrett Wayne Stevenson",
+        "V. Wainstein",
+        "Just Isn't Music Ltd.",
+        "Jeff Gitty Music",
+        "Songs Of Global Entertainment",
+        "Spirit One Music",
+        "Alexander Manzano"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592",
+        "0 93624 90559 2",
+        "BMI",
+        "ASCAP",
+        "SESAC",
+        "PRS",
+        "APRA",
+        "GEMA",
+        "093624905592-A CB 10-87686/093624905592-A/WR 203186E1 1709385",
+        "093624905592-B CB 10-87686/093624905592-B/WR 203186E2 1701010",
+        "093624905592-C CB 10-87686/093624905592-C/WR 202389E3 1695024",
+        "093624905592-D CB 10-87686/093624905592-D/WR 202389E4 1693760"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/31325776-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/UvvvPUJYEMWHNnQ1pbTKOIY09aVNRAwdIfEfq5kr3BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI1/Nzc2LTE3MjIwMjE0/NTMtNjg5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ffJiMRzJWYEGS-wRjBfOy1cFS3l32NtapZW3oDrvcWM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI1/Nzc2LTE3MjIwMjE0/NTMtNjg5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31325776",
+      "community": {
+        "want": 180,
+        "have": 862
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14667931,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Warner Records Inc.",
+        "Conway Studios",
+        "Bernie Grundman Mastering"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/14667931-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/N53fgSyu8lotOsvXeB1Bd1uorWPyIfq9nFpBWHV5oQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY3/OTMxLTE1ODcxMzEy/ODQtMzE0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/InVLXgaIqLbF_iMq9QHAUIw34ja-PKkG8C36oBqog1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY3/OTMxLTE1ODcxMzEy/ODQtMzE0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14667931",
+      "community": {
+        "want": 497,
+        "have": 384
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "Hi-Res 24bit / 44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15657181,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "Capitol Mastering",
+        "GZ Media",
+        "Precision Record Pressing",
+        "Blue Slide Park Music",
+        "You Can't Take It With You Music",
+        "Kobalt Songs Music Publishing",
+        "Universal Music Publishing",
+        "Bourne Co.",
+        "N 22nd Publishing",
+        "Grass Root Productions",
+        "Trio Music Company",
+        "Sony/ATV/ID Labs Worldwide Sound",
+        "Universal Publishing",
+        "Baro Sarka",
+        "Garrett Wayne Stevenson",
+        "V. Wainstein",
+        "Just Isn't Music Ltd.",
+        "Jeff Gitty Music",
+        "Songs Of Global Entertainment",
+        "Spirit One Music",
+        "Alexander Manzano"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592",
+        "0 93624 90559 2",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "APRA",
+        "SESAC",
+        "GEMA",
+        "093624905592-A RE 2 IS 10-87686/093624905592-A/WR MASTERED BY CAPITOL 203186E1/A1",
+        "093624905592-B RE 2 IS 10-87686/093624905592-B/WR 203186E2/A1",
+        "093624905592-C IS 10-87686/093624905592-C/WR MASTERED BY CAPITOL 203186E3/A",
+        "093624905592-D IS 10-87686/093624905592-D/WR 203186E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15657181-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/uNVMv1pCzd9j1ZfoSrWOLDAgg7Hc46SxjEnGecKHRxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/MTgxLTE1OTUzNjE1/NjYtNjMzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FH1nhE2TejKfpWwTynMKZUDeGnhty5Obf88HWE43jZI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjU3/MTgxLTE1OTUzNjE1/NjYtNjMzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15657181",
+      "community": {
+        "want": 1875,
+        "have": 6709
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37394667,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Warner Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/37394667-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/37394667",
+      "community": {
+        "want": 7,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15444238,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Canada",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90599 8",
+        "093624905998"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/15444238-Mac-Miller-Circles",
+      "catno": "093624905998",
+      "thumb": "https://i.discogs.com/9hfzp2IpLah59Ka4Pmy_rWtUWUqvR8qev3YcJ7cw1aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ0/MjM4LTE1OTE2Mjcy/MzMtNzUxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Bvdwgba9fic47fgyYLVqkgzwHLiRdL9Ky4TX-_FEhAY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ0/MjM4LTE1OTE2Mjcy/MzMtNzUxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15444238",
+      "community": {
+        "want": 232,
+        "have": 297
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14876569,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90599 8",
+        "093624905998",
+        "[Warner logo] 57399460/0093624905998 21",
+        "IFPI LP 73",
+        "IFPI 078Z"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/14876569-Mac-Miller-Circles",
+      "catno": "093624905998",
+      "thumb": "https://i.discogs.com/HjI--MH-_NShDnWQDQJl14q1EB5L6ynjvvD57JBATlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc2/NTY5LTE1ODQ1MDQz/NjYtNDYzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MneqFjE-hNamFFVJkC2zRyqU7qxICbcNgog2gDzkXxM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc2/NTY5LTE1ODQ1MDQz/NjYtNDYzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14876569",
+      "community": {
+        "want": 617,
+        "have": 1818
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28067428,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Bernie Grundman Mastering",
+        "Capitol Mastering",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592",
+        "093624905592-A RE 2 IS 10-87686/093624905592-A/WR MASTERED BY CAPITOL 203186E1/A1",
+        "093624905592-B RE 2 IS 10-87686/093624905592-B/WR 203186E2/A1",
+        "093624905592-C IS 10-87686/093624905592-C/WR MASTERED BY CAPITOL 203186E3/A",
+        "093624905592-D IS 10-87686/093624905592-D/WR 203186E4/A",
+        "0093624905592"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/28067428-Mac-Miller-Circles",
+      "catno": "0093624905592",
+      "thumb": "https://i.discogs.com/wIieap64uSI6J4PIKqgi8DMmW7c6zQggQ7NetQQg0VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY3/NDI4LTE2OTI5MDk3/NDEtNTg4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XPaedWuQ8GK1ucRC24dpuQYenCmWNNdI8N1t8C2W7og/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY3/NDI4LTE2OTI5MDk3/NDEtNTg4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28067428",
+      "community": {
+        "want": 270,
+        "have": 738
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21028147,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1494022962"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/21028147-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/HAg2UJ_edFnR--QLkMtLbq_y9mw2JhPkeGj3EGnJaqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTQ3LTE2MzcyNDMw/MjEtNTkxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-Cq1NLkCM-inLcEhOEQTBdY1Sgvg3QkC2-kU_STKDFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTQ3LTE2MzcyNDMw/MjEtNTkxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21028147",
+      "community": {
+        "want": 1286,
+        "have": 1288
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21028114,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1501337739"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/21028114-Mac-Miller-Circles",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/oy9N4eQUxgTC1wYbgG9agZHzVQEJIc7ByPgJ9He7nWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTE0LTE2MzcyNDI5/MDMtOTA1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GIe9RFaMHfptiTl1M9ftx1HINSt0WFOSRkduwcpMHIA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI4/MTE0LTE2MzcyNDI5/MDMtOTA1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21028114",
+      "community": {
+        "want": 87,
+        "have": 39
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31187389,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "GZ Media",
+        "GZ Media",
+        "Precision Record Pressing",
+        "Blue Slide Park Music",
+        "You Can't Take It With You Music",
+        "Kobalt Songs Music Publishing",
+        "Universal Music Publishing",
+        "Bourne Co.",
+        "N 22nd Publishing",
+        "Grass Root Productions",
+        "Trio Music Company",
+        "Sony/ATV/ID Labs Worldwide Sound",
+        "Universal Publishing",
+        "Baro Sarka",
+        "Garrett Wayne Stevenson",
+        "V. Wainstein",
+        "Just Isn't Music Ltd.",
+        "Jeff Gitty Music",
+        "Songs Of Global Entertainment",
+        "Spirit One Music",
+        "Alexander Manzano"
+      ],
+      "type": "release",
+      "barcode": [
+        "093624905592",
+        "0 93624 90559 2",
+        "GEMA/BIEM",
+        "BMI",
+        "ASCAP",
+        "SESAC",
+        "PRS",
+        "GEMA",
+        "APRA",
+        "093624905592-A CB 10-87686/093624905592-A/WR 203186E1 1509931",
+        "093624905592-B CB 10-87686/093624905592-B/WR 203186E2 1573579",
+        "093624905592-C CB 10-87686/093624905592-C/WR 202389E3 1521430",
+        "093624905592-D CB 10-87686/093624905592-D/WR 202389E4 1569304"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/31187389-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/y2XaFBtv9JPfU7rVojujWX-TtawdYIsgo0hoh4Xq5Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg3/Mzg5LTE3MzU1MDA0/NTYtNjk0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Zqi72X2iIfG8DGirxWwtCvr5oQHcGSyYa4NMMokPddo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg3/Mzg5LTE3MzU1MDA0/NTYtNjk0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31187389",
+      "community": {
+        "want": 123,
+        "have": 202
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29579197,
+      "title": "Mac Miller - Circles",
+      "master_id": 1669934,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "REMember Music",
+        "Warner Music Group",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Conway Studios",
+        "United Recording Studios",
+        "Room 719, Burbank, CA",
+        "Capitol Studios",
+        "Ameraycan Studios",
+        "Elias Arts",
+        "Eastwest Studios",
+        "Record Plant, Los Angeles",
+        "REC Studios, Sydney",
+        "Island Sound Studios, Hawaii",
+        "Apex Studio, Burbank, CA",
+        "Bernie Grundman Mastering",
+        "Capitol Mastering",
+        "Precision Records",
+        "GZ Media",
+        "GZ Media",
+        "Blue Slide Park Music",
+        "You Can't Take It With You Music",
+        "Kobalt Songs Music Publishing",
+        "Universal Music Publishing",
+        "Bourne Co.",
+        "N 22nd Publishing",
+        "Grass Root Productions",
+        "Trio Music Company",
+        "Sony/ATV/ID Labs Worldwide Sound",
+        "Universal Publishing",
+        "Baro Sarka",
+        "Garrett Wayne Stevenson",
+        "V. Wainstein",
+        "Just Isn't Music Ltd.",
+        "Jeff Gitty Music",
+        "Songs Of Global Entertainment",
+        "Spirit One Music",
+        "Alexander Manzano"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 90559 2",
+        "093624905592",
+        "BMI",
+        "ASCAP",
+        "PRS",
+        "APRA",
+        "SESAC",
+        "GEMA",
+        "093624905592-A RE 2 IS 10-87686/093624905592-A/WR MASTERED BY CAPITOL 203186E1/A7",
+        "093624905592-B RE 2 IS 10-87686/093624905592-B/WR 203186E2/A4",
+        "093624905592-C IS 10-87686/093624905592-C/WR MASTERED BY CAPITOL 202389E3/A3",
+        "093624905592-D IS 10-87686/093624905592-D/WR 202389E4/9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1669934",
+      "uri": "/release/29579197-Mac-Miller-Circles",
+      "catno": "093624905592",
+      "thumb": "https://i.discogs.com/K7jtkI9Bn4tm71qrJdEBRAedHuXNc_P98XWfX2WcT14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc5/MTk3LTE3MDYwNDE0/NDUtMTcxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3cZV2vxSgl1CULrPVU-53TKN70A95gMjUy0yBs1cshc/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc5/MTk3LTE3MDYwNDE0/NDUtMTcxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29579197",
+      "community": {
+        "want": 159,
+        "have": 394
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16478229,
+      "title": "Mac Miller - Swimming In Circles",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Box Set",
+        "Compilation",
+        "Limited Edition",
+        "Vinyl",
+        "LP",
+        "Album",
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Warner Records",
+        "Warner Records Inc.",
+        "Warner Records Inc.",
+        "Warner Music Group",
+        "Capitol Mastering",
+        "GZ Media",
+        "GZ Media",
+        "Memphis Record Pressing",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 93624 89210 6",
+        "093624892106",
+        "210500E1/A MRP2758/1-571455-A 24431 3A 1-571455",
+        "210500E2/A1 MRP2758/1-571455-B 24431 3B 1-571455",
+        "210500E3/A MRP2758/1-571455-C 24431 3C 1-571455",
+        "210500E4/AA MRP2758/1-571455-D 24431 3D 1-571455",
+        "203186E1/A2 10-87686/093624905592 - A / WR 093624905592-A RE2",
+        "203186E2/A4 10-87686/0936249055 92 - B / WR 093624905592-B",
+        "202389E3/A2 10-87686/093624905592 - C / WR 093624905592-C",
+        "202389E4/A6 10-87686/093624905592 - D / WR 093624905592-D",
+        "MASTERED BY CAPITOL"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/16478229-Mac-Miller-Swimming-In-Circles",
+      "catno": "093624892106",
+      "thumb": "https://i.discogs.com/hs9wV5ewLNvw-VLm8YkgLdPqq4cBOwEa9EHVa9_a7MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDc4/MjI5LTE2MDgyODk2/NTAtMjc0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/G1YLuW6KcGbAA0sIDCC_tcv1JCYMdqqe3XcUgtmWq0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDc4/MjI5LTE2MDgyODk2/NTAtMjc0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16478229",
+      "community": {
+        "want": 3370,
+        "have": 8937
+      },
+      "format_quantity": 4,
+      "formats": [
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Compilation",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue (Dark)",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue (Light)",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1669934,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul",
+      "Blues"
+    ],
+    "styles": [
+      "Conscious"
+    ],
+    "main_release": 14671543,
+    "most_recent_release": 36096796,
+    "resource_url": "https://api.discogs.com/masters/1669934",
+    "uri": "https://www.discogs.com/master/1669934-Mac-Miller-Circles",
+    "versions_url": "https://api.discogs.com/masters/1669934/versions",
+    "main_release_url": "https://api.discogs.com/releases/14671543",
+    "most_recent_release_url": "https://api.discogs.com/releases/36096796",
+    "num_for_sale": 308,
+    "lowest_price": 3.55,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ihVYGCVoDqpnpIsnnAWJxGT2EJe2BCVGv8TETIN37fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NTQzLTE1ODcxMzEy/NTctNzA0OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ihVYGCVoDqpnpIsnnAWJxGT2EJe2BCVGv8TETIN37fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NTQzLTE1ODcxMzEy/NTctNzA0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0UfIU1vUT6AMmsl5R1773IDIyPqp4etT-t-qU5h0Zk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NTQzLTE1ODcxMzEy/NTctNzA0OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Circles",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "2:50"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Complicated",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "3:52"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Blue World",
+        "extraartists": [
+          {
+            "name": "Guy Lawrence (3)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3250298,
+            "resource_url": "https://api.discogs.com/artists/3250298"
+          }
+        ],
+        "duration": "3:29"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Good News",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "5:42"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "I Can See",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Shea Taylor",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 321127,
+            "resource_url": "https://api.discogs.com/artists/321127"
+          }
+        ],
+        "duration": "3:40"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Everybody",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "4:16"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Woods",
+        "extraartists": [
+          {
+            "name": "David X Eli",
+            "anv": "DAVID x ELI",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4845292,
+            "resource_url": "https://api.discogs.com/artists/4845292"
+          },
+          {
+            "name": "E. Dan",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 528417,
+            "resource_url": "https://api.discogs.com/artists/528417"
+          }
+        ],
+        "duration": "4:46"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Hand Me Downs",
+        "extraartists": [
+          {
+            "name": "Baro Sarka",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 7605332,
+            "resource_url": "https://api.discogs.com/artists/7605332"
+          },
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "4:58"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "That's On Me",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "3:37"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Hands",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "3:19"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Surf",
+        "extraartists": [
+          {
+            "name": "Jon Brion",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 59795,
+            "resource_url": "https://api.discogs.com/artists/59795"
+          },
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "5:30"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Once A Day",
+        "extraartists": [
+          {
+            "name": "Mac Miller",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2165577,
+            "resource_url": "https://api.discogs.com/artists/2165577"
+          }
+        ],
+        "duration": "2:40"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Mac Miller",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2165577,
+        "resource_url": "https://api.discogs.com/artists/2165577",
+        "thumbnail_url": "https://i.discogs.com/WCYt9HQ_COBX2S4bfArSJPdMHPpCR8WqkO4kHNwP4VU/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjU1/NzctMTY0Mjk0Njcx/MS0xMDcwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Circles",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=aIHF7u9Wwiw",
+        "title": "Mac Miller - Good News",
+        "description": "Circles is available now: https://wr.lnk.to/circles\n\nhttp://www.macmillerswebsite.com/\nhttps://www.instagram.com/92tilinfinity\n\nDirected by Anthony Gaddis & Eric Tilford\nProduced by language.la\n\nSpecial thanks to the friends and family who helped make thi",
+        "duration": 398,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=V4BFGSZ_1ls",
+        "title": "Mac Miller - Circles [Official Music Video]",
+        "description": "Watch the official music video for Circles by Mac Miller from the album Circles.  \n\ud83d\udd14 Subscribe to the channel: https://www.youtube.com/c/macmiller/?sub_confirmation=1\n\nCircles is available now: https://wr.lnk.to/circles\nDirected by Anthony Gaddis & Eri",
+        "duration": 171,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SxlLMLAYs-E",
+        "title": "Mac Miller - Complicated",
+        "description": "Artist(s): Mac Miller \n\nSong: Complicated\n\nAlbum: Circles",
+        "duration": 233,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=fYEXdCCpfVQ",
+        "title": "Mac Miller - Hand Me Downs [Official Music Video]",
+        "description": "Watch the official music video for Hand Me Downs by Mac Miller from the album Circles.  \n\ud83d\udd14 Subscribe to the channel: https://www.youtube.com/c/macmiller/?sub_confirmation=1\n\nCircles is available now: https://wr.lnk.to/circles\nDirected by Anthony Gaddis",
+        "duration": 299,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=blYo4WheVgA",
+        "title": "Mac Miller - Surf [Official Music Video]",
+        "description": "Watch the official music video for Surf by Mac Miller from the album Circles.  \n\ud83d\udd14 Subscribe to the channel: https://www.youtube.com/c/macmiller/?sub_confirmation=1\n\nCircles is available now: https://wr.lnk.to/circles\nDirected by Anthony Gaddis & Eric T",
+        "duration": 331,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=PUPYXQmQ8m8",
+        "title": "Mac Miller - Floating [Official Music Video]",
+        "description": "Watch the official music video for Floating by Mac Miller from the album Circles (Deluxe).  \n\ud83d\udd14 Subscribe to the channel: https://www.youtube.com/c/macmiller/?sub_confirmation=1\n\nCircles (Deluxe) is available now: https://wr.lnk.to/circlesdeluxe\nDirecte",
+        "duration": 257,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Eg7vEV5woSk",
+        "title": "Mac Miller - That's On Me [Official Music Video]",
+        "description": "Watch the official music video for That's On Me by Mac Miller from the album Circles.  \n\ud83d\udd14 Subscribe to the channel: https://www.youtube.com/c/macmiller/?sub_confirmation=1\n\nCircles is available now: https://wr.lnk.to/circles\nDirected by Anthony Gaddis ",
+        "duration": 218,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_-Ig0aeJ6jc",
+        "title": "Mac Miller - Everybody",
+        "description": "Circles is available now: https://wr.lnk.to/circles\n\nDirected by Anthony Gaddis & Eric Tilford\nProduced by language.la\nPhotos by Christian Weber\n\nhttp://www.macmillerswebsite.com/\nhttps://www.instagram.com/92tilinfinity",
+        "duration": 257,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1669934,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Blues",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

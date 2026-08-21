@@ -1,0 +1,361 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00196922901621",
+    "artist": "GUM",
+    "title": "Ill Times",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 31266749,
+      "title": "Gum (11) / Ambrose Kenny-Smith - Ill Times",
+      "master_id": 3547205,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Blues Rock"
+      ],
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "p(doom) records"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922901607"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3547205",
+      "uri": "/release/31266749-Gum-11-Ambrose-Kenny-Smith-Ill-Times",
+      "catno": "PDOOM 001",
+      "thumb": "https://i.discogs.com/aH0r8Hx0TOOy52cbreeKXvMc3HB08161MeoBkzw9xrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE0MTcz/MTAtODg4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dm9BHQZN-vnOJEHpMrvUdi3wy9gN_06zIDNxOHZ3HeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE0MTcz/MTAtODg4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31266749",
+      "community": {
+        "want": 111,
+        "have": 508
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White w/ Black Splatter [Hums of Thunder]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31260208,
+      "title": "Gum (11) / Ambrose Kenny-Smith - Ill Times",
+      "master_id": 3547205,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "p(doom) records"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922901591",
+        "282617E1/A   1D-196922901591 - A",
+        "282617E2/A    1D-105060  /  196922901591 - B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3547205",
+      "uri": "/release/31260208-Gum-11-Ambrose-Kenny-Smith-Ill-Times",
+      "catno": "PDOOM 001",
+      "thumb": "https://i.discogs.com/n6colL5VYmHxJKlrWhImNTXAysUR63L_0IzTr4dHAVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjYw/MjA4LTE3MjEzNjIy/NDUtMTY1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IkQnjhJDbRDBhd7S_kXuCquZV7-H2z-xsSKHw0bgSA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjYw/MjA4LTE3MjEzNjIy/NDUtMTY1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31260208",
+      "community": {
+        "want": 121,
+        "have": 486
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Recycled Black Wax [Keep It Simple]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31267943,
+      "title": "Gum (11), Ambrose Kenny-Smith - Ill Times",
+      "master_id": 3547205,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition"
+      ],
+      "label": [
+        "p(doom) records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3547205",
+      "uri": "/release/31267943-Gum-11-Ambrose-Kenny-Smith-Ill-Times",
+      "catno": "PDOOM 001",
+      "thumb": "https://i.discogs.com/xLeMWkRsxzD-8dWh44rhO9qzdklfxYQCXnw8wyrbnck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY3/OTQzLTE3MjE0Mjgx/NDItMTQ0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sZG3Kw2rae8gMqgZPMg9lJb9lzn4aZ8s4n-VzsePYP8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY3/OTQzLTE3MjE0Mjgx/NDItMTQ0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31267943",
+      "community": {
+        "want": 80,
+        "have": 227
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Dissolving Nightfall Edition",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3547205,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Blues Rock"
+    ],
+    "main_release": 31266749,
+    "most_recent_release": 33543702,
+    "resource_url": "https://api.discogs.com/masters/3547205",
+    "uri": "https://www.discogs.com/master/3547205-Gum-11-Ambrose-Kenny-Smith-Ill-Times",
+    "versions_url": "https://api.discogs.com/masters/3547205/versions",
+    "main_release_url": "https://api.discogs.com/releases/31266749",
+    "most_recent_release_url": "https://api.discogs.com/releases/33543702",
+    "num_for_sale": 13,
+    "lowest_price": 39.01,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/dm9BHQZN-vnOJEHpMrvUdi3wy9gN_06zIDNxOHZ3HeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE0MTcz/MTAtODg4Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/dm9BHQZN-vnOJEHpMrvUdi3wy9gN_06zIDNxOHZ3HeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE0MTcz/MTAtODg4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aH0r8Hx0TOOy52cbreeKXvMc3HB08161MeoBkzw9xrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE0MTcz/MTAtODg4Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JKhiid6fCBnN-slE9NXecCbKw9QctBVUPCEaa-6xtXc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtMjQ2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/JKhiid6fCBnN-slE9NXecCbKw9QctBVUPCEaa-6xtXc/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtMjQ2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/y7eYF-66lsESpH_3s_8CJG5XWa6nVQfZgQ2ZiknxvyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtMjQ2My5qcGVn.jpeg",
+        "width": 591,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hIbg9MP9gUWal68_EXHvvrVa3g9d5oK1_gEWsl2JwMI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNDE5My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/hIbg9MP9gUWal68_EXHvvrVa3g9d5oK1_gEWsl2JwMI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNDE5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aX_jq1ny3-2oLbiMTNvRMQ1hGRw6BT-YkfItZB-X8NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNDE5My5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ymm7JfxgHWan0X5JoOVhtTCRd063Q8R2v07XN7ubEqo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtODAzMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ymm7JfxgHWan0X5JoOVhtTCRd063Q8R2v07XN7ubEqo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtODAzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lMDn8GT4kUxukX52qzcEsnHni7JLBe0LeBb-Zx3B9Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTAtODAzMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3I42bkNH5g6TfxKcd-05An0J1mjgX1p77tXaYzNQbWg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtMjA4NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3I42bkNH5g6TfxKcd-05An0J1mjgX1p77tXaYzNQbWg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtMjA4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UzGHxPtPDTiEwQ6fk7nJoE8IG4C-_VyP6HpA4Zo8_yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtMjA4NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vhzXmh8lxHgPK08_MfKA-ar9Hxq9Uta6dd6IYR3bOAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNTIyMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vhzXmh8lxHgPK08_MfKA-ar9Hxq9Uta6dd6IYR3bOAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNTIyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fRyamUPz8KWT8iHKSN7eN2Os2gQqx96ObCccg1f-noA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE2OTI5/NzAtNTIyMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kYCNd3YvF-vTGqZrMqYAp77OTnMDL-cJzags-KrmLwM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTEtNTE2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kYCNd3YvF-vTGqZrMqYAp77OTnMDL-cJzags-KrmLwM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTEtNTE2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/A48oegEBxNHpRYS9LuV6ocwimluX3dE0foRjLM1Yrp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzE5/MTEtNTE2My5qcGVn.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lTrvEKS0h8M-H35qYrKSzh1waJOlJTwKFWR9MEW_ef4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzIw/MTAtMzQ2Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lTrvEKS0h8M-H35qYrKSzh1waJOlJTwKFWR9MEW_ef4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzIw/MTAtMzQ2Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Qs3k4vBIFIk9uDHv8K-N04O3AiuYM4yeg_gSUEJv-Vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjY2/NzQ5LTE3MjE4MzIw/MTAtMzQ2Ni5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Dud",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Ill Times",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Minor Setback",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Fool For You",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Resilience",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Powertrippin\u2019",
+        "duration": ""
+      },
+      {
+        "position": "B7",
+        "type_": "track",
+        "title": "Old Transistor Radio",
+        "duration": ""
+      },
+      {
+        "position": "B8",
+        "type_": "track",
+        "title": "Emu Rock",
+        "duration": ""
+      },
+      {
+        "position": "B9",
+        "type_": "track",
+        "title": "Marionette",
+        "duration": ""
+      },
+      {
+        "position": "B10",
+        "type_": "track",
+        "title": "The Gloater",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Gum (11)",
+        "anv": "",
+        "join": "/",
+        "role": "",
+        "tracks": "",
+        "id": 3018557,
+        "resource_url": "https://api.discogs.com/artists/3018557",
+        "thumbnail_url": "https://i.discogs.com/xUffmY5zykZe6ouo41ly0-jn43Dv89CNiEldxFuiKmc/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwMTg1/NTctMTQ3ODg4MzI0/NC04Mzk3LmpwZWc.jpeg"
+      },
+      {
+        "name": "Ambrose Kenny-Smith",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532176,
+        "resource_url": "https://api.discogs.com/artists/2532176",
+        "thumbnail_url": "https://i.discogs.com/_xIJdGOXAotRad0oysNJE858AwNPk97_BtbCfPPr3rY/rs:fit/g:sm/q:90/h:600/w:443/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/NzYtMTcyMzMyOTU1/MS02NTkwLnBuZw.jpeg"
+      }
+    ],
+    "title": "Ill Times",
+    "data_quality": "Correct"
+  },
+  "discogs_release_id": 3547205,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Blues Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

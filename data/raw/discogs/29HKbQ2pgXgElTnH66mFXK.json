@@ -1,0 +1,323 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "656605172866",
+    "artist": "Wednesday",
+    "title": "Bleeds",
+    "year": 2025
+  },
+  "results": [
+    {
+      "id": 37051218,
+      "title": "Wednesday (10) - Bleeds",
+      "master_id": 3977033,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Shoegaze",
+        "Indie Rock",
+        "Country Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2025",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans",
+        "Hiss Lovers Publishing",
+        "Cage Match Publishing",
+        "Empty Unused Publishing",
+        "Crab Bucket Enterprises",
+        "Harmony Of Note",
+        "Peer International Corp.",
+        "Sony/ATV Acuff Rose"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605172866",
+        "zlkbbyxg7ty7b"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3977033",
+      "uri": "/release/37051218-Wednesday-Bleeds",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/YBs2jC0IwSxjYgy8jc9mc3KQsVYcSgTaXa3Ewm1Qvjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDUx/MjE4LTE3NzYwMzc4/MzQtNzk4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/leBL5uRTX4eu4g50CGQUVcEDdydwQYkxRG7OyTaBKl4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDUx/MjE4LTE3NzYwMzc4/MzQtNzk4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37051218",
+      "community": {
+        "want": 2,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "24-Bit/44.1 kHz  Hi-Res Audio",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3977033,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Shoegaze",
+      "Alternative Rock",
+      "Country Rock",
+      "Indie Rock"
+    ],
+    "main_release": 35134505,
+    "most_recent_release": 37841973,
+    "resource_url": "https://api.discogs.com/masters/3977033",
+    "uri": "https://www.discogs.com/master/3977033-Wednesday-10-Bleeds",
+    "versions_url": "https://api.discogs.com/masters/3977033/versions",
+    "main_release_url": "https://api.discogs.com/releases/35134505",
+    "most_recent_release_url": "https://api.discogs.com/releases/37841973",
+    "num_for_sale": 145,
+    "lowest_price": 13.36,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Bf5t3n_O5aUfgWJvmKmPPqBun4nv8ZqRRw-PUbeQ6qg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTg0MDQw/NzQtMTg4My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Bf5t3n_O5aUfgWJvmKmPPqBun4nv8ZqRRw-PUbeQ6qg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTg0MDQw/NzQtMTg4My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/okanUS8kAFJiwMJZ4ETVi20NMueUOAE6pC7_bhEg8ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTg0MDQw/NzQtMTg4My5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DrJD8RxSXNr5gPvcDSoq074HWbiHgV7M6sE89PoBMxI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMzgxNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/DrJD8RxSXNr5gPvcDSoq074HWbiHgV7M6sE89PoBMxI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMzgxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/UlXbT4sX3nrBMI58FAViTlejKuKqQUAIRarTtLxJqxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMzgxNC5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kTxeIlB6HJ3MhwLv82TKqe5shf7xQF9je9xBO8Jk2ig/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMjQxMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kTxeIlB6HJ3MhwLv82TKqe5shf7xQF9je9xBO8Jk2ig/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMjQxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9hHtIC25satKMwGzXMG_FloHETpmNgPrfsjOYmWzQII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtMjQxMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DYwa0jYfOjkAn9rAvbddHHlYvLLdb7K1XNm7Y-fziR4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NTktODM1MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/DYwa0jYfOjkAn9rAvbddHHlYvLLdb7K1XNm7Y-fziR4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NTktODM1MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0Sqy9EQwI418lY6oXjZu_cZoAkNnn8UzyLAi55hiJQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NTktODM1MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Qtqgr61Lm4HYqBsv-qfM4bo2zv-hEWz5Ws_JxRtFKr8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjEtOTAwNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Qtqgr61Lm4HYqBsv-qfM4bo2zv-hEWz5Ws_JxRtFKr8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjEtOTAwNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/15IK06PBIO2dFmHodQpwNnaOKagw7D71HYr8cSOzFMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjEtOTAwNC5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dngg_mL4WRtd0xD7Zx6Y_DHY63Aua15yYhnf33rzYf4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtNjAwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/dngg_mL4WRtd0xD7Zx6Y_DHY63Aua15yYhnf33rzYf4/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtNjAwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fKAQ0CpSd_lwh8Xd7KBvOFiaSSWZmVVKo5lSC7IksqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM0/NTA1LTE3NTgyMTE0/NjAtNjAwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 582
+      }
+    ],
+    "year": 2025,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Reality TV Argument Bleeds",
+        "duration": "3:02"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Townies",
+        "duration": "3:15"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Wound Up Here (By Holdin On)",
+        "duration": "3:28"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Elderberry Wine",
+        "duration": "3:35"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Phish Pepsi",
+        "duration": "2:29"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Candy Breath",
+        "duration": "2:52"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "The Way Love Goes",
+        "duration": "1:56"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Pick Up That Knife",
+        "duration": "4:21"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Wasp",
+        "duration": "1:26"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Bitter Everyday",
+        "duration": "3:21"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Carolina Murder Suicide",
+        "duration": "4:24"
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Gary's II",
+        "duration": "2:35"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Wednesday (10)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 7633643,
+        "resource_url": "https://api.discogs.com/artists/7633643",
+        "thumbnail_url": "https://i.discogs.com/fHHKqhXs86d02R7m7ImvXH-gyWpGCn6zc-2MdeBfbFo/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc2MzM2/NDMtMTY4MDgzNjIw/Ni01MzU1LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Bleeds",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=DJqQGAqptg0",
+        "title": "Wednesday \u2013 Bleeds (Full Album) 2025",
+        "description": "Wednesday is an alternative rock band from Asheville, North Carolina. Born from a project by singer Karly Hartzman, in 2017, relies on the presence in the studio of guitarist and author MJ Lenderman and is considered by critics to be among the most origin",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=o4uVGU5P6PI",
+        "title": "'Bleeds' the new album from Wednesday is out September 19th \ud83e\udec0",
+        "description": "",
+        "duration": 33,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uE0waEdE2Pw",
+        "title": "Wednesday - Elderberry Wine (Official Video)",
+        "description": "\u201cElderberry Wine\u201d by Wednesday on Dead Oceans.\nStream \u201cElderberry Wine\u201d: https://wednesday.lnk.to/elderberry-wine\n\nhttps://www.wednesday.band/\nhttps://www.instagram.com/wednesday_gurl/\nhttps://x.com/wednesday_band_/\nhttps://www.facebook.com/WednesdayTheBa",
+        "duration": 262,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=E8cKoQqdtwA",
+        "title": "Wednesday - Townies (Official Video)",
+        "description": "\"Townies\u201d by Wednesday from \u2018Bleeds' on Dead Oceans\nStream/Order 'Bleeds': https://wednesday.lnk.to/bleeds\n\nhttps://www.wednesday.band/\nhttps://www.instagram.com/wednesday_gurl/\nhttps://x.com/wednesday_band_/\nhttps://www.facebook.com/WednesdayTheBand/\n\nCr",
+        "duration": 255,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=B24si8B9C-g",
+        "title": "Wednesday - Wound Up Here (By Holdin On) [Official Video]",
+        "description": "\u201cWound Up Here (By Holdin On)\u201d by Wednesday from \u2018Bleeds' on Dead Oceans\nStream \u201cWound Up Here (By Holdin On)\u201d: https://wednesday.lnk.to/wound-up-here\nOrder \u2018Bleeds\u2019: https://wednesday.lnk.to/bleeds\n\nhttps://www.wednesday.band/\nhttps://www.instagram.com/w",
+        "duration": 209,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qGNRGk5TOLE",
+        "title": "Wednesday - Bitter Everyday (Official Video)",
+        "description": "\"Bitter Everyday\u201d by Wednesday from \u2018Bleeds' on Dead Oceans\nStream \u201cBitter Everyday\u201d: https://wednesday.lnk.to/bitter-everyday\nOrder \u2018Bleeds\u2019: https://wednesday.lnk.to/bleeds\n\nhttps://www.wednesday.band/\nhttps://www.instagram.com/wednesday_gurl/\nhttps://x",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=CoAxLiVZyQg",
+        "title": "Wednesday - Pick Up That Knife (Official Video)",
+        "description": "\u201cPick Up That Knife\u201d by Wednesday from \u2018Bleeds' on Dead Oceans\nStream \u201cPick Up That Knife\u201d: https://wednesday.lnk.to/pick-up-that-knife\nOrder \u2018Bleeds\u2019: https://wednesday.lnk.to/bleeds\n\nhttps://www.wednesday.band/\nhttps://www.instagram.com/wednesday_gurl/\n",
+        "duration": 262,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=abaoLvBW6Ns",
+        "title": "\"Elderberry Wine\" - Wednesday (LIVE on The Late Show)",
+        "description": "North Carolina rockers Wednesday, led by Karly Hartzman with guitarist MJ Lenderman, bassist Ethan Baechtold, drummer Alan Miller, and pedal steel player Xandy Chelmis make their television debut with a performance of \"Elderberry Wine\" which was released ",
+        "duration": 246,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3977033,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Shoegaze",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Country Rock",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

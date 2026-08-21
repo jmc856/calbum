@@ -1,0 +1,569 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00880882595852",
+    "artist": "Friko",
+    "title": "Where we've been, Where we go from here",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 30902175,
+      "title": "Friko (3) - Where We\u2019ve Been, Where We Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Noise Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882595210",
+        "4526180698302",
+        "273151E1/C",
+        "273151E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/30902175-Friko-Where-Weve-Been-Where-We-Go-From-Here",
+      "catno": "ATO0666LPJ",
+      "thumb": "https://i.discogs.com/tuW8Hwmwog7a8qteOBrNJDKFON2Wr9EeLtAbXIkWJ8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAy/MTc1LTE3MTc4MDg5/MTUtOTU2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yzxjValIiQO1sPAvmknVVUx_Uz7IER5pzphJN5t7LW0/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAy/MTc1LTE3MTc4MDg5/MTUtOTU2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30902175",
+      "community": {
+        "want": 39,
+        "have": 19
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Japan Edition, Obi",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29846665,
+      "title": "Friko (3) - Where We\u2019ve Been, Where We Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "80882595210",
+        "273151E1/C",
+        "273151E2/B",
+        "880882595210"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/29846665-Friko-Where-Weve-Been-Where-We-Go-From-Here",
+      "catno": "ATO0666",
+      "thumb": "https://i.discogs.com/2v-DHwY0NJSjX9USJHUm4i9okbfVFRQZGjMcj0N_fdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNDgyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ccoDL95eWlMJzJNLkPSGRWO5HgGPvUpcTTIMoHVcp8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNDgyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29846665",
+      "community": {
+        "want": 134,
+        "have": 965
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30138941,
+      "title": "Friko (3) - Where We\u2019ve Been, Where We Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/30138941-Friko-Where-Weve-Been-Where-We-Go-From-Here",
+      "catno": "ATO0666",
+      "thumb": "https://i.discogs.com/-0xL9W1ksla5AXeS-M4Q1NmGW0CGi316MPHAiw5-jBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM4/OTQxLTE3MTA4MTc4/NDUtMzM5My5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/0Ifw9xG-A8ku-8dOsr5xQR9EOwudk56A7mzz_Oh56bQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM4/OTQxLTE3MTA4MTc4/NDUtMzM5My5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30138941",
+      "community": {
+        "want": 11,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Black Shell",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29845942,
+      "title": "Friko (3) - Where We\u2019ve Been, Where We Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "ATO Records",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "273151E1/C ",
+        "273151E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/29845942-Friko-Where-Weve-Been-Where-We-Go-From-Here",
+      "catno": "ATO0666",
+      "thumb": "https://i.discogs.com/WbTict4X0o-7nyy9kvsZ2dqErjWK3PDdWOyWIETvQC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ1/OTQyLTE3MTAwMjA0/NzktNDA0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lJkdNlY7KtAowz4-7CE8A5YwnodvY9eWvj5tQA3PgOU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ1/OTQyLTE3MTAwMjA0/NzktNDA0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29845942",
+      "community": {
+        "want": 101,
+        "have": 122
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red, White, Black Tri-Color",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32504025,
+      "title": "Friko (3) - Where We\u2019ve Been, Where We Go From Here (Expanded Edition)",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Special Edition"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882645113",
+        "8 80882 64511 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/32504025-Friko-Where-Weve-Been-Where-We-Go-From-Here-Expanded-Edition",
+      "catno": "ATO0687",
+      "thumb": "https://i.discogs.com/TvXy5yQ3YW9d-o4d0_pJfkulqg_Fu8kNqi15PCR6Bzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA0/MDI1LTE3MzQ1NjQy/MDMtNDkyOC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/iBvPrLrGADJ5NE_jQ4QTap90tnVNd5QdVO-1_s2Ud_g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA0/MDI1LTE3MzQ1NjQy/MDMtNDkyOC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32504025",
+      "community": {
+        "want": 79,
+        "have": 211
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gold Nugget",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30252473,
+      "title": "Friko (3) - Where We've Been, Where we Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records",
+        "xpevted LLC",
+        "xpevted LLC",
+        "ATO Records, LLC",
+        "xpevted LLC",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 80882 60662 6",
+        "ATO0882606626  6745-CD-6142  24-008-05-2",
+        "IFPI LY89",
+        "IFPI L820"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/30252473-Friko-Where-Weve-Been-Where-we-Go-From-Here",
+      "catno": "ATO0666",
+      "thumb": "https://i.discogs.com/agn4tWZaIGwGZ5pzUh471kaXw2o5s_6WmbsqlQqKWD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjUy/NDczLTE3MTE4MTAw/MjQtMzMzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fpLwEn0p7UkKjOkROpI64Nlh1Q4qekTklSaC6T808zM/rs:fit/g:sm/q:90/h:375/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjUy/NDczLTE3MTE4MTAw/MjQtMzMzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30252473",
+      "community": {
+        "want": 38,
+        "have": 177
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36469453,
+      "title": "Friko (3) - Where We've Been, Where we Go From Here",
+      "master_id": 3399781,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3399781",
+      "uri": "/release/36469453-Friko-Where-Weve-Been-Where-we-Go-From-Here",
+      "catno": "ATO0666CDJ",
+      "thumb": "https://i.discogs.com/KbYTX6Q8gDImkfhbzj8NwSpwkNYflwdAKTHSphghV04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY5/NDUzLTE3NzA3OTMx/ODEtNzY0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_EbF41E1MFrRpD5ibpSlTV0gtaAEFvBa9Ji5BgjylAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY5/NDUzLTE3NzA3OTMx/ODEtNzY0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36469453",
+      "community": {
+        "want": 5,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3399781,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 29846665,
+    "most_recent_release": 36469453,
+    "resource_url": "https://api.discogs.com/masters/3399781",
+    "uri": "https://www.discogs.com/master/3399781-Friko-3-Where-Weve-Been-Where-We-Go-From-Here",
+    "versions_url": "https://api.discogs.com/masters/3399781/versions",
+    "main_release_url": "https://api.discogs.com/releases/29846665",
+    "most_recent_release_url": "https://api.discogs.com/releases/36469453",
+    "num_for_sale": 71,
+    "lowest_price": 7.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ccoDL95eWlMJzJNLkPSGRWO5HgGPvUpcTTIMoHVcp8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNDgyNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ccoDL95eWlMJzJNLkPSGRWO5HgGPvUpcTTIMoHVcp8k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNDgyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2v-DHwY0NJSjX9USJHUm4i9okbfVFRQZGjMcj0N_fdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNDgyNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_QDtZM2INy26v201asgBYzIqxUCXveZHPIC7LvVsDNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTctMjc1Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/_QDtZM2INy26v201asgBYzIqxUCXveZHPIC7LvVsDNU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTctMjc1Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/AVCrvgJGCx_pxO_i7KgcWJ6LaqdTE-oQsvbgjj4R2P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTctMjc1Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NwtccNV_jSY_lXt26E3Hza7AQaDig7AzawMTyjszhBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtODk1NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/NwtccNV_jSY_lXt26E3Hza7AQaDig7AzawMTyjszhBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtODk1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ghDHy9YpLUPlSX00u6WAmi73r7RX-o27VDEwdd5c3X8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtODk1NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/N8HHjl42gBX1wg75bhmHiCcsBpM2QbmQ7MIb2x_kIi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NzUtNDY2NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/N8HHjl42gBX1wg75bhmHiCcsBpM2QbmQ7MIb2x_kIi4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NzUtNDY2NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GYfgFGA3TJ_vJkMmctkyJ1RXD4Z4vl7vcNdlBH-phvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NzUtNDY2NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/M6PFGWzXjD3-2DCLifjzDR02m1pOlmmCHlWlztcPRXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNTM5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/M6PFGWzXjD3-2DCLifjzDR02m1pOlmmCHlWlztcPRXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNTM5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ja-PaudCDXHUhnQokOJJVqARDHiuPTW4ZRjfkEyoF00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDgyOTc2/OTYtNTM5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fbI2hZqG_2XcQeZijRkLJZpjMhdVnJrBGn4eTpt9OpA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtNjEzMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fbI2hZqG_2XcQeZijRkLJZpjMhdVnJrBGn4eTpt9OpA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtNjEzMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lKTLXW82QYa0h3EKjjFxLSLnxFF0TG-IA4CWEniMNbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDUtNjEzMC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yrCvPbbJrTEXRfQfByENAHbRIBahZIeXAZMm85BhYl4/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTI3/MTEtNDE2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/yrCvPbbJrTEXRfQfByENAHbRIBahZIeXAZMm85BhYl4/rs:fit/g:sm/q:90/h:600/w:424/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTI3/MTEtNDE2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/D2mVPJ9LzoCcr4_xnPFXcCCYdpNK8yBdtHGc0wC8PdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTI3/MTEtNDE2My5qcGVn.jpeg",
+        "width": 424,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hEXbaQGsqRn3CcSffv0SOZ-lTiClffqQJEbfbCu2Hxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDQtNTY2OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/hEXbaQGsqRn3CcSffv0SOZ-lTiClffqQJEbfbCu2Hxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDQtNTY2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Hp7fL17aZcXFM76tNHD6Frot-nrKAHoVU--5Bt9rZz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODQ2/NjY1LTE3MDkwNTIz/NDQtNTY2OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Where We\u2019ve Been",
+        "duration": "5:15"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Crimson to Chrome",
+        "duration": "3:28"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Crashing Through",
+        "duration": "3:43"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "For Ella",
+        "duration": "4:03"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Chemical",
+        "duration": "3:22"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Statues",
+        "duration": "3:54"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Until I\u2019m With You Again",
+        "duration": "3:33"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Get Numb To It!",
+        "duration": "4:52"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Cardinal",
+        "duration": "3:54"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Friko (3)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 12997128,
+        "resource_url": "https://api.discogs.com/artists/12997128",
+        "thumbnail_url": "https://i.discogs.com/W_pyiwSRMurd1wa0-TL0I1FDOegAuLBjp5smQ6H1MvI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyOTk3/MTI4LTE3NzkyMjc5/NjYtODE5My5qcGVn.jpeg"
+      }
+    ],
+    "title": "Where We\u2019ve Been, Where We Go From Here",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=LgjzjJEA3kw",
+        "title": "Friko - Where We\u2019ve Been, Where We Go from Here (Full Album)",
+        "description": "*tracklist in comments*\nReleased: February 16th, 2024\nGenres: Indie Rock, Noise Pop",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=nQJZX8rPBSc",
+        "title": "Where We've Been",
+        "description": "Provided to YouTube by ATO Records\n\nWhere We've Been \u00b7 Friko\n\nWhere we've been, Where we go from here\n\n\u2117 2024 ATO Records, LLC. All Rights Reserved.\n\nReleased on: 2024-02-16\n\nMain  Artist: Friko\nProducer: Scott Tallarida\nProducer: Friko\nProducer: Jack Hen",
+        "duration": 316,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3399781,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

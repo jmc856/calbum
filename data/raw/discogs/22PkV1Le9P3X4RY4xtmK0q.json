@@ -1,0 +1,846 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "197187988518",
+    "artist": "Caroline Polachek",
+    "title": "Desire, I Want To Turn Into You",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 28686943,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Caroline Polachek LLC",
+        "GZ Media",
+        "Memphis Record Pressing",
+        "Sony Publishing",
+        "Avant Garcon Polachek Publishing",
+        "Aries Vibrations",
+        "WC Music Corp",
+        "New Girls Club Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "197187531394",
+        "1 97187 53139 4",
+        "260259E1 / B #25 MRP4765 / PNR05 - A",
+        "260259E2 / C #24 MRP4765 / PNR05 - B",
+        "260259E1 / B #27 MRP4765 / PNR05 - A",
+        "260259E2 / C #27 MRP4765 / PNR05 - B",
+        "260259E1 / B #14 MRP4765 / PNR05 - A",
+        "260259E2 / C #18 MRP4765 / PNR05 - B",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28686943-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05",
+      "thumb": "https://i.discogs.com/_WuJi5p_6wmcSiGTham9L-iKvo_ykf3ye8Cv2ddIaQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njg2/OTQzLTE3MDAyMTEx/MDYtODkzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oYPpNh0RGtSQvsqVxwkp1If68w4qjPZjwJ5i2rf3ipM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njg2/OTQzLTE3MDAyMTEx/MDYtODkzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28686943",
+      "community": {
+        "want": 1478,
+        "have": 10730
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Copper [Metallic Copper]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26105893,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "UK Garage",
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Perpetual Novice"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/26105893-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/o5b4m7a9ewnoffpD9FDxhhwMRDiwj0464uIbY0TCNdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTA1/ODkzLTE2NzY0NDM3/NzUtMTExOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LqMABKsyCojdRD20m6_9XsIG_cSDdYqpjRiLy7c9uuY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTA1/ODkzLTE2NzY0NDM3/NzUtMTExOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26105893",
+      "community": {
+        "want": 49,
+        "have": 44
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30601858,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Alt-Pop",
+        "Dance-pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/30601858-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/cSqpikYf9ijT7kcGk-797xeVzUj3yubnmQPe2Sda-bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjAx/ODU4LTE3MTQ5OTk4/OTEtOTY2Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/k_XchnTEX7SHmsZItk1bt8pf7pWJ8q-nYFjTw8nMREY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjAx/ODU4LTE3MTQ5OTk4/OTEtOTY2Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30601858",
+      "community": {
+        "want": 20,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "Hi-Res 24-bit / 48 kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28807237,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "barcode": [
+        "197187546428"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28807237-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05RT",
+      "thumb": "https://i.discogs.com/7Zt5xwEGCb0qGnK5CchHJUSv9Zl0KPlSfnm7aGMUVec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA3/MjM3LTE2OTkyMjU0/MjQtOTUwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oOhsNQy5FnpSelMm4wrPCOfsSa7UGao3g3xFhh32T5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA3/MjM3LTE2OTkyMjU0/MjQtOTUwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28807237",
+      "community": {
+        "want": 378,
+        "have": 835
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear [Milky Clear]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28791550,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Newbury Comics",
+        "Caroline Polachek LLC",
+        "Sony Publishing",
+        "Avant Garcon",
+        "Aries Vibrations",
+        "Sony/ATV Tunes LLC",
+        "WC Music Corp",
+        "New Girls Club Publishing",
+        "Copyright Control",
+        "GZ Media",
+        "Memphis Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 97187 50571 5",
+        "ASCAP",
+        "260259E1/B  MRP4765 / PNR 05 - A  #22",
+        "260259E2/B  MRP4765 / PNR 05 - B  #11"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28791550-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05",
+      "thumb": "https://i.discogs.com/Oqu5OSsMTkSI4NbDIEZDczV77IL72FxyLElYHlPHxO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkx/NTUwLTE3MDAyMTE5/ODEtNDU3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wx7k_GBsRstnbQNdEEqe6C03pWIX0wG7W_VU4Hcx7O8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkx/NTUwLTE3MDAyMTE5/ODEtNDU3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28791550",
+      "community": {
+        "want": 407,
+        "have": 620
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "\u201cEruption\u201d Red Swirl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28759945,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "UK Garage",
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Caroline Polachek LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "197187507467"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28759945-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/5D62zolj1T1SNzN52V2GML6GLlBJL9Kqgb3VMNMXlKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzU5/OTQ1LTE2OTkwNDIx/MTEtOTg0NC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/tR_VRIub5vDKT-6wJ5b9_0mbYqIVuT9ulZejETJhVVo/rs:fit/g:sm/q:90/h:628/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzU5/OTQ1LTE2OTkwNDIx/MTEtOTg0NC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28759945",
+      "community": {
+        "want": 147,
+        "have": 149
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28850809,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "BIG LOVE RECORDS"
+      ],
+      "type": "release",
+      "barcode": [
+        "260259E1/B #10 MRP4765 / PNR05 - A",
+        "260259E2/B #10 MRP4765 / PNR05 - B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28850809-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05BL",
+      "thumb": "https://i.discogs.com/30d-swmj13ZvnWI9hj5Er6h3GuxRKCssulfVpTv-tFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUw/ODA5LTE2OTk1NjQx/NDctNjg1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JcORosZiNhcrOL_pjPZciVnsoD6ibDU1Me3mbf2KN0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODUw/ODA5LTE2OTk1NjQx/NDctNjg1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28850809",
+      "community": {
+        "want": 435,
+        "have": 132
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Obi, Fog Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26092753,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "UK Garage",
+        "Indie Pop",
+        "Leftfield",
+        "Alt-Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Perpetual Novice"
+      ],
+      "type": "release",
+      "barcode": [
+        "1669095245"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/26092753-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CNSZ4GQZWPH-g2kkW-29vhwf8bRUwGQeZRSPu37pI6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26092753",
+      "community": {
+        "want": 258,
+        "have": 135
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28772758,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "Indie Pop",
+        "Alt-Pop",
+        "Leftfield"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Caroline Polachek LLC",
+        "Perpetual Novice Records",
+        "Sony Publishing",
+        "Avant Garcon",
+        "Aries Vibrations",
+        "Sony/ATV Tunes LLC",
+        "WC Music Corp",
+        "New Girls Club Publishing",
+        "Copyright Control",
+        "GZ Media",
+        "Memphis Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 97187 53198 1",
+        "197187531981",
+        "ASCAP",
+        "260259E1/B #29 MRP4765 / PNR05 - A",
+        "260259E2/B #10 MRP4765 / PNR05 - B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28772758-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05",
+      "thumb": "https://i.discogs.com/Kfqv57-7gmDod2peR3IAb6oTog3mTcMlt8YsTLAz0lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzcy/NzU4LTE2OTkwMTcx/MjUtMjEzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bJxmbN6FxiURtDPJkFBkoSUlXxJxHvFtypS0n2KaH6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzcy/NzU4LTE2OTkwMTcx/MjUtMjEzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28772758",
+      "community": {
+        "want": 851,
+        "have": 3662
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange & Black Swirl [Tiger's Eye]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28777732,
+      "title": "Caroline Polachek - Desire, I Want To Turn Into You",
+      "master_id": 2980216,
+      "genre": [
+        "Electronic",
+        "Pop"
+      ],
+      "style": [
+        "Downtempo",
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Perpetual Novice",
+        "Caroline Polachek LLC",
+        "Sony Publishing",
+        "Avant Garcon Polachek Publishing",
+        "Aries Vibrations",
+        "Sony/ATV Tunes LLC",
+        "Wb Music Corp.",
+        "New Girls Club Publishing",
+        "Copyright Control",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 97187 54638 1",
+        "197187546381",
+        "ASCAP",
+        "24428-CD-1224 23-266-02-2",
+        "IFPI LY89",
+        "IFPI L822",
+        "PNR05CD 24428-CD-1224 23-266-02-2",
+        "IFPI LY89",
+        "IFPI L816",
+        "PNR05CD 24428-CD-1224 23-266-02-2",
+        "IFPI LY89",
+        "IFPI L817"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2980216",
+      "uri": "/release/28777732-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+      "catno": "PNR05",
+      "thumb": "https://i.discogs.com/x-z0fE0lD76I8ELd9ar77ae6dwel5IHgkqEe6mTA6cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc3/NzMyLTE2OTkzMjc5/NDctOTIwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9hJN-QJjjcd_Mq_4XvHyYyYUsYXp-O30xKDRzrODXok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc3/NzMyLTE2OTkzMjc5/NDctOTIwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28777732",
+      "community": {
+        "want": 474,
+        "have": 1569
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2980216,
+    "genres": [
+      "Electronic",
+      "Pop"
+    ],
+    "styles": [
+      "Downtempo",
+      "UK Garage",
+      "Indie Pop",
+      "Leftfield",
+      "Alt-Pop"
+    ],
+    "main_release": 26092753,
+    "most_recent_release": 35306200,
+    "resource_url": "https://api.discogs.com/masters/2980216",
+    "uri": "https://www.discogs.com/master/2980216-Caroline-Polachek-Desire-I-Want-To-Turn-Into-You",
+    "versions_url": "https://api.discogs.com/masters/2980216/versions",
+    "main_release_url": "https://api.discogs.com/releases/26092753",
+    "most_recent_release_url": "https://api.discogs.com/releases/35306200",
+    "num_for_sale": 241,
+    "lowest_price": 8.87,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CNSZ4GQZWPH-g2kkW-29vhwf8bRUwGQeZRSPu37pI6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/CNSZ4GQZWPH-g2kkW-29vhwf8bRUwGQeZRSPu37pI6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Welcome To My Island",
+        "duration": "3:52"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Pretty In Possible",
+        "duration": "3:36"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Bunny Is A Rider",
+        "duration": "3:13"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Sunset",
+        "duration": "2:42"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Crude Drawing Of An Angel",
+        "duration": "3:28"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "I Believe",
+        "duration": "4:07"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Fly To You",
+        "extraartists": [
+          {
+            "name": "Dido",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 6277,
+            "resource_url": "https://api.discogs.com/artists/6277"
+          },
+          {
+            "name": "Grimes (4)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1993487,
+            "resource_url": "https://api.discogs.com/artists/1993487"
+          }
+        ],
+        "duration": "4:05"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Blood And Butter",
+        "extraartists": [
+          {
+            "name": "Macks Faulkron",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2742814,
+            "resource_url": "https://api.discogs.com/artists/2742814"
+          }
+        ],
+        "duration": "4:27"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Hopedrunk Everasking",
+        "duration": "3:19"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Butterfly Net",
+        "duration": "4:36"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Smoke",
+        "duration": "2:57"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Billions",
+        "duration": "4:57"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Caroline Polachek",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1269616,
+        "resource_url": "https://api.discogs.com/artists/1269616",
+        "thumbnail_url": "https://i.discogs.com/41sxIsy6-gzNjrx5wRxM5SCYoHBIui7-pHo06Khx4J4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNjk2/MTYtMTc3Njg1NTIw/Ni05MjIxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Desire, I Want To Turn Into You",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=hxgcz_6GKX0",
+        "title": "Caroline Polachek - Welcome To My Island [Official Music Video]",
+        "description": "New album 'Desire, I Want To Turn Into You\" out Feb. 14th, 2023\nPre-order / listen here: https://ffm.to/diwttiy\n\nDirected and Edited by Matt Copson + Caroline Polachek\nExecutive Producer - Jordan Harkins \nExecutive Producer - Mookie Singerman\nEP Assist - ",
+        "duration": 237,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=4zEQJrggKgk",
+        "title": "Caroline Polachek - Billions (Official Video)",
+        "description": "BILLIONS\n\nLISTEN / DOWNLOAD:   https://ffm.to/billions\n\nINSTAGRAM: https://www.instagram.com/carolineplz/\nTWITTER https://twitter.com/carolineplz/\nFACEBOOK: https://www.facebook.com/CarolinePolachekMusic\nTIKTOK: https://www.tiktok.com/@carolineplz\n\nDirect",
+        "duration": 296,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=h_V2ccs_Urk",
+        "title": "Caroline Polachek - Bunny is a Rider (Official Video)",
+        "description": "BUNNY IS A RIDER\n\nLISTEN / DOWNLOAD:   https://ffm.to/bunnyisarider\n\nINSTAGRAM: https://www.instagram.com/carolineplz/\nTWITTER https://twitter.com/carolineplz/\n\nDirected & Edited by Caroline Polachek & Matt Copson\nProducer & Technical Director -  Jordan H",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pmxqAjh3WIY",
+        "title": "Caroline Polachek - Smoke (Official Video)",
+        "description": "New album 'Desire, I Want To Turn Into You\" OUT NOW.\nListen here: https://ffm.to/diwttiy\n\nDirector: Matt Copson\nCreative Director: Caroline Polachek\nDirector of Photography : Jake Hunter \nProduction Company: Object & Animal\nExecutive Producer: Morgan Clem",
+        "duration": 178,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2980216,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Downtempo",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "UK Garage",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Leftfield",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alt-Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

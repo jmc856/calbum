@@ -1,0 +1,1345 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "196872555059",
+    "artist": "Tyler, The Creator",
+    "title": "CHROMAKOPIA",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 32128911,
+      "title": "Tyler, The Creator - Chromakopia",
+      "master_id": 3639498,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Experimental",
+        "Hardcore Hip-Hop",
+        "Neo Soul",
+        "Contemporary R&B",
+        "Jazzy Hip-Hop",
+        "Psychedelic",
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1776500452",
+        "196872555059"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3639498",
+      "uri": "/release/32128911-TylerCreator-Chromakopia",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-TvQe6ZaTUuqsmmEkpSkAOuRRypVUcPMvgfCHvzsUwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI4/OTExLTE3MzAxMTI5/NTctMjAxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HTGeHesp5zjcNy18HNZVse0VOFa-XxrhNo9C2c0E7P0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI4/OTExLTE3MzAxMTI5/NTctMjAxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32128911",
+      "community": {
+        "want": 806,
+        "have": 262
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps, Explicit",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3639498,
+    "genres": [
+      "Hip Hop",
+      "Jazz",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Experimental",
+      "Hardcore Hip-Hop",
+      "Neo Soul",
+      "Contemporary R&B",
+      "Jazzy Hip-Hop",
+      "Psychedelic",
+      "Conscious"
+    ],
+    "main_release": 32128911,
+    "most_recent_release": 34896719,
+    "resource_url": "https://api.discogs.com/masters/3639498",
+    "uri": "https://www.discogs.com/master/3639498-TylerCreator-Chromakopia",
+    "versions_url": "https://api.discogs.com/masters/3639498/versions",
+    "main_release_url": "https://api.discogs.com/releases/32128911",
+    "most_recent_release_url": "https://api.discogs.com/releases/34896719",
+    "num_for_sale": 433,
+    "lowest_price": 9.88,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HTGeHesp5zjcNy18HNZVse0VOFa-XxrhNo9C2c0E7P0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI4/OTExLTE3MzAxMTI5/NTctMjAxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/HTGeHesp5zjcNy18HNZVse0VOFa-XxrhNo9C2c0E7P0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI4/OTExLTE3MzAxMTI5/NTctMjAxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-TvQe6ZaTUuqsmmEkpSkAOuRRypVUcPMvgfCHvzsUwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTI4/OTExLTE3MzAxMTI5/NTctMjAxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "St. Chroma",
+        "extraartists": [
+          {
+            "name": "Ashton Simmonds",
+            "anv": "Ashton Dumar Simmonds",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 5829181,
+            "resource_url": "https://api.discogs.com/artists/5829181"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Daniel Caesar (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 5500267,
+            "resource_url": "https://api.discogs.com/artists/5500267"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "3:17"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Rah Tah Tah",
+        "extraartists": [
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "2:45"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Noid",
+        "extraartists": [
+          {
+            "name": "Thundercat",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1800656,
+            "resource_url": "https://api.discogs.com/artists/1800656"
+          },
+          {
+            "name": "Paul Ngozi",
+            "anv": "Paul Dobson Nyirongo",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 2526617,
+            "resource_url": "https://api.discogs.com/artists/2526617"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:44"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Darling, I",
+        "extraartists": [
+          {
+            "name": "Barry White",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 18978,
+            "resource_url": "https://api.discogs.com/artists/18978"
+          },
+          {
+            "name": "Kamaal Fareed",
+            "anv": "Kamaal Ibn John Fareed",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 702075,
+            "resource_url": "https://api.discogs.com/artists/702075"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Teezo Touchdown",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 9565078,
+            "resource_url": "https://api.discogs.com/artists/9565078"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:13"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Hey Jane",
+        "extraartists": [
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:00"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "I Killed You",
+        "extraartists": [
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "2:48"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Judge Judy",
+        "extraartists": [
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:29"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Sticky",
+        "extraartists": [
+          {
+            "name": "Dudley Alexander Duverne",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 15254610,
+            "resource_url": "https://api.discogs.com/artists/15254610"
+          },
+          {
+            "name": "Dwayne Carter",
+            "anv": "Dwyane Carter, Jr.",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 689691,
+            "resource_url": "https://api.discogs.com/artists/689691"
+          },
+          {
+            "name": "Janae Wherry",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 15267876,
+            "resource_url": "https://api.discogs.com/artists/15267876"
+          },
+          {
+            "name": "Tim Clayton",
+            "anv": "Timothy Clayton",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 666567,
+            "resource_url": "https://api.discogs.com/artists/666567"
+          },
+          {
+            "name": "Aaron Bolton (2)",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 15254607,
+            "resource_url": "https://api.discogs.com/artists/15254607"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Lil Wayne",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 1065010,
+            "resource_url": "https://api.discogs.com/artists/1065010"
+          },
+          {
+            "name": "Sexyy Red",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 12863537,
+            "resource_url": "https://api.discogs.com/artists/12863537"
+          },
+          {
+            "name": "David Brown (17)",
+            "anv": "David Darnell Brown",
+            "join": "",
+            "role": "Lyrics By, Composed By",
+            "tracks": "",
+            "id": 782167,
+            "resource_url": "https://api.discogs.com/artists/782167"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Gloria Woods",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Composed By, Lyrics By",
+            "tracks": "",
+            "id": 1184086,
+            "resource_url": "https://api.discogs.com/artists/1184086"
+          }
+        ],
+        "duration": "4:15"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Take Your Mask Off",
+        "extraartists": [
+          {
+            "name": "Gregory Cook",
+            "anv": "Greg Cook",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 2428878,
+            "resource_url": "https://api.discogs.com/artists/2428878"
+          },
+          {
+            "name": "Kathryn Lynne Thomas",
+            "anv": "K. Thomas",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 6894368,
+            "resource_url": "https://api.discogs.com/artists/6894368"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Daniel Caesar (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5500267,
+            "resource_url": "https://api.discogs.com/artists/5500267"
+          },
+          {
+            "name": "Latoya Williams",
+            "anv": "Latoiya Williams",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 174191,
+            "resource_url": "https://api.discogs.com/artists/174191"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:13"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Tomorrow",
+        "extraartists": [
+          {
+            "name": "Ashton Simmonds",
+            "anv": "Ashton Dumar Simmonds",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 5829181,
+            "resource_url": "https://api.discogs.com/artists/5829181"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer, Producer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "3:02"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Thought I Was Dead",
+        "extraartists": [
+          {
+            "name": "Quincy Matthew Hanley",
+            "anv": "Quincy Hanley",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 2962723,
+            "resource_url": "https://api.discogs.com/artists/2962723"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Schoolboy Q",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 2353545,
+            "resource_url": "https://api.discogs.com/artists/2353545"
+          },
+          {
+            "name": "Santigold",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 1513560,
+            "resource_url": "https://api.discogs.com/artists/1513560"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "3:27"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Like Him",
+        "extraartists": [
+          {
+            "name": "Justin Levy (3)",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 5316440,
+            "resource_url": "https://api.discogs.com/artists/5316440"
+          },
+          {
+            "name": "Robert Stevenson (10)",
+            "anv": "Robert \"RAab\" Stevenson",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 5316441,
+            "resource_url": "https://api.discogs.com/artists/5316441"
+          },
+          {
+            "name": "Thundercat",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1800656,
+            "resource_url": "https://api.discogs.com/artists/1800656"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Lola Young",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 10999733,
+            "resource_url": "https://api.discogs.com/artists/10999733"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:38"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Balloon",
+        "extraartists": [
+          {
+            "name": "Harry Wayne Casey",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 153243,
+            "resource_url": "https://api.discogs.com/artists/153243"
+          },
+          {
+            "name": "James Brown",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 12596,
+            "resource_url": "https://api.discogs.com/artists/12596"
+          },
+          {
+            "name": "Jaylah Ji'mya Hickmon",
+            "anv": "Jaylah Hickmon",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 12006994,
+            "resource_url": "https://api.discogs.com/artists/12006994"
+          },
+          {
+            "name": "Luther Campbell",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 93043,
+            "resource_url": "https://api.discogs.com/artists/93043"
+          },
+          {
+            "name": "Richard Finch",
+            "anv": "Rick Finch",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 87815,
+            "resource_url": "https://api.discogs.com/artists/87815"
+          },
+          {
+            "name": "Robert Ginyard",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By",
+            "tracks": "",
+            "id": 610296,
+            "resource_url": "https://api.discogs.com/artists/610296"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Doechii",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Performer",
+            "tracks": "",
+            "id": 11109506,
+            "resource_url": "https://api.discogs.com/artists/11109506"
+          },
+          {
+            "name": "Johnny May",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 737220,
+            "resource_url": "https://api.discogs.com/artists/737220"
+          },
+          {
+            "name": "Klynik",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 13360299,
+            "resource_url": "https://api.discogs.com/artists/13360299"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Keyboards, Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          },
+          {
+            "name": "Jayda Love",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 9393007,
+            "resource_url": "https://api.discogs.com/artists/9393007"
+          }
+        ],
+        "duration": "2:34"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "I Hope You Find Your Way Home",
+        "extraartists": [
+          {
+            "name": "Tyler Okonma",
+            "anv": "",
+            "join": "",
+            "role": "Composed By, Lyrics By, Engineer, Executive-Producer",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          },
+          {
+            "name": "Jordan Schneider",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 4218446,
+            "resource_url": "https://api.discogs.com/artists/4218446"
+          },
+          {
+            "name": "Nicole \"Coco\" Llorens",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5662756,
+            "resource_url": "https://api.discogs.com/artists/5662756"
+          },
+          {
+            "name": "Victor Wainstein",
+            "anv": "Vic Wainstein",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 2426613,
+            "resource_url": "https://api.discogs.com/artists/2426613"
+          },
+          {
+            "name": "WavyBoyJodii",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 15272160,
+            "resource_url": "https://api.discogs.com/artists/15272160"
+          },
+          {
+            "name": "Zachary Acosta",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 5899403,
+            "resource_url": "https://api.discogs.com/artists/5899403"
+          },
+          {
+            "name": "Kevin Kendrick",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 641419,
+            "resource_url": "https://api.discogs.com/artists/641419"
+          },
+          {
+            "name": "Mike Bozzi",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 401309,
+            "resource_url": "https://api.discogs.com/artists/401309"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Tyler, The Creator",
+            "anv": "",
+            "join": "",
+            "role": "Performer",
+            "tracks": "",
+            "id": 1967268,
+            "resource_url": "https://api.discogs.com/artists/1967268"
+          }
+        ],
+        "duration": "4:29"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Tyler, The Creator",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1967268,
+        "resource_url": "https://api.discogs.com/artists/1967268",
+        "thumbnail_url": "https://i.discogs.com/-wyQjw_vvgKo4DAiU82_JbPZt-Do6F-RGT4dZ6jiavQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjgtMTMwNTA5NjIy/OC5qcGVn.jpeg"
+      }
+    ],
+    "title": "Chromakopia",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=gkZ4dLMH-B8",
+        "title": "ST. CHROMA",
+        "description": "8",
+        "duration": 85,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=R_clisSImS4",
+        "title": "Rah Tah Tah",
+        "description": "Provided to YouTube by Columbia\n\nRah Tah Tah \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Recording Engineer: Ty",
+        "duration": 166,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Qer3lwd5hyA",
+        "title": "NOID",
+        "description": "CHROMAKOPIA is out now: https://tylerthecreator.lnk.to/chromakopia \n\ndirected by TYLER OKONMA\ndp: LUIS \"PANCH\" PEREZ\nproduction: TARA RAZAVI for Happy Place\n\nhttp://chromakopia.com",
+        "duration": 163,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kZfz5UlsHlQ",
+        "title": "DARLING, I (Official Video)",
+        "description": "directed by TYLER OKONMA\ndp: LUIS \"PANCH\" PEREZ\nproduction: TARA RAZAVI for Happy Place",
+        "duration": 289,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qFfjnPOXmUM",
+        "title": "Hey Jane",
+        "description": "Provided to YouTube by Columbia\n\nHey Jane \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Recording Engineer: Tyler",
+        "duration": 241,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bKTmpKPjJxs",
+        "title": "I Killed You",
+        "description": "Provided to YouTube by Columbia\n\nI Killed You \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Recording Engineer: T",
+        "duration": 169,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FQUI8KmRUw0",
+        "title": "Judge Judy",
+        "description": "Provided to YouTube by Columbia\n\nJudge Judy \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Recording Engineer: Tyl",
+        "duration": 270,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5_eRCI0Qzw4",
+        "title": "STICKY...",
+        "description": "video will come.\n\nCHROMAKOPIA is out now: https://tylerthecreator.lnk.to/chromakopia \n\ndirected by TYLER OKONMA\ndp: LUIS \"PANCH\" PEREZ\nproduction: TARA RAZAVI for Happy Place\n\nhttp://chromakopia.com",
+        "duration": 65,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JPOjiXoPmOk",
+        "title": "Take Your Mask Off",
+        "description": "Provided to YouTube by Columbia\n\nTake Your Mask Off \u00b7 Tyler, The Creator \u00b7 Daniel Caesar \u00b7 LaToiya Williams\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nAssociated Performer",
+        "duration": 254,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=n2KOgQJbZAw",
+        "title": "Tomorrow",
+        "description": "Provided to YouTube by Columbia\n\nTomorrow \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Recording Engineer: Tyler",
+        "duration": 183,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_RuuRU0bGLc",
+        "title": "THOUGHT I WAS DEAD",
+        "description": "CHROMAKOPIA is out now: https://tylerthecreator.lnk.to/chromakopia \n\ndirected by TYLER OKONMA\ndp: LUIS \"PANCH\" PEREZ\nproduction: TARA RAZAVI for Happy Place\n\nhttp://chromakopia.com",
+        "duration": 109,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dgUHE8wWhiE",
+        "title": "Like Him",
+        "description": "Provided to YouTube by Columbia\n\nLike Him \u00b7 Tyler, The Creator \u00b7 Lola Young\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nAssociated Performer: Tyler, The Creator feat. Lola ",
+        "duration": 279,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=eZNxD4NbxLA",
+        "title": "Balloon",
+        "description": "Provided to YouTube by Columbia\n\nBalloon \u00b7 Tyler, The Creator \u00b7 Doechii\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nAssociated Performer: Tyler, The Creator feat. Doechii\nC",
+        "duration": 155,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AUA3_lX6g-s",
+        "title": "I Hope You Find Your Way Home",
+        "description": "Provided to YouTube by Columbia\n\nI Hope You Find Your Way Home \u00b7 Tyler, The Creator\n\nCHROMAKOPIA\n\n\u2117 2024 Columbia Records, a Division of Sony Music Entertainment, as exclusive licensee\n\nReleased on: 2024-10-28\n\nComposer, Lyricist, Executive Producer, Reco",
+        "duration": 270,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3639498,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Jazz",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Hardcore Hip-Hop",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Jazzy Hip-Hop",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Psychedelic",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}
