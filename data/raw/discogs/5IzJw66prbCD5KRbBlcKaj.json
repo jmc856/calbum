@@ -1,0 +1,1099 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "886444890526",
+    "artist": "Run The Jewels",
+    "title": "Run The Jewels 2",
+    "year": 2014
+  },
+  "results": [
+    {
+      "id": 7157923,
+      "title": "Run The Jewels - Run The Jewels 2",
+      "master_id": 733856,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Unknown",
+      "year": "2014",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Mass Appeal",
+        "Definitive Jux Music",
+        "Aniyah's Music",
+        "The Royalty Network",
+        "Money Makes Me Dance",
+        "Eussicise Entertainment",
+        "Zack Word War Publishing",
+        "Warner-Tamerlane Publishing Corp.",
+        "Songs Of Roc Nation Music",
+        "In Souls",
+        "Lady Kash Music",
+        "Teeny Little Super Guy",
+        "Wikiset",
+        "Sterling Sound",
+        "Sneaky Studios",
+        "The Space Pit",
+        "ALC Laboratories",
+        "Cosmic Zoo",
+        "The Post Studios",
+        "Rare Book Room",
+        "Night Hunter Studios",
+        "Night Hunter Studios",
+        "Producto Mart, Inc.",
+        "Producto Mart, Inc.",
+        "Mass Appeal"
+      ],
+      "type": "release",
+      "barcode": [
+        "886444890526",
+        "927052864"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/733856",
+      "uri": "/release/7157923-Run-The-Jewels-Run-The-Jewels-2",
+      "catno": "MSAP0005",
+      "thumb": "https://i.discogs.com/GZtoHULXEENRHxcGjYlDvRDoZ5xs114U4-TixvzN9uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTY0NjA3NjEy/OC04NDQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/h5cJ9G0mhDJl8EdeLXuWrM1wv8CmGyHf7hEKEaBAQ1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTY0NjA3NjEy/OC04NDQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7157923",
+      "community": {
+        "want": 237,
+        "have": 71
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 733856,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious"
+    ],
+    "main_release": 7157923,
+    "most_recent_release": 8824450,
+    "resource_url": "https://api.discogs.com/masters/733856",
+    "uri": "https://www.discogs.com/master/733856-Run-The-Jewels-Run-The-Jewels-2",
+    "versions_url": "https://api.discogs.com/masters/733856/versions",
+    "main_release_url": "https://api.discogs.com/releases/7157923",
+    "most_recent_release_url": "https://api.discogs.com/releases/8824450",
+    "num_for_sale": 354,
+    "lowest_price": 21.74,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/h5cJ9G0mhDJl8EdeLXuWrM1wv8CmGyHf7hEKEaBAQ1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTY0NjA3NjEy/OC04NDQ3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/h5cJ9G0mhDJl8EdeLXuWrM1wv8CmGyHf7hEKEaBAQ1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTY0NjA3NjEy/OC04NDQ3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/GZtoHULXEENRHxcGjYlDvRDoZ5xs114U4-TixvzN9uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTY0NjA3NjEy/OC04NDQ3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8_zfUXjKL4YoUwecRBRcJGm-X9f2Rdckmjp3S58vNfM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny02NTY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8_zfUXjKL4YoUwecRBRcJGm-X9f2Rdckmjp3S58vNfM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny02NTY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/u-F5BxMTnZD416adLm8xbjiSuVpfdDaUF-6hl9p0aYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny02NTY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kIL9YcuNCisPfou66cRDysDDWzVBIqy_jxGo2oMpFG8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni03MTk3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/kIL9YcuNCisPfou66cRDysDDWzVBIqy_jxGo2oMpFG8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni03MTk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/n1uf3KnknvFjliW0-BO8_6OzYlM_CCzH4ql6JggVZ6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni03MTk3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VrzYH5xQCxmswQHVGi881AT1C5_miTCB4IkMcpmj5FI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni05MjQ4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/VrzYH5xQCxmswQHVGi881AT1C5_miTCB4IkMcpmj5FI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni05MjQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9JecWxdu__GPgttUJaOSE3H8Du24I0Ssx6o9tj76kdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ni05MjQ4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dBpZgwp5nqUgTANl62asaIRgPLBGB4Mmg2HnWWh2DdU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC03NTQ5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dBpZgwp5nqUgTANl62asaIRgPLBGB4Mmg2HnWWh2DdU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC03NTQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wSNt1URI3JJ_2i_BsJna7kQi0kJEwVG5YnBw09Ap0oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC03NTQ5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qFK-bNQYBveY4QAe96TdXJ5VNs_1Rk-BPjKVFmLz0ag/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS05NzY3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qFK-bNQYBveY4QAe96TdXJ5VNs_1Rk-BPjKVFmLz0ag/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS05NzY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4cX0jE48VZ1uhumUGAH1CeWioVDWKbmeNBcaxkwmLgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS05NzY3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4kjMt82hrIOxRXiqi6fPiUhsC7V3ujPQ_wNSxPP5Tgw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQ0/NS05NTY3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/4kjMt82hrIOxRXiqi6fPiUhsC7V3ujPQ_wNSxPP5Tgw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQ0/NS05NTY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HDuwhtwRsGOaDwxFK-wmR9h8l6aHuRITxx0OPP_GMvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQ0/NS05NTY3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/H5lVDcghAvOyUzipXCjaOKRmNgb7YdQjQ04YSvQfFpE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS0zMzc5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/H5lVDcghAvOyUzipXCjaOKRmNgb7YdQjQ04YSvQfFpE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS0zMzc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/K6ZeIN2JUNvl-XZRq8-WhcON5OKhc_CkrSAO2VtltVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OS0zMzc5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3up-vXFqU_qQn7lxEkH_ppVYhci5LvRvLSceSyd-T48/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny0xNjk0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/3up-vXFqU_qQn7lxEkH_ppVYhci5LvRvLSceSyd-T48/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny0xNjk0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/dYDexwK6DKXBCe4l_-PqKBe3OtML-0TA85JWJUNYYZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/Ny0xNjk0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qM0WKves9PA1R7_2tDddLJbG6LYx82AuR3SmRVf8aIc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC0xNTkzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qM0WKves9PA1R7_2tDddLJbG6LYx82AuR3SmRVf8aIc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC0xNTkzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PleZF227DG3C3LQ24ODN2Su58k8DfhBq99rw6wqNAvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc5/MjMtMTQ2ODE1OTQz/OC0xNTkzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      }
+    ],
+    "year": 2014,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Jeopardy",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Wilder Zoby",
+            "anv": "",
+            "join": "",
+            "role": "Organ [Additional]",
+            "tracks": "",
+            "id": 793048,
+            "resource_url": "https://api.discogs.com/artists/793048"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Smoota",
+            "anv": "",
+            "join": "",
+            "role": "Trombone [Additional]",
+            "tracks": "",
+            "id": 3476472,
+            "resource_url": "https://api.discogs.com/artists/3476472"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Oh My Darling Don't Cry",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Michael Winslow",
+            "anv": "",
+            "join": "",
+            "role": "Guest, Voice [Robot]",
+            "tracks": "",
+            "id": 336173,
+            "resource_url": "https://api.discogs.com/artists/336173"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Wilder Zoby",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production]",
+            "tracks": "",
+            "id": 793048,
+            "resource_url": "https://api.discogs.com/artists/793048"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:24"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Blockbuster Night, Pt. 1",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional], Synth [Additional]",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "DJ Trackstar",
+            "anv": "Trackstar The DJ",
+            "join": "",
+            "role": "Scratches",
+            "tracks": "",
+            "id": 400855,
+            "resource_url": "https://api.discogs.com/artists/400855"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "2:32"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Close Your Eyes (And Count To Fuck)",
+        "extraartists": [
+          {
+            "name": "Zack de La Rocha",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 64348,
+            "resource_url": "https://api.discogs.com/artists/64348"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "DJ Trackstar",
+            "anv": "Trackstar The DJ",
+            "join": "",
+            "role": "Scratches",
+            "tracks": "",
+            "id": 400855,
+            "resource_url": "https://api.discogs.com/artists/400855"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          },
+          {
+            "name": "Zack de La Rocha",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 64348,
+            "resource_url": "https://api.discogs.com/artists/64348"
+          }
+        ],
+        "duration": "3:54"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "All My Life",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Matt Sweeney",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Additional]",
+            "tracks": "",
+            "id": 247495,
+            "resource_url": "https://api.discogs.com/artists/247495"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Boots (18)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 3596831,
+            "resource_url": "https://api.discogs.com/artists/3596831"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:07"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Lie, Cheat, Steal",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Boots (18)",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production]",
+            "tracks": "",
+            "id": 3596831,
+            "resource_url": "https://api.discogs.com/artists/3596831"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:28"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Early",
+        "extraartists": [
+          {
+            "name": "James McNew",
+            "anv": "",
+            "join": "",
+            "role": "Bass [Additional]",
+            "tracks": "",
+            "id": 365541,
+            "resource_url": "https://api.discogs.com/artists/365541"
+          },
+          {
+            "name": "Boots (18)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3596831,
+            "resource_url": "https://api.discogs.com/artists/3596831"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production]",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Boots (18)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3596831,
+            "resource_url": "https://api.discogs.com/artists/3596831"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "All Due Respect",
+        "extraartists": [
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Wilder Zoby",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 793048,
+            "resource_url": "https://api.discogs.com/artists/793048"
+          },
+          {
+            "name": "Travis Barker",
+            "anv": "",
+            "join": "",
+            "role": "Drums [Additional]",
+            "tracks": "",
+            "id": 341815,
+            "resource_url": "https://api.discogs.com/artists/341815"
+          },
+          {
+            "name": "Travis Barker",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 341815,
+            "resource_url": "https://api.discogs.com/artists/341815"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "2:47"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Love Again (Akinyele Back)",
+        "extraartists": [
+          {
+            "name": "Gangsta Boo",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 143749,
+            "resource_url": "https://api.discogs.com/artists/143749"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Gangsta Boo",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 143749,
+            "resource_url": "https://api.discogs.com/artists/143749"
+          },
+          {
+            "name": "Kenya Hawkins",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 4066936,
+            "resource_url": "https://api.discogs.com/artists/4066936"
+          },
+          {
+            "name": "Shay Bigga",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 4066931,
+            "resource_url": "https://api.discogs.com/artists/4066931"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Crown",
+        "extraartists": [
+          {
+            "name": "Diane Coffee",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3588107,
+            "resource_url": "https://api.discogs.com/artists/3588107"
+          },
+          {
+            "name": "Diane Coffee",
+            "anv": "",
+            "join": "",
+            "role": "Piano [Additional]",
+            "tracks": "",
+            "id": 3588107,
+            "resource_url": "https://api.discogs.com/artists/3588107"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Diane Coffee",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 3588107,
+            "resource_url": "https://api.discogs.com/artists/3588107"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Angel Duster",
+        "extraartists": [
+          {
+            "name": "Wilder Zoby",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Additional Keys]",
+            "tracks": "",
+            "id": 793048,
+            "resource_url": "https://api.discogs.com/artists/793048"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Little Shalimar",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production]",
+            "tracks": "",
+            "id": 2523861,
+            "resource_url": "https://api.discogs.com/artists/2523861"
+          },
+          {
+            "name": "Isaiah Owens",
+            "anv": "Isaiah Ikey Owens",
+            "join": "",
+            "role": "Soloist, Piano",
+            "tracks": "",
+            "id": 210843,
+            "resource_url": "https://api.discogs.com/artists/210843"
+          },
+          {
+            "name": "Margot (18)",
+            "anv": "",
+            "join": "",
+            "role": "Strings",
+            "tracks": "",
+            "id": 4066933,
+            "resource_url": "https://api.discogs.com/artists/4066933"
+          },
+          {
+            "name": "Kareem Bunton",
+            "anv": "Kareem Bunton Of The Juggs",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 777379,
+            "resource_url": "https://api.discogs.com/artists/777379"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "5:09"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Blockbuster Night, Pt. 2",
+        "extraartists": [
+          {
+            "name": "Despot",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 123981,
+            "resource_url": "https://api.discogs.com/artists/123981"
+          },
+          {
+            "name": "Wiki (3)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3922329,
+            "resource_url": "https://api.discogs.com/artists/3922329"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Despot",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 123981,
+            "resource_url": "https://api.discogs.com/artists/123981"
+          },
+          {
+            "name": "Wiki (3)",
+            "anv": "Wiki Of Ratking",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 3922329,
+            "resource_url": "https://api.discogs.com/artists/3922329"
+          },
+          {
+            "name": "EL-P",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2202,
+            "resource_url": "https://api.discogs.com/artists/2202"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          }
+        ],
+        "duration": "2:39"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Run The Jewels",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3351365,
+        "resource_url": "https://api.discogs.com/artists/3351365",
+        "thumbnail_url": "https://i.discogs.com/oGj7-bQvl7c1354MEd5nlk_nxcG_yk2LXXj8m1c1uqw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNTEz/NjUtMTY1NTYwMDEy/NC00MDAzLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Run The Jewels 2",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=G-S9mtYowPY",
+        "title": "Run The Jewels - Oh My Darling (Don't Cry) (Official Video)",
+        "description": "Download/Stream RTJ2: https://RunTheJewels.lnk.to/RTJ2ID\nBuy vinyl/CD: https://shop.massappeal.com\n\nDirected by Timothy Saccenti\nhttp://www.timothysaccenti.com\nProduced by Garen Barsegian\nEditor - Ryan Mckenna\nVFX - Hey Beautiful Jerk\nVFX - Kevin Stein/Wo",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uuWQyfGa1yI",
+        "title": "Run The Jewels - Blockbuster Night Part 1 (Official Video)",
+        "description": "Download/Stream RTJ2: https://RunTheJewels.lnk.to/RTJ2ID\nBuy vinyl/CD: https://shop.massappeal.com\n\nDirected by: Trevor Kane\nEdited by: Ryosuke Tanzawa \n\nSubscribe to Mass Appeal: http://goo.gl/LqG3wZ\n\nWhat started as a humble graffiti \u2018zine in 1996 wou",
+        "duration": 153,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QkZurfE8Gbc",
+        "title": "Run The Jewels - Love Again (Akinyele Back) feat. Gangsta Boo (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cLove Again (Akinyele Back) (feat. Gangsta Boo)\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscriptio",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BEOximWoFd0",
+        "title": "Run the Jewels - Lie, Cheat, Steal (Official Video)",
+        "description": "Download/Stream \"Run The Jewels 2\": https://RunTheJewels.lnk.to/RTJ2YV\nBuy vinyl/CD here: https://shop.massappeal.com\n\nDIRECTED BY RUFFMERCY / ruffmercy.com / @RFFMRCY \nPRODUCED BY MY ACCOMPLICE / myaccomplice.com\n\nSubscribe to Mass Appeal: http://goo.gl/",
+        "duration": 221,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=PkGwI7nGehA",
+        "title": "Run The Jewels - Close Your Eyes (And Count To F**k) feat. Zack de la Rocha (Official Video)",
+        "description": "Download/Stream \"Run The Jewels 2\": https://RunTheJewels.lnk.to/RTJ2ID\nBuy RTJ2 vinyl: https://shop.massappeal.com\n\n\"When Run The Jewels sent me this track, I knew we had the opportunity to create a film that means something. I felt a sense of responsibil",
+        "duration": 283,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pJJyKlRxyvA",
+        "title": "Run The Jewels - Early (Official Music Video from Run The Jewels 2)",
+        "description": "Official music video for \"Early\" from Run The Jewels 2. \nGet it on iTunes: http://found.ee/rtj2\n\nCreated by Bug & Sluzzy\nhttp://www.bugandsluzzy.com\n\nFor info on RTJ music, merch, tour dates & more, please visit www.runthejewels.net\n\nSubscribe to Run The ",
+        "duration": 225,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6sRQ9q4hzv4",
+        "title": "Run The Jewels - Jeopardy (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cJeopardy\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscription_center?add_user=RunTheJewels\n\nWatch ",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZtdRdbjgPBc",
+        "title": "Run The Jewels - All My Life (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cAll My Life\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscription_center?add_user=RunTheJewels\n\nWat",
+        "duration": 189,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JNRXTETw9vI",
+        "title": "Run The Jewels - All Due Respect feat. Travis Barker (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cAll Due Respect (feat. Travis Barker)\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscription_center?",
+        "duration": 169,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XbZR9JhGJ0Q",
+        "title": "Run The Jewels - Crown feat. Diane Coffee (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cCrown (feat. Diane Coffee)\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscription_center?add_user=Ru",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6MS-JqECvf4",
+        "title": "Run The Jewels - Angel Duster (from the Run The Jewels 2 album)",
+        "description": "Official art video for \u201cAngel Duster\u201d from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtube.com/subscription_center?add_user=RunTheJewels\n\nWa",
+        "duration": 310,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XIR74qry3IM",
+        "title": "Run The Jewels -- Love Again feat. Gangsta Boo (Official Music Video)",
+        "description": "JASH, Ninian Doff & Pulse Films present Run The Jewels latest music video, \"Love Again.\"\n\nSubscribe to JASH for MORE: http://bit.ly/BUHsubscribe\n\nLYRICS:\nReminiscinin\nOn our time of innocence\nWhen we drank that Hennessy\nAte on lamb and venison\nFace fucked",
+        "duration": 263,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xACVLLlAoa4",
+        "title": "Run The Jewels - Blockbuster Night Pt. 2 feat. Despot & Wiki (iTunes Bonus Track)",
+        "description": "Official art video for \u201cBlockbuster Night Pt. 2\u201d  feat. Despot & Wiki. iTunes bonus track from Run The Jewels 2. \n\nFor info on RTJ music, merch, tour dates & more, please visit http://www.runthejewels.net\n\nSubscribe to Run The Jewels: http://www.youtu",
+        "duration": 160,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 733856,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

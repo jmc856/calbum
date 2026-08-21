@@ -1,0 +1,819 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "656605031064",
+    "artist": "The War On Drugs",
+    "title": "Lost In The Dream",
+    "year": 2014
+  },
+  "results": [
+    {
+      "id": 8686912,
+      "title": "The War On Drugs - Lost In The Dream",
+      "master_id": 664824,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2014",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Secretly Canadian",
+        "Secretly Canadian",
+        "Secretly Canadian",
+        "Sea Formation Music",
+        "Rare Book Room",
+        "Uniform Recording",
+        "Uniform Recording",
+        "Echo Mountain Recording",
+        "Fidelitorium",
+        "Rare Book Room",
+        "Miner Street Recordings",
+        "Water Music Recorders",
+        "Public Hi-Fi",
+        "University Of The Arts, Philadelphia, PA",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605031064",
+        "765568650",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/664824",
+      "uri": "/release/8686912-The-War-On-Drugs-Lost-In-The-Dream",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/fKfqkStDXi2-Vu05h3DNMwtc8gFC4f5T4uDYjiBQ-Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODY5/MTItMTQ2NzIxNzAy/Ni0yMzc5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/hbP2KlqZvEyN4YkZqQhC5IdY5nZboLEN7yVWxpEtnh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODY5/MTItMTQ2NzIxNzAy/Ni0yMzc5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8686912",
+      "community": {
+        "want": 113,
+        "have": 22
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 664824,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 5507165,
+    "most_recent_release": 25012213,
+    "resource_url": "https://api.discogs.com/masters/664824",
+    "uri": "https://www.discogs.com/master/664824-The-War-On-Drugs-Lost-In-The-Dream",
+    "versions_url": "https://api.discogs.com/masters/664824/versions",
+    "main_release_url": "https://api.discogs.com/releases/5507165",
+    "most_recent_release_url": "https://api.discogs.com/releases/25012213",
+    "num_for_sale": 329,
+    "lowest_price": 1.49,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/RNKqcAdyvM8VC9u40VR5ssxpUxqgLu0R8sl1CHK_z18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/RNKqcAdyvM8VC9u40VR5ssxpUxqgLu0R8sl1CHK_z18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/m4n55bj8uDS5r_tk1u58friwmrrNLOX6pQRyKzZPl4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/q2ofKfTgjFC4B0Y3SZNzKNruJzoQiLTSGppwi-qN_gU/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi0yNTMzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/q2ofKfTgjFC4B0Y3SZNzKNruJzoQiLTSGppwi-qN_gU/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi0yNTMzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fDn2w05MKDGdNmqNTbBuhVw9h9RtUDVsmb7gqfrCQc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi0yNTMzLmpwZWc.jpeg",
+        "width": 581,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X9QDVWHj3pxEZq8jgNz4kSCqq0ZMbqnQDceXPrLw5Cs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi05NjI1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/X9QDVWHj3pxEZq8jgNz4kSCqq0ZMbqnQDceXPrLw5Cs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi05NjI1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5tNMSlMDQ8pVftglTNaicOIiIS6Kuypwob1BfMJ7Hnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi05NjI1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GxrHwiGdscsXNBb8PE4gQzVDOmh3rWmhHx9W-cy1q-Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MC0xNzM2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/GxrHwiGdscsXNBb8PE4gQzVDOmh3rWmhHx9W-cy1q-Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MC0xNzM2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qBtQh9by5E2r1NdG2OwCP_7Zx2yVZNpPsIDtJoLj8nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MC0xNzM2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NgONfWpCAN0_IFHQmY_rTEMmar5kegonDXijT3v35IA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0xNzkyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/NgONfWpCAN0_IFHQmY_rTEMmar5kegonDXijT3v35IA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0xNzkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/eeMOxY8zJ_aPP1jieG5D7Rc_aYnhHDHZdZB44tETAhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0xNzkyLmpwZWc.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GK9FFX34rvMtuqci4O5CpeqamGvHzyUvI06IT_bCNO4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS01NTM3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/GK9FFX34rvMtuqci4O5CpeqamGvHzyUvI06IT_bCNO4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS01NTM3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lyn2vnwlQppE_ctS9RVICNQchGg70Mvi2H0dvCJ2mW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS01NTM3LmpwZWc.jpeg",
+        "width": 594,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wGnDwy37dAJeZiwMTNYcoEHj8hX84Rlc8RoB7yWC-k4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM4/OC00NzYzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/wGnDwy37dAJeZiwMTNYcoEHj8hX84Rlc8RoB7yWC-k4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM4/OC00NzYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PHf_-JnlvG2fAmyEXZ-z_FpXwZuiHECsDBopymSMIv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM4/OC00NzYzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/K0bB2CIoAIJ_NuNRq9pmqqaE5CArnBN40q0DXpSsy-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM5/OS0zNzUxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/K0bB2CIoAIJ_NuNRq9pmqqaE5CArnBN40q0DXpSsy-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM5/OS0zNzUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/WFgnrCetvfgfTuJLyvozg16NfHImzxQGrKiNUnnVj34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTM5/OS0zNzUxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SPgL3Kyg7J8x-MFwzhqpA8qycdNHM3iB_NFGTB1brl4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQy/MC0zMTcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/SPgL3Kyg7J8x-MFwzhqpA8qycdNHM3iB_NFGTB1brl4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQy/MC0zMTcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8Bat4z9P7H8chGo6KZICcCUqulArld-l5g6_AsdVnaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQy/MC0zMTcxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kDH-nwbgZ9AcFySTi5sslygmjDfsEE1Sr2-w-FODV3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQz/Mi0zNjg0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/kDH-nwbgZ9AcFySTi5sslygmjDfsEE1Sr2-w-FODV3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQz/Mi0zNjg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wiJrVU1NRht6O_mddgHQtHJNsbBZqv8CIrsdsgWnYW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTY3ODU3MTQz/Mi0zNjg0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9-1OyGOhyvmthJw39oey0nHh7dBkpIL_nlsAgYTiZ8M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi02Njc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/9-1OyGOhyvmthJw39oey0nHh7dBkpIL_nlsAgYTiZ8M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi02Njc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/B8uH-sRLJY9OtdDyQTVCKWuPXn-jvThWGRBpzenVF6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/Mi02Njc3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      }
+    ],
+    "year": 2014,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Under The Pressure",
+        "extraartists": [
+          {
+            "name": "Jon Natchez",
+            "anv": "",
+            "join": "",
+            "role": "Baritone Saxophone",
+            "tracks": "",
+            "id": 401107,
+            "resource_url": "https://api.discogs.com/artists/401107"
+          },
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Charlie Hall (7)",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 3736460,
+            "resource_url": "https://api.discogs.com/artists/3736460"
+          },
+          {
+            "name": "Michael Johnson (9)",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer [ARP 2600]",
+            "tracks": "",
+            "id": 666960,
+            "resource_url": "https://api.discogs.com/artists/666960"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Piano, Synthesizer, Overdubbed By [MS16]",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "8:51"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Red Eyes",
+        "extraartists": [
+          {
+            "name": "Jon Natchez",
+            "anv": "",
+            "join": "",
+            "role": "Baritone Saxophone",
+            "tracks": "",
+            "id": 401107,
+            "resource_url": "https://api.discogs.com/artists/401107"
+          },
+          {
+            "name": "Patrick Berkery",
+            "anv": "Pat Berkery",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 1531647,
+            "resource_url": "https://api.discogs.com/artists/1531647"
+          },
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Percussion, Fretless Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Upright Piano, Organ",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Acoustic Guitar, Twelve-String Guitar [Mitch Easter's Hagstrom 12 String], Synthesizer [Arp String Synthesizer]",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "4:59"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Suffering",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Patrick Berkery",
+            "anv": "Pat Berkery",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 1531647,
+            "resource_url": "https://api.discogs.com/artists/1531647"
+          },
+          {
+            "name": "Nicolas Vernhes",
+            "anv": "",
+            "join": "",
+            "role": "Organ",
+            "tracks": "",
+            "id": 266862,
+            "resource_url": "https://api.discogs.com/artists/266862"
+          },
+          {
+            "name": "Ricky Ray Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 1661514,
+            "resource_url": "https://api.discogs.com/artists/1661514"
+          },
+          {
+            "name": "Joseph Shabason",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone",
+            "tracks": "",
+            "id": 1960626,
+            "resource_url": "https://api.discogs.com/artists/1960626"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Effects [Black Box Guitar], Electric Piano [Wurlitzer], Electric Piano [Fender Rhodes], Piano, Synthesizer",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "6:01"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "An Ocean In Between The Waves",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Jon Ashley",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 603245,
+            "resource_url": "https://api.discogs.com/artists/603245"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Effects [Mutron Rhodes]",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "David Fishkin",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone",
+            "tracks": "",
+            "id": 2245796,
+            "resource_url": "https://api.discogs.com/artists/2245796"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Acoustic Guitar, Effects [Flux Guitars], Organ, Synthesizer",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "7:11"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Disappearing",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Effects [Mutron II Bass]",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Jeff Zeigler",
+            "anv": "",
+            "join": "",
+            "role": "Effects [Pitch Transposer], Drum Programming [Additional]",
+            "tracks": "",
+            "id": 454938,
+            "resource_url": "https://api.discogs.com/artists/454938"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Electric Piano [Flux Wurlitzer]",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "Granduciel",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          },
+          {
+            "name": "Michael Johnson (9)",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 666960,
+            "resource_url": "https://api.discogs.com/artists/666960"
+          },
+          {
+            "name": "Michael Johnson (9)",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer [ARP 2600]",
+            "tracks": "",
+            "id": 666960,
+            "resource_url": "https://api.discogs.com/artists/666960"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar [Electric Firebird Guitars], Slide Guitar, Synthesizer, Piano, Electric Piano [Space Wurlitzer], Drums, Drum Machine [Linn Drum], Harmonica",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "6:51"
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Eyes To The Wind",
+        "extraartists": [
+          {
+            "name": "Jon Natchez",
+            "anv": "",
+            "join": "",
+            "role": "Baritone Saxophone",
+            "tracks": "",
+            "id": 401107,
+            "resource_url": "https://api.discogs.com/artists/401107"
+          },
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Charlie Hall (7)",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 3736460,
+            "resource_url": "https://api.discogs.com/artists/3736460"
+          },
+          {
+            "name": "Mike Sobel (2)",
+            "anv": "",
+            "join": "",
+            "role": "Lap Steel Guitar",
+            "tracks": "",
+            "id": 3736461,
+            "resource_url": "https://api.discogs.com/artists/3736461"
+          },
+          {
+            "name": "Ricky Ray Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 1661514,
+            "resource_url": "https://api.discogs.com/artists/1661514"
+          },
+          {
+            "name": "Joseph Shabason",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone",
+            "tracks": "",
+            "id": 1960626,
+            "resource_url": "https://api.discogs.com/artists/1960626"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Upright Piano, Grand Piano, Synthesizer [ARP String Synthesizer]",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Harmonica, Electric Guitar, Acoustic Guitar, Electric Piano [Space Rhodes], Synthesizer [ARP Omni II]",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "5:54"
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "The Haunting Idle",
+        "extraartists": [
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Synthesizer [Oberheim], Mixed By",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          },
+          {
+            "name": "Paul Sukeena",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Black Strat]",
+            "tracks": "",
+            "id": 3731652,
+            "resource_url": "https://api.discogs.com/artists/3731652"
+          },
+          {
+            "name": "Michael Johnson (9)",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer [Eventide Cascades]",
+            "tracks": "",
+            "id": 666960,
+            "resource_url": "https://api.discogs.com/artists/666960"
+          }
+        ],
+        "duration": "2:55"
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Burning",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Mike Sneeringer",
+            "anv": "",
+            "join": "",
+            "role": "Drums [Inadvertent Drums]",
+            "tracks": "",
+            "id": 622303,
+            "resource_url": "https://api.discogs.com/artists/622303"
+          },
+          {
+            "name": "Gabe Wax",
+            "anv": "",
+            "join": "",
+            "role": "Effects [Tape Flangin']",
+            "tracks": "",
+            "id": 1675157,
+            "resource_url": "https://api.discogs.com/artists/1675157"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Acoustic Guitar, Organ, Synthesizer, Drums, Percussion, Harmonica",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "5:48"
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Lost In The Dream",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Jon Ashley",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 603245,
+            "resource_url": "https://api.discogs.com/artists/603245"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Electric Piano [Wurlitzer]",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Carter Tanton",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Leslie Guitar]",
+            "tracks": "",
+            "id": 1273292,
+            "resource_url": "https://api.discogs.com/artists/1273292"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Acoustic Guitar, Electric Guitar, Piano, Organ [Fun Machine], Synthesizer, Harmonica, Percussion",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "4:09"
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "In Reverse",
+        "extraartists": [
+          {
+            "name": "David Hartley",
+            "anv": "Dave Hartley",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 1163737,
+            "resource_url": "https://api.discogs.com/artists/1163737"
+          },
+          {
+            "name": "Charlie Hall (7)",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 3736460,
+            "resource_url": "https://api.discogs.com/artists/3736460"
+          },
+          {
+            "name": "Robbie Bennett",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 2038068,
+            "resource_url": "https://api.discogs.com/artists/2038068"
+          },
+          {
+            "name": "Nicolas Vernhes",
+            "anv": "",
+            "join": "",
+            "role": "Tambourine",
+            "tracks": "",
+            "id": 266862,
+            "resource_url": "https://api.discogs.com/artists/266862"
+          },
+          {
+            "name": "Adam Granduciel",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Acoustic Guitar, Synthesizer, Piano, Percussion, Effects [Publison]",
+            "tracks": "",
+            "id": 1203536,
+            "resource_url": "https://api.discogs.com/artists/1203536"
+          }
+        ],
+        "duration": "7:41"
+      }
+    ],
+    "artists": [
+      {
+        "name": "The War On Drugs",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1337908,
+        "resource_url": "https://api.discogs.com/artists/1337908",
+        "thumbnail_url": "https://i.discogs.com/9yYhX7iPNlmJrI1UFWtqSHacvNjyOHZJgVJZSRj3ktI/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMzc5/MDgtMTY4MjYxODg1/NC04ODAwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Lost In The Dream",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Lq_vlKanDKY",
+        "title": "Lost in the dream | Full album",
+        "description": "Best of the war on drugs\n\nIn Reverse linked at the end :)\n\n\n\n\n\n \n#Vevo #UnderThePressure #TheWaronDrugs\n\nThis fanart is used just for \u200brecreational purposes",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vkLOg252KRE",
+        "title": "The War on Drugs - Under The Pressure (Official Video)",
+        "description": "The War On Drugs \"Under The Pressure\" from the album 'Lost In The Dream' out now on Secretly Canadian.\n\nSCD/Secretly: http://www.smarturl.it/warondrugs?iQid=yt.utp // Amazon: http://smarturl.it/warondrugs_amazon?iQid=yt.utp // iTunes: http://smarturl.it/w",
+        "duration": 537,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=TZ9IXScip68",
+        "title": "The War on Drugs - Under the Pressure",
+        "description": "Lost in the Dream (2014, Secretly Canadian)",
+        "duration": 531,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1LmX5c7HoUw",
+        "title": "The War on Drugs - \"Red Eyes\" (Official Video)",
+        "description": "The War On Drugs 'Lost In The Dream' out now on Secretly Canadian\niTunes http://smarturl.it/warondrugs_itunes // Amazon/Physical Stores http://smarturl.it/warondrugs_amazon\nIndies http://smarturl.it/warondrugs_indies \n\n\nProduced by Woodshop Films \nhttp://",
+        "duration": 298,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qOfIN7XBl-4",
+        "title": "The War on Drugs - An Ocean In Between the Waves (Live on KEXP)",
+        "description": "http://KEXP.ORG presents The War on Drugs performing \"An Ocean In Between the Waves\" live in the KEXP studio. Recorded March 28, 2014.\n\nHost: Cheryl Waters\nAudio Engineer: Kevin Suggs\nCameras: Jim Beckmann, Scott Holpainen & Luke Knecht\nEditor: Jim Beckma",
+        "duration": 419,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 664824,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

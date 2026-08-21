@@ -1,0 +1,761 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00199957531368",
+    "artist": "Kurt Vile",
+    "title": "Philadelphia's been good to me",
+    "year": 2026
+  },
+  "results": [
+    {
+      "id": 37522617,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 199957 74325 9",
+        "0199957743259",
+        "LC 00383",
+        "BIEM/SDRM",
+        "-lvc- 0199957376853 A [MPO logo]\u00ae26 399462 ",
+        "-lvc- 0199957376853 B [MPO logo]\u00ae26 398358",
+        "-lvc- 0199957376877 A [MPO logo]\u00ae26 398402",
+        "-lvc- 0199957376877 B [MPO logo]\u00ae26 398403"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37522617-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "00199957743259",
+      "thumb": "https://i.discogs.com/Jp-VlHjufFq_r5MSrngk577pzjUWxh2swhTs6uDPQvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTIy/NjE3LTE3ODA1Njg2/NDYtNjM5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o8wo1bZMtpQIggRl0fb1Ha_n91Qer59y_hrJvdTG-Rk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTIy/NjE3LTE3ODA1Njg2/NDYtNjM5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37522617",
+      "community": {
+        "want": 35,
+        "have": 248
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue Transparent",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37475367,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services",
+        "Eggleston Artistic Trust",
+        "OKV Central",
+        "Ronniejonesound",
+        "Mant",
+        "Easley McCain Recording",
+        "Tarquin Studios",
+        "OKV Central",
+        "Mant",
+        "The Lathe Room",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 99957 37684 6",
+        "199957376846",
+        "199957376846 LP01-A TLR ML 303.1(3)",
+        "199957376846 LP01-B TLR ML 303.2(3) 2",
+        "199957376846 LP02-C TLR ML 303.3(3) 2",
+        "199957376846 LP02-D TLR ML 303.4(3) 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37475367-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "199957376846",
+      "thumb": "https://i.discogs.com/4IO9HWK4DrsKtrR6i0cV4yJ4vQKSAQD2tQjM5uv2tFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/MzY3LTE3ODAyODU2/NDYtOTAzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YQVglKGvCZWGOssjhV0pzfAxcHV9zPrd7SUmgfzAUKQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/MzY3LTE3ODAyODU2/NDYtOTAzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37475367",
+      "community": {
+        "want": 75,
+        "have": 448
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37488333,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 99957 37684 6",
+        "199957376846",
+        "LC 00383",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37488333-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "00199957376846",
+      "thumb": "https://i.discogs.com/4R5FOgaGTh-KoO0GTlkAVFrL3hNow1RV0btOikUjfVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg4/MzMzLTE3ODA2NTUz/ODctNjg0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/x-kfmOzX7jNbcM9Lxuw5ITqXTQUkFJ1QuMuZ879raCQ/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg4/MzMzLTE3ODA2NTUz/ODctNjg0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37488333",
+      "community": {
+        "want": 30,
+        "have": 188
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Wissahickon Green",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37480323,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Verve Records",
+        "Verve Records",
+        "UMG Recordings, Inc.",
+        "Verve Label Group",
+        "UMG Commercial Services",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Eggleston Artistic Trust",
+        "OKV Central",
+        "Ronnie Jones Sound",
+        "Mant",
+        "Easley McCain Recording",
+        "Tarquin Studios",
+        "OKV Central",
+        "Mant",
+        "The Lathe Room",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 99957 37684 6",
+        "199957376846",
+        "199957376846-1",
+        "199957376846 LP01-A TLR ML 303.1(3)",
+        "199957376846 LP01-B TLR ML 303.2(3) 2",
+        "199957376846 LP02-C TLR ML 303.3(3) 2",
+        "199957376846 LP02-D TLR ML 303.4(3) 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37480323-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "199957376846",
+      "thumb": "https://i.discogs.com/vguJzt49JzPhP1n1DBqAcy1aaNejVw4Z1p4z1jxU0JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDgw/MzIzLTE3ODE4Njg1/ODMtNzQ4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TxqZz2GBDjVeSOCYyUzPXMmu7-xbGQAh4_0ZdAh7Zys/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDgw/MzIzLTE3ODE4Njg1/ODMtNzQ4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37480323",
+      "community": {
+        "want": 48,
+        "have": 369
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Schuylkill River Blue",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37542828,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "Universal International Music B.V.",
+        "Verve Label Group",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "199957376846",
+        "LC 00383",
+        "BIEM/SDRM",
+        "0199957376853 A [MPO logo]\u00ae26 395116 -LvC-",
+        "0199957376853 B [MPO logo]\u00ae26 395117 -LvC-",
+        "0199957376877 A [MPO logo]\u00ae26 395118 -LvC-",
+        "0199957376877 B [MPO logo]\u00ae26 395119 -LvC-"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37542828-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "00199957376846",
+      "thumb": "https://i.discogs.com/DEuc5Cu2e-n_sTp21jdzEyp4l5ICGE5CrlRXVMV5zDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQy/ODI4LTE3ODE1NDIx/OTUtMjU4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SVVw2ckyRQI_bq_iIJAckqPgf7t6PMlEbo0uvipKG3Y/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQy/ODI4LTE3ODE1NDIx/OTUtMjU4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37542828",
+      "community": {
+        "want": 17,
+        "have": 81
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37496520,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services",
+        "The Lathe Room",
+        "Record Technology Incorporated",
+        "OKV Central",
+        "Ronniejonesound",
+        "Mant",
+        "Easley McCain Recording",
+        "Tarquin Studios",
+        "OKV Central",
+        "Mant"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 99957 45332 5",
+        "199957453325",
+        "1 99957 37684 6",
+        "199957376846",
+        "199957376846 LP01-A TLR ML 303.1(3)",
+        "199957376846 LP01-B TLR ML 303.2(3) 2",
+        "199957376846 LP02-C TLR ML 303.3(3)",
+        "199957376846 LP02-D TLR ML 303.4(3) 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37496520-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "199957376846",
+      "thumb": "https://i.discogs.com/-s3QO-dVkmnqQj349GsbBJCznv3P_eQM2MYw2PeOkVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDk2/NTIwLTE3ODAyNjcz/NjYtNDM0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/43ksnsru8NvPRqpGZ5UD3hXbLJcItOq5c5qRmj33dxU/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDk2/NTIwLTE3ODAyNjcz/NjYtNDM0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37496520",
+      "community": {
+        "want": 28,
+        "have": 228
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Wooder Ice Red",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37475760,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 99957 37692 1",
+        "[Universal Logo] 00199957376921 A0103566001-0101 23 A00",
+        "IFPIL552",
+        "IFPI94K4",
+        "LC00383"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37475760-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "00199957376921",
+      "thumb": "https://i.discogs.com/WOfEf6BgzJ45cNGPAySydA5UZuVPfVfvCcSDBuAhEtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctMjQ3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9nIomLHKM5TY7CfSgMT7a2HjUmq3Qfe_EYzr6-dTg1Q/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctMjQ3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37475760",
+      "community": {
+        "want": 18,
+        "have": 96
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37420716,
+      "title": "Kurt Vile - Philadelphia's Been Good To Me",
+      "master_id": 4240155,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Verve Records",
+        "overnite kv incorporated",
+        "overnite kv incorporated",
+        "Verve Label Group",
+        "UMG Recordings, Inc.",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "199957376921",
+        "(1317277) 00199957376921 02 0001",
+        "IFPI LV77",
+        "IFPI KK3F"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4240155",
+      "uri": "/release/37420716-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+      "catno": "199957376921",
+      "thumb": "https://i.discogs.com/C8Bv5NzXbGbtSgAY60pGuIcUfjvj3rNP_7BF8-p6pwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIw/NzE2LTE3Nzk1NDI5/NDAtMzU0MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/V573Hp8C5lfWx1qVV9vGT8TRR7JML50W-bZrtUT5viQ/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIw/NzE2LTE3Nzk1NDI5/NDAtMzU0MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37420716",
+      "community": {
+        "want": 27,
+        "have": 103
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 4240155,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [],
+    "main_release": 37475760,
+    "most_recent_release": 37542828,
+    "resource_url": "https://api.discogs.com/masters/4240155",
+    "uri": "https://www.discogs.com/master/4240155-Kurt-Vile-Philadelphias-Been-Good-To-Me",
+    "versions_url": "https://api.discogs.com/masters/4240155/versions",
+    "main_release_url": "https://api.discogs.com/releases/37475760",
+    "most_recent_release_url": "https://api.discogs.com/releases/37542828",
+    "num_for_sale": 78,
+    "lowest_price": 7.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/9nIomLHKM5TY7CfSgMT7a2HjUmq3Qfe_EYzr6-dTg1Q/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctMjQ3My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9nIomLHKM5TY7CfSgMT7a2HjUmq3Qfe_EYzr6-dTg1Q/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctMjQ3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WOfEf6BgzJ45cNGPAySydA5UZuVPfVfvCcSDBuAhEtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctMjQ3My5qcGVn.jpeg",
+        "width": 600,
+        "height": 584
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FL3Z57LsCdtw57Tp1SKIpbC8fEGT3j14R4dcYtVBE7Y/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctODMwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FL3Z57LsCdtw57Tp1SKIpbC8fEGT3j14R4dcYtVBE7Y/rs:fit/g:sm/q:90/h:513/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctODMwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/C2KTaMA3c9rPw9QYBP7t_FJNHcGE9tFQ3dmlx_CtLFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctODMwNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 513
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iIeVdvlRYniI-WbkYsiMFrsEGZxySizNXPPzCMtur9g/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctOTkzNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/iIeVdvlRYniI-WbkYsiMFrsEGZxySizNXPPzCMtur9g/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctOTkzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mNb5IWlRdS4WF__x9Gm9Wq7Q0o5I4bVQl4ZOBg-xgBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctOTkzNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 464
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/C5K_9FTwztnaGaZCBhHaR1ptPvINj-uHxe-x73ho7jc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtOTYzMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/C5K_9FTwztnaGaZCBhHaR1ptPvINj-uHxe-x73ho7jc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtOTYzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LQ0N3vqDrriDzVkF_GDr8Kp8hCTIFy4PZ9ECx8S7EkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtOTYzMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/APWo64F0kIyxd0oXmvsJiwka-_46SUAn2El0MMdQuj4/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctNDM0MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/APWo64F0kIyxd0oXmvsJiwka-_46SUAn2El0MMdQuj4/rs:fit/g:sm/q:90/h:511/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctNDM0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/__tIRYw4WsVGkVAXk4BQY2oNbm5YtesJHm6aj4E0ejo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzctNDM0MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 511
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5O7NrQxSzDWQLAOugiSYNg1ezmM5JnLjT_Lr38c03O0/rs:fit/g:sm/q:90/h:600/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtODIyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/5O7NrQxSzDWQLAOugiSYNg1ezmM5JnLjT_Lr38c03O0/rs:fit/g:sm/q:90/h:600/w:546/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtODIyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/PpfcAu3VRp7uEABmzM_fZ3kyQA5q-CmcEdnVXb-fEhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc1/NzYwLTE3ODAwNTY2/MzYtODIyMi5qcGVn.jpeg",
+        "width": 546,
+        "height": 600
+      }
+    ],
+    "year": 2026,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Zoom 97",
+        "duration": "4:54"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "99 BPM",
+        "duration": "4:45"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Rock O' Stone",
+        "duration": "5:35"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "You Don't Know Cuz It's My Life",
+        "duration": "5:38"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Chance To Bleed",
+        "duration": "4:55"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Philly's Been Good To Me",
+        "duration": "5:51"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "99th Song",
+        "duration": "10:11"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Red Room Dub",
+        "duration": "3:16"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Holiday Okv",
+        "duration": "4:33"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Every Time I Look At You",
+        "duration": "5:02"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Piano For Sarah",
+        "duration": "2:35"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Avalanches Of Snow",
+        "duration": "7:19"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Kurt Vile",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1203535,
+        "resource_url": "https://api.discogs.com/artists/1203535",
+        "thumbnail_url": "https://i.discogs.com/4zqLEfI03kKP9vP3Wi7N6AKH81EjTorpR6ZfxW79jIM/rs:fit/g:sm/q:90/h:512/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMDM1/MzUtMTMzODkwNjE4/Ni0xMTcyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Philadelphia's Been Good To Me",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=hibDX0wH1F4",
+        "title": "Kurt Vile - Zoom 97 (Visualizer)",
+        "description": "Listen to \"Zoom 97\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets, music",
+        "duration": 295,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WQycWk-Vvck",
+        "title": "Kurt Vile - 99 BPM (Audio)",
+        "description": "99 BPM\n\nListen to \"99 BPM\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets",
+        "duration": 286,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BfYAugu2jng",
+        "title": "Kurt Vile - Rock o\u2019 Stone (Audio)",
+        "description": "Listen to \"Rock o\u2019 Stone\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets,",
+        "duration": 336,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2hQQ89AWYU8",
+        "title": "Kurt Vile - You don\u2019t know cuz it\u2019s my life (Audio)",
+        "description": "Listen to \"You don\u2019t know cuz it\u2019s my life\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSi",
+        "duration": 339,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FDq6YTeldcY",
+        "title": "Kurt Vile - Chance to Bleed (Official Music Video)",
+        "description": "Listen to \"Chance to Bleed\": https://KurtVile.lnk.to/ChanceToBleedID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets, music, me",
+        "duration": 328,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1CbGJDlcmQA",
+        "title": "Kurt Vile - Philly\u2019s been good to me (Audio)",
+        "description": "Listen to \"Philly\u2019s been good to me\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up f",
+        "duration": 352,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=j89vJGGBY1w",
+        "title": "Kurt Vile - 99th song (Audio)",
+        "description": "Listen to \"99th song\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets, mus",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7uDdeeRWQx8",
+        "title": "Kurt Vile - Red Room Dub (Audio)",
+        "description": "Listen to \"Red Room Dub\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets, ",
+        "duration": 197,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wPK04yBuKx8",
+        "title": "Kurt Vile - Holiday OKV (Audio)",
+        "description": "Listen to \"Holiday OKV\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tickets, m",
+        "duration": 274,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=9M-E2Mif1Oc",
+        "title": "Kurt Vile - Every time I look at you (Audio)",
+        "description": "Listen to \"Every time I look at you\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up f",
+        "duration": 303,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IRcQvMCMaBs",
+        "title": "Kurt Vile - Piano for Sarah (Audio)",
+        "description": "Piano for Sarah\n\nListen to \"Piano for Sarah\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nS",
+        "duration": 156,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=X7tRZZZdjks",
+        "title": "Kurt Vile - Avalanches of Snow (Audio)",
+        "description": "Listen to \"Avalanches of Snow\": https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nOrder the album Philadelphia's been good to me: https://KurtVile.lnk.to/PhiladelphiasBeenGoodToMeID\n\nSee Kurt Vile on Tour: https://www.kurtvile.com/tour\n\nSign up for tic",
+        "duration": 440,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 4240155,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

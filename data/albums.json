@@ -1014,8 +1014,24 @@
       "Phoebe Bridgers"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27325a647ace83ba32770ab5d0f",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 4313877,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2NSzwyYvQvdOQAoEjrlw9c",
     "release_date": "2026-08-14",
     "release_year": 2026,
@@ -1298,8 +1314,19 @@
       "The Tallest Man On Earth"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27318488ae4790938ab69921f0d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 254560,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "35ePiX5vGMFyRY2x909JRV",
     "release_date": "2010-04-11",
     "release_year": 2010,
@@ -1641,8 +1668,19 @@
       "The War On Drugs"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273f34338e9270f9c0561cf4c7e",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 664824,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_style"
+      }
+    ],
     "id": "51VxHZphGLsI7aUPqIkJaz",
     "release_date": "2014-03-18",
     "release_year": 2014,
@@ -1658,8 +1696,14 @@
       "Kurt Vile"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2736fc26b002a2cf7d25f90cd72",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 4240155,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5AfELtBFbN1hM75hgqc7FI",
     "release_date": "2026-05-29",
     "release_year": 2026,
@@ -1718,8 +1762,29 @@
       "D'Angelo"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3dcd9c800f6a4c110339ee2",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 771416,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Blues",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Funk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5Hfbag0SsHxafx1SySFSX6",
     "release_date": "2014-12-15",
     "release_year": 2014,
@@ -1737,8 +1802,19 @@
       "Killer Mike"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273a6e14ae4b6e2291817e03772",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 733856,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      }
+    ],
     "id": "5IzJw66prbCD5KRbBlcKaj",
     "release_date": "2014-10-27",
     "release_year": 2014,
@@ -2338,8 +2414,19 @@
       "Death Cab for Cutie"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273ac5899ddc449d1e54a1b8880",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3528,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_style"
+      }
+    ],
     "id": "7jwLAtPHF7TW7dtELtayOd",
     "release_date": "2003-10-07",
     "release_year": 2003,

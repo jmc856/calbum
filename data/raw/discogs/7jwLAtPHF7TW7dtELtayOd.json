@@ -1,0 +1,1027 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "655173103227",
+    "artist": "Death Cab for Cutie",
+    "title": "Transatlanticism",
+    "year": 2003
+  },
+  "results": [
+    {
+      "id": 33031977,
+      "title": "Death Cab For Cutie - Transatlanticism",
+      "master_id": 3528,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Barsuk Records",
+        "CDForge",
+        "The Hall Of Justice",
+        "Tiny Telephone",
+        "Avast! Recording Co.",
+        "Ironwood Studios",
+        "Studio X"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 55173 10322 7",
+        "655173103227",
+        "119626 1105504 WWW.CDFORGE.COM BARK32",
+        "none",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3528",
+      "uri": "/release/33031977-Death-Cab-For-Cutie-Transatlanticism",
+      "catno": "bark32",
+      "thumb": "https://i.discogs.com/MISulk5YNQfMk2_GNmewvodX2TzHJw_VkYXp8kgmbxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDMx/OTc3LTE3NTczOTEy/MzgtNDUxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rGeC7dF5xSYcYM4jraIxVEvvhJ6MKya6hpp7YbR6gCc/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDMx/OTc3LTE3NTczOTEy/MzgtNDUxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33031977",
+      "community": {
+        "want": 79,
+        "have": 312
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37447359,
+      "title": "Death Cab For Cutie - Transatlanticism",
+      "master_id": 3528,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Barsuk Records",
+        "The Hall Of Justice",
+        "Tiny Telephone",
+        "Avast! Recording Co.",
+        "Ironwood Studios",
+        "Studio X"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 55173 10322 7",
+        "655173103227",
+        "103626 1105504 www.atozmedia.com BARK32 01",
+        "IFPILL29",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3528",
+      "uri": "/release/37447359-Death-Cab-For-Cutie-Transatlanticism",
+      "catno": "bark32",
+      "thumb": "https://i.discogs.com/lj5MBXK2KC92UQdN1OBP8vLHHlQdimQu4sfn6W9IfQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ3/MzU5LTE3Nzk3OTUz/MjUtNDk4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/f5bjKTj2wCk_-nTrg2-RWLEKWEElvnh4HAvdg_L4E9Q/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ3/MzU5LTE3Nzk3OTUz/MjUtNDk4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37447359",
+      "community": {
+        "want": 21,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13366233,
+      "title": "Death Cab For Cutie - Transatlanticism",
+      "master_id": 3528,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Barsuk Records",
+        "RFI Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 55173 10322 7",
+        "4/11/2017  03:12.AM#8844    2742245 01",
+        "IFPI LN09",
+        "IFPI JI03"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3528",
+      "uri": "/release/13366233-Death-Cab-For-Cutie-Transatlanticism",
+      "catno": "bark32",
+      "thumb": "https://i.discogs.com/KbeJfHgr4fjqsrIdb07-aTOReUgQ2ZSZmcvrjZm3dCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/MjMzLTE1NTI4NDUx/MzMtODI1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PXREnntOCriwhGwajMEhp-F9bUA43hqQtD9mftRGtTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/MjMzLTE1NTI4NDUx/MzMtODI1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13366233",
+      "community": {
+        "want": 194,
+        "have": 279
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16628565,
+      "title": "Death Cab For Cutie - Transatlanticism",
+      "master_id": 3528,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Barsuk Records",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 55173 10322 7",
+        "BARK 32 6745-CD-3008",
+        "BARK 32 6745-CD-3008 21-074-15",
+        "IFPI LK13",
+        "IFPI L824"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3528",
+      "uri": "/release/16628565-Death-Cab-For-Cutie-Transatlanticism",
+      "catno": "bark32",
+      "thumb": "https://i.discogs.com/uxYbVM_n3Y5dZZXB_ScM2hXpe5Z4n0CgFKgyO8_9_zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI4/NTY1LTE2MDg5Mjc4/MzQtNDgzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Fxhb_9vEw6LiYxaM-qZfUS-ERm3aqprGyTaxXDVaHLw/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjI4/NTY1LTE2MDg5Mjc4/MzQtNDgzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16628565",
+      "community": {
+        "want": 128,
+        "have": 296
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 444472,
+      "title": "Death Cab For Cutie - Transatlanticism",
+      "master_id": 3528,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2003",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Barsuk Records",
+        "CDForge",
+        "Optidisc Solutions",
+        "Optidisc Solutions",
+        "The Hall Of Justice",
+        "Tiny Telephone",
+        "Avast! Recording Co.",
+        "Ironwood Studios",
+        "Studio X",
+        "RFI Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 55173 10322 7",
+        "655173103227",
+        "WWW.CDFORGE.COM BARK32 372250 D11",
+        "IFPI LM26",
+        "IFPI KN06",
+        "WWW.CDFORGE.COM BARK32 372250 D3",
+        "IFPI LM26",
+        "none",
+        "WWW.CDFORGE.COM BARK32 372250 D2 IFPI LM26",
+        "IFPI LM26",
+        "IFPI KN06",
+        "WWW.CDFORGE.COM BARK32 372250 D24",
+        "IFPI LM26",
+        "IFPI KN09",
+        "WWW.CDFORGE.COM BARK32 372250 D7",
+        "IFPI LM26",
+        "IFPI KN06",
+        "WWW.CDFORGE.COM BARK32 372250 39",
+        "IFPI LM26",
+        "IFPI KN15"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3528",
+      "uri": "/release/444472-Death-Cab-For-Cutie-Transatlanticism",
+      "catno": "bark32",
+      "thumb": "https://i.discogs.com/NnzWR3JjLZD-iXfWYwJV2Cj28Kad-3FbaWzZyEw0F-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xMjk3NTYzMzcy/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/l7RBU4tIMi6ecJWmFklb4GDEn2Im5elFOQSkCMEuzYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xMjk3NTYzMzcy/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/444472",
+      "community": {
+        "want": 876,
+        "have": 3961
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3528,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 444472,
+    "most_recent_release": 37447359,
+    "resource_url": "https://api.discogs.com/masters/3528",
+    "uri": "https://www.discogs.com/master/3528-Death-Cab-For-Cutie-Transatlanticism",
+    "versions_url": "https://api.discogs.com/masters/3528/versions",
+    "main_release_url": "https://api.discogs.com/releases/444472",
+    "most_recent_release_url": "https://api.discogs.com/releases/37447359",
+    "num_for_sale": 196,
+    "lowest_price": 5.8,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/l7RBU4tIMi6ecJWmFklb4GDEn2Im5elFOQSkCMEuzYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xMjk3NTYzMzcy/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/l7RBU4tIMi6ecJWmFklb4GDEn2Im5elFOQSkCMEuzYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xMjk3NTYzMzcy/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/NnzWR3JjLZD-iXfWYwJV2Cj28Kad-3FbaWzZyEw0F-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xMjk3NTYzMzcy/LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xu53tueTFkrKbupZ4udwtj5SQ7TfEujuIkd_5dy1MwE/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTMwMTIucG5n.jpeg",
+        "resource_url": "https://i.discogs.com/xu53tueTFkrKbupZ4udwtj5SQ7TfEujuIkd_5dy1MwE/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTMwMTIucG5n.jpeg",
+        "uri150": "https://i.discogs.com/hes3h7Qw8xTvcfRoJOusWdOx5eik-J0YL0QjOwBf2aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTMwMTIucG5n.jpeg",
+        "width": 600,
+        "height": 468
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tm3wHIv7T6L-YeKMYRmLnmQOE_LAPpwX3QWRCn-D7P0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODcw/LTI3MjAucG5n.jpeg",
+        "resource_url": "https://i.discogs.com/tm3wHIv7T6L-YeKMYRmLnmQOE_LAPpwX3QWRCn-D7P0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODcw/LTI3MjAucG5n.jpeg",
+        "uri150": "https://i.discogs.com/dq1EB1_R3f8kXDpzaZfTxYnjPMT1es3mAQD3WrtUXcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODcw/LTI3MjAucG5n.jpeg",
+        "width": 594,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/H3oCtVvK43EXTWy33J086qcMMKe8daPbCNvvUnKrAeA/rs:fit/g:sm/q:90/h:375/w:365/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODY1/LTUwMTUucG5n.jpeg",
+        "resource_url": "https://i.discogs.com/H3oCtVvK43EXTWy33J086qcMMKe8daPbCNvvUnKrAeA/rs:fit/g:sm/q:90/h:375/w:365/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODY1/LTUwMTUucG5n.jpeg",
+        "uri150": "https://i.discogs.com/e0KAOYp2FBqo1Zo1Nmqbi4X1ycBWunnyY9VySx9bBNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODY1/LTUwMTUucG5n.jpeg",
+        "width": 365,
+        "height": 375
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TfLM5hq4CwJ_MmGe5QL1u1rogENzDFvMYV3v_YD3bVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTIzMzguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/TfLM5hq4CwJ_MmGe5QL1u1rogENzDFvMYV3v_YD3bVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTIzMzguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/tpfZIyZ6VZa92Y4q1By2rb1zBiD5cf1Tb_PrZyFVwNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTIzMzguanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sxAuQD93tPb9PDm6JFMeEOVME-_lclCBNRR74k4GuHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTQxMjUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/sxAuQD93tPb9PDm6JFMeEOVME-_lclCBNRR74k4GuHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTQxMjUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/Oq4qNJYm-4VgumuSiu81K19ayO47HJCP9NyCw0jnBW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTQxMjUuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qP9yEV676w34aKY1fh8f2oqz_2pl_V3P8dNEo7PJFxE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTkzMDQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/qP9yEV676w34aKY1fh8f2oqz_2pl_V3P8dNEo7PJFxE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTkzMDQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/XxqGWf9wbuUwRboDZ7tlScjoGy_z2wGOFkklsGVJtYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTkzMDQuanBlZw.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4zSXnbdroFRIbuhzKNp8Loft7k6wJk1h0P9cD8IXdro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTg3NDMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/4zSXnbdroFRIbuhzKNp8Loft7k6wJk1h0P9cD8IXdro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTg3NDMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/_3OVLcJIyOMd2I-2luhHgML0K31je8kuWkC5WBTE5wE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTg3NDMuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/aalTrYOckMxxB0keGb3r16_zBALEXSLlk32ce9aR_Z8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYwMDAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/aalTrYOckMxxB0keGb3r16_zBALEXSLlk32ce9aR_Z8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYwMDAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/a93CTfdlKN7BDuY8kAqdjHLsPWBiJY8YoQmScXg3YAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYwMDAuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/02OFyEjST7Cz4HIWDBL8CiDAOJM79eGAYRWVaGktw1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYyNTguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/02OFyEjST7Cz4HIWDBL8CiDAOJM79eGAYRWVaGktw1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYyNTguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ifiE7EK02ZrAVWVHLq4BJhX-0PkIE-pZOpZI2EkriKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODg5/LTYyNTguanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/l9Z8FKuXPvq1sAHUQzUA_NbGbkcptAUsCOv78O6Fgxs/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTQyMjYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/l9Z8FKuXPvq1sAHUQzUA_NbGbkcptAUsCOv78O6Fgxs/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTQyMjYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/Kb9RmvMfnOon-p0tA1iABrigGg_ETX5UqAEBKSBQr4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTQyMjYuanBlZw.jpeg",
+        "width": 600,
+        "height": 539
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zJ1LhgOO1rVvfBuW6c6hBDXGbIaImPbnL1YEc8HeHho/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTUyNTQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/zJ1LhgOO1rVvfBuW6c6hBDXGbIaImPbnL1YEc8HeHho/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTUyNTQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/tDXKfWgkwvmt8yL0FrSNU3fPoFHjPz2VIquip3cm__U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODkz/LTUyNTQuanBlZw.jpeg",
+        "width": 600,
+        "height": 560
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nj9cMh0CDkKkmE51nyx-O6z1egTBPWitGLzcK5wYlHM/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTk0NDkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/nj9cMh0CDkKkmE51nyx-O6z1egTBPWitGLzcK5wYlHM/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTk0NDkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/lw3O0vISTGzX09Ba0j1vyhHEaT9ct1htbBu1PVr1ArE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODky/LTk0NDkuanBlZw.jpeg",
+        "width": 600,
+        "height": 539
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PJH2qrltciIyzKa85XZACPZIt1S1fKP2jewAe3hiDts/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTg3NTYucG5n.jpeg",
+        "resource_url": "https://i.discogs.com/PJH2qrltciIyzKa85XZACPZIt1S1fKP2jewAe3hiDts/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTg3NTYucG5n.jpeg",
+        "uri150": "https://i.discogs.com/UBKrvfGa-Rus7LxWPJcOvW9uYC2AYneD_-rsSjCaqKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNDI5NzM1ODc2/LTg3NTYucG5n.jpeg",
+        "width": 600,
+        "height": 466
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZLebmWOBu94uMBxVFWoPC_xhh1LVZsif_ZWrAJNJnQE/rs:fit/g:sm/q:90/h:153/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODc3/LTQ4OTguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/ZLebmWOBu94uMBxVFWoPC_xhh1LVZsif_ZWrAJNJnQE/rs:fit/g:sm/q:90/h:153/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODc3/LTQ4OTguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/vjdZgZa_pdyeojxz6I1Z_j07zOIacsUlVsYSBODsykA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/Mi0xNjAxODI0ODc3/LTQ4OTguanBlZw.jpeg",
+        "width": 600,
+        "height": 153
+      }
+    ],
+    "year": 2003,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "The New Year",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Walla",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Jason McGerr",
+            "anv": "McGerr",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 401140,
+            "resource_url": "https://api.discogs.com/artists/401140"
+          },
+          {
+            "name": "Nicholas Harmer",
+            "anv": "Harmer",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 401139,
+            "resource_url": "https://api.discogs.com/artists/401139"
+          }
+        ],
+        "duration": "4:06"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Lightness",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          }
+        ],
+        "duration": "3:30"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Title And Registration",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Walla",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": "3:39"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Expo '86",
+        "extraartists": [
+          {
+            "name": "John Goodmanson",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 254991,
+            "resource_url": "https://api.discogs.com/artists/254991"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Walla",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": "4:11"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "The Sound Of Settling",
+        "extraartists": [
+          {
+            "name": "John Goodmanson",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 254991,
+            "resource_url": "https://api.discogs.com/artists/254991"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Ben",
+            "join": "",
+            "role": "Stomp Box [Stomped, With], Handclaps [Clapped, With]",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Jason McGerr",
+            "anv": "Jason",
+            "join": "",
+            "role": "Stomp Box [Stomped, With], Handclaps [Clapped, With]",
+            "tracks": "",
+            "id": 401140,
+            "resource_url": "https://api.discogs.com/artists/401140"
+          },
+          {
+            "name": "Nicholas Harmer",
+            "anv": "Nick",
+            "join": "",
+            "role": "Stomp Box [Stomped, With], Handclaps [Clapped, With]",
+            "tracks": "",
+            "id": 401139,
+            "resource_url": "https://api.discogs.com/artists/401139"
+          },
+          {
+            "name": "Rob Herbst",
+            "anv": "",
+            "join": "",
+            "role": "Stomp Box [Stomped], Handclaps [Clapped]",
+            "tracks": "",
+            "id": 426365,
+            "resource_url": "https://api.discogs.com/artists/426365"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          }
+        ],
+        "duration": "2:13"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Tiny Vessels",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Nicholas Harmer",
+            "anv": "Harmer",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 401139,
+            "resource_url": "https://api.discogs.com/artists/401139"
+          }
+        ],
+        "duration": "4:22"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Transatlanticism",
+        "extraartists": [
+          {
+            "name": "The Barsuk Men's Choir",
+            "anv": "",
+            "join": "",
+            "role": "Choir",
+            "tracks": "",
+            "id": 823756,
+            "resource_url": "https://api.discogs.com/artists/823756"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Ben",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir, With]",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Chris",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir, With]",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Nicholas Harmer",
+            "anv": "Nick",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir, With]",
+            "tracks": "",
+            "id": 401139,
+            "resource_url": "https://api.discogs.com/artists/401139"
+          },
+          {
+            "name": "John Roderick",
+            "anv": "",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir]",
+            "tracks": "",
+            "id": 288778,
+            "resource_url": "https://api.discogs.com/artists/288778"
+          },
+          {
+            "name": "Phil Wandscher",
+            "anv": "",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir]",
+            "tracks": "",
+            "id": 288777,
+            "resource_url": "https://api.discogs.com/artists/288777"
+          },
+          {
+            "name": "Sean Nelson",
+            "anv": "",
+            "join": "",
+            "role": "Choir [The Barsuk Men's Choir]",
+            "tracks": "",
+            "id": 280269,
+            "resource_url": "https://api.discogs.com/artists/280269"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Walla",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          }
+        ],
+        "duration": "7:55"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Passenger Seat",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          }
+        ],
+        "duration": "3:42"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Death Of An Interior Decorator",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          }
+        ],
+        "duration": "2:57"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "We Looked Like Giants",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          },
+          {
+            "name": "Chris Walla",
+            "anv": "Walla",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Jason McGerr",
+            "anv": "McGerr",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 401140,
+            "resource_url": "https://api.discogs.com/artists/401140"
+          },
+          {
+            "name": "Nicholas Harmer",
+            "anv": "Harmer",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 401139,
+            "resource_url": "https://api.discogs.com/artists/401139"
+          }
+        ],
+        "duration": "5:33"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "A Lack Of Color",
+        "extraartists": [
+          {
+            "name": "Chris Walla",
+            "anv": "Christopher Walla",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 226217,
+            "resource_url": "https://api.discogs.com/artists/226217"
+          },
+          {
+            "name": "Ben Gibbard",
+            "anv": "Gibbard",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 221561,
+            "resource_url": "https://api.discogs.com/artists/221561"
+          }
+        ],
+        "duration": "3:36"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Death Cab For Cutie",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 280098,
+        "resource_url": "https://api.discogs.com/artists/280098",
+        "thumbnail_url": "https://i.discogs.com/xB4eRWDO17_iRXNrzeG_SgYpui2qEc8BkBHpPNSXSzE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MDA5/OC0xNjUyODIyMDg1/LTg1MzMuanBlZw.jpeg"
+      }
+    ],
+    "title": "Transatlanticism",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=NSgHGFuPNus",
+        "title": "Death Cab For Cutie - The New Year (Official Video)",
+        "description": "\u00a9 2009 WMG\nDeath Cab For Cutie, The New Year music video, from the album Transalanticism. Directed by Jay Martin",
+        "duration": 241,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1XmbvfxMiUE",
+        "title": "Death Cab for Cutie - Title and Registration (Official Video)",
+        "description": "\u00a9 2011 WMG \r\nDeath Cab for Cutie, Title and Registration music video, from the album Transalanticism. Directed by Patrick Daughters.",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Pphrk6wE5aw",
+        "title": "Death Cab For Cutie - The Sound of Settling (Official Video)",
+        "description": "\u00a9 2011 WMG\r\nDeath Cab For Cutie, The Sound of Settling music video, from the album Transalanticism. Directed by Tomorrow's Brightest Minds.",
+        "duration": 144,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bJq7x_9mtA0",
+        "title": "Death Cab For Cutie - Transatlanticism (unofficial video)",
+        "description": "Unofficial video for the Death Cab For Cutie song \"Transatlanticism\", starring Shannon Carter of Astropiano Films's 'Sunblocked'!  This was my final project at CDIA.\n\nWatch the blooper reel at http://www.youtube.com/watch?v=BE-Dro3nGT0 !\n\nAstropiano Films",
+        "duration": 480,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lNd590PuZpc",
+        "title": "Death Cab For Cutie - \"Transatlanticism\" (Official Audio)",
+        "description": "The official audio for Death Cab For Cutie's \"Transatlanticism\", from their album Transatlanticism, on Barsuk Records. Released October 7th, 2003.\n\nMore from the band & this album, here:\nhttps://www.barsuk.com/to/transatlanticism",
+        "duration": 476,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5tIVVEIdu2g",
+        "title": "Death Cab for Cutie - \"We Looked Like Giants\" (Audio)",
+        "description": "From Death Cab for Cutie's fourth full-length album titled \"Transatlanticism\".\n\nhttp://www.deathcabforcutie.com/\nhttps://www.facebook.com/deathcabforcutie\nhttps://www.twitter.com/dcfc\nhttp://www.barsuk.com",
+        "duration": 334,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AQ6xZ8iRNSs",
+        "title": "Death Cab For Cutie - \"Lightness\" (Official Audio)",
+        "description": "The official audio for Death Cab For Cutie's \"Lightness\", from their album Transatlanticism, on Barsuk Records. Released October 7th, 2003.\n\nMore from the band & this album, here:\nhttps://www.barsuk.com/to/transatlanticism",
+        "duration": 211,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=r85SJbsKZxE",
+        "title": "Death Cab For Cutie - \"Expo '86\" (Official Audio)",
+        "description": "The official audio for Death Cab For Cutie's \"Expo '86\", from their album Transatlanticism, on Barsuk Records. Released October 7th, 2003.\n\nMore from the band & this album, here:\nhttps://www.barsuk.com/to/transatlanticism",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Dc5ARdlS1Wc",
+        "title": "Death Cab For Cutie - \"The Sound of Settling\" (Official Audio)",
+        "description": "The official audio for Death Cab For Cutie's \"The Sound of Settling\", from their album Transatlanticism, on Barsuk Records. Released October 7th, 2003.\n\nMore from the band & this album, here:\nhttps://www.barsuk.com/to/transatlanticism",
+        "duration": 133,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aUB-DDOgg0Q",
+        "title": "Death Cab for Cutie - Transatlanticism (Full Album)",
+        "description": "I own nothing, only myself.\n\n@josehmachado  \u2022 3 years ago\nThe new year- 0:00 \nLightness- 4:06 \nTitle and Registration-  7:36 \nExpo '86- 11:16\nThe sound of settling- 15:27\nTiny vessels- 17:41\nTrasatlanticism- 22:01\nPassenger seat- 30:05\nDeath of an interio",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3528,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

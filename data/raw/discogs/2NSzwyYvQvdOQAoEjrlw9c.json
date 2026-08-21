@@ -1,0 +1,1643 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "656605170060",
+    "artist": "Phoebe Bridgers",
+    "title": "Lost Weekend",
+    "year": 2026
+  },
+  "results": [
+    {
+      "id": 38149638,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170091",
+        "6 56605 17009 1",
+        "D0C400LPA-1 (5) D0C400LP A-5 316445E1 02589941 2565149 JN-H ster-ng",
+        "D0C400LPB-1 (5) D0C400LP B-5 316445E2 02589565 2585170 JN-H ster-ng",
+        "D0C400LPC-1 (3) D0C400LP C-3 316338E3 02602122 2596808 JN-H ster-ng",
+        "D0C400LPD-1 (5) D0C400LP D-5 316445E4 02591600 2585127 JN-H ster-ng"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38149638-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/xRDqyRAUjfD4qXfNWXWaFdu9H5ZZR6sWla1sL7XPAek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ5/NjM4LTE3ODY3NTQx/NjgtMTg3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FfiWnEHJsnM0Tpvq8VRsHXUUPO5L2XNs37x3vnonb0o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ5/NjM4LTE3ODY3NTQx/NjgtMTg3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38149638",
+      "community": {
+        "want": 127,
+        "have": 610
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green / Dark Green Marble w/ Glitter [Europa Ice]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38167071,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk",
+        "Acoustic"
+      ],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38167071-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/DCXV0q-p2sYA5b82yuMX60VgXqVsPuSvAJC4HjFZNrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY3/MDcxLTE3ODY5MTI0/MjMtNzI5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XhdwKr9_xUwPmUiT9OeB2ds3-jFLM6O7zw7auxhKFnU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY3/MDcxLTE3ODY5MTI0/MjMtNzI5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38167071",
+      "community": {
+        "want": 2,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "24-Bit / 48 kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38148381,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "UK",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 17308 05087 5",
+        "617308050875"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38148381-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/MqtqJIiVTx0tOu4_nrhhSqB57HeR1ufb5TOeG9hOLkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ4/MzgxLTE3ODY4MDUy/MTctNTA2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kc4xUmukUbOkZUowyjeD_fcrQLPdeglrVBfaaKhS-cQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ4/MzgxLTE3ODY4MDUy/MTctNTA2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38148381",
+      "community": {
+        "want": 41,
+        "have": 442
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38093415,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "USA & Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound, Pasadena, CA",
+        "Brown Coat Music",
+        "Covertly Canadian Publishing",
+        "Secretly Publishing",
+        "Sterling Sound Nashville",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 56605 17003 9",
+        "656605170039",
+        "6 17308 06755 2",
+        "617308067552",
+        "BMI",
+        "DOC400LP A-1 (2) DOC400LP A-2 JN-H STERLING 2580298 02580999 316265E1",
+        "DOC400LP B-1 (2) DOC400LP B-2 JN-H STERLING 2580432 02581475 316265E2",
+        "DOC400LP D-1 (2) DOC400LP D-2 JN-H STERLING 2580452 02584044 316265E4",
+        "DOC400LP A-1 (4) DOC400LP A-4 JN-H STERLING 2571349 02574096 316273E1",
+        "DOC400LP A-1 (4) DOC400LP A-4 JN-H STERLING 2571349 02574096 316273E1",
+        "DOC400LP B-1 (1) DOC400LP B-1 2567057 JN-H STERLING 316231E2 02585506 ",
+        "DOC400LP C-1 (4) DOC400LP C-4 JN-H STERLING 2583011 02584083 316273E3",
+        "DOC400LP D-1 (4) 2580678 02581471 316273E4 JN-H STERLING DOC400LP D-4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38093415-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/-Q-cAVisknH5kdAA0MjtT6KAnVSsClvI1m6UFZOQGc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDkz/NDE1LTE3ODYyMDM0/NTMtMTc3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dMIEM6hjFaRh-G9ipxRd9ti6sYSqBphoJGRO-0zBoLw/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDkz/NDE1LTE3ODYyMDM0/NTMtMTc3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38093415",
+      "community": {
+        "want": 181,
+        "have": 2716
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green Translucent [Glow In The Dark] With Splatter, Rogue Planet Edition",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38187021,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "UK & US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308069259",
+        "656605170039"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38187021-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400LP",
+      "thumb": "https://i.discogs.com/GnAUw7wYcuukcpBZmFnhrlMST6xPsfw3IqikwF6Lei4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg3/MDIxLTE3ODcwODk1/MzgtODkwMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/uuo1p9hiV9zpqwUfo9Aqcy3aauesxQKG8nmz1gdFePs/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg3/MDIxLTE3ODcwODk1/MzgtODkwMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38187021",
+      "community": {
+        "want": 11,
+        "have": 78
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green Glow-in-the-dark Splatter [Rogue Planet]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38156331,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & Ireland",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38156331-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/8JKL5OdwZW2f7K7B7d0j2y94tUDcn5MvUVtqf0DigCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU2/MzMxLTE3ODY4MTc2/OTEtMzY4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qWuEZQfjsUrFZKeqJiHh_raNIIgvW3I7PHvnmbAu8s8/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU2/MzMxLTE3ODY4MTc2/OTEtMzY4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38156331",
+      "community": {
+        "want": 26,
+        "have": 200
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear With Silver Glitter [Regolith]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38138931,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308051032"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38138931-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/J0bjFCjnqMsFFkdSLsqPkWPE6fQQHlNqnVrmRwJAuyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM4/OTMxLTE3ODY2NTE0/ODgtOTQ0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fbpB_fbgX_u7AIPN8chLWIji_FoZW7AcRmVHMkbrXmk/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM4/OTMxLTE3ODY2NTE0/ODgtOTQ0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38138931",
+      "community": {
+        "want": 18,
+        "have": 153
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Turquoise Tint",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38144226,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "HMV"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308050882",
+        "6 17308 05088 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38144226-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/PfLaiOa8Y5JfO0HHwrOIpaEdHK3h70fe-QWqchG4MPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ0/MjI2LTE3ODY5ODQz/MjgtNzU1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xSG-z5njzQT-a_ujNt3NdGVHZiSN87lowPZRh2KRrk8/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ0/MjI2LTE3ODY5ODQz/MjgtNzU1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38144226",
+      "community": {
+        "want": 18,
+        "have": 29
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Alternative Artwork",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38135790,
+      "title": "Phoebe Bridgers - Lost Weekend ",
+      "master_id": 4313877,
+      "genre": [
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Sterling Sound Nashville",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170077",
+        " 656605170053",
+        "316273E1 02573913 2571351 DOC400LP A-4 JN-H STERLING DOC400LP A-1 (4)",
+        "316231E2 02588910 2584934 JN-H STERLING DOC400LP B-1 DOC400LP B-1 (1)",
+        "316273E3 02584334 2521213 DOC400LP C-4 JN-H STERLING DOC400LP C-1 (4)",
+        "316273E4 02582637 2571355 DOC400LP D-4 JN-H STERLING DOC400LP D-1 (4)"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38135790-Phoebe-Bridgers-Lost-Weekend-",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/UZzqsPilTP9_CwonXK4CC0L5BoqxTb3rwgolPTfQGJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM1/NzkwLTE3ODY2Njg3/NDYtODQ0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JijBnh2TsGrHrUUyTleOItxt56boiYaujLh62qtb98M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM1/NzkwLTE3ODY2Njg3/NDYtODQ0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38135790",
+      "community": {
+        "want": 156,
+        "have": 1597
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White Iridescent Swirl [Zodiacal Light]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38146299,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170046",
+        "D0C400LP A-4 JN-H STERLING D0C400LP A-1 (5) 316273E1 02583038 2574878",
+        "D0C400LP B-1 JN-H STERLING D0C400LP B-1 (5) 316231E2 02600498 2598642",
+        "DOC400LP C-5 JN-H STERLING D0C400LP C-1 (5) 316445E3 02597276 2522600",
+        "DOC400LP D-5 JN-H STERLING D0C400LP D-1 (5) 316445E4 02591718 2535127"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38146299-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/yQ4krlk5rit6IJK8GJEByNqCpE_igSaCGCzxYZ4NQYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ2/Mjk5LTE3ODY4MTY5/NjAtNTA2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/il0AQOSxavfCHIpUpkqNlNKHV3b87JFfAVxjiTsuAaA/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ2/Mjk5LTE3ODY4MTY5/NjAtNTA2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38146299",
+      "community": {
+        "want": 61,
+        "have": 1172
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue Translucent With Glitter [Neptune Winds]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38141250,
+      "title": "Phoebe Bridgers - Lost Weekend ",
+      "master_id": 4313877,
+      "genre": [
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Sterling Sound Nashville",
+        "GZ Media",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170077",
+        "316273E1 02573913 2571351 DOC400LP A-4 JN-H STERLING DOC400LP A-1 (4)",
+        "316231E2 02588910 2584934 JN-H STERLING DOC400LP B-1 DOC400LP B-1 (1)",
+        "316273E3 02584334 2521213 DOC400LP C-4 JN-H STERLING DOC400LP C-1 (4)",
+        "316273E4 02582637 2571355 DOC400LP D-4 JN-H STERLING DOC400LP D-1 (4)",
+        "656605170015",
+        "316231E1 02559702 255709 DOC400LP A-1 JN-H STERLING DOC400LP A-1 (1)",
+        "316231E2 0222854 2517480 JN-H STERLING DOC400LP B-1 DOC400LP B-1 (1)",
+        "316231E3 02557391 2555705 DOC400LP C-1 JN-H STERLING DOC400LP C-1 DOC400LP C-1 (1)",
+        "316231E4 2517490 DOC400LP D-1 (1) DOC400LP D-1 02556053 JN-H STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38141250-Phoebe-Bridgers-Lost-Weekend-",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/WEuKRUzRiWvft3AaQRu6fShksvSHgHWUJsYhdx6Qp_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQx/MjUwLTE3ODcwNDg0/MDktNzIzMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/U3MZpEWh4IDBilPDUvBSN3L40AOi7kzUQfMDASV7D3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQx/MjUwLTE3ODcwNDg0/MDktNzIzMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38141250",
+      "community": {
+        "want": 76,
+        "have": 544
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38127192,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308058789"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38127192-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/aHE5_9l6alG3CLxmI_cq3uv6-QfGX4Ccn7CO85c-D4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzItMTg5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BduwqvMJILULVWziYyqReppPkBFXB2e9SKLGb_gTKFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzItMTg5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38127192",
+      "community": {
+        "want": 310,
+        "have": 510
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Green / Dark Green Marble [Europa Ice]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38139024,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound",
+        "Conectiv, Guadalajara, Mexico",
+        "Conectiv, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170022",
+        "6 56605 17002 2",
+        "(1323178) DOC400CD 02 0001",
+        "IFPI LV77",
+        "IFPI KKFL",
+        "(1323178) DOC400CD 09 0001",
+        "IFPI LV77",
+        "IFPI KKTY"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38139024-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/-WqER05mc79Bx6Iy7Am6T_axdf4ZecM9OiYb7N9G5rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM5/MDI0LTE3ODY3NzM0/NzgtODYzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1f35FxAbrKkMKMwbo-7NWSvxvP9fZsPdZ0uzYxgCE9A/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM5/MDI0LTE3ODY3NzM0/NzgtODYzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38139024",
+      "community": {
+        "want": 56,
+        "have": 439
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38142285,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk",
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound, Pasadena, CA",
+        "Sterling Sound Nashville",
+        "GZ Media",
+        "Brown Coat Music",
+        "Covertly Canadian Publishing",
+        "Secretly Publishing",
+        "Dinked International Edition"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 56605 17008 4",
+        "BMI",
+        "DOC400LP A-1 (2) DOC400LP A-2 JN-H STERLING 2580298 02580999 316265E1",
+        "DOC400LP B-1 (2) DOC400LP B-2 JN-H STERLING 2580432 02581475 316265E2",
+        "DOC400LP C-1 (2) DOC400LP C-2 JN-H STERLING 2575847 02578886 316265E3",
+        "DOC400LP D-1 (2) DOC400LP D-2 JN-H STERLING 2580452 02584044 316265E4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38142285-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/jBILniY8vZgWK7jZB92QTXrpBQZP_HvslwSPSF4hgDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQy/Mjg1LTE3ODY4MDA3/NzgtNzU3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vU8XBSHtG22L-UV4bKpGWoxZEygLjV530BNU-cYHt6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQy/Mjg1LTE3ODY4MDA3/NzgtNzU3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38142285",
+      "community": {
+        "want": 478,
+        "have": 1635
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue/Green in Translucent Black [Far Side Of The Moon]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38134899,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Barnes & Noble"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308050837"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38134899-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/zRjICF0DDJUWbUscOkYY3Ift9fTVLdcvamOQ3FdabRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM0/ODk5LTE3ODY2MTg0/NDgtNDUyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/V3ruhd5qk8NDw5qepLtKkcqT5rQ_NdIE-osjjIhIzxQ/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM0/ODk5LTE3ODY2MTg0/NDgtNDUyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38134899",
+      "community": {
+        "want": 79,
+        "have": 228
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue Translucent w/Blue Glow-in-the-Dark Splatter [Pale Blue Dot]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38150694,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "617308050820"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38150694-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400LP-C7",
+      "thumb": "https://i.discogs.com/LER5G42cjt85wYHbyYcEuZq2j4sUrVdDHQsVCuJzNvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTUw/Njk0LTE3ODY4MDU2/MzUtODM2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ysQlPnhisnaaRhikckNUlUMyH6UjPggfxjTgoYcc1r4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTUw/Njk0LTE3ODY4MDU2/MzUtODM2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38150694",
+      "community": {
+        "want": 120,
+        "have": 468
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow/Blue/Pink Swirl [Pluto Glaciers]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38142801,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans",
+        "Concerto Recordstore",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound",
+        "Brown Coat Music",
+        "Sterling Sound Nashville",
+        "GZ Media",
+        "Platomania.nl",
+        "FNAC",
+        "Happy Valley"
+      ],
+      "type": "release",
+      "barcode": [
+        "DOC400LP A-1 316231E1 02600093 2597693 STERLING DOC400LP A-1 (I) JN-H",
+        "DOC400LP B-1 316231E2 02600880 2598843 STERLING DOC400LP B-1 (I) JN-H",
+        "DOC400LP C-6 316556E3 02592990 2588903 STERLING DOC400LP C-1 (C) JN-H",
+        "DOC400LP D-1 316231E4 02597616 2557497 STERLING DOC400LP D-1 (I) JN-H",
+        "617308058772",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38142801-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/bTUD5JCvRmjxxmmpa0_SFhLcMkE6_ticNzvCoJwA_54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQy/ODAxLTE3ODY3ODYx/MTUtNTE3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eKAST9Y5WElFImBgU8TxP5kcUbim5nxv-a3ZPYzJqo0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQy/ODAxLTE3ODY3ODYx/MTUtNTE3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38142801",
+      "community": {
+        "want": 55,
+        "have": 226
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Translucent Blue With Blue Glow-in-the-Dark Splatter [Pale Blue Dot]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38146221,
+      "title": "Phoebe Bridgers - Lost Weekend",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605170008"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38146221-Phoebe-Bridgers-Lost-Weekend",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/7YkEdLdYvWSjYd4oH-RL4xB6zabmcAokOiM8BN3fODc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ2/MjIxLTE3ODczMzE0/NzMtOTcwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sziM9ffuzcgKow209XZvud1tGEuML1QkMR-k9gPBoqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ2/MjIxLTE3ODczMzE0/NzMtOTcwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38146221",
+      "community": {
+        "want": 67,
+        "have": 658
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue in Clear w/Pink Splatter [Enceladus Geysers]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38148465,
+      "title": "Phoebe Bridgers = \u30d5\u30a3\u30fc\u30d3\u30fc\u30fb\u30d6\u30ea\u30b8\u30e3\u30fc\u30ba* - Lost Weekend = \u30ed\u30b9\u30c8\u30fb\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2026",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Sound City Studios",
+        "Electric Lady Studios",
+        "Tamarind, Los Angeles",
+        "ARC Studios, Omaha, NE",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38148465-Phoebe-Bridgers-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%96%E3%83%AA%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA-Lost-Weekend-%E3%83%AD%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89",
+      "catno": "DOC400JCD",
+      "thumb": "https://i.discogs.com/auoZGj3l7vDRfidhkO4RdNuJg2IwpVh1wRC1aXc1u_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ4/NDY1LTE3ODY3NDkw/MDMtODQyMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/CxiflQ00vGRq3yFwRwaMM9UoxCONlTx70E6ckVBRuMI/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ4/NDY1LTE3ODY3NDkw/MDMtODQyMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38148465",
+      "community": {
+        "want": 16,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38145435,
+      "title": "Phoebe Bridgers - Lost Weekend = \u30ed\u30b9\u30c8\u30fb\u30a6\u30a3\u30fc\u30af\u30a8\u30f3\u30c9",
+      "master_id": 4313877,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Japan",
+      "year": "2026",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Dead Oceans",
+        "BIG LOVE RECORDS"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/4313877",
+      "uri": "/release/38145435-Phoebe-Bridgers-Lost-Weekend-%E3%83%AD%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89",
+      "catno": "DOC400",
+      "thumb": "https://i.discogs.com/YMSHP708MHAMCqmVLktQpaK3YWiq5XPDFYZrCEZ6gew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ1/NDM1LTE3ODY3MjM5/NzItNTczNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Grc7o5A5wLugJZJq8E3wDQgACjM9IJj5XD0_T2zr4gY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ1/NDM1LTE3ODY3MjM5/NzItNTczNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/38145435",
+      "community": {
+        "want": 76,
+        "have": 48
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Obi+Neptune Winds",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 4313877,
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "main_release": 38127192,
+    "most_recent_release": 38187021,
+    "resource_url": "https://api.discogs.com/masters/4313877",
+    "uri": "https://www.discogs.com/master/4313877-Phoebe-Bridgers-Lost-Weekend",
+    "versions_url": "https://api.discogs.com/masters/4313877/versions",
+    "main_release_url": "https://api.discogs.com/releases/38127192",
+    "most_recent_release_url": "https://api.discogs.com/releases/38187021",
+    "num_for_sale": 480,
+    "lowest_price": 12.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/BduwqvMJILULVWziYyqReppPkBFXB2e9SKLGb_gTKFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzItMTg5MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/BduwqvMJILULVWziYyqReppPkBFXB2e9SKLGb_gTKFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzItMTg5MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aHE5_9l6alG3CLxmI_cq3uv6-QfGX4Ccn7CO85c-D4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzItMTg5MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7m4QP9wF2eSZZ313wHAYrd5U5vURo9DoVK2GEioCN0k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzYtMTA1Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/7m4QP9wF2eSZZ313wHAYrd5U5vURo9DoVK2GEioCN0k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzYtMTA1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aF06EcKwJAnAYu10nl80dJ-AsB6rjpt_IzffevL16q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzYtMTA1Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZoZwd1xhm40h5rZuSr_h1zbU1U6sfSkpdcygz9YPAcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzgtMzQ5Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZoZwd1xhm40h5rZuSr_h1zbU1U6sfSkpdcygz9YPAcg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzgtMzQ5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/g6QzTOrrNk0BI5FtzREtEODhgL0bsl6jpibCTL_qAsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDAz/NzgtMzQ5Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Xgaus5-KcKQK4ADGQEBPclsPsnjs35p-Ms2RYMiqhGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDEz/MjktOTUyNy5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/Xgaus5-KcKQK4ADGQEBPclsPsnjs35p-Ms2RYMiqhGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDEz/MjktOTUyNy5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/rydmHBk-CkhHxI0_LQdxJZinVRl38Hq3wh1nWlBdYbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDEz/MjktOTUyNy5wbmc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EqE-vYsqcJCc9hpxcpzGsRJDPlh4SOQCXpqiKjxyg3g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDEtMTk5OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EqE-vYsqcJCc9hpxcpzGsRJDPlh4SOQCXpqiKjxyg3g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDEtMTk5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dB9qgTRTuziTlkur-odnu6QsBcfDsw7CWaejQkXGaaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDEtMTk5OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UdYCaWIj2qDJcrgTZoO0o6QRDD933ENFLQ3izzuNOqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDQtOTg0MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UdYCaWIj2qDJcrgTZoO0o6QRDD933ENFLQ3izzuNOqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDQtOTg0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/q64l3pABPANmUBFNkw-zcYLp2l3DaWveriDlbfP1p1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDQtOTg0MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wc9aSCDdWbgQt_fTZ4J8enAyyabUWhUfoWOM2jaKEhU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDctODI5Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/wc9aSCDdWbgQt_fTZ4J8enAyyabUWhUfoWOM2jaKEhU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDctODI5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LBcXX-VGRS468-xhbOweTiYAhvOUlafPgK2SLPapOlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NDctODI5Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/h3BO_ACjMTXd_WaS2hYDkz7YhgHQ60LNfdG2suaw5To/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NTAtMjUxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/h3BO_ACjMTXd_WaS2hYDkz7YhgHQ60LNfdG2suaw5To/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NTAtMjUxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bWIhoNaF84Qm55Rcz5-TckFkK8Edzhbh6IcbBKr4E_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NTAtMjUxMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rsb0-_h5S5p2aRXpsdAWkKDOEgEnbaMAlMbS5ZWqe2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NjctNjkzOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Rsb0-_h5S5p2aRXpsdAWkKDOEgEnbaMAlMbS5ZWqe2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NjctNjkzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8oAZloNTdCzA3SQzQp0J-Xj5kbDBHvXViLEkr_sZNc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NjctNjkzOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/eNKy6tKNrS1sLgGf7mA76oSmnJA8boWFK0ZTNK0aoiU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzAtNDQ1NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/eNKy6tKNrS1sLgGf7mA76oSmnJA8boWFK0ZTNK0aoiU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzAtNDQ1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8FBkzjnIX33rrN96StMXFJcVFfOOT-xUIfQaywXwDQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzAtNDQ1NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lMMeyE2xgcMDnRdolvUokWMKAOgIUQo_BEzrKMNeERA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzktNzM1Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lMMeyE2xgcMDnRdolvUokWMKAOgIUQo_BEzrKMNeERA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzktNzM1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zDKtSYOTsLK2RWpiboPr83g1n7WGYOdaZ8a4DQIaCOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/NzktNzM1Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xTpnG7OA7utZPlOsd1A3Mq3mRzGaal1vupuKpX8xDX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODEtMTQ0OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/xTpnG7OA7utZPlOsd1A3Mq3mRzGaal1vupuKpX8xDX0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODEtMTQ0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yJuGa6YV-zPW4wG7Qx2uSdqqRp9Kn7lOWAu_hPeXh08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODEtMTQ0OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6zilXw63aUJNdhi-QmQDURW4bZ3tvbw3-TDfT8UopXE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODctNTYxMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/6zilXw63aUJNdhi-QmQDURW4bZ3tvbw3-TDfT8UopXE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODctNTYxMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/V8eLFRQCdGvxDxP4qY0XEeXvW_bEyvm7Tiab0oqT4FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA0/ODctNTYxMC5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/h14rEPeVClLsKEfjklOMVx47G-_osJrdIRHgODwExuw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NDQtNjY5Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/h14rEPeVClLsKEfjklOMVx47G-_osJrdIRHgODwExuw/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NDQtNjY5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8D7lpv-Kp-dYqD_iSExj7mUKYKrQmV3cp9Xw4HxIxlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NDQtNjY5Ny5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lS_95OTULnd5zxOO5JeX3xnGx57kwNVq5J5B5a0mX_U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NTctNjEyMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lS_95OTULnd5zxOO5JeX3xnGx57kwNVq5J5B5a0mX_U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NTctNjEyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lns-yRUwH-3gyQkTMmFetp9vwqqhx95NowoVfmc77Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NTctNjEyMC5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SITd9AEdVpE7z3zU3jiIcP_fJXn6nDavUVc2OYhofAQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NjAtNTExMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SITd9AEdVpE7z3zU3jiIcP_fJXn6nDavUVc2OYhofAQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NjAtNTExMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bgB1FT5uFAb4zl05K-6iq8r-Vt44B4jZIUGOlBYarQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NjAtNTExMi5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mXOJDplJiMVJNuLzp7FM0lZRiDFCp_DONSi1IMTp2o8/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/MzYtODM3Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/mXOJDplJiMVJNuLzp7FM0lZRiDFCp_DONSi1IMTp2o8/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/MzYtODM3Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/aWn4ig0AMCsG1SNVHVvkrsONb70A6zKeymEZetCQRfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/MzYtODM3Mi5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4KnsHYuW10zW2yV_tks01HQomb6gFMS_Oxwtf_7Z6GA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NzItOTkxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4KnsHYuW10zW2yV_tks01HQomb6gFMS_Oxwtf_7Z6GA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NzItOTkxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4o_4SlrysDmbfKkHOKFDTg6PH0-qGumy39e2AOHEH-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/NzItOTkxMS5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9OXqFnXB4FE2uRIptmFeqLuJMuHE6VzK7OUIocmw8D8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/ODAtNDk5OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9OXqFnXB4FE2uRIptmFeqLuJMuHE6VzK7OUIocmw8D8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/ODAtNDk5OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/8FDxQXYl-XyxYL5OUS4sFAVFrdtY_W2A6AJrQZzE_wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/ODAtNDk5OC5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kvdki54VVALZeBTb4epLLMR8UVE7ndkmRL1J-20mN2M/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTEtNDM5MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kvdki54VVALZeBTb4epLLMR8UVE7ndkmRL1J-20mN2M/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTEtNDM5MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mrwU8_yn1UCkIzNDl6u-EyMqihGufa4W7cy-9kIGT4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTEtNDM5MS5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kz_aBD9wrLeWA5iZ_jjQKnogjyDg3cBgxxV5vMAb5CQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDMtMTk3NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kz_aBD9wrLeWA5iZ_jjQKnogjyDg3cBgxxV5vMAb5CQ/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDMtMTk3NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GMZj-SzAI4CxmLZvtJg7v97ambmtTjoEEUToPLAwEE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDMtMTk3NC5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lr3yFqLNz41Ow844dlVA_z0I0OlkRoRuBujzhm0DRUM/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDctNTU5Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lr3yFqLNz41Ow844dlVA_z0I0OlkRoRuBujzhm0DRUM/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDctNTU5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ZvBz9t_Spg6RkYXNQwmLXtTThz_GATU-f4MbiC4dx3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MDctNTU5Ny5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OtNDKuIjTithxDwxpC9SRWbKfygYUd6FC78FK7DBcK4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTAtNjg5Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/OtNDKuIjTithxDwxpC9SRWbKfygYUd6FC78FK7DBcK4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTAtNjg5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ofrNr6vzOBz4HOA815NOvLuHdmWR2GameTP2T1biWGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTAtNjg5Mi5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GF6O9787yzYNc_PQ7-H6S-wiB5mBa3d99d9PhUBKfNk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTctNzgwOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GF6O9787yzYNc_PQ7-H6S-wiB5mBa3d99d9PhUBKfNk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTctNzgwOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/39yf7i0ver0plyrf2iUJkrBkNc6iLqay-6X_E-dWK20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MTctNzgwOC5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9s-BDH5o09lnuhTq2sraODZfffp-N-zAHjLMcQye_m4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MjctMTgwMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9s-BDH5o09lnuhTq2sraODZfffp-N-zAHjLMcQye_m4/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MjctMTgwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Tiu4DCT1Nrz0mYt35jM7MHbunOI7lOqazzKm0Oma6XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MjctMTgwMi5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JsCIjYq520T3FdpFMe4HVyBVtdCrSPV2ngbRNnT8vq4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MzctNDQ4Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/JsCIjYq520T3FdpFMe4HVyBVtdCrSPV2ngbRNnT8vq4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MzctNDQ4Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/50YFvPH-O4EydjqXCffpUPHA2PzLyvBto2zA-EOgpt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/MzctNDQ4Ni5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/870mltaW0a3L3RL8Un29-U6q_OFTBA_k2Pf3iTQh5pc/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDItNDM2MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/870mltaW0a3L3RL8Un29-U6q_OFTBA_k2Pf3iTQh5pc/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDItNDM2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fSz_3oeIFpFcFNo2YoezX_8BQA2WmE8zExoJqEphnLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDItNDM2MC5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bfQ4K6xrkgdlxQi3A98G1JWd0PmPtae0WoU8X2cBgFw/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDctNTEyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/bfQ4K6xrkgdlxQi3A98G1JWd0PmPtae0WoU8X2cBgFw/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDctNTEyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wLAE8SwciBcuupiCh3FjHu8k6GsSjAo4-sDjO7-7sP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NDctNTEyMi5qcGVn.jpeg",
+        "width": 449,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zXEZa3k7ylN5_1buzW2OSOlN-easgr1gpG1XbB7xljk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTQtMzUyMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/zXEZa3k7ylN5_1buzW2OSOlN-easgr1gpG1XbB7xljk/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTQtMzUyMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/RAJWDw0wUmYsgvYdpZz_N_bAbMHdqrz7xUoIkP4CArE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA1/OTQtMzUyMi5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oNEBK2ozRSAJKkeNUl0TgaAHZ-pFyT-quXqO0RBWCPI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzYtMjk4OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/oNEBK2ozRSAJKkeNUl0TgaAHZ-pFyT-quXqO0RBWCPI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzYtMjk4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9TQJ5gxv8PSK2f1jl2d60mtI6zc9hFmG0SN4dEAQxqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzYtMjk4OS5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IKLPviTB1FiN6CIIA8hHsQ3DqP6CP0u8fAZ_RrEsauY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzgtOTQ3MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/IKLPviTB1FiN6CIIA8hHsQ3DqP6CP0u8fAZ_RrEsauY/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzgtOTQ3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/DLhcR8mBGVdmsWXq8_MQJLGAIxMcURNxkIWyXBBnOgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/NzgtOTQ3MS5qcGVn.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CJMC3wjFidnb1XvloUlDmlfXVaKZW-j36u4UQXqQm1k/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODQtMzEyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/CJMC3wjFidnb1XvloUlDmlfXVaKZW-j36u4UQXqQm1k/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODQtMzEyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9r2lrBqjzgCWt_lC8m5buLWY67dA6vraisOgqt_aNuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODQtMzEyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 301
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FGMBziW8Wq7DjS7xJLr66tMgZ2GOuwr0qlS5Qc2sXXM/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODgtMzI0NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FGMBziW8Wq7DjS7xJLr66tMgZ2GOuwr0qlS5Qc2sXXM/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODgtMzI0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/fPvQd7zlkGL6PaxQbIcJzf9eHjaH7o8c-Os6zS-yjmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/MTkyLTE3ODY4MDA2/ODgtMzI0NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 304
+      }
+    ],
+    "year": 2026,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "The Outside",
+        "duration": "3:57"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Lost Boys",
+        "duration": "4:14"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Kill Me",
+        "duration": "4:41"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "The Governor's Waltz",
+        "duration": "3:27"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Bobby",
+        "duration": "3:59"
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Lost Weekend",
+        "duration": "3:38"
+      },
+      {
+        "position": "B7",
+        "type_": "track",
+        "title": "Haunted",
+        "duration": "3:34"
+      },
+      {
+        "position": "B8",
+        "type_": "track",
+        "title": "Panorama",
+        "duration": "2:46"
+      },
+      {
+        "position": "B9",
+        "type_": "track",
+        "title": "Still Standing",
+        "duration": "3:56"
+      },
+      {
+        "position": "B10",
+        "type_": "track",
+        "title": "Liberty Tree",
+        "duration": "3:17"
+      },
+      {
+        "position": "C11",
+        "type_": "track",
+        "title": "Never Going Back!",
+        "duration": "1:42"
+      },
+      {
+        "position": "C12",
+        "type_": "track",
+        "title": "Other Plans",
+        "duration": "2:20"
+      },
+      {
+        "position": "C13",
+        "type_": "track",
+        "title": "Lost Parade",
+        "duration": "0:55"
+      },
+      {
+        "position": "C14",
+        "type_": "track",
+        "title": "I Can't Wait",
+        "duration": "3:37"
+      },
+      {
+        "position": "C15",
+        "type_": "track",
+        "title": "As Above",
+        "duration": "4:24"
+      },
+      {
+        "position": "C16",
+        "type_": "track",
+        "title": "Lost Weekend (Reprise)",
+        "duration": "1:59"
+      },
+      {
+        "position": "D17",
+        "type_": "track",
+        "title": "Best Dressed",
+        "duration": "3:52"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Phoebe Bridgers",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4138698,
+        "resource_url": "https://api.discogs.com/artists/4138698",
+        "thumbnail_url": "https://i.discogs.com/pNB_m34NYGtZRwXxLGGfj1av071O-JkCX1IYvMjKN6g/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxMzg2/OTgtMTc4MjYyODg2/NS0yOTExLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Lost Weekend",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=4KXnboPN1p4",
+        "title": "Phoebe Bridgers - Lost Boys (Official Video)",
+        "description": "\"Lost Boys\u201d by Phoebe Bridgers from \u2018Lost Weekend' on Dead Oceans\nStream \u201cLost Boys\u201d: https://PhoebeBridgers.lnk.to/Lost-Boys\nOrder \u2018Lost Weekend\u2019: https://PhoebeBridgers.lnk.to/Lost-Weekend\n\nhttps://www.phoebefuckingbridgers.com/\nhttps://www.instagram.co",
+        "duration": 264,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 4313877,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

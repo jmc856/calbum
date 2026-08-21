@@ -1,0 +1,1265 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886444977449",
+    "artist": "D'Angelo",
+    "title": "Black Messiah",
+    "year": 2014
+  },
+  "results": [
+    {
+      "id": 6420216,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "RCA Records",
+        "RCA Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Ah-Choo Music Publishing",
+        "12:00 AM Music",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Ear Kandy Music",
+        "Legendelphia Music LLC",
+        "Universal Music-Careers",
+        "Onip Songs",
+        "BMG Bumblebee",
+        "Gadtoon Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "MSR Studios",
+        "Hydra SF",
+        "Henson Recording Studios",
+        "The Plant Studios",
+        "Sear Sound",
+        "Avatar Studios",
+        "Quad Recording Studios",
+        "MSR Studios",
+        "Henson Recording Studios",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "888750565525",
+        "8 8875-05655-2 5",
+        "ASCAP",
+        "BMI",
+        "DIDX-1070863 1",
+        "IFPI L329",
+        "IFPI 50AB",
+        "DIDX-1070863 1",
+        "IFPI L329",
+        "IFPI 50D8",
+        "DIDX-1070863 1 A03",
+        "IFPI L329",
+        "IFPI 50H1",
+        "DIDX-1070863 1 A06",
+        "IFPI L329",
+        "IFPI 50DF"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/6420216-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "88875-05655-2",
+      "thumb": "https://i.discogs.com/-OTzq_nvm6ivcmSSSIsTfTiyuD1Tb7pVZNJUcZQY-8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDM1/MS0zMzc3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DSY_HhBmPdcMoLUjYjxN0628AyzPHXWEfqgQWsJOeLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDM1/MS0zMzc3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6420216",
+      "community": {
+        "want": 572,
+        "have": 1798
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6425879,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "Europe",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "Sony Music",
+        "RCA Records",
+        "RCA Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment International Services GmbH",
+        "Sony DADC",
+        "Sony DADC",
+        "Sony Music Entertainment",
+        "Ah-Choo Music Publishing",
+        "12:00 AM Music",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Ear Kandy Music",
+        "Legendelphia Music LLC",
+        "Universal Music-Careers",
+        "Onip Songs",
+        "BMG Bumblebee",
+        "Gadtoon Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "MSR Studios",
+        "Hydra SF",
+        "Henson Recording Studios",
+        "The Plant Studios",
+        "Sear Sound",
+        "Avatar Studios",
+        "Quad Recording Studios",
+        "MSR Studios",
+        "Henson Recording Studios",
+        "Multiply"
+      ],
+      "type": "release",
+      "barcode": [
+        "888750565525",
+        "8 8875-05655-2 5",
+        "LC 00316",
+        "BIEM/GEMA",
+        "Sony DADC A0102428640-0101 15 A00",
+        "IFPI L555",
+        "IFPI 945Q",
+        "Sony DADC A0102428640-0101 15 A02",
+        "IFPI L555",
+        "IFPI 946R",
+        "Sony DADC A0102428640-0101 15 A00",
+        "IFPI L555",
+        "IFPI 946T",
+        "A0102428640-0101 35 A00",
+        "IFPI L555",
+        "IFPI 944A",
+        "Sony DADC A0102428640-0101 15 A01",
+        "IFPI L555",
+        "IFPI 94K6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/6425879-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "88875056552",
+      "thumb": "https://i.discogs.com/cW4L8ciHWscdyh2v5g4lPnwgKLlAYAU5I6QpNe--Xtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjU4/NzktMTQyMDQ4NTU3/OS0zNjgyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ZjHzR4bTqf7c40gWErNhaSVVRl6z4KcIKcTyE3N_TuI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjU4/NzktMTQyMDQ4NTU3/OS0zNjgyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6425879",
+      "community": {
+        "want": 327,
+        "have": 1419
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6414588,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "Unknown",
+      "year": "2014",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/6414588-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/mfQ3hiGDp_WDOUhdZh_jDVRC39yYFnvTzfcN7ppmfbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTQ1/ODgtMTQxODYyMjg0/MC0zNDgzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Ael6reS6hudCAmfD_wtje0J3wnrQ0ch7Nj10abvnf0M/rs:fit/g:sm/q:90/h:170/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTQ1/ODgtMTQxODYyMjg0/MC0zNDgzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6414588",
+      "community": {
+        "want": 184,
+        "have": 76
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12870152,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul",
+        "Blues"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "Malaysia",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Ah-Choo Music Publishing",
+        "12:00 AM Music",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Ear Kandy Music",
+        "Legendelphia Music LLC",
+        "Universal Music-Careers",
+        "Onip Songs",
+        "BMG Bumblebee",
+        "Gadtoon Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "MSR Studios",
+        "Hydra SF",
+        "Henson Recording Studios",
+        "The Plant Studios",
+        "Sear Sound",
+        "Avatar Studios",
+        "Quad Recording Studios",
+        "MSR Studios",
+        "Henson Recording Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "888750565525",
+        "8 8875-05655-2 5",
+        "41005812",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/12870152-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "88875-05655-2",
+      "thumb": "https://i.discogs.com/kuox0csloLtsZpByA-gGL-rCq65_ovUpRxohSlqZV_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcw/MTUyLTE1NjgyMzEy/NzAtMjM4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1oHkgvwQG_-uq1nDDLzvtb0E8pJBwBJCO9VehQvLW5s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcw/MTUyLTE1NjgyMzEy/NzAtMjM4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12870152",
+      "community": {
+        "want": 125,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23427563,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Funk",
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "Sony Music Entertainment",
+        "MSR Studios",
+        "Hydra SF",
+        "Henson Recording Studios",
+        "The Plant Studios",
+        "Sear Sound",
+        "Avatar Studios",
+        "Quad Recording Studios",
+        "MSR Studios",
+        "Henson Recording Studios",
+        "Ah-Choo Music Publishing",
+        "12:00 AM Music",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Ear Kandy Music",
+        "Legendelphia Music LLC",
+        "Universal Music-Careers",
+        "Onip Songs",
+        "BMG Bumblebee",
+        "Gadtoon Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "RCA Records",
+        "RCA Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "888750565525",
+        "8 8875-05655-2 5",
+        "56952917/88875056552RD 1  22",
+        "IFPI LB 45",
+        "IFPI 0167",
+        "ASCAP",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/23427563-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "88875-05655-2",
+      "thumb": "https://i.discogs.com/sQGQe3GqMpR_4MN5142TFjfLMbfA2R908PYBkjZgNlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI3/NTYzLTE2NTQxMDcw/MzAtNTM2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Rmn2WavGu2pFW2JCer5eSNb6ltQcW9Zdz-aP6d_ug1M/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI3/NTYzLTE2NTQxMDcw/MzAtNTM2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23427563",
+      "community": {
+        "want": 106,
+        "have": 96
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9709499,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul",
+        "Non-Music"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "Australia",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 565525"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/9709499-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "88875056552",
+      "thumb": "https://i.discogs.com/xxDU3XyCGdARHzvvayDQ5vO4wcNyKv9r4b9Xyvd1jpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDk0/OTktMTQ4NTEyMTI0/MS03Nzg4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Tstn2nQylVIpvuPXGUBCbrbVxfvyake96iuveGKmJwU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDk0/OTktMTQ4NTEyMTI0/MS03Nzg4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9709499",
+      "community": {
+        "want": 161,
+        "have": 166
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15060088,
+      "title": "D'Angelo And The Vanguard (3) - Black Messiah",
+      "master_id": 771416,
+      "genre": [
+        "Funk / Soul",
+        "Non-Music"
+      ],
+      "style": [
+        "Soul",
+        "Funk"
+      ],
+      "country": "Argentina",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "RCA",
+        "Sony Music",
+        "RCA Records",
+        "RCA Records",
+        "Sony Music Entertainment (Argentina) S.A.",
+        "Ah-Choo Music Publishing",
+        "12:00 AM Music",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Ear Kandy Music",
+        "Legendelphia Music LLC",
+        "Universal Music-Careers",
+        "Onip Songs",
+        "BMG Bumblebee",
+        "Gadtoon Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "MSR Studios",
+        "Hydra SF",
+        "Henson Recording Studios",
+        "The Plant Studios",
+        "Sear Sound",
+        "Avatar Studios",
+        "Quad Recording Studios",
+        "MSR Studios",
+        "Henson Recording Studios",
+        "Multiply",
+        "Laser Disc Argentina"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 56552 5",
+        "888750565525",
+        "71106 - L.D.A.- INDUSTRIA ARGENTINA - SONY BMG - 5056552",
+        "IFPI L701",
+        "IFPI 1R09",
+        "AADI/CAPIF - SADAIC/BIEM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/771416",
+      "uri": "/release/15060088-DAngelo-And-The-Vanguard-Black-Messiah",
+      "catno": "8887 505655-2",
+      "thumb": "https://i.discogs.com/-Uclw0pgPNduM3M9QcuewRIl5G2iLPcYJCq1YKCFboo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYw/MDg4LTE1ODYxNDQ3/NTEtMTAwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vg3bnp2ecU2-Jaix4O0p5Sn_MRQbAtywTv-R_d6-pwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDYw/MDg4LTE1ODYxNDQ3/NTEtMTAwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15060088",
+      "community": {
+        "want": 111,
+        "have": 28
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 771416,
+    "genres": [
+      "Funk / Soul",
+      "Blues"
+    ],
+    "styles": [
+      "Soul",
+      "Funk"
+    ],
+    "main_release": 6420216,
+    "most_recent_release": 37112877,
+    "resource_url": "https://api.discogs.com/masters/771416",
+    "uri": "https://www.discogs.com/master/771416-DAngelo-And-The-Vanguard-3-Black-Messiah",
+    "versions_url": "https://api.discogs.com/masters/771416/versions",
+    "main_release_url": "https://api.discogs.com/releases/6420216",
+    "most_recent_release_url": "https://api.discogs.com/releases/37112877",
+    "num_for_sale": 269,
+    "lowest_price": 3.49,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/DSY_HhBmPdcMoLUjYjxN0628AyzPHXWEfqgQWsJOeLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDM1/MS0zMzc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/DSY_HhBmPdcMoLUjYjxN0628AyzPHXWEfqgQWsJOeLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDM1/MS0zMzc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-OTzq_nvm6ivcmSSSIsTfTiyuD1Tb7pVZNJUcZQY-8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDM1/MS0zMzc3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dyqve5BxhZ6HNtNlwpuhE5A_F1ClzZ4xaNeags_b4l8/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDE3/NC02MzIxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dyqve5BxhZ6HNtNlwpuhE5A_F1ClzZ4xaNeags_b4l8/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDE3/NC02MzIxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/IS4XM-3Z1hSoyNIHoKzzkhqF-IB31NGuoOBALl9wTu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDE3/NC02MzIxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 466
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EgqOFxYwRMl0m89kEpg5DMXPS562qVgxNye0hlj8wwA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NS00NzYwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/EgqOFxYwRMl0m89kEpg5DMXPS562qVgxNye0hlj8wwA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NS00NzYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jf-pl2OYvQ-pAEqm_uz0KpK_zhhGUf152jht_5LuR-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NS00NzYwLmpwZWc.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dN7akBHpSDaRaPfefvtodLmz2YzF1zWwK03glJpgvnM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDMy/OS0zNzM3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dN7akBHpSDaRaPfefvtodLmz2YzF1zWwK03glJpgvnM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDMy/OS0zNzM3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5td1O2gZOIgDY0TbQ_vXs_rWygWq6GPN-M4zjnr4KbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDMy/OS0zNzM3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_W3fG3QhybF3NgplbdnGSuw1r5DuXxGoO9GHEKYALU0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NC02MjY1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/_W3fG3QhybF3NgplbdnGSuw1r5DuXxGoO9GHEKYALU0/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NC02MjY1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/LVqu7QmMIsW-TJ2DrtradkQgaOmcjOHNYiMJ1Un4tXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDI0/NC02MjY1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tUzgkJT0ElJa4rRUfvYp70lQwVshThKBtMlMKF8KDdo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/Ni04ODg3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/tUzgkJT0ElJa4rRUfvYp70lQwVshThKBtMlMKF8KDdo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/Ni04ODg3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SzBXkt5XXmRYa9uovjacrqvdbw5fNPimMC3abKlvk60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/Ni04ODg3LmpwZWc.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iNAiLzIhPzB7xY3eQfDx3qqH52di8OsBzfwsGWejaZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/OS04NDI4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/iNAiLzIhPzB7xY3eQfDx3qqH52di8OsBzfwsGWejaZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/OS04NDI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/uQb_Uo8rMx6ld-1o7U8f4qkF3xNoWEjL_oCqgaehzs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/OS04NDI4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nsGW7VrzMxidtbruxlV63aU7Z4rrcR6KZg3EL8zxnEQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/NS0zNDY0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/nsGW7VrzMxidtbruxlV63aU7Z4rrcR6KZg3EL8zxnEQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/NS0zNDY0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/IG6VCibwHr57au54xftGxqkFs4Drw9Fi1dr16ZlWEYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/NS0zNDY0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8dmpsVcPQYuwcxEUKBUj7Dc3VniGy1cIuP1WUYq2Wns/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/My00MTUxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8dmpsVcPQYuwcxEUKBUj7Dc3VniGy1cIuP1WUYq2Wns/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/My00MTUxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/P7wvTJ2PgZ5Oyqpm6Lt7mcfjr71fm0Fle4BpvbseJHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/My00MTUxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1YcOD19_F75ud_pf8AzuUa8e06ywn9jCVAL8FoOwDio/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/My02NDE5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/1YcOD19_F75ud_pf8AzuUa8e06ywn9jCVAL8FoOwDio/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/My02NDE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CTWUSTDhX-6V0A0IggH8FrBsKOShB0HEAcT84ONdzWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/My02NDE5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dYzPdka3dgwrjfqQ_izRqhc1zSlRA_D-ZPBXqC52Xaw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU0/MC00MTI4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dYzPdka3dgwrjfqQ_izRqhc1zSlRA_D-ZPBXqC52Xaw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU0/MC00MTI4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/rIDQ_ciRnMSytVhDTVvdBXmAdTx-dsrH_qouDXgGRAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU0/MC00MTI4LmpwZWc.jpeg",
+        "width": 594,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ycS7i3_kC8KZihc2QTpfHAW4mYhMA7V73qoZWdKHDXc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU1/MS00NDMzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ycS7i3_kC8KZihc2QTpfHAW4mYhMA7V73qoZWdKHDXc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU1/MS00NDMzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/V6ZhNraXAzAIS0y9XJ9NSrEljrUEdxXQMKLbr4_7xzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU1/MS00NDMzLmpwZWc.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mSsF4BgidNvsgCwzst12mEDrk_SuKx27_Wo9QzRRl-U/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/Ny01NTcyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/mSsF4BgidNvsgCwzst12mEDrk_SuKx27_Wo9QzRRl-U/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/Ny01NTcyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/o4P1RDZ1wzA9qYRxYKQPMuxKSv8hybIBdanKIQyNmJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ2/Ny01NTcyLmpwZWc.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8lvadVqaPSzy78QAK54gi3wpFdXPlZaBHLMBBygPVWI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU4/Ny00NTEyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8lvadVqaPSzy78QAK54gi3wpFdXPlZaBHLMBBygPVWI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU4/Ny00NTEyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/0czR6TqzSykaIdgIH2GSQSWgxYK675ZgP45cqX2eTvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDU4/Ny00NTEyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3v_8WqTb42OQGB9tdESNidgjczeFPkU9pjDb_06d-CE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDIy/MC0xMjc0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/3v_8WqTb42OQGB9tdESNidgjczeFPkU9pjDb_06d-CE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDIy/MC0xMjc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lZzRHMwfeVo298wqf4OKTZFQ1-fqzhp-M0gxHrFrUAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDIy/MC0xMjc0LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zWsGJbK-BFrOZtHrKZBEPolqHAnzN3m76yi6tG0EHs0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/OS00MTc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zWsGJbK-BFrOZtHrKZBEPolqHAnzN3m76yi6tG0EHs0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/OS00MTc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/pSgVfLqUnGfiLseAqmCj2P28LsPfN-NENHpZohZIZRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQ1/OS00MTc3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/W-VfMKkGgDmSQ4sa2pJpRH7mE0qGvfMyBq4HwR-iXiY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/NS05NjAyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/W-VfMKkGgDmSQ4sa2pJpRH7mE0qGvfMyBq4HwR-iXiY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/NS05NjAyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XsCC8j6tA3s1PopwXVh8rgTffBdX1XB77mdDXdNRBh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/NS05NjAyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0Ct6chF2PmwLOfCN8O6w84L6nXmGr04QhUL8IyKGryk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDYy/MC00MDQ4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/0Ct6chF2PmwLOfCN8O6w84L6nXmGr04QhUL8IyKGryk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDYy/MC00MDQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/JaZxNTZULZXid4y6JcdLQvxHWCKGaS3Yr5tx_pS25OM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDYy/MC00MDQ4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/C4cXlS0W7sL18YD76MBI_cdEgLqSJMKjLfgdryUHS-c/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/My00OTcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/C4cXlS0W7sL18YD76MBI_cdEgLqSJMKjLfgdryUHS-c/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/My00OTcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jFkgbn7i6mMjmZQQtdUUUOfZ1NmZmNI5cpvEnLJxtU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjAy/MTYtMTUyODQyNDQz/My00OTcxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 581
+      }
+    ],
+    "year": 2014,
+    "tracklist": [
+      {
+        "position": "",
+        "type_": "heading",
+        "title": "Side A",
+        "duration": ""
+      },
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Ain't That Easy",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "Q-Tip",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 35848,
+            "resource_url": "https://api.discogs.com/artists/35848"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "4:49"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "1000 Deaths",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "5:49"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "The Charade",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Questlove",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 2412751,
+            "resource_url": "https://api.discogs.com/artists/2412751"
+          }
+        ],
+        "duration": "3:20"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Sugah Daddy",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "Q-Tip",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 35848,
+            "resource_url": "https://api.discogs.com/artists/35848"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "James Gadson",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 211643,
+            "resource_url": "https://api.discogs.com/artists/211643"
+          },
+          {
+            "name": "Pino Palladino",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 208234,
+            "resource_url": "https://api.discogs.com/artists/208234"
+          }
+        ],
+        "duration": "5:02"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Really Love",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "5:44"
+      },
+      {
+        "position": "",
+        "type_": "heading",
+        "title": "Side B",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Back To the Future (Part I)",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By, Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "5:22"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Till It's Done (Tutu)",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "3:51"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Prayer",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By, Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "4:32"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Betray My Heart",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By, Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "5:55"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "The Door",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "3:08"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Back To the Future (Part II)",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By, Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          }
+        ],
+        "duration": "2:24"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Another Life",
+        "extraartists": [
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Kendra Foster",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 246572,
+            "resource_url": "https://api.discogs.com/artists/246572"
+          },
+          {
+            "name": "D'Angelo",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 44944,
+            "resource_url": "https://api.discogs.com/artists/44944"
+          },
+          {
+            "name": "Questlove",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 2412751,
+            "resource_url": "https://api.discogs.com/artists/2412751"
+          }
+        ],
+        "duration": "5:58"
+      }
+    ],
+    "artists": [
+      {
+        "name": "D'Angelo",
+        "anv": "",
+        "join": "And",
+        "role": "",
+        "tracks": "",
+        "id": 44944,
+        "resource_url": "https://api.discogs.com/artists/44944",
+        "thumbnail_url": "https://i.discogs.com/Y2P4gyJxtLjEfHzpP05Vfq9bNYQuGuEHvSJ86kG8410/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0OTQ0/LTE3ODMwOTMyNjgt/NTc1Ni5qcGVn.jpeg"
+      },
+      {
+        "name": "The Vanguard (3)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4165408,
+        "resource_url": "https://api.discogs.com/artists/4165408",
+        "thumbnail_url": "https://i.discogs.com/nyRxsIw-rhNjjFk1tRmoSSyl52h_2jZUp2ybYaIrGYc/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxNjU0/MDgtMTc3Mjk5NTU3/OS04NTI0LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Black Messiah",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=lZoxdPGu_4E",
+        "title": "D'Angelo and The Vanguard - Ain't That Easy (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 292,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=t2r5yqjlVrI",
+        "title": "D'Angelo and The Vanguard - 1000 Deaths (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 352,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=T3CunfPYkME",
+        "title": "D'Angelo and The Vanguard - The Charade (Official Audio)",
+        "description": "\"The Charade\" by D'Angelo\nListen to D'Angelo: https://DAngelo.lnk.to/listenYD\nWatch more D'Angelo videos: https://DAngelo.lnk.to/listenYD/youtube\n\nSubscribe to the official D'Angelo YouTube channel: https://DAngelo.lnk.to/subscribeYD\n\nFollow D'Angelo:\nFac",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vo3RAH0zLlU",
+        "title": "D'Angelo and The Vanguard - Sugah Daddy (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 305,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mVsQwJfWzoI",
+        "title": "D'Angelo and The Vanguard - Really Love (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 347,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ISCFeQ7963A",
+        "title": "D'Angelo and The Vanguard - Back to the Future (Part I) (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 325,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=P4MQRMK6YO4",
+        "title": "D'Angelo and The Vanguard - Till It's Done (Tutu) (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 234,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pQ6ADCTmaNA",
+        "title": "D'Angelo and The Vanguard - Prayer (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 275,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rejA6QRtrAI",
+        "title": "D'Angelo & The Vanguard - Betray My Heart (Audio)",
+        "description": "Listen to the official audio for \"Betray My Heart\" by D'Angelo & The Vanguard\n\nNew album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/Black",
+        "duration": 358,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kQwBKmYj5WI",
+        "title": "D'Angelo and The Vanguard - The Door (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 191,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_UHe7pscl-c",
+        "title": "D'Angelo and The Vanguard - Back to the Future (Part II) (Audio)",
+        "description": "New album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMessiahSp?IQid=yt\nGoogle Play: http://smarturl.it/BlackMessiahGP?IQid=yt\n\nFollo",
+        "duration": 147,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MTAnBM0ZdVI",
+        "title": "D'Angelo & The Vanguard - Another Life (Audio)",
+        "description": "Listen to the official audio for \"Another Life\" by D'Angelo & The Vanguard\n\nNew album BLACK MESSIAH out now! iTunes: http://smarturl.it/BlackMessiahIT?IQid=yt\nAmazon Music: http://smarturl.it/blackmessiahamazon?IQid=yt\nSpotify: http://smarturl.it/BlackMes",
+        "duration": 361,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 771416,
+  "genres": [
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Blues",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

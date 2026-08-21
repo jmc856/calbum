@@ -1,0 +1,537 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "0692788762401",
+    "artist": "The Tallest Man On Earth",
+    "title": "The Wild Hunt",
+    "year": 2010
+  },
+  "results": [
+    {
+      "id": 2288743,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Gravitation",
+        "Bellwether Manufacturing",
+        "Disque Americ",
+        "Disque Americ"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605134024",
+        "6 56605 13402 4",
+        "WWW.BELLWETHERMFG.COM 0A7U7<7205>DOC040CD",
+        "IFPI L489",
+        "IFPI 812E",
+        "WWW.BELLWETHERMFG.COM 0S2L5<7205>DOC040CD",
+        "IFPI L486",
+        "ifpi 7705",
+        "WWW.BELLWETHERMFG.COM 0A7U7<7205>DOC040CD",
+        "IFPI L489",
+        "IFPI8102"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/2288743-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "DOC040",
+      "thumb": "https://i.discogs.com/73VrR-_pLST0aCwRjRy2vlDKArOrFlad_8wdFyDoivA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjUz/OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/EHZci5iNX4AZj_7m36Z4sYMG0x9KrlJr4EvVx-8ZSfc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjUz/OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2288743",
+      "community": {
+        "want": 118,
+        "have": 633
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6362881,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Japan",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Moor Works",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Moor Works"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 580278 720580"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/6362881-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "XQFN 1058",
+      "thumb": "https://i.discogs.com/UH3cXBmU-gtGsjEXrfdzLR1nzxq4xZPyO5oOn1C4ElE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjI4/ODEtMTQxNzM3OTc4/OC0yNTYyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/zJ0z3k8chXPhf4n6mJvOGZzdnnJcGqC78TikZQ-1_5I/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjI4/ODEtMTQxNzM3OTc4/OC0yNTYyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6362881",
+      "community": {
+        "want": 41,
+        "have": 23
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2251397,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Salt Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 56605 13401 7",
+        "656605134017",
+        "DOC 040 LP A",
+        "DOC 040 LP B Salt",
+        "DOC 040 LP A Re1",
+        "DOC 040 LP B Re1 Salt",
+        "DOC-040LP Re1 A ",
+        "DOC-040LP Re1 B Salt"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/2251397-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "DOC040",
+      "thumb": "https://i.discogs.com/dliL3psmCjdNJLf6ap6oL_quKEdL6z-StVbGQm_QxZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTEz/OTctMTQ3MjE0MTQ5/My05NzQyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/7IlfaLKDX8Y7Zvujf0VJlgppbmbsdi7drTsFvALvqqA/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTEz/OTctMTQ3MjE0MTQ5/My05NzQyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2251397",
+      "community": {
+        "want": 1170,
+        "have": 8097
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12914091,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc.",
+        "Regency Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "656605134024"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/12914091-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "DOC040",
+      "thumb": "https://i.discogs.com/GXZyqYA233VIo64j7MJRS-76RIf04Yu9IYTP8ahV6jI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE0/MDkxLTE1NDQ0MDM3/NjEtNjE3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xmgAKvDYrIOA3RGlebKcy-Z2FlFVX-jPqYJ9ETqT0I8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE0/MDkxLTE1NDQ0MDM3/NjEtNjE3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12914091",
+      "community": {
+        "want": 42,
+        "have": 238
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3586248,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Scandinavia",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dead Oceans",
+        "Gravitation",
+        "Gravitation",
+        "Dead Oceans, Inc.",
+        "Dead Oceans, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 350002 740255",
+        "W32478",
+        "IFPI LD02",
+        "IFPI 5J05"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/3586248-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "gra035",
+      "thumb": "https://i.discogs.com/THGsHrrk3KpGbAhsxNzhnTzPooLfuBZyviHXnAMQn_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODYy/NDgtMTMzNjMyNDc1/NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-LATr5iUbDmvC9hXzPP788nU-GDaFSpW8RCF1f-bWwQ/rs:fit/g:sm/q:90/h:570/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODYy/NDgtMTMzNjMyNDc1/NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3586248",
+      "community": {
+        "want": 64,
+        "have": 123
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3177154,
+      "title": "The Tallest Man On Earth - The Wild Hunt",
+      "master_id": 254560,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Dead Oceans"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/254560",
+      "uri": "/release/3177154-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+      "catno": "DOC040",
+      "thumb": "https://i.discogs.com/RSwbEOH7Vlwafg2ick5z7m4K9HKQfBoQLltQM2Spto0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcx/NTQtMTMxOTIyMDQw/Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1zASxj-nLzNtyijjKvVYcXwQ4qBTcGdo4vI31ojJLtU/rs:fit/g:sm/q:90/h:493/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcx/NTQtMTMxOTIyMDQw/Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3177154",
+      "community": {
+        "want": 44,
+        "have": 30
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 254560,
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk"
+    ],
+    "main_release": 2288743,
+    "most_recent_release": 15114832,
+    "resource_url": "https://api.discogs.com/masters/254560",
+    "uri": "https://www.discogs.com/master/254560-The-Tallest-Man-On-Earth-The-Wild-Hunt",
+    "versions_url": "https://api.discogs.com/masters/254560/versions",
+    "main_release_url": "https://api.discogs.com/releases/2288743",
+    "most_recent_release_url": "https://api.discogs.com/releases/15114832",
+    "num_for_sale": 151,
+    "lowest_price": 2.74,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/EHZci5iNX4AZj_7m36Z4sYMG0x9KrlJr4EvVx-8ZSfc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjUz/OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EHZci5iNX4AZj_7m36Z4sYMG0x9KrlJr4EvVx-8ZSfc/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjUz/OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/73VrR-_pLST0aCwRjRy2vlDKArOrFlad_8wdFyDoivA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjUz/OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 530
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GRhzhzP126tdQGqPDy6_VdFKGNV1iJCOpG1fTiy2kjU/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjU5/Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GRhzhzP126tdQGqPDy6_VdFKGNV1iJCOpG1fTiy2kjU/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjU5/Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/i7MJ2SQjbi7q_fBl5xoPVe0iDcuYrlgjy_ppWoBimDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjU5/Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 512
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BNVpe5ZEKO6whSP5hJIqRNU3dMxUZQETKc6rydWDmn8/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjYw/Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/BNVpe5ZEKO6whSP5hJIqRNU3dMxUZQETKc6rydWDmn8/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjYw/Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yc_6SSozuOMXREYbpqQefoMGwcTCZ2omfRTptK70llk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTMwNjA2NjYw/Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 567
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qQBWNIYfbMMw3eHoBTl0Me5mwC5BWkqFvCCSaC4AoYs/rs:fit/g:sm/q:90/h:582/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzU1/NS04MDc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qQBWNIYfbMMw3eHoBTl0Me5mwC5BWkqFvCCSaC4AoYs/rs:fit/g:sm/q:90/h:582/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzU1/NS04MDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lJsOwxHzMRd-Ba6LSCz2w84wYTQpGAOlLg6LoIhilFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzU1/NS04MDc3LmpwZWc.jpeg",
+        "width": 564,
+        "height": 582
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RrkxyQVkGIOTfnOTOAPgxXqpI8NbzN56yeNhXmehMg0/rs:fit/g:sm/q:90/h:258/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYz/Ny02NDU5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/RrkxyQVkGIOTfnOTOAPgxXqpI8NbzN56yeNhXmehMg0/rs:fit/g:sm/q:90/h:258/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYz/Ny02NDU5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PBUafiAxH0Q1Hd3zTZbst0nkOlVIwkUXw7jpKFg9Fog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYz/Ny02NDU5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 258
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qxrGXFBVBVxKIGtTsDu56_MPPYLROfE9apgIjlVszz4/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYw/NS0yOTUwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qxrGXFBVBVxKIGtTsDu56_MPPYLROfE9apgIjlVszz4/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYw/NS0yOTUwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/bj7Xk717NFMi_ZBdLBvfzixIUAkxUCtM-JZN11J6umw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NDMtMTYwNDE2MzYw/NS0yOTUwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 536
+      }
+    ],
+    "year": 2010,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "The Wild Hunt",
+        "duration": "3:22"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Burden Of Tomorrow",
+        "duration": "3:34"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Troubles Will Be Gone",
+        "duration": "3:02"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "You're Going Back",
+        "duration": "3:05"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "The Drying Of The Lawns",
+        "duration": "2:57"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "King Of Spain",
+        "duration": "3:26"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Love Is All",
+        "duration": "4:16"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Thousand Ways",
+        "duration": "2:53"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "A Lion's Heart",
+        "duration": "3:15"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Kids On The Run",
+        "duration": "4:52"
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Tallest Man On Earth",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1343431,
+        "resource_url": "https://api.discogs.com/artists/1343431",
+        "thumbnail_url": "https://i.discogs.com/FQ0qmgDSWs_vR1Jz_HN3grfrFyV0f1sLqFfmfso-v2U/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDM0/MzEtMTYzOTY5OTky/OC05ODAyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "The Wild Hunt",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=yoNkcgdznjk",
+        "title": "The Tallest Man on Earth - The Wild Hunt",
+        "description": "From the album The Wild Hunt. (HD/Lossless)",
+        "duration": 209,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZUXJKjEjrC8",
+        "title": "Kids on the Run - The Tallest Man on Earth - The Wild Hunt Live",
+        "description": "Performed by The Tallest Man on Earth live on YouTube\n\nthetallestmanonearth.com\n\nhttps://www.youtube.com/thetallestmanonearth",
+        "duration": 216,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JFZYG4fN1qU",
+        "title": "King of Spain",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nKing of Spain \u00b7 The Tallest Man On Earth\n\nThe Wild Hunt\n\n\u2117 2010 Dead Oceans\n\nReleased on: 2010-04-13\n\nAuto-generated by YouTube.",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lnwzCOLKgTM",
+        "title": "You're Going Back",
+        "description": "Provided to YouTube by BWSCD, Inc.\n\nYou're Going Back \u00b7 The Tallest Man On Earth\n\nThe Wild Hunt\n\n\u2117 2010 Dead Oceans\n\nReleased on: 2010-04-13\n\nAuto-generated by YouTube.",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vHT8IaMlw6I",
+        "title": "Graceland - The Tallest Man on Earth - The Wild Hunt Live",
+        "description": "Performed by The Tallest Man on Earth live on YouTube\n\nthetallestmanonearth.com\n\nhttps://www.youtube.com/thetallestmanonearth",
+        "duration": 170,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 254560,
+  "genres": [
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}
