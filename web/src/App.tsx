@@ -19,6 +19,8 @@ const TITLES: Record<View, string> = {
   search: "Search",
 };
 
+const GENRE_COUNT = new Set(ALBUMS.flatMap((a) => a.genres)).size;
+
 export default function App() {
   const [view, setView] = useState<View>("albums");
   const [query, setQuery] = useState("");
@@ -33,20 +35,13 @@ export default function App() {
     [query, genre],
   );
 
-  // Ranked styles for the selected genre. This is the drill-down that finally
-  // renders `styles` — 55 values that ship in the payload and, until now,
-  // appeared nowhere in the UI.
-  // Capped: Rock alone has 24 styles, and the count-1 tail is noise that
-  // pushed the album grid entirely below the fold. The top slice carries the
-  // signal; the grid is still the point of the screen.
+  // Ranked styles for the selected genre. Capped: Rock alone has 24 styles,
+  // and the count-1 tail is noise that pushed the album grid entirely below
+  // the fold. The top slice carries the signal; the grid is still the point
+  // of the screen.
   const styles = useMemo(
     () => (genre ? stylesForGenre(ALBUMS, genre).slice(0, 12) : []),
     [genre],
-  );
-
-  const genreCount = useMemo(
-    () => new Set(ALBUMS.flatMap((a) => a.genres)).size,
-    [],
   );
 
   const sections = useMemo(() => {
@@ -77,11 +72,19 @@ export default function App() {
     scrollRef.current?.scrollTo({ top: 0 });
   }
 
-  const stats = [
-    { n: visible.length, l: "Albums", lead: true },
-    { n: new Set(visible.flatMap((a) => a.genres)).size, l: "Genres", lead: false },
-    { n: new Set(visible.flatMap((a) => a.artists)).size, l: "Artists", lead: false },
-  ];
+  // Genres shows the chart in place of the stat row, so skip building it —
+  // and its two Set passes — on that tab entirely.
+  const stats = useMemo(
+    () =>
+      view === "genres"
+        ? []
+        : [
+            { n: visible.length, l: "Albums", lead: true },
+            { n: new Set(visible.flatMap((a) => a.genres)).size, l: "Genres", lead: false },
+            { n: new Set(visible.flatMap((a) => a.artists)).size, l: "Artists", lead: false },
+          ],
+    [view, visible],
+  );
 
   return (
     <div className="app">
@@ -116,7 +119,7 @@ export default function App() {
             <p className="hdr-sub tnum">
               {genre
                 ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
-                : `${ALBUMS.length} albums · ${genreCount} genres`}
+                : `${ALBUMS.length} albums · ${GENRE_COUNT} genres`}
             </p>
           ) : (
             <div className="stats">
@@ -145,13 +148,15 @@ export default function App() {
           )}
         </header>
 
-        {/* The chart stays mounted once a genre is picked — unlike the pill
-            rail it replaced, which vanished on selection and left no way to
-            see or change the active filter. */}
+        {/* The chart doubles as the filter control and stays mounted once a
+            genre is picked, so the active filter is always visible and
+            changeable. It charts ALBUMS, never `visible`: a chart that
+            reshaped itself as you filtered would describe your filter rather
+            than the collection. */}
         {view === "genres" && (
           <>
             <GenreChart albums={ALBUMS} selected={genre} onSelect={setGenre} />
-            {genre && styles.length > 0 && (
+            {styles.length > 0 && (
               <div className="gstyles">
                 <p className="gstyles-lab">{genre} → styles</p>
                 <div className="gchips">

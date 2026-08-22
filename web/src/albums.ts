@@ -51,6 +51,14 @@ export const byTitle = (a: Album, b: Album) => a.title.localeCompare(b.title);
 export const UNCATEGORIZED = "Uncategorized";
 
 /**
+ * An album's genres, with the pseudo-genre standing in when Discogs gave us
+ * none. Every consumer goes through here, so what "uncategorized" means is
+ * defined once instead of re-derived at each call site.
+ */
+export const genresOf = (album: Album): string[] =>
+  album.genres.length ? album.genres : [UNCATEGORIZED];
+
+/**
  * Release-year bins for the Genres chart.
  *
  * Sized to balance album counts rather than span equal time — the catalogue
@@ -58,22 +66,22 @@ export const UNCATEGORIZED = "Uncategorized";
  * early ones nearly empty. The axis is labelled to say so; it is NOT linear
  * time.
  *
- * First and last bins are deliberately open-ended: a 2027 release must land
- * somewhere, and a closed upper bound would silently drop it from the chart
- * while leaving it in the grid.
+ * Bins are contiguous and ordered, so each carries only its upper bound. The
+ * last one is open-ended: a 2027 release must land somewhere, and a closed
+ * bound would silently drop it from the chart while leaving it in the grid.
  */
-export const ERAS: { label: string; from: number; to: number }[] = [
-  { label: "–2014", from: -Infinity, to: 2014 },
-  { label: "2015–18", from: 2015, to: 2018 },
-  { label: "2019–21", from: 2019, to: 2021 },
-  { label: "2022–23", from: 2022, to: 2023 },
-  { label: "2024+", from: 2024, to: Infinity },
+export const ERAS: { label: string; to: number }[] = [
+  { label: "–2014", to: 2014 },
+  { label: "2015–18", to: 2018 },
+  { label: "2019–21", to: 2021 },
+  { label: "2022–23", to: 2023 },
+  { label: "2024+", to: Infinity },
 ];
 
-export function eraOf(year: number): string {
-  // The open-ended outer bins make this total; the fallback is unreachable
-  // and exists only to satisfy the return type.
-  return ERAS.find((e) => year >= e.from && year <= e.to)?.label ?? ERAS[ERAS.length - 1].label;
+/** Index into ERAS — the bin itself, not its label. */
+export function eraIndexOf(year: number): number {
+  const i = ERAS.findIndex((e) => year <= e.to);
+  return i === -1 ? ERAS.length - 1 : i;
 }
 
 /** A genre's stacked-bar data: one count per era, in ERAS order. */
@@ -97,16 +105,13 @@ export interface GenreMatrix {
  * the same seam the Artists destination uses.
  */
 export function genreEraMatrix(albums: Album[]): GenreMatrix {
-  const idx = new Map(ERAS.map((e, i) => [e.label, i]));
-  const groups = groupBy(
-    albums,
-    (a) => (a.genres.length ? a.genres : [UNCATEGORIZED]),
-    byNameAsc,
-  );
+  // No ordering asked of groupBy: rows are re-sorted below by a comparator
+  // that is a total order, so anything imposed here would just be discarded.
+  const groups = groupBy(albums, genresOf, () => 0);
 
   const rows: GenreRow[] = groups.map(([genre, list]) => {
     const counts = ERAS.map(() => 0);
-    for (const a of list) counts[idx.get(eraOf(a.year))!]++;
+    for (const a of list) counts[eraIndexOf(a.year)]++;
     return { genre, counts, total: list.length };
   });
   // Biggest genres first, so the legend's most useful entries lead and the
@@ -121,21 +126,14 @@ export function genreEraMatrix(albums: Album[]): GenreMatrix {
 export function stylesForGenre(albums: Album[], genre: string): [string, number][] {
   const counts = new Map<string, number>();
   for (const a of albums) {
-    const has = genre === UNCATEGORIZED ? a.genres.length === 0 : a.genres.includes(genre);
-    if (!has) continue;
+    if (!genresOf(a).includes(genre)) continue;
     for (const s of a.styles) counts.set(s, (counts.get(s) ?? 0) + 1);
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 
 export function matches(album: Album, query: string, genre: string | null): boolean {
-  if (genre === UNCATEGORIZED) {
-    // No album carries "Uncategorized" as a real genre — it's the bucket for
-    // albums Discogs gave us nothing for, so match on the absence instead.
-    if (album.genres.length) return false;
-  } else if (genre && !album.genres.includes(genre)) {
-    return false;
-  }
+  if (genre && !genresOf(album).includes(genre)) return false;
   if (query) {
     const hay = `${album.title} ${album.artists.join(" ")}`.toLowerCase();
     if (!hay.includes(query)) return false;

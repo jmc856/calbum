@@ -3,6 +3,9 @@
   --ink: #111315;
   --ink-2: #8a8f94;
   --ink-3: #b4b9be;
+  /* Secondary text on the accent header. --ink-2 is tuned for the white
+     content ground and goes nearly invisible against orange. */
+  --ink-on-accent: color-mix(in srgb, var(--ink) 66%, transparent);
   --ground: #ffffff;
   --tile: #ededed;
   --line: #eceef0;
@@ -14,7 +17,7 @@
      would reuse --g0, which is acceptable since the legend always carries
      the name. Warm-leaning and mutually distinguishable, anchored on the
      app accent so the chart belongs to the same palette. */
-  --g0: #e85a2a;
+  --g0: var(--accent);
   --g1: #2d6e7e;
   --g2: #c43c6b;
   --g3: #e0a32e;
@@ -113,13 +116,11 @@ button {
   outline-offset: -4px;
 }
 
-/* What the Genres tab shows instead of the stat row. Tinted from the header's
-   own ink rather than --ink-2: that grey is tuned for the white content
-   ground and goes nearly invisible against the accent block. */
+/* What the Genres tab shows instead of the stat row. */
 .hdr-sub {
   margin: 6px 0 0;
   font-size: 13px;
-  color: rgba(17, 19, 21, 0.66);
+  color: var(--ink-on-accent);
   font-weight: 500;
 }
 
@@ -259,10 +260,7 @@ a.card:active .cover-fb {
   padding: 1px 6px;
 }
 
-/* ---------- Genre chart ----------
-   Replaces the old pill rail. The rail disappeared once a genre was picked,
-   which left the active filter invisible and unchangeable; the chart stays
-   mounted and carries the selection state instead. */
+/* ---------- Genre chart ---------- */
 .gchart {
   padding: 14px var(--gutter) 2px;
 }
@@ -295,16 +293,21 @@ a.card:active .cover-fb {
   gap: 6px;
   padding: 10px 0 2px;
 }
-/* The accessible path to every genre. Jazz and Blues are one or two albums,
-   so their bar segments are a pixel tall — these chips are what make them
-   actually reachable, which is why they keep a full touch target. */
-.gpill {
+/* Chip geometry, shared by the legend and the style drill-down. */
+.gpill,
+.gchip {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  border: 1.5px solid var(--line);
   border-radius: 999px;
   padding: 0 11px;
+}
+
+/* Jazz and Blues are one or two albums, so their bar segments are a pixel
+   tall — the legend is what makes them reachable, hence the full touch
+   target. */
+.gpill {
+  border: 1.5px solid var(--line);
   min-height: 44px;
   font-size: 13px;
   transition: opacity 0.18s ease;
@@ -335,8 +338,7 @@ a.card:active .cover-fb {
   font-weight: 500;
 }
 
-/* ---------- Style drill-down ----------
-   `styles` ships in every payload record and, before this, rendered nowhere. */
+/* ---------- Style drill-down ---------- */
 .gstyles {
   padding: 12px var(--gutter) 0;
   margin-top: 10px;
@@ -355,11 +357,7 @@ a.card:active .cover-fb {
   gap: 6px;
 }
 .gchip {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
   background: var(--tile);
-  border-radius: 999px;
   padding: 5px 11px;
   font-size: 12.5px;
 }
