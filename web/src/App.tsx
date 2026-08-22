@@ -1,13 +1,14 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ALBUMS,
-  UNCATEGORIZED,
   byNameAsc,
   byYearDesc,
   groupBy,
   matches,
+  stylesForGenre,
   type View,
 } from "./albums";
+import { GenreChart } from "./components/GenreChart";
 import { Nav } from "./components/Nav";
 import { Section } from "./components/Section";
 
@@ -32,11 +33,19 @@ export default function App() {
     [query, genre],
   );
 
-  // Genre counts come from the whole catalog, not the filtered set — a count
-  // that changed as you filtered would be telling you about your own filter
-  // rather than about the collection.
-  const genreGroups = useMemo(
-    () => groupBy(ALBUMS, (a) => (a.genres.length ? a.genres : [UNCATEGORIZED]), byNameAsc),
+  // Ranked styles for the selected genre. This is the drill-down that finally
+  // renders `styles` — 55 values that ship in the payload and, until now,
+  // appeared nowhere in the UI.
+  // Capped: Rock alone has 24 styles, and the count-1 tail is noise that
+  // pushed the album grid entirely below the fold. The top slice carries the
+  // signal; the grid is still the point of the screen.
+  const styles = useMemo(
+    () => (genre ? stylesForGenre(ALBUMS, genre).slice(0, 12) : []),
+    [genre],
+  );
+
+  const genreCount = useMemo(
+    () => new Set(ALBUMS.flatMap((a) => a.genres)).size,
     [],
   );
 
@@ -100,15 +109,26 @@ export default function App() {
             </button>
           </div>
 
-          <div className="stats">
-            {stats.map((s) => (
-              <div key={s.l} className={s.lead ? "stat lead" : "stat"}>
-                <div className="n tnum">{s.n}</div>
-                <div className="l">{s.l}</div>
-                <div className="tick" />
-              </div>
-            ))}
-          </div>
+          {/* The Genres tab trades the stat row for the chart, which says
+              more about the collection's shape than three static numbers
+              did. The count survives as a subtitle. */}
+          {view === "genres" ? (
+            <p className="hdr-sub tnum">
+              {genre
+                ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
+                : `${ALBUMS.length} albums · ${genreCount} genres`}
+            </p>
+          ) : (
+            <div className="stats">
+              {stats.map((s) => (
+                <div key={s.l} className={s.lead ? "stat lead" : "stat"}>
+                  <div className="n tnum">{s.n}</div>
+                  <div className="l">{s.l}</div>
+                  <div className="tick" />
+                </div>
+              ))}
+            </div>
+          )}
 
           {showSearch && (
             <div className="search-wrap">
@@ -125,20 +145,26 @@ export default function App() {
           )}
         </header>
 
-        {view === "genres" && !genre && (
-          <div className="pills">
-            {genreGroups.map(([name, list]) => (
-              <button
-                key={name}
-                className="pill"
-                aria-pressed={genre === name}
-                onClick={() => setGenre(name)}
-              >
-                {name}
-                <span className="c">{list.length}</span>
-              </button>
-            ))}
-          </div>
+        {/* The chart stays mounted once a genre is picked — unlike the pill
+            rail it replaced, which vanished on selection and left no way to
+            see or change the active filter. */}
+        {view === "genres" && (
+          <>
+            <GenreChart albums={ALBUMS} selected={genre} onSelect={setGenre} />
+            {genre && styles.length > 0 && (
+              <div className="gstyles">
+                <p className="gstyles-lab">{genre} → styles</p>
+                <div className="gchips">
+                  {styles.map(([name, n]) => (
+                    <span className="gchip" key={name}>
+                      {name}
+                      <span className="gchip-n tnum">{n}</span>
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+          </>
         )}
 
         {sections.map((s) => (
