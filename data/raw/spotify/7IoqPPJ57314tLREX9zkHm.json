@@ -1,0 +1,461 @@
+{
+  "album_type": "album",
+  "total_tracks": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7IoqPPJ57314tLREX9zkHm"
+  },
+  "href": "https://api.spotify.com/v1/albums/7IoqPPJ57314tLREX9zkHm",
+  "id": "7IoqPPJ57314tLREX9zkHm",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273139f85be1c5868dd2c56df39",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02139f85be1c5868dd2c56df39",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851139f85be1c5868dd2c56df39",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "If There's a Hell Below",
+  "release_date": "2014-10-28",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:7IoqPPJ57314tLREX9zkHm",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+      },
+      "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+      "id": "77zgRkcehIGCAtROXkXkb3",
+      "name": "Black Milk",
+      "type": "artist",
+      "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7IoqPPJ57314tLREX9zkHm/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 12,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a"
+            },
+            "href": "https://api.spotify.com/v1/artists/1yHQHPrgaF1Oe8LuYgBW8a",
+            "id": "1yHQHPrgaF1Oe8LuYgBW8a",
+            "name": "Mel",
+            "type": "artist",
+            "uri": "spotify:artist:1yHQHPrgaF1Oe8LuYgBW8a"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251587,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/225WLJ4RlbSMSAZnjMYEt7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/225WLJ4RlbSMSAZnjMYEt7",
+        "id": "225WLJ4RlbSMSAZnjMYEt7",
+        "name": "Everyday Was",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:225WLJ4RlbSMSAZnjMYEt7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 285650,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/58drL48d8lSmr8I5ZIQo5C"
+        },
+        "href": "https://api.spotify.com/v1/tracks/58drL48d8lSmr8I5ZIQo5C",
+        "id": "58drL48d8lSmr8I5ZIQo5C",
+        "name": "What It's Worth",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:58drL48d8lSmr8I5ZIQo5C",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/63dhNZE7aodfHYu7o3hk7X"
+            },
+            "href": "https://api.spotify.com/v1/artists/63dhNZE7aodfHYu7o3hk7X",
+            "id": "63dhNZE7aodfHYu7o3hk7X",
+            "name": "Blu",
+            "type": "artist",
+            "uri": "spotify:artist:63dhNZE7aodfHYu7o3hk7X"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4xliXgK3ifxzOgSkmngR7v"
+            },
+            "href": "https://api.spotify.com/v1/artists/4xliXgK3ifxzOgSkmngR7v",
+            "id": "4xliXgK3ifxzOgSkmngR7v",
+            "name": "AB",
+            "type": "artist",
+            "uri": "spotify:artist:4xliXgK3ifxzOgSkmngR7v"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265786,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2s8vNrkWaEIW5UNoaZt7xO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2s8vNrkWaEIW5UNoaZt7xO",
+        "id": "2s8vNrkWaEIW5UNoaZt7xO",
+        "name": "Leave the Bones Behind",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2s8vNrkWaEIW5UNoaZt7xO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+            },
+            "href": "https://api.spotify.com/v1/artists/3BeQqzKdlARoOd6y30kCO2",
+            "id": "3BeQqzKdlARoOd6y30kCO2",
+            "name": "Pete Rock",
+            "type": "artist",
+            "uri": "spotify:artist:3BeQqzKdlARoOd6y30kCO2"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 298591,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TYVnB7KNxOk09Djvu1H3a"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TYVnB7KNxOk09Djvu1H3a",
+        "id": "5TYVnB7KNxOk09Djvu1H3a",
+        "name": "Quarter Water",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5TYVnB7KNxOk09Djvu1H3a",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1CReYOhN70zhSpPHaIxRNN"
+            },
+            "href": "https://api.spotify.com/v1/artists/1CReYOhN70zhSpPHaIxRNN",
+            "id": "1CReYOhN70zhSpPHaIxRNN",
+            "name": "Gene Obey",
+            "type": "artist",
+            "uri": "spotify:artist:1CReYOhN70zhSpPHaIxRNN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242931,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2QOqfCvyQdpnEvG3MqREir"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QOqfCvyQdpnEvG3MqREir",
+        "id": "2QOqfCvyQdpnEvG3MqREir",
+        "name": "Hell Below",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2QOqfCvyQdpnEvG3MqREir",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 320164,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0aTcUqaGRIJIEWjJBWGkzm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0aTcUqaGRIJIEWjJBWGkzm",
+        "id": "0aTcUqaGRIJIEWjJBWGkzm",
+        "name": "Detroit's New Dance Show",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0aTcUqaGRIJIEWjJBWGkzm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 371960,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ooc6jsuDqBjaXaSkTg1qy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ooc6jsuDqBjaXaSkTg1qy",
+        "id": "1Ooc6jsuDqBjaXaSkTg1qy",
+        "name": "Story and Her",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1Ooc6jsuDqBjaXaSkTg1qy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 300632,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6yaUqJcijMqxrpimcLADjM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6yaUqJcijMqxrpimcLADjM",
+        "id": "6yaUqJcijMqxrpimcLADjM",
+        "name": "All Mighty",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6yaUqJcijMqxrpimcLADjM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3pBKouKb8w9CJN8rJV5PJI"
+            },
+            "href": "https://api.spotify.com/v1/artists/3pBKouKb8w9CJN8rJV5PJI",
+            "id": "3pBKouKb8w9CJN8rJV5PJI",
+            "name": "Random Axe",
+            "type": "artist",
+            "uri": "spotify:artist:3pBKouKb8w9CJN8rJV5PJI"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235980,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qYEKBoFzV6G7i8EzSblrs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qYEKBoFzV6G7i8EzSblrs",
+        "id": "6qYEKBoFzV6G7i8EzSblrs",
+        "name": "Scum",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6qYEKBoFzV6G7i8EzSblrs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+            },
+            "href": "https://api.spotify.com/v1/artists/45a6gCQWq61lIUDmr1tKuO",
+            "id": "45a6gCQWq61lIUDmr1tKuO",
+            "name": "Bun B",
+            "type": "artist",
+            "uri": "spotify:artist:45a6gCQWq61lIUDmr1tKuO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 256220,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/114U6c6tnWkP1li1D9gGnE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/114U6c6tnWkP1li1D9gGnE",
+        "id": "114U6c6tnWkP1li1D9gGnE",
+        "name": "Gold Piece",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:114U6c6tnWkP1li1D9gGnE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217091,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6rrSbNnJQnKo9q8mgV7E9V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6rrSbNnJQnKo9q8mgV7E9V",
+        "id": "6rrSbNnJQnKo9q8mgV7E9V",
+        "name": "Grey for Summer",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6rrSbNnJQnKo9q8mgV7E9V",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3"
+            },
+            "href": "https://api.spotify.com/v1/artists/77zgRkcehIGCAtROXkXkb3",
+            "id": "77zgRkcehIGCAtROXkXkb3",
+            "name": "Black Milk",
+            "type": "artist",
+            "uri": "spotify:artist:77zgRkcehIGCAtROXkXkb3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 160223,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3uY95VGcUC1qVoGPEEFpED"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uY95VGcUC1qVoGPEEFpED",
+        "id": "3uY95VGcUC1qVoGPEEFpED",
+        "name": "Up & Out",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3uY95VGcUC1qVoGPEEFpED",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2014 Computer Ugly",
+      "type": "C"
+    },
+    {
+      "text": "2014 Computer Ugly",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "889211020423"
+  },
+  "genres": []
+}

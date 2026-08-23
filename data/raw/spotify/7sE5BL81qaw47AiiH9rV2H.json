@@ -1,0 +1,414 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+  },
+  "href": "https://api.spotify.com/v1/albums/7sE5BL81qaw47AiiH9rV2H",
+  "id": "7sE5BL81qaw47AiiH9rV2H",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273de72aa25bc01542c51c11ad6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02de72aa25bc01542c51c11ad6",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851de72aa25bc01542c51c11ad6",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The End Of Comedy",
+  "release_date": "2016-09-09",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:7sE5BL81qaw47AiiH9rV2H",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "name": "Drugdealer",
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/7sE5BL81qaw47AiiH9rV2H/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 87906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0NnqnWbds7RRoSnuR1tzSO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0NnqnWbds7RRoSnuR1tzSO",
+        "id": "0NnqnWbds7RRoSnuR1tzSO",
+        "name": "Far Rockaway Theme",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NnqnWbds7RRoSnuR1tzSO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7rkVJB7ZekCLtOZ2PWD2mM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7rkVJB7ZekCLtOZ2PWD2mM",
+            "id": "7rkVJB7ZekCLtOZ2PWD2mM",
+            "name": "Sheer Agony",
+            "type": "artist",
+            "uri": "spotify:artist:7rkVJB7ZekCLtOZ2PWD2mM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Rc94e3TOA1K4vHnWeFVrn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Rc94e3TOA1K4vHnWeFVrn",
+        "id": "3Rc94e3TOA1K4vHnWeFVrn",
+        "name": "The Real World",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3Rc94e3TOA1K4vHnWeFVrn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+            "id": "3Uqu1mEdkUJxPe7s31n1M9",
+            "name": "Weyes Blood",
+            "type": "artist",
+            "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77iRifbhkJGvGBBRNykUwN",
+        "id": "77iRifbhkJGvGBBRNykUwN",
+        "name": "Suddenly",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:77iRifbhkJGvGBBRNykUwN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+            },
+            "href": "https://api.spotify.com/v1/artists/5H0YoDsPDi9fObFmJtTjfN",
+            "id": "5H0YoDsPDi9fObFmJtTjfN",
+            "name": "Ariel Pink",
+            "type": "artist",
+            "uri": "spotify:artist:5H0YoDsPDi9fObFmJtTjfN"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0AvaN1Y5bv0C0xrDeDZjDh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0AvaN1Y5bv0C0xrDeDZjDh",
+        "id": "0AvaN1Y5bv0C0xrDeDZjDh",
+        "name": "Easy to Forget",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0AvaN1Y5bv0C0xrDeDZjDh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 141893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5BJFaJRLHBCyK52izBKwFj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5BJFaJRLHBCyK52izBKwFj",
+        "id": "5BJFaJRLHBCyK52izBKwFj",
+        "name": "Were You Saying Something?",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5BJFaJRLHBCyK52izBKwFj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 137226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1ZtEfPy1aWHGz4IKDMVIpm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ZtEfPy1aWHGz4IKDMVIpm",
+        "id": "1ZtEfPy1aWHGz4IKDMVIpm",
+        "name": "Theme For Alessandro",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1ZtEfPy1aWHGz4IKDMVIpm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 162840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5XLye2xYwqnq1aOFsbP1Ac"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5XLye2xYwqnq1aOFsbP1Ac",
+        "id": "5XLye2xYwqnq1aOFsbP1Ac",
+        "name": "It's Only Raining Right Where You're Standing",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5XLye2xYwqnq1aOFsbP1Ac",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+            "id": "3Uqu1mEdkUJxPe7s31n1M9",
+            "name": "Weyes Blood",
+            "type": "artist",
+            "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 151066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40PRp88YqFp5fM0MtG2j1N"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40PRp88YqFp5fM0MtG2j1N",
+        "id": "40PRp88YqFp5fM0MtG2j1N",
+        "name": "The End Of Comedy",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:40PRp88YqFp5fM0MtG2j1N",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BfcfdZd85CmmkE5pdbUdE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BfcfdZd85CmmkE5pdbUdE",
+        "id": "0BfcfdZd85CmmkE5pdbUdE",
+        "name": "Sea of Nothing",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0BfcfdZd85CmmkE5pdbUdE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nUA9k6JVwQoPYTrp05Ajs"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nUA9k6JVwQoPYTrp05Ajs",
+            "id": "6nUA9k6JVwQoPYTrp05Ajs",
+            "name": "Danny James",
+            "type": "artist",
+            "uri": "spotify:artist:6nUA9k6JVwQoPYTrp05Ajs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183066,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6cKytSAcbdqKPIPk9T7sIU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6cKytSAcbdqKPIPk9T7sIU",
+        "id": "6cKytSAcbdqKPIPk9T7sIU",
+        "name": "My Life",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6cKytSAcbdqKPIPk9T7sIU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+            "id": "0tMnuEXTeJeHbslcV8OybJ",
+            "name": "Drugdealer",
+            "type": "artist",
+            "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 103706,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7E1UJfkzOcO2Tcag6mTi6d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7E1UJfkzOcO2Tcag6mTi6d",
+        "id": "7E1UJfkzOcO2Tcag6mTi6d",
+        "name": "Comedy Outro",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7E1UJfkzOcO2Tcag6mTi6d",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2016 Domino Recording Co Ltd",
+      "type": "C"
+    },
+    {
+      "text": "2016 Domino Recording Co Ltd",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "887833004968"
+  },
+  "genres": []
+}
