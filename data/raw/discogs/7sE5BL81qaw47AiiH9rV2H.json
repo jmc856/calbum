@@ -1,0 +1,855 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "887833004968",
+    "artist": "Drugdealer",
+    "title": "The End Of Comedy",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 9470071,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Poland",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Sonic Records",
+        "Domino",
+        "Weird World"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/9470071-Drugdealer-The-End-Of-Comedy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/FHBymaX8ELHMSxl6bXRWpg_gYOTdJVWr4O_QjUySV_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzAw/NzEtMTQ4MTIzNTk4/NC03ODg0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/JB3haXZiQFR4YGwNUbUPPobnS7skvCIMG0ZZChHCPRU/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzAw/NzEtMTQ4MTIzNTk4/NC03ODg0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9470071",
+      "community": {
+        "want": 19,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9023423,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Weird World",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "887833004913",
+        "WEIRD\u00d849LP A1 BG38686 - 07 A7",
+        "WEIRD\u00d849LP B1 VX BG38686 - 07 B7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/9023423-Drugdealer-The-End-Of-Comedy",
+      "catno": "WEIRD049LP",
+      "thumb": "https://i.discogs.com/JURlpaJGRhIwy_6-dkO5LyHs0g-KLo_bJ7ls-fM6YjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OC04NDI1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/J38Dp4-z58vQqztmxlCIS8v1nEHA-oWPMLFbVKhYYdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OC04NDI1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9023423",
+      "community": {
+        "want": 768,
+        "have": 1288
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9046528,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Weird World",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "LC27862"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/9046528-Drugdealer-The-End-Of-Comedy",
+      "catno": "WEIRD049CDP",
+      "thumb": "https://i.discogs.com/H6oa9dqm7bVfcXuXfxoZOMbsG77WFJCvAEwNpGyv2DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDY1/MjgtMTQ5MDQ1Mzgw/My04MzIzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/18ZniX7dyo_qEihF0CJbK4kgKVh5peJdtsmFfaCTRVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDY1/MjgtMTQ5MDQ1Mzgw/My04MzIzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9046528",
+      "community": {
+        "want": 37,
+        "have": 33
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19552093,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Special Edition"
+      ],
+      "label": [
+        "Weird World",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "887833004913",
+        "WEIRD\u00d849LP A1 BG38686 - 07 A7",
+        "WEIRD\u00d849LP B1 VX BG38686 - 07 B7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/19552093-Drugdealer-The-End-Of-Comedy",
+      "catno": "WEIRD049LP",
+      "thumb": "https://i.discogs.com/ZpFTsAlwWy4gCjjGjQ-AZjwEWUCZ0v7KoQZ6AkOXYq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUy/MDkzLTE2MjY3MjI1/MTgtODgwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Vp2bqyN_PfZ6OuSw2JCU9IYSqdMT6maOZjMeO9QQd8w/rs:fit/g:sm/q:90/h:636/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTUy/MDkzLTE2MjY3MjI1/MTgtODgwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19552093",
+      "community": {
+        "want": 97,
+        "have": 44
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12435443,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Soft Rock",
+        "Pop Rock",
+        "Smooth Jazz",
+        "Downtempo",
+        "Dream Pop",
+        "Psychedelic Rock",
+        "Acoustic"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Weird World",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "08110USA MAH4070",
+        "IFPI LZ74"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/12435443-Drugdealer-The-End-Of-Comedy",
+      "catno": "WEIRD049CDP",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/9eb73a0b917a5fcb283587bc2e763afe88196d25/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/12435443",
+      "community": {
+        "want": 20,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9305393,
+      "title": "Drugdealer - The End Of Comedy",
+      "master_id": 1058061,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Aboriginal"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Weird World",
+        "Domino Recording Co. Ltd.",
+        "Domino Recording Co. Ltd.",
+        "Sony DADC, Southwater"
+      ],
+      "type": "release",
+      "barcode": [
+        "887833004920",
+        "LC27862",
+        "WEIRD049CD 01",
+        "IFPI LY34",
+        "IFPI AEW39"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1058061",
+      "uri": "/release/9305393-Drugdealer-The-End-Of-Comedy",
+      "catno": "WEIRD049CD",
+      "thumb": "https://i.discogs.com/4AjvIQBeFwMEXx7iKsQ5xVrLO2huIM1BHfBgJjckBHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDUz/OTMtMTQ3ODI5NTI2/Ni04Nzc5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/1SUFFXwcetzGFgUan0g9UKabjNR3u0t0VBF_JgXXL8A/rs:fit/g:sm/q:90/h:298/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDUz/OTMtMTQ3ODI5NTI2/Ni04Nzc5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9305393",
+      "community": {
+        "want": 46,
+        "have": 76
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1058061,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Psychedelic Rock"
+    ],
+    "main_release": 9023423,
+    "most_recent_release": 25469770,
+    "resource_url": "https://api.discogs.com/masters/1058061",
+    "uri": "https://www.discogs.com/master/1058061-Drugdealer-The-End-Of-Comedy",
+    "versions_url": "https://api.discogs.com/masters/1058061/versions",
+    "main_release_url": "https://api.discogs.com/releases/9023423",
+    "most_recent_release_url": "https://api.discogs.com/releases/25469770",
+    "num_for_sale": 54,
+    "lowest_price": 1.16,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/J38Dp4-z58vQqztmxlCIS8v1nEHA-oWPMLFbVKhYYdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OC04NDI1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/J38Dp4-z58vQqztmxlCIS8v1nEHA-oWPMLFbVKhYYdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OC04NDI1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/JURlpaJGRhIwy_6-dkO5LyHs0g-KLo_bJ7ls-fM6YjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OC04NDI1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oEB-Ory5UNwFhxi3RWT2-dOzrtARb-z7FXdRVgJwVtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS0yMDc5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/oEB-Ory5UNwFhxi3RWT2-dOzrtARb-z7FXdRVgJwVtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS0yMDc5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/T0pxe2JJ5U4ruapx3gJ6Y7w43BULSoRx8WRlagZDfTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS0yMDc5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nHtSrh8AgNS9FVu5A_p5qCSoAs5nEW3U6N0SqVUJDZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS03NjY0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/nHtSrh8AgNS9FVu5A_p5qCSoAs5nEW3U6N0SqVUJDZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS03NjY0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/jZf7xVvSIwIY8uvaHejpCOtYdYbJhAR_IiAiVmiSh14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS03NjY0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0Yo1NF6gaMl4lkLVoccRDb8K0iRyV_OP_VX0ZqBK9gM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS05NDE5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/0Yo1NF6gaMl4lkLVoccRDb8K0iRyV_OP_VX0ZqBK9gM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS05NDE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lV6JCrU3qFCjOn2qvmaqvbXDPo1jdeDC_sAyR4vhKNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTYwMDI4ODY2/OS05NDE5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dj5yG0g0wzGups6RBx2Fku-rpjYXEb6Z6c2TPYpHYpo/rs:fit/g:sm/q:90/h:211/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTc3MzI0MDg1/Mi0xMTg0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dj5yG0g0wzGups6RBx2Fku-rpjYXEb6Z6c2TPYpHYpo/rs:fit/g:sm/q:90/h:211/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTc3MzI0MDg1/Mi0xMTg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/SRMSSHwHMObkyz_c_OCpG5VZY8Uv2mrpzU2T1bAj5as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjM0/MjMtMTc3MzI0MDg1/Mi0xMTg0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 211
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Far Rockaway Theme",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "The Real World",
+        "extraartists": [
+          {
+            "name": "Sheer Agony",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2338553,
+            "resource_url": "https://api.discogs.com/artists/2338553"
+          },
+          {
+            "name": "Alexander Brettin",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 3543121,
+            "resource_url": "https://api.discogs.com/artists/3543121"
+          },
+          {
+            "name": "Jackson MacIntosh",
+            "anv": "Jackson Mcintosh",
+            "join": "",
+            "role": "Vocals, Guitar, Bass",
+            "tracks": "",
+            "id": 2869824,
+            "resource_url": "https://api.discogs.com/artists/2869824"
+          },
+          {
+            "name": "Baasil Bluntstone",
+            "anv": "",
+            "join": "",
+            "role": "Whistling",
+            "tracks": "",
+            "id": 3543120,
+            "resource_url": "https://api.discogs.com/artists/3543120"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Suddenly",
+        "extraartists": [
+          {
+            "name": "Ariel Pink",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 340847,
+            "resource_url": "https://api.discogs.com/artists/340847"
+          },
+          {
+            "name": "Joe McMurray",
+            "anv": "Joseph Mcmurray",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2981778,
+            "resource_url": "https://api.discogs.com/artists/2981778"
+          },
+          {
+            "name": "Weyes Blood",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3733968,
+            "resource_url": "https://api.discogs.com/artists/3733968"
+          },
+          {
+            "name": "Ben Brown (11)",
+            "anv": "Benjamin Brown",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 2455597,
+            "resource_url": "https://api.discogs.com/artists/2455597"
+          },
+          {
+            "name": "Eric Cardona",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone",
+            "tracks": "",
+            "id": 2438808,
+            "resource_url": "https://api.discogs.com/artists/2438808"
+          },
+          {
+            "name": "Natalie Mering",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Written-By",
+            "tracks": "",
+            "id": 1030037,
+            "resource_url": "https://api.discogs.com/artists/1030037"
+          },
+          {
+            "name": "Michael Collins (14)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3543119,
+            "resource_url": "https://api.discogs.com/artists/3543119"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Easy To Forget",
+        "extraartists": [
+          {
+            "name": "Alexander Brettin",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Written-By",
+            "tracks": "",
+            "id": 3543121,
+            "resource_url": "https://api.discogs.com/artists/3543121"
+          },
+          {
+            "name": "Joe McMurray",
+            "anv": "Joseph Mcmurray",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2981778,
+            "resource_url": "https://api.discogs.com/artists/2981778"
+          },
+          {
+            "name": "Ariel Pink",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Bass, Featuring, Written-By",
+            "tracks": "",
+            "id": 340847,
+            "resource_url": "https://api.discogs.com/artists/340847"
+          },
+          {
+            "name": "Michael Collins (14)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3543119,
+            "resource_url": "https://api.discogs.com/artists/3543119"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Were You Saying Something?",
+        "extraartists": [
+          {
+            "name": "Izak Arida",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 3350378,
+            "resource_url": "https://api.discogs.com/artists/3350378"
+          },
+          {
+            "name": "Brooks Kossover",
+            "anv": "",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 5261159,
+            "resource_url": "https://api.discogs.com/artists/5261159"
+          },
+          {
+            "name": "Baasil Bluntstone",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3543120,
+            "resource_url": "https://api.discogs.com/artists/3543120"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Theme For Alessandro",
+        "extraartists": [
+          {
+            "name": "Ben Brown (11)",
+            "anv": "Benjamin Brown",
+            "join": "",
+            "role": "Guitar, Written By",
+            "tracks": "",
+            "id": 2455597,
+            "resource_url": "https://api.discogs.com/artists/2455597"
+          },
+          {
+            "name": "Michael Collins (14)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3543119,
+            "resource_url": "https://api.discogs.com/artists/3543119"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "It's Only Raining Right Where You're Standing",
+        "extraartists": [
+          {
+            "name": "Joe McMurray",
+            "anv": "Joseph Mcmurray",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2981778,
+            "resource_url": "https://api.discogs.com/artists/2981778"
+          },
+          {
+            "name": "Ben Brown (11)",
+            "anv": "Benjamin Brown",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 2455597,
+            "resource_url": "https://api.discogs.com/artists/2455597"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "The End Of Comedy",
+        "extraartists": [
+          {
+            "name": "Izak Arida",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 3350378,
+            "resource_url": "https://api.discogs.com/artists/3350378"
+          },
+          {
+            "name": "Weyes Blood",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3733968,
+            "resource_url": "https://api.discogs.com/artists/3733968"
+          },
+          {
+            "name": "Natalie Mering",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 1030037,
+            "resource_url": "https://api.discogs.com/artists/1030037"
+          },
+          {
+            "name": "Charles Free",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3510892,
+            "resource_url": "https://api.discogs.com/artists/3510892"
+          },
+          {
+            "name": "Michael Collins (14)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3543119,
+            "resource_url": "https://api.discogs.com/artists/3543119"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Sea Of Nothing",
+        "extraartists": [
+          {
+            "name": "Izak Arida",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 3350378,
+            "resource_url": "https://api.discogs.com/artists/3350378"
+          },
+          {
+            "name": "Josh Da Costa",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 3224480,
+            "resource_url": "https://api.discogs.com/artists/3224480"
+          },
+          {
+            "name": "Ben Brown (11)",
+            "anv": "Benjamin Brown",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 2455597,
+            "resource_url": "https://api.discogs.com/artists/2455597"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "My Life",
+        "extraartists": [
+          {
+            "name": "Danny James (7)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Featuring",
+            "tracks": "",
+            "id": 3051060,
+            "resource_url": "https://api.discogs.com/artists/3051060"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Comedy Outro",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Drugdealer",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 5250719,
+        "resource_url": "https://api.discogs.com/artists/5250719",
+        "thumbnail_url": "https://i.discogs.com/Pt_cif3878KSQNhUIod1UBM8ZkqH1Of4-HEJoQq76W4/rs:fit/g:sm/q:90/h:441/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNTA3/MTktMTU1MTcxMjU0/Mi02NDk2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "The End Of Comedy",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=eU4lQDu9rNE",
+        "title": "Drugdealer -  Suddenly feat. Weyes Blood (Official Video)",
+        "description": "Directed by Samuel Shea and Michael Collins.\n\nDrugdealer - 'Suddenly' taken from the album 'The End Of Comedy' out now on Weird World.\n\nDownload Suddenly now: http://smarturl.it/SuddenlyDL\nStream now: http://smarturl.it/SuddenlyStream\n\nPre-Order the album",
+        "duration": 192,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IA6L9qtnd8w",
+        "title": "Drugdealer - The End Of Comedy Feat  Weyes Blood",
+        "description": "From the album: ''The End Of Comedy'' (2016)",
+        "duration": 152,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NnZZcz0Ck9U",
+        "title": "Drugdealer feat. Ariel Pink - Easy To Forget (Official Audio)",
+        "description": "Drugdealer - \u2018Easy to Forget (feat. Ariel Pink)\u2019 taken from 'The End of Comedy', a new album by Michael Collins and friends. Out now on Weird World.\n\nStream \u2018Easy to Forget\u2019 on Spotify: http://smarturl.it/EasytoForgetStream\n\n\u2018The End of Comedy",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=H4rIsPkV6DE",
+        "title": "Drugdealer - Sea Of Nothing",
+        "description": "From the album: ''The End Of Comedy'' (2016)",
+        "duration": 314,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uD8A3jRk_sY",
+        "title": "Drugdealer - It's Only Raining Right Where You're Standing",
+        "description": "From the album: ''The End Of Comedy'' (2016)",
+        "duration": 163,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=L81q_WkiIyY",
+        "title": "Drugdealer - Were You Saying Something?",
+        "description": "From the album: ''The End Of Comedy'' (2016)",
+        "duration": 142,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RMGi38RpsOw",
+        "title": "The Real World",
+        "description": "Provided to YouTube by Domino\n\nThe Real World \u00b7 Drugdealer featuring Sheer Agony\n\nThe End Of Comedy\n\n\u2117 Domino Recording Co Ltd\n\nReleased on: 2016-09-09\n\nArtist: Drugdealer\nFeatured Artist: Sheer Agony\n\nAuto-generated by YouTube.",
+        "duration": 188,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1058061,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

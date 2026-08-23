@@ -1,0 +1,537 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "889211020423",
+    "artist": "Black Milk",
+    "title": "If There's a Hell Below",
+    "year": 2014
+  },
+  "results": [
+    {
+      "id": 36265630,
+      "title": "Black Milk - If There's A Hell Below",
+      "master_id": 748097,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Boom Bap",
+        "Electro"
+      ],
+      "country": "Japan",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Computer Ugly",
+        "Computer Ugly",
+        "Fat Beats Distribution",
+        "Disk Union"
+      ],
+      "type": "release",
+      "barcode": [
+        "659123040723",
+        "4988044936515",
+        "4224-CPU006 080414",
+        "IFPI LT05"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/748097",
+      "uri": "/release/36265630-Black-Milk-If-Theres-A-Hell-Below",
+      "catno": "CPU-006CDJ",
+      "thumb": "https://i.discogs.com/81nMUWa3T4vpxjrUqbfsCvqPLo1sLQ8dub6hd3BDHIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjY1/NjMwLTE3Njg5MDQ0/NjgtNjMyMC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/KGH2suqRRh9Vh7L_n-VZthqxFNOufyMRz4OoHB7WvlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjY1/NjMwLTE3Njg5MDQ0/NjgtNjMyMC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36265630",
+      "community": {
+        "want": 0,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6215373,
+      "title": "Black Milk - If There's A Hell Below",
+      "master_id": 748097,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop",
+        "Boom Bap",
+        "Electro"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Computer Ugly",
+        "Computer Ugly",
+        "Fat Beats Distribution",
+        "Fat Beats Distribution"
+      ],
+      "type": "release",
+      "barcode": [
+        "659123040723",
+        "4224-CPU006 080414",
+        "IFPI LT05"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/748097",
+      "uri": "/release/6215373-Black-Milk-If-Theres-A-Hell-Below",
+      "catno": "CPU006",
+      "thumb": "https://i.discogs.com/Fvvfb_ytBP3_53wAKuKJYrMgLXw8gLjokj9BU-d1BEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NzMtMTQxNDc5MDcz/Ny04NTUzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/jmBZ4U7vBzEv7I0AKHzYOMIGjmuEKYiRyOSCqxJrStk/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTUz/NzMtMTQxNDc5MDcz/Ny04NTUzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6215373",
+      "community": {
+        "want": 82,
+        "have": 199
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6215632,
+      "title": "Black Milk - If There's A Hell Below",
+      "master_id": 748097,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Computer Ugly",
+        "Computer Ugly",
+        "Fat Beats Distribution",
+        "Fat Beats Distribution"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 59123 04071 6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/748097",
+      "uri": "/release/6215632-Black-Milk-If-Theres-A-Hell-Below",
+      "catno": "CPU006",
+      "thumb": "https://i.discogs.com/-eacDh-M7Fmlxg70c9uJaqYzTF3oEV3CraO2Osnfd34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/6e4TEPousdbK5Ant3eU7mM3OduyQdLrsu_rhvQSOFbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6215632",
+      "community": {
+        "want": 439,
+        "have": 705
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 748097,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 6215632,
+    "most_recent_release": 6587373,
+    "resource_url": "https://api.discogs.com/masters/748097",
+    "uri": "https://www.discogs.com/master/748097-Black-Milk-If-Theres-A-Hell-Below",
+    "versions_url": "https://api.discogs.com/masters/748097/versions",
+    "main_release_url": "https://api.discogs.com/releases/6215632",
+    "most_recent_release_url": "https://api.discogs.com/releases/6587373",
+    "num_for_sale": 20,
+    "lowest_price": 10.95,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/6e4TEPousdbK5Ant3eU7mM3OduyQdLrsu_rhvQSOFbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/6e4TEPousdbK5Ant3eU7mM3OduyQdLrsu_rhvQSOFbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/-eacDh-M7Fmlxg70c9uJaqYzTF3oEV3CraO2Osnfd34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WWEgqGpofTG2_oQO8vdHfPsSae08BfKPWFvR2vg_JBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/Ni0zNzg1LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/WWEgqGpofTG2_oQO8vdHfPsSae08BfKPWFvR2vg_JBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/Ni0zNzg1LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/RLuDuGf69MO5aDn5zAdLw_nUhjbFXEcsHCwwDY3y9bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/Ni0zNzg1LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GW5pHb5YJhrFnRFciOOyxq1HXx7a0b_KAbVwn4-GgGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/My04MzY0LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/GW5pHb5YJhrFnRFciOOyxq1HXx7a0b_KAbVwn4-GgGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/My04MzY0LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/pArHqV68AjV-TM5TT834-AjR-AFbKjGQSDWpAQkuuIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgy/My04MzY0LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G1TzZn_P5CQbxysxELAAD7whScWd_zFkOtqrxLzUYts/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OC0xMzAxLnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/G1TzZn_P5CQbxysxELAAD7whScWd_zFkOtqrxLzUYts/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OC0xMzAxLnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/aPai__h69CjSkPrYAu6Q940Oapiv8ihVPBKt3T6vtWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OC0xMzAxLnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_CjNJtUGzxru8vnUixiEXGyU74xY9LevxMM73Lq845o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OS0yNzE3LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/_CjNJtUGzxru8vnUixiEXGyU74xY9LevxMM73Lq845o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OS0yNzE3LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/-8tTIqoRXnudyu_fUtpFXR4lPHJyXQclh3vL7m92o1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/OS0yNzE3LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_iYUWUk9nMsq_dpjwnMvzgHoJ2yJD6XydYXCheuEKkI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/MS0yMTQ0LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/_iYUWUk9nMsq_dpjwnMvzgHoJ2yJD6XydYXCheuEKkI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/MS0yMTQ0LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/krq44NUkn0aDMQhPlA2zze7lWf7qgoD9HV2eQL9N1MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/MS0yMTQ0LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3hWcfRckZDiy0RSJIGN4MbAOABq-BgOmIuNTUGk3Pr0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/My04MDM2LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/3hWcfRckZDiy0RSJIGN4MbAOABq-BgOmIuNTUGk3Pr0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/My04MDM2LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/9w8JrQjBCfBIRSzfk_IbXQbGwi9VX8xYES3usmaxSqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/My04MDM2LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xXmaVXfqQbzej8eX7v1VpG9zyrruR1dNuwto4x-zw7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/Mi02NDgzLnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/xXmaVXfqQbzej8eX7v1VpG9zyrruR1dNuwto4x-zw7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/Mi02NDgzLnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/bs25sS8vG_xqDc9G3tCwiM6fvSBh7VEGJUJKSoXd_AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODg0/Mi02NDgzLnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/10_PcmRf5KH-xiCaqHoOVGViVONWg3N6bIsXfhvHIuk/rs:fit/g:sm/q:90/h:600/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/Ni0yMDI1LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/10_PcmRf5KH-xiCaqHoOVGViVONWg3N6bIsXfhvHIuk/rs:fit/g:sm/q:90/h:600/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/Ni0yMDI1LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/7kLWD5YR9FhL7Ebsl9s5Zanyr6PYnGhz8tHUnmwz5Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgz/Ni0yMDI1LnBuZw.jpeg",
+        "width": 404,
+        "height": 600
+      }
+    ],
+    "year": 2014,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Everyday Was",
+        "extraartists": [
+          {
+            "name": "Melanie Rutherford",
+            "anv": "Mel",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 392871,
+            "resource_url": "https://api.discogs.com/artists/392871"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "What It's Worth",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Leave The Bones Behind",
+        "extraartists": [
+          {
+            "name": "Ab (6)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 882584,
+            "resource_url": "https://api.discogs.com/artists/882584"
+          },
+          {
+            "name": "Blu (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 80569,
+            "resource_url": "https://api.discogs.com/artists/80569"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Quarter Water",
+        "extraartists": [
+          {
+            "name": "Pete Rock",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 14295,
+            "resource_url": "https://api.discogs.com/artists/14295"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Hell Below",
+        "extraartists": [
+          {
+            "name": "Gene Obey",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4060989,
+            "resource_url": "https://api.discogs.com/artists/4060989"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Detroit's New Dance Show",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Story And Her",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "All Mighty",
+        "duration": ""
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Scum",
+        "extraartists": [
+          {
+            "name": "Random Axe",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1678518,
+            "resource_url": "https://api.discogs.com/artists/1678518"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Gold Piece",
+        "extraartists": [
+          {
+            "name": "Bun B",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 185582,
+            "resource_url": "https://api.discogs.com/artists/185582"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Grey For Summer",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "type_": "track",
+        "title": "Up & Out",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Black Milk",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 175154,
+        "resource_url": "https://api.discogs.com/artists/175154",
+        "thumbnail_url": "https://i.discogs.com/5begCxjxaBlLr_G9uN1g82JGGQ9YwbI4__hbJc1umZ0/rs:fit/g:sm/q:90/h:570/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3NTE1/NC0xNTQ1MDQ1NzMw/LTE5NDYuanBlZw.jpeg"
+      }
+    ],
+    "title": "If There's A Hell Below",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=NhKARyhV8a8",
+        "title": "Black Milk - Story and Her (Official Video)",
+        "description": "From Black Milk's album If There's A Hell Below, out now.\n\nStarring Black Milk and Lauren Speed\nDirected by Gerard Victor\n\niTunes: https://itunes.apple.com/us/album/if-theres-a-hell-below/id917026740\nCD / Vinyl: https://blackmilk.bandcamp.com/album/if-the",
+        "duration": 214,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DHr4I02nq2o",
+        "title": "Black Milk - Everyday Was (Ft. Mel)",
+        "description": "Support:\nhttps://itunes.apple.com/us/album/if-theres-a-hell-below/id917026740\nhttp://blackmilk.bandcamp.com/album/if-theres-a-hell-below\n\nFrom Black Milk's latest album, 'If There\u2019s A Hell Below'.\n\nhttps://twitter.com/black_milk",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UFKu0yD6-4A",
+        "title": "Black Milk -  Everyday Was (Instrumental)",
+        "description": "Black Milk - If There's A Hell Below",
+        "duration": 220,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DQ6PsHme0Do",
+        "title": "What It's Worth (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nWhat It's Worth (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 286,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SzfxwRTTaQc",
+        "title": "Leave the Bones Behind (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nLeave the Bones Behind (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 268,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=tlaXS5a8Yuw",
+        "title": "Quarter Water (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nQuarter Water (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 281,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=EtoqVgFMO2w",
+        "title": "Hell Below (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nHell Below (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UZ2XEHBKbSg",
+        "title": "Detroit's New Dance Show (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nDetroit's New Dance Show (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 254,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=REWVivdprT8",
+        "title": "Story and Her (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nStory and Her (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 372,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=d-9NNdRidt4",
+        "title": "All Mighty (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nAll Mighty (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 301,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8_sT8aYbcsY",
+        "title": "Scum (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nScum (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=PP4qkXMkDec",
+        "title": "Gold Piece (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nGold Piece (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 257,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1tKUSVs-14I",
+        "title": "Grey for Summer (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nGrey for Summer (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 218,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lJ7gG7dV7Ek",
+        "title": "Up & Out (Instrumental)",
+        "description": "Provided to YouTube by CDBaby\n\nUp & Out (Instrumental) \u00b7 Black Milk\n\n\u2117 2015 Computer Ugly\n\nReleased on: 2015-04-27\n\nAuto-generated by YouTube.",
+        "duration": 154,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 748097,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

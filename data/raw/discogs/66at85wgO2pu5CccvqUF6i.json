@@ -1,0 +1,745 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886447287286",
+    "artist": "Earl Sweatshirt",
+    "title": "Some Rap Songs",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 22908701,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album",
+        "Box Set",
+        "Limited Edition"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia",
+        "Arvato, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "190758980423",
+        "57097601/19075898042RD1 21",
+        "IFPI LP74",
+        "IFPI 0721"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/22908701-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/2tNK9DTnOWqbEoHKka70EXk7xQYpW4ozAYIl0pZOfgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA4/NzAxLTE2NTAxNzIw/MzktNzc4Mi5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/q2L8jgAF1ujwVxMQXryTHTN8BtL6ltn9hcMQUnhrq_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA4/NzAxLTE2NTAxNzIw/MzktNzc4Mi5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22908701",
+      "community": {
+        "want": 154,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "text": "Notebook, Shirt, & Keychain",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16236346,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Unknown",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "1442399872"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/16236346-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/hZbQNj_Q25tN5N1bR5IRuWHNqKJ93UbuDi7ageH4MyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MzQ2LTE2NTg2Nzk3/MjktMjE1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KVzVmrciVhNLv4h2xoHKc_F3cEuP6X4pCmzz3x0_kPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MzQ2LTE2NTg2Nzk3/MjktMjE1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16236346",
+      "community": {
+        "want": 336,
+        "have": 163
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13239167,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia",
+        "Tan Cressida",
+        "Tan Cressida",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment Australia Pty Ltd.",
+        "Technicolor, Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0190758980423",
+        "190758980423 RAP SONGS 01 [Technicolor logo] ifpi L286",
+        "ifpi L286",
+        "IFPI 4688"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/13239167-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/CpvgkPu5t_5C6SaprtfMRndz1fq3ObbMSQNBWLiyytA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM5/MTY3LTE3NjU2OTQw/OTctNzk5MC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/apjshUExB0ThpWxPJYSmPkR4OLIyltfjRA_D-nBGUnM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM5/MTY3LTE3NjU2OTQw/OTctNzk5MC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13239167",
+      "community": {
+        "want": 218,
+        "have": 349
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12871598,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia",
+        "Tan Cressida",
+        "Tan Cressida",
+        "Xarra Books Pty Ltd.",
+        "Columbia Records",
+        "Columbia Records",
+        "Bernie Grundman Mastering",
+        "Arvato, Mexico",
+        "Randomblackdude Publishing LLC",
+        "Sony/ATV Songs LLC",
+        "Window Music Publishing",
+        "Willy N'For Publishing Designee",
+        "Emmanuel Baloka Publishing Designee",
+        "Jimmy Stormy Publishing Designee",
+        "Darryl Joseph Publishing Designee",
+        "Ad\u00e9 Sayyad Publishing Designee",
+        "Denmark Vessey Publishing",
+        "Giovanni Cortez Publishing Designee",
+        "Soul Beat Records",
+        "Aquarian Music",
+        "Sage Elsesser Publishing Designee",
+        "Robert Mansel Publishing Designee",
+        "Warner-Tamerlane Publishing Corp.",
+        "EMI Longitude Music",
+        "MPL Music Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9075898042 3",
+        "190758980423",
+        "57097601/19075898042RD1 21",
+        "IFPI LP74",
+        "IFPI 0721"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/12871598-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/btVrR0ZNIx1v9CDw-cI73xMv_5Hz8DT2q1-dBS3b6K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NTk4LTE1NDQyNjcz/ODMtNDkzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gBO-JibC9nDs-RlxWwBmi5X0DiPkeJIEDZGIQXKJ-5c/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/NTk4LTE1NDQyNjcz/ODMtNDkzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12871598",
+      "community": {
+        "want": 766,
+        "have": 786
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23832857,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "190758980423",
+        "<sony music logo> 57097601/19075898042RD1 21",
+        "IFPI LB47",
+        "IFPI 0784"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/23832857-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/LqisTtj7A9LoEVAZC38POQ-0nCt0QRrnOshyv7KBIxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODMy/ODU3LTE2NTc0NTMz/OTgtNjcyMS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/jFKK8IaqCvQ1hT3KUuyLh-FksIGfTWdU7d-6BTp3Up8/rs:fit/g:sm/q:90/h:318/w:317/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODMy/ODU3LTE2NTc0NTMz/OTgtNjcyMS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23832857",
+      "community": {
+        "want": 87,
+        "have": 39
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12958979,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "190758980645",
+        "1 90758 98064 5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/12958979-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/BULk8WE2dyCMCG3YJV36eX3Vxfw_BkIUN5uvgsKmO3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU4/OTc5LTE1NDUzMzY1/MjAtODY3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oTv5ZOU6lm_mW2huJaOKkPG3voAdUwewcZ1uIxj4itE/rs:fit/g:sm/q:90/h:902/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU4/OTc5LTE1NDUzMzY1/MjAtODY3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12958979",
+      "community": {
+        "want": 587,
+        "have": 269
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12972261,
+      "title": "Earl Sweatshirt - Some Rap Songs",
+      "master_id": 1465098,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Experimental",
+        "Abstract"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Tan Cressida",
+        "Columbia",
+        "Sony Music",
+        "Tan Cressida",
+        "Tan Cressida",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment International Services GmbH",
+        "Sony DADC",
+        "Sony DADC",
+        "Randomblackdude Publishing LLC",
+        "Sony/ATV Songs LLC",
+        "Window Music Publishing",
+        "Willy N'For Publishing Designee",
+        "Emmanuel Baloka Publishing Designee",
+        "Jimmy Stormy Publishing Designee",
+        "Darryl Joseph Publishing Designee",
+        "Ad\u00e9 Sayyad Publishing Designee",
+        "Denmark Vessey Publishing",
+        "Giovanni Cortez Publishing Designee",
+        "Soul Beat Records",
+        "Aquarian Music",
+        "Sage Elsesser Publishing Designee",
+        "Robert Mansel Publishing Designee",
+        "Warner-Tamerlane Publishing Corp.",
+        "EMI Longitude Music",
+        "MPL Music Publishing",
+        "Bernie Grundman Mastering",
+        "Xarra Books Pty Ltd."
+      ],
+      "type": "release",
+      "barcode": [
+        "1 90758 98042 3",
+        "190758980423",
+        "BIEM/GEMA",
+        "LC 00162",
+        "Sony DADC A0103101977-0101 15 A00",
+        "IFPI L555",
+        "IFPI 941Q"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1465098",
+      "uri": "/release/12972261-Earl-Sweatshirt-Some-Rap-Songs",
+      "catno": "19075898042",
+      "thumb": "https://i.discogs.com/sFe6cLCyazhn8WMaUgx3t3v0bYvjYWMIykId_l6Hgto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcy/MjYxLTE1NDYxMTI5/MjgtMTc5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ccoLqYwKu5CKhX87DyhR7JkXbaRcqx_tBMyIxzi9Akk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcy/MjYxLTE1NDYxMTI5/MjgtMTc5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12972261",
+      "community": {
+        "want": 333,
+        "have": 487
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1465098,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious"
+    ],
+    "main_release": 16236346,
+    "most_recent_release": 13113660,
+    "resource_url": "https://api.discogs.com/masters/1465098",
+    "uri": "https://www.discogs.com/master/1465098-Earl-Sweatshirt-Some-Rap-Songs",
+    "versions_url": "https://api.discogs.com/masters/1465098/versions",
+    "main_release_url": "https://api.discogs.com/releases/16236346",
+    "most_recent_release_url": "https://api.discogs.com/releases/13113660",
+    "num_for_sale": 143,
+    "lowest_price": 6.88,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/KVzVmrciVhNLv4h2xoHKc_F3cEuP6X4pCmzz3x0_kPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MzQ2LTE2NTg2Nzk3/MjktMjE1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/KVzVmrciVhNLv4h2xoHKc_F3cEuP6X4pCmzz3x0_kPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MzQ2LTE2NTg2Nzk3/MjktMjE1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hZbQNj_Q25tN5N1bR5IRuWHNqKJ93UbuDi7ageH4MyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM2/MzQ2LTE2NTg2Nzk3/MjktMjE1NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2018,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Shattered Dreams",
+        "duration": "2:21"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Red Water",
+        "duration": "1:44"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Cold Summers",
+        "duration": "1:06"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Nowhere2go",
+        "duration": "1:53"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "December 24",
+        "duration": "1:46"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Ontheway!",
+        "extraartists": [
+          {
+            "name": "Standing On The Corner",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5698629,
+            "resource_url": "https://api.discogs.com/artists/5698629"
+          }
+        ],
+        "duration": "1:41"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "The Mint",
+        "extraartists": [
+          {
+            "name": "Navy Blue (5)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 6219038,
+            "resource_url": "https://api.discogs.com/artists/6219038"
+          }
+        ],
+        "duration": "2:45"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "The Bends",
+        "duration": "1:34"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Loosie",
+        "duration": "0:59"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Azucar",
+        "duration": "1:25"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Eclipse",
+        "duration": "1:33"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Veins",
+        "duration": "1:59"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Playing Possum",
+        "extraartists": [
+          {
+            "name": "Cheryl Harris",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 6841825,
+            "resource_url": "https://api.discogs.com/artists/6841825"
+          },
+          {
+            "name": "Keorapetse Kgositsile",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4409975,
+            "resource_url": "https://api.discogs.com/artists/4409975"
+          }
+        ],
+        "duration": "1:34"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Peanut",
+        "duration": "1:13"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Riot!",
+        "duration": "1:06"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Earl Sweatshirt",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1967265,
+        "resource_url": "https://api.discogs.com/artists/1967265",
+        "thumbnail_url": "https://i.discogs.com/n9zfo_aqyg9Zfh4ozIGnX23HrT5TQomnxBzF3at26_Y/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Njcy/NjUtMTY5MTAzNDA3/OC0zMzM5LnBuZw.jpeg"
+      }
+    ],
+    "title": "Some Rap Songs",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=twT1zz5GMfU",
+        "title": "Earl Sweatshirt - Shattered Dreams (Official Audio)",
+        "description": "Official Audio for \"Shattered Dreams\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  ",
+        "duration": 143,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=GpM4doRFfkc",
+        "title": "Earl Sweatshirt - Red Water (Official Audio)",
+        "description": "Official Audio for \u201dRed Water\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube",
+        "duration": 106,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=q-eRnchhJc4",
+        "title": "Earl Sweatshirt - Cold Summers (Official Audio)",
+        "description": "Official Audio for \u201dCold Summers\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouT",
+        "duration": 68,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DAsjw6p2dS0",
+        "title": "Earl Sweatshirt - Nowhere2go",
+        "description": "From some rap songs\r\n\r\nCredits to sony music, columbia, and tan cressida",
+        "duration": 115,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mvtpGspVHgs",
+        "title": "Earl Sweatshirt - December 24 (Official Audio)",
+        "description": "Official Audio for \u201d24-Dec\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube ch",
+        "duration": 109,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5vVHPRZ21iE",
+        "title": "Earl Sweatshirt - Ontheway! (Official Audio) ft. Standing On The Corner",
+        "description": "Official Video for \u201dOntheway!\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube",
+        "duration": 104,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=R4caTCHR4xo",
+        "title": "Earl Sweatshirt - The Mint (Official Audio) ft. Navy Blue",
+        "description": "Official Audio for \"The Mint\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube ",
+        "duration": 167,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Pj2D0lNF40U",
+        "title": "Earl Sweatshirt - The Bends (Official Audio)",
+        "description": "Official Audio for \u201dThe Bends\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube",
+        "duration": 97,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1bdoltoj_hw",
+        "title": "Earl Sweatshirt - Loosie (Official Audio)",
+        "description": "Official Audio for \u201dLoosie\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube ch",
+        "duration": 61,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DB3nEesYdcE",
+        "title": "Earl Sweatshirt - Azucar (Official Audio)",
+        "description": "Official Audio for \u201dAzucar\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube ch",
+        "duration": 88,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Gd9kYRmBz4A",
+        "title": "Earl Sweatshirt - Eclipse (Official Audio)",
+        "description": "Official Audio for \u201dEclipse\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube c",
+        "duration": 96,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=la0uG4Ez5gg",
+        "title": "Earl Sweatshirt - Veins (Official Audio)",
+        "description": "Official Audio for \"Veins\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube cha",
+        "duration": 122,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IKhG4l8qAss",
+        "title": "Earl Sweatshirt - Playing Possum (Official Audio) ft. Cheryl Harris, Keorapetse Kgositsile",
+        "description": "Official Audio for \u201dPlaying Possum\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  Yo",
+        "duration": 97,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1NoWhrIll90",
+        "title": "Earl Sweatshirt - Peanut (Official Audio)",
+        "description": "Official Audio for \u201dPeanut\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube ch",
+        "duration": 76,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=fh7a5hfh7-Y",
+        "title": "Earl Sweatshirt - Riot! (Official Audio)",
+        "description": "Official Audio for \u201dRiot!\u201d by Earl Sweatshirt \nListen to Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD  \nWatch more videos by Earl Sweatshirt: https://EarlSweatshirt.lnk.to/listenYD/youtube\n\nSubscribe to the official Earl Sweatshirt  YouTube cha",
+        "duration": 68,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1465098,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

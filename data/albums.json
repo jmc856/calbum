@@ -2022,8 +2022,19 @@
       "Earl Sweatshirt"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2732b688ab63b1a5f281cfdf451",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1465098,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "66at85wgO2pu5CccvqUF6i",
     "release_date": "2018-11-30",
     "release_year": 2018,
@@ -2330,8 +2341,14 @@
       "Black Milk"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273139f85be1c5868dd2c56df39",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 748097,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7IoqPPJ57314tLREX9zkHm",
     "release_date": "2014-10-28",
     "release_year": 2014,
@@ -2529,8 +2546,24 @@
       "Drugdealer"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273de72aa25bc01542c51c11ad6",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1058061,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7sE5BL81qaw47AiiH9rV2H",
     "release_date": "2016-09-09",
     "release_year": 2016,
