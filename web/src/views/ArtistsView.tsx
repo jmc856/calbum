@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { artistEntries, isRepeat } from "../artists";
 import { ArtistLanes } from "../components/ArtistLanes";
 import { ArtistList } from "../components/ArtistList";
-import { Empty, Screen, Subtitle } from "../components/Screen";
+import { Empty, Screen } from "../components/Screen";
 import type { ViewProps } from "./props";
 
 /**
@@ -32,12 +32,10 @@ export function ArtistsView({ albums, ...chrome }: ViewProps) {
   return (
     <Screen
       title="Artists"
-      subtitle={
-        <Subtitle>
-          {entries.length} artist{entries.length === 1 ? "" : "s"} ·{" "}
-          {repeats.length} you came back to
-        </Subtitle>
-      }
+      subtitle={{
+        kind: "text",
+        text: `${entries.length} artist${entries.length === 1 ? "" : "s"} · ${repeats.length} you came back to`,
+      }}
       {...chrome}
     >
       {repeats.length > 0 && (

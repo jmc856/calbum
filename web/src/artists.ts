@@ -46,7 +46,11 @@ export function artistEntries(albums: Album[]): ArtistEntry[] {
   // split into separate entries otherwise. Albums with no artistIds (manual
   // ones, or any polled before the field existed) fall back to the name so
   // they still appear rather than collapsing into a single empty-ID bucket.
-  const groups = groupBy(albums, (a) => primaryOf(a).id || primaryOf(a).name, () => 0);
+  const keyOf = (a: Album) => {
+    const p = primaryOf(a);
+    return p.id || p.name;
+  };
+  const groups = groupBy(albums, keyOf, () => 0);
 
   const entries = groups.map(([key, list]) => {
     const years = list.map((a) => a.year);

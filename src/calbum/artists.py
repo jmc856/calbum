@@ -16,6 +16,7 @@ them here would create a second source of truth that drifts.
 from __future__ import annotations
 
 import logging
+from typing import Protocol
 
 from calbum.models import Album
 from calbum.paths import DATA_DIR, ALBUMS_PATH, SITE_ARTISTS_PATH
@@ -31,7 +32,7 @@ logger = logging.getLogger(__name__)
 PORTRAIT_MIN_WIDTH = 320
 
 
-class ArtistSource:
+class ArtistSource(Protocol):
     """The one capability this stage needs from a music-service client.
 
     Declared by the consumer, mirroring poll.py's AlbumSource, so a mock or a
@@ -96,15 +97,19 @@ def run() -> None:
 
     albums = [a for a in read_albums(ALBUMS_PATH) if a.is_active]
     artist_ids = artist_ids_in(albums)
-    if not artist_ids:
+    if artist_ids:
+        client = SpotifyClient(get_access_token())
+        cache = RawCache(DATA_DIR / "raw" / "spotify" / "artists")
+        payload = build_artists_payload(fetch_blobs(client, cache, artist_ids))
+    else:
+        # Skip the OAuth round-trip and client construction — there is
+        # nothing to fetch. Still writes an empty file below rather than
+        # leaving a stale one, so the frontend payload reflects reality.
         logger.warning(
             "No artist_ids on any album — run poll.py first to backfill them "
             "from the cached blobs (no API calls needed)."
         )
-
-    client = SpotifyClient(get_access_token())
-    cache = RawCache(DATA_DIR / "raw" / "spotify" / "artists")
-    payload = build_artists_payload(fetch_blobs(client, cache, artist_ids))
+        payload = []
 
     SITE_ARTISTS_PATH.parent.mkdir(parents=True, exist_ok=True)
     write_json_atomic(SITE_ARTISTS_PATH, payload)

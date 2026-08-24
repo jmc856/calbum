@@ -9,10 +9,14 @@ import { useEffect, useRef, type ReactNode } from "react";
  * alternative was a second set of `view === "x"` conditionals in App, one for
  * the header and one for the body, that had to be kept in sync by eye.
  *
- * `subtitle` is a slot, not a string, because the tabs genuinely differ: the
- * album-shaped tabs render a three-column stat row, the chart-shaped ones a
- * line of text.
+ * `subtitle` is a closed choice, not an open slot: every current tab needs
+ * one of exactly two shapes — the album-shaped tabs a three-column stat row,
+ * the chart-shaped ones a line of text — so the type says that instead of
+ * leaving it to convention. Screen owns rendering both; a view only supplies
+ * the data.
  */
+type Subtitle = { kind: "stats"; albums: StatsAlbum[] } | { kind: "text"; text: ReactNode };
+
 export function Screen({
   title,
   subtitle,
@@ -23,7 +27,7 @@ export function Screen({
   children,
 }: {
   title: string;
-  subtitle: ReactNode;
+  subtitle: Subtitle;
   query: string;
   onQuery: (q: string) => void;
   searchOpen: boolean;
@@ -61,7 +65,7 @@ export function Screen({
           </button>
         </div>
 
-        {subtitle}
+        {subtitle.kind === "stats" ? <Stats albums={subtitle.albums} /> : <p className="hdr-sub tnum">{subtitle.text}</p>}
 
         {searchOpen && (
           <div className="search-wrap">
@@ -83,8 +87,12 @@ export function Screen({
   );
 }
 
-/** The three-column count row. Used by the tabs that show a cover grid. */
-export function Stats({ albums }: { albums: { genres: string[]; artists: string[] }[] }) {
+type StatsAlbum = { genres: string[]; artists: string[] };
+
+/** The three-column count row. Internal to Screen — a view supplies albums
+ *  via `subtitle={{kind: "stats", albums}}` rather than rendering this
+ *  itself. */
+function Stats({ albums }: { albums: StatsAlbum[] }) {
   const rows = [
     { n: albums.length, l: "Albums", lead: true },
     { n: new Set(albums.flatMap((a) => a.genres)).size, l: "Genres", lead: false },
@@ -101,11 +109,6 @@ export function Stats({ albums }: { albums: { genres: string[]; artists: string[
       ))}
     </div>
   );
-}
-
-/** Single line of text, for the tabs whose header carries a chart instead. */
-export function Subtitle({ children }: { children: ReactNode }) {
-  return <p className="hdr-sub tnum">{children}</p>;
 }
 
 export function Empty() {

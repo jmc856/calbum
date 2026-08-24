@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { ALBUMS, byYearDesc, groupBy, matches, stylesForGenre } from "../albums";
 import { GenreChart } from "../components/GenreChart";
-import { Empty, Screen, Subtitle } from "../components/Screen";
+import { Empty, Screen } from "../components/Screen";
 import { Section } from "../components/Section";
 import type { ViewProps } from "./props";
 
@@ -37,13 +37,12 @@ export function GenresView({ albums, ...chrome }: ViewProps) {
   return (
     <Screen
       title={genre ?? "Genres"}
-      subtitle={
-        <Subtitle>
-          {genre
-            ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
-            : `${ALBUMS.length} albums · ${GENRE_COUNT} genres`}
-        </Subtitle>
-      }
+      subtitle={{
+        kind: "text",
+        text: genre
+          ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
+          : `${ALBUMS.length} albums · ${GENRE_COUNT} genres`,
+      }}
       {...chrome}
     >
       {/* Charts the whole catalogue, never the filtered set: a chart that

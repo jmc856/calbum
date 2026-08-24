@@ -42,8 +42,12 @@ export default function App() {
   return (
     <div className="app">
       <div className="scroll" ref={scrollRef}>
-        {view === "albums" && <AlbumsView title="Albums" {...chrome} />}
-        {view === "search" && <AlbumsView title="Search" {...chrome} />}
+        {/* One slot, not one per title: two sibling AlbumsViews would make
+            React tear down and remount every card switching Albums<->Search,
+            instead of reconciling the same grid in place. */}
+        {(view === "albums" || view === "search") && (
+          <AlbumsView title={view === "search" ? "Search" : "Albums"} {...chrome} />
+        )}
         {view === "artists" && <ArtistsView {...chrome} />}
         {view === "genres" && <GenresView {...chrome} />}
       </div>

@@ -1,5 +1,5 @@
 import { byYearDesc, groupBy } from "../albums";
-import { Empty, Screen, Stats } from "../components/Screen";
+import { Empty, Screen } from "../components/Screen";
 import { Section } from "../components/Section";
 import type { ViewProps } from "./props";
 
@@ -12,7 +12,7 @@ export function AlbumsView({ title, albums, ...chrome }: ViewProps & { title: st
   const sections = groupBy(albums, (a) => a.year, byYearDesc);
 
   return (
-    <Screen title={title} subtitle={<Stats albums={albums} />} {...chrome}>
+    <Screen title={title} subtitle={{ kind: "stats", albums }} {...chrome}>
       {sections.map(([year, list]) => (
         <Section key={`year-${year}`} label={String(year)} albums={list} />
       ))}
