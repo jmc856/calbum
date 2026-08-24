@@ -4,8 +4,13 @@ import { initial } from "../albums";
 /**
  * A manual album has no Spotify URL, so it renders as a plain div rather
  * than a dead anchor — and says why, instead of looking broken.
+ *
+ * `sub` defaults to the artist, which is what every grid on the site wants.
+ * The Artists tab overrides it: inside one artist's own expansion their name
+ * on every card is noise, and the year says something the context doesn't.
+ * The aria-label still names the artist either way.
  */
-export function AlbumCard({ album }: { album: Album }) {
+export function AlbumCard({ album, sub }: { album: Album; sub?: string }) {
   const art = album.cover ? (
     <img className="cover" src={album.cover} alt="" loading="lazy" decoding="async" />
   ) : (
@@ -18,7 +23,7 @@ export function AlbumCard({ album }: { album: Album }) {
     <>
       {art}
       <div className="c-title">{album.title}</div>
-      <div className="c-sub">{album.artists.join(", ")}</div>
+      <div className="c-sub">{sub ?? album.artists.join(", ")}</div>
       {!album.url && <span className="c-badge">Not on Spotify</span>}
     </>
   );

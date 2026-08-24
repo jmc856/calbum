@@ -109,9 +109,11 @@ Python is a real installable package, not a flat script directory — the previo
       enrich.py                    # Stage 1
       sheets.py                     # Stage 2
       site.py                        # Stage 4 data export
+      artists.py                      # Stage 7 artist portraits
       spotify/                       # all Spotify API code, isolated — see below
         auth.py                       # refresh token -> access token
         client.py                      # HTTP session, pagination, 429/Retry-After handling
+        images.py                       # pick an image by size — shared by poll + artists
         schemas.py                      # pydantic models for SPOTIFY's response shapes
       discogs/                        # all Discogs API code, isolated the same way
         client.py
@@ -119,12 +121,20 @@ Python is a real installable package, not a flat script directory — the previo
       gsheets/                        # gspread-backed calbum.sheets.SheetBackend — the only
         backend.py                     #   place gspread itself gets imported
     web/                      # React frontend (Vite + React + TS) — Stage 4
+      src/App.tsx              # shell + routing only; each tab lives in views/
+      src/albums.ts             # album data model, groupBy, matches, genre-chart math
+      src/artists.ts             # artist grouping (primary-artist-only) + timeline scale
+      src/views/                  # one module per tab — Albums/Search, Genres, Artists
+      src/components/              # Screen (shared header), Nav, Section, AlbumCard,
+                                    #   GenreChart, ArtistRow/ArtistLanes/ArtistList
       src/data/albums.json     # emitted by site.py, imported at BUILD time, not fetched —
                                 #   see Stage 4's deliberate deviation from the original
                                 #   same-origin-fetch plan
+      src/data/artists.json    # emitted by artists.py — {id, name, portrait}
       public/og-image.jpg      # static OG/Twitter preview image
     data/
       raw/spotify/{album_id}.json    # raw Spotify blobs, one file per album
+      raw/spotify/artists/{id}.json  # raw Spotify artist blobs, one file per artist
       raw/discogs/{album_id}.json    # enrichment cache, one file per album
       albums.json                    # canonical normalized records
       overrides.toml                 # hand-edited corrections + manual albums (Stage 3)
@@ -132,7 +142,8 @@ Python is a real installable package, not a flat script directory — the previo
       get_refresh_token.py     # one-time interactive OAuth grant
       probe.py                 # throwaway: confirms API assumptions before poll.py is built
     tests/                    # pytest, one file per stage module + fixtures in conftest.py
-    .github/workflows/sync.yml   # poll -> overrides -> enrich -> sheets -> site -> deploy
+    .github/workflows/sync.yml   # poll -> overrides -> enrich -> sheets -> site -> artists
+                                 #   -> deploy
 
 **The module boundary that matters:** `spotify/schemas.py` and `discogs/schemas.py` model
 *those services'* response shapes; `models.py` models *ours*. Nothing outside `spotify/` or
@@ -533,28 +544,51 @@ Three tabs, one view. Three things worth fixing, none built yet:
    so that chart is a single bar today. Worth revisiting after months of
    real polling history.
 
-3. **Artists tab — artist-first, not album-first.** Today it's
-   `groupBy(artist)` over the same cover grid, and with only 1 of 31 albums
-   having multiple artists it's nearly 1:1 with Albums, which is exactly why
-   it doesn't earn its own tab. Wants a grid of artists, click-through to
-   that artist's albums. Portraits are a **backend feature, not a frontend
-   one**: Spotify's cached album blobs carry each artist's `id`, `name`,
-   `href`, and `external_urls`, but no `images` — real photos need a new
-   `GET /v1/artists` fetch plus a cache and rate-limit handling. Ship a
-   cover-collage / typographic tile fallback so the tab can be redesigned
-   without blocking on that backend work; treat portraits as the fuller
-   version to add later. Cheap intermediate step: `artist_ids` can be
-   backfilled from the already-cached raw blobs at zero API cost, same
-   pattern `poll.py` already uses for `cover_url` — a parallel field rather
-   than changing `Album.artists` from `list[str]` to objects, which would
-   ripple into `sheets.py`, `enrich.py`, `overrides.py`, the tests, and the
-   stored shape of `data/albums.json`.
+3. **Artists tab — artist-first, not album-first.** ✅ Built 2026-08-23.
+   Two sections over the same artists, replacing the year-grouped grid that
+   made this tab a near-duplicate of Albums:
 
-   Data-quality note worth recording while it's cheap: artists currently
-   join by string equality only, so aliases or "The X" vs "X" would
-   silently split into separate entries. Harmless while artists are just
-   section headings; a real problem once they're first-class entities with
-   portraits.
+   - **Loyalty lanes** (`ArtistLanes.tsx`) — one lane per artist with more
+     than one album, positioned on a shared release-year axis, so span is
+     comparable across lanes. Four albums over eleven years reads
+     differently from five over six. CSS percentage positioning rather than
+     SVG: `GenreChart` needs a viewBox because stacked bars need coordinate
+     math, a rail and some dots don't.
+   - **Directory** (`ArtistList.tsx`) — every artist, with a strip of their
+     covers whose length doubles as the loyalty signal.
+   - Tapping either **expands that artist's albums in place**. There is no
+     album grid on this tab, which is why it needs no filter state and
+     `matches()` needed no artist parameter.
+
+   The two are the same structure — portrait, name, a varying body,
+   expansion — so they share `ArtistRow.tsx` rather than being two
+   components that drift. Selection carries *which section* it was made in,
+   not just an artist ID: a repeat artist appears in both, and keying on the
+   ID alone expands them twice at once (caught in the mockup, then again in
+   the implementation).
+
+   Portraits shipped rather than the collage fallback this entry originally
+   planned around: **all 47 artists resolved a Spotify photo, zero gaps**, so
+   the fallback is defensive-only (`ArtistRow` still renders an initial tile).
+
+   Backend, as sketched here: `Album.artist_ids` backfilled from the cached
+   raw blobs at zero API cost, `artists.py` emitting `artists.json` as
+   `{id, name, portrait}`, and `spotify/images.py` + `RawCache.store_if_absent`
+   extracted so `poll.py` and `artists.py` share one spelling of "pick an
+   image by size" and "write once" instead of two.
+
+   **Correction to this entry's original plan:** the batched
+   `GET /v1/artists?ids=` returns **403** for this app. `client.get_artist`
+   fetches one at a time, which also makes the artist cache 1:1 fetch→blob,
+   identical to the album cache.
+
+   Data-quality note, now partly resolved: artists used to join by string
+   equality only, so aliases or "The X" vs "X" would silently split. The
+   frontend now joins on `artistIds` instead — `site.py` emits them parallel
+   to `artists`. Group members are collapsed by taking the **primary artist
+   only**, so Run The Jewels 2 counts as Run The Jewels rather than also
+   El-P and Killer Mike; that's a presentation choice made in `artists.ts`,
+   not baked into the payload.
 
 4. **A cover-art toggle — condensed view when it's off.** One switch, not
    a per-tab setting — it applies across Albums, Genres, and Artists alike,

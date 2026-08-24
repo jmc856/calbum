@@ -2,6 +2,7 @@ import { useMemo, useRef, useState } from "react";
 import { ALBUMS, matches, type View } from "./albums";
 import { Nav } from "./components/Nav";
 import { AlbumsView } from "./views/AlbumsView";
+import { ArtistsView } from "./views/ArtistsView";
 import { GenresView } from "./views/GenresView";
 
 /**
@@ -43,7 +44,7 @@ export default function App() {
       <div className="scroll" ref={scrollRef}>
         {view === "albums" && <AlbumsView title="Albums" {...chrome} />}
         {view === "search" && <AlbumsView title="Search" {...chrome} />}
-        {view === "artists" && <AlbumsView title="Artists" groupByArtist {...chrome} />}
+        {view === "artists" && <ArtistsView {...chrome} />}
         {view === "genres" && <GenresView {...chrome} />}
       </div>
 

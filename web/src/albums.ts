@@ -5,6 +5,9 @@ export interface Album {
   id: string;
   title: string;
   artists: string[];
+  /** Spotify artist IDs, positionally parallel to `artists`. Empty for a
+   *  manual album. Joined against artists.json for portraits. */
+  artistIds: string[];
   year: number;
   genres: string[];
   styles: string[];

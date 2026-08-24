@@ -366,6 +366,167 @@ a.card:active .cover-fb {
   font-size: 11px;
 }
 
+/* ---------- Artists ----------
+   The loyalty lane and the directory row share ArtistRow's structure, so
+   they share these rules and diverge only where they must: portrait size,
+   name weight, and the row divider. */
+.arow {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  text-align: left;
+  padding: 0;
+}
+.arow:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+.arow-body {
+  min-width: 0;
+}
+.arow-nm {
+  letter-spacing: -0.015em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.arow[aria-expanded="true"] .arow-nm {
+  color: var(--accent);
+}
+
+.aportrait {
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--tile);
+  display: block;
+  flex: none;
+}
+.aportrait-fb {
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+  color: var(--ink-2);
+}
+
+/* Lane variant: compact, so more of the timeline fits on screen. */
+.arow-lane {
+  min-height: 50px;
+}
+.arow-lane .aportrait {
+  width: 34px;
+  height: 34px;
+  font-size: 14px;
+}
+.arow-lane .arow-nm {
+  font-size: 12.5px;
+  font-weight: 650;
+  margin-bottom: 3px;
+}
+
+/* Row variant: the directory, with a divider and room for the cover strip. */
+.arow-row {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+.arow-row .aportrait {
+  width: 44px;
+  height: 44px;
+  font-size: 18px;
+}
+.arow-row .arow-nm {
+  font-size: 14px;
+  font-weight: 700;
+}
+.arow-meta {
+  font-size: 11.5px;
+  color: var(--ink-2);
+  margin-top: 1px;
+}
+
+.alanes,
+.alist {
+  padding: 2px var(--gutter) 6px;
+}
+
+/* Timeline. Percentage positioning rather than SVG — a rail and some dots
+   don't need coordinate math, and this keeps the row a real focusable
+   element. */
+.atrack {
+  position: relative;
+  height: 14px;
+}
+.arail {
+  position: absolute;
+  top: 50%;
+  height: 2px;
+  border-radius: 2px;
+  background: var(--accent);
+  opacity: 0.28;
+  transform: translateY(-50%);
+}
+.adot {
+  position: absolute;
+  top: 50%;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--accent);
+  transform: translate(-50%, -50%);
+}
+.aaxis {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 4px;
+  font-size: 9.5px;
+  color: var(--ink-3);
+}
+
+/* Strip length is the loyalty signal: five covers for someone followed,
+   one for someone tried once. */
+.astrip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  margin-top: 5px;
+}
+.astrip img,
+.astrip-fb {
+  width: 22px;
+  height: 22px;
+  border-radius: 3px;
+  object-fit: cover;
+  background: var(--tile);
+  display: block;
+}
+
+.sec-n {
+  color: var(--ink-3);
+}
+
+/* Albums revealed in place. Tinted so the expansion reads as belonging to
+   the row above it rather than as a new section. */
+.aexp {
+  padding: 4px var(--gutter) 12px;
+}
+.aexp-in {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 12px;
+}
+.aexp-in .c-title {
+  font-size: 11.5px;
+  margin-top: 6px;
+}
+.aexp-in .c-sub {
+  font-size: 11px;
+}
+
 .empty {
   padding: 54px var(--gutter);
   text-align: center;
