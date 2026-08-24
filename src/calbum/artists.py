@@ -32,6 +32,18 @@ logger = logging.getLogger(__name__)
 PORTRAIT_MIN_WIDTH = 320
 
 
+def _cache() -> RawCache:
+    """The artist blob cache — a sibling directory to poll.py's album cache
+    rather than the same one, since data/raw/spotify/ is a flat {id}.json
+    namespace with no type discriminator and an ID collision there would hand
+    back an artist where an album was expected.
+
+    Built per call rather than once at import, matching enrich.py: tests
+    monkeypatch this module's DATA_DIR (see tests/conftest.py), and a
+    module-level instance would capture the real path before that lands."""
+    return RawCache(DATA_DIR / "raw" / "spotify" / "artists")
+
+
 class ArtistSource(Protocol):
     """The one capability this stage needs from a music-service client.
 
@@ -99,8 +111,7 @@ def run() -> None:
     artist_ids = artist_ids_in(albums)
     if artist_ids:
         client = SpotifyClient(get_access_token())
-        cache = RawCache(DATA_DIR / "raw" / "spotify" / "artists")
-        payload = build_artists_payload(fetch_blobs(client, cache, artist_ids))
+        payload = build_artists_payload(fetch_blobs(client, _cache(), artist_ids))
     else:
         # Skip the OAuth round-trip and client construction — there is
         # nothing to fetch. Still writes an empty file below rather than

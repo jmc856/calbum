@@ -124,3 +124,31 @@ def test_a_failing_artist_is_not_cached(tmp_path: Path) -> None:
     fetch_blobs(FakeClient(), cache, ["missing"])
 
     assert cache.load("missing") is None
+
+
+def test_cache_lives_beside_the_album_cache_not_in_it(tmp_path: Path, monkeypatch) -> None:
+    """data/raw/spotify/ is a flat {id}.json namespace shared by albums; an
+    artist blob written there could be handed back where an album was
+    expected. The artists/ subdirectory keeps the two namespaces apart."""
+    import calbum.artists as artists_module
+
+    monkeypatch.setattr(artists_module, "DATA_DIR", tmp_path)
+    cache = artists_module._cache()
+    cache.store("abc", {"id": "abc"})
+
+    assert (tmp_path / "raw" / "spotify" / "artists" / "abc.json").exists()
+    assert not (tmp_path / "raw" / "spotify" / "abc.json").exists()
+
+
+def test_cache_is_rebuilt_per_call_so_path_patches_take_effect(tmp_path: Path, monkeypatch) -> None:
+    """The reason _cache() is a function and not a module-level constant: a
+    constant would capture the real data/ path at import and write into the
+    repo during a test run."""
+    import calbum.artists as artists_module
+
+    monkeypatch.setattr(artists_module, "DATA_DIR", tmp_path / "first")
+    first = artists_module._cache().path("k")
+    monkeypatch.setattr(artists_module, "DATA_DIR", tmp_path / "second")
+    second = artists_module._cache().path("k")
+
+    assert first != second

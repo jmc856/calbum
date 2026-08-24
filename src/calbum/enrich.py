@@ -64,16 +64,32 @@ class GenreLookup(Protocol):
     def get_master(self, master_id: int) -> DiscogsMaster: ...
 
 
+def _cache() -> RawCache:
+    """The Discogs blob cache.
+
+    Built per call rather than once at import: tests monkeypatch this
+    module's RAW_DISCOGS_DIR (see tests/conftest.py's redirect_data_paths),
+    and a module-level instance would capture the real data/ path before that
+    patch lands, writing into the repo during a test run.
+    """
+    return RawCache(RAW_DISCOGS_DIR)
+
+
 def cache_path(album_id: str) -> Path:
-    return RawCache(RAW_DISCOGS_DIR).path(album_id)
+    return _cache().path(album_id)
 
 
 def load_cache(album_id: str) -> dict | None:
-    return RawCache(RAW_DISCOGS_DIR).load(album_id)
+    return _cache().load(album_id)
 
 
 def write_cache(album_id: str, data: dict) -> None:
-    RawCache(RAW_DISCOGS_DIR).store(album_id, data)
+    # store, not store_if_absent: enrich_album already returned early if a
+    # blob existed (see its first lines), so reaching here means there is
+    # nothing to collide with. The guard sits up there rather than here on
+    # purpose — it has to short-circuit the whole Discogs cascade, not just
+    # the write, or we'd spend the API calls and then discard the result.
+    _cache().store(album_id, data)
 
 
 def strip_edition_suffix(title: str) -> str | None:
