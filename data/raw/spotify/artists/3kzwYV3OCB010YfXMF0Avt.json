@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+  },
+  "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+  "id": "3kzwYV3OCB010YfXMF0Avt",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba24052fe3c780cb8ca6e69c6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a24052fe3c780cb8ca6e69c6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a24052fe3c780cb8ca6e69c6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Alvvays",
+  "type": "artist",
+  "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+}

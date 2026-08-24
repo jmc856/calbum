@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+  },
+  "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+  "id": "1McMsnEElThX1knmY4oliG",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b14eb4dcfd2f3858bed06e44",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Olivia Rodrigo",
+  "type": "artist",
+  "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+}

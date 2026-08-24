@@ -24,6 +24,7 @@ on:
           - enrich
           - sheets
           - site
+          - artists
 
 # Single-writer discipline (constraint 5): only this workflow ever writes to
 # the repo. Each commit step commits locally FIRST, then `git pull --rebase`,
@@ -144,11 +145,30 @@ jobs:
         if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'site'
         run: uv run python -m calbum.site
 
+      # Emits web/src/data/artists.json (portraits for the Artists tab). The
+      # artist blobs are cached write-once, so a steady-state run makes zero
+      # requests here and only new artists cost anything.
+      #
+      # continue-on-error for the same reason the sheets writer has it: this
+      # is the last consumer in the chain, and a Spotify hiccup fetching
+      # portraits must not take the albums payload — already written by the
+      # step above — down with it. The commit step below is shared, so a
+      # failure here still ships the album data.
+      - name: Run artists export
+        if: github.event_name == 'schedule' || github.event.inputs.target == 'all' || github.event.inputs.target == 'site' || github.event.inputs.target == 'artists'
+        continue-on-error: true
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          GITHUB_ACTIONS: "true"
+        run: uv run python -m calbum.artists
+
       - name: Commit and push site payload if changed
         run: |
           git config user.name "calbum-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add web/src/data/
+          git add web/src/data/ data/raw/spotify/artists/
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

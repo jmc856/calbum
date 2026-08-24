@@ -43,10 +43,12 @@ def make_album() -> Callable[..., Album]:
         discogs_release_id: int | None = None,
         source: str = "spotify",
         cover_url: str | None = None,
+        artist_ids: list[str] | None = None,
     ) -> Album:
         return Album(
             id=album_id,
             artists=artists or ["Some Artist"],
+            artist_ids=artist_ids or [],
             title=title,
             release_date=f"{release_year}-01-01",
             release_year=release_year,
@@ -65,6 +67,7 @@ def make_album() -> Callable[..., Album]:
 
 @pytest.fixture(autouse=True)
 def redirect_data_paths(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
+    import calbum.artists as artists_module
     import calbum.enrich as enrich_module
     import calbum.overrides as overrides_module
     import calbum.paths as paths_module
@@ -72,6 +75,9 @@ def redirect_data_paths(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None
 
     albums_path = tmp_path / "albums.json"
     monkeypatch.setattr(paths_module, "ALBUMS_PATH", albums_path)
+    monkeypatch.setattr(artists_module, "ALBUMS_PATH", albums_path)
+    monkeypatch.setattr(artists_module, "DATA_DIR", tmp_path)
+    monkeypatch.setattr(artists_module, "SITE_ARTISTS_PATH", tmp_path / "artists.json")
     monkeypatch.setattr(enrich_module, "ALBUMS_PATH", albums_path)
     monkeypatch.setattr(enrich_module, "RAW_DISCOGS_DIR", tmp_path / "raw" / "discogs")
     monkeypatch.setattr(sheets_module, "ALBUMS_PATH", albums_path)

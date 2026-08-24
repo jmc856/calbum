@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+  },
+  "href": "https://api.spotify.com/v1/artists/2AfU5LYBVCiCtuCCfM7uVX",
+  "id": "2AfU5LYBVCiCtuCCfM7uVX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb305f14af938528751d1fc9de",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174305f14af938528751d1fc9de",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178305f14af938528751d1fc9de",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kota the Friend",
+  "type": "artist",
+  "uri": "spotify:artist:2AfU5LYBVCiCtuCCfM7uVX"
+}

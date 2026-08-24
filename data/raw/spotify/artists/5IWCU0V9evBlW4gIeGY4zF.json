@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+  },
+  "href": "https://api.spotify.com/v1/artists/5IWCU0V9evBlW4gIeGY4zF",
+  "id": "5IWCU0V9evBlW4gIeGY4zF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb6b88ebf5a74e636bcf09eb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bb6b88ebf5a74e636bcf09eb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Waxahatchee",
+  "type": "artist",
+  "uri": "spotify:artist:5IWCU0V9evBlW4gIeGY4zF"
+}

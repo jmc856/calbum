@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+  },
+  "href": "https://api.spotify.com/v1/artists/7DjwIxbe8kpw4pqnzAMoin",
+  "id": "7DjwIxbe8kpw4pqnzAMoin",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb26b0d0de46b77e23675281",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174eb26b0d0de46b77e23675281",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178eb26b0d0de46b77e23675281",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Beths",
+  "type": "artist",
+  "uri": "spotify:artist:7DjwIxbe8kpw4pqnzAMoin"
+}

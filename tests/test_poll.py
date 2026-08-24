@@ -382,3 +382,61 @@ def test_resolve_candidates_is_write_once_second_call_never_refetches(tmp_path: 
     poller.resolve_candidates(by_album)
 
     assert len(poller.client.fetched) == calls_after_first  # no new network call
+
+
+def test_build_albums_new_album_records_artist_ids(tmp_path: Path) -> None:
+    poller = make_poller(tmp_path)
+    resolved = {
+        "a1": {"name": "T", "release_date": "2020-01-01", "album_type": "album",
+               "external_ids": {},
+               "artists": [{"name": "Clipse", "id": "c1"}, {"name": "Pusha T", "id": "p1"}]}
+    }
+    by_album = {"a1": [{"added_at": "2024-01-01T00:00:00Z"}]}
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album, datetime.now(timezone.utc))}
+
+    assert result["a1"].artists == ["Clipse", "Pusha T"]
+    assert result["a1"].artist_ids == ["c1", "p1"]  # positionally parallel
+
+
+def test_build_albums_backfills_artist_ids_from_the_cached_blob(tmp_path: Path, make_album) -> None:
+    """An album polled before artist_ids existed gets them from this run's
+    already-cached blob — zero API calls, same pattern as cover_url."""
+    poller = make_poller(tmp_path)
+    poller.existing = {"a1": make_album("a1", artist_ids=[])}
+    resolved = {
+        "a1": {"name": "T", "release_date": "2020-01-01", "album_type": "album",
+               "external_ids": {}, "artists": [{"name": "A", "id": "backfilled"}]}
+    }
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album={}, now=datetime.now(timezone.utc))}
+
+    assert result["a1"].artist_ids == ["backfilled"]
+
+
+def test_build_albums_does_not_overwrite_existing_artist_ids(tmp_path: Path, make_album) -> None:
+    """Backfill fills a gap only; overwriting would rewrite the file on
+    every poll and destroy the git-as-audit-log property."""
+    poller = make_poller(tmp_path)
+    poller.existing = {"a1": make_album("a1", artist_ids=["original"])}
+    resolved = {
+        "a1": {"name": "T", "release_date": "2020-01-01", "album_type": "album",
+               "external_ids": {}, "artists": [{"name": "A", "id": "different"}]}
+    }
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album={}, now=datetime.now(timezone.utc))}
+
+    assert result["a1"].artist_ids == ["original"]
+
+
+def test_build_albums_tolerates_an_artist_without_an_id(tmp_path: Path) -> None:
+    poller = make_poller(tmp_path)
+    resolved = {
+        "a1": {"name": "T", "release_date": "2020-01-01", "album_type": "album",
+               "external_ids": {}, "artists": [{"name": "A"}, {"name": "B", "id": "b1"}]}
+    }
+    by_album = {"a1": [{"added_at": "2024-01-01T00:00:00Z"}]}
+
+    result = {a.id: a for a in poller.build_albums(resolved, by_album, datetime.now(timezone.utc))}
+
+    assert result["a1"].artist_ids == ["b1"]

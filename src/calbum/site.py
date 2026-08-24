@@ -42,6 +42,12 @@ def build_site_payload(active: list[Album]) -> list[dict]:
             "id": album.id,
             "title": album.title,
             "artists": album.artists,
+            # Parallel to `artists`, so the frontend can join artists.json on
+            # a stable ID instead of a display name (aliases and "The X" vs
+            # "X" would silently split otherwise). Emitted whole rather than
+            # as a single primary ID: which artist counts as primary is a
+            # presentation choice, and it belongs in the frontend.
+            "artistIds": album.artist_ids,
             "year": album.release_year,
             "genres": album.genre_names,
             "styles": album.style_names,

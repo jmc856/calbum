@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+  },
+  "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+  "id": "07EcmJpfAday8xGkslfanE",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4051b00c8958c03e8bf83b05",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744051b00c8958c03e8bf83b05",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784051b00c8958c03e8bf83b05",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Kevin Abstract",
+  "type": "artist",
+  "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+}

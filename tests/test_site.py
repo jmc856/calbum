@@ -21,7 +21,9 @@ def test_emits_only_the_fields_the_ui_renders(make_album) -> None:
 
     [row] = build_site_payload([album])
 
-    assert set(row) == {"id", "title", "artists", "year", "genres", "styles", "cover", "url"}
+    assert set(row) == {
+        "id", "title", "artists", "artistIds", "year", "genres", "styles", "cover", "url",
+    }
     assert row["genres"] == ["Rock"]
     assert row["styles"] == ["Indie Rock"]
     assert row["cover"] == "https://i.scdn.co/image/abc"
@@ -69,3 +71,23 @@ def test_sorted_by_year_descending_then_title(make_album) -> None:
 
 def test_empty_input_yields_empty_payload() -> None:
     assert build_site_payload([]) == []
+
+
+def test_artist_ids_ride_parallel_to_artist_names(make_album) -> None:
+    """Joined positionally by the frontend, so the two lists must stay in
+    step — this is what lets artists.json be joined on a stable ID rather
+    than a display name."""
+    album = make_album("a1", artists=["Clipse", "Pusha T"], artist_ids=["c1", "p1"])
+
+    [row] = build_site_payload([album])
+
+    assert row["artists"] == ["Clipse", "Pusha T"]
+    assert row["artistIds"] == ["c1", "p1"]
+
+
+def test_manual_album_has_no_artist_ids(make_album) -> None:
+    """A manual album has no Spotify identity; the frontend renders it
+    without a portrait rather than joining on a fabricated ID."""
+    [row] = build_site_payload([make_album("m1", source="manual")])
+
+    assert row["artistIds"] == []

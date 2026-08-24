@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+  },
+  "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+  "id": "57UnSUpae3SbRekxNa5Kgl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0638f3bd379fbd2ceebc8bda",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740638f3bd379fbd2ceebc8bda",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780638f3bd379fbd2ceebc8bda",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "El-P",
+  "type": "artist",
+  "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+}

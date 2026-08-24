@@ -21,3 +21,9 @@ SITE_DATA_PATH = WEB_DIR / "src" / "data" / "albums.json"
 """Frontend payload emitted by site.py. Under web/src/ rather than
 web/public/ because the app imports it at build time instead of fetching it
 — see site.py's module docstring for why."""
+
+SITE_ARTISTS_PATH = WEB_DIR / "src" / "data" / "artists.json"
+"""Artist portraits emitted by artists.py. A second file rather than
+reshaping SITE_DATA_PATH's bare array, which the frontend consumes directly
+as `ALBUMS = raw as Album[]` — a wrapper object would touch every consumer
+for no gain."""

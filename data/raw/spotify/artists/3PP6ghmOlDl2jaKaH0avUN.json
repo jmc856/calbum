@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+  },
+  "href": "https://api.spotify.com/v1/artists/3PP6ghmOlDl2jaKaH0avUN",
+  "id": "3PP6ghmOlDl2jaKaH0avUN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6ace408c5e1762b36061f23",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b6ace408c5e1762b36061f23",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b6ace408c5e1762b36061f23",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Black Country, New Road",
+  "type": "artist",
+  "uri": "spotify:artist:3PP6ghmOlDl2jaKaH0avUN"
+}

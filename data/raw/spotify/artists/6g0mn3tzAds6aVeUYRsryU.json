@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+  },
+  "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+  "id": "6g0mn3tzAds6aVeUYRsryU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03ef469bbf290d048e6c521d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517403ef469bbf290d048e6c521d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17803ef469bbf290d048e6c521d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The War On Drugs",
+  "type": "artist",
+  "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+}

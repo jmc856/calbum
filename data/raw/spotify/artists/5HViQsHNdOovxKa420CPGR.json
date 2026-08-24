@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+  },
+  "href": "https://api.spotify.com/v1/artists/5HViQsHNdOovxKa420CPGR",
+  "id": "5HViQsHNdOovxKa420CPGR",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf3a9279738bfbe72d5d5661",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174df3a9279738bfbe72d5d5661",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178df3a9279738bfbe72d5d5661",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Friko",
+  "type": "artist",
+  "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR"
+}

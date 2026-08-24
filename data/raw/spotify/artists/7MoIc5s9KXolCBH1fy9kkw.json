@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+  },
+  "href": "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+  "id": "7MoIc5s9KXolCBH1fy9kkw",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb679cee0110b7cc128a496431",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174679cee0110b7cc128a496431",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178679cee0110b7cc128a496431",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Japanese Breakfast",
+  "type": "artist",
+  "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+}

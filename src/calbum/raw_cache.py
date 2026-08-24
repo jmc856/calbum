@@ -28,3 +28,15 @@ class RawCache:
     def store(self, key: str, data: dict) -> None:
         self._dir.mkdir(parents=True, exist_ok=True)
         self.path(key).write_text(json.dumps(data, indent=2) + "\n")
+
+    def store_if_absent(self, key: str, data: dict) -> bool:
+        """Store only if nothing is cached under `key` yet; True if written.
+
+        Write-once is policy, which this module otherwise leaves to callers —
+        but poll.py and artists.py want the identical rule, so the shared
+        spelling lives here. A caller needing different policy still has
+        `store`."""
+        if self.path(key).exists():
+            return False
+        self.store(key, data)
+        return True

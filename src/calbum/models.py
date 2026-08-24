@@ -74,6 +74,14 @@ class Album(BaseModel):
     cascade (constraint 6). Records which pressing/master was chosen so a
     re-run's choice is auditable, per PLAN.md Stage 1 step 2."""
     source: Literal["spotify", "manual"] = "spotify"
+    artist_ids: list[str] = []
+    """Spotify artist IDs, positionally parallel to `artists`. A separate
+    field rather than making `artists` a list of objects: that would ripple
+    into sheets.py, enrich.py, overrides.py's _SCALAR_FIELDS, the tests, and
+    the stored shape of albums.json, for no gain. Backfilled from the
+    already-cached raw blobs at zero API cost — see poll.py's
+    Poller.build_albums. Empty for a manual album, which has no Spotify
+    identity."""
     cover_url: str | None = None
     """The largest available cover image from Spotify's AlbumObject.images,
     set once at first write like added_at — see poll.py's Poller.build_albums

@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+  },
+  "href": "https://api.spotify.com/v1/artists/1hLiboQ98IQWhpKeP9vRFw",
+  "id": "1hLiboQ98IQWhpKeP9vRFw",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a6373c01e8b86e289859f57",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051741a6373c01e8b86e289859f57",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "boygenius",
+  "type": "artist",
+  "uri": "spotify:artist:1hLiboQ98IQWhpKeP9vRFw"
+}

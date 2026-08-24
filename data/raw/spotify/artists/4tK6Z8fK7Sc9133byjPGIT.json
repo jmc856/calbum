@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+  },
+  "href": "https://api.spotify.com/v1/artists/4tK6Z8fK7Sc9133byjPGIT",
+  "id": "4tK6Z8fK7Sc9133byjPGIT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27fa0080c12d5330cf5562b8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517427fa0080c12d5330cf5562b8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17827fa0080c12d5330cf5562b8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "MJ Lenderman",
+  "type": "artist",
+  "uri": "spotify:artist:4tK6Z8fK7Sc9133byjPGIT"
+}

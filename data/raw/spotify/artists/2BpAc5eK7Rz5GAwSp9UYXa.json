@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+  },
+  "href": "https://api.spotify.com/v1/artists/2BpAc5eK7Rz5GAwSp9UYXa",
+  "id": "2BpAc5eK7Rz5GAwSp9UYXa",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56c781bab72456786efc128d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517456c781bab72456786efc128d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17856c781bab72456786efc128d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Tallest Man On Earth",
+  "type": "artist",
+  "uri": "spotify:artist:2BpAc5eK7Rz5GAwSp9UYXa"
+}

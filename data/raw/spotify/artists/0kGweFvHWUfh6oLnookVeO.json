@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+  },
+  "href": "https://api.spotify.com/v1/artists/0kGweFvHWUfh6oLnookVeO",
+  "id": "0kGweFvHWUfh6oLnookVeO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70fea1b7a7a5c70c895109dc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517470fea1b7a7a5c70c895109dc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17870fea1b7a7a5c70c895109dc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Cameron Winter",
+  "type": "artist",
+  "uri": "spotify:artist:0kGweFvHWUfh6oLnookVeO"
+}

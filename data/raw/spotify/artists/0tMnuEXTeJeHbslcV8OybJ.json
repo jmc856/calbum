@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+  },
+  "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+  "id": "0tMnuEXTeJeHbslcV8OybJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5a52108516413de7ab2b0fc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b5a52108516413de7ab2b0fc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b5a52108516413de7ab2b0fc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Drugdealer",
+  "type": "artist",
+  "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+}

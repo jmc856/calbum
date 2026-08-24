@@ -40,6 +40,7 @@ from calbum.models import Album
 from calbum.paths import DATA_DIR
 from calbum.raw_cache import RawCache
 from calbum.spotify.auth import get_access_token
+from calbum.spotify.images import pick_image
 from calbum.writer import read_albums, write_albums
 
 
@@ -90,13 +91,14 @@ def parse_release_date(value: str) -> date:
 
 
 def _cover_url(full: dict) -> str | None:
-    """The largest image in Spotify's AlbumObject.images — the frontend can
-    always downscale a too-large image, never upscale a too-small one.
-    Picked by width rather than relying on Spotify's array ordering."""
-    images = full.get("images") or []
-    if not images:
-        return None
-    return max(images, key=lambda img: img.get("width") or 0).get("url")
+    """The largest image in Spotify's AlbumObject.images."""
+    return pick_image(full.get("images"))
+
+
+def _artist_ids(full: dict) -> list[str]:
+    """Spotify artist IDs in the album's own artist order, so they stay
+    positionally parallel to Album.artists (built from the same list)."""
+    return [a["id"] for a in full.get("artists", []) if a.get("id")]
 
 
 def _track_obj(item: dict) -> dict:
@@ -183,8 +185,7 @@ class Poller:
         return self.client.get_album(album_id)
 
     def _persist_album(self, album_id: str, blob: dict) -> None:
-        if not self.cache_path(album_id).exists():  # write-once
-            self.raw_cache.store(album_id, blob)
+        self.raw_cache.store_if_absent(album_id, blob)  # write-once
 
     def resolve_playlist_items(self, playlist_id: str) -> dict[str, list[dict]]:
         """Group playlist items by resolved album ID."""
@@ -265,14 +266,18 @@ class Poller:
                 update: dict = {}
                 if not album.is_active:
                     update["removed_at"] = None
-                # Backfill only — an album polled before cover_url existed
-                # gets it filled in for free from this run's already-cached
-                # blob; an album that already has one is left untouched, so
+                # Backfill only — an album polled before these fields existed
+                # gets them filled in for free from this run's already-cached
+                # blob; an album that already has them is left untouched, so
                 # this can't churn the file on every run.
                 if not album.cover_url:
                     cover_url = _cover_url(full)
                     if cover_url:
                         update["cover_url"] = cover_url
+                if not album.artist_ids:
+                    artist_ids = _artist_ids(full)
+                    if artist_ids:
+                        update["artist_ids"] = artist_ids
                 if update:
                     result[album_id] = album.model_copy(update=update)
                 continue
@@ -287,6 +292,7 @@ class Poller:
                 new_album = Album(
                     id=album_id,
                     artists=[a["name"] for a in full.get("artists", [])],
+                    artist_ids=_artist_ids(full),
                     title=full["name"],
                     release_date=release_date,
                     release_year=release_date.year,

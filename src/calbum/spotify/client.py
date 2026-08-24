@@ -66,3 +66,9 @@ class SpotifyClient:
 
     def get_album(self, album_id: str) -> dict:
         return self.get(f"{API_BASE}/albums/{album_id}")
+
+    def get_artist(self, artist_id: str) -> dict:
+        # One at a time, deliberately: the batched /v1/artists?ids= endpoint
+        # returns 403 for this app, while the single-artist form works. That
+        # also keeps the artist cache 1:1 fetch->blob, like the album cache.
+        return self.get(f"{API_BASE}/artists/{artist_id}")

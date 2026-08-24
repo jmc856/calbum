@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+  },
+  "href": "https://api.spotify.com/v1/artists/0WCo84qtCKfbyIf1lqQWB4",
+  "id": "0WCo84qtCKfbyIf1lqQWB4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc9546a945c7563a9eb21f3d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bc9546a945c7563a9eb21f3d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bc9546a945c7563a9eb21f3d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Geese",
+  "type": "artist",
+  "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4"
+}

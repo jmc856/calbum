@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+  },
+  "href": "https://api.spotify.com/v1/artists/2dBj3prW7gP9bCCOIQeDUf",
+  "id": "2dBj3prW7gP9bCCOIQeDUf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02b986f57904bca3190d8f2b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517402b986f57904bca3190d8f2b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17802b986f57904bca3190d8f2b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Danger Mouse",
+  "type": "artist",
+  "uri": "spotify:artist:2dBj3prW7gP9bCCOIQeDUf"
+}

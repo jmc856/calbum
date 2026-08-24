@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+  },
+  "href": "https://api.spotify.com/v1/artists/5V1vRp27m0PLepQehI2tnf",
+  "id": "5V1vRp27m0PLepQehI2tnf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98d4917ba5ea0e69a65d384d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517498d4917ba5ea0e69a65d384d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17898d4917ba5ea0e69a65d384d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Ugly (UK)",
+  "type": "artist",
+  "uri": "spotify:artist:5V1vRp27m0PLepQehI2tnf"
+}
