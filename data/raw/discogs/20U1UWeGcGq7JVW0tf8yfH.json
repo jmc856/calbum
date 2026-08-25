@@ -1,0 +1,1017 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "744861109266",
+    "artist": "Car Seat Headrest",
+    "title": "Twin Fantasy",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 11652933,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109211",
+        "BMI",
+        "OLE-1092 BH05351-01 A1 HL",
+        "OLE-1092 BH05351-01 B1 HL",
+        "OLE-1092 BH05351-02 C1 HL",
+        "OLE-1092 BH05351-02 D1 HL"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/11652933-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-1",
+      "thumb": "https://i.discogs.com/uyoV8x8MWq46K1z6xaJVx-YV9nzMxXNiTFTn5fvWG6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/OTMzLTE1MjAwOTA1/MzQtNjE5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qVHSIX5vNCE8a0LgGhmM6hN5Wshzl6GCB8fsto_-EPs/rs:fit/g:sm/q:90/h:591/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/OTMzLTE1MjAwOTA1/MzQtNjE5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11652933",
+      "community": {
+        "want": 1701,
+        "have": 3963
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11563699,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Car Seat Headrest",
+        "Matador Records",
+        "Matador Records",
+        "The ADS Group",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109228",
+        "744861109228",
+        "OLE 10922 6745-CD-1921 18-009-14-2",
+        "IFPI LY89",
+        "none",
+        "OLE 10922 6745-CD-1922 18-009-14-2",
+        "IFPI LY89",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/11563699-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-2",
+      "thumb": "https://i.discogs.com/LBt6tic-xcE_7wjZ_Dzp6jF84H3-eNt2VyHCyO8m-Wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYz/Njk5LTE1MTg1NTc2/OTAtMzIxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VQupIZpOIrPF2sCigajgQ40tQsW2cgKaiGYLgP02vHM/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYz/Njk5LTE1MTg1NTc2/OTAtMzIxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11563699",
+      "community": {
+        "want": 871,
+        "have": 1974
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11601670,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Special Cut"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109211",
+        "BMI",
+        "OLE-1092-1 166863E1/A",
+        "OLE-1092-1 166863E2/B",
+        "OLE-1092-1 166863E3/A",
+        "OLE-1092-1 166863E4/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/11601670-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-1",
+      "thumb": "https://i.discogs.com/fIHA6RweBAF71xdDUKSNDpjKN4vWLfyiJ0ePftTWH-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAx/NjcwLTE2MDQ2MDUx/NjktNzIxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QZc9oiPeos2rYjvnLOZibOXm0R76VsvTcEJUyjKeeEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAx/NjcwLTE2MDQ2MDUx/NjktNzIxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11601670",
+      "community": {
+        "want": 1010,
+        "have": 4222
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "GZ Media Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Special Cut"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12512007,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp."
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109242",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/12512007-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-4",
+      "thumb": "https://i.discogs.com/KuqeFITvyc4MXaX0e3IG75I5k7x39IYPIdt1paNr00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/MDA3LTE1Mzc0NzUy/MzItNDM5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zR8MpZXCn-uF9lvg3mNQ-5O3OD5mJfxA2T5-DtScy8A/rs:fit/g:sm/q:90/h:942/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/MDA3LTE1Mzc0NzUy/MzItNDM5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12512007",
+      "community": {
+        "want": 432,
+        "have": 100
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34785845,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2018",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "BMI",
+        "USMTD1710369",
+        "USMTD1710360",
+        "USMTD1710361",
+        "USMTD1710362",
+        "USMTD1710363",
+        "USMTD1710364",
+        "USMTD1710365",
+        "USMTD1710366",
+        "USMTD1710367",
+        "USMTD1710368"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/34785845-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/1OW8E1ErTY2ldI_DRnmYeub5d4jITQHEg4fuaDNIEJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzg1/ODQ1LTE3NTQ4NTE4/MDItOTI4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dev0vII1dxxH6FZqZ8LAy8o-mEDSBOrIt46qdnDEAhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzg1/ODQ1LTE3NTQ4NTE4/MDItOTI4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34785845",
+      "community": {
+        "want": 11,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "16-bit/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11713550,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109228",
+        "BMI",
+        "11552744861109228",
+        "OLE1130V5 33 A00",
+        "IFPI L553",
+        "OLE1092 51 A00",
+        "IFPI L551"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/11713550-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-2",
+      "thumb": "https://i.discogs.com/qVmIrVjecEpLSEkGFln7CYMUWLacJUMlNVpcNnVZjVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEz/NTUwLTE1NDE0Mzc2/NDItNjM1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4L3ZxppvHv-0q8In1cv4Rl1ToltAnnRPbi7cFOhwNIc/rs:fit/g:sm/q:90/h:487/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEz/NTUwLTE1NDE0Mzc2/NDItNjM1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11713550",
+      "community": {
+        "want": 425,
+        "have": 1101
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11559267,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Chicago Mastering Service"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861109211",
+        "BMI",
+        "OLE-1092-1-A [CMS logo]JW171031 WAIT",
+        "OLE-1092-1-B [CMS logo]JW171031 I'VE SEEN THIS",
+        "OLE-1092-1-C [CMS logo]JW171031 I STAND HERE, RIGHT HERE, AND I'M SUPPOSED TO SAY SOMETHING",
+        "OLE-1092-1-D [CMS logo]JW171031 WHAT DID I JUST SAY?"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/11559267-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-1",
+      "thumb": "https://i.discogs.com/rcpBjyeB4zWlwEijH1xpGYgZwO0G0vzLjsQZFTpnMRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MjY3LTE1MTg0ODQy/ODUtODUxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7eTknZjG0pfqvLWDf33UEtAU_iGzG29tq47yhvq3F6s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MjY3LTE1MTg0ODQy/ODUtODUxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11559267",
+      "community": {
+        "want": 2391,
+        "have": 6761
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22398025,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/22398025-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-1092-1",
+      "thumb": "https://i.discogs.com/DG8K6tuCEHJnmDeSk3FIYN4wGZAez3TVn507Ww9JI4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk4/MDI1LTE2NDY1MDM2/MDItNzAyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5DeR96yOl449M7Bzdzjg8257wRKKwNQPkxwG009i2sA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk4/MDI1LTE2NDY1MDM2/MDItNzAyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22398025",
+      "community": {
+        "want": 53,
+        "have": 16
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36941265,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 1321763,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Car Seat Headrest",
+        "Matador Records",
+        "Matador Records",
+        "The ADS Group",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "4580211852569"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1321763",
+      "uri": "/release/36941265-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "OLE-13472",
+      "thumb": "https://i.discogs.com/6D69AcwDB7tFDOmRuudYQwmj2bu6HZnZyQpk5ppTP78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQx/MjY1LTE3NzUwMzc4/NDQtNDk4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8PZX25HbHsxuonKhiDkvTHU_O4WskcK_A4wiYI70enM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQx/MjY1LTE3NzUwMzc4/NDQtNDk4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36941265",
+      "community": {
+        "want": 14,
+        "have": 2
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25091149,
+      "title": "Car Seat Headrest - Twin Fantasy",
+      "master_id": 886496,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Lo-Fi",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Not On Label (Car Seat Headrest Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/886496",
+      "uri": "/release/25091149-Car-Seat-Headrest-Twin-Fantasy",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/QmXSrcOjwUf_jkpUXNasW-DJ-Rh-ApHVS1EZxaJPzIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDkx/MTQ5LTE2Njc4NjA5/NDctNDQ5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IBPvEjTkU9JMqmy7ek9-6kOiDqz5osZoeLDTQN8rNAQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDkx/MTQ5LTE2Njc4NjA5/NDctNDQ5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25091149",
+      "community": {
+        "want": 20,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12414765,
+      "title": "Car Seat Headrest - My Boy (Twin Fantasy)",
+      "master_id": 0,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "country": "Unknown",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Single"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861133964"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/12414765-Car-Seat-Headrest-My-Boy-Twin-Fantasy",
+      "catno": "OLE13396",
+      "thumb": "https://i.discogs.com/hHGf94tpAXMwAVjEENc4E7leMeC162Z6cqLVQr2m3f4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE0/NzY1LTE1MzQ4MDg3/ODEtNDE4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-e0_rCVn_Rt1-8j_pj_tH8zQJlOayfPWfDcKLKEMBfw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE0/NzY1LTE1MzQ4MDg3/ODEtNDE4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12414765",
+      "community": {
+        "want": 2,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11880422,
+      "title": "Car Seat Headrest - Twin Fantasy (Mirror To Mirror)",
+      "master_id": 886496,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Record Store Day",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Matador",
+        "Car Seat Headrest",
+        "Car Seat Headrest",
+        "Matador Records",
+        "TMBG Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Golden Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861133018",
+        "OLE-1330-1-A A.",
+        "GOLDEN",
+        "OLE-1330-1-B A.",
+        "GOLDEN",
+        "OLE-1330-1-C A.",
+        "GOLDEN",
+        "OLE-1330-1-D A.",
+        "GOLDEN",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/886496",
+      "uri": "/release/11880422-Car-Seat-Headrest-Twin-Fantasy-Mirror-To-Mirror",
+      "catno": "OLE-1330-1",
+      "thumb": "https://i.discogs.com/C7Vle4oqm--kiEAz0uJIP_bgxtV5z0btNOf6tsBQjIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgw/NDIyLTE1MjQwMDQ5/NDMtNzEyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZSM_45ncc4X-pirNzlmpFSKA4C6GziJ2fPADkiJ4Nhs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgw/NDIyLTE1MjQwMDQ5/NDMtNzEyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11880422",
+      "community": {
+        "want": 857,
+        "have": 2864
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12760926,
+      "title": "Car Seat Headrest - Twin Fantasy (Mirror To Mirror) ",
+      "master_id": 886496,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Lo-Fi",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Matador",
+        "Matador",
+        "Car Seat Headrest",
+        "Car Seat Headrest",
+        "Matador Records",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "0744861133001",
+        "OLE-1330-0 226143E1/C",
+        "OLE-1330-0 226143E2/A",
+        "OLE-1330-0 226143E3/B",
+        "OLE-1330-0 226143E4/C"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/886496",
+      "uri": "/release/12760926-Car-Seat-Headrest-Twin-Fantasy-Mirror-To-Mirror-",
+      "catno": "OLE-1330-0",
+      "thumb": "https://i.discogs.com/vAa58NZtsUYmp839kuvpjoDN7X1CJNrlQqiju5ys3j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzYw/OTI2LTE2NDEzNjE0/NjgtNjAyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rZA2CPCeXiUl3lXMls5HZTFpKLevVTdW0VydJqw1S7w/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzYw/OTI2LTE2NDEzNjE0/NjgtNjAyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12760926",
+      "community": {
+        "want": 1108,
+        "have": 3309
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11898780,
+      "title": "Car Seat Headrest - Twin Fantasy (Mirror To Mirror)",
+      "master_id": 886496,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK & Ireland",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Record Store Day",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [
+        "744861133018",
+        "OLE 13301 A P042532-A",
+        "MPO 1812411",
+        "OLE 13301 B P042532-B",
+        "MPO 1812412",
+        "OLE 13301 C P042532-C",
+        "MPO 1812481",
+        "OLE 1330 D P042532-D",
+        "MPO 1812472"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/886496",
+      "uri": "/release/11898780-Car-Seat-Headrest-Twin-Fantasy-Mirror-To-Mirror",
+      "catno": "OLE-1330-1",
+      "thumb": "https://i.discogs.com/TVsC7d5D7Wf96-rp4SKXBqBMWfeJsqiEBBg3ZsdP_8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/NzgwLTE1MjQzNTI3/MzYtNDEwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AmRIto9LHx60u-ofvhcspe-cVSM92tzbwtWjyHc7G1E/rs:fit/g:sm/q:90/h:527/w:543/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk4/NzgwLTE1MjQzNTI3/MzYtNDEwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11898780",
+      "community": {
+        "want": 572,
+        "have": 991
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 886496,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Lo-Fi",
+      "Indie Rock"
+    ],
+    "main_release": 11263108,
+    "most_recent_release": 32414946,
+    "resource_url": "https://api.discogs.com/masters/886496",
+    "uri": "https://www.discogs.com/master/886496-Car-Seat-Headrest-Twin-Fantasy",
+    "versions_url": "https://api.discogs.com/masters/886496/versions",
+    "main_release_url": "https://api.discogs.com/releases/11263108",
+    "most_recent_release_url": "https://api.discogs.com/releases/32414946",
+    "num_for_sale": 48,
+    "lowest_price": 9.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/oOt_Fueh6BvPZfWGLgdApKvewSdAY-XJwKwtqWWvuik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE1MTI5NzM1/MzMtNjA0OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/oOt_Fueh6BvPZfWGLgdApKvewSdAY-XJwKwtqWWvuik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE1MTI5NzM1/MzMtNjA0OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rOoJzKEt2DYCmYVd2MgMCuNVYVKy7-O2ZdXu02tOkPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE1MTI5NzM1/MzMtNjA0OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SNgrAWdC4J2cU8RF55rJ_poxRidzXjCKbcuJyyELga8/rs:fit/g:sm/q:90/h:600/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE2NTI1Nzk2/MTQtMjIxNy5wbmc.jpeg",
+        "resource_url": "https://i.discogs.com/SNgrAWdC4J2cU8RF55rJ_poxRidzXjCKbcuJyyELga8/rs:fit/g:sm/q:90/h:600/w:100/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE2NTI1Nzk2/MTQtMjIxNy5wbmc.jpeg",
+        "uri150": "https://i.discogs.com/FN60024-wkhdVIhMlV60TPh2dQeX_UP7eUmpEBocGMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYz/MTA4LTE2NTI1Nzk2/MTQtMjIxNy5wbmc.jpeg",
+        "width": 100,
+        "height": 600
+      }
+    ],
+    "year": 2011,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "My Boy (Twin Fantasy)",
+        "duration": "2:49"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Beach Life-In-Death",
+        "duration": "12:10"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Stop Smoking",
+        "duration": "1:27"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Sober To Death",
+        "duration": "5:03"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Nervous Young Inhumans",
+        "duration": "4:14"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Bodys",
+        "duration": "6:15"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Cute Thing",
+        "duration": "5:21"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "High To Death",
+        "duration": "6:18"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Famous Prophets (Minds)",
+        "duration": "10:20"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Twin Fantasy (Those Boys)",
+        "duration": "6:28"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Car Seat Headrest",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2427937,
+        "resource_url": "https://api.discogs.com/artists/2427937",
+        "thumbnail_url": "https://i.discogs.com/lTlItL1QFIuMIhllOrijoqqQ0IUXDDkeEiTq963Bjm4/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0Mjc5/MzctMTY2NDk1MDI2/MS0yMjY3LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Twin Fantasy",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=g14Jj6gSgPY",
+        "title": "Car Seat Headrest - Twin Fantasy (Full Album)",
+        "description": "i was going to make a video with lyrics and stuff but i didnt because im a fagg0t\n\nTrack listing:\n0:00 01 - My Boy (Twin Fantasy)\n2:48 02 - Beach Life In Death\n14:57 03 - Stop Smoking\n16:24 04 - Sober To Death\n21:27 05 - Nervous Young Inhumans\n25:42 06 - ",
+        "duration": 3623,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=3NPATRzaF00",
+        "title": "Car Seat Headrest - \"Nervous Young Inhumans\"",
+        "description": "VIDEO CONTAINS FLASHING LIGHTS\nFrom the new 'Twin Fantasy' released February 16 on Matador Records. Available now: http://smarturl.it/TwinFantasy\n\nhttps://carseatheadrest.bandcamp.com/\nhttps://twitter.com/carseatheadrest\nhttps://www.facebook.com/carseathe",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Ydv6usKn2rg",
+        "title": "Car Seat Headrest - \"Sober to Death\" (Official Audio)",
+        "description": "From the new 'Twin Fantasy' \navailable now: http://smarturl.it/TwinFantasy\n\nhttps://carseatheadrest.bandcamp.com/\nhttps://twitter.com/carseatheadrest\nhttps://www.facebook.com/carseatheadrest/\nhttp://carseatheadrest.tumblr.com/\nhttp://www.matadorrecords.co",
+        "duration": 305,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BmON1UxzGGw",
+        "title": "Car Seat Headrest - Bodys",
+        "description": "off Twin Fantasy.\r\nhttp://carseatheadrest.bandcamp.com/",
+        "duration": 377,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=c7s83kh_30g",
+        "title": "Car Seat Headrest- Cute Thing (Original)",
+        "description": "From the album Twin Fantasy (the 2011 version).\nhttps://carseatheadrest.bandcamp.com/album/twin-fantasy",
+        "duration": 322,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hYThBBhxrTw",
+        "title": "Car Seat Headrest- Famous Prophets (Minds)",
+        "description": "Song from Car Seat Headrest's Twin Fantasy.\n\nLyrics:\n\nApologies to future mes and yous\nBut I can't help feeling like we're through\nThe ripping of the tape hurts my ears\nIn my years, I have never seen anyone quit quite like you do\n\nTwin bruises on my shins",
+        "duration": 624,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 886496,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Lo-Fi",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -893,8 +893,24 @@
       "Car Seat Headrest"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4221d183898a2c206626b64",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 886496,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Lo-Fi",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "20U1UWeGcGq7JVW0tf8yfH",
     "release_date": "2018-02-16",
     "release_year": 2018,
