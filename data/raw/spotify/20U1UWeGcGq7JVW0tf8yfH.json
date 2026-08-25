@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/20U1UWeGcGq7JVW0tf8yfH"
+  },
+  "href": "https://api.spotify.com/v1/albums/20U1UWeGcGq7JVW0tf8yfH",
+  "id": "20U1UWeGcGq7JVW0tf8yfH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4221d183898a2c206626b64",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4221d183898a2c206626b64",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e4221d183898a2c206626b64",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Twin Fantasy",
+  "release_date": "2018-02-16",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:20U1UWeGcGq7JVW0tf8yfH",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+      "id": "5PbpKlxQE0Ktl5lcNABoFf",
+      "name": "Car Seat Headrest",
+      "type": "artist",
+      "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/20U1UWeGcGq7JVW0tf8yfH/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 172920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3z3BsIVe0RHu7m6J1KZxg1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3z3BsIVe0RHu7m6J1KZxg1",
+        "id": "3z3BsIVe0RHu7m6J1KZxg1",
+        "name": "My Boy (Twin Fantasy)",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3z3BsIVe0RHu7m6J1KZxg1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 798692,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XoW0fMU0j0QpTsBBW8Oq5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XoW0fMU0j0QpTsBBW8Oq5",
+        "id": "4XoW0fMU0j0QpTsBBW8Oq5",
+        "name": "Beach Life-In-Death",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4XoW0fMU0j0QpTsBBW8Oq5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 89134,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3haQelksGnGgSy0b1KUaVS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3haQelksGnGgSy0b1KUaVS",
+        "id": "3haQelksGnGgSy0b1KUaVS",
+        "name": "Stop Smoking (We Love You)",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3haQelksGnGgSy0b1KUaVS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 304427,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3naMieRVMmNg3sCRDLbtlZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3naMieRVMmNg3sCRDLbtlZ",
+        "id": "3naMieRVMmNg3sCRDLbtlZ",
+        "name": "Sober to Death",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3naMieRVMmNg3sCRDLbtlZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 325740,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4EQlTA60UgWuSrc1UfWUyQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4EQlTA60UgWuSrc1UfWUyQ",
+        "id": "4EQlTA60UgWuSrc1UfWUyQ",
+        "name": "Nervous Young Inhumans",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4EQlTA60UgWuSrc1UfWUyQ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 406934,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QbI1KSaDQhftv6aGHT5vn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QbI1KSaDQhftv6aGHT5vn",
+        "id": "6QbI1KSaDQhftv6aGHT5vn",
+        "name": "Bodys",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6QbI1KSaDQhftv6aGHT5vn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 339321,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6H5JsDwJDTmOBaq6E5T6SP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6H5JsDwJDTmOBaq6E5T6SP",
+        "id": "6H5JsDwJDTmOBaq6E5T6SP",
+        "name": "Cute Thing",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6H5JsDwJDTmOBaq6E5T6SP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 459347,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2doQ4LEtEDbL3cIPEeHP1E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2doQ4LEtEDbL3cIPEeHP1E",
+        "id": "2doQ4LEtEDbL3cIPEeHP1E",
+        "name": "High to Death",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2doQ4LEtEDbL3cIPEeHP1E",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 970464,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0E9jxLf6Jt9QasvRjTCpkv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0E9jxLf6Jt9QasvRjTCpkv",
+        "id": "0E9jxLf6Jt9QasvRjTCpkv",
+        "name": "Famous Prophets (Stars)",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0E9jxLf6Jt9QasvRjTCpkv",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+            },
+            "href": "https://api.spotify.com/v1/artists/5PbpKlxQE0Ktl5lcNABoFf",
+            "id": "5PbpKlxQE0Ktl5lcNABoFf",
+            "name": "Car Seat Headrest",
+            "type": "artist",
+            "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 414162,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mSM0E2FwQnjccuxZjwvg9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mSM0E2FwQnjccuxZjwvg9",
+        "id": "2mSM0E2FwQnjccuxZjwvg9",
+        "name": "Twin Fantasy (Those Boys)",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2mSM0E2FwQnjccuxZjwvg9",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2018 Matador Records",
+      "type": "C"
+    },
+    {
+      "text": "2018 Matador Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "744861109266"
+  },
+  "genres": []
+}
