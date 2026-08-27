@@ -12,6 +12,10 @@
   --page: #0d0d0f;
   --nav-h: 62px;
   --gutter: 20px;
+  /* Smallest a cover tile may get before the grid drops a column — the one
+     knob controlling grid density. 112px reproduces the previous hand-tuned
+     counts exactly: 2 columns at 390px, 3 at 420px, 3 at the 480px cap. */
+  --tile-min: 112px;
 
   /* Genre series colours for the chart. Eight slots, cycled — a ninth genre
      would reuse --g0, which is acceptable since the legend always carries
@@ -184,17 +188,21 @@ button {
   color: var(--ink-2);
 }
 
-/* ---------- Cover grid ---------- */
+/* ---------- Cover grid ----------
+   auto-fill rather than a fixed column count per breakpoint: the grid
+   resolves its own columns from the width it's given, so there is one rule
+   instead of a mobile rule plus a desktop override that can drift apart.
+   --tile-min is the only knob, and the desktop block re-points it.
+
+   112px is calibrated to reproduce the previous hand-tuned behaviour
+   exactly — 2 columns at 390px, 3 at 420px, 3 at the 480px cap — which is
+   what let the old `@media (min-width: 420px)` rule be deleted rather than
+   kept alongside this one. */
 .grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(var(--tile-min), 1fr));
   gap: 18px 14px;
   padding: 4px var(--gutter) 8px;
-}
-@media (min-width: 420px) {
-  .grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 .card {
   text-decoration: none;
@@ -513,6 +521,12 @@ a.card:active .cover-fb {
 }
 .aexp-in {
   display: grid;
+  /* Fixed 3, not auto-fill like .grid. Measured: this container is only
+     ~286px wide at 390px once the row's and its own padding are taken out,
+     so holding 3 columns needs a minmax floor of ~87px — and holding 3 on a
+     320px phone needs ~64px, small enough that the covers stop reading.
+     A width-independent 3 is what the phone layout has always done; the
+     desktop block widens it, since there the space genuinely exists. */
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
   background: #fafafa;
@@ -576,3 +590,78 @@ a.card:active .cover-fb {
     transition: none !important;
   }
 }
+
+/* ---------- Desktop ----------
+   The entire desktop difference, deliberately in ONE block so the whole
+   delta is readable at once. Scattering these among the rules above is how
+   the two layouts drift apart.
+
+   No component changes to support this — not one .tsx file. The React tree
+   is identical at every width, which is what makes divergence structurally
+   impossible rather than merely unlikely: there is one code path, so a
+   feature added anywhere appears at both widths for free. Nothing in JS
+   knows the viewport, and nothing should be given that knowledge later.
+
+   Most of what follows is re-pointing tokens rather than re-declaring
+   rules — .scroll's padding formula below is a byte-for-byte identical
+   string to the mobile one, it just resolves differently. */
+@media (min-width: 900px) {
+  :root {
+    /* The bottom bar's height becomes the side rail's width. Icon over
+       label, exactly as on mobile — .tab needs no override at all, so
+       there is no second version of a tab to keep in sync. */
+    --nav-w: 76px;
+    --gutter: 28px;
+    --tile-min: 150px;
+  }
+
+  /* Capped rather than uncapped: it keeps .app the single knob for overall
+     width, so no view needs a content wrapper — Screen can stay a bare
+     fragment. On an ultrawide the app letterboxes on --page, which is what
+     the design already does below 480px. */
+  .app {
+    max-width: 1180px;
+    flex-direction: row;
+  }
+
+  /* `position` MUST be unset, not just reordered: the mobile rule takes
+     .nav out of flow with position:absolute + inset, so flipping .app to
+     row alone would leave the rail floating over the content instead of
+     beside it. order:-1 puts it on the left while leaving DOM order — and
+     therefore tab order — untouched. */
+  .nav {
+    position: static;
+    order: -1;
+    width: var(--nav-w);
+    height: auto;
+    padding: 16px 0 0;
+    border-top: none;
+    border-right: 1px solid var(--line);
+    grid-template-columns: 1fr;
+    grid-auto-rows: max-content;
+    align-content: start;
+  }
+
+  /* Nothing to clear anymore — the nav is no longer overlapping the bottom. */
+  .scroll {
+    padding-bottom: 24px;
+  }
+
+  /* The one override here that isn't the nav or a token. .aexp-in can't use
+     .grid's auto-fill trick (see its own comment), so widening it takes a
+     real rule — three covers stretched across a desktop column read as a
+     different component than the tight strip the phone shows. */
+  .aexp-in {
+    grid-template-columns: repeat(auto-fill, minmax(var(--tile-min), 1fr));
+  }
+}
+
+/* Considered and deliberately rejected: a cap on .stats and .gsvg.
+   Both fill whatever width they are handed. The stat row (1.35fr 1fr 1fr)
+   just goes gappy, but .gsvg is the interesting one — it is a viewBox, so
+   it does not merely widen, it SCALES, rendering its 8.5px era labels and
+   9px bar counts at roughly double size across a desktop column.
+   `.stats, .gsvg { max-width: 440px }` fixes both in one rule and mobile
+   never sees it. Declined on a judgement call that the stretch is
+   acceptable, not because it doesn't happen — so if the chart ever looks
+   wrong on a wide screen, this is the known cause and the known fix. */
