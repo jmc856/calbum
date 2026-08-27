@@ -1,0 +1,65 @@
+name: deploy
+
+# Push-triggered, separate from sync.yml's own chained deploy job.
+#
+# sync.yml's bot commits all carry "[skip ci]", and GitHub honors that marker
+# for every workflow triggered by the push — including this one — so a sync
+# run's own data commits do NOT double-trigger a build here. This workflow
+# only ever fires on a human pushing to main directly (e.g. frontend code,
+# outside the sync pipeline), so those changes go live immediately instead of
+# waiting for the next scheduled sync tick.
+#
+# path filter: only web/ affects what actually gets built and deployed here;
+# a push touching only src/calbum or data/ has nothing new for `npm run
+# build` to pick up, and will still ship next time sync.yml's own deploy job
+# runs.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - ".github/workflows/deploy.yml"
+
+# Own concurrency group, distinct from sync's "sync" group, so a code push
+# doesn't queue behind (or block) the data pipeline. cancel-in-progress: true
+# here (unlike sync.yml) because a superseded build has nothing worth
+# finishing — the newer push is what should end up live.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install web dependencies
+        working-directory: web
+        run: npm ci
+
+      - name: Build site
+        working-directory: web
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
