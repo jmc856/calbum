@@ -2,9 +2,11 @@ name: sync
 
 # schedule + workflow_dispatch only — never a PR-shaped trigger. Good hygiene
 # for any repo holding GOOGLE_SA_JSON in secrets, private or not (see PLAN.md
-# "Key decisions"). Every 6 hours, not hourly, to keep headroom against the
-# private repo's 2,000 Actions-minutes/month budget. workflow_dispatch lets
-# you trigger a run on demand instead of waiting for the next scheduled tick,
+# "Key decisions"). Every 6 hours, not hourly: the repo is public, so Actions
+# minutes are unmetered and this is purely a freshness-vs-noise call, not the
+# budget constraint it was while the repo was private. A playlist edit shows
+# up within 6h at worst, and workflow_dispatch covers "I want it now": it
+# triggers a run on demand instead of waiting for the next scheduled tick,
 # with a dropdown to pick which step(s) to run — a scheduled run always runs
 # everything regardless of this input (it's only read for workflow_dispatch).
 # A direct code push doesn't wait on this schedule at all — see deploy.yml.

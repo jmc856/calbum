@@ -1,18 +1,17 @@
 name: deploy
 
-# Push-triggered, separate from sync.yml's own chained deploy job.
+# Push-triggered, so frontend code goes live immediately instead of waiting
+# for the next scheduled sync tick.
 #
-# sync.yml's bot commits all carry "[skip ci]", and GitHub honors that marker
-# for every workflow triggered by the push — including this one — so a sync
-# run's own data commits do NOT double-trigger a build here. This workflow
-# only ever fires on a human pushing to main directly (e.g. frontend code,
-# outside the sync pipeline), so those changes go live immediately instead of
-# waiting for the next scheduled sync tick.
+# The load-bearing detail: sync.yml's three commit steps ALL carry "[skip ci]"
+# (sync.yml:93,117,177), and GitHub honors that marker for every workflow a
+# push triggers — including this one. That is the only reason sync's own data
+# commits don't double-trigger a build here and race sync's deploy job into
+# the same Pages environment. Drop "[skip ci]" from any of those three and
+# this workflow starts firing on them.
 #
-# path filter: only web/ affects what actually gets built and deployed here;
-# a push touching only src/calbum or data/ has nothing new for `npm run
-# build` to pick up, and will still ship next time sync.yml's own deploy job
-# runs.
+# NOTE: this job duplicates sync.yml's deploy job almost exactly — see the
+# "Deployment" note in PLAN.md for why it wasn't extracted.
 on:
   push:
     branches: [main]

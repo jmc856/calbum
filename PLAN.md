@@ -45,7 +45,7 @@ Everything else is generated and can be deleted and rebuilt.
   Pages — audited safe first: `.env` was never tracked, no hardcoded secrets/IDs,
   everything env-driven, and Actions secrets live in GitHub's encrypted store, not
   repo contents, so visibility never protected them anyway). Public also means
-  unlimited Actions minutes, so the 4-hour cron cadence (not hourly) is a
+  unlimited Actions minutes, so the 6-hour cron cadence (not hourly) is a
   reasonable-load choice, not a budget constraint — see Stage 0. `workflow_dispatch`
   is also enabled, so a run can be triggered on demand instead of waiting for the
   next scheduled tick. Stage 4 deploys to **GitHub Pages** (a project page at
@@ -264,9 +264,10 @@ isolation.
      record. This now means "you changed your mind about a favorite" — more consequential
      than the old inbox-rejection case, which no longer exists.
 6. Implement the deterministic writer (`src/calbum/writer.py`).
-7. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */4 * * *` — every 4 hours,
-   not hourly, to keep comfortable headroom against the private repo's 2,000
-   Actions-minutes/month budget) and `workflow_dispatch` **only** (never a PR-shaped
+7. `.github/workflows/sync.yml`, triggered by `schedule` (`0 */6 * * *` — every 6 hours,
+   not hourly; this began as headroom against the private repo's 2,000
+   Actions-minutes/month budget, but the repo is public now and Actions minutes are
+   unmetered, so it is purely a freshness-vs-noise call) and `workflow_dispatch` **only** (never a PR-shaped
    trigger — good hygiene for any repo holding `GOOGLE_SA_JSON` in secrets, private or
    not; `workflow_dispatch` also means a run can be triggered on demand rather than
    waiting for the next scheduled tick). Commit only when the diff is non-empty. Note:
@@ -275,8 +276,8 @@ isolation.
    quiet stretch.
 
 **Known limitation, accepted:** adding an album to `_selected` and removing it again within
-a single ~4h poll window means it's never recorded. This is a documented property, not a
-bug — the interval is set for Actions-minutes headroom, not to catch every transient edit.
+a single ~6h poll window means it's never recorded. This is a documented property, not a
+bug — the interval is a freshness-vs-noise choice, not an attempt to catch every transient edit.
 
 **Done when:** adding a whole album to `_selected` on your phone produces a commit within
 a couple of hours.
@@ -446,10 +447,34 @@ room.
    sidesteps it. The deploy job also checks out `ref: github.ref_name`
    rather than the triggering SHA, or it would build the pre-sync commit.
 
+   **Known duplication, deliberately not extracted.**
+   `.github/workflows/deploy.yml` (push-triggered) and sync.yml's chained
+   `deploy` job are byte-identical apart from checkout `ref` and the
+   concurrency group. That means nine independently-pinned values live in
+   two files: five action pins (checkout@v4, setup-node@v4,
+   configure-pages@v5, upload-pages-artifact@v3, deploy-pages@v4),
+   `node-version: "22"`, the npm cache path, the `web/dist` artifact path,
+   and the `npm ci`/`npm run build` pair. Bump one and the other keeps
+   deploying on the old one; the drift only surfaces at deploy time, on
+   whichever path wasn't edited.
+
+   The fix is a `workflow_call` reusable workflow with a `ref` input, called
+   from both. It was skipped because it is not the mechanical refactor it
+   looks like — three things change behavior on a pipeline that currently
+   works: `concurrency` travels with the **callee**, so sync's deploy would
+   silently move from group `sync` (`cancel-in-progress: false`) into
+   `pages` (`cancel-in-progress: true`); the caller's `permissions` act as a
+   **ceiling**, so sync.yml must still grant `pages: write` + `id-token:
+   write`; and secrets don't inherit without `secrets: inherit`. On top of
+   that, a workflow refactor's only real test is running it on main, so
+   verification and the risky action are the same act. Worth doing on its
+   own, with a run to watch — not folded into an unrelated change.
+
    Going public also removes two constraints this plan was written under:
    Pages is free (the earlier "needs a paid plan" note was purely about the
-   repo being private), and Actions minutes become unlimited, so the 4-hour
-   cadence is no longer budget-bound.
+   repo being private), and Actions minutes become unlimited, so the sync
+   cadence is no longer budget-bound — it is now a freshness call, and was
+   subsequently relaxed from 4h to 6h on that basis.
 
    No custom domain: the site serves as a GitHub Pages **project page**,
    `jmc856.github.io/calbum/`. `web/vite.config.ts` sets `base: "/calbum/"`

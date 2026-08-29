@@ -14,7 +14,9 @@
   --gutter: 20px;
   /* Smallest a cover tile may get before the grid drops a column — the one
      knob controlling grid density. 112px reproduces the previous hand-tuned
-     counts exactly: 2 columns at 390px, 3 at 420px, 3 at the 480px cap. */
+     counts exactly (2 columns at 390px, 3 at 420px, 3 at the 480px cap),
+     which is what let the old `@media (min-width: 420px)` rule be deleted
+     rather than kept alongside .grid's auto-fill. Retune with care. */
   --tile-min: 112px;
 
   /* Genre series colours for the chart. Eight slots, cycled — a ninth genre
@@ -192,12 +194,7 @@ button {
    auto-fill rather than a fixed column count per breakpoint: the grid
    resolves its own columns from the width it's given, so there is one rule
    instead of a mobile rule plus a desktop override that can drift apart.
-   --tile-min is the only knob, and the desktop block re-points it.
-
-   112px is calibrated to reproduce the previous hand-tuned behaviour
-   exactly — 2 columns at 390px, 3 at 420px, 3 at the 480px cap — which is
-   what let the old `@media (min-width: 420px)` rule be deleted rather than
-   kept alongside this one. */
+   --tile-min is the only knob, and the desktop block re-points it. */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(var(--tile-min), 1fr));
@@ -600,25 +597,17 @@ a.card:active .cover-fb {
    is identical at every width, which is what makes divergence structurally
    impossible rather than merely unlikely: there is one code path, so a
    feature added anywhere appears at both widths for free. Nothing in JS
-   knows the viewport, and nothing should be given that knowledge later.
-
-   Most of what follows is re-pointing tokens rather than re-declaring
-   rules — .scroll's padding formula below is a byte-for-byte identical
-   string to the mobile one, it just resolves differently. */
+   knows the viewport, and nothing should be given that knowledge later. */
 @media (min-width: 900px) {
   :root {
-    /* The bottom bar's height becomes the side rail's width. Icon over
-       label, exactly as on mobile — .tab needs no override at all, so
-       there is no second version of a tab to keep in sync. */
-    --nav-w: 76px;
     --gutter: 28px;
     --tile-min: 150px;
   }
 
-  /* Capped rather than uncapped: it keeps .app the single knob for overall
-     width, so no view needs a content wrapper — Screen can stay a bare
-     fragment. On an ultrawide the app letterboxes on --page, which is what
-     the design already does below 480px. */
+  /* Capped, not uncapped, so .app stays the single knob for overall width
+     and no view needs a content wrapper — Screen can stay a bare fragment.
+     Beyond 1180px the app letterboxes on --page, as it already does below
+     480px. */
   .app {
     max-width: 1180px;
     flex-direction: row;
@@ -632,7 +621,9 @@ a.card:active .cover-fb {
   .nav {
     position: static;
     order: -1;
-    width: var(--nav-w);
+    /* The bottom bar's height becomes the side rail's width; .tab itself
+       needs no override, so there is no second version of a tab. */
+    width: 76px;
     height: auto;
     padding: 16px 0 0;
     border-top: none;
@@ -647,21 +638,15 @@ a.card:active .cover-fb {
     padding-bottom: 24px;
   }
 
-  /* The one override here that isn't the nav or a token. .aexp-in can't use
-     .grid's auto-fill trick (see its own comment), so widening it takes a
-     real rule — three covers stretched across a desktop column read as a
-     different component than the tight strip the phone shows. */
+  /* .aexp-in can't use .grid's auto-fill at phone widths (see its own
+     comment), so widening it here takes a real rule rather than a token. */
   .aexp-in {
     grid-template-columns: repeat(auto-fill, minmax(var(--tile-min), 1fr));
   }
 }
 
-/* Considered and deliberately rejected: a cap on .stats and .gsvg.
-   Both fill whatever width they are handed. The stat row (1.35fr 1fr 1fr)
-   just goes gappy, but .gsvg is the interesting one — it is a viewBox, so
-   it does not merely widen, it SCALES, rendering its 8.5px era labels and
-   9px bar counts at roughly double size across a desktop column.
-   `.stats, .gsvg { max-width: 440px }` fixes both in one rule and mobile
-   never sees it. Declined on a judgement call that the stretch is
-   acceptable, not because it doesn't happen — so if the chart ever looks
-   wrong on a wide screen, this is the known cause and the known fix. */
+/* Known and deliberately left alone: .stats and .gsvg both fill whatever
+   width they are handed. .gsvg is a viewBox, so it doesn't merely widen, it
+   SCALES — its 8.5px era labels and 9px bar counts render at roughly double
+   size across a desktop column. If that ever looks wrong, the fix is
+   `.stats, .gsvg { max-width: 440px }` inside the block above. */
