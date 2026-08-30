@@ -1,0 +1,1509 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886446074757",
+    "artist": "A Tribe Called Quest",
+    "title": "We got it from Here... Thank You 4 Your service",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 34339903,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1174628861"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/34339903-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/nf2yB4pgq0rOspLR1NZhKa4mKUcsdU-Y6Yp_R16TFVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzM5/OTAzLTE3NTA1OTc2/NjMtNjgwNS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/qJPwHO7hH_lvqxLBX_X8csPgNqP2rEmSwpTFN5vQzaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzM5/OTAzLTE3NTA1OTc2/NjMtNjgwNS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34339903",
+      "community": {
+        "want": 19,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "256 kbps, Clean",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9490687,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Special Edition"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Nashville Record Productions"
+      ],
+      "type": "release",
+      "barcode": [
+        "88985377871-A WG/NRP",
+        "88985377871-B WG/NRP",
+        "88985377871-C WG/NRP",
+        "88985377871-D WG/NRP",
+        "889853952410"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9490687-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985395241-S1",
+      "thumb": "https://i.discogs.com/UUx85teB7IukleCG1YqXsXz86x_sjgwNpCKJU8ibMQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA2/ODctMTQ4MTQ4Mzg1/NC05NTMzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dBa-7e8U8ZjBrb9G3GevejIt3lAjutu_J-EcTIosqYE/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTA2/ODctMTQ4MTQ4Mzg1/NC05NTMzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9490687",
+      "community": {
+        "want": 1374,
+        "have": 341
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Special Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9577362,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77874 4",
+        "889853778744"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9577362-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377874",
+      "thumb": "https://i.discogs.com/FTEm46ZpjMePRASItUWgSsCOHaZj6f4UkxnksCAB-KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzcz/NjItMTQ5NDczNTQy/OC02NzkxLnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/vVpHWOWJSO_HUCQIOUOA1V-NB6I9h4aQ8pWxMYWW0R8/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzcz/NjItMTQ5NDczNTQy/OC02NzkxLnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9577362",
+      "community": {
+        "want": 386,
+        "have": 103
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Gold",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9338169,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Sony Music Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1173106678"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9338169-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ELIwpDr5YBMpAfAPcRZF8BQreelJcPfqdS90spCdC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vW1lbPxXTFb_z0a8kJ3RTozDc0xk2wiH44NZ3aY7RZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9338169",
+      "community": {
+        "want": 290,
+        "have": 160
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "256 kbps, Explicit",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9373120,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "The AbLab",
+        "The AbLab",
+        "Fantasy Studios",
+        "Vlado Meller Mastering",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77872 0",
+        "889853778720",
+        "0889853778720",
+        "USSM11609279",
+        "USSM11609279",
+        "USSM11609281",
+        "USSM11609282",
+        "USSM11609283",
+        "USSM11609284",
+        "USSM11609285",
+        "USSM11609285",
+        "USSM11609287",
+        "USSM11609288",
+        "USSM11609452",
+        "USSM11609452",
+        "USSM11609455",
+        "USSM11609456",
+        "USSM11609456",
+        "USSM11609457",
+        "DIDX-1083612 1",
+        "IFPI L329",
+        "IFPI 50BK",
+        "DIDX-1083612 1",
+        "IFPI L329",
+        "IFPI 50BF",
+        "DIDX-1083612 1 A07",
+        "IFPI L329",
+        "IFPI 50BU",
+        "DIDX-1083612 1 A04",
+        "IFPI L329",
+        "IFPI 50BE",
+        "DIDX-1083612 1 A09",
+        "IFPI L329",
+        "DIDX-1083612 1 A05",
+        "IFPI L329",
+        "IFPI 50BV",
+        "DIDX-1083612 1 A08",
+        "IFPI L329",
+        "IFPI 50BN"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9373120-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/OL-Xqw07Q8dASpFu5LCfo_IGnag4_e6RjZ-ORmKROoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzMx/MjAtMTQ5NDY0MjY3/NC01MjE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/7zi8X-5v67OyY4BHGFC760UJ8aM7Bb3wko3ZzCezKxQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzMx/MjAtMTQ5NDY0MjY3/NC01MjE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9373120",
+      "community": {
+        "want": 594,
+        "have": 2022
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34016193,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "South Africa",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music Entertainment Africa (Pty) Ltd",
+        "Sony Music Entertainment Africa (Pty) Ltd"
+      ],
+      "type": "release",
+      "barcode": [
+        "6007124823335",
+        "88985377872 01",
+        "IFPI LY95"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/34016193-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "CDEPC7182",
+      "thumb": "https://i.discogs.com/k61-OIGeVOObb906wbVdPay0h79a8QH9WgCj83yigyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDE2/MTkzLTE3NzA4MjA0/NTgtODExOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cysgm9Nd1JQ4HUQp_5nTQ75EqEekmbbnF8JSgYcM90U/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDE2/MTkzLTE3NzA4MjA0/NTgtODExOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34016193",
+      "community": {
+        "want": 46,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9627224,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "The AbLab",
+        "The AbLab",
+        "Fantasy Studios",
+        "Vlado Meller Mastering",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 92962 7",
+        "889853929627",
+        "IFPI L328",
+        "DIDX-1083583 1 A02",
+        "DIDX-1083583 1 A01",
+        "IFPI 50BJ"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9627224-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985392962",
+      "thumb": "https://i.discogs.com/fEh-U8HZLr_V7ximFnmIAWMDfODCaObdSUs93tBpEYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjcy/MjQtMTQ4Mzg2MTAz/NS02MzE3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/zh61vrazjAjgOTaO1PDWZcrowg7tck2TnRtqCFTYI0A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjcy/MjQtMTQ4Mzg2MTAz/NS02MzE3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9627224",
+      "community": {
+        "want": 227,
+        "have": 114
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Clean",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16304173,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "AIFF",
+        "Album"
+      ],
+      "label": [
+        "Epic"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/16304173-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/cLC3kIawMUW0NIxzC5N5MRpczzsQkwdoSCQOwpk1PjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/MTczLTE2MDY5MjU0/OTctNzc2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9Kni4rzaVhUYPfcS_tSOdFPVtTd6ADAx1D88vQ0VfR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/MTczLTE2MDY5MjU0/OTctNzc2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16304173",
+      "community": {
+        "want": 70,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "24-bit 88.2 kHz",
+          "descriptions": [
+            "AIFF",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20564146,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Japan",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music Labels",
+        "Sony Music Labels Inc.",
+        "Epic Records",
+        "Epic Records",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Jazz Merchant Music",
+        "Universal Music - Z Tunes LLC",
+        "Alaric Publishing House",
+        "Essex Music International, Inc.",
+        "Songs By Cons Publishing",
+        "Winston Jones Publishing",
+        "T'Ziah's Music",
+        "Songs Of Kobalt Music Publishing",
+        "Peppermint Stripe Music",
+        "Kassner Associated Publishers Ltd.",
+        "Downtown Music Publishing",
+        "Music Sales Corp.",
+        "Spoon Music",
+        "BMG Monarch",
+        "Gnat Booty Music",
+        "BMG Chrysalis Music",
+        "BMG Blue",
+        "BMG Rights Management (US) LLC",
+        "Pen Skills Music",
+        "Songs Of Windswept Pacific",
+        "Watch And Learn Publishing",
+        "WB Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music",
+        "The AbLab",
+        "Fantasy Studios",
+        "The AbLab",
+        "Vlado Meller Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 547366 280623",
+        "PLDA-3833-1 1",
+        "IFPI L275",
+        "IFPI 455T",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/20564146-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "SICP 5139",
+      "thumb": "https://i.discogs.com/jdJ2r0_DqzNSmi5JzroiunUPsL73X1xzXEDeVzNbqhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY0/MTQ2LTE2MzQwNDc2/ODQtNzE4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9mkyRaAv28nwG1v8Spx-tPQB5Ic6yzoYF78_btbSSog/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY0/MTQ2LTE2MzQwNDc2/ODQtNzE4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20564146",
+      "community": {
+        "want": 92,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19943614,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment International Services GmbH",
+        "Ab Lab Studios",
+        "Fantasy Studios",
+        "Fantasy Studios",
+        "Ab Lab Studios",
+        "Vlado Meller Mastering",
+        "Sony Music Entertainment",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Jazz Merchant Music",
+        "Universal Music - Z Tunes LLC",
+        "Alaric Publishing House",
+        "Essex Music International, Inc.",
+        "Songs By Cons Publishing",
+        "Winston Jones Publishing",
+        "T'Ziah's Music",
+        "Songs Of Kobalt Music Publishing",
+        "Peppermint Stripe Music",
+        "Kassner Associated Publishers Ltd.",
+        "Downtown Music Publishing",
+        "Music Sales Corp.",
+        "Spoon Music",
+        "BMG Monarch",
+        "Gnat Booty Music",
+        "BMG Chrysalis Music",
+        "BMG Blue",
+        "BMG Rights Management (US) LLC",
+        "Pen Skills Music",
+        "Songs Of Windswept Pacific",
+        "Watch And Learn Publishing",
+        "Wb Music Corp.",
+        "Hard Workin' Black Folks Publishing",
+        "Top Dawg Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77872 0",
+        "889853778720",
+        "LC 00199",
+        "BIEM / GEMA",
+        "ASCAP / PRS / BMI",
+        "[Sony Music logo] Sony Music 57746469/88985377872 21",
+        "IFPI LB 46"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/19943614-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/UJ_xmYyNvn7jPFIBkKNiIP7Qf0gbIGsmlndPHJWpgbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQz/NjE0LTE2Mjk1NjUz/NjUtMzcwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yoOw1Cero4blTkiDu8l5eje0L9y8GghrSnPM0As5D7s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQz/NjE0LTE2Mjk1NjUz/NjUtMzcwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/19943614",
+      "community": {
+        "want": 104,
+        "have": 69
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9442182,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment Australia Pty Ltd.",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0889853778720",
+        "0 889853 778720",
+        "A0101086804-0101   01   Sony DADC Australia",
+        "IFPI L681",
+        "IFPI 6550"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9442182-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/FQLIC0Gmg34HgnuyEw2E5dUQEk5JOtjPvluYW879YbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDIx/ODItMTU4ODAxMzcw/NC04OTA0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/G90eK_hOR-aERB0BML88_8LBTHh5tknu3AFzCsH7_6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDIx/ODItMTU4ODAxMzcw/NC04OTA0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9442182",
+      "community": {
+        "want": 251,
+        "have": 307
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9397424,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment International Services GmbH",
+        "Ab Lab Studios",
+        "Fantasy Studios",
+        "Fantasy Studios",
+        "Ab Lab Studios",
+        "Vlado Meller Mastering",
+        "Sony Music Entertainment",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Jazz Merchant Music",
+        "Universal Music - Z Tunes LLC",
+        "Alaric Publishing House",
+        "Essex Music International, Inc.",
+        "Songs By Cons Publishing",
+        "Winston Jones Publishing",
+        "T'Ziah's Music",
+        "Songs Of Kobalt Music Publishing",
+        "Peppermint Stripe Music",
+        "Kassner Associated Publishers Ltd.",
+        "Downtown Music Publishing",
+        "Music Sales Corp.",
+        "Spoon Music",
+        "BMG Monarch",
+        "Gnat Booty Music",
+        "BMG Chrysalis Music",
+        "BMG Blue",
+        "BMG Rights Management (US) LLC",
+        "Pen Skills Music",
+        "Songs Of Windswept Pacific",
+        "Watch And Learn Publishing",
+        "Wb Music Corp.",
+        "Hard Workin' Black Folks Publishing",
+        "Top Dawg Music",
+        "Sony DADC",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77872 0",
+        "889853778720",
+        "LC 00199",
+        "BIEM / GEMA",
+        "ASCAP / PRS / BMI",
+        "Sony DADC A0102763087-0101 15 A01",
+        "IFPI L555",
+        "IFPI 944Q",
+        "Sony DADC A0102763087-0101 15 A00",
+        "IFPI L555",
+        "IFPI 944P",
+        "[Sony DADC logotype] A0102768918-0101 13 A00",
+        "IFPI L553",
+        "IFPI 946R",
+        "Sony DADC A0102763087-0101 15 A02",
+        "IFPI L555",
+        "IFPI 945Q",
+        "Sony DADC A0102763087-0101 15 A00",
+        "IFPI L555",
+        "IFPI 947T"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9397424-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/7UeUwirAdqYJ9Yvxr9_KIeC2EaJFsTEuwRkvOGC6PgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTc0/MjQtMTQ4MTg1ODMw/My0zNTU5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/cChJijNidN-7keCFp24cw4bxdvsY_yCGBjRloFpxOC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTc0/MjQtMTQ4MTg1ODMw/My0zNTU5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9397424",
+      "community": {
+        "want": 343,
+        "have": 1228
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11801420,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Canada",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "The AbLab",
+        "The AbLab",
+        "Fantasy Studios",
+        "Vlado Meller Mastering",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Epic Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77872 0",
+        "889853778720",
+        "0889853778720",
+        "USSM11609279",
+        "USSM11609279",
+        "USSM11609281",
+        "USSM11609282",
+        "USSM11609283",
+        "USSM11609284",
+        "USSM11609285",
+        "USSM11609285",
+        "USSM11609287",
+        "USSM11609288",
+        "USSM11609452",
+        "USSM11609452",
+        "USSM11609455",
+        "USSM11609456",
+        "USSM11609456",
+        "USSM11609457"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/11801420-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/57c8rGZG7nLwPKY-ILh4iM1Skd9yISaibNcl7m9E6K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODAx/NDIwLTE1ODgwMTM3/MTMtNjc5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7Yr1iP97XnfSBO29jgSZzldEMAvWaUH3isYORR1Qtag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODAx/NDIwLTE1ODgwMTM3/MTMtNjc5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11801420",
+      "community": {
+        "want": 223,
+        "have": 120
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10932174,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "889853778744"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/10932174-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "889853778744",
+      "thumb": "https://i.discogs.com/pK6POvbbaKNgAb2KcSVCGkgYfdG6VK5T9AgbUTCEuCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/MTc0LTE1ODEyMjAy/NjYtMTIxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/t_VN1bI4KdSHLxEjrlkFk06qe7HVckchqwy_zh4gtcU/rs:fit/g:sm/q:90/h:960/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/MTc0LTE1ODEyMjAy/NjYtMTIxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10932174",
+      "community": {
+        "want": 311,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Red",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9627336,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Japan",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Sony Music Labels",
+        "Sony Music Labels Inc.",
+        "Epic Records",
+        "Epic Records",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Jazz Merchant Music",
+        "Universal Music - Z Tunes LLC",
+        "Alaric Publishing House",
+        "Essex Music International, Inc.",
+        "Songs By Cons Publishing",
+        "Winston Jones Publishing",
+        "T'Ziah's Music",
+        "Songs Of Kobalt Music Publishing",
+        "Peppermint Stripe Music",
+        "Kassner Associated Publishers Ltd.",
+        "Downtown Music Publishing",
+        "Music Sales Corp.",
+        "Spoon Music",
+        "BMG Monarch",
+        "Gnat Booty Music",
+        "BMG Chrysalis Music",
+        "BMG Blue",
+        "BMG Rights Management (US) LLC",
+        "Pen Skills Music",
+        "Songs Of Windswept Pacific",
+        "Watch And Learn Publishing",
+        "WB Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music",
+        "The AbLab",
+        "Fantasy Studios",
+        "The AbLab",
+        "Vlado Meller Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 547366 280623",
+        "PLDA-3833-1 1",
+        "IFPI L275",
+        "IFPI 455T",
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9627336-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "SICP 5139",
+      "thumb": "https://i.discogs.com/JOb8QbLXnR8cl0wb5OCeNco8PFnYAEap3LYtlI-ikBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjcz/MzYtMTQ5ODk3OTY3/MS0yNTQzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/cacE12pIwfnyZmBtN1IAbQFIO-9ZmI1JJGTyI2GBD4A/rs:fit/g:sm/q:90/h:444/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjcz/MzYtMTQ5ODk3OTY3/MS0yNTQzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9627336",
+      "community": {
+        "want": 241,
+        "have": 61
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16823844,
+      "title": "A Tribe Called Quest - We Got It From Here... Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "The AbLab",
+        "The AbLab",
+        "Fantasy Studios",
+        "Vlado Meller Mastering",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Sony DADC, Southwater"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77872 0",
+        "0889853778720",
+        "Sony DADC  A0102808826-0101 02",
+        "IFPI LY33"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/16823844-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377872",
+      "thumb": "https://i.discogs.com/I0ngqEscPEhj3Yb11JrKs8MCc7bCK9MNKO9pFKfuhkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODIz/ODQ0LTE2MTAwNDc0/NjctMjc3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/1jNL1Bqj6B5LFFPWSUXhFlXe1hWDaGxzLzxdWjMpAsc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODIz/ODQ0LTE2MTAwNDc0/NjctMjc3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16823844",
+      "community": {
+        "want": 152,
+        "have": 610
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9437902,
+      "title": "A Tribe Called Quest - We Got It From Here\u2026. Thank You 4 Your Service",
+      "master_id": 1092073,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "The AbLab",
+        "The AbLab",
+        "Fantasy Studios",
+        "The Mastering Palace",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Nashville Record Productions",
+        "United Record Pressing",
+        "U Betta Like My Muzik",
+        "Songs Of SMP",
+        "Jazz Merchant Music",
+        "Universal Music - Z Tunes LLC",
+        "Alaric Publishing House",
+        "Essex Music International, Inc.",
+        "Songs By Cons Publishing",
+        "Winston Jones Publishing",
+        "T'Ziah's Music",
+        "Songs Of Kobalt Music Publishing",
+        "Peppermint Stripe Music",
+        "Kassner Associated Publishers Ltd.",
+        "Downtown Music Publishing",
+        "Music Sales Corp.",
+        "Spoon Music",
+        "BMG Monarch",
+        "Gnat Booty Music",
+        "BMG Chrysalis Music",
+        "Hirano Masayuki",
+        "Louis Cato",
+        "BMG Blue",
+        "BMG Rights Management (US) LLC",
+        "Pen Skills Music",
+        "Songs Of Windswept Pacific",
+        "Watch And Learn Publishing",
+        "Wb Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89853 77871 3",
+        "889853778713",
+        "88985377871-A",
+        "88985377871-B",
+        "88985377871-C",
+        "88985377871-D",
+        "88985 377 871-A3 WG/NRP",
+        "88985 377 871-B II WG/NRP \u24e4",
+        "88985 377 871-C WG/NRP \u24e4",
+        "88985 377 871-D3 WG/NRP",
+        "88985 377 871-A WG/NRP \u24e4",
+        "88985 377 871-B3 WG/NRP",
+        "88985 377 871-C II WG/NRP \u24e4",
+        "88985 377 871-D IV WG/NRP \u24e4",
+        "88985 377 871-A  III   WG/NRP  \u24e4",
+        "88985 377 871-B3  III  WG/NRP \u24e4",
+        "88985 377 871-C  II  WG/NRP \u24e4",
+        "88985 377 871-D  WG/NRP \u24e4",
+        "88985 377 871-A WG/NRP \u24e4",
+        "88985 377 871-B 2 WG/NRP \u24e4",
+        "88985 377 871-C WG/NRP \u24e4",
+        "88985 377 871-D  III  WG/NRP \u24e4",
+        "88985 377 871-A WG/NRP \u24e4",
+        "88985 377 871-B4 WG/NRP \u24e4",
+        "88985 377 871-C WG/NRP \u24e4",
+        "88985 377 871-D WG/NRP \u24e4",
+        "88985377871-S1",
+        "88985377871-S1",
+        "88985377871-S2",
+        "88985377871-I1",
+        "ASCAP",
+        "BMI",
+        "PRS",
+        "GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1092073",
+      "uri": "/release/9437902-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+      "catno": "88985377871",
+      "thumb": "https://i.discogs.com/k_rpftchLuzLx3AaEU4d0Copsb6PQjJ1ENfElVWvO0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/ArQVTaQOvCMKpypy1ioJybVGRbWtmBVlwdANh7iAMMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9437902",
+      "community": {
+        "want": 4229,
+        "have": 16042
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1092073,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Conscious"
+    ],
+    "main_release": 9338169,
+    "most_recent_release": 31889119,
+    "resource_url": "https://api.discogs.com/masters/1092073",
+    "uri": "https://www.discogs.com/master/1092073-A-Tribe-Called-Quest-We-Got-It-From-Here-Thank-You-4-Your-Service",
+    "versions_url": "https://api.discogs.com/masters/1092073/versions",
+    "main_release_url": "https://api.discogs.com/releases/9338169",
+    "most_recent_release_url": "https://api.discogs.com/releases/31889119",
+    "num_for_sale": 364,
+    "lowest_price": 0.1,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/vW1lbPxXTFb_z0a8kJ3RTozDc0xk2wiH44NZ3aY7RZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/vW1lbPxXTFb_z0a8kJ3RTozDc0xk2wiH44NZ3aY7RZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ELIwpDr5YBMpAfAPcRZF8BQreelJcPfqdS90spCdC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lmDApTduHHFoejRNbcbE-3pml_332jiWSRAJOaIF8YE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTc1MDU5NzUy/MC0yNTg5LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/lmDApTduHHFoejRNbcbE-3pml_332jiWSRAJOaIF8YE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTc1MDU5NzUy/MC0yNTg5LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/JfEwvW6Yb2tVbOtlp1GjfbSfL9jWPyaMmb0iiH2KXVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTc1MDU5NzUy/MC0yNTg5LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1-1",
+        "type_": "track",
+        "title": "The Space Program",
+        "duration": "5:41"
+      },
+      {
+        "position": "1-2",
+        "type_": "track",
+        "title": "We The People...",
+        "duration": "2:52"
+      },
+      {
+        "position": "1-3",
+        "type_": "track",
+        "title": "Whateva Will Be",
+        "duration": "2:52"
+      },
+      {
+        "position": "1-4",
+        "type_": "track",
+        "title": "Solid Wall Of Sound",
+        "duration": "3:43"
+      },
+      {
+        "position": "1-5",
+        "type_": "track",
+        "title": "Dis Generation",
+        "duration": "3:33"
+      },
+      {
+        "position": "1-6",
+        "type_": "track",
+        "title": "Kids...",
+        "duration": "3:48"
+      },
+      {
+        "position": "1-7",
+        "type_": "track",
+        "title": "Melatonin",
+        "duration": "4:44"
+      },
+      {
+        "position": "1-8",
+        "type_": "track",
+        "title": "Enough!!",
+        "duration": "3:20"
+      },
+      {
+        "position": "2-1",
+        "type_": "track",
+        "title": "Mobius",
+        "duration": "2:51"
+      },
+      {
+        "position": "2-2",
+        "type_": "track",
+        "title": "Black Spasmodic",
+        "duration": "3:03"
+      },
+      {
+        "position": "2-3",
+        "type_": "track",
+        "title": "The Killing Season",
+        "duration": "2:43"
+      },
+      {
+        "position": "2-4",
+        "type_": "track",
+        "title": "Lost Somebody",
+        "duration": "4:19"
+      },
+      {
+        "position": "2-5",
+        "type_": "track",
+        "title": "Movin Backwards",
+        "duration": "4:41"
+      },
+      {
+        "position": "2-6",
+        "type_": "track",
+        "title": "Conrad Tokyo",
+        "duration": "3:31"
+      },
+      {
+        "position": "2-7",
+        "type_": "track",
+        "title": "Ego",
+        "duration": "3:17"
+      },
+      {
+        "position": "2-8",
+        "type_": "track",
+        "title": "The Donald",
+        "duration": "5:22"
+      }
+    ],
+    "artists": [
+      {
+        "name": "A Tribe Called Quest",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3268,
+        "resource_url": "https://api.discogs.com/artists/3268",
+        "thumbnail_url": "https://i.discogs.com/0aZ2ZFRwf_b2PHr1bXlQ6fMi0BartrUL2Is0853W8gk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNjgt/MTY2Mzg3MTI0OS0z/MzY1LmpwZWc.jpeg"
+      }
+    ],
+    "title": "We Got It From Here... Thank You 4 Your Service",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=qTrqmNieVKI",
+        "title": "A Tribe Called Quest - The Space Program (Official Video)",
+        "description": "Official Video for \u201dThe Space Program\u201d by A Tribe Called Quest\nListen to A Tribe Called Quest: https://ATCQ.lnk.to/listenYD\nWatch more videos by A Tribe Called Quest: https://ATCQ.lnk.to/listenYD/youtube\n\nSubscribe to the official A Tribe Called Quest You",
+        "duration": 490,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vO2Su3erRIA",
+        "title": "A Tribe Called Quest - We The People.... (Official Video)",
+        "description": "Official Video for \u201dWe The People....\u201d by A Tribe Called Quest\nListen to A Tribe Called Quest: https://ATCQ.lnk.to/listenYD\nWatch more videos by A Tribe Called Quest: https://ATCQ.lnk.to/listenYD/youtube\n\nSubscribe to the official A Tribe Called Quest You",
+        "duration": 195,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7HzJv7DwenE",
+        "title": "Whateva Will Be",
+        "description": "Provided to YouTube by Epic\n\nWhateva Will Be \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nDrums, Vocal, Mix",
+        "duration": 173,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=L400S6Flz2I",
+        "title": "Solid Wall of Sound",
+        "description": "Provided to YouTube by Epic\n\nSolid Wall of Sound \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Drums, ",
+        "duration": 224,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kQaSDJYwdh4",
+        "title": "A Tribe Called Quest - Dis Generation (Official Video)",
+        "description": "Official Video for \u201dDis Generation\u201d by A Tribe Called Quest\nListen to A Tribe Called Quest: https://ATCQ.lnk.to/listenYD\nWatch more videos by A Tribe Called Quest: https://ATCQ.lnk.to/listenYD/youtube\n\nSubscribe to the official A Tribe Called Quest YouTub",
+        "duration": 214,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=KArPmTJnYmQ",
+        "title": "Kids...",
+        "description": "Provided to YouTube by Epic\n\nKids... \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Drums, Vocal, Mixin",
+        "duration": 229,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=OZmreJMSvEY",
+        "title": "Melatonin",
+        "description": "Provided to YouTube by Epic\n\nMelatonin \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nDrums, Programmer, Voca",
+        "duration": 285,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wMA1kP7gWS4",
+        "title": "Enough!!",
+        "description": "Provided to YouTube by Epic\n\nEnough!! \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixing  Eng",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=xGZlSHszVu4",
+        "title": "Mobius",
+        "description": "Provided to YouTube by Epic\n\nMobius \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixing  Engin",
+        "duration": 172,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UNfBvHerzLs",
+        "title": "Black Spasmodic",
+        "description": "Provided to YouTube by Epic\n\nBlack Spasmodic \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixi",
+        "duration": 184,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zar75xmMkvU",
+        "title": "The Killing Season",
+        "description": "Provided to YouTube by Epic\n\nThe Killing Season \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, M",
+        "duration": 164,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=boQfbi-D8ag",
+        "title": "Lost Somebody",
+        "description": "Provided to YouTube by Epic\n\nLost Somebody \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixing",
+        "duration": 260,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aB7AbkeauLs",
+        "title": "Movin Backwards",
+        "description": "Provided to YouTube by Epic\n\nMovin Backwards \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Drums, Voca",
+        "duration": 282,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Eg2ps6KtGRI",
+        "title": "Conrad Tokyo",
+        "description": "Provided to YouTube by Epic\n\nConrad Tokyo \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nVocal: Phife\nVocal: ",
+        "duration": 212,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=fA707YJqUUI",
+        "title": "Ego",
+        "description": "Provided to YouTube by Epic\n\nEgo \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixing  Engineer",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ReLIvQNlkLQ",
+        "title": "The Donald",
+        "description": "Provided to YouTube by Epic\n\nThe Donald \u00b7 A Tribe Called Quest\n\nWe got it from Here... Thank You 4 Your service\n\n\u2117 2016 Epic Records, a division of Sony Music Entertainment\n\nReleased on: 2016-11-11\n\nComposer, Lyricist: Kamaal Fareed\nBass, Vocal, Mixing  E",
+        "duration": 323,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1092073,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

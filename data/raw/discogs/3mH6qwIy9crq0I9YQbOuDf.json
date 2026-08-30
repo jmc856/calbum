@@ -1,0 +1,632 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "862160000302",
+    "artist": "Frank Ocean",
+    "title": "Blonde",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 8932936,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Psychedelic"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "CD-ROM",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [
+        "883958014219",
+        "8 83958 01421 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/8932936-Frank-Ocean-Blonde",
+      "catno": "883958014219",
+      "thumb": "https://i.discogs.com/4SdrVp0gkK1JqgpmM5Bshy--Psn6Y-I3iZSrhY_WEKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI5/MzYtMTczNjgwMjIy/My02NzU2LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/b2mlU2MvscZrjecbE53QC-gn-113d1CbQTnBiF9VfSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI5/MzYtMTczNjgwMjIy/My02NzU2LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8932936",
+      "community": {
+        "want": 1442,
+        "have": 301
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "MP3, 320 kbps",
+          "descriptions": [
+            "CD-ROM",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11240818,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/11240818-Frank-Ocean-Blonde",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/kcrIMCB_SCzHedsDJK9ytAMyShd8-rsF7an8dLjETLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/ODE4LTE1MTI1NDg1/OTItNDk3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lF5IjPKofiSznr-RsTtvXvutbb9UCDwtBMAfmLgzAYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/ODE4LTE1MTI1NDg1/OTItNDk3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11240818",
+      "community": {
+        "want": 592,
+        "have": 119
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8932514,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Psychedelic",
+        "Neo Soul"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Boys Don't Cry",
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [
+        "1146195596"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/8932514-Frank-Ocean-Blonde",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/3D2NOILQzQdwR9VXWglnU2bj-sxoTi1sbT4uSltxy3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI1/MTQtMTc3MTczMzA2/NS01NjY2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/VurGdqd_vsJCl1tB9JHDfKhu5pQmKbCWSkNYnuHCFZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI1/MTQtMTc3MTczMzA2/NS01NjY2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8932514",
+      "community": {
+        "want": 5275,
+        "have": 1955
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29386645,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "FLAC"
+      ],
+      "label": [
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/29386645-Frank-Ocean-Blonde",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/whmENP--37rQNWnrdUFysnBbxoL2ae4jRJkrRQd_wao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzg2/NjQ1LTE3MDQzMTk3/OTMtMzI3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HRO4zZLFZEoJTDRSEiR8Bg9TC5IOzqkUPgFwtqbC5d4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzg2/NjQ1LTE3MDQzMTk3/OTMtMzI3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29386645",
+      "community": {
+        "want": 64,
+        "have": 16
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "24bit-44.1kHz",
+          "descriptions": [
+            "FLAC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34648261,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "AIFF",
+        "Album"
+      ],
+      "label": [
+        "Boys Don't Cry",
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/34648261-Frank-Ocean-Blonde",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/io99v-4PS4BJL-LQtd85QckWIwz8j2hSI4y2W0Z2gX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjQ4/MjYxLTE3NTM1NDYw/OTktODM0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rsPArHbpTFgOufSo8xHRyM5C2jpepSWZQuRfBbjhWIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjQ4/MjYxLTE3NTM1NDYw/OTktODM0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34648261",
+      "community": {
+        "want": 30,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "Qobuz",
+          "descriptions": [
+            "AIFF",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9528019,
+      "title": "Frank Ocean - Blonde",
+      "master_id": 1046042,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Boys Don't Cry"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1046042",
+      "uri": "/release/9528019-Frank-Ocean-Blonde",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/UHZ_69EMFhy7oRVdpaFJLYq20gx4M3zlk5ze0D80l-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjgw/MTktMTQ4MzQyMjcz/Ny0xNjEzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/zbgmGO38W-reygMCt1eiTkIcBqyzAV0WPR2o0yRcQQM/rs:fit/g:sm/q:90/h:821/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjgw/MTktMTQ4MzQyMjcz/Ny0xNjEzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9528019",
+      "community": {
+        "want": 1776,
+        "have": 719
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Reprint",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1046042,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Psychedelic",
+      "Neo Soul"
+    ],
+    "main_release": 8932514,
+    "most_recent_release": 37704735,
+    "resource_url": "https://api.discogs.com/masters/1046042",
+    "uri": "https://www.discogs.com/master/1046042-Frank-Ocean-Blonde",
+    "versions_url": "https://api.discogs.com/masters/1046042/versions",
+    "main_release_url": "https://api.discogs.com/releases/8932514",
+    "most_recent_release_url": "https://api.discogs.com/releases/37704735",
+    "num_for_sale": 110,
+    "lowest_price": 49.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/VurGdqd_vsJCl1tB9JHDfKhu5pQmKbCWSkNYnuHCFZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI1/MTQtMTc3MTczMzA2/NS01NjY2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/VurGdqd_vsJCl1tB9JHDfKhu5pQmKbCWSkNYnuHCFZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI1/MTQtMTc3MTczMzA2/NS01NjY2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/3D2NOILQzQdwR9VXWglnU2bj-sxoTi1sbT4uSltxy3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzI1/MTQtMTc3MTczMzA2/NS01NjY2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Nikes",
+        "duration": "5:14"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Ivy",
+        "duration": "4:09"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Pink + White",
+        "duration": "3:04"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Be Yourself",
+        "duration": "1:26"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Solo",
+        "duration": "4:17"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Skyline To",
+        "duration": "3:04"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Self Control",
+        "duration": "4:09"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Good Guy",
+        "duration": "1:06"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Nights",
+        "duration": "5:07"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Solo (Reprise)",
+        "duration": "1:18"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Pretty Sweet",
+        "duration": "2:38"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Facebook Story",
+        "duration": "1:08"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Close To You",
+        "duration": "1:25"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "White Ferrari",
+        "duration": "4:08"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Seigfried",
+        "duration": "5:34"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "Godspeed",
+        "duration": "2:57"
+      },
+      {
+        "position": "17",
+        "type_": "track",
+        "title": "Futura Free",
+        "duration": "9:24"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Frank Ocean",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2013868,
+        "resource_url": "https://api.discogs.com/artists/2013868",
+        "thumbnail_url": "https://i.discogs.com/9sotUu-pjW1ieQ72VzYMAf0uw5wTG1yxqL2bHv7JsCs/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMTM4/NjgtMTc0OTc2MTMz/NC02MTg5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Blonde",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=diIFhc_Kzng",
+        "title": "Frank Ocean - Nikes",
+        "description": "Frank Ocean - Nikes\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 315,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AE005nZeF-A",
+        "title": "Frank Ocean - Ivy",
+        "description": "Frank Ocean - Ivy\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 250,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uzS3WG6__G4",
+        "title": "Frank Ocean - Pink + White",
+        "description": "Frank Ocean - Pink + White\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BU59wJ9qb6I",
+        "title": "Frank Ocean - Be Yourself",
+        "description": "Frank Ocean - Be Yourself\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 87,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=X_SEwgDl02E",
+        "title": "Frank Ocean - Solo",
+        "description": "Frank Ocean - Solo\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 258,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=CtkUJb22oSQ",
+        "title": "Frank Ocean - Skyline To",
+        "description": "Frank Ocean - Skyline To\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BME88lS6aVY",
+        "title": "Frank Ocean - Self Control",
+        "description": "Frank Ocean - Self Control\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 250,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZnnwfgqdEGM",
+        "title": "Frank Ocean - Good Guy",
+        "description": "Frank Ocean - Good Guy\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 67,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=r4l9bFqgMaQ",
+        "title": "Frank Ocean - Nights",
+        "description": "Frank Ocean - Nights\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 308,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XXMHQ410P-c",
+        "title": "Frank Ocean - Solo (Reprise)",
+        "description": "Frank Ocean - Solo (Reprise)\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 79,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HWDaIRe8_XI",
+        "title": "Frank Ocean - Pretty Sweet",
+        "description": "Frank Ocean - Pretty Sweet\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 159,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yWVoqpXfiPA",
+        "title": "Frank Ocean - Facebook Story",
+        "description": "Frank Ocean - Facebook Story\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 69,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ncqkC9Ob2ZI",
+        "title": "Frank Ocean - Close To You",
+        "description": "Frank Ocean - Close To You\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 86,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Dlz_XHeUUis",
+        "title": "Frank Ocean - White Ferrari",
+        "description": "Frank Ocean - White Ferrari\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 249,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RWgpBlz16-s",
+        "title": "Frank Ocean - Seigfried",
+        "description": "Frank Ocean - Seigfried\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 335,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=P18g4rKns6Q",
+        "title": "Frank Ocean - Godspeed",
+        "description": "Frank Ocean - Godspeed\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 178,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=VHGqsnsuA3c",
+        "title": "Frank Ocean - Futura Free",
+        "description": "Frank Ocean - Futura Free\n\u2117 Boys Don't Cry\n\nReleased August 20, 2016",
+        "duration": 565,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1046042,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

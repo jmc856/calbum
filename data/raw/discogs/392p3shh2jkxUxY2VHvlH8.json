@@ -1,0 +1,3227 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602537117680",
+    "artist": "Frank Ocean",
+    "title": "channel ORANGE",
+    "year": 2012
+  },
+  "results": [
+    {
+      "id": 3731185,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Def Jam",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "UMG Recordings, Inc.",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth",
+        "The Analog Genius Corporation",
+        "The Neptunes",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7",
+        "602537102327",
+        "BIEM / SDRM",
+        "LC 08427",
+        "[4 Universal logos] 06025 371 023-2 01 + 52976902",
+        "IFPI LV27",
+        "IFPI 0123",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI 0151",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI 0147",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI 0140",
+        "MADE IN GERMANY BY EDC C",
+        "IFPI 0160",
+        "MADE IN GERMANY BY EDC I",
+        "IFPI 0153",
+        "MADE IN GERMANY BY EDC B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3731185-Frank-Ocean-Channel-Orange",
+      "catno": "602537102327",
+      "thumb": "https://i.discogs.com/Cl6ABRkrFJZ1t3yrCajvV72UnfIN_1ah2iHe7CazdNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTc0NTQ0NzIy/Ni05NTIzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/T194rRO-vNdN71vM_XUorDW2B3kNN5X4EwFDweUtDlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTc0NTQ0NzIy/Ni05NTIzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3731185",
+      "community": {
+        "want": 1142,
+        "have": 3397
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3747997,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Canada",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Universal Music Canada Inc.",
+        "Universal Music Canada Inc.",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02527 75528 1",
+        "L387 B001578802 #120710Y06",
+        "MADE IN CANADA 5",
+        "L387",
+        "IFPI 6000",
+        "LT36 B001578802 #120710Z05",
+        "LT36",
+        "IFPI 6000",
+        "MADE IN CANADA 8"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3747997-Frank-Ocean-Channel-Orange",
+      "catno": "B001578802",
+      "thumb": "https://i.discogs.com/Re-mdf9DjvI4OaPAYTViVFhO2hVOGtpiXrwwKhCNKyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/OTctMTM0NDcxOTEy/My03MjE3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Au9XB4WSlfNv8grC4ARWJ7HnqKp3Z5mkKZt87QVGkQk/rs:fit/g:sm/q:90/h:368/w:409/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/OTctMTM0NDcxOTEy/My03MjE3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3747997",
+      "community": {
+        "want": 637,
+        "have": 455
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3913212,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "South East Asia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "UMG Recordings, Inc.",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7",
+        "BIEM / SDRM",
+        "LC 08427",
+        "3710232 UMM3330",
+        "IFPI PH05"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3913212-Frank-Ocean-Channel-Orange",
+      "catno": "602537102327",
+      "thumb": "https://i.discogs.com/nUA5P4wHp4Vwz7JT53VG3__8oHs6e30BYx3lgagIvjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMy/MTItMTM0OTAzNzEy/My0yMDIzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/cCsUNl6w7CSnDwT8_YgHIvpRMkaTcikf9J1fop-MdYQ/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMy/MTItMTM0OTAzNzEy/My0yMDIzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3913212",
+      "community": {
+        "want": 506,
+        "have": 86
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27994014,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "South Korea",
+      "year": "2012",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Island Def Jam Music Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "8808678251555"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/27994014-Frank-Ocean-Channel-Orange",
+      "catno": "DP30248",
+      "thumb": "https://i.discogs.com/VBjbX3Mf2LRSsW6hUsHt3KSo6C81bpVICtLyvjoNrmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTk0/MDE0LTE3MzU3MzU3/MzMtNjAxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/C-aczxk1uN_Xr4HLl_GaG1vNFaODNjm6ekzu3rVE89s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTk0/MDE0LTE3MzU3MzU3/MzMtNjAxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27994014",
+      "community": {
+        "want": 113,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "id": 10163966,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "Contemporary R&B"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A-4",
+        "FRANKOCEANLP002-B-5",
+        "FRANKOCEANLP002-C-4",
+        "FRANKOCEANLP002-D-4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/10163966-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/sELysmE3pI6CqnggNNcbevadbPOw3tOZs4kHEH7ag38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYz/OTY2LTE0OTI3MjAx/MTMtMTIyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-R4qnd-cCUmESSWRUL40iYPuBbG4fOkwRu6SBObZ64k/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYz/OTY2LTE0OTI3MjAx/MTMtMTIyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10163966",
+      "community": {
+        "want": 1354,
+        "have": 368
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellow Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3725771,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3725771-Frank-Ocean-Channel-Orange",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/rRsYmeC_NwcilYbtsISElOVp5ZsbPOY-QUKsLUcCUMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjU3/NzEtMTY4MzkxMjU1/My0zMzM5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CiZZ0CTIv66I4fE8_N7t3v4uCBjnkcghniO5ZW5NzRk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjU3/NzEtMTY4MzkxMjU1/My0zMzM5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3725771",
+      "community": {
+        "want": 621,
+        "have": 172
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24580658,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/24580658-Frank-Ocean-Channel-Orange",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/nXXvyOgQXT9ey8AzGTGt42Ln6w4XBpAyWCWMUxGzqt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTgw/NjU4LTE2NjM3MzY5/OTgtNzkwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9MsgGECYL5fN_2dRFMGJEYVsg7HiPz7RBQesoUR5Hxw/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTgw/NjU4LTE2NjM3MzY5/OTgtNzkwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24580658",
+      "community": {
+        "want": 483,
+        "have": 181
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15851741,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "Contemporary R&B"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Def Jam",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "UMG Recordings, Inc.",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth",
+        "The Analog Genius Corporation",
+        "The Neptunes"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7",
+        "602537102327",
+        "BIEM / SDRM",
+        "LC 08427",
+        "[One Universal logo] 3710232 33 A00",
+        "IFPI L553",
+        "IFPI 94V5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/15851741-Frank-Ocean-Channel-Orange",
+      "catno": "602537102327",
+      "thumb": "https://i.discogs.com/GqpqXAV7EQuxiYdtaiF65_5vSvnDRhqOUh8qBkRbrdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/NzQxLTE3NzU0MzEw/NDYtMTQ2NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3bLsByZTxFwaHBaE8FTy_WZEoj7vI7BjEpjdqj96H8s/rs:fit/g:sm/q:90/h:535/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/NzQxLTE3NzU0MzEw/NDYtMTQ2NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15851741",
+      "community": {
+        "want": 480,
+        "have": 2868
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8373187,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "Argentina",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/8373187-Frank-Ocean-Channel-Orange",
+      "catno": "3710232",
+      "thumb": "https://i.discogs.com/DXdPWFdGMPzlvBJSUH78SBgPaphLdwxtI3rEzhkRt5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzMx/ODctMTY2MTk4NjQ1/Ny03NTM0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/8AhSkKStJ_rI83U5miQBR-OMHUmE7-Jcr5GsuJHvWnw/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzMx/ODctMTY2MTk4NjQ1/Ny03NTM0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8373187",
+      "community": {
+        "want": 477,
+        "have": 116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30918198,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/30918198-Frank-Ocean-Channel-Orange",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/A14Krkpg7tX9rZfrDsiUz18VENTqU758Mhb1LQY7ou8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/MTk4LTE3NDY1NTk4/NTItMjE2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Qgu_4YsN7xwN8XrU4S_Fd3HJtaQEB5GPXKK2Zk4wBmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE4/MTk4LTE3NDY1NTk4/NTItMjE2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30918198",
+      "community": {
+        "want": 299,
+        "have": 245
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3734425,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Universal Music Distribution",
+        "Sony DADC, Terre Haute",
+        "The Analog Genius Corporation",
+        "The Neptunes",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "The Mix Suite",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth"
+      ],
+      "type": "release",
+      "barcode": [
+        "602527755281",
+        "6 02527 75528 1",
+        "BMI",
+        "SESAC",
+        "EMI",
+        "ASCAP",
+        "DIDX-816478 1 A07",
+        "IFPI L327",
+        "IFPI 50D0",
+        "DIDX-816478 1 A06",
+        "IFPI L327",
+        "IFPI 50A0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3734425-Frank-Ocean-Channel-Orange",
+      "catno": "B0015788-02",
+      "thumb": "https://i.discogs.com/iIOmvKiDeyypT_lV9BiViYVyzzYCZ68R2Hj9SHNMSkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ0/MjUtMTY2MjUwNTIw/MS0zMTIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/2iKKnc0QOYw2-boATOpXWZnrTXMLmlHJydIBC4ovrQI/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ0/MjUtMTY2MjUwNTIw/MS0zMTIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3734425",
+      "community": {
+        "want": 3366,
+        "have": 6960
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digisleeve",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17919937,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul",
+        "Soul"
+      ],
+      "country": "Colombia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Sony DADC, Terre Haute",
+        "The Analog Genius Corporation",
+        "The Neptunes",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "The Mix Suite",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth"
+      ],
+      "type": "release",
+      "barcode": [
+        "602527755281",
+        "6 02527 75528 1",
+        "BMI",
+        "SESAC",
+        "EMI",
+        "ASCAP",
+        "DIDX-816478 1 A07",
+        "IFPI L327",
+        "IFPI 50D0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/17919937-Frank-Ocean-Channel-Orange",
+      "catno": "B0015788-02",
+      "thumb": "https://i.discogs.com/tp0YqQLKZuorM-ly9Eyz1e8U7xyDKwAJJf6hrkeHbbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTE5/OTM3LTE2MTYxODk3/MjctNzIwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xiovXdQDFjAI6gokpQQacvv6qrPxQbBx8G_a6QNPZFE/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTE5/OTM3LTE2MTYxODk3/MjctNzIwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17919937",
+      "community": {
+        "want": 230,
+        "have": 107
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digisleeve",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3994615,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3994615-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/ZCL7oFyCa3hMFsSjZykfwLPxgMB4UAZCXEMHct_vXcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ2/MTUtMTM1MjM5NjEx/NS0zODQzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/LKgGqtLJgrGk-JvJi4KK0Vd3rgrZxvXSbjvsnLURIgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ2/MTUtMTM1MjM5NjEx/NS0zODQzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3994615",
+      "community": {
+        "want": 1448,
+        "have": 375
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Grey Marbled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7504631,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "India",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/7504631-Frank-Ocean-Channel-Orange",
+      "catno": "602537102327",
+      "thumb": "https://i.discogs.com/-k5o41cZPlVsPtOalz3Vyohnqr3ICAjIes4biwwRyqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDQ2/MzEtMTQ2NDM2NDEy/Mi02MjEzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CxOJ2QdhEuuGyQVS291NRTc7Hk69ZvPz1yO7KPBzFHA/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDQ2/MzEtMTQ2NDM2NDEy/Mi02MjEzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7504631",
+      "community": {
+        "want": 480,
+        "have": 943
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15112925,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002",
+        "FRANKOCEANLP002A",
+        "FRANKOCEANLP002B",
+        "FRANKOCEANLP002C-4",
+        "FRANKOCEANLP002D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/15112925-Frank-Ocean-Channel-Orange",
+      "catno": "B0015788-02",
+      "thumb": "https://i.discogs.com/L13qoHcPNlnoa0x1UQcrVS-VlwI4xArqSWcBYYfG5mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/OTI1LTE1ODY4MzI5/MjAtNzY0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/W5Qy1yyP8UcCZAkZdfTeuGxKh__Aq1dm1A2oM3MfdyM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/OTI1LTE1ODY4MzI5/MjAtNzY0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15112925",
+      "community": {
+        "want": 1034,
+        "have": 171
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow Marble",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Translucent Pink",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35952748,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)",
+        "Not On Label (Frank Ocean)",
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/35952748-Frank-Ocean-Channel-Orange",
+      "catno": "LP002",
+      "thumb": "https://i.discogs.com/mwxV-aoL7Rvow8LLZXUrhmsrakAzTh85vdkDqGVaNT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTUy/NzQ4LTE3NjYwMDM3/NDUtMTc5OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MOPYKRnRF7cPSWE1z4DKFXrZj6s1KrNJ8VyETAq4kQg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTUy/NzQ4LTE3NjYwMDM3/NDUtMTc5OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35952748",
+      "community": {
+        "want": 56,
+        "have": 24
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "180 Gram",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36409210,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul",
+        "Soul"
+      ],
+      "country": "Brazil",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Universal Music Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/36409210-Frank-Ocean-Channel-Orange",
+      "catno": "60253710232",
+      "thumb": "https://i.discogs.com/MLeRUWxVQiagu52hLj-z3f_2uDSh_b_IlseHtlvEn_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA5/MjEwLTE3NzI5NDUw/MzUtMzg1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lS4oeemYNXwNyU7-xvGHJdllqpOI6XnnUX1kR0wFgDE/rs:fit/g:sm/q:90/h:503/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA5/MjEwLTE3NzI5NDUw/MzUtMzg1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36409210",
+      "community": {
+        "want": 25,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3986630,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "Contemporary R&B"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/3986630-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/Ke1-gzOrXb4NLM--Yxu1XEDN6EbbQzogeGP9xWtAJqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODY2/MzAtMTQ1NDEyNTgw/MC0xODM4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/tG1-ZBeghzp_yW8O2yTNoUznZbLzFs5UQcXNt5olZMY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODY2/MzAtMTQ1NDEyNTgw/MC0xODM4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3986630",
+      "community": {
+        "want": 6541,
+        "have": 5822
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34648249,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "AIFF",
+        "Album"
+      ],
+      "label": [
+        "Red Zone Entertainment",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "The Mix Suite",
+        "Masterdisk"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/34648249-Frank-Ocean-Channel-Orange",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/1bk9TVhdYOLfq1Ql-gyujIygxobLTvpIQByAy4mNDSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjQ4/MjQ5LTE3NTM1NDYw/OTEtMTEwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yOZw3StgtoRDs1ebtQq_fH5bxyGUkUnc6OlGuq3sbvI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjQ4/MjQ5LTE3NTM1NDYw/OTEtMTEwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34648249",
+      "community": {
+        "want": 24,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "Qobuz",
+          "descriptions": [
+            "AIFF",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5083152,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "Contemporary R&B"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/5083152-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/ARJV4u8Wg1h5eydAFGirnN2OrUOdbzJr7NcbxGMxNgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODMx/NTItMTY2MjA4MTQ3/Mi0xNTk3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/VFZQxaUzNg-eORiIsC_CY4AOc3NhKVezDGD7kewC-p8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODMx/NTItMTY2MjA4MTQ3/Mi0xNTk3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5083152",
+      "community": {
+        "want": 1333,
+        "have": 401
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Clear & Orange Marbled Vinyl",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9482837,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/9482837-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/Fo4ayZr9moJiFIiTe-J7xeXFc_dAPDKNoA96JNeej_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODI4/MzctMTY5MTA5NTcz/NS02MzQ5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/CPNugy-70wClARG72AwzYejguo_NuECi-LwwhchepJs/rs:fit/g:sm/q:90/h:492/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODI4/MzctMTY5MTA5NTcz/NS02MzQ5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9482837",
+      "community": {
+        "want": 808,
+        "have": 160
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15804490,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "Contemporary R&B"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Island Def Jam",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "UMG Recordings, Inc.",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth",
+        "The Analog Genius Corporation",
+        "The Neptunes",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7",
+        "602537102327",
+        "BIEM / SDRM",
+        "LC 08427",
+        "[One Universal logo]  3710232 13 A 00 Sony DADC",
+        "IFPI L553",
+        "IFPI 9421"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/15804490-Frank-Ocean-Channel-Orange",
+      "catno": "602537102327",
+      "thumb": "https://i.discogs.com/Om_IYQHV7eAcgMDlW4WZeFAXt3uUd27W2oDrV8ATZss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA0/NDkwLTE2ODc1MzEy/MDMtMjIyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/x0QmgimfzSP_2gSzMLtiaKiQKkVFc0k5fHRvNXnbSiY/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA0/NDkwLTE2ODc1MzEy/MDMtMjIyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15804490",
+      "community": {
+        "want": 337,
+        "have": 536
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14470275,
+      "title": "Frank Ocean - channel ORANGE",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-C",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/14470275-Frank-Ocean-channel-ORANGE",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/P9WSJiXZwUibcSJWhezY6R23SxOvk9WDS6QF5IHLfPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcw/Mjc1LTE1NzUxOTQ3/MzQtMzE2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HehhyzssmXltcu0Kz5JKC04KjDbyzHI8ftKsJR08WSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcw/Mjc1LTE1NzUxOTQ3/MzQtMzE2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14470275",
+      "community": {
+        "want": 734,
+        "have": 181
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Black / Orange Marble",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31408466,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "Worldwide",
+      "year": "2012",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Red Zone Entertainment",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "The Mix Suite",
+        "Masterdisk"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/31408466-Frank-Ocean-Channel-Orange",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/dKaBtxQCd9SM8YerysajiyLuH4MvxY08iiv8KW_Qhd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA4/NDY2LTE3MjI4NzA1/MzYtNjc4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vVbKpReV3tlYx-QQKAJPDCvaO8ZV_A9pwR2kDtrDilo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA4/NDY2LTE3MjI4NzA1/MzYtNjc4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31408466",
+      "community": {
+        "want": 45,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "16-Bit / 44.1 kHz (Explicit)",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5469267,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "Australasia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Universal Music Australasia",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7",
+        "602537102327",
+        "[Universal Logo] ANZ 3710232 A0100981345-0101 22",
+        "IFPI LV87",
+        "IFPI 6544",
+        "[Universal Logo] ANZ 3710232 A0100981345-0101 22",
+        "IFPI LV87",
+        "IFPI 6542"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/5469267-Frank-Ocean-Channel-Orange",
+      "catno": "3710232",
+      "thumb": "https://i.discogs.com/5Wt8oGBb1J2T6KNMtVJIhG7d4ceYE2KdcIt8Mhdw8WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njky/NjctMTYzNzE0OTQ1/NS0xNjQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/lAcg40rInVGfD6CXQOcK_IgJ4sv_YEKQIO5okYhTdP4/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njky/NjctMTYzNzE0OTQ1/NS0xNjQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5469267",
+      "community": {
+        "want": 535,
+        "have": 508
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10486098,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/10486098-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/qeLe11_gBC5WpdVzWoPhEKaTT2MnbmUgwJbW0GVF_LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg2/MDk4LTE0OTg0MjY1/NDQtOTY1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/25KB5WKRQn0Oj3I-O3idzsLnniKNS6C26-1mmdOHSyo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg2/MDk4LTE0OTg0MjY1/NDQtOTY1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10486098",
+      "community": {
+        "want": 876,
+        "have": 184
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14176290,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Universal Music Distribution",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537127993",
+        "6 02537 12799 3",
+        "A02 DIDX-818461 1",
+        "IFPI L328",
+        "IFPI 50F0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/14176290-Frank-Ocean-Channel-Orange",
+      "catno": "B0017335-02",
+      "thumb": "https://i.discogs.com/sMv-S7gQWb0Pl2u62B4ZkFioXd6rN15XjOaMJM8z9nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/MjkwLTE1Njk2NDI4/MjYtNjU0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Bp4PDWq2eTo6qyxixl_ytzGqcupjCVaIwdpgfdhmviQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/MjkwLTE1Njk2NDI4/MjYtNjU0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14176290",
+      "community": {
+        "want": 369,
+        "have": 56
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Censored",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36137452,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Rhythm & Blues",
+        "Neo Soul"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/36137452-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/AvzCFkwtQE8hWqZedUEhsMQVmoA7iIpEARGI9cqNXzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM3/NDUyLTE3Njc4OTM1/MzQtMjY3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/35vrhTTZbkGCmvS3O5iqZuupIH_ClqdsVQTcIfO7u1M/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM3/NDUyLTE3Njc4OTM1/MzQtMjY3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36137452",
+      "community": {
+        "want": 58,
+        "have": 40
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4673855,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-C",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/4673855-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/VZkHyXh2x9Y0AEbbH-xYMF4jlCGNjKVF6_Hua1cvVHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzM4/NTUtMTU0MTAxMzEz/OC05NDUyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/F3pfei71HF86FmFngLYanHR3Z8j3oedgOlVAc9IWOzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzM4/NTUtMTU0MTAxMzEz/OC05NDUyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4673855",
+      "community": {
+        "want": 1600,
+        "have": 666
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Transparent Pink Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5994501,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "country": "Germany",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label (Frank Ocean)"
+      ],
+      "type": "release",
+      "barcode": [
+        "FRANKOCEANLP002-A",
+        "FRANKOCEANLP002-B",
+        "FRANKOCEANLP002-C",
+        "FRANKOCEANLP002-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/5994501-Frank-Ocean-Channel-Orange",
+      "catno": "FRANKOCEANLP002",
+      "thumb": "https://i.discogs.com/JkXtj87V6xQCKMMo9XBZEW77tukmS3pW8AeDBSBuW-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTQ1/MDEtMTQzNzE3NTM3/MC00NTE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/hqqdeYzKf_PNgVfaIcA9jVvZXa1sC3cVLKBurjiLGPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTQ1/MDEtMTQzNzE3NTM3/MC00NTE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5994501",
+      "community": {
+        "want": 1470,
+        "have": 351
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Smokey Translucent",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8348181,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "RnB/Swing",
+        "Soul"
+      ],
+      "country": "Indonesia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 10232 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/8348181-Frank-Ocean-Channel-Orange",
+      "catno": "371 023-2",
+      "thumb": "https://i.discogs.com/WCGneoVJcmI7kpUwAbxtrlTdvehJDfp7k4VyjiU_Fk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDgx/ODEtMTQ5NDQ5OTc4/Ny04NTIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/OKwRZ7w-BBsXQ9Qj9XMeDIAQlDIyG1HY55KAjBqmI3A/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDgx/ODEtMTQ5NDQ5OTc4/Ny04NTIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8348181",
+      "community": {
+        "want": 460,
+        "have": 31
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14725156,
+      "title": "Frank Ocean - Channel Orange",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [],
+      "country": "Philippines",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Island Def Jam Music Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "02537 10232"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/14725156-Frank-Ocean-Channel-Orange",
+      "catno": "060253710232",
+      "thumb": "https://i.discogs.com/pELdGy7gtx53NB1F1AbU-pVjwTF8bazi1ilVZSmk2k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI1/MTU2LTE1ODAzODEy/MTctNzIxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5JjEB1RDtJMoei3tH7MhaHGGsIHwF84eIuURkEe4O3o/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI1/MTU2LTE1ODAzODEy/MTctNzIxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14725156",
+      "community": {
+        "want": 337,
+        "have": 65
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digisleeve",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4118109,
+      "title": "Frank Ocean = \u30d5\u30e9\u30f3\u30af\u30fb\u30aa\u30fc\u30b7\u30e3\u30f3* - Channel Orange = \u30c1\u30e3\u30f3\u30cd\u30eb\u30fb\u30aa\u30ec\u30f3\u30b8 ",
+      "master_id": 454284,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Soul",
+        "Rhythm & Blues",
+        "Neo Soul"
+      ],
+      "country": "Japan",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Island Def Jam Music Group",
+        "Island Def Jam Music Group",
+        "Universal International",
+        "Universal Music",
+        "Universal Music LLC",
+        "Universal Music LLC",
+        "Eastwest Studios",
+        "Henson Recording Studios",
+        "Manhattan Sound Recording",
+        "San Ysidro",
+        "Studio For The Talented & Gifted",
+        "Record Plant, Los Angeles",
+        "Westlake Studios",
+        "Studio For The Talented & Gifted",
+        "Mixsuite LA",
+        "Masterdisk",
+        "Wedontplayevenwhenwereplayin! Songs LLC",
+        "BMG Chrysalis",
+        "Heavens Research LP",
+        "Bug Music",
+        "Fauntleroy Music",
+        "Almo Music Corp.",
+        "Bughouse",
+        "Bhamboo Music Publishing",
+        "Randomblackdude",
+        "D-nique Publishing",
+        "Golf Wang Steak Sauce",
+        "Sony/ATV Songs LLC",
+        "Music 4 Mataya",
+        "Publishing Designee",
+        "Downtown DLJ Songs",
+        "EMI April Music Inc.",
+        "More Water From Nazareth"
+      ],
+      "type": "release",
+      "barcode": [
+        "4 988005 726544",
+        "UICD-6201",
+        "UICD-6201 MT 463",
+        "IFPI L154"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/4118109-Frank-Ocean-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3-Channel-Orange-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8-",
+      "catno": "UICD-6201",
+      "thumb": "https://i.discogs.com/xC_jDj0q_TyQQfxjoZH8ZmCVLNCbsJLlmgm6g1PIhw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTgx/MDktMTY4NjY5OTU3/Mi02NTI2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/lVKC_w-MfWO90vX0Fk4G6lBbse99iGnBXzJyBX_94lA/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTgx/MDktMTY4NjY5OTU3/Mi02NTI2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4118109",
+      "community": {
+        "want": 880,
+        "have": 487
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32321439,
+      "title": "Frank Ocean - Channel Orange - 2LP Unofficial Import",
+      "master_id": 454284,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "Unknown",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/454284",
+      "uri": "/release/32321439-Frank-Ocean-Channel-Orange-2LP-Unofficial-Import",
+      "catno": "10017483",
+      "thumb": "https://i.discogs.com/D4d-LqTGnp0F9em2qaYFioh9is3Zvj4sIl-kDbdWN6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIx/NDM5LTE3MzE4OTMw/OTgtNjEyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DIqZZChg-n3FO43g8qHtMEX8rMoEqPcHUnOAJbZY6lo/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzIx/NDM5LTE3MzE4OTMw/OTgtNjEyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32321439",
+      "community": {
+        "want": 96,
+        "have": 28
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 454284,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Soul",
+      "Neo Soul"
+    ],
+    "main_release": 3731185,
+    "most_recent_release": 37895247,
+    "resource_url": "https://api.discogs.com/masters/454284",
+    "uri": "https://www.discogs.com/master/454284-Frank-Ocean-Channel-Orange",
+    "versions_url": "https://api.discogs.com/masters/454284/versions",
+    "main_release_url": "https://api.discogs.com/releases/3731185",
+    "most_recent_release_url": "https://api.discogs.com/releases/37895247",
+    "num_for_sale": 267,
+    "lowest_price": 2.09,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/T194rRO-vNdN71vM_XUorDW2B3kNN5X4EwFDweUtDlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTc0NTQ0NzIy/Ni05NTIzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/T194rRO-vNdN71vM_XUorDW2B3kNN5X4EwFDweUtDlc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTc0NTQ0NzIy/Ni05NTIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Cl6ABRkrFJZ1t3yrCajvV72UnfIN_1ah2iHe7CazdNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTc0NTQ0NzIy/Ni05NTIzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/xusqB8EIgmHBXoUUJVc-DiZzY577aBmPKiQYILi-Xz4/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMy/Mi00MTI2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/xusqB8EIgmHBXoUUJVc-DiZzY577aBmPKiQYILi-Xz4/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMy/Mi00MTI2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PtkhMW7aKIYrlI1K3ybWNtReD-VZspGGPMGsKBN-pCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMy/Mi00MTI2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 545
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UqNoIcGDLzpGO71jIvxca9FhZ8UtbKFuVC_TlbRpWJ0/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMz/MS03NTE3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/UqNoIcGDLzpGO71jIvxca9FhZ8UtbKFuVC_TlbRpWJ0/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMz/MS03NTE3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/eLcNxHqezNrt1z96ym3k8HQAFAd8VDSfetiO9Lg92js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjMz/MS03NTE3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 548
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ohxfn-JsfHRUJHdfoczFLErOtmgm-qEKgiDfxVW-wIs/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM0/MS00MjgyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ohxfn-JsfHRUJHdfoczFLErOtmgm-qEKgiDfxVW-wIs/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM0/MS00MjgyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/h_4f7BVwFUVmrjQT0BOeQaPO2vZaZ5Myjw5wxx4hovo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM0/MS00MjgyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 552
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YRUSfAzZaoV67Z9VOSUJAI68kJnwbYfW8HqgGhH0vTE/rs:fit/g:sm/q:90/h:26/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/NS00NDEwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/YRUSfAzZaoV67Z9VOSUJAI68kJnwbYfW8HqgGhH0vTE/rs:fit/g:sm/q:90/h:26/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/NS00NDEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fCkS0RIi5kOxDBRYxMXZ7chfvnx2uOA18zoNeyVmlBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/NS00NDEwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 26
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/abVIAY-ggCtbxWBQnwjIk6XHrtNNocwn0kAHdxX65VE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/MC02MDk4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/abVIAY-ggCtbxWBQnwjIk6XHrtNNocwn0kAHdxX65VE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/MC02MDk4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ksqIhREVFBlkPZx4KItnJCKtbfOnhsTdAyyIVVWrMiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM1/MC02MDk4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 556
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wLs5V1W_uARCjKNyIyM00UCL2kRXToDrx2G6HBl5YS8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM2/Mi0xNTU1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/wLs5V1W_uARCjKNyIyM00UCL2kRXToDrx2G6HBl5YS8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM2/Mi0xNTU1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PBCxuDmGPhBrG-ar9OqUmG2dMwPwcKCYjX27j72KY0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM2/Mi0xNTU1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-dZGCO05jIocSca9SLEoJEgJLXmztcvNP6-J1zEwkLg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMw/Ni0yODY4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/-dZGCO05jIocSca9SLEoJEgJLXmztcvNP6-J1zEwkLg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMw/Ni0yODY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/snzJDQOEVraB2bVQhBeXOl_GcFnju0Os-A_t5jPAstY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMw/Ni0yODY4LmpwZWc.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/u3NPo9sO0VcKCwOBi7IfHrok4viJWaPMnwBJtuIljHc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMx/NS04NDE4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/u3NPo9sO0VcKCwOBi7IfHrok4viJWaPMnwBJtuIljHc/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMx/NS04NDE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ek6SZm0hCz5k4pjY40OPncI5Yijc7OkYBgJuUMh6SxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMx/NS04NDE4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 586
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Kfe3Hnaf2OrefjAyAk78j_0-yfTvE2VXuWw4psB9jWQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMy/My02MTIzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Kfe3Hnaf2OrefjAyAk78j_0-yfTvE2VXuWw4psB9jWQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMy/My02MTIzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/DMvV5VFkQ9PHAnq_Su2f68UzSmOQoqfHc7tIulqKRfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMy/My02MTIzLmpwZWc.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Mi9hP0y5aCf93ujffYwAT6SX1OzOWBdTMROYlOK5yNI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMz/Mi02MjU4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Mi9hP0y5aCf93ujffYwAT6SX1OzOWBdTMROYlOK5yNI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMz/Mi02MjU4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/o_FCM3sIEuHvgXdQWpisD_iQVegp4LSizvTbIN02FGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTMz/Mi02MjU4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/l6p7VfSKx8oR1Ore0GHERfTVZKgkPAPlyjNZqlYr8Bs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM1/OS0xMDEwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/l6p7VfSKx8oR1Ore0GHERfTVZKgkPAPlyjNZqlYr8Bs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM1/OS0xMDEwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zxaGt8SukhlWTTbJOMJ9hOpj3TUZxXCjcAN0QP-RtBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM1/OS0xMDEwLmpwZWc.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VXQ8ldVALcsug2DnoWqeXvvUPRAQBydhIrRbBN37nQU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM2/OS0xMjk5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/VXQ8ldVALcsug2DnoWqeXvvUPRAQBydhIrRbBN37nQU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM2/OS0xMjk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2BO5WkH_GIukhDcF8KU1_QoX9SVvB_eHqT7CxG-Ex2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM2/OS0xMjk5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Uf6mlBNxsrYwcFzwwf1TrFaZeXpGt8rCAfGqV8NdGAE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM3/OC0zNTc0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Uf6mlBNxsrYwcFzwwf1TrFaZeXpGt8rCAfGqV8NdGAE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM3/OC0zNTc0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ruO8zaYZjQbTqD7KTnFXB18yyACOP1bShF41kvnD7Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM3/OC0zNTc0LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4hun8dzsZlWtKycanJgT6mux0Y9nXIbpr17J_2zL8aI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM4/Ny05NDMyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/4hun8dzsZlWtKycanJgT6mux0Y9nXIbpr17J_2zL8aI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM4/Ny05NDMyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hjqo6sm8rmYFJr0daMCRbgnpRhKCsMzu7uEfRJuO2CU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTM4/Ny05NDMyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lyaEXSirKrN4Q6J0a-Rj8q-6kolEgjflUkvM_rW-r7I/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQy/OC0yNTE0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/lyaEXSirKrN4Q6J0a-Rj8q-6kolEgjflUkvM_rW-r7I/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQy/OC0yNTE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nM7OzLfjiNDj6jVW7dfQ07aJm5MjVDVJ4yiut78YdC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQy/OC0yNTE0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dfDIUCOOmNbpecORQjeSW3Nl4ohxJzMBHf8L9b_VFdQ/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQz/Ni05OTM5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dfDIUCOOmNbpecORQjeSW3Nl4ohxJzMBHf8L9b_VFdQ/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQz/Ni05OTM5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/7xoT-nrvWoTwadiuPUlSybgTpCFMgurLfjb-O5xMdbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQz/Ni05OTM5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 299
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WCP7OachL5A1T_h09EW-AsQU1MTYLMa-HW9q5_lKG7s/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ0/NC0zOTYyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/WCP7OachL5A1T_h09EW-AsQU1MTYLMa-HW9q5_lKG7s/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ0/NC0zOTYyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/XVlRi8sc77Ptjq4n-0c55KXzwlovzLDRSZ8T_StTawk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ0/NC0zOTYyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 587
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8hlM9rJNCKqmYSbdb7NRmOGfqUf2Dl0QwjVpiQgcQ1M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ1/My0xNjU0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8hlM9rJNCKqmYSbdb7NRmOGfqUf2Dl0QwjVpiQgcQ1M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ1/My0xNjU0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r8L7CPGcicHUC55sUjzBg_ZD6BLXnOeMlDv9YD9SReY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ1/My0xNjU0LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1z0hMnL_-f1jNDmvhFDmvJX2oDP1VdRffYxTgySXvRw/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ3/OC04NDc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/1z0hMnL_-f1jNDmvhFDmvJX2oDP1VdRffYxTgySXvRw/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ3/OC04NDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/__qp-hjShSNg2z3NjmIUhIVA9ZwPKBQiusaKM6YXNmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ3/OC04NDc3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 302
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/86zNX0nyLhYT_BtugLjRUlQ8c183wyncQx3k9Bdbm8g/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ4/Ny03NzAxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/86zNX0nyLhYT_BtugLjRUlQ8c183wyncQx3k9Bdbm8g/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ4/Ny03NzAxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/FAj6SXKJjbTSRR3PHqYS0fjQw9ucj5f0GFqowOyL0g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MzAwMTQ4/Ny03NzAxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dF8I3i0-gSV0OK3CGRyWM-hey0wT2SWvjcsH5qcZJl8/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM3/Ny01MjM3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dF8I3i0-gSV0OK3CGRyWM-hey0wT2SWvjcsH5qcZJl8/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM3/Ny01MjM3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/8VUH9Fk_IkyLoqHkhohpc_NlWbdOWD6pN0g6tSzeU3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM3/Ny01MjM3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 271
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5zw-5Hr2UCPtPlxWrQKgEHW8SUURjPfPcWDrbwsau38/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM5/MC05NzY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/5zw-5Hr2UCPtPlxWrQKgEHW8SUURjPfPcWDrbwsau38/rs:fit/g:sm/q:90/h:271/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM5/MC05NzY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/P3w68ydGMooZ-L8yk9PdZna1ayFGx5EAkCg5KyTtYyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTM0MjcxNjM5/MC05NzY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 271
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uGZY009Won1yDYA8RXFX4jVg7cC6liklUBfnASL9S4Y/rs:fit/g:sm/q:90/h:586/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTY1MTU2ODUw/OS02MTMxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/uGZY009Won1yDYA8RXFX4jVg7cC6liklUBfnASL9S4Y/rs:fit/g:sm/q:90/h:586/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTY1MTU2ODUw/OS02MTMxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/TH7P2NVOXVfy7ZPGVVIpxLl6WtHhkPxNjRggqhLrxuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEx/ODUtMTY1MTU2ODUw/OS02MTMxLmpwZWc.jpeg",
+        "width": 582,
+        "height": 586
+      }
+    ],
+    "year": 2012,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Start",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "0:45"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Thinkin Bout You",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Shea Taylor",
+            "anv": "S. Taylor",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 321127,
+            "resource_url": "https://api.discogs.com/artists/321127"
+          }
+        ],
+        "duration": "3:20"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Fertilizer",
+        "extraartists": [
+          {
+            "name": "James Fauntleroy II",
+            "anv": "J. Fauntleroy",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 737282,
+            "resource_url": "https://api.discogs.com/artists/737282"
+          },
+          {
+            "name": "Reggie Perry",
+            "anv": "R. Perry",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 962863,
+            "resource_url": "https://api.discogs.com/artists/962863"
+          }
+        ],
+        "duration": "0:39"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Sierra Leone",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "2:28"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Sweet Life",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Pharrell Williams",
+            "anv": "P. Williams",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 90037,
+            "resource_url": "https://api.discogs.com/artists/90037"
+          }
+        ],
+        "duration": "4:22"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Not Just Money",
+        "extraartists": [
+          {
+            "name": "Auntie Rosie",
+            "anv": "A. Rosie",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2843303,
+            "resource_url": "https://api.discogs.com/artists/2843303"
+          }
+        ],
+        "duration": "0:59"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Super Rich Kids",
+        "extraartists": [
+          {
+            "name": "Earl Sweatshirt",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1967265,
+            "resource_url": "https://api.discogs.com/artists/1967265"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          },
+          {
+            "name": "Kirk Robinson",
+            "anv": "K. Robinson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 847358,
+            "resource_url": "https://api.discogs.com/artists/847358"
+          },
+          {
+            "name": "Mark C. Rooney",
+            "anv": "M. Rooney",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 94970,
+            "resource_url": "https://api.discogs.com/artists/94970"
+          },
+          {
+            "name": "Mark Morales",
+            "anv": "M. Morales",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 94971,
+            "resource_url": "https://api.discogs.com/artists/94971"
+          },
+          {
+            "name": "Nat Robinson",
+            "anv": "N. Robinson Jr",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 218539,
+            "resource_url": "https://api.discogs.com/artists/218539"
+          },
+          {
+            "name": "Roy C. Hammond",
+            "anv": "R. Hammond",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 305354,
+            "resource_url": "https://api.discogs.com/artists/305354"
+          },
+          {
+            "name": "Thebe Kgositsile",
+            "anv": "T. Kgosistile",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2247560,
+            "resource_url": "https://api.discogs.com/artists/2247560"
+          }
+        ],
+        "duration": "5:04"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Pilot Jones",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Shea Taylor",
+            "anv": "S. Taylor",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 321127,
+            "resource_url": "https://api.discogs.com/artists/321127"
+          }
+        ],
+        "duration": "3:04"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Crack Rock",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "3:44"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Pyramids",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "9:52"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Lost",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          },
+          {
+            "name": "Micah Otano",
+            "anv": "M. Otano",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 605815,
+            "resource_url": "https://api.discogs.com/artists/605815"
+          }
+        ],
+        "duration": "3:54"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "White",
+        "extraartists": [
+          {
+            "name": "John Mayer",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 254479,
+            "resource_url": "https://api.discogs.com/artists/254479"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Tyler Okonma",
+            "anv": "T. Okonma",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2243829,
+            "resource_url": "https://api.discogs.com/artists/2243829"
+          }
+        ],
+        "duration": "1:16"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Monks",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "3:20"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Bad Religion",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "Monte Neuble",
+            "anv": "M. Neuble",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1516333,
+            "resource_url": "https://api.discogs.com/artists/1516333"
+          }
+        ],
+        "duration": "2:55"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Pink Matter",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "A. Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "4:28"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "Forrest Gump",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "3:14"
+      },
+      {
+        "position": "17.1",
+        "type_": "track",
+        "title": "End",
+        "extraartists": [
+          {
+            "name": "Frank Ocean",
+            "anv": "F. Ocean",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2013868,
+            "resource_url": "https://api.discogs.com/artists/2013868"
+          },
+          {
+            "name": "James Ho",
+            "anv": "J. Ho",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1280313,
+            "resource_url": "https://api.discogs.com/artists/1280313"
+          }
+        ],
+        "duration": "2:14"
+      },
+      {
+        "position": "17.2",
+        "type_": "track",
+        "title": "(silence)",
+        "duration": "1:30"
+      },
+      {
+        "position": "17.3",
+        "type_": "track",
+        "title": "Golden Girl",
+        "duration": "4:59"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Frank Ocean",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2013868,
+        "resource_url": "https://api.discogs.com/artists/2013868",
+        "thumbnail_url": "https://i.discogs.com/9sotUu-pjW1ieQ72VzYMAf0uw5wTG1yxqL2bHv7JsCs/rs:fit/g:sm/q:90/h:600/w:481/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMTM4/NjgtMTc0OTc2MTMz/NC02MTg5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Channel Orange",
+    "notes": "Official vinyl reissues starting in July 2025 were released by the artist with different audio content depending on the metalwork used. Metalwork with:\r\n- BLDD 000-A includes an audio sample from Street Fighter. BLNDD 0000-A omits this audio.\r\n- BLDD 000-B has not had any audio differences from BLNDD 0000-B confirmed\r\n- BLDD 000-C includes track C12 'White (feat. John Mayer)'. BLNDD 0000-C omits this song.\r\n- BLDD 000-D includes track D14's intro \"and the peaches...\" BLNDD 0000-D omits this intro.\r\n\r\nReleases include the standard metalwork, with catalog number BLNDD 0000, except where noted:\r\n- [url=https://www.discogs.com/release/34511269-Frank-Ocean-Channel-Orange]BLNDD 0000[/url]\r\n- [url=https://www.discogs.com/release/34870232-Frank-Ocean-Channel-Orange]BLDD 000-D[/url]\r\n- [url=https://www.discogs.com/release/36080959-Frank-Ocean-Channel-Orange]BLDD 000-C[/url]\r\n- [url=https://www.discogs.com/release/36243751-Frank-Ocean-Channel-Orange]BLDD 000-A, BLDD 000-C[/url]\r\n- [url=https://www.discogs.com/release/37529103-Frank-Ocean-Channel-Orange]BLDD 000-B[/url]\r\n",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=xEQ_946TO_g",
+        "title": "Start",
+        "description": "Provided to YouTube by Universal Music Group\n\nStart \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer: Malay\nProducer: Frank Ocean\nStudio  Personnel, Recording  ",
+        "duration": 46,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6JHu3b-pbh8",
+        "title": "Thinkin Bout You",
+        "description": "Provided to YouTube by Universal Music Group\n\nThinkin Bout You \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer: Frank Ocean\nProducer, Associated  Performer, Keyboards: Shea Taylor\nStudio  Personnel, ",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=T4o-rrRLka0",
+        "title": "Fertilizer",
+        "description": "Provided to YouTube by Universal Music Group\n\nFertilizer \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Recording  ",
+        "duration": 40,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kgplNxRbbaM",
+        "title": "Sierra Leone",
+        "description": "Provided to YouTube by Universal Music Group\n\nSierra Leone \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fr",
+        "duration": 149,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=y14F2RQW7h4",
+        "title": "Sweet Life",
+        "description": "Provided to YouTube by Universal Music Group\n\nSweet Life \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fran",
+        "duration": 263,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ix-ownkEPE8",
+        "title": "Not Just Money",
+        "description": "Provided to YouTube by Universal Music Group\n\nNot Just Money \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer: Jonathan Ikpeazu\nComposer  Lyricist: Rosie Watson\n\nAuto-generated by YouTube.",
+        "duration": 60,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0XCQNpjWmRE",
+        "title": "Super Rich Kids",
+        "description": "Provided to YouTube by Universal Music Group\n\nSuper Rich Kids \u00b7 Frank Ocean \u00b7 Earl Sweatshirt\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio ",
+        "duration": 305,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=azgDZ-TBCzk",
+        "title": "Pilot Jones",
+        "description": "Provided to YouTube by Universal Music Group\n\nPilot Jones \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fra",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IVzzw7Vkiyg",
+        "title": "Crack Rock",
+        "description": "Provided to YouTube by Universal Music Group\n\nCrack Rock \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fran",
+        "duration": 225,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ifF6560hkn8",
+        "title": "White",
+        "description": "Provided to YouTube by Universal Music Group\n\nWhite \u00b7 Frank Ocean \u00b7 John Mayer\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer: Frank Ocean\nProducer: Tyler, The Creator\nStudio  Personnel, Recording  Engineer: Jeff",
+        "duration": 77,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dMV31MWIjLE",
+        "title": "Pyramids",
+        "description": "Provided to YouTube by Universal Music Group\n\nPyramids \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nMixer, Recording Engineer, Producer, Studio Personnel: Malay\nStudio Personnel, Producer, Mixer: Frank Oce",
+        "duration": 593,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=J3DWAJGaf7o",
+        "title": "Lost",
+        "description": "Provided to YouTube by Universal Music Group\n\nLost \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nStudio Personnel, Producer, Recording Engineer, Mixer: Malay\nStudio Personnel, Producer, Mixer: Frank Ocean\nP",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HFVlEft9uEs",
+        "title": "Monks",
+        "description": "Provided to YouTube by Universal Music Group\n\nMonks \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Frank Oce",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JMpypbtrcCg",
+        "title": "Bad Religion",
+        "description": "Provided to YouTube by Universal Music Group\n\nBad Religion \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fr",
+        "duration": 176,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uaLV003llhY",
+        "title": "Pink Matter",
+        "description": "Provided to YouTube by Universal Music Group\n\nPink Matter \u00b7 Frank Ocean \u00b7 Andr\u00e9 3000\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personne",
+        "duration": 269,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BqSro-8_gpU",
+        "title": "Forrest Gump",
+        "description": "Provided to YouTube by Universal Music Group\n\nForrest Gump \u00b7 Frank Ocean\n\nchannel ORANGE\n\n\u2117 2012 The Island Def Jam Music Group\n\nReleased on: 2012-01-01\n\nProducer, Studio  Personnel, Recording  Engineer, Mixer: Malay\nProducer, Studio  Personnel, Mixer: Fr",
+        "duration": 195,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=TtsY8a2POtM",
+        "title": "Frank Ocean - End / Golden Girl (ft. Tyler, the Creator)",
+        "description": "End 0:00\n\nGolden Girl Featuring Tyler, the Creator 3:44",
+        "duration": 524,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 454284,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

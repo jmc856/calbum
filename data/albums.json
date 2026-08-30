@@ -1138,8 +1138,44 @@
       "The Lumineers"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 464949,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Blues",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2MTEiVNgRgIvVIrJAqHNBu",
     "release_date": "2012-04-03",
     "release_year": 2012,
@@ -1534,8 +1570,39 @@
       "Frank Ocean"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 454284,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "392p3shh2jkxUxY2VHvlH8",
     "release_date": "2012-07-10",
     "release_year": 2012,
@@ -1590,8 +1657,19 @@
       "A Tribe Called Quest"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27344227dddfc025dbe1601d4be",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1092073,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3WvQpufOsPzkZvcSuynCf3",
     "release_date": "2016-11-11",
     "release_year": 2016,
@@ -1661,8 +1739,39 @@
       "Frank Ocean"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1046042,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3mH6qwIy9crq0I9YQbOuDf",
     "release_date": "2016-08-20",
     "release_year": 2016,
@@ -1814,8 +1923,39 @@
       "Anderson .Paak"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 947169,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Funk",
+        "source": "discogs_style"
+      }
+    ],
     "id": "4VFG1DOuTeDMBjBLZT7hCK",
     "release_date": "2016-01-15",
     "release_year": 2016,
@@ -2562,8 +2702,24 @@
       "Kid Cudi"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1382703,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6pwuKxMUkNg673KETsXPUV",
     "release_date": "2018-06-08",
     "release_year": 2018,

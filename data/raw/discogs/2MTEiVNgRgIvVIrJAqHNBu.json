@@ -1,0 +1,1395 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "803020160866",
+    "artist": "The Lumineers",
+    "title": "The Lumineers",
+    "year": 2012
+  },
+  "results": [
+    {
+      "id": 9437722,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "Australia",
+      "year": "2012",
+      "format": [
+        "CD"
+      ],
+      "label": [
+        "Inertia Pty. Ltd.",
+        "Dualtone Music Group, Inc.",
+        "Regency Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727022630",
+        "REGENCY MEDIA 136592.1 R6358CD 2P14919",
+        "ifpi LN98",
+        "IFPI 6Z10"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/9437722-The-Lumineers-The-Lumineers",
+      "catno": "R6358CD",
+      "thumb": "https://i.discogs.com/7UDeTpOh2zk43T-tyh4EUTxAVviz8Tmcjtw1bsucYbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc3/MjItMTUxMjUyNDkw/Ny0zNDEwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/h4dDLJm70J6arzS5OMoMZrAYRuezmEBa6qk54jJ-Rr0/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc3/MjItMTUxMjUyNDkw/Ny0zNDEwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9437722",
+      "community": {
+        "want": 54,
+        "have": 177
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "id": 3982277,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Onto Entertainment",
+        "Decca",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Decca",
+        "Universal Music Operations Ltd.",
+        "Bear Creek Studios",
+        "Bear Creek Studios",
+        "Fairfax Recordings Studio",
+        "The Lumineers",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02537 12589 0",
+        "602537125890",
+        "BMI",
+        "[4x Universal logo] 06025 371 258-9 02 + 52985458",
+        "MADE IN GERMANY BY EDC D",
+        "IFPI LV27",
+        "IFPI 0146",
+        "[4x Universal logo] 06025 371 258-9 02 + 52985458",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI LV27",
+        "IFPI 0144",
+        "[4x Universal logo] 06025 371 258-9 02 + 52985458",
+        "MADE IN GERMANY BY EDC G",
+        "IFPI LV27",
+        "IFPI 0126",
+        "[4x Universal logo] 06025 371 258-9 01 \u2733 52985458",
+        "MADE IN GERMANY BY EDC C",
+        "IFPI LV26",
+        "IFPI 0121",
+        "[4x Universal logo] 06025 371 258-9 02 + 52985458",
+        "MADE IN GERMANY BY EDC D",
+        "IFPI LV27",
+        "IFPI 0141",
+        "[4x Universal logo] 06025 371 258-9 01 \u2733 52985458",
+        "MADE IN GERMANY BY EDC E",
+        "IFPI LV26",
+        "IFPI 0116"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/3982277-The-Lumineers-The-Lumineers",
+      "catno": "3712589",
+      "thumb": "https://i.discogs.com/h6Sm-ehPYcf6zdbBWE6RLJ1DpSObnIk5F6b4LgkBJeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODIy/NzctMTQwMjE1Mjcy/My02NjUyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/4iTbuWOWUTd0btvMi4FqaLA22WIVisOCQpK0NABEKCw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODIy/NzctMTQwMjE1Mjcy/My02NjUyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3982277",
+      "community": {
+        "want": 127,
+        "have": 2054
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7465699,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "Indonesia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Onto Entertainment",
+        "Decca"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537125890"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/7465699-The-Lumineers-The-Lumineers",
+      "catno": "3712589",
+      "thumb": "https://i.discogs.com/nQInKWBm2ApTd1OCDb_20gUm4FIBsDrR3NjZBCS-yys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU2/OTktMTQ3NDkxOTAy/Ni04MjY4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/SlgUCTuyqQEaOL0jW4JqivTZWGnJmoRRGgpwCZuNxIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU2/OTktMTQ3NDkxOTAy/Ni04MjY4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7465699",
+      "community": {
+        "want": 57,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4716228,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "Europe",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Decca",
+        "Onto Entertainment",
+        "GZ Digital Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537168644",
+        "146854E1/A 3716684-A",
+        "146854E2/A 3716864-B",
+        "146854E1/B 3716684-A",
+        "146854E2/B 3716864-B",
+        "102520E1/C 3716684-A",
+        "102520E2/C 3716684-B",
+        "102520E1/D 3716684-A",
+        "102520E2/D 3716684-B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/4716228-The-Lumineers-The-Lumineers",
+      "catno": "3716864",
+      "thumb": "https://i.discogs.com/zGqX6KoV7nIsj9YtWrQzd38jPnbVtsJ4JrKiNngiMys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjI2/Ny04MDc3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/c17i-jGq1gXuOVNNjx4RJtN4_X-KYApsZBC_ZBhNV84/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjI2/Ny04MDc3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4716228",
+      "community": {
+        "want": 1264,
+        "have": 4219
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17976151,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "France",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Promo"
+      ],
+      "label": [
+        "Dualtone",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/17976151-The-Lumineers-The-Lumineers",
+      "catno": "80302-01608-11",
+      "thumb": "https://i.discogs.com/KRl1pLzk-VZDUkh7mxw4_LLQw7Wz4WQAhLJz72nQTdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc2/MTUxLTE2MTY1MTky/MTItODYzOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eZeqMdhWrCxHWYAgqWeV36m-AzpFstNPkIljvKC2QME/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc2/MTUxLTE2MTY1MTky/MTItODYzOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17976151",
+      "community": {
+        "want": 26,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6886572,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "Canada",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dine Alone Records",
+        "Dine Alone Music Inc.",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "821826004061",
+        "LT38 DA066#130617Z09",
+        "LT38",
+        "IFPI 8000",
+        "LT40 DA066 #120614V05",
+        "LT40",
+        "IFPI 6000",
+        "MADE IN CANADA 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/6886572-The-Lumineers-The-Lumineers",
+      "catno": "DA066",
+      "thumb": "https://i.discogs.com/Qwa9EYqiCPI9-Xx6nnaRYkMYkiM0qFY8QGgaDmu7UiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODY1/NzItMTc2NDA4MTAx/NS02ODQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/NQ_ONkJbx4Xkcnqc3L2nt-ivVTg7C0OK1Qlb_i0UmzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODY1/NzItMTc2NDA4MTAx/NS02ODQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6886572",
+      "community": {
+        "want": 75,
+        "have": 363
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6310804,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "country": "Unknown",
+      "year": "2012",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (The Lumineers Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/6310804-The-Lumineers-The-Lumineers",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/JGvFSBlnyaYaqPwym3x0ohAXedMK2rZvYg3mp1_beEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTA4/MDQtMTQxNjE2NTIy/OS02NDYxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/WSV6iEvKWF4E1kaFYszGfPAjmrzc9kCKKEoVrIOFCDQ/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTA4/MDQtMTQxNjE2NTIy/OS02NDYxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6310804",
+      "community": {
+        "want": 49,
+        "have": 18
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26238386,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Onto Entertainment",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Bear Creek Studios",
+        "Fairfax Recordings Studio"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 03020 16082 8",
+        "CD 155653 CRT",
+        "IFPI LR51",
+        "IFPI AHM03"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/26238386-The-Lumineers-The-Lumineers",
+      "catno": "80302-016082-8",
+      "thumb": "https://i.discogs.com/V2VTxAG9F6kX8Ztfae7PpU4VAtGqS-M9kSsVw2DY0Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM4/Mzg2LTE2Nzc5NzIz/NTItNjIyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jnB2wACFRjMxlGwz8c4_qYntAIl_-jYLmmeKBKC4Ev0/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM4/Mzg2LTE2Nzc5NzIz/NTItNjIyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26238386",
+      "community": {
+        "want": 24,
+        "have": 290
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3820540,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Onto Entertainment",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Bear Creek Studios",
+        "Fairfax Recordings Studio",
+        "CRT, Custom Products, Inc.",
+        "ODS Optical Disc Solutions"
+      ],
+      "type": "release",
+      "barcode": [
+        "803020160828",
+        "8 03020 16082 8",
+        ">CRT 0160828 S2612M    01",
+        "IFPI LL29",
+        "IFPI 9219",
+        ">CRT 0160828 S3111C 01",
+        "IFPI LL29",
+        "IFPI 9223",
+        ">CRT 0160828 S3111B    01",
+        "IFPI LL29",
+        "IFPI 9219",
+        ">CRT 0160828 S3111B    01",
+        "IFPI LL29",
+        "IFPI 9221",
+        ">CRT 0160828 W2612I    01",
+        "IFPI LL29",
+        "IFPI 92S3",
+        ">CRT 0160828 S2612M  01",
+        "IFPI LL29",
+        "IFPI 9221"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/3820540-The-Lumineers-The-Lumineers",
+      "catno": "80302-016082-8",
+      "thumb": "https://i.discogs.com/_0b3iFlBdGCYI3wuVhk1mMaqQiHvOJKIdV0yqPaJpig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA1/NDAtMTM1NTcxMzc0/MS05Mzg4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/lOqqibswAbNpxzSul6pa94GyEgdsXYiQkHVvB6i5rw0/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA1/NDAtMTM1NTcxMzc0/MS05Mzg4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3820540",
+      "community": {
+        "want": 151,
+        "have": 1679
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15029497,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "South Africa",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "602537125890",
+        "6 02537 12589 0",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/15029497-The-Lumineers-The-Lumineers",
+      "catno": "060253712589",
+      "thumb": "https://i.discogs.com/DejMEyQ5rLJ4whUWpwpq_WwTDH5KOhpv0-6eKUzkmHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI5/NDk3LTE2MzIwNDE4/MDEtNDg3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GFBEDv6cRPxMVH0mxWVeBoXKSjpdCLYv9Dpr7VFAqVc/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI5/NDk3LTE2MzIwNDE4/MDEtNDg3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15029497",
+      "community": {
+        "want": 36,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8406628,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [],
+      "country": "France",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "AZ"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/8406628-The-Lumineers-The-Lumineers",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/PLDThdeSbT8Jzc2cMhb0IMAhc-PXpymuHYtr2UedyQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDY2/MjgtMTQ2MDk5NDg5/MS00NzkxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vO7dv-rQ-dHkLEDw87uyaL8HwVB_hwX5Ivk-G6KFp6I/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDY2/MjgtMTQ2MDk5NDg5/MS00NzkxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8406628",
+      "community": {
+        "want": 46,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8609825,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition",
+        "DVD",
+        "DVD-Video"
+      ],
+      "label": [
+        "Dualtone",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 21826 00556 3",
+        "L387 DA0921 #130730Y07",
+        "L387"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/8609825-The-Lumineers-The-Lumineers",
+      "catno": "DA092",
+      "thumb": "https://i.discogs.com/iU7opRO5ytrm4Oz9ZJEXwDPhtz4dJGbU7trD5_HbdvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDk4/MjUtMTQ2NTA2NzU3/NC0yMjA4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/3S5KtwVYLGs-Woq6POt8C3ZiEtgIbLJOuIrj3jwBcaw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDk4/MjUtMTQ2NTA2NzU3/NC0yMjA4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8609825",
+      "community": {
+        "want": 79,
+        "have": 72
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        },
+        {
+          "name": "DVD",
+          "qty": "1",
+          "descriptions": [
+            "DVD-Video"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11457498,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "CDr",
+        "Advance",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Onto Entertainment",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/11457498-The-Lumineers-The-Lumineers",
+      "catno": "803020-1608-28",
+      "thumb": "https://i.discogs.com/V5ASG-ifi6ybreGsiZC-1EFaWXl7tXxajGiFqzcLuh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/NDk4LTE1MTY2NjAx/NjYtNTcyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zI7fQOyFxzdiRBHQJS0-FbapY_3sAb5AaqInzSyehhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/NDk4LTE1MTY2NjAx/NjYtNTcyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11457498",
+      "community": {
+        "want": 35,
+        "have": 24
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Advance",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17899210,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "country": "Unknown",
+      "year": "2012",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Not On Label (The Lumineers Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/17899210-The-Lumineers-The-Lumineers",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/PtFRBE1Le6KeQy1sBP_X9NxGfdMHTlT7eNwdqI9DToM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk5/MjEwLTE2MTYwODA3/NjYtODkxNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CeBQ-JPZdhSJr6JbWOqBqcSbryTGAkj5BVACY882lHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk5/MjEwLTE2MTYwODA3/NjYtODkxNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17899210",
+      "community": {
+        "want": 20,
+        "have": 10
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8373535,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Brazil",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dualtone",
+        "Decca",
+        "Sonopress Rimo Ind\u00fastria E Com\u00e9rcio Fonogr\u00e1fica S.A.",
+        "Universal Music International Ltda."
+      ],
+      "type": "release",
+      "barcode": [
+        "602537125890"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/8373535-The-Lumineers-The-Lumineers",
+      "catno": "3712589",
+      "thumb": "https://i.discogs.com/VB8tmlFqTj0gyjapPNWCgZB2xZ_gU6IBcukFLCzfa-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM1/MzUtMTQ2NDU0NTcy/My0yMTgyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dDDcRaA5xaGalK9B3mrt7HF6dARwcph4o-Gzuq0__QM/rs:fit/g:sm/q:90/h:220/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzM1/MzUtMTQ2NDU0NTcy/My0yMTgyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8373535",
+      "community": {
+        "want": 59,
+        "have": 116
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5504126,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Folk",
+        "Indie Rock"
+      ],
+      "country": "South East Asia",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Dualtone Music Group, Inc.",
+        "Dualtone Music Group, Inc.",
+        "Onto Entertainment",
+        "Decca"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537125890",
+        "6 02537 12589 0",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/5504126-The-Lumineers-The-Lumineers",
+      "catno": "3712589",
+      "thumb": "https://i.discogs.com/E6Q6HgHL5lY6saubsENeGP1hd_Eg_2F4XiJh2Mwr5L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDQx/MjYtMTM5NTA3NzYw/Ny01NTMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/otu5jrQH8Fj2VzgypfORtWr-QIm-xHG09iI5GxdalhE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDQx/MjYtMTM5NTA3NzYw/Ny01NTMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5504126",
+      "community": {
+        "want": 58,
+        "have": 44
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4347778,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "UK",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Dualtone",
+        "Decca"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/4347778-The-Lumineers-The-Lumineers",
+      "catno": "LUMI001",
+      "thumb": "https://i.discogs.com/N_ZwGqnxRFWvQ1kLlcX_uq1wQgOFNQbV6sODsKrtU4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDc3/NzgtMTM2MjQyNzQz/OS03MTQ0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/J6onMIFt9NCcqROXlh6Z1vi4URL-a4WduQY6DDQHhG4/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDc3/NzgtMTM2MjQyNzQz/OS03MTQ0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4347778",
+      "community": {
+        "want": 67,
+        "have": 22
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3577011,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2012",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Dualtone",
+        "Dualtone Music Group, Inc.",
+        "Fairfax Recordings Studio",
+        "Dualtone Music Group, Inc.",
+        "United Record Pressing",
+        "Nashville Record Productions"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 03020 16081 1",
+        "803020160811",
+        "L-21500M-A DUA-1608-1 NRP \u24e4",
+        "L-21500M-B DUA-1608-1 NRP \u24e4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/3577011-The-Lumineers-The-Lumineers",
+      "catno": "80302-01608-11",
+      "thumb": "https://i.discogs.com/ceoLAof9X9XuGn5aKP5tuNwfQZEXcalxzwTU4ionX14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzcw/MTEtMTQ3MTMxMjQw/NC0yODg4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/or_yUVNYZs9VaC3mr1BMZmsq_EfcWlIDJd5QW6Vyt-k/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzcw/MTEtMTQ3MTMxMjQw/NC0yODg4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3577011",
+      "community": {
+        "want": 2976,
+        "have": 13412
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22208932,
+      "title": "The Lumineers - The Lumineers",
+      "master_id": 464949,
+      "genre": [
+        "Rock",
+        "Blues",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk"
+      ],
+      "country": "Argentina",
+      "year": "2012",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Dualtone"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/464949",
+      "uri": "/release/22208932-The-Lumineers-The-Lumineers",
+      "catno": "3712589",
+      "thumb": "https://i.discogs.com/TRUKYKOnFZKioLYAPv6bTGeNT1ks43Oqzkupsw1nDX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA4/OTMyLTE2NDUyMDAz/MTgtNDk3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fE_IKq4oq6Vpl3c4lr19dlTLvwTmtZSQ1n0IGye7exc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA4/OTMyLTE2NDUyMDAz/MTgtNDk3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22208932",
+      "community": {
+        "want": 16,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 464949,
+    "genres": [
+      "Rock",
+      "Blues",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Alternative Rock",
+      "Indie Rock",
+      "Folk"
+    ],
+    "main_release": 4716228,
+    "most_recent_release": 29466340,
+    "resource_url": "https://api.discogs.com/masters/464949",
+    "uri": "https://www.discogs.com/master/464949-The-Lumineers-The-Lumineers",
+    "versions_url": "https://api.discogs.com/masters/464949/versions",
+    "main_release_url": "https://api.discogs.com/releases/4716228",
+    "most_recent_release_url": "https://api.discogs.com/releases/29466340",
+    "num_for_sale": 491,
+    "lowest_price": 1.1,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/J99vdC3FuwNDIYH7e7df2_7PPCJ2hvg9pG2m41zzTko/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjI2/Ny04MDc3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/J99vdC3FuwNDIYH7e7df2_7PPCJ2hvg9pG2m41zzTko/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjI2/Ny04MDc3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zGqX6KoV7nIsj9YtWrQzd38jPnbVtsJ4JrKiNngiMys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjI2/Ny04MDc3LmpwZWc.jpeg",
+        "width": 581,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0hQrXGmxfora903jslG63Tqls7dV9Gzg5DZQLLvQEXY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjE0/My0yMjY3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/0hQrXGmxfora903jslG63Tqls7dV9Gzg5DZQLLvQEXY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjE0/My0yMjY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/IyY5Ngs0csom09V0BUmbGNfSAvcTR241abGBXCl0Q68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTQ5ODg5NjE0/My0yMjY3LmpwZWc.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/j2AVDGhy3D9xsYFzz91LzEQdWi4gODIudToLx9xpYW8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTUxNTA1Nzk3/NS01NTMxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/j2AVDGhy3D9xsYFzz91LzEQdWi4gODIudToLx9xpYW8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTUxNTA1Nzk3/NS01NTMxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/6M8iBzsPCK5L27D6taozbglhlT4eZF4kz0pXPmbnPLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTUxNTA1Nzk3/NS01NTMxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/J83LRdMIWC7DCmabDDfAvDY4Z0U8_2p4NRuIsoLiTNI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIw/OS04OTY4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/J83LRdMIWC7DCmabDDfAvDY4Z0U8_2p4NRuIsoLiTNI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIw/OS04OTY4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Zp_inf-B1Zcl_xmznO5acRyQhVx-B81uGrnzuoVlf2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIw/OS04OTY4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JIzzkpS1PRV3V0_bN9TCapZU645LCTxj4Nc_b_hITEg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIx/MC05MTM1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/JIzzkpS1PRV3V0_bN9TCapZU645LCTxj4Nc_b_hITEg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIx/MC05MTM1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Lyj2IVut-6T-85Y9OctpBIns2narcWo4uuILfJUkACw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTYy/MjgtMTU5OTY2NDIx/MC05MTM1LmpwZWc.jpeg",
+        "width": 593,
+        "height": 600
+      }
+    ],
+    "year": 2012,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Flowers In Your Hair",
+        "duration": "1:50"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Classy Girls",
+        "duration": "2:46"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Submarines",
+        "duration": "2:43"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Dead Sea",
+        "duration": "4:08"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Ho Hey",
+        "duration": "2:43"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Slow It Down",
+        "duration": "5:07"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Stubborn Love",
+        "duration": "4:39"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Big Parade",
+        "duration": "5:28"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Charlie Boy",
+        "duration": "4:21"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Flapper Girl",
+        "duration": "3:15"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Morning Song",
+        "duration": "5:16"
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Lumineers",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2734037,
+        "resource_url": "https://api.discogs.com/artists/2734037",
+        "thumbnail_url": "https://i.discogs.com/JcmWZor7KJQLIrZuNXDyLCywAWB6ZXQuEp6bejGDeN4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3MzQw/MzctMTU1NDQ3NjY2/Mi0zMzIwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "The Lumineers",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=UJWk_KNbDHo",
+        "title": "The Lumineers - \"Stubborn Love\" (Official Video)",
+        "description": "Purchase Cleopatra, the brand new album from The Lumineers\nVisit the website: http://po.st/LumineersOSYT\nOrder on the Official Store: http://po.st/CleopatraYTDeC\nOrder on iTunes: http://po.st/CleopatraYTDiT\nOrder on Google: http://po.st/CleopatraYTDGP\n\nFa",
+        "duration": 280,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pgkusNV0GLg",
+        "title": "The Lumineers - \"Submarines\" (Official Video)",
+        "description": "New Album, New Single, World Tour\nPre order Cleopatra, the brand new album from The Lumineers\nVisit the website: http://po.st/LumineersOSYT\nOrder on the Official Store: http://po.st/CleopatraYTDeC\nOrder on iTunes: http://po.st/CleopatraYTDiT\nOrder on Goog",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vB16TKPiff4",
+        "title": "The Lumineers - Flowers In Your Hair",
+        "description": "",
+        "duration": 111,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zvCBSSwgtg4",
+        "title": "The Lumineers - Ho Hey (Official Video)",
+        "description": "Pre order Cleopatra, the brand new album from The Lumineers: http://po.st/LumineersOSYT\n\nThe Lumineers - \"Ho Hey\"\nAlbum: The Lumineers (April 3rd, 2012)\nLabel: Dualtone Music Group (US), Rouge/Inertia (AUS), Dine Alone Records (CAN), Decca Records (ROW)\nD",
+        "duration": 162,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pTOC_q0NLTk",
+        "title": "The Lumineers - Ophelia",
+        "description": "BRIGHTSIDE - The new album by the Lumineers, out now! Order here: https://TheLumineers.lnk.to/BRIGHTSIDEID\n\nThe Lumineers 2022 tour dates are on sale now: https://www.thelumineers.com\n\nIII \u2013 the new album out now; stream/download it here: https://thelumin",
+        "duration": 163,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UJWk_KNbDHo",
+        "title": "The Lumineers - \"Stubborn Love\" (Official Video)",
+        "description": "Purchase Cleopatra, the brand new album from The Lumineers\nVisit the website: http://po.st/LumineersOSYT\nOrder on the Official Store: http://po.st/CleopatraYTDeC\nOrder on iTunes: http://po.st/CleopatraYTDiT\nOrder on Google: http://po.st/CleopatraYTDGP\n\nFa",
+        "duration": 280,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=v4pi1LxuDHc",
+        "title": "The Lumineers - Sleep On The Floor (Official Video)",
+        "description": "Check out the official music video for \"Sleep On The Floor\" by the Lumineers\n\nCleopatra is the brand new album from The Lumineers\nOrder on the Official Store: http://po.st/CleopatraYTDeC\nOrder on iTunes: http://po.st/CleopatraYTDiT\nOrder on Amazon: http:/",
+        "duration": 286,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=oPO_UfJieKs",
+        "title": "The Lumineers - III",
+        "description": "BRIGHTSIDE - The new album by the Lumineers, out now! Order here: https://TheLumineers.lnk.to/BRIGHTSIDEID\n\nThe Lumineers 2022 tour dates are on sale now: https://www.thelumineers.com\n\nMusic video by The Lumineers performing III. A Decca Records Video; \u00a9 ",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aN5s9N_pTUs",
+        "title": "The Lumineers - Cleopatra",
+        "description": "BRIGHTSIDE - The new album by the Lumineers, out now! Order here: https://TheLumineers.lnk.to/BRIGHTSIDEID\n\nThe Lumineers 2022 tour dates are on sale now: https://www.thelumineers.com\n\nhttps://TheLumineers.lnk.to/IIIID!YTC\nhttps://thelumineers.lnk.to/Chap",
+        "duration": 229,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 464949,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Blues",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

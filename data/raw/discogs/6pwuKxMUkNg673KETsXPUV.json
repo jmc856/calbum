@@ -1,0 +1,1592 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602567803911",
+    "artist": "KIDS SEE GHOSTS",
+    "title": "KIDS SEE GHOSTS",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 12167505,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Worldwide",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12167505-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/9q6XmiJ2OVOCCJmKKtCtBf-gRzdCsd3CQuPZx8JP9cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NTA1LTE1ODQxMzA0/NzctNzc4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/T3KuBpOxZk-0JviIFE9_J_HrS-yZRuuxmHae4dmbEII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY3/NTA1LTE1ODQxMzA0/NzctNzc4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12167505",
+      "community": {
+        "want": 136,
+        "have": 34
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17689099,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CDr",
+        "Album",
+        "Mixtape",
+        "Promo"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings"
+      ],
+      "type": "release",
+      "barcode": [
+        "6514120599756"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/17689099-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-TpOFfSxmliSTceBnoPpSzR8bCvjkpPmQT6tTAwTDJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg5/MDk5LTE2MTQ4OTE3/NjYtNzUzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MTTDjB9LoyIi7RUiFvy6d2COO2w087wE4wKyc0xtHHk/rs:fit/g:sm/q:90/h:477/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg5/MDk5LTE2MTQ4OTE3/NjYtNzUzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17689099",
+      "community": {
+        "want": 100,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Mixtape",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12582583,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Getting Out Our Dreams",
+        "Wicked Awesome Records",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc.",
+        "Mascotte Holdings, Inc.",
+        "Universal International Music B.V.",
+        "Takashi Murakami",
+        "Kaikai Kiki Co., Ltd.",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80018 7",
+        "602567800187",
+        "LC 08427",
+        "BIEM/SDRM",
+        "Sony DADC [Universal logo] 00602567800187 A0103084664-0101 17 A00",
+        "IFPI L557",
+        "IFPI 946Q"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12582583-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "00602567800187",
+      "thumb": "https://i.discogs.com/QGLhdKgHRRY8uA8zx2GSpiLnfgbI6r2rc2NrL4Y5-rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/NTgzLTE1MzgwNDYy/NjctMTU3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IlvglNdWGvK75SWgs_B8hBqibWG1r4UhpdePRx1U6rY/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/NTgzLTE1MzgwNDYy/NjctMTU3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12582583",
+      "community": {
+        "want": 370,
+        "have": 1351
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12575982,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Getting Out Our Dreams",
+        "Wicked Awesome Records",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80018 7",
+        "602567800187",
+        "(1056088) B002875902 01 0001",
+        "IFPI L247",
+        "IFPI KKTE"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12575982-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "B0028759-02",
+      "thumb": "https://i.discogs.com/sm_RizhQY3bhPsFejvwUEsoh2o8NBHCR_eEuDzYScio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/OTgyLTE3NzI2NzA0/OTYtNzgyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eOzhL94Fr_hAtd-6IPtyq_cHqQW7ZILg8f5_jeemelk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/OTgyLTE3NzI2NzA0/OTYtNzgyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12575982",
+      "community": {
+        "want": 640,
+        "have": 1895
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12737263,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Europe",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Def Jam Recordings",
+        "Getting Out Our Dreams",
+        "Getting Out Our Dreams II, LLC",
+        "Getting Out Our Dreams, Inc.",
+        "Def Jam Recordings",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc.",
+        "Universal Music Distribution",
+        "Def Jam Recordings",
+        "Takashi Murakami",
+        "Kaikai Kiki Co., Ltd.",
+        "Yeezy Sound",
+        "Africa Kurian Music",
+        "BMG Rights Management (US) LLC",
+        "Brill Building Songs",
+        "Chappell & Co.",
+        "Elsie's Baby Boy Publishing",
+        "EMI Blackwood Music Inc.",
+        "Evan Mast Publishing",
+        "Its Drugs Publishing",
+        "Kobalt Publishing",
+        "Kobalt Songs Music Publishing",
+        "Neighborhood Pusha",
+        "OWD Olorun",
+        "Papa George Music",
+        "Please Don't Forget To Pay Me",
+        "Please Gimme My Publishing",
+        "Primary Wave",
+        "Songs By Defend Now Again",
+        "Sony ATV",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sound EQ Music",
+        "Universal Music Corp.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Way Above Music",
+        "Wedon'tplayevenwhenwe'replayin! Songs LLC",
+        "Yasiin Bey Publishing Designee",
+        "Record Technology Incorporated",
+        "GZ Media",
+        "Sterling Sound",
+        "Wicked Awesome Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80048 4",
+        "LC08427",
+        "BIEM/SDRM",
+        "B0028760-01/602567800484-A  JN-H STERLING  179187E1/A  B0028760-0IA2",
+        "B0028760-01/602567800484-B  JN-H STERLING  179187E2/A  B0028760-0IB2",
+        "B0028760-01/602567800484-A JN-H STERLING 179187E1/A2 B0028760-0IA2",
+        "B0028760-01/602567800484-B JN-H STERLING 179187E2/A1 B0028760-0IB2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12737263-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "00602567800194",
+      "thumb": "https://i.discogs.com/1JAmko_yL9fbVICXs9a6_Oro0YQBo6f3W_RaBUkJTvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM3/MjYzLTE1NDEyNTI5/NDktMjI3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sJAOt9B0lXt773ndUHDEfA_eNbGcR0SvK3TV3krssrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM3/MjYzLTE1NDEyNTI5/NDktMjI3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12737263",
+      "community": {
+        "want": 1692,
+        "have": 15324
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12710471,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Australasia",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Getting Out Our Dreams II, LLC",
+        "Takashi Murakami",
+        "Universal Music Australia",
+        "Technicolor, Australia",
+        "Technicolor, Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80018 7",
+        "602567800187",
+        "[Technicolor logo] B002875902 KIDS SEE GHOSTS 01",
+        "ifpi L285",
+        "IFPI 4690"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12710471-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "B002875902",
+      "thumb": "https://i.discogs.com/-Yu-LK8w4to37ZMmgGWtwI_SLz1e1SN49i2GlzlbvjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/NDcxLTE1NDA0OTg3/NTUtMTkyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UiKWPz3za4thBDC7_7BKKc6N6afl0q1pGc8nUkNDEaw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/NDcxLTE1NDA0OTg3/NTUtMTkyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12710471",
+      "community": {
+        "want": 237,
+        "have": 251
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12813047,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Promo",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label",
+        "DJX Series"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12813047-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "DJX-3308",
+      "thumb": "https://i.discogs.com/JlN6NJb8XDhuI7_s0uqmsWmk4j6kvywV67t5WRhplV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEz/MDQ3LTE1NDI0NTU0/NTUtMTU5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/oWzrOpM1-lEjujfYIQmoh8yKwtiFTsu1ttlcUSy3MYg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEz/MDQ3LTE1NDI0NTU0/NTUtMTU5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12813047",
+      "community": {
+        "want": 437,
+        "have": 96
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Promo",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31629073,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "USA & Canada",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "Stereo"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Wicked Awesome Records",
+        "Sterling Sound",
+        "Record Technology Incorporated",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "B0028760-A 30981.1(3)... JN-H STERLING",
+        "B0028760-01B 30981.2(3)... JN-H STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/31629073-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "B0028760-01",
+      "thumb": "https://i.discogs.com/f3LWhe7nB-mhkDr1kxLBcTCVYEyjI-y3jVYBIfRXXc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI5/MDczLTE3MjUyMTQx/MjMtNTU0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-ZjoMofBXvZQj9jxDF_wvyKPvN7yofZPYuhrRmgkoFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI5/MDczLTE3MjUyMTQx/MjMtNTU0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31629073",
+      "community": {
+        "want": 80,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12715713,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Canada",
+      "year": "2018",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Universal Music Canada Inc.",
+        "Universal Music Canada Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80018 7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12715713-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "B002875902",
+      "thumb": "https://i.discogs.com/ioW0ST7BODH3OazoUdpzFg2LtvI9u_5cAzQloycLtTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NzEzLTE1NDA3NTAz/ODAtNTg2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/d5ARbcxv34HUc1cnBn1mPMA0QCXpG2X26pjorszst0Y/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NzEzLTE1NDA3NTAz/ODAtNTg2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12715713",
+      "community": {
+        "want": 221,
+        "have": 197
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12720668,
+      "title": "KIDS SEE GHOSTS - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "USA & Canada",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Wicked Awesome Records",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc.",
+        "Takashi Murakami",
+        "Kaikai Kiki Co., Ltd.",
+        "Yeezy Sound",
+        "Africa Kurian Music",
+        "BMG Rights Management (US) LLC",
+        "Brill Building Songs",
+        "Chappell & Co.",
+        "Elsie's Baby Boy Publishing",
+        "EMI Blackwood Music Inc.",
+        "Evan Mast Publishing",
+        "Its Drugs Publishing",
+        "Kobalt Publishing",
+        "Kobalt Songs Music Publishing",
+        "Neighborhood Pusha",
+        "OWD Olorun",
+        "Papa George Music",
+        "Please Don't Forget To Pay Me",
+        "Please Gimme My Publishing",
+        "Primary Wave",
+        "Songs By Defend Now Again",
+        "Sony ATV",
+        "Sony / ATV Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Sound EQ Music",
+        "Universal Music Corp.",
+        "Warner-Tamerlane Publishing Corp.",
+        "Way Above Music",
+        "Wedon'tplayevenwhenwe'replayin! Songs LLC",
+        "Yasiin Bey Publishing Designee",
+        "Sterling Sound",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02567 80048 4",
+        "B0028760-A 30981.1(3)... JN-H STERLING",
+        "B0028760-01B 30981.2(3)... JN-H STERLING",
+        "ASCAP",
+        "BMI",
+        "GMR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12720668-KIDS-SEE-GHOSTS-Kids-See-Ghosts",
+      "catno": "B0028760-01",
+      "thumb": "https://i.discogs.com/SHiI1lweCSa27wYRPhBMjdj4nxUlJAMRwSw-f_59TpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/NjY4LTE2ODU4MDcy/NTUtODQyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/D7DXMvmNMJabWSD-w-rTxUTCd07pLDkfJ5LCLHwtS5A/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIw/NjY4LTE2ODU4MDcy/NTUtODQyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12720668",
+      "community": {
+        "want": 4996,
+        "have": 28851
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33570414,
+      "title": "Kids See Ghosts - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Jazzy Hip-Hop",
+        "Trip Hop",
+        "Trap"
+      ],
+      "country": "Canada",
+      "year": "2018",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "33 \u2153 RPM",
+        "Mini-Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Wicked Awesome Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "602507321253",
+        "602567800484",
+        "B0028760-01A (4)",
+        "B0028760-01B (4)",
+        "B0032376-01 ST04",
+        "101913472"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/33570414-Kids-See-Ghosts-Kids-See-Ghosts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ihtcK0Tr8ySS6OLYppK-BP5zTMfpr_INIy1hAr6Mxz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTcw/NDE0LTE3NDM0NjU2/MDUtMjE0Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ExbYWBUiwWrfn5opCxvzeHFxw9WW0GBNh3xnuGYPwd4/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTcw/NDE0LTE3NDM0NjU2/MDUtMjE0Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33570414",
+      "community": {
+        "want": 63,
+        "have": 56
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Solid Pink",
+          "descriptions": [
+            "12\"",
+            "33 \u2153 RPM",
+            "Mini-Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14111857,
+      "title": "Kids See Ghosts 2 - Kids See Ghosts 2",
+      "master_id": 0,
+      "genre": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "style": [
+        "Vaporwave",
+        "Cut-up/DJ"
+      ],
+      "country": "Unknown",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3"
+      ],
+      "label": [
+        "Platecore The Label"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/14111857-Kids-See-Ghosts-2-Kids-See-Ghosts-2",
+      "catno": "9",
+      "thumb": "https://i.discogs.com/QUC6l7u_KXbJ_P2_hiXhjsi6q5hCWnn7Tj8LB5QeG_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/ODU3LTE1NjgwNTQy/NDktNzc2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6ilhw8hJwSosRoOj6NfZ2Sin8Mua4ZXHB7dTGXKvXx4/rs:fit/g:sm/q:90/h:1066/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/ODU3LTE1NjgwNTQy/NDktNzc2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14111857",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "1",
+          "descriptions": [
+            "MP3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34358158,
+      "title": "KIDS SEE GHOSTS, Kanye West & Kid Cudi - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Worldwide",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1397651890"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/34358158-KIDS-SEE-GHOSTS-Kanye-West-Kid-Cudi-Kids-See-Ghosts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/AIoQxxYg-E3D2zXrGKYH6l9jfhYji-2UrdcjV40FAXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU4/MTU4LTE3NTA3NzY0/MTctNDU0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hXR9Nuu5tFxcCnh0o8B0TTwmJQgOjOPP44BxYHe3VV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU4/MTU4LTE3NTA3NzY0/MTctNDU0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34358158",
+      "community": {
+        "want": 14,
+        "have": 3
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "text": "256 kbps, Clean",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12108759,
+      "title": "KIDS SEE GHOSTS, Kanye West & Kid Cudi - Kids See Ghosts",
+      "master_id": 1382703,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Experimental"
+      ],
+      "country": "Worldwide",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Getting Out Our Dreams",
+        "Def Jam Recordings",
+        "Getting Out Our Dreams II, LLC",
+        "Def Jam Recordings",
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "1396710872"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1382703",
+      "uri": "/release/12108759-KIDS-SEE-GHOSTS-Kanye-West-Kid-Cudi-Kids-See-Ghosts",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/RtuZWGD5G7eJAe1ZXQfNtMm4sXNoTfer2jABy_KJCiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SHrSEw9Uy00luEJwSIXsfmCzWn72ZsrAezh1nJrbxC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12108759",
+      "community": {
+        "want": 451,
+        "have": 535
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "text": "256 kbps, Explicit",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1382703,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Pop Rap",
+      "Experimental"
+    ],
+    "main_release": 12108759,
+    "most_recent_release": 32410962,
+    "resource_url": "https://api.discogs.com/masters/1382703",
+    "uri": "https://www.discogs.com/master/1382703-KIDS-SEE-GHOSTS-Kanye-West-Kid-Cudi-Kids-See-Ghosts",
+    "versions_url": "https://api.discogs.com/masters/1382703/versions",
+    "main_release_url": "https://api.discogs.com/releases/12108759",
+    "most_recent_release_url": "https://api.discogs.com/releases/32410962",
+    "num_for_sale": 264,
+    "lowest_price": 7.56,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/SHrSEw9Uy00luEJwSIXsfmCzWn72ZsrAezh1nJrbxC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SHrSEw9Uy00luEJwSIXsfmCzWn72ZsrAezh1nJrbxC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/RtuZWGD5G7eJAe1ZXQfNtMm4sXNoTfer2jABy_KJCiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2018,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Feel The Love",
+        "extraartists": [
+          {
+            "name": "Pusha T",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 158775,
+            "resource_url": "https://api.discogs.com/artists/158775"
+          },
+          {
+            "name": "Dot Da Genius",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1283797,
+            "resource_url": "https://api.discogs.com/artists/1283797"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "2:45"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Fire",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Boogz",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 204378,
+            "resource_url": "https://api.discogs.com/artists/204378"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Kid Cudi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1093094,
+            "resource_url": "https://api.discogs.com/artists/1093094"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "2:20"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "4th Dimension",
+        "extraartists": [
+          {
+            "name": "Louis Prima",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 36865,
+            "resource_url": "https://api.discogs.com/artists/36865"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Plain Pat",
+            "anv": "",
+            "join": "",
+            "role": "Programmed By",
+            "tracks": "",
+            "id": 231617,
+            "resource_url": "https://api.discogs.com/artists/231617"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Louis Prima",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 36865,
+            "resource_url": "https://api.discogs.com/artists/36865"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "2:33"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Freeee (Ghost Town, Pt. 2)",
+        "extraartists": [
+          {
+            "name": "Ty Dolla $ign",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3895048,
+            "resource_url": "https://api.discogs.com/artists/3895048"
+          },
+          {
+            "name": "Dot Da Genius",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1283797,
+            "resource_url": "https://api.discogs.com/artists/1283797"
+          },
+          {
+            "name": "Jeff Bhasker",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 256804,
+            "resource_url": "https://api.discogs.com/artists/256804"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Corin Littler",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6527738,
+            "resource_url": "https://api.discogs.com/artists/6527738"
+          },
+          {
+            "name": "Jeff Bhasker",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 256804,
+            "resource_url": "https://api.discogs.com/artists/256804"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          },
+          {
+            "name": "Tyrone Griffin (2)",
+            "anv": "Tyrone Griffin Jr",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3288186,
+            "resource_url": "https://api.discogs.com/artists/3288186"
+          }
+        ],
+        "duration": "3:26"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Reborn",
+        "extraartists": [
+          {
+            "name": "Dot Da Genius",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1283797,
+            "resource_url": "https://api.discogs.com/artists/1283797"
+          },
+          {
+            "name": "Evan Mast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 701397,
+            "resource_url": "https://api.discogs.com/artists/701397"
+          },
+          {
+            "name": "Kid Cudi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1093094,
+            "resource_url": "https://api.discogs.com/artists/1093094"
+          },
+          {
+            "name": "Plain Pat",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 231617,
+            "resource_url": "https://api.discogs.com/artists/231617"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "5:24"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Kids See Ghosts",
+        "extraartists": [
+          {
+            "name": "Yasiin Bey",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2538994,
+            "resource_url": "https://api.discogs.com/artists/2538994"
+          },
+          {
+            "name": "Andrew Dawson",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 370017,
+            "resource_url": "https://api.discogs.com/artists/370017"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Plain Pat",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 231617,
+            "resource_url": "https://api.discogs.com/artists/231617"
+          },
+          {
+            "name": "Dante Smith",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 693173,
+            "resource_url": "https://api.discogs.com/artists/693173"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "4:05"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Cudi Montage",
+        "extraartists": [
+          {
+            "name": "Dot Da Genius",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1283797,
+            "resource_url": "https://api.discogs.com/artists/1283797"
+          },
+          {
+            "name": "Kid Cudi",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1093094,
+            "resource_url": "https://api.discogs.com/artists/1093094"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Kanye West",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 137880,
+            "resource_url": "https://api.discogs.com/artists/137880"
+          },
+          {
+            "name": "Kurt Cobain",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 275118,
+            "resource_url": "https://api.discogs.com/artists/275118"
+          },
+          {
+            "name": "Mike Dean",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101883,
+            "resource_url": "https://api.discogs.com/artists/101883"
+          },
+          {
+            "name": "Scott Mescudi",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1283794,
+            "resource_url": "https://api.discogs.com/artists/1283794"
+          }
+        ],
+        "duration": "3:17"
+      }
+    ],
+    "artists": [
+      {
+        "name": "KIDS SEE GHOSTS",
+        "anv": "",
+        "join": ",",
+        "role": "",
+        "tracks": "",
+        "id": 6527227,
+        "resource_url": "https://api.discogs.com/artists/6527227",
+        "thumbnail_url": "https://i.discogs.com/P38ZQdh1s-5Y5VNEqc81jGck-qpNh59D0Q0sd93J51I/rs:fit/g:sm/q:90/h:320/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1Mjcy/MjctMTUyODQ4MzQ3/My02NDQzLmpwZWc.jpeg"
+      },
+      {
+        "name": "Kanye West",
+        "anv": "",
+        "join": "&",
+        "role": "",
+        "tracks": "",
+        "id": 137880,
+        "resource_url": "https://api.discogs.com/artists/137880",
+        "thumbnail_url": "https://i.discogs.com/wy9IfP_N1tqxIJ1SmyUjPTPZTNGA4RUD27WPWiqLv6s/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzg4/MC0xNzg3MDM2ODA3/LTQ0NTcuanBlZw.jpeg"
+      },
+      {
+        "name": "Kid Cudi",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1093094,
+        "resource_url": "https://api.discogs.com/artists/1093094",
+        "thumbnail_url": "https://i.discogs.com/rH-Zi2jrhY1Z5HFvxpyZPsDrhWwacT0hPXAJbw2J8-g/rs:fit/g:sm/q:90/h:600/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwOTMw/OTQtMTUyMTg3Mjg1/OS02NjQ5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Kids See Ghosts",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=dtKmzkYMS2M",
+        "title": "Kids See Ghosts - Kids See Ghosts Vinyl Unboxing",
+        "description": "In this video I show you the Kids See Ghosts Vinyl by Kids See Ghosts.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nVinyl: https://amzn.to/3x5Ss6a\nCD: https://amzn.to/3NQ9zhY\nDigital: https://a",
+        "duration": 171,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dnFema_Tf9w",
+        "title": "Kids See Ghosts - Kids See Ghosts CD Unboxing",
+        "description": "In this video I show you the Kids See Ghosts CD by Kids See Ghosts.\nI unbox the product completely for you and show you every content in detail.\n\u25ba You can buy the album here:\nCD: https://amzn.to/3NQ9zhY\nVinyl: https://amzn.to/3x5Ss6a\nDigital: https://amzn",
+        "duration": 121,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cHFzyFMT0pw",
+        "title": "Kids See Ghosts",
+        "description": "Provided to YouTube by Universal Music Group\n\nKids See Ghosts \u00b7 KIDS SEE GHOSTS \u00b7 Yasiin Bey\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer, Composer L",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6Hj5tucYv1Q",
+        "title": "4th Dimension",
+        "description": "Provided to YouTube by Universal Music Group\n\n4th Dimension \u00b7 KIDS SEE GHOSTS \u00b7 Louis Prima\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nComposer Lyricist, Pr",
+        "duration": 154,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZBIzL1OdKMI",
+        "title": "Fire",
+        "description": "Provided to YouTube by Universal Music Group\n\nFire \u00b7 KIDS SEE GHOSTS\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nComposer Lyricist, Producer: Kanye West\nProd",
+        "duration": 141,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RaTAlvbC_T4",
+        "title": "Cudi Montage",
+        "description": "Provided to YouTube by Universal Music Group\n\nCudi Montage \u00b7 KIDS SEE GHOSTS\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kid Cudi\nProducer: Dot Da ",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rnZQvgWhM5s",
+        "title": "Feel The Love",
+        "description": "Provided to YouTube by Universal Music Group\n\nFeel The Love \u00b7 KIDS SEE GHOSTS \u00b7 Pusha T\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer, Composer Lyrici",
+        "duration": 166,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5bZqAfJBsSk",
+        "title": "Freeee (Ghost Town Pt. 2)",
+        "description": "Provided to YouTube by Universal Music Group\n\nFreeee (Ghost Town Pt. 2) \u00b7 KIDS SEE GHOSTS \u00b7 Ty Dolla $ign\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam,  A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProduce",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rnZQvgWhM5s",
+        "title": "Feel The Love",
+        "description": "Provided to YouTube by Universal Music Group\n\nFeel The Love \u00b7 KIDS SEE GHOSTS \u00b7 Pusha T\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kanye West\nS",
+        "duration": 166,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZBIzL1OdKMI",
+        "title": "Fire",
+        "description": "Provided to YouTube by Universal Music Group\n\nFire \u00b7 KIDS SEE GHOSTS\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kanye West\nProducer: BoogzDaBeas",
+        "duration": 141,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6Hj5tucYv1Q",
+        "title": "4th Dimension",
+        "description": "Provided to YouTube by Universal Music Group\n\n4th Dimension \u00b7 KIDS SEE GHOSTS \u00b7 Louis Prima\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kanye We",
+        "duration": 154,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5bZqAfJBsSk",
+        "title": "Freeee (Ghost Town Pt. 2)",
+        "description": "Provided to YouTube by Universal Music Group\n\nFreeee (Ghost Town Pt. 2) \u00b7 KIDS SEE GHOSTS \u00b7 Ty Dolla $ign\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProd",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hQC8COGQ4BM",
+        "title": "Reborn",
+        "description": "Provided to YouTube by Universal Music Group\n\nReborn \u00b7 KIDS SEE GHOSTS\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kid Cudi\nProducer: Dot Da Geni",
+        "duration": 325,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cHFzyFMT0pw",
+        "title": "Kids See Ghosts",
+        "description": "Provided to YouTube by Universal Music Group\n\nKids See Ghosts \u00b7 KIDS SEE GHOSTS \u00b7 Yasiin Bey\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kanye W",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RaTAlvbC_T4",
+        "title": "Cudi Montage",
+        "description": "Provided to YouTube by Universal Music Group\n\nCudi Montage \u00b7 KIDS SEE GHOSTS\n\nKIDS SEE GHOSTS\n\n\u2117 2018 Getting Out Our Dreams II, LLC Distributed By Def Jam, A Division of UMG Recordings, Inc.\n\nReleased on: 2018-06-08\n\nProducer: Kid Cudi\nProducer: Dot D",
+        "duration": 198,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1382703,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

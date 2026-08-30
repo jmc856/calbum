@@ -1,0 +1,652 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "888915169681",
+    "artist": "Anderson .Paak",
+    "title": "Malibu",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 12863140,
+      "title": "Anderson .Paak - Malibu",
+      "master_id": 947169,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "Japan",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "OBE",
+        "Steel Wool Records",
+        "ArtClub International",
+        "OBE",
+        "Empire",
+        "Empire",
+        "Fisticuffs Studios",
+        "Elysian Masters"
+      ],
+      "type": "release",
+      "barcode": [
+        "888915169681",
+        "4526180369851"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/947169",
+      "uri": "/release/12863140-Anderson-Paak-Malibu",
+      "catno": "ERECDJ218",
+      "thumb": "https://i.discogs.com/28108aeS6cfHT6gl1vgBnNH9kxRZ5ZvDiRzXmxnLkIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/MTQwLTE1NzA0MDQy/MjUtMzA1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7EYjbMDFNOiI0Fgie8HC11CrOE169R7pyWd_rk3QC58/rs:fit/g:sm/q:90/h:519/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODYz/MTQwLTE1NzA0MDQy/MjUtMzA1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12863140",
+      "community": {
+        "want": 159,
+        "have": 32
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7969979,
+      "title": "Anderson .Paak - Malibu",
+      "master_id": 947169,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul",
+        "Psychedelic",
+        "Funk"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "OBE",
+        "Steel Wool Records",
+        "ArtClub International",
+        "OBE",
+        "Empire",
+        "Empire",
+        "Fisticuffs Studios",
+        "Elysian Masters",
+        "Disc Makers"
+      ],
+      "type": "release",
+      "barcode": [
+        "888915169681",
+        "MAA1524 [DISCMAKERS Logo]",
+        "IFPI LZ74",
+        "IFPI ALK17"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/947169",
+      "uri": "/release/7969979-Anderson-Paak-Malibu",
+      "catno": "ERE218",
+      "thumb": "https://i.discogs.com/c9Qv9LVc2UPYZDoLmY6Q4cbmA2bMR7xL95lLZIpcF4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/rLtAe5yfHI5Zqx87yMsrIa6OO1aXn8PCmZbhhqKYLpY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7969979",
+      "community": {
+        "want": 859,
+        "have": 1028
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10949302,
+      "title": "Anderson .Paak - Malibu",
+      "master_id": 947169,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "OBE",
+        "Steel Wool Records",
+        "ArtClub International",
+        "Empire",
+        "Steel Wool Entertainment",
+        "ArtClub International",
+        "Empire",
+        "The Orchard",
+        "The Orchard",
+        "Empire",
+        "Dem Jointz Music",
+        "It's A Wonderful World Music, Inc.",
+        "Hi-Tek Productions, Inc.",
+        "Madlib Invazion",
+        "DJ Khalil Productions LLC",
+        "OBE, LLC",
+        "Brandon Paak Anderson",
+        "Watch And Learn Publishing",
+        "Jose Rios",
+        "Ron Jerome Avant",
+        "Shark Music",
+        "Julian Le",
+        "Emile Martinez",
+        "HH Music Worldwide",
+        "HH Music",
+        "Jaleesa And Mahdis Music",
+        "Universal Music North America",
+        "MAFE Music Pub",
+        "Merisola Matthew Louis",
+        "Ultra Tunes Canada",
+        "HW&W Recordings",
+        "Culture Over Everything",
+        "Downtown Music Publishing",
+        "Louder Than Life",
+        "Sony Music Inc.",
+        "Vicky Farewell Nguyen",
+        "Kevin Celestin",
+        "These Are Songs Of Pulse",
+        "Ann One",
+        "Like",
+        "It's Like That",
+        "Squatch Records",
+        "BabyGame",
+        "Sonyae Elise",
+        "Glow365",
+        "Drum Hedz 713 Music",
+        "Olivia Braga",
+        "Teklab Studios",
+        "DJ Hi Tek Music Publishing",
+        "BMG Chrysalis Music",
+        "Dem Jointz Music",
+        "BMG Platinum Songs",
+        "Publishing Is Pen Skills",
+        "Songs Of Windswept",
+        "BMG Chrysalis",
+        "The Cadillac Castle",
+        "BrightLy Studios",
+        "Fisticuffs Gym",
+        "Teklab Studios",
+        "Elysian Masters",
+        "Copycats Media",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "888915169681",
+        "8 88915 16968 1",
+        "BMI",
+        "ASCAP",
+        "SOCAN",
+        "APRA",
+        "SESAC",
+        "WWW.COPYCATSMEDIA.COM 15762-CD-0078 16-037-11",
+        "WWW.COPYCATSMEDIA.COM 15762-CD-0078 15-348-19",
+        "WWW.COPYCATSMEDIA.COM 15762-CD-0078",
+        "IFPI LK13",
+        "IFPI L824",
+        "IFPI 3V43",
+        "none"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/947169",
+      "uri": "/release/10949302-Anderson-Paak-Malibu",
+      "catno": "ERE218",
+      "thumb": "https://i.discogs.com/odWeJKyyCTchgHa9KMyuIPMx7MYrLdvw3UbtQHHlbMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/MzAyLTE1ODEyMDM4/MDQtNDgwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FPtzyosaXxor7rP_uQWKGL--XTqrB1qcwOIKdoZUPBE/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/MzAyLTE1ODEyMDM4/MDQtNDgwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10949302",
+      "community": {
+        "want": 223,
+        "have": 175
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 947169,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Contemporary R&B",
+      "Neo Soul",
+      "Psychedelic",
+      "Funk"
+    ],
+    "main_release": 7969979,
+    "most_recent_release": 37297767,
+    "resource_url": "https://api.discogs.com/masters/947169",
+    "uri": "https://www.discogs.com/master/947169-Anderson-Paak-Malibu",
+    "versions_url": "https://api.discogs.com/masters/947169/versions",
+    "main_release_url": "https://api.discogs.com/releases/7969979",
+    "most_recent_release_url": "https://api.discogs.com/releases/37297767",
+    "num_for_sale": 488,
+    "lowest_price": 2.35,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/rLtAe5yfHI5Zqx87yMsrIa6OO1aXn8PCmZbhhqKYLpY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/rLtAe5yfHI5Zqx87yMsrIa6OO1aXn8PCmZbhhqKYLpY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/c9Qv9LVc2UPYZDoLmY6Q4cbmA2bMR7xL95lLZIpcF4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 536
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qKvb6u-pcEbPZOgMLJoP8NlNaLtxNS-h5GTp13fmR7Y/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/Ni05MTA3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qKvb6u-pcEbPZOgMLJoP8NlNaLtxNS-h5GTp13fmR7Y/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/Ni05MTA3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5JKefHFLfNjUxtyM-LYThHgyesQGFxoD7dSCZ6EnK0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/Ni05MTA3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 536
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lsDxKA4kLSrwmEgbeRzFtUBBUYuGiLjbVeIvDBoVwJ0/rs:fit/g:sm/q:90/h:314/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTQ1ODE5NDA3/NC0xNDc1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/lsDxKA4kLSrwmEgbeRzFtUBBUYuGiLjbVeIvDBoVwJ0/rs:fit/g:sm/q:90/h:314/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTQ1ODE5NDA3/NC0xNDc1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Rb8GnWN-JPTjAr34nssqWzTtRTazOv2jA59456-e9JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTQ1ODE5NDA3/NC0xNDc1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 314
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2dMAOckaJIitKnmwpPzmO2lT-qf4pDPtNzdz4n92C9M/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/NS04NDE5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/2dMAOckaJIitKnmwpPzmO2lT-qf4pDPtNzdz4n92C9M/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/NS04NDE5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/EjuVui5pGhgerlKQP3ykZAhEhwKLBPeSjCHu9YQxEhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTY4NTkzNDQx/NS04NDE5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 537
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "The Bird",
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Heart Don't Stand A Chance",
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "The Waters",
+        "extraartists": [
+          {
+            "name": "BJ The Chicago Kid",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1641822,
+            "resource_url": "https://api.discogs.com/artists/1641822"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "The Season/ Carry Me",
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Put Me Thru",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Am I Wrong",
+        "extraartists": [
+          {
+            "name": "Schoolboy Q",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2353545,
+            "resource_url": "https://api.discogs.com/artists/2353545"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Without You",
+        "extraartists": [
+          {
+            "name": "Rapsody (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1110720,
+            "resource_url": "https://api.discogs.com/artists/1110720"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Parking Lot",
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Lite Weight",
+        "extraartists": [
+          {
+            "name": "The Free Nationals United Fellowship Choir",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4818901,
+            "resource_url": "https://api.discogs.com/artists/4818901"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Room In Here",
+        "extraartists": [
+          {
+            "name": "Sonyae Elise",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1468770,
+            "resource_url": "https://api.discogs.com/artists/1468770"
+          },
+          {
+            "name": "The Game (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 209748,
+            "resource_url": "https://api.discogs.com/artists/209748"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Water Fall (Interluuube)",
+        "duration": ""
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Your Prime",
+        "duration": ""
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Come Down",
+        "duration": ""
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Silicon Valley",
+        "duration": ""
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Celebrate",
+        "duration": ""
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "The Dreamer",
+        "extraartists": [
+          {
+            "name": "Talib Kweli",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 39908,
+            "resource_url": "https://api.discogs.com/artists/39908"
+          },
+          {
+            "name": "Timan Family Choir",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4818902,
+            "resource_url": "https://api.discogs.com/artists/4818902"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Anderson .Paak",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4003501,
+        "resource_url": "https://api.discogs.com/artists/4003501",
+        "thumbnail_url": "https://i.discogs.com/ebtouoLEE4IStXqltisRiQqphT7M7lephHF23kVJ_ZI/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQwMDM1/MDEtMTYxODM5Mjk0/Ny0yNDQzLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Malibu",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=J2R2ticmolk",
+        "title": "Anderson .Paak - The Waters (feat. BJ the Chicago Kid)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-OqrcUvrbRY",
+        "title": "Anderson .Paak - Come Down (Official Video)",
+        "description": "Get the album, \"Malibu\". Out Now! \niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cWyQg74AK3E",
+        "title": "Anderson .Paak - Silicon Valley",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=KXdW0g6jAxE",
+        "title": "Anderson .Paak - The Bird",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 219,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Jv95aptVSUk",
+        "title": "Anderson .Paak - The Dreamer (feat. Talib Kweli & Timan Family Choir)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 341,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aFJgxn70tDk",
+        "title": "Anderson .Paak - Your Prime",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 238,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=O5mcLhuUfG0",
+        "title": "Anderson .Paak - Heart Don't Stand a Chance",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 313,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lq1ugGPCClY",
+        "title": "Anderson .Paak - Without You (feat. Rapsody)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5SKpOW_o8Do",
+        "title": "Anderson .Paak - Celebrate",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 227,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pK2-XuLByuQ",
+        "title": "Anderson .Paak - Put Me Thru",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 161,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wifV7bj6dYk",
+        "title": "Anderson .Paak - Lite Weight (feat. The Free Nationals United Fellowship Choir)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=bIG35tCV7ws",
+        "title": "Anderson .Paak - Parking Lot",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vvPeJLcK2Lk",
+        "title": "Anderson .Paak - Am I Wrong (feat. ScHoolboy Q)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 254,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=y_Ka5wiQBEw",
+        "title": "Anderson .Paak - The Season / Carry Me / The Waters (Official Video)",
+        "description": "Get the album, \"Malibu\". Out Now! \niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field",
+        "duration": 371,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=J2R2ticmolk",
+        "title": "Anderson .Paak - The Waters (feat. BJ the Chicago Kid)",
+        "description": "From the album \"Malibu\". Out Now!\niTunes: https://itunes.apple.com/us/album/malibu/id1065681363&app=itunes\nSpotify: http://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK\nAmazon: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-",
+        "duration": 175,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 947169,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Psychedelic",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Funk",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}
