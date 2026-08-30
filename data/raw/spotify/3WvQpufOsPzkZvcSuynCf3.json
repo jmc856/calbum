@@ -1,0 +1,695 @@
+{
+  "album_type": "album",
+  "total_tracks": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
+  },
+  "href": "https://api.spotify.com/v1/albums/3WvQpufOsPzkZvcSuynCf3",
+  "id": "3WvQpufOsPzkZvcSuynCf3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27344227dddfc025dbe1601d4be",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0244227dddfc025dbe1601d4be",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485144227dddfc025dbe1601d4be",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "We got it from Here... Thank You 4 Your service",
+  "release_date": "2016-11-11",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:3WvQpufOsPzkZvcSuynCf3",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      },
+      "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+      "id": "09hVIj6vWgoCDtT03h8ZCa",
+      "name": "A Tribe Called Quest",
+      "type": "artist",
+      "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3WvQpufOsPzkZvcSuynCf3/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 341046,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/203xmWRHAyqwW6AkGkhhVM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/203xmWRHAyqwW6AkGkhhVM",
+        "id": "203xmWRHAyqwW6AkGkhhVM",
+        "name": "The Space Program",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:203xmWRHAyqwW6AkGkhhVM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 172016,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wUX7HpXS382s1DHTRouVk",
+        "id": "3wUX7HpXS382s1DHTRouVk",
+        "name": "We The People....",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3wUX7HpXS382s1DHTRouVk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KkgZ31b9eDwkvo9oMIrSm",
+            "id": "5KkgZ31b9eDwkvo9oMIrSm",
+            "name": "Consequence",
+            "type": "artist",
+            "uri": "spotify:artist:5KkgZ31b9eDwkvo9oMIrSm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 172752,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3z40poMPmOkS6799tbXGKz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3z40poMPmOkS6799tbXGKz",
+        "id": "3z40poMPmOkS6799tbXGKz",
+        "name": "Whateva Will Be (feat. Consequence)",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3z40poMPmOkS6799tbXGKz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+            },
+            "href": "https://api.spotify.com/v1/artists/4FZ3j1oH43e7cukCALsCwf",
+            "id": "4FZ3j1oH43e7cukCALsCwf",
+            "name": "Jack White",
+            "type": "artist",
+            "uri": "spotify:artist:4FZ3j1oH43e7cukCALsCwf"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+            "id": "3PhoLpVuITZKcymswpck5b",
+            "name": "Elton John",
+            "type": "artist",
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223356,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5OzOQRssjhxaBj0xd78Z2w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OzOQRssjhxaBj0xd78Z2w",
+        "id": "5OzOQRssjhxaBj0xd78Z2w",
+        "name": "Solid Wall of Sound (feat. Busta Rhymes, Jack White & Elton John)",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5OzOQRssjhxaBj0xd78Z2w",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213366,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Pp3QD3thPnk2kCxmu2MHK",
+        "id": "2Pp3QD3thPnk2kCxmu2MHK",
+        "name": "Dis Generation (feat. Busta Rhymes)",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2Pp3QD3thPnk2kCxmu2MHK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+            },
+            "href": "https://api.spotify.com/v1/artists/74V3dE1a51skRkdII8y2C6",
+            "id": "74V3dE1a51skRkdII8y2C6",
+            "name": "Andr\u00e9 3000",
+            "type": "artist",
+            "uri": "spotify:artist:74V3dE1a51skRkdII8y2C6"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228479,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3awU4bBZTmisGbeJJ4xb3c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3awU4bBZTmisGbeJJ4xb3c",
+        "id": "3awU4bBZTmisGbeJJ4xb3c",
+        "name": "Kids... (feat. Andre 3000)",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3awU4bBZTmisGbeJJ4xb3c",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+            },
+            "href": "https://api.spotify.com/v1/artists/46VWDbmWmzvPBTmkSr25gM",
+            "id": "46VWDbmWmzvPBTmkSr25gM",
+            "name": "Marsha Ambrosius",
+            "type": "artist",
+            "uri": "spotify:artist:46VWDbmWmzvPBTmkSr25gM"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+            "id": "1ooV8YZC1KbpEcrmI8WH0F",
+            "name": "Yebba",
+            "type": "artist",
+            "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284692,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/366xKgsZ8bFjIhG7JjfCkj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/366xKgsZ8bFjIhG7JjfCkj",
+        "id": "366xKgsZ8bFjIhG7JjfCkj",
+        "name": "Melatonin (feat. Marsha Ambrosius & Yebba)",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:366xKgsZ8bFjIhG7JjfCkj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200696,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WvGWCDuj0dfRpuBuYecXp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WvGWCDuj0dfRpuBuYecXp",
+        "id": "1WvGWCDuj0dfRpuBuYecXp",
+        "name": "Enough!!",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1WvGWCDuj0dfRpuBuYecXp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KkgZ31b9eDwkvo9oMIrSm",
+            "id": "5KkgZ31b9eDwkvo9oMIrSm",
+            "name": "Consequence",
+            "type": "artist",
+            "uri": "spotify:artist:5KkgZ31b9eDwkvo9oMIrSm"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 171710,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Zo2Sc9OLyAql82M85GI4J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Zo2Sc9OLyAql82M85GI4J",
+        "id": "0Zo2Sc9OLyAql82M85GI4J",
+        "name": "Mobius (feat. Busta Rhymes & Consequence)",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Zo2Sc9OLyAql82M85GI4J",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KkgZ31b9eDwkvo9oMIrSm",
+            "id": "5KkgZ31b9eDwkvo9oMIrSm",
+            "name": "Consequence",
+            "type": "artist",
+            "uri": "spotify:artist:5KkgZ31b9eDwkvo9oMIrSm"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 183586,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qju0WsEHiDZoOBBDp8aAk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qju0WsEHiDZoOBBDp8aAk",
+        "id": "1qju0WsEHiDZoOBBDp8aAk",
+        "name": "Black Spasmodic (feat. Consequence)",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1qju0WsEHiDZoOBBDp8aAk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            },
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+            "id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "name": "Kanye West",
+            "type": "artist",
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5KkgZ31b9eDwkvo9oMIrSm",
+            "id": "5KkgZ31b9eDwkvo9oMIrSm",
+            "name": "Consequence",
+            "type": "artist",
+            "uri": "spotify:artist:5KkgZ31b9eDwkvo9oMIrSm"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+            "id": "0lEssBAxQl2In4RpaB1C2Y",
+            "name": "Talib Kweli",
+            "type": "artist",
+            "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 163922,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ztZ65BrWKvcPuQPR6LTZw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ztZ65BrWKvcPuQPR6LTZw",
+        "id": "0ztZ65BrWKvcPuQPR6LTZw",
+        "name": "The Killing Season (feat. Kanye West, Consequence & Talib Kweli)",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0ztZ65BrWKvcPuQPR6LTZw",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Hd901eCuHapnmfguWkP7Y"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Hd901eCuHapnmfguWkP7Y",
+            "id": "3Hd901eCuHapnmfguWkP7Y",
+            "name": "Katia Cadet",
+            "type": "artist",
+            "uri": "spotify:artist:3Hd901eCuHapnmfguWkP7Y"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 259036,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2J8MwNEqmnhwbVQoqG7tnh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2J8MwNEqmnhwbVQoqG7tnh",
+        "id": "2J8MwNEqmnhwbVQoqG7tnh",
+        "name": "Lost Somebody (feat. Katia Cadet)",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2J8MwNEqmnhwbVQoqG7tnh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+            "id": "3jK9MiCrA42lLAdMGUZpwa",
+            "name": "Anderson .Paak",
+            "type": "artist",
+            "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 281604,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Ek1h5KnIkB6Pi2Bt1lV8m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Ek1h5KnIkB6Pi2Bt1lV8m",
+        "id": "4Ek1h5KnIkB6Pi2Bt1lV8m",
+        "name": "Movin Backwards (feat. Anderson .Paak)",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4Ek1h5KnIkB6Pi2Bt1lV8m",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+            },
+            "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+            "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "name": "Kendrick Lamar",
+            "type": "artist",
+            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+            },
+            "href": "https://api.spotify.com/v1/artists/4FZ3j1oH43e7cukCALsCwf",
+            "id": "4FZ3j1oH43e7cukCALsCwf",
+            "name": "Jack White",
+            "type": "artist",
+            "uri": "spotify:artist:4FZ3j1oH43e7cukCALsCwf"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 211989,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MDcFMG1AYBPcRpYOdwDYl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3MDcFMG1AYBPcRpYOdwDYl",
+        "id": "3MDcFMG1AYBPcRpYOdwDYl",
+        "name": "Conrad Tokyo (feat. Kendrick Lamar & Jack White)",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3MDcFMG1AYBPcRpYOdwDYl",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 197438,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51Ru43YjHNP2uLcPoswSu4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/51Ru43YjHNP2uLcPoswSu4",
+        "id": "51Ru43YjHNP2uLcPoswSu4",
+        "name": "Ego",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:51Ru43YjHNP2uLcPoswSu4",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+            },
+            "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+            "id": "09hVIj6vWgoCDtT03h8ZCa",
+            "name": "A Tribe Called Quest",
+            "type": "artist",
+            "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Gm0kKaDx4GH6pQF88rjSK",
+            "id": "1Gm0kKaDx4GH6pQF88rjSK",
+            "name": "Cadet",
+            "type": "artist",
+            "uri": "spotify:artist:1Gm0kKaDx4GH6pQF88rjSK"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 322225,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BXZq7Np5y2kWNyH6zbrAc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BXZq7Np5y2kWNyH6zbrAc",
+        "id": "0BXZq7Np5y2kWNyH6zbrAc",
+        "name": "The Donald (feat. Busta Rhymes & Cadet)",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0BXZq7Np5y2kWNyH6zbrAc",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2016 Epic Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886446074757"
+  },
+  "genres": []
+}
