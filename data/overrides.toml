@@ -37,3 +37,51 @@ title = "I'm in Your Mind Fuzz"
 release_date = 2014-10-31
 cover_url = "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg"
 note = "manual add from RYM; Spotify search restricted so no album id"
+
+# Five more King Gizzard albums, same manual route and same caveats as
+# I'm in Your Mind Fuzz above (all ARE on Spotify; search is restricted).
+# Titles/dates/covers taken from the Discogs master named in each comment,
+# not typed from memory. genres left empty for enrich.py to fill.
+# NOTE: Nonagon Infinity and Flight b741 both have near-identically titled
+# LIVE albums on Discogs (masters 4266693/3449441 and 3982216); the ids
+# below are the studio records.
+
+# Discogs master 992310 (Nonagon Infinity)
+["manual:nonagon-infinity"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "Nonagon Infinity"
+release_date = 2016-04-29
+cover_url = "https://i.discogs.com/UrA5YNXTuHajfUNd1a_D9zCjc8UlK-JUhe-cREuuZ-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg"
+note = "manual add from RYM; Discogs master 992310"
+
+# Discogs master 1136944 (Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1))
+["manual:flying-microtonal-banana"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "Flying Microtonal Banana"
+release_date = 2017-02-24
+cover_url = "https://i.discogs.com/213PROfDoQp0coM53bhTT-_qchX5t_hmbDTW-a82T6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg"
+note = "manual add from RYM; Discogs master 1136944"
+
+# Discogs master 2680088 (Omnium Gatherum)
+["manual:omnium-gatherum"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "Omnium Gatherum"
+release_date = 2022-04-22
+cover_url = "https://i.discogs.com/qcC-aSBVJ9l-9uk7kVUjewXW1A4MfBNA528R4ITNrzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg"
+note = "manual add from RYM; Discogs master 2680088"
+
+# Discogs master 2815559 (Ice, Death, Planets, Lungs, Mushrooms And Lava)
+["manual:ice-death-planets-lungs-mushrooms-and-lava"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "Ice, Death, Planets, Lungs, Mushrooms and Lava"
+release_date = 2022-10-07
+cover_url = "https://i.discogs.com/nbCsOgC2sMBzl_n_sfGbTCFXutVOpFmNicmmV42N2hs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg"
+note = "manual add from RYM; Discogs master 2815559"
+
+# Discogs master 3565430 (Flight b741)
+["manual:flight-b741"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "Flight b741"
+release_date = 2024-08-09
+cover_url = "https://i.discogs.com/NcIogzd7bSXxyNeQ3XdFMmvw2Y8fl_bU1_y99l1cJxo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg"
+note = "manual add from RYM; Discogs master 3565430"

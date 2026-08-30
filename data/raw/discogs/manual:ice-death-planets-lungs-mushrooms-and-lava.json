@@ -1,0 +1,859 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 25495108,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms, And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Art Rock",
+        "Experimental"
+      ],
+      "country": "Unknown",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Test Pressing"
+      ],
+      "label": [
+        "KGLW",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/25495108-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "2812170164",
+      "thumb": "https://i.discogs.com/mA8a2zza1INE7oBiS9zqBiGFGIDSq27eLf8hJ4wUF8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDk1/MTA4LTE2NzEzMDc4/MzItODUxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/U2Br8uRH1U6PzGRrIh-aCCsfeWCpOXi3qccI5AIm0tk/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDk1/MTA4LTE2NzEzMDc4/MzItODUxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25495108",
+      "community": {
+        "want": 100,
+        "have": 8
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24794198,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170409",
+        "KGLW032-2LP A",
+        "KGLW032-2LP B",
+        "KGLW032-2LP C",
+        "KGLW032-2LP D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24794198-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "KGLW-032-2LP",
+      "thumb": "https://i.discogs.com/l9jT1HUdOrdv3jv7WJJj7CHyQRKWWucVRDj06-iZbmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk0/MTk4LTE2NzQ3MzU4/NjAtMTAyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YOo1MdHtQRLfKCDiV0OBe3lUZz73j0e4ZDV-TWSgT3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk0/MTk4LTE2NzQ3MzU4/NjAtMTAyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24794198",
+      "community": {
+        "want": 265,
+        "have": 911
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gray Marbled [Death]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25455349,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170164",
+        "KGLW032-2LP A RC",
+        "KGLW032-2LP B RC",
+        "KGLW032-2LP C RC",
+        "KGLW032-2LP D RC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/25455349-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "KGLW-032-2LP",
+      "thumb": "https://i.discogs.com/-QYQT9iZvqBZQi8twWqkyv71_QmaI26wFaCIb2dtKP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU1/MzQ5LTE2NzE4MDIy/NjAtODE1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fMoL4wTLL3AevjS-Dz6u3zRTtPCDOQU-LxfOASMrMJc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU1/MzQ5LTE2NzE4MDIy/NjAtODE1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25455349",
+      "community": {
+        "want": 550,
+        "have": 3370
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Recycled Black Wax",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24713585,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170416",
+        "10-93863 / 2812170164",
+        "245449E1/A",
+        "245449E2/B",
+        "245449E3/A",
+        "245449E4/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24713585-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "2812170164",
+      "thumb": "https://i.discogs.com/laO4n9KJDRouMRDG1BKqlyRr-XB44phvgz3X4-vhsZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEz/NTg1LTE2NjgyODk4/MjAtNjQzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/grjablEy008PnUdufbrTSTbSnRxy-HWO5gtUCkADVP4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEz/NTg1LTE2NjgyODk4/MjAtNjQzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24713585",
+      "community": {
+        "want": 577,
+        "have": 1063
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow With Multicolour Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Multicolour Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Planets Edition",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25078054,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW",
+        "Precision Record Pressing",
+        "GZ Media",
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170164",
+        "10-93863 / 2812170164 - A 245449E1/A",
+        "10-93863 / 2812170164 - B 245449E2/A",
+        "10-93863 / 2812170164 - C 245449E3/A",
+        "10-93863 / 2812170164 - D 245449E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/25078054-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "2812170164",
+      "thumb": "https://i.discogs.com/OsZkaprH-efZaE1EBmXXqT9Ro7zKUtCt9uKmA327brs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDc4/MDU0LTE3MjEzMjM1/ODctNzIyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/w1bN2p83CFeQJ813gZWGQqqpnlsdAAx-N-2aNvgqsag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDc4/MDU0LTE3MjEzMjM1/ODctNzIyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25078054",
+      "community": {
+        "want": 299,
+        "have": 946
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Recycled Colored Wax",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24795953,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170393",
+        "KGLW032-2LP A RC",
+        "KGLW032-2LP B RC",
+        "KGLW032-2LP C RC",
+        "KGLW032-2LP D RC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24795953-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "KGLW-032-2LP",
+      "thumb": "https://i.discogs.com/t7a4BJhkX2aFBdgHPTOL7DwRkPcliZizYrCefvLKtJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk1/OTUzLTE2NjU1NTYx/MTMtNjE1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/GGRmptfHqCPndmSFApLB9Z7hVmWnBHxZuQ6HJ_CtXRk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk1/OTUzLTE2NjU1NTYx/MTMtNjE1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24795953",
+      "community": {
+        "want": 285,
+        "have": 779
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue Marbled [Ice]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24794000,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170423",
+        "10-93863 / 2812170164 - A 1 245449E1/A",
+        "10-93863 / 2812170164 - B 245449E2/A",
+        "10-93863 / 2812170164 - C 245449E3/A",
+        "10-93863 / 2812170164 - D 245449E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24794000-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "2812170164",
+      "thumb": "https://i.discogs.com/LcwoRu02W10aAD8NhKrJq3PdEfs_166rDjMg0_seV1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk0/MDAwLTE2NjU1MjIw/MjktMTY3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gI6WkxpXaji-oNpeti6YCyfzSN2Sz6XNt4ZoMwfk5Nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk0/MDAwLTE2NjU1MjIw/MjktMTY3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24794000",
+      "community": {
+        "want": 336,
+        "have": 1232
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink With Multicolour Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Multicolour Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Lungs Edition",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37849227,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Jazz-Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "p(doom) records",
+        "p(doom)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/37849227-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/_Xx13sFKOcCaW1hMkmVrQ_DqeuIqyGnKJaBdozm6CfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQ5/MjI3LTE3ODM3MTYy/NzUtMjA1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sLUnbnrr5HQVgZ_EVZaP019tPz5KBJTSvZin4NuiE5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODQ5/MjI3LTE3ODM3MTYy/NzUtMjA1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37849227",
+      "community": {
+        "want": 2,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "text": "24-Bit/48-kHz ",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24796196,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170447",
+        "KGLW032-2LP A",
+        "KGLW032-2LP B",
+        "KGLW032-2LP C",
+        "KGLW032-2LP D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24796196-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "KGLW-032-2LP",
+      "thumb": "https://i.discogs.com/kSZPY5yFNRoP9M9Y4bKjQyajan_0LFNRjh2cfurIEr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTk2LTE2NjU1NDc5/MjQtMTY3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HnXzn1PgDX1Q556ARmZDwks72Zw7kw75-immp8O458E/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk2/MTk2LTE2NjU1NDc5/MjQtMTY3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24796196",
+      "community": {
+        "want": 313,
+        "have": 567
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Orange Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Lava Edition",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24750938,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Jazz-Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24750938-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/LXQAElJZCHs_ehVxfj9ZjDZAKRFqFP5IDdIHsK6vOf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nbCsOgC2sMBzl_n_sfGbTCFXutVOpFmNicmmV42N2hs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24750938",
+      "community": {
+        "want": 127,
+        "have": 169
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "7",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24996466,
+      "title": "King Gizzard And The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava",
+      "master_id": 2815559,
+      "genre": [
+        "Jazz",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Fusion",
+        "Jazz-Funk"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 170430",
+        "10-93863 / 2812170164 - A 245449E1/A",
+        "10-93863 / 2812170164 - B 245449E2/A",
+        "10-93863 / 2812170164 - C 245449E3/B",
+        "10-93863 / 2812170164 - D 245449E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2815559",
+      "uri": "/release/24996466-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+      "catno": "KGLW-032-2LP",
+      "thumb": "https://i.discogs.com/AYqUQ_gaVREhrCt9Nr61fqh-EIXIgEFBgLZDIGdxfks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk2/NDY2LTE2NjcxNDY2/MDUtNDAxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sygNhMJ-9Hb5W5dsM54jilNO1PEBeeD_ivfg9pRfK8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk2/NDY2LTE2NjcxNDY2/MDUtNDAxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24996466",
+      "community": {
+        "want": 406,
+        "have": 1168
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear With Red Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red Clear With White Splatter",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Mushrooms Edition",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2815559,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Jazz-Rock"
+    ],
+    "main_release": 24750938,
+    "most_recent_release": 36956481,
+    "resource_url": "https://api.discogs.com/masters/2815559",
+    "uri": "https://www.discogs.com/master/2815559-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava",
+    "versions_url": "https://api.discogs.com/masters/2815559/versions",
+    "main_release_url": "https://api.discogs.com/releases/24750938",
+    "most_recent_release_url": "https://api.discogs.com/releases/36956481",
+    "num_for_sale": 56,
+    "lowest_price": 39.87,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nbCsOgC2sMBzl_n_sfGbTCFXutVOpFmNicmmV42N2hs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/nbCsOgC2sMBzl_n_sfGbTCFXutVOpFmNicmmV42N2hs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/LXQAElJZCHs_ehVxfj9ZjDZAKRFqFP5IDdIHsK6vOf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUw/OTM4LTE2NjUxNjQx/NTUtOTE3OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Mycelium",
+        "duration": "7:35"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Ice V",
+        "duration": "10:15"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Magma",
+        "duration": "9:06"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Lava",
+        "duration": "6:41"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Hell's Itch",
+        "duration": "13:27"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Iron Lung",
+        "duration": "9:04"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Gliese 710",
+        "duration": "7:48"
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Ice, Death, Planets, Lungs, Mushrooms And Lava",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=_L_SR9XIiNs",
+        "title": "Lava",
+        "description": "Provided to YouTube by Universal Music Group\n\nLava \u00b7 King Gizzard & The Lizard Wizard\n\nIce, Death, Planets, Lungs, Mushrooms And Lava\n\n\u2117 2022 KGLW\n\nReleased on: 2022-10-07\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Ambr",
+        "duration": 402,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=3aUKofcKfmg",
+        "title": "Hell's Itch",
+        "description": "Provided to YouTube by Universal Music Group\n\nHell's Itch \u00b7 King Gizzard & The Lizard Wizard\n\nIce, Death, Planets, Lungs, Mushrooms And Lava\n\n\u2117 2022 KGLW\n\nReleased on: 2022-10-07\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricis",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Njk2YAgNMnE",
+        "title": "King Gizzard & The Lizard Wizard - Iron Lung",
+        "description": "Directed and produced by SPOD\nhttp://www.spod.com.au\nSpecial Thanks: Julia Wilson\n\nStu: Guitar / Piano / Bass / Vocals / Organ / Clavinet / Flute\nAmby: Keys / Saxophone / Percussion / Vocals\nCavs: Drums\nJoey: Bass / Guitar\nCookie: Guitar / Keys\n\nRecorded ",
+        "duration": 545,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JB7oa9KkIg8",
+        "title": "Gliese 710",
+        "description": "Provided to YouTube by Universal Music Group\n\nGliese 710 \u00b7 King Gizzard & The Lizard Wizard\n\nIce, Death, Planets, Lungs, Mushrooms And Lava\n\n\u2117 2022 KGLW\n\nReleased on: 2022-10-07\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist",
+        "duration": 469,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=h2akBAjCNVY",
+        "title": "Mycelium",
+        "description": "Provided to YouTube by Universal Music Group\n\nMycelium \u00b7 King Gizzard & The Lizard Wizard\n\nIce, Death, Planets, Lungs, Mushrooms And Lava\n\n\u2117 2022 KGLW\n\nReleased on: 2022-10-07\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: ",
+        "duration": 456,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ydeV1_8pM4o",
+        "title": "King Gizzard & The Lizard Wizard - Ice V",
+        "description": "King Gizzard & The Lizard Wizard - Ice V\n\nStarring Joe Walker as Joey\n\nDirected, produced and shot by Danny Cohen\nEdit: Derry Sheehan\nColourist: Trish Cahill\nFixer: Spyros Drakopoulos\nFixer Producer: Aliki Paraschis at Need a Fixer\nAssistant / Locations /",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mFjARATqEs0",
+        "title": "Magma",
+        "description": "Provided to YouTube by Universal Music Group\n\nMagma \u00b7 King Gizzard & The Lizard Wizard\n\nIce, Death, Planets, Lungs, Mushrooms And Lava\n\n\u2117 2022 KGLW\n\nReleased on: 2022-10-07\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Amb",
+        "duration": 547,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2815559,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazz-Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

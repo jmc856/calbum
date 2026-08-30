@@ -1,0 +1,1548 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Omnium Gatherum",
+    "year": 2022
+  },
+  "results": [
+    {
+      "id": 25361272,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Heavy Metal"
+      ],
+      "country": "Unknown",
+      "year": "2022",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/25361272-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/mupxPeqD7Ybg_exU62uR7l7x8qymeiVoTPPalbNapn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzYx/MjcyLTE2NzAxMDI2/NzQtODkyNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jplaRFMMER6iv8C_N_oI8JcAk78jNmDykRonZAxIa-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzYx/MjcyLTE2NzAxMDI2/NzQtODkyNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25361272",
+      "community": {
+        "want": 32,
+        "have": 21
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35474257,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/35474257-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/kIc6_hI-Um7i0xeUDzladfQdQ92M7Medot1kTGFG9Go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/MjU3LTE3NjE0MTEx/NTYtNjMyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2-GoXo8eYJcqyAc_69qDw3uHWChawIeHgnrCZLc81YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/MjU3LTE3NjE0MTEx/NTYtNjMyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35474257",
+      "community": {
+        "want": 16,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25609324,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "KGLW013 A",
+        "KGLW013 B",
+        "KGLW013 C",
+        "KGLW013 D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/25609324-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW013",
+      "thumb": "https://i.discogs.com/gxXmuJgt6IWvl66WMyBzqVVt_mhCjBgRhPLg3hK9XmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA5/MzI0LTE2NzIzNjky/NDgtNTAyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8piQh0KC6hR2HP1JntPNqMS_13IGhiFh8HV00W2AD18/rs:fit/g:sm/q:90/h:639/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA5/MzI0LTE2NzIzNjky/NDgtNTAyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25609324",
+      "community": {
+        "want": 105,
+        "have": 10
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24233177,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Heavy Metal"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0842812163371",
+        "KGLW013 RC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/24233177-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/R22AFPAOKFK4a0LWxF1miCKQZPT0RGhq1MG6MhYRASw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjMz/MTc3LTE2ODExNzc5/MjEtNTkyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4V76JpxC8R6ElllhlEqqR-QcQ3PAlYLQb3d05mwGDGU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjMz/MTc3LTE2ODExNzc5/MjEtNTkyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24233177",
+      "community": {
+        "want": 343,
+        "have": 1049
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Magenta ",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23631761,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0842812163364",
+        "KGLW 013 A Rc",
+        "KGLW 013 B Rc",
+        "KGLW 013 C Rc",
+        "KGLW 013 D Rc"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/23631761-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/bf5YbLxV7hwLQstqb3dFSGI9CU0IGBW9CUMdUikEImw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMx/NzYxLTE2NTgwNjMx/MjctNjk1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rpv-128n-EffiOMwkoid20UYeTjFMqVOuG3BXD59ZDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMx/NzYxLTE2NTgwNjMx/MjctNjk1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23631761",
+      "community": {
+        "want": 747,
+        "have": 3762
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Lucky Rainbow Wax",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23663183,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 842812 163326",
+        "KGLW013 A Rc",
+        "KGLW013 B Rc",
+        "KGLW013 C Rc",
+        "KGLW013 D Rc"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/23663183-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/UHldRLghPduvJWoIWHua9Ts2euPiG8MYIMdZJVS-vXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYz/MTgzLTE2NTU5MzY5/NDUtNjk4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RI1jBrXyyJlss4NMv6UaAVx406MCWZBYCX1-KdxuajI/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYz/MTgzLTE2NTU5MzY5/NDUtNjk4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23663183",
+      "community": {
+        "want": 732,
+        "have": 4298
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22963778,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/22963778-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/VTQmh78qrzYDgBQkWMqip6BgwQoLetahnQV88KakX_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qcC-aSBVJ9l-9uk7kVUjewXW1A4MfBNA528R4ITNrzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22963778",
+      "community": {
+        "want": 128,
+        "have": 130
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "16",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23634212,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0842812163333",
+        "(Side A) KGLW 013 A  Ro",
+        "(Side B) KGLW 013 B  Ro",
+        "(Side C) KGLW 013 C  Ro",
+        "(Side D) KGLW 013 D  Ro"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/23634212-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/YV3wMkX7eDglXjobGlCEc1F7yc7A_YsnvH578Zcw1Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/MjEyLTE2NTgwNjMz/NDAtMjE0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Prrpy6pnx9fiVtgIFobamroRr66G2WORYlweevOqR40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/MjEyLTE2NTgwNjMz/NDAtMjE0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23634212",
+      "community": {
+        "want": 307,
+        "have": 588
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blueish Recycled Butterfly",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24205487,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW",
+        "KGLW",
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "KGLW013 A Rc",
+        "KGLW013 B Rc",
+        "KGLW013 C Rc",
+        "KGLW013 D Rc",
+        "0842812163333",
+        "0842812163340"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/24205487-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/Epe3VHk2DJEZtLUp9FyrQRucezO6BKeuA6OKvQNAWno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA1/NDg3LTE2NjExMTYw/NzYtOTYzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PNjCJ7xLbLLyj8vX2Qq4q54-lDKjqN8cc4VtUbxRf2k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjA1/NDg3LTE2NjExMTYw/NzYtOTYzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24205487",
+      "community": {
+        "want": 237,
+        "have": 644
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellowish Recycled Butterfly",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24022196,
+      "title": "King Gizzard And The Lizard Wizard - Omnium Gatherum",
+      "master_id": 2680088,
+      "genre": [
+        "Hip Hop",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Thrash"
+      ],
+      "country": "Australia",
+      "year": "2022",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "KGLW"
+      ],
+      "type": "release",
+      "barcode": [
+        "0842812163357",
+        "(Side A) KGLW 013 A  Ro",
+        "(Side B) KGLW 013 B  Ro",
+        "(Side C) KGLW 013 C  Ro",
+        "(Side D) KGLW 013 D  Ro"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2680088",
+      "uri": "/release/24022196-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+      "catno": "KGLW-013-2LP",
+      "thumb": "https://i.discogs.com/68JbfezBjr2iUQBKQBQStQQpNod5FYZ21vpNPa3VfsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIy/MTk2LTE2NTg5OTkz/OTEtNDE1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Q8jSfe3YNQKKfpF_rHvMH1G3r9cDz7i73lGC-lmLCA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIy/MTk2LTE2NTg5OTkz/OTEtNDE1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24022196",
+      "community": {
+        "want": 260,
+        "have": 650
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Reddish Recycled Butterfly",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2680088,
+    "genres": [
+      "Hip Hop",
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Thrash"
+    ],
+    "main_release": 22963778,
+    "most_recent_release": 37050561,
+    "resource_url": "https://api.discogs.com/masters/2680088",
+    "uri": "https://www.discogs.com/master/2680088-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum",
+    "versions_url": "https://api.discogs.com/masters/2680088/versions",
+    "main_release_url": "https://api.discogs.com/releases/22963778",
+    "most_recent_release_url": "https://api.discogs.com/releases/37050561",
+    "num_for_sale": 64,
+    "lowest_price": 25.0,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qcC-aSBVJ9l-9uk7kVUjewXW1A4MfBNA528R4ITNrzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qcC-aSBVJ9l-9uk7kVUjewXW1A4MfBNA528R4ITNrzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VTQmh78qrzYDgBQkWMqip6BgwQoLetahnQV88KakX_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYz/Nzc4LTE2NTA1ODM4/NjAtNDIwNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2022,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "The Dripping Tap",
+        "extraartists": [
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Bass, Organ, Piano, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Organ, Percussion, Harmonica, Electric Piano [Wurtlizer]",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": "18:17"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Magenta Mountain",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Guitar, Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Synthesizer, Keyboards, Bass, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Percussion, Synthesizer",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          }
+        ],
+        "duration": "6:04"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Kepler-22b",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer, Keyboards, Bass, Turntables",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Mellotron, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "3:12"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Gaia",
+        "extraartists": [
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Bass, Guitar, Vocals",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "5:11"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Ambergris",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Synthesizer, Clavinet, Organ",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Synthesizer, Percussion, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          }
+        ],
+        "duration": "4:27"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Sadie Sorceress",
+        "extraartists": [
+          {
+            "name": "Millicent Smith",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Vocals",
+            "tracks": "",
+            "id": 11167466,
+            "resource_url": "https://api.discogs.com/artists/11167466"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Turntables",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Clavinet, Turntables",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "3:07"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Evilest Man",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Percussion, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Flute, Vibraphone, Keyboards, Synthesizer, Vocoder, Bass, Percussion, Electric Piano [Wurtlizer]",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "7:38"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "The Garden Goblin",
+        "extraartists": [
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Mellotron, Synthesizer, Percussion, Keyboards, Bass",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Percussion, Saxophone",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Percussion, Synthesizer",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "2:56"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Blame It On The Weather",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Organ, Mellotron, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Percussion, Synthesizer, Saxophone",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": "2:31"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Persistence",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Amy Findlay",
+            "anv": "",
+            "join": "",
+            "role": "Featuring, Drums",
+            "tracks": "",
+            "id": 3964346,
+            "resource_url": "https://api.discogs.com/artists/3964346"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Guitar, Electric Piano [Wurtlizer], Bass, Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Percussion, Mellotron",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar, Synthesizer",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Synthesizer, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "3:47"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "The Grim Reaper",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Synthesizer, Baglama",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Turntables, Percussion",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": "3:05"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Presumptuous",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Flute",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Guitar, Percussion, Electric Piano [Wurtlizer], Mellotron, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Mellotron, Keyboards",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Madeline Wright",
+            "anv": "",
+            "join": "",
+            "role": "Sounds [Party Sounds], Featuring",
+            "tracks": "",
+            "id": 11167469,
+            "resource_url": "https://api.discogs.com/artists/11167469"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Electric Piano [Wurtlizer], Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": "4:53"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Predator X",
+        "extraartists": [
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Bass, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Red Smoke",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Electric Piano [Wurtlizer], Bass, Vocals, Synthesizer",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Vocals, Guitar, Electric Piano [Wurtlizer], Vibraphone, Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": "4:21"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Candles",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Synthesizer, Mellotron",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Percussion, Guitar, Electric Piano [Wurtlizer], Bass, Vibraphone, Keyboards",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "4:34"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "The Funeral",
+        "extraartists": [
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Percussion",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Synthesizer",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Percussion, Guitar, Electric Piano [Wurtlizer], Bass, Keyboards, Organ",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "2:23"
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Omnium Gatherum",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=gfvEodNPQGs",
+        "title": "King Gizzard & The Lizard Wizard - Kepler-22b",
+        "description": "Directed and animated by Alex McLaren @alex_mclaren_ and Sean McAnulty @smcnoon\nSecond camera operated by Ambrose Kenny Smith\n\nAmby: Percussion\nCavs: Drums\nCookie: Synthesiser / Keyboards / Bass / Turntable\nStu: Vocals / Mellotron / Percussion\n\nRecorded b",
+        "duration": 193,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=K14JkFfWUzc",
+        "title": "Persistence",
+        "description": "Provided to YouTube by Universal Music Group\n\nPersistence \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Nicholas Craig\n\nAuto-generat",
+        "duration": 228,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dPXObWXgvbw",
+        "title": "Gaia",
+        "description": "Provided to YouTube by Universal Music Group\n\nGaia \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Michael Cavanagh\nComposer  Lyricist",
+        "duration": 312,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=K14JkFfWUzc",
+        "title": "Persistence",
+        "description": "Provided to YouTube by Universal Music Group\n\nPersistence \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Nicholas Craig\n\nAuto-generat",
+        "duration": 228,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=iSW68homLDg",
+        "title": "Presumptuous",
+        "description": "Provided to YouTube by Universal Music Group\n\nPresumptuous \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Ambrose Kenny-Smith\n\nAuto-g",
+        "duration": 294,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=oDMldn7hFZo",
+        "title": "King Gizzard & The Lizard Wizard - The Dripping Tap (Audio)",
+        "description": "Cover Artwork by Jason Galea\n\nAmby: Vocals / Organ / Percussion / Wurlitzer / Harmonica\nCavs: Drums\nCookie: Guitar / Vocals\nJoey: Guitar / Vocals\nLukey: Bass\nStu: Vocals / Guitar / Bass / Organ / Piano / Percussion\n\nRecorded by Stu Mackenzie\nMixed by Stu ",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mkkyXaWVCaU",
+        "title": "The Garden Goblin",
+        "description": "Provided to YouTube by Universal Music Group\n\nThe Garden Goblin \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Nicholas Craig\n\nAuto-g",
+        "duration": 177,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6QksS1s0F8U",
+        "title": "Sadie Sorceress",
+        "description": "Provided to YouTube by Universal Music Group\n\nSadie Sorceress \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Joseph Walker\nComposer  ",
+        "duration": 188,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=65qVLlCspvU",
+        "title": "Magenta Mountain",
+        "description": "Provided to YouTube by Universal Music Group\n\nMagenta Mountain \u00b7 King Gizzard & The Lizard Wizard\n\nMagenta Mountain\n\n\u2117 2022 KGLW\n\nReleased on: 2022-03-29\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Joseph Walker\nComposer",
+        "duration": 365,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dsNawHKvYYU",
+        "title": "The Grim Reaper",
+        "description": "Provided to YouTube by Universal Music Group\n\nThe Grim Reaper \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Joseph Walker\nComposer  ",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=peSrD_GwAlI",
+        "title": "Blame It On The Weather",
+        "description": "Provided to YouTube by Universal Music Group\n\nBlame It On The Weather \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\nComposer  Lyricist: Joseph Walker\nCo",
+        "duration": 152,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=c5fSIz543sA",
+        "title": "Ambergris",
+        "description": "Provided to YouTube by Universal Music Group\n\nAmbergris \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Joseph Walker\n\nAuto-generated by YouTube.",
+        "duration": 268,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pLdLxt4IkcM",
+        "title": "Red Smoke",
+        "description": "Provided to YouTube by Universal Music Group\n\nRed Smoke \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Ambrose Kenny-Smith\n\nAuto-generated by YouTube.",
+        "duration": 262,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cDGvduVEweg",
+        "title": "Evilest Man",
+        "description": "Provided to YouTube by Universal Music Group\n\nEvilest Man \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 459,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7Q8cI7CZs5I",
+        "title": "Candles",
+        "description": "Provided to YouTube by Universal Music Group\n\nCandles \u00b7 King Gizzard & The Lizard Wizard\n\nOmnium Gatherum\n\n\u2117 2022 KGLW\n\nReleased on: 2022-04-22\n\nProducer: Stu Mackenzie\nComposer  Lyricist: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 275,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2680088,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Thrash",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

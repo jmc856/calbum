@@ -1,0 +1,1613 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Flying Microtonal Banana",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 10938306,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Numbered",
+        "Promo"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10938306-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ocu0qFE0bJ2u6O23tmeiurqQTiuBR_g3sziTWkxDqvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/MzA2LTE1MDY4NDc2/MDItODM3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LHnr8HpN4CGepfYXZg4-PnV0UpkyaoVHaahCUlGP35g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM4/MzA2LTE1MDY4NDc2/MDItODM3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10938306",
+      "community": {
+        "want": 130,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Watermarked ",
+          "descriptions": [
+            "Album",
+            "Numbered",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11380753,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana ",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "ATO Records",
+        "Flightless Records Pty Ltd"
+      ],
+      "type": "release",
+      "barcode": [
+        "ATO0367"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/11380753-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-",
+      "catno": "ATO0367",
+      "thumb": "https://i.discogs.com/xZ5X2jN6ZqL-nJNHWKiSfceKhTJDwDKP1sSmVn9HXjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgw/NzUzLTE1MTUyODAw/MzktNzExMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Ch3WPi4ruvPfH7cXiy_saD4oLfMjZINCZI7We5cevow/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgw/NzUzLTE1MTUyODAw/MzktNzExMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11380753",
+      "community": {
+        "want": 159,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21999013,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "ATO Records, LLC",
+        "Flightless Records",
+        "Flightless Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/21999013-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/rkqv_SYJ-tB_BQrFZWWVVjYlxBE29Us4wxuCekh_u9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk5/MDEzLTE2NDQ0Mzcz/NjQtNjI0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XYIeqC7sMuJDyAesxnsVXOMzt5kKcXfUsjp0XICjkbY/rs:fit/g:sm/q:90/h:218/w:218/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk5/MDEzLTE2NDQ0Mzcz/NjQtNjI0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21999013",
+      "community": {
+        "want": 38,
+        "have": 21
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "Variable Bit Rate",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35474368,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2017",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/35474368-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ffO4AfW1gjE7l0BZP6hvFFhTf_rgueRzrW-pwoVC7S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/MzY4LTE3NjE0MTE3/OTYtNDc1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WziGtyaOi8NwiC5ElWqvzf99DGjkJQkXPhnOZ1ENBtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/MzY4LTE3NjE0MTE3/OTYtNDc1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35474368",
+      "community": {
+        "want": 13,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "24-Bit/44.1kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15773503,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Numbered",
+        "Promo"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/15773503-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/fzxKvwGxyZCPF6hXBxYIhQSQIprRWJjZteRzlBY6zI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcz/NTAzLTE1OTc1MzA5/MjAtMjM2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SKun1SWeA590tKj7jsGTGxP0EzPaXqcpdwiZeq-gEk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcz/NTAzLTE1OTc1MzA5/MjAtMjM2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15773503",
+      "community": {
+        "want": 74,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Watermarked ",
+          "descriptions": [
+            "Album",
+            "Numbered",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9887213,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9887213-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/VmJKZ3V3NtK-yFJPDdPf6O4CdzDihTkReDHouuuHvRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODcy/MTMtMTQ5OTM2MDg1/Ni0yMzkwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/nyhDqvJGK43qiqCLkP2_o-mbK7G4KSASJ1vjHW_ifso/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODcy/MTMtMTQ5OTM2MDg1/Ni0yMzkwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9887213",
+      "community": {
+        "want": 149,
+        "have": 14
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "text": "Watermarked ",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26244176,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records",
+        "ATO Records, LLC",
+        "Flightless Records",
+        "Flightless Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/26244176-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/D7PTVA1TXw47JU4fwKsM9bMhT_oO_qxrZvd2gphTXQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ0/MTc2LTE2Nzc1MDYw/NzAtNDUxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/suFdRiolL6NE04z1LO8C1M2wXhChFAhKjiU93386wAU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ0/MTc2LTE2Nzc1MDYw/NzAtNDUxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26244176",
+      "community": {
+        "want": 26,
+        "have": 36
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "Variable Bit Rate",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10047906,
+      "title": "King Gizzard And The Lizard Wizard -  Flying Microtonal Banana",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Russia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939950254",
+        "HVNLP136CD   AG62407-01"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10047906-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana",
+      "catno": "HVNLP36CD",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/7c6493cb26320e0c0760de1d1a67ead6de8332f6/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/10047906",
+      "community": {
+        "want": 150,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28167814,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727059339",
+        "PIRATES PRESS - 0882286910 A 151354E1/B",
+        "PIRATES PRESS - 0882286910 B 151354E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/28167814-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/f1KMfOwymG7Ol0SOA3Cz7MdrEIcic43bX8ojSGD2EHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTY3/ODE0LTE2OTM4MzAw/OTUtNjkzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/L43buS0GUj_pCC_TlZ7ud2lUQzE7b-l_GVEOKsFNNz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTY3/ODE0LTE2OTM4MzAw/OTUtNjkzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28167814",
+      "community": {
+        "want": 134,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Toxic Blue] And Mustard Wax",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10352108,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "Flightless",
+        "Flightless Records Pty Ltd",
+        "Flightless Records Pty Ltd",
+        "ATO Records, LLC",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882286910",
+        "PIRATES PRESS 0882286910 A  151354E1/C",
+        "PIRATES PRESS 0882286910 B  151354E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10352108-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/XSrpYw1uCXhOcqSQvbBlWJ8_bmtqxGu1rKcXpj5y2h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUy/MTA4LTE1MTc1MDY1/MTQtNzcyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/z7eHr3_qLDSXjoXpu04_0-4le1Zr1AXzXuurLn1vCKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUy/MTA4LTE1MTc1MDY1/MTQtNzcyMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10352108",
+      "community": {
+        "want": 994,
+        "have": 2113
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gold With Blue Splatter",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9893950,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939950254"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9893950-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP36CD",
+      "thumb": "https://i.discogs.com/y6ug7Q8iY_35TSlBgpvIo0Lu8XDeH519rNxKBEYMiPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTM5/NTAtMTQ4ODE1NDI2/My0zMTE3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XYNkCNH5GWHVAstIFzXPwqGLMIqxhqQ6Utl458woVOQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTM5/NTAtMTQ4ODE1NDI2/My0zMTE3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9893950",
+      "community": {
+        "want": 277,
+        "have": 277
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9851087,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records",
+        "Flightless",
+        "ATO Records, LLC",
+        "Pirates Press",
+        "Flightless Records Pty Ltd",
+        "Flightless Records Pty Ltd",
+        "GZ Media",
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 80882 28691 0",
+        "151354E1/B PIRATES PRESS - 0882286910 A",
+        "151354E2/A PIRATES PRESS - 0882286910 B",
+        "151354E1/D PIRATES PRESS - 0882286910 A",
+        "151354E2/C PIRATES PRESS - 0882286910 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9851087-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/TAimm-KH7DUZepPPg91w-9YH0Gvz2_rkJuqeDySMKEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTEw/ODctMTY0NzUzMzg3/MC05MDM2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/8MKQCXPqWQfdkj6NCp9XZXuaVXcDfles9YiY7dux944/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTEw/ODctMTY0NzUzMzg3/MC05MDM2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9851087",
+      "community": {
+        "want": 1812,
+        "have": 11087
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow [Radioactive Yellow]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9847835,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727059339",
+        "PIRATES PRESS - 0882286910A",
+        "PIRATES PRESS - 0882286910B",
+        "151354E2/A",
+        "151354E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9847835-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/4dRzcuVgMVwDOBRCzBc9GXa0nVMn2xjVgAWJqja_JPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/213PROfDoQp0coM53bhTT-_qchX5t_hmbDTW-a82T6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9847835",
+      "community": {
+        "want": 1143,
+        "have": 810
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White With Blue & Black Splatter [Reptilian Poison Wax]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15516853,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "[pias]",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "Flightless HQ, East Brunswick",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 95025",
+        "Sony DADC A0102844954-0101 11 A00",
+        "IFPI L551",
+        "IFPI 94K6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/15516853-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP136CDS",
+      "thumb": "https://i.discogs.com/GjCRSNHal-IKGFJUNKTb_vR-4UFuDi7Dcwp9ViOLBak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE2/ODUzLTE2NjY4MDk1/NTgtNDIxNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9m4cN9kKf3v8Z8O36h_bLVpi75IfkSGnt1vuZpAdz3Y/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE2/ODUzLTE2NjY4MDk1/NTgtNDIxNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15516853",
+      "community": {
+        "want": 135,
+        "have": 89
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9885063,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "[pias]",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[pias]"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 950223",
+        "HVNLP 136 A",
+        "HVNLP 136 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9885063-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP136",
+      "thumb": "https://i.discogs.com/I23Oj510kNes0dvH4kWD3WXkUFvg-S5J7lqsS94mn1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODUw/NjMtMTQ4ODcwNjg1/MS03OTUyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/MXx2kIlbmq_9LOsWMkjMzfNtnP8pthU2h04ecMj35II/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODUw/NjMtMTQ4ODcwNjg1/MS03OTUyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9885063",
+      "community": {
+        "want": 772,
+        "have": 1260
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9873662,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 332727 059339"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9873662-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/GycVvYDVZ28qUQLMQsHq2FRluYAOYp1Y7ZFnLCMfHAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzM2/NjItMTYwMzA5MDAx/NS05OTc2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/okq8SlV4e_Xujt32LWaoAs_dQ5CKd6DBic4772ki_tc/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzM2/NjItMTYwMzA5MDAx/NS05OTc2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9873662",
+      "community": {
+        "want": 684,
+        "have": 643
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow [Banana Yellow]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12674210,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Alternative Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "[pias]",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[pias]",
+        "Flightless HQ, East Brunswick",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 953828",
+        "5414939953828",
+        "HVNLP136 A",
+        "HVNLP136 B",
+        "11",
+        "1T"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/12674210-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP136S",
+      "thumb": "https://i.discogs.com/fOOS2GrA5Ju-F5odKjM5yI6cRAq9jWoBoLVL_Hy5o8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/MjEwLTE2MDMwOTk2/MjQtNDkwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bbX4iuKQmFUlk1nHNf57Lx4tiNkci1pCeO7B2S1mUFI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/MjEwLTE2MDMwOTk2/MjQtNDkwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12674210",
+      "community": {
+        "want": 612,
+        "have": 1982
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25451791,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label",
+        "Stereo"
+      ],
+      "label": [
+        "ATO Records",
+        "Flightless",
+        "ATO Records, LLC",
+        "Pirates Press",
+        "Flightless Records Pty Ltd",
+        "Flightless Records Pty Ltd",
+        "GZ Media",
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 80882 28691 0",
+        "151354E1/B PIRATES PRESS - 0882286910 A",
+        "151354E2/A PIRATES PRESS - 0882286910 B",
+        "151354E1/D PIRATES PRESS - 0882286910 A",
+        "151354E2/C PIRATES PRESS - 0882286910 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/25451791-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/qDfqQdjBKhM2x_NNkaBpZrUL4FlQOVlHuRt45eNAm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUx/NzkxLTE2NzA5MzQz/MjYtNTI2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qDvOgk9EtM5z_KHDtiiXjg13Ne2wvX5sM7LPdeI0mDE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDUx/NzkxLTE2NzA5MzQz/MjYtNTI2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25451791",
+      "community": {
+        "want": 137,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10073946,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1) ",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Alternative Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "[pias]",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[pias]",
+        "Flightless HQ, East Brunswick"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 953828",
+        "5414939953828",
+        "HVNLP136S A BEAUe TEN EIGHT SEVEN",
+        "HVNLP136S B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10073946-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP136S",
+      "thumb": "https://i.discogs.com/uwBdyHBqGiiiqVy0h_C2JOfShUxZmXqrltVuuFWkfYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDcz/OTQ2LTE0OTExNDgw/NTktODcxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TjJ6yP_taWqVhsgEoYdzOyV3zC1HC8Vj66mLKTAyqvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDcz/OTQ2LTE0OTExNDgw/NTktODcxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10073946",
+      "community": {
+        "want": 769,
+        "have": 1554
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9962387,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock",
+        "Prog Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Flightless",
+        "ATO Records",
+        "Flightless Records Pty Ltd",
+        "Flightless Records Pty Ltd",
+        "ATO Records, LLC",
+        "Flightless HQ, East Brunswick"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 80882 28692 7",
+        "880882286927",
+        "(626081) 69 1127 88228692-2 TEXT 01  0001",
+        "IFPI LV77",
+        "IFPI KK1Y",
+        "M0S1 69 1127 88228692-2 TEXT AF01",
+        "IFPILT36",
+        "IFPI 2UN4",
+        "(610037) A9.4.0882286927.SA.1 05  001",
+        "IFPI L779",
+        "IFPI KKBJ"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9962387-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "0882286927",
+      "thumb": "https://i.discogs.com/P-QjktdVAxLqwkXcdX1md3Qa9RLD8YsNJOXt6LES-lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjIz/ODctMTU5MzkzNDk4/OS0zOTc0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ToC_xv239AYC2mvJkFotFEh6VfdZ7njwiZ6xkP5DkGU/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjIz/ODctMTU5MzkzNDk4/OS0zOTc0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9962387",
+      "community": {
+        "want": 290,
+        "have": 750
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10224711,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Repress"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 332727 059339",
+        "151354E1/B PIRATES PRESS - 0882286910 A",
+        "151354E2/B PIRATES PRESS - 0882286910 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10224711-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/_-Pw0I67jj6YnnoFYq7c1m69RLAq2z2vaCihkkdCCaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/NzExLTE2MjY3ODM4/NTctOTEwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/w6MUIwqdZR0cZ6KpBouURjSwssMjegwHJ7eDEbuKf1Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/NzExLTE2MjY3ODM4/NTctOTEwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10224711",
+      "community": {
+        "want": 804,
+        "have": 673
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow [Banana Yellow Wax]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9897610,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[pias]",
+        "Flightless HQ, East Brunswick",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 950254",
+        "HVNLP136CD AG62407-01 manufactured by optimal media GmbH",
+        "ifpi L575",
+        "IFPI 9702"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9897610-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "HVNLP136CD",
+      "thumb": "https://i.discogs.com/TISLOcbo-dSImgRnE5eVZ4P8-XBpEmeuaJ2gfr5J4XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTc2/MTAtMTU5NTQzNTkw/Ny00NzM1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/t1U5GZqv7kvKFvA0lSILLNI_Yp8unVvuGq0vQfRIxyI/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTc2/MTAtMTU5NTQzNTkw/Ny00NzM1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9897610",
+      "community": {
+        "want": 244,
+        "have": 372
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10374064,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Flightless",
+        "Flightless Records Pty Ltd",
+        "Flightless Records Pty Ltd",
+        "Flightless Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727059346",
+        "9 332727 059346",
+        "IFPI LT028",
+        "IFPI TBD001",
+        "6795 c1612031 (B08245X012 3013093)"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/10374064-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT028CD",
+      "thumb": "https://i.discogs.com/IRFtk7jyD-fqMMtrx8G_8r1bOFZL8enncTAV0P3sAB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc0/MDY0LTE2MTE3MDE2/MzYtMjUyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Qc3rwiyAZfRxNGoGmbN69CNnAOMnMf8zvYEmlKrERoE/rs:fit/g:sm/q:90/h:418/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc0/MDY0LTE2MTE3MDE2/MzYtMjUyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10374064",
+      "community": {
+        "want": 204,
+        "have": 142
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9851161,
+      "title": "King Gizzard And The Lizard Wizard - Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+      "master_id": 1136944,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727059339",
+        "PIRATES PRESS - 0882286910 A 151354E1/B",
+        "PIRATES PRESS - 0882286910 B 151354E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1136944",
+      "uri": "/release/9851161-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+      "catno": "FLT-028",
+      "thumb": "https://i.discogs.com/rKEcmpkhreIWyJ2eq5GX_Q0sGILG7cA3EqyaVfQRMDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTEx/NjEtMTYxMjYwMDMx/MC03OTMzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/_jGcnb1L-YdPdfUzIV86-PAKRHSw4p72cgf0mCjsA-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTEx/NjEtMTYxMjYwMDMx/MC03OTMzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9851161",
+      "community": {
+        "want": 897,
+        "have": 897
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue [Toxic Blue] And Mustard Wax",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1136944,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Garage Rock",
+      "Psychedelic Rock"
+    ],
+    "main_release": 9847835,
+    "most_recent_release": 26980259,
+    "resource_url": "https://api.discogs.com/masters/1136944",
+    "uri": "https://www.discogs.com/master/1136944-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu",
+    "versions_url": "https://api.discogs.com/masters/1136944/versions",
+    "main_release_url": "https://api.discogs.com/releases/9847835",
+    "most_recent_release_url": "https://api.discogs.com/releases/26980259",
+    "num_for_sale": 140,
+    "lowest_price": 8.78,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/213PROfDoQp0coM53bhTT-_qchX5t_hmbDTW-a82T6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/213PROfDoQp0coM53bhTT-_qchX5t_hmbDTW-a82T6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4dRzcuVgMVwDOBRCzBc9GXa0nVMn2xjVgAWJqja_JPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjY2NTg0/Ni05MDI3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hKxoHGDMYi_bjRup6rHdiWgmK97IjqWRdJbCdnTpmlA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi04ODUyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/hKxoHGDMYi_bjRup6rHdiWgmK97IjqWRdJbCdnTpmlA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi04ODUyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/p_VmbFNTclF4OaIWlkb3TaflXoqT_M_CNwxVNndaR0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi04ODUyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SeSjbER6LW_xAGw1wcGQBH6TErZQDoKuFNDJdQPi8QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi0yOTk5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/SeSjbER6LW_xAGw1wcGQBH6TErZQDoKuFNDJdQPi8QE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi0yOTk5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/fsGDfmQ7XbVUhfZRbzihZTbVNxfJ3MqZA0FAuvE3BZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYxMjYwMDIx/Mi0yOTk5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2q5asPD9N7PMIUpFDbKfm_LGN-On_GI2YzPflOBOVfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE4/MC00OTI1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/2q5asPD9N7PMIUpFDbKfm_LGN-On_GI2YzPflOBOVfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE4/MC00OTI1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/-iKUSaDbs9-XbraFMvvrYPZpl3BUMoMnHhDQ-5g5uWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE4/MC00OTI1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/70rr8uQvPbu3VtR1ID2HydlS5YH5CXsUIx5y6467yMQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS04ODMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/70rr8uQvPbu3VtR1ID2HydlS5YH5CXsUIx5y6467yMQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS04ODMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/e2rZXnLGNf8y3hwp76HNIWIX-C1FqWl9xxXkvNrGU9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS04ODMwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tpvmpDIwMQoA8pwGd67ecVWsZwxq5po75izLAWG_Nzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDMx/NS04NDQ4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/tpvmpDIwMQoA8pwGd67ecVWsZwxq5po75izLAWG_Nzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDMx/NS04NDQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Q63dA0LKSx9NDRUngYZqkoLDBOcbgbtOgffPm2KMoWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDMx/NS04NDQ4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YaUfhW_l3Bbp2lDummQumrWwqem1Lhqo4MOhlmgex60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDM1/MC01NDE1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/YaUfhW_l3Bbp2lDummQumrWwqem1Lhqo4MOhlmgex60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDM1/MC01NDE1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CfrISrNriAnnA6x1_SimZINrGFHOYSMh9nK4FPUqLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTQ4NzU0NDM1/MC01NDE1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qwJR3sbBPV_J76hniaCw5Pon2XPuScRONAQcSkGIcIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS01NjMyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qwJR3sbBPV_J76hniaCw5Pon2XPuScRONAQcSkGIcIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS01NjMyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Ncbtj0StSRP8JvkA2qUqStCPbe8SxfQgWqUgBT1SlVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc4/MzUtMTYyMTIzOTE3/OS01NjMyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Rattlesnake",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Melting",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Open Water",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Sleep Drifter",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Billabong Valley",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Anoxia",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Doom City",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Nuclear Fusion",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Flying Microtonal Banana",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Flying Microtonal Banana (Explorations Into Microtonal Tuning Volume 1)",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Q-i1XZc8ZwA",
+        "title": "King Gizzard & The Lizard Wizard - Rattlesnake (Official Video)",
+        "description": "Created by Jason Galea",
+        "duration": 470,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=4MFVhqcRpN4",
+        "title": "King Gizzard & The Lizard Wizard - Nuclear Fusion (Official Audio)",
+        "description": "Flying Microtonal Banana: kinggizzardandthelizardwizard.com",
+        "duration": 256,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8XW8yofuGao",
+        "title": "King Gizzard & The Lizard Wizard  - Sleep Drifter (Official Audio)",
+        "description": "www.kinggizzardandthelizardwizard.com",
+        "duration": 285,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2Kwf-pbssBo",
+        "title": "Flying Microtonal Banana",
+        "description": "Provided to YouTube by PIAS\n\nFlying Microtonal Banana \u00b7 King Gizzard & The Lizard Wizard\n\nFlying Microtonal Banana\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2017-02-24\n\nMixing Engineer: Jarvis Taveniere\nProducer: Stuart McKenz",
+        "duration": 155,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZLFlylSZANY",
+        "title": "King Gizzard & The Lizard Wizard - &T (Explorations into Microtonal Tuning Vol, 2.5)",
+        "description": "This release compiled by ShizzFree Records. Support the label.\nhttps://www.instagram.com/shizzfreerecords/?hl=en\n\nI reversed Side A and Side B accidentally but then I liked how it played through so I kept it, For more information on this release, see the ",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1136944,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Garage Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

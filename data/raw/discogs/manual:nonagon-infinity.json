@@ -1,0 +1,1356 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Nonagon Infinity",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 14624299,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[PIAS]",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939937330",
+        "HVNLP 127 BG23574-01 A3 HL",
+        "HVNLP 127 BG23574-01 B1 KR",
+        "HVNLP127 BG23574-01 A3 HL",
+        "HVNLP127 BG23574-01 B1 KR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/14624299-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "HVNLP127",
+      "thumb": "https://i.discogs.com/9VZoVdk-DI6OJb-ArAlqijWUxP0cw5yWh-ykL0c5HEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI0/Mjk5LTE1Nzg0MDcy/MDctNjkxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fUmTslb2Xaiml7PiAxg1Pn0YqVwpC39ajxtD1EyAhgA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI0/Mjk5LTE1Nzg0MDcy/MDctNjkxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14624299",
+      "community": {
+        "want": 345,
+        "have": 618
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8650995,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "10\"",
+        "Shape",
+        "Album",
+        "Limited Edition",
+        "Picture Disc"
+      ],
+      "label": [
+        "Flightless",
+        "ATO Records",
+        "Flightless Records",
+        "Flightless Records",
+        "ATO Records, LLC",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 80882 25011 9",
+        "880882250119",
+        "PIRATES PRESS - 0882250119 A 142715E1/B",
+        "PIRATES PRESS - 0882250119 B 142715E2/A",
+        "PIRATES PRESS - 0882250119 C 142715E3/A",
+        "PIRATES PRESS - 0882250119 D 142715E4/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8650995-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "ATLP164",
+      "thumb": "https://i.discogs.com/e2D0vpdZ-Yo1nm76AtOOwRMbOwglAZKzFDPolcIhuDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTA5/OTUtMTc2ODA4NTk3/OC0zNDczLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/8mePC2TMpFpIMYMFb6acxkDzEvJUSB1L-2lIu-2nedk/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTA5/OTUtMTc2ODA4NTk3/OC0zNDczLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8650995",
+      "community": {
+        "want": 918,
+        "have": 663
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "10\"",
+            "Shape",
+            "Album",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10478746,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity ",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Test Pressing"
+      ],
+      "label": [
+        "ATO Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/10478746-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity-",
+      "catno": "ATO0301",
+      "thumb": "https://i.discogs.com/PiLTGJfMPSoWI5Ehrs4LmrdYHgpVYPZDQCo11MA7xOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc4/NzQ2LTE0OTgyODM2/MDYtMjY3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lj7DQ5s9Q4B3Ff95H5VLvickmrw6MHGPqiu99JP1pVU/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc4/NzQ2LTE0OTgyODM2/MDYtMjY3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10478746",
+      "community": {
+        "want": 402,
+        "have": 29
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8479035,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Flightless",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Shine Media Company Ltd.",
+        "Inertia Pty. Ltd.",
+        "Remote Control"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 332727 058653",
+        "9332727058653",
+        "D150830 6C  www.interia-music.com FLT-025  c1602028",
+        "IFPI LT027",
+        "IFPI TAZ01"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8479035-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "FLT-025",
+      "thumb": "https://i.discogs.com/4TgwnDbXeuEH0QybAcEUtSMFEYF-p9EQTONKNyeyNEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzkw/MzUtMTY3OTI3NzM2/OC00MDIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dFHfGWOkkXN_lf1noE4lxoyZRad0FlPBIdgLBHv7CAU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzkw/MzUtMTY3OTI3NzM2/OC00MDIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8479035",
+      "community": {
+        "want": 271,
+        "have": 224
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22660226,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/22660226-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/stcPeZ9kQ9bf86J0YNvlC4taMrxNlmgbvrvlFvA7QeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjYw/MjI2LTE2NDgzNzIy/OTUtNTg3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CC7owIeoW2lmV8HnjhURzVRoGxNQYD-cMkNgJKUlx6A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjYw/MjI2LTE2NDgzNzIy/OTUtNTg3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22660226",
+      "community": {
+        "want": 42,
+        "have": 43
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8440100,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8440100-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "FLT-025",
+      "thumb": "https://i.discogs.com/D5c4D9G1wtXqqQwW2SyoTIci7ypCF8QS8875ZRxiAUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDAx/MDAtMTYyNjM1MDQ1/MC04NDMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/9g-pn501h5VU3NvGEz7dloDutCBcACgkWO9jCmujSHU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDAx/MDAtMTYyNjM1MDQ1/MC04NDMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8440100",
+      "community": {
+        "want": 1005,
+        "have": 650
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Milky White & Rainbow Splatter [Emu Egg]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8439969,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 332727 058646"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8439969-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "FLT-025",
+      "thumb": "https://i.discogs.com/CaITlCcRgvadrIoS916blz16YuBRcFvmfl4fChHHPzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzk5/NjktMTYyNjI1Nzg1/MC02MTkxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/LY_aLBc3Dn6y8dKf19yg7bcy0XkdxlPUJIa5HBzqSJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzk5/NjktMTYyNjI1Nzg1/MC02MTkxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8439969",
+      "community": {
+        "want": 908,
+        "have": 793
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red w/ Black Splatter [Red Death]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8489238,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "[PIAS]",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[PIAS]",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 937323",
+        "5414939937323",
+        "00095 53919 182 01 + 53919184",
+        "A",
+        "IFPI LV27",
+        "IFPI 0144"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8489238-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "HVNLP127CD",
+      "thumb": "https://i.discogs.com/MGxyxFvRSPBR-TcYZjfTNGfuEe1_51rLwhTyfcriFW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODky/MzgtMTQ2MjYyNDg3/MS0zMDQ1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/5Drrg1p0copiuHHQ71PYwVAzqwAgl51pRS2E9hMpmVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODky/MzgtMTQ2MjYyNDg3/MS0zMDQ1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8489238",
+      "community": {
+        "want": 303,
+        "have": 552
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8486797,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8486797-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/T8aG4ENdM4SjD1xoEhn3sOUs-OAHXImQHOCFXyr_C48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODY3/OTctMTQ2MjU2Nzg0/OS03NDIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/PCKhjkNUatl7a5gYVBVqdEAzBGEKHET-6c04isSwE6g/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODY3/OTctMTQ2MjU2Nzg0/OS03NDIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8486797",
+      "community": {
+        "want": 166,
+        "have": 24
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8325107,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Remote Control",
+        "Mushroom Music",
+        "Inertia Pty. Ltd.",
+        "Pirates Press",
+        "GZ Media",
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727058646",
+        "140970E1/A PIRATES PRESS - 0882250010 A",
+        "140970E2/A PIRATES PRESS - 0882250010 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8325107-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "FLT-025",
+      "thumb": "https://i.discogs.com/1trfIFlsYfDfZQ6S8wX7kPpXuAntE0svBAMEnSxvhNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/UrA5YNXTuHajfUNd1a_D9zCjc8UlK-JUhe-cREuuZ-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8325107",
+      "community": {
+        "want": 1654,
+        "have": 1181
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear w/ Black, Red & Green Splatter [Gamma Ray]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13018511,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/13018511-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "HVNLP127",
+      "thumb": "https://i.discogs.com/LYW-WSee-fv4OMzn9K5d2qFXDbyTEqP2uLVdC2eT5Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTExLTE2MjUyODU4/MzctMzI4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gWb4kIUFjk-d08h0sDnJ81oMXdhz9dAHxqDVf67Jcck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE4/NTExLTE2MjUyODU4/MzctMzI4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13018511",
+      "community": {
+        "want": 103,
+        "have": 27
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8443539,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity ",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "Flightless Records",
+        "Flightless Records",
+        "ATO Records",
+        "Pirates Press",
+        "GZ Media",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882250010",
+        "8 80882 25001 0",
+        "PIRATES PRESS - 0882250010 A 140970E1/D",
+        "PIRATES PRESS - 0882250010 B 140970E2/D",
+        "PIRATES PRESS - 0882250010 A 140970E1/H",
+        "PIRATES PRESS - 0882250010 B 140970E2/E",
+        "PIRATES PRESS - 0882250010 A 140970E1/H",
+        "PIRATES PRESS - 0882250010 B 140970E2/D",
+        "PIRATES PRESS - 0882250010 A 140970E1/A",
+        "PIRATES PRESS - 0882250010 B 140970E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8443539-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity-",
+      "catno": "ATO0301",
+      "thumb": "https://i.discogs.com/Ty8BTE11qrM-ACcT-ycGEuDFViDtrR8dTLEE0TEDtl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDM1/MzktMTY0NzM1ODY5/NC04MjcxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/v_eBhUSVHuxHkNQCeU2x30lI41x7Zd3bN-Ycw3siy-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDM1/MzktMTY0NzM1ODY5/NC04MjcxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8443539",
+      "community": {
+        "want": 1659,
+        "have": 8068
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Green w/ Black Splatter, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8452534,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[PIAS]",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5 414939 937330",
+        "5414939937330",
+        "HVNLP127 BG23574-01 A1 KR",
+        "HVNLP127 BG23574-01 B1 KR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8452534-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "HVNLP127",
+      "thumb": "https://i.discogs.com/wA31LfaEkwrdWXgB-wYWDU0cUFZkJp0XHAq5jD37Pr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTI1/MzQtMTQ2MTg5MzE5/NC00OTM3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Wcpzv8Xp9NmQ9tJj4wYN5PMYuJu60sMt2F09o89yJH0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTI1/MzQtMTQ2MTg5MzE5/NC00OTM3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8452534",
+      "community": {
+        "want": 1021,
+        "have": 4790
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8446597,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "ATO Records",
+        "Flightless Records",
+        "Flightless Records",
+        "ATO Records, LLC",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless Bird Studio, Melbourne",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882250027",
+        "8 80882 25002 7",
+        "DIDX-1079454 1",
+        "IFPI L328",
+        "IFPI 50BS",
+        "A01 DIDX-1079454 1",
+        "IFPI L328",
+        "IFPI 50BH"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8446597-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "ATO0301",
+      "thumb": "https://i.discogs.com/iMrwCGFN74IxToX3cwokdikcsHCffEZ4IuodFCkvG2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDY1/OTctMTQ2MTc3MjAy/Mi00NTE2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Q2pkaQ6e47dvgL4xCtpdZpkWolPDXwI2E8dGiAQ9l0Q/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDY1/OTctMTQ2MTc3MjAy/Mi00NTE2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8446597",
+      "community": {
+        "want": 388,
+        "have": 879
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digipak",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21999166,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "ATO Records, LLC",
+        "Flightless Records",
+        "Flightless Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/21999166-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-qGhdn3PRaTQH1aLdNPiafM0PPSoSpltaN-sNEW-L7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk5/MTY2LTE2NDQ0Mzc0/MDQtODQwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/InushJPdxd1TNV8q6JDZXmfGlJdb0Xi6u_JXWRz49V0/rs:fit/g:sm/q:90/h:218/w:218/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk5/MTY2LTE2NDQ0Mzc0/MDQtODQwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21999166",
+      "community": {
+        "want": 44,
+        "have": 9
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "9",
+          "text": "Variable Bit Rate",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13034761,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "Heavenly Recordings",
+        "Heavenly Recordings",
+        "[PIAS]",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Flightless",
+        "Michael Badger's Bungalow",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939937330",
+        "5 414939 937330",
+        "HVNLP 127 BG23574-01 A2 MK XS",
+        "HVNLP 127 BG23574-01 B1 KR",
+        "HVNLP127 BG23574-01 A2 MK",
+        "HVNLP127 BG23574-01 B1 KR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/13034761-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+      "catno": "HVNLP127",
+      "thumb": "https://i.discogs.com/disNl5dn8l05ViwkKkuWwRMmeWXQ1zUzdKaL5eWGZkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM0/NzYxLTE1NDcwNzMy/NTAtODg1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bSp57bxPCZWjXK0pmVER1cdxiqpfKbbyHPoRQXq7Ufo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM0/NzYxLTE1NDcwNzMy/NTAtODg1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13034761",
+      "community": {
+        "want": 480,
+        "have": 773
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8618197,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity ",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "ATO Records",
+        "ATO Records, LLC",
+        "Pirates Press",
+        "Flightless Records",
+        "Flightless Records",
+        "GZ Media",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders"
+      ],
+      "type": "release",
+      "barcode": [
+        "880882250010",
+        "PIRATES PRESS - 0882250010 A 140970E1/B",
+        "PIRATES PRESS - 0882250010 B 140970E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/8618197-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity-",
+      "catno": "ATO0301",
+      "thumb": "https://i.discogs.com/n8zu9Mzc98yGUM2-5GORwBEzZeGye0bdg1nUpyc76sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTgx/OTctMTU2NjE1Nzg2/My02MTY4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/1wb1JDyU8cttzZghXFURWMy44DQkUQtrsvBeTzeckQQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTgx/OTctMTU2NjE1Nzg2/My02MTY4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8618197",
+      "community": {
+        "want": 802,
+        "have": 2438
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red & Black Blob",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11216487,
+      "title": "King Gizzard And The Lizard Wizard - Nonagon Infinity Test Pressing",
+      "master_id": 992310,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "UK",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [
+        "TBC..",
+        "TBC.."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/992310",
+      "uri": "/release/11216487-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity-Test-Pressing",
+      "catno": "HVNLP 127",
+      "thumb": "https://i.discogs.com/nd-ugEeKkVzCdPg6zf3z_-PE6HeVKrOdLfAB0KKsUAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE2/NDg3LTE1NzQyMTMx/NzUtMzAwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JkHh8k5K6Xb_qbmchimh8XXTTF-Fg8d8Ag-zTSE4rbA/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE2/NDg3LTE1NzQyMTMx/NzUtMzAwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11216487",
+      "community": {
+        "want": 360,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 992310,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Garage Rock",
+      "Psychedelic Rock"
+    ],
+    "main_release": 8325107,
+    "most_recent_release": 37975173,
+    "resource_url": "https://api.discogs.com/masters/992310",
+    "uri": "https://www.discogs.com/master/992310-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity",
+    "versions_url": "https://api.discogs.com/masters/992310/versions",
+    "main_release_url": "https://api.discogs.com/releases/8325107",
+    "most_recent_release_url": "https://api.discogs.com/releases/37975173",
+    "num_for_sale": 216,
+    "lowest_price": 15.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/UrA5YNXTuHajfUNd1a_D9zCjc8UlK-JUhe-cREuuZ-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/UrA5YNXTuHajfUNd1a_D9zCjc8UlK-JUhe-cREuuZ-4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1trfIFlsYfDfZQ6S8wX7kPpXuAntE0svBAMEnSxvhNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/Ny0yMzAyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MY9hN9F0sMMIIzh9Zj6RTQm3yMS0sxqnZXOhPgAZGF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTYwMTUyMjQz/Ni00NjYzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/MY9hN9F0sMMIIzh9Zj6RTQm3yMS0sxqnZXOhPgAZGF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTYwMTUyMjQz/Ni00NjYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vLQ8BpHYKIY_zxqIa4VpEN_vR2xq0QAIpas6riD4b88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTYwMTUyMjQz/Ni00NjYzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/g-PoEdTdNS1bKJHTUVyHeZKUEgArK702b7t7m0zpw9A/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTg0/NC0zMjU5LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/g-PoEdTdNS1bKJHTUVyHeZKUEgArK702b7t7m0zpw9A/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTg0/NC0zMjU5LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/JnmLEGajot4lHwdEesD7JEu3bp_OvjuyrefNKCxO-Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTg0/NC0zMjU5LnBuZw.jpeg",
+        "width": 600,
+        "height": 295
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3QF7Dd3xPcGcu926LNOZKIbUVpjTD7oqvia7J8lyRpU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS01OTU1LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/3QF7Dd3xPcGcu926LNOZKIbUVpjTD7oqvia7J8lyRpU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS01OTU1LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/bZN3HJcbjhVjSUMP6PUsrtUxBIc5Gaq4Nirmj0pI0w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS01OTU1LnBuZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3F9fQlOMun4iCzzo_3Ds6t6fqofXGUxsrWv4tOsRN_0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC00NDkwLnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/3F9fQlOMun4iCzzo_3Ds6t6fqofXGUxsrWv4tOsRN_0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC00NDkwLnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/hMOlwazGItGLcLMpnnYLhWlDV0FrFHOmMbChS1bvvpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC00NDkwLnBuZw.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MNnHk67wX3GsIFIZcCDLUeLVsFzextEuuXC4f9tErds/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMzU5LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/MNnHk67wX3GsIFIZcCDLUeLVsFzextEuuXC4f9tErds/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMzU5LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/zW18Fw3iJniWkQHlO9kgdnfVlQkRf7AWyT5QNRBmU3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMzU5LnBuZw.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pSUTLBUmDhDgxLr2E5L0BbBJie0bqkjQPcZn12DGB4M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMDg2LnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/pSUTLBUmDhDgxLr2E5L0BbBJie0bqkjQPcZn12DGB4M/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMDg2LnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/J2susCJTR0XxBZ7lhTP03pJCd42IFd25aNLeFgvA4yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NS0yMDg2LnBuZw.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yiIpfq9QPWow5mSoB1yciQkkPQWiSrlnGj4A1Zr9H8c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC04NzcxLnBuZw.jpeg",
+        "resource_url": "https://i.discogs.com/yiIpfq9QPWow5mSoB1yciQkkPQWiSrlnGj4A1Zr9H8c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC04NzcxLnBuZw.jpeg",
+        "uri150": "https://i.discogs.com/4pfB07jQOIBmowR988wmd0LGJ-m9_Mnp5oV4GrIZaYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ3ODM3OTYw/NC04NzcxLnBuZw.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Ksc6tmu5yis_Am-qwIXxPOUeCqd3kblWF8ZmwLoEmt4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTI1/NS0yNzg0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Ksc6tmu5yis_Am-qwIXxPOUeCqd3kblWF8ZmwLoEmt4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTI1/NS0yNzg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MiAQjFd47mMvpKXL7WH4tHcY0ns_Nw6fwYjcpCApDDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTI1/NS0yNzg0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 576
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OhuhYePqNN3PmZmRcVHydTRn3T-yEeWhnyTfGcYs8ao/rs:fit/g:sm/q:90/h:411/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMy/OS02NzQ5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/OhuhYePqNN3PmZmRcVHydTRn3T-yEeWhnyTfGcYs8ao/rs:fit/g:sm/q:90/h:411/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMy/OS02NzQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/y6UDDBO4sQeCkDPEw4F-h48ifRWjZZyNSAVWhQqUr2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMy/OS02NzQ5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 411
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UygRwLa8AB7iCxUfIynzAVO3a9jFLRVSazQAIXfmZn8/rs:fit/g:sm/q:90/h:600/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMz/My02MDQ4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/UygRwLa8AB7iCxUfIynzAVO3a9jFLRVSazQAIXfmZn8/rs:fit/g:sm/q:90/h:600/w:433/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMz/My02MDQ4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/wZ2OTCM_1l5HkhqeOVAOHi9GtJ8oEKEH9WbAJ2C39Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTQ2MTcxNTMz/My02MDQ4LmpwZWc.jpeg",
+        "width": 433,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EAIuj2JtbDkX-zCJU0qeUJNHH3N3j2-5oFLdO4UDafI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/OC00NzQ2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/EAIuj2JtbDkX-zCJU0qeUJNHH3N3j2-5oFLdO4UDafI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/OC00NzQ2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vNEfsMVaEYrbG5lRDBaXA8L-IxWAL5gG2QSjr8OAElo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjUx/MDctMTY2NTM5OTc5/OC00NzQ2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Robot Stop",
+        "duration": "5:22"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Big Fig Wasp",
+        "duration": "4:54"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Gamma Knife",
+        "duration": "4:21"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "People-Vultures",
+        "duration": "4:46"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Mr. Beat",
+        "duration": "4:56"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Evil Death Roll",
+        "duration": "7:14"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Invisible Face",
+        "duration": "3:01"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Wah Wah",
+        "duration": "2:54"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Road Train",
+        "duration": "4:18"
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Nonagon Infinity",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=9p_Si21ig7c",
+        "title": "King Gizzard & The Lizard Wizard - Robot Stop (Official Video)",
+        "description": "Created by Jason Galea\n\n*Recommended viewing at 1080p",
+        "duration": 331,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FUomhYCN6pk",
+        "title": "Big Fig Wasp",
+        "description": "Provided to YouTube by PIAS\n\nBig Fig Wasp \u00b7 King Gizzard & The Lizard Wizard\n\nNonagon Infinity\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2016-04-29\n\nProducer: Stuart McKenzie\nMixing Engineer: Michael Badger\nMixing Engineer: St",
+        "duration": 295,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=4oNVggJylqQ",
+        "title": "King Gizzard & The Lizard Wizard - Gamma Knife / People-Vultures (Official)",
+        "description": "Episodes III & IV of the Nonagon Infinity looping album movie\n\nCreated by Danny Cohen & Jason Galea\n\nGAMMA KNIFE  Credits:\n\nDirector: Danny Cohen\nCo-Director: Jason Galea\nProducer: Ruth Morris\nDP: Joel Betts\n1st Assistant Director: Robbie McEwan\n2nd Assis",
+        "duration": 567,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=6f78_Tf4Tdk",
+        "title": "King Gizzard & The Lizard Wizard - People-Vultures (Official Video)",
+        "description": "Created by Danny Cohen & Jason Galea\n\nDirector: Danny Cohen\nCo-Director: Jason Galea\nProducer: Ruth Morris\nDOPs: Sherwin Akbarzadeh & Ryan Alexander Lloyd\n1st AD: Kim Dickson\n1st AC: Anthony \u2018Rillo\u2019 Rilocapro\n2nd AC: Joey Knox\nGrips: Declan Baker, Jesse G",
+        "duration": 301,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Bj5OcHaJwCA",
+        "title": "Mr.Beat",
+        "description": "Provided to YouTube by PIAS\n\nMr.Beat \u00b7 King Gizzard & The Lizard Wizard\n\nNonagon Infinity\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2016-04-29\n\nProducer: Stuart McKenzie\nMixing Engineer: Michael Badger\nComposer: Stuart McKenzi",
+        "duration": 297,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=SKnwWhxN_Bw",
+        "title": "Evil Death Roll",
+        "description": "Provided to YouTube by PIAS\n\nEvil Death Roll \u00b7 King Gizzard & The Lizard Wizard\n\nNonagon Infinity\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2016-04-29\n\nProducer: Stuart McKenzie\nMixing Engineer: Michael Badger\nMixing Engineer:",
+        "duration": 435,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ekXb74bUbRM",
+        "title": "King Gizzard & The Lizard Wizard - Invisible Face (Official Video)",
+        "description": "Created by Jason Galea & Joel Melrose\n\nIllustration by Joel Melrose\nAnimation/VFX/Editing by Jason Galea\n16mm Film by Samuel Kristofski",
+        "duration": 185,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WsCl-sokabc",
+        "title": "Wah Wah",
+        "description": "Provided to YouTube by PIAS\n\nWah Wah \u00b7 King Gizzard & The Lizard Wizard\n\nNonagon Infinity\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2016-04-29\n\nProducer: Stuart McKenzie\nMixing Engineer: Michael Badger\nMixing Engineer: Stu Mac",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rs2P6_G8vm4",
+        "title": "Road Train",
+        "description": "Provided to YouTube by PIAS\n\nRoad Train \u00b7 King Gizzard & The Lizard Wizard\n\nNonagon Infinity\n\n\u2117 Heavenly Recordings under exclusive licence to [PIAS]\n\nReleased on: 2016-04-29\n\nProducer: Stuart McKenzie\nMixing Engineer: Michael Badger\nMixing Engineer: Stu ",
+        "duration": 259,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=9p_Si21ig7c",
+        "title": "King Gizzard & The Lizard Wizard - Robot Stop (Official Video)",
+        "description": "Created by Jason Galea\n\n*Recommended viewing at 1080p",
+        "duration": 331,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 992310,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Garage Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

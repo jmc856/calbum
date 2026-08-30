@@ -1,0 +1,1364 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "Flight b741",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 31624015,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "p(doom) Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31624015-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/90kuV4ykfZaor6Znyl6Z_RrS1DN9d9Mgrs-4wYBa7cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI0/MDE1LTE3MjUxNjEw/MzAtNzkwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bUedM1UV02m7qHL_yxZ8uFCGBxa-l2xVpZagdHYHKoU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI0/MDE1LTE3MjUxNjEw/MzAtNzkwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31624015",
+      "community": {
+        "want": 22,
+        "have": 57
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31442336,
+      "title": "King Gizzard And The Lizard Wizard - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)",
+        "Dex Audio"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922920288",
+        "DEX AUDIO CD 40974 MADE IN AUSTRALIA "
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31442336-King-Gizzard-And-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004-CD",
+      "thumb": "https://i.discogs.com/GS3ByFJGrCsziAGG9M-U6Dis779sdEZNwXAhF_LnhBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQy/MzM2LTE3MjMyMzUw/ODgtMjgxMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QS123dVUuDLY5GDz2QHD1QdDaL_gkZdB8sdxmvnjd10/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQy/MzM2LTE3MjMyMzUw/ODgtMjgxMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31442336",
+      "community": {
+        "want": 148,
+        "have": 212
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31523993,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Australia",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922920271",
+        "PDOOM004 A RC",
+        "PDOOM004 B RC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31523993-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004",
+      "thumb": "https://i.discogs.com/W6cmVZKaLF85XLsuwHtbin0hl5edL6Io-RDex6oGv40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/OTkzLTE3MjQzODQ2/NjctMTIxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OFib_4gQ_6UWjFdjO3p_IgBNi3-YtgO-jR1MqI_TQig/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/OTkzLTE3MjQzODQ2/NjctMTIxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31523993",
+      "community": {
+        "want": 76,
+        "have": 332
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31533295,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922920271",
+        "284172E1/A 10-105968 / 196922920264-A",
+        "284172E2/B 10-105968 / 196922920264-B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31533295-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004",
+      "thumb": "https://i.discogs.com/d-TzdDgDze89dc9RZElvV6BFmPLesBc_YXEK7zasEaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMz/Mjk1LTE3MjQyMjYy/ODYtNzYyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Cvq0QHTvXXjgWK1VtZ1yF2CYGVHWNMKxPX77YF9aHa0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMz/Mjk1LTE3MjQyMjYy/ODYtNzYyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31533295",
+      "community": {
+        "want": 157,
+        "have": 991
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31430312,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922 920264",
+        "PDOOM004 A RC",
+        "PDOOM004 B RC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31430312-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004",
+      "thumb": "https://i.discogs.com/4OK_4Q4fkjer3hN5GoGGukhUo6QiUoRJlQ9cV1e6oss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDMw/MzEyLTE3MjMxMTk0/MzktMjgyMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vihZyIoe4Ek9TRX3B0Pl9beLLelWn0cEKDM-qrBJ0gs/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDMw/MzEyLTE3MjMxMTk0/MzktMjgyMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31430312",
+      "community": {
+        "want": 277,
+        "have": 1685
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31440485,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922920271",
+        "BO17934-01 A1 15 2292027",
+        "BO17934-01 B1 2292027"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31440485-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004",
+      "thumb": "https://i.discogs.com/xQ5K5_tssiCzKRJrwnpsFE1bm_qXyKpKcMPsrAHv33Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NcIogzd7bSXxyNeQ3XdFMmvw2Y8fl_bU1_y99l1cJxo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31440485",
+      "community": {
+        "want": 334,
+        "have": 2002
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31599370,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922920264",
+        "10-105968 / 196922920264 - A  284172E1/D",
+        "10-105968 / 196922920264 - B  284172E2/A",
+        "10-105968 / 196922920264 - A  284172E1/C",
+        "10-105968 / 196922920264 - B  284172E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/31599370-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004LP",
+      "thumb": "https://i.discogs.com/1Aa4mhkJHNdnDd9W92eGUXtoAaFRHsYdvJAxevAFhxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTk5/MzcwLTE3MjQ4ODc3/NzItODA1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/39sGfHYQ8yOi8t5A3QOTO0aWlY7HGrdkK-FUxeV6QzI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTk5/MzcwLTE3MjQ4ODc3/NzItODA1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31599370",
+      "community": {
+        "want": 139,
+        "have": 1321
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34755338,
+      "title": "King Gizzard & The Lizard Wizard* - Flight b741",
+      "master_id": 3565430,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "p(doom) Records",
+        "p(doom) Records",
+        "p(doom)",
+        "p(doom)",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 92026 4",
+        "BO17934-01 A1 2292027 1=",
+        "BO17934-01 B1 2292027 1I"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3565430",
+      "uri": "/release/34755338-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+      "catno": "PDOOM-004LP",
+      "thumb": "https://i.discogs.com/RjkvdypOoe8LQFPnzK_umB5vyEW45_WZjWoCPe_niBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzU1/MzM4LTE3NTQ1NDkw/MzQtNjQ3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Q5N3fSwPcucLWbCZsJT5XMYfoypozgBkmJsVMxrwb18/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzU1/MzM4LTE3NTQ1NDkw/MzQtNjQ3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34755338",
+      "community": {
+        "want": 42,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31747010,
+      "title": "King Gizzard And The Lizard Wizard - Raw Feel / Flight b741",
+      "master_id": 0,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "p(doom) records"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922941542"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/31747010-King-Gizzard-And-The-Lizard-Wizard-Raw-Feel-Flight-b741",
+      "catno": "PDOOM-005",
+      "thumb": "https://i.discogs.com/O7LVXmgWGlv0WIQurqvLk6MW3Z4EoULc6GHu6Ao42y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQ3/MDEwLTE3MjY0Njcx/OTktNDQ3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iPzN2znalsLBIQ5o1F31iXHOg1Tm6Q8xbWKawANhxyg/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQ3/MDEwLTE3MjY0Njcx/OTktNDQ3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31747010",
+      "community": {
+        "want": 66,
+        "have": 328
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3565430,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "main_release": 31440485,
+    "most_recent_release": 34642723,
+    "resource_url": "https://api.discogs.com/masters/3565430",
+    "uri": "https://www.discogs.com/master/3565430-King-Gizzard-The-Lizard-Wizard-Flight-b741",
+    "versions_url": "https://api.discogs.com/masters/3565430/versions",
+    "main_release_url": "https://api.discogs.com/releases/31440485",
+    "most_recent_release_url": "https://api.discogs.com/releases/34642723",
+    "num_for_sale": 71,
+    "lowest_price": 25.18,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/NcIogzd7bSXxyNeQ3XdFMmvw2Y8fl_bU1_y99l1cJxo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/NcIogzd7bSXxyNeQ3XdFMmvw2Y8fl_bU1_y99l1cJxo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xQ5K5_tssiCzKRJrwnpsFE1bm_qXyKpKcMPsrAHv33Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItNjk1NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MHfeDGvs-6ZsdXLx5rt3nbIy_E_pBpDZQq27301JK9I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjAtNjQzNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/MHfeDGvs-6ZsdXLx5rt3nbIy_E_pBpDZQq27301JK9I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjAtNjQzNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/drkTh0bdQWzMeCQ7zc2qChTCVE9VAJ8JQnNmQ7d-zaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjAtNjQzNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vAun_z3YQgsf14vg_KKlwQKmg2Rhnbcjrb8rnmUpOAw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjQtOTUyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/vAun_z3YQgsf14vg_KKlwQKmg2Rhnbcjrb8rnmUpOAw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjQtOTUyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KZrH724l4AXDxp13_JW5-9xGzl6Q1Rkypqamwh_9L7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjQtOTUyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 589
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XXpvhbev7u2FU7PzMPbqZv-4ipQYH56b0QYtmGUGzqY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItMzIwNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/XXpvhbev7u2FU7PzMPbqZv-4ipQYH56b0QYtmGUGzqY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItMzIwNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wy3rWt_1bUShnGJeNZHS1Rs8zze3LFq1Sc4EtLg3Y8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/NTItMzIwNi5qcGVn.jpeg",
+        "width": 591,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/uTCvmeDfnq7zNNHmX8AQiEdPyyosISxrrtD7Lxhxhbc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODMtNDc2MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/uTCvmeDfnq7zNNHmX8AQiEdPyyosISxrrtD7Lxhxhbc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODMtNDc2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/i6hecyc9cQTTok8-t2TGLqv9f0wCQZr_DS9dEOGRzxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODMtNDc2MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 591
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/q-hVJqV_vrN9k_zxV93JkGIKZdqgQMJy7SCLB0CdNPw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODYtNDUzNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/q-hVJqV_vrN9k_zxV93JkGIKZdqgQMJy7SCLB0CdNPw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODYtNDUzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/o15vWukzwJM4UbQ3qOsPBgF18WcyA4tc-KkMdF1sdUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMTk4/ODYtNDUzNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jB4Q1N5olZBhQ_BNZ2KO3umUETtDlbA9A-Zw4HTNPlk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjctNzE5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jB4Q1N5olZBhQ_BNZ2KO3umUETtDlbA9A-Zw4HTNPlk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjctNzE5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ffpJ5TrqdkTgBIG5eDd1_dMMkxhG-zlF0qBLj4VNHTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjctNzE5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Jais2o0rs-xXMlGwHz7ARLSnvVRJnUsHKEnWppnRqHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktMTc0Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Jais2o0rs-xXMlGwHz7ARLSnvVRJnUsHKEnWppnRqHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktMTc0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/OUM9K4BIVTAreMezHbo4813Y-_7Tz_h86gG1qCbgj0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktMTc0Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3e2Bpl-mUAFsmiwdOmR4DCEnbf5oUdIoJ0iS_bsQd-g/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/ODYtNjUyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3e2Bpl-mUAFsmiwdOmR4DCEnbf5oUdIoJ0iS_bsQd-g/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/ODYtNjUyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/g7xiqliwj_pZpZEQni_Q4GXSkbgo06oVXSkWTXAfLFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/ODYtNjUyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 581
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/iICxp3R8YrSGjpr0pICpjN5l-8KF2XSEULYXTGk3RlU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktNzk2OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/iICxp3R8YrSGjpr0pICpjN5l-8KF2XSEULYXTGk3RlU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktNzk2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/KlQq18dZ2pQUXdPpvLje2qWSdp25FeOyh4s11gsLR2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NjktNzk2OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lmXYZ7Z4y9QkwyWzs3Jw9AEe7Y1FD_ie3wu9ORlgRXM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NzMtODY4MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lmXYZ7Z4y9QkwyWzs3Jw9AEe7Y1FD_ie3wu9ORlgRXM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NzMtODY4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/1TDK_fDBYIG87NYKIXenNh6m2LFe03R_9GQSxMbIhCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/NDg1LTE3MjMyMjA0/NzMtODY4MS5qcGVn.jpeg",
+        "width": 592,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Mirage City",
+        "extraartists": [
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums, Percussion, Vocals",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Mellotron, Vocals",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Samuel Joseph",
+            "anv": "Sammy",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 3177767,
+            "resource_url": "https://api.discogs.com/artists/3177767"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Piano, Harmonica, Saxophone, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Antarctica",
+        "extraartists": [
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Drums, Percussion, Vocals",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joye",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Organ, Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Piano, Harmonica, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Raw Feel",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Harmonica, Vocals, Saxophone",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Piano, Vocals, Bass",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Mellotron, Guitar, Bass, Organ",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Field Of Vision",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Harmonica, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Hog Calling Contest",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Harmonica, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Samuel Joseph",
+            "anv": "Sammy",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 3177767,
+            "resource_url": "https://api.discogs.com/artists/3177767"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Piano, Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Le Risque",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Harmonica, Vocals, Saxophone",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Flight b741",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Harmonica, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Samuel Joseph",
+            "anv": "Sammy",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 3177767,
+            "resource_url": "https://api.discogs.com/artists/3177767"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Piano, Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ, Mellotron",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Sad Pilot",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Piano, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Rats In The Sky",
+        "extraartists": [
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Piano, Vocals, Saxophone",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Mellotron",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Mellotron, Guitar, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Daily Blues",
+        "extraartists": [
+          {
+            "name": "Samuel Joseph",
+            "anv": "Sammy",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 3177767,
+            "resource_url": "https://api.discogs.com/artists/3177767"
+          },
+          {
+            "name": "Lucas Harwood",
+            "anv": "Lukey",
+            "join": "",
+            "role": "Piano, Bass, Electric Piano, Vocals",
+            "tracks": "",
+            "id": 8228308,
+            "resource_url": "https://api.discogs.com/artists/8228308"
+          },
+          {
+            "name": "Ambrose Kenny-Smith",
+            "anv": "Amby",
+            "join": "",
+            "role": "Piano, Harmonica, Vocals",
+            "tracks": "",
+            "id": 2532176,
+            "resource_url": "https://api.discogs.com/artists/2532176"
+          },
+          {
+            "name": "Michael Cavanagh (2)",
+            "anv": "Cavs",
+            "join": "",
+            "role": "Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 2859720,
+            "resource_url": "https://api.discogs.com/artists/2859720"
+          },
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey",
+            "join": "",
+            "role": "Vocals, Guitar",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "Stu",
+            "join": "",
+            "role": "Vocals, Guitar, Bass",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          },
+          {
+            "name": "Cook Craig",
+            "anv": "Cookie",
+            "join": "",
+            "role": "Vocals, Organ",
+            "tracks": "",
+            "id": 2648761,
+            "resource_url": "https://api.discogs.com/artists/2648761"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "King Gizzard & The Lizard Wizard",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Flight b741",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Ik-gBAlEbQY",
+        "title": "King Gizzard & The Lizard Wizard - Le Risque (Official Video)",
+        "description": "Produced/Directed/Edited by Guy Tyzack\nCo-Produced/Cinematography by Tom Dunphy \nStaring David MacRae\nAssistant Camera Claire Giuffre\n2nd Assistant Camera and BTS photography Bridgette Winten\nGrip Guy Perkins\nRunner Hayley Mayall \nTitles by Benji Luke\nCol",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zaQgolYOVaw",
+        "title": "Hog Calling Contest",
+        "description": "Provided to YouTube by Universal Music Group\n\nHog Calling Contest \u00b7 King Gizzard & The Lizard Wizard\n\nHog Calling Contest\n\n\u2117 2024 p(doom) records\n\nReleased on: 2024-07-23\n\nProducer, Studio  Personnel, Mix  Engineer: Stu Mackenzie\nStudio  Personnel, Master",
+        "duration": 201,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IVTvK8DjtkI",
+        "title": "Flight b741",
+        "description": "Provided to YouTube by Universal Music Group\n\nFlight b741 \u00b7 King Gizzard & The Lizard Wizard\n\nFlight b741\n\n\u2117 2024 p(doom) records\n\nReleased on: 2024-08-09\n\nProducer, Studio  Personnel, Mix  Engineer: Stu Mackenzie\nStudio  Personnel, Mastering  Engineer: J",
+        "duration": 239,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NR3HcV9cqVU",
+        "title": "Sad Pilot",
+        "description": "Provided to YouTube by Universal Music Group\n\nSad Pilot \u00b7 King Gizzard & The Lizard Wizard\n\nFlight b741\n\n\u2117 2024 p(doom) records\n\nReleased on: 2024-08-09\n\nProducer, Studio  Personnel, Mix  Engineer: Stu Mackenzie\nStudio  Personnel, Mastering  Engineer: Jos",
+        "duration": 252,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3565430,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Blues Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}
