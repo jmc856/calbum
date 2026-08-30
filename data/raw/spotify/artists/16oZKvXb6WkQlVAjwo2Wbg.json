@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+  },
+  "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+  "id": "16oZKvXb6WkQlVAjwo2Wbg",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0f882273183345499155d6ed",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740f882273183345499155d6ed",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780f882273183345499155d6ed",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Lumineers",
+  "type": "artist",
+  "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+}
