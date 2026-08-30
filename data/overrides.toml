@@ -20,3 +20,20 @@
 # title = "Some Album"
 # release_date = 1999-01-01
 # cover_url = "https://example.com/cover.jpg"
+
+# Added by hand from a RateYourMusic link rather than via _selected. The album
+# IS on Spotify — this is not the "not on Spotify at all" case the manual path
+# was designed for — but this app's Spotify search is restricted (capped at 5
+# results, returns unrelated artists), so the album id could not be resolved
+# from code. Artist name uses Spotify's "&" spelling, not Discogs' "And", so
+# the Artists tab won't split into two rows if this ever also arrives via
+# _selected. If it does arrive that way, DELETE this block — otherwise the
+# catalogue carries both a manual and a Spotify-sourced copy.
+# genres left empty on purpose: enrich.py fills them from Discogs master
+# 761067 (Rock / Psychedelic Rock, Garage Rock) on the next run.
+["manual:im-in-your-mind-fuzz"]
+artists = ["King Gizzard & The Lizard Wizard"]
+title = "I'm in Your Mind Fuzz"
+release_date = 2014-10-31
+cover_url = "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg"
+note = "manual add from RYM; Spotify search restricted so no album id"

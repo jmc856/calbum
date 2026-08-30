@@ -1,0 +1,1094 @@
+{
+  "step": "search",
+  "query": {
+    "upc": null,
+    "artist": "King Gizzard & The Lizard Wizard",
+    "title": "I'm in Your Mind Fuzz",
+    "year": 2014
+  },
+  "results": [
+    {
+      "id": 6377274,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Castle Face",
+        "Castle Face Records",
+        "Castle Face Records",
+        "Pirates Press",
+        "GZ Media",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders"
+      ],
+      "type": "release",
+      "barcode": [
+        "819162017128",
+        "8 19162 01712 8",
+        "PIRATES PRESS - CF - 047 A  123679E1/A",
+        "PIRATES PRESS - CF - 047 - B  123679E/B",
+        "PIRATES PRESS - CF-047 A 123679E1/D",
+        "PIRATES PRESS - CF-047 B 123679E2/D",
+        "PIRATES PRESS - CF-047 B 123679E2/E"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6377274-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "CF-047",
+      "thumb": "https://i.discogs.com/cb_YF9ehB4hGEyQgD4o5PdI9J9qicXsMIJteLrmT0dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzcy/NzQtMTQ3ODM4MDA1/Ny03MjE2LnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/HzfndUz257B20C41Oi8fFIs0rpgP-uUb79I88zoOQWQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzcy/NzQtMTQ3ODM4MDA1/Ny03MjE2LnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6377274",
+      "community": {
+        "want": 1403,
+        "have": 6972
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6289254,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Flightless",
+        "Remote Control",
+        "Inertia Pty. Ltd.",
+        "Mushroom Music",
+        "DW",
+        "DW"
+      ],
+      "type": "release",
+      "barcode": [
+        "9 332727 031755",
+        "FLT01CD 6141012410 DW",
+        "ifpi LR11",
+        "ifpi K413"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6289254-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "FLT-012CD",
+      "thumb": "https://i.discogs.com/N7-tuqnFXPB80d1Th37DeYGfhpw9fvn5p5oB6B4Kv2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODky/NTQtMTYxODkwMTM1/OS00OTIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/WPitbFZ4Fnm-8BZUV4d4keqffrgXKwnyQ5klw6_aL14/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODky/NTQtMTYxODkwMTM1/OS00OTIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6289254",
+      "community": {
+        "want": 283,
+        "have": 182
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16214727,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Europe",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Heavenly",
+        "Daptone Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939801617",
+        "BE 66234 - 0\u0245 A\u0245 NS",
+        "BE 66234 - 0\u0245 B\u0245"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/16214727-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "HVNLP109",
+      "thumb": "https://i.discogs.com/b6vgZrvdHB7dPazKmOtncVmZzaIz4dR16n7slGJ38YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE0/NzI3LTE2MDUzOTIx/NjQtMjU1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uxZFVnzGzw6CfUdr1SO8KJzyZhp1EecCKY6QI2VMixg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE0/NzI3LTE2MDUzOTIx/NjQtMjU1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16214727",
+      "community": {
+        "want": 297,
+        "have": 743
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13972840,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "UK",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing",
+        "White Label"
+      ],
+      "label": [
+        "Heavenly",
+        "Flightless",
+        "Mushroom Music",
+        "Inertia Pty. Ltd.",
+        "Remote Control",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727031748",
+        "123679E1/A PIRATES PRESS - CF - 047 A",
+        "123679E2/A PIRATES PRESS - CF - 047 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/13972840-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "HVNLP 109",
+      "thumb": "https://i.discogs.com/qV4Abrv6eINlpk7Ka5O0-KFOePNxkFm-b5Urlitzbgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/ODQwLTE1NjUyMTU1/NDAtNzU5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/s8hBehwsrA3ZJEtF6LnHvdphyCqpcYpI2mWoJudMAwk/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/ODQwLTE1NjUyMTU1/NDAtNzU5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13972840",
+      "community": {
+        "want": 239,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing",
+            "White Label"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6883839,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless",
+        "Flightless",
+        "Mushroom Music",
+        "Inertia Pty. Ltd.",
+        "Remote Control",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727031748",
+        "123679E1/A PIRATES PRESS - CF - 047 A",
+        "123679E2/A PIRATES PRESS - CF - 047 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6883839-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "FLT-012LP",
+      "thumb": "https://i.discogs.com/4yqF_oG9qTG5DAIo4TIaKvDI9M4w3EOuCMhuD0cyQrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6883839",
+      "community": {
+        "want": 1377,
+        "have": 322
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Hot Pink, 1st Edition",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6364133,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Australia & New Zealand",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Flightless",
+        "Flightless",
+        "Mushroom Music",
+        "Inertia Pty. Ltd.",
+        "Remote Control",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727031748",
+        "123679E1/A PIRATES PRESS - CF - 047 A",
+        "123679E2/A PIRATES PRESS - CF - 047 B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6364133-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "FLT-012LP",
+      "thumb": "https://i.discogs.com/CbGyotZMI8kZpACoVTcJe5BI9zZCD9GF77RdsY-0-xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjQx/MzMtMTYyOTAyODEz/MC01MTA5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/sF7iO9SbRxM1YcPK1lnwWvMZXu-hI-FSbUHHsncDIFM/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjQx/MzMtMTYyOTAyODEz/MC01MTA5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6364133",
+      "community": {
+        "want": 993,
+        "have": 377
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blood Red/Green Splatter",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6329921,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Castle Face",
+        "Castle Face Records",
+        "Castle Face Records",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders",
+        "Crystal Mastering",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "PIRATES PRESS - CF-047 A 123679E1/A",
+        "PIRATES PRESS - CF-047 B 123679E2/A"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6329921-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "CF-047",
+      "thumb": "https://i.discogs.com/u46NmVF5gVFc_17m3zFqYqJiNwTBF6WvfArxmatptHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk5/MjEtMTU2NTQ4MTcy/My0yMDQ1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/sVPHX4e-tMIpDYuE4CXFgUyAyZMIIZ1J8ScJ3PrmMLI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjk5/MjEtMTU2NTQ4MTcy/My0yMDQ1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6329921",
+      "community": {
+        "want": 897,
+        "have": 333
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Fluoride Fogbank Edition",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8659917,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Europe",
+      "year": "2014",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Heavenly"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/8659917-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/_T-IQKB_bZ0Z1hEqO4vTY-nm1c03q-9FP7C8ExYsmG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk5/MTctMTY1OTEzMjMy/NS02NTQ1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/RdQk3RUWI0_9Kq33g_DVKbrvD-O51Q5ObquOM8BVyV4/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk5/MTctMTY1OTEzMjMy/NS02NTQ1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8659917",
+      "community": {
+        "want": 149,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21371887,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Unknown",
+      "year": "2014",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Flightless"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/21371887-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/wJtQU5ZhlhwRXyTpRaJjkTzi1wUs0RmGicDZknVA_ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzcx/ODg3LTE2Mzk2NjU1/MzktODgzOC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/V1kQdYJO4RTNGo6CK66hZmMgICMexwKPPa_QL2faz7U/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzcx/ODg3LTE2Mzk2NjU1/MzktODgzOC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21371887",
+      "community": {
+        "want": 32,
+        "have": 30
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6677553,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "US",
+      "year": "2014",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Castle Face",
+        "Castle Face Records",
+        "Castle Face Records",
+        "Pirates Press",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "A82728  PIRATES PRESS - CF-047CD",
+        "IFPI LD02",
+        "819162017135"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6677553-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "CF-047",
+      "thumb": "https://i.discogs.com/z9ksecr3Ajf-F9AAcVrolMtjW1vj8RgWFH0L5N2Bmwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzc1/NTMtMTczMTgwNjMz/Ny02MDgyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/XqgyIJHiMyPQ99QsMOo0tWY_Lg3E7uJ0gezllZTG4j0/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzc1/NTMtMTczMTgwNjMz/Ny02MDgyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6677553",
+      "community": {
+        "want": 327,
+        "have": 305
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35474458,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2014",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/35474458-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/CNDlwWQcB9mVJ1ab17byc-UTHMqD6FQep_zw3XG2SaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/NDU4LTE3NjE0MTIz/NDYtNDQwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/me4AAHcuuxEptNgrYSH-rGFozNSBpdHJTNnSyjI8-ww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDc0/NDU4LTE3NjE0MTIz/NDYtNDQwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35474458",
+      "community": {
+        "want": 11,
+        "have": 7
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8470364,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Garage Rock",
+        "Psychedelic Rock"
+      ],
+      "country": "Europe",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Heavenly",
+        "3345 Mastering",
+        "Optimal Media GmbH",
+        "[pias]",
+        "Heavenly Recordings",
+        "A Secret Location Sound Recorders",
+        "Daptone Studios",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939801617",
+        "BE66234-01 A1 NS",
+        "BE66234-01 B1",
+        "BE66234-01 A1 NS",
+        "BE66234-01 B1 \u25b3 V",
+        "BE66234-01 A1 X\u16da NS ",
+        "BE66234-01 B1 V\u2014"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/8470364-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "HVNLP109",
+      "thumb": "https://i.discogs.com/mVZlAagv9e7riSvadQndMQqfo1PS8U0Iq5-8ovF1EwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzAz/NjQtMTY2NzQ2NzI3/Mi03MjAxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/M7ldqb4yJX-suYpk-jFYRnMtxBsdbUzgk6c_10XxdeA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzAz/NjQtMTY2NzQ2NzI3/Mi03MjAxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8470364",
+      "community": {
+        "want": 694,
+        "have": 2615
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17947207,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Unknown",
+      "year": "2014",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (King Gizzard And The Lizard Wizard Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/17947207-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/5SifZbgzcykfR7fKdhGX1QlsQGBld1kns2XBSxEx76s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ3/MjA3LTE2MTYzNDQx/OTgtNzE5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9wxh5W_lWmwvdDvJmMG-a3-76NNoguCF9p6yNJj3BOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ3/MjA3LTE2MTYzNDQx/OTgtNzE5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17947207",
+      "community": {
+        "want": 44,
+        "have": 21
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6355097,
+      "title": "King Gizzard & The Lizard Wizard* - I'm In Your Mind Fuzz",
+      "master_id": 761067,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Garage Rock"
+      ],
+      "country": "Europe",
+      "year": "2014",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Heavenly",
+        "[PIAS] Cooperative",
+        "Daptone Studios",
+        "A Secret Location Sound Recorders",
+        "Hunter Mountain",
+        "Jaya Jaya Studios",
+        "A Secret Location Sound Recorders",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "5414939801617",
+        "BE 66234-01 A1 NS",
+        "BE 66234-01 B1 VV"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/761067",
+      "uri": "/release/6355097-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+      "catno": "HVNLP109",
+      "thumb": "https://i.discogs.com/s2f_MbHw4s_HOIudwyZ-NUXVyN5ZdjUMHcmQM48IfSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTUw/OTctMTQxNzQzMjg4/OS03NzExLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/7w_gWm2d2-ZxeB_XE5Wnt2iJQWztCSppkdbaBEXm4Ls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTUw/OTctMTQxNzQzMjg4/OS03NzExLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6355097",
+      "community": {
+        "want": 863,
+        "have": 663
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Glow In The Dark Sleeve",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 761067,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Garage Rock"
+    ],
+    "main_release": 6883839,
+    "most_recent_release": 6382126,
+    "resource_url": "https://api.discogs.com/masters/761067",
+    "uri": "https://www.discogs.com/master/761067-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz",
+    "versions_url": "https://api.discogs.com/masters/761067/versions",
+    "main_release_url": "https://api.discogs.com/releases/6883839",
+    "most_recent_release_url": "https://api.discogs.com/releases/6382126",
+    "num_for_sale": 159,
+    "lowest_price": 17.44,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4yqF_oG9qTG5DAIo4TIaKvDI9M4w3EOuCMhuD0cyQrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9Bz0bBC20xiHoRZ2pGURwlzSc1h9APnuR-rjGTVWDEU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/NC05NzQxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/9Bz0bBC20xiHoRZ2pGURwlzSc1h9APnuR-rjGTVWDEU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/NC05NzQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/N1Age1g3_g_1ENx4sU6nnhJ-22CXZ7-G-2FPGsIo99Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/NC05NzQxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_Ynxqw7nIcXCK6cKDMezpXyZY9t1rUyf_61MzMaFj9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My0yNTIwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/_Ynxqw7nIcXCK6cKDMezpXyZY9t1rUyf_61MzMaFj9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My0yNTIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/OKU1b1A_FmwZQjfYt-wh7kb9vcA6Nk4IO_I-Oo8NmNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My0yNTIwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/axAs-hxxeKjgtnhxiyNRfpmcJepNNRDUnBEYYeifW3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00NjEzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/axAs-hxxeKjgtnhxiyNRfpmcJepNNRDUnBEYYeifW3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00NjEzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/YDhclDmQnx2ekXxnXMdvHJtlRvk89amwXkfIsU3xWyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00NjEzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/D5bwYW_mgdlLeA37NJPoVbPA_0fcz7SrIAdIf1k1IQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS03NDU3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/D5bwYW_mgdlLeA37NJPoVbPA_0fcz7SrIAdIf1k1IQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS03NDU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/nVc2cgNGhqYjVXkBK0ttyudZVEMM5AsAFXtmxt6ey-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS03NDU3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2X_NzY7kKvOswm8DRokPRuqmerJgl24RoxjrYQ5wVhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS0xNzA0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/2X_NzY7kKvOswm8DRokPRuqmerJgl24RoxjrYQ5wVhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS0xNzA0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/He32RTIBSyZfugaxTSA-do0eCIKSUT94_Vf16W_j-Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/MS0xNzA0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2014,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "I'm In Your Mind",
+        "duration": "3:33"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "I'm Not In Your Mind",
+        "duration": "2:58"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Cellophane",
+        "duration": "3:10"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "I'm In Your Mind Fuzz",
+        "duration": "2:51"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Empty",
+        "duration": "4:10"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Hot Water",
+        "extraartists": [
+          {
+            "name": "Joe Walker (8)",
+            "anv": "Joey Walker",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2532183,
+            "resource_url": "https://api.discogs.com/artists/2532183"
+          },
+          {
+            "name": "Stu Mackenzie",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2532178,
+            "resource_url": "https://api.discogs.com/artists/2532178"
+          }
+        ],
+        "duration": "3:23"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Am I In Heaven?",
+        "duration": "7:05"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Slow Jam 1",
+        "duration": "2:54"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Satan Speeds Up",
+        "duration": "3:39"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Her And I (Slow Jam 2)",
+        "duration": "8:15"
+      }
+    ],
+    "artists": [
+      {
+        "name": "King Gizzard And The Lizard Wizard",
+        "anv": "King Gizzard & The Lizard Wizard",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2532180,
+        "resource_url": "https://api.discogs.com/artists/2532180",
+        "thumbnail_url": "https://i.discogs.com/z8jd-QxfAMRnVsMoDfSv6pddJyNgc6gY1NAqESOl0ps/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzIx/ODAtMTc2MTc1NDQ3/NC05OTMwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "I'm In Your Mind Fuzz",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=InalB3tNW-w",
+        "title": "I'm In Your Mind",
+        "description": "Provided to YouTube by Universal Music Group\n\nI'm In Your Mind \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 214,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=VqzCFvTaWO0",
+        "title": "I'm Not In Your Mind",
+        "description": "Provided to YouTube by Universal Music Group\n\nI'm Not In Your Mind \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 179,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=FpEl3AvpcoE",
+        "title": "Cellophane",
+        "description": "Provided to YouTube by Universal Music Group\n\nCellophane \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nProducer, Composer Lyricist: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 191,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=A0xBZV2dNBQ",
+        "title": "I'm In Your Mind Fuzz",
+        "description": "Provided to YouTube by Universal Music Group\n\nI'm In Your Mind Fuzz \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 172,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rFO4tmLZkWs",
+        "title": "Empty",
+        "description": "Provided to YouTube by Universal Music Group\n\nEmpty \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=W5JnLFZXGLk",
+        "title": "Hot Water",
+        "description": "Provided to YouTube by Universal Music Group\n\nHot Water \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\nComposer Lyricist: Joey Walker\n\nAuto-generated by YouTube.",
+        "duration": 204,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hneOa-A7ua0",
+        "title": "Am I in Heaven?",
+        "description": "Provided to YouTube by Universal Music Group\n\nAm I in Heaven? \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 426,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ujx2Wz_qup8",
+        "title": "Slow Jam 1",
+        "description": "Provided to YouTube by Universal Music Group\n\nSlow Jam 1 \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nProducer, Composer Lyricist: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 175,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=PfDhMDk8gso",
+        "title": "Satan Speeds Up",
+        "description": "Provided to YouTube by Universal Music Group\n\nSatan Speeds Up \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 220,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NiifalS0CXA",
+        "title": "Her and I (Slow Jam 2)",
+        "description": "Provided to YouTube by Universal Music Group\n\nHer and I (Slow Jam 2) \u00b7 King Gizzard & The Lizard Wizard\n\nI'm In Your Mind Fuzz\n\n\u2117 2014 KGLW\n\nReleased on: 2014-10-31\n\nComposer Lyricist, Producer: Stu Mackenzie\n\nAuto-generated by YouTube.",
+        "duration": 496,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 761067,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Psychedelic Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Garage Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

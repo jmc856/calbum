@@ -2915,5 +2915,39 @@
     "source": "spotify",
     "title": "To Pimp A Butterfly",
     "upc": "00602547289049"
+  },
+  {
+    "added_at": "2026-08-30T04:06:12.447759Z",
+    "album_type": "album",
+    "artist_ids": [],
+    "artists": [
+      "King Gizzard & The Lizard Wizard"
+    ],
+    "cover_url": "https://i.discogs.com/eecJur-j4zS1upDKIWm_1eXEqps11dHt_RILzi395Bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODM4/MzktMTcwOTk0NDg1/My00MjQxLmpwZWc.jpeg",
+    "discogs_release_id": 761067,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Psychedelic Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Garage Rock",
+        "source": "discogs_search"
+      }
+    ],
+    "id": "manual:im-in-your-mind-fuzz",
+    "release_date": "2014-10-31",
+    "release_year": 2014,
+    "removed_at": null,
+    "source": "manual",
+    "title": "I'm in Your Mind Fuzz",
+    "upc": null
   }
 ]
