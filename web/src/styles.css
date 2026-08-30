@@ -106,12 +106,20 @@ button {
   margin: 0;
   color: var(--ink);
 }
+/* The header's right-hand controls. The -10px bleed lives on the group, not
+   on each button: it aligns the last icon's optical edge with the gutter, and
+   there are two icons now. */
+.hdr-acts {
+  display: flex;
+  align-items: center;
+  margin-right: -10px;
+}
 .icon-btn {
   width: 44px;
   height: 44px;
   display: grid;
   place-items: center;
-  margin: -8px -10px -8px 0;
+  margin: -8px 0;
   border-radius: 50%;
 }
 .icon-btn:active {
@@ -188,6 +196,82 @@ button {
   font-weight: 700;
   letter-spacing: 0.08em;
   color: var(--ink-2);
+}
+
+/* A collapsible section's heading hands its padding to the button inside, so
+   the tap target is the full row rather than the width of "2014". Only
+   Section adds this class — the Artists tab's headings are not interactive
+   and keep the plain rule above. */
+.sec-head-btn {
+  padding: 0;
+}
+.sec-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  padding: 18px var(--gutter) 8px;
+  text-align: left;
+  letter-spacing: inherit;
+}
+.sec-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -4px;
+}
+/* Second indicator, so collapsed state doesn't rest on the icon alone. */
+.sec-btn[aria-pressed="true"] {
+  color: var(--ink-3);
+}
+.sec-btn svg {
+  width: 14px;
+  height: 14px;
+  flex: none;
+}
+
+/* Collapsed sections: the same albums as text. Vertical rhythm comes from the
+   rows themselves, so this keeps .grid's horizontal gutter and nothing else. */
+.rows {
+  list-style: none;
+  margin: 0;
+  padding: 0 var(--gutter) 8px;
+}
+.row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  color: inherit;
+}
+.rows li:last-child .row {
+  border-bottom: none;
+}
+/* The title takes the squeeze. An ellipsised title still reads ("Ice, Death,
+   Planets, Lungs, …"), whereas the sub carries the "Not on Spotify" marker and
+   truncating that produces "Not on Spo…", which looks like a rendering bug
+   rather than information. So .row-s never shrinks. */
+.row-t {
+  font-size: 14px;
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.row-s {
+  font-size: 12.5px;
+  color: var(--ink-2);
+  flex: none;
+  white-space: nowrap;
+  text-align: right;
+}
+a.row:active {
+  opacity: 0.6;
 }
 
 /* ---------- Cover grid ----------
@@ -529,6 +613,14 @@ a.card:active .cover-fb {
   background: #fafafa;
   border-radius: 10px;
   padding: 12px;
+}
+/* The collapsed expansion. Reproduces .aexp-in's tint and radius, because
+   those are what make the panel read as belonging to the row above it rather
+   than as a new section. */
+.aexp-rows {
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 2px 12px;
 }
 .aexp-in .c-title {
   font-size: 11.5px;

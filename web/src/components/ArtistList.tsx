@@ -11,10 +11,12 @@ export function ArtistList({
   entries,
   expanded,
   onToggle,
+  textOnly,
 }: {
   entries: ArtistEntry[];
   expanded: string | null;
   onToggle: (id: string) => void;
+  textOnly: boolean;
 }) {
   return (
     <div className="alist">
@@ -25,6 +27,7 @@ export function ArtistList({
           variant="row"
           expanded={expanded === entry.id}
           onToggle={() => onToggle(entry.id)}
+          textOnly={textOnly}
         >
           <div className="arow-meta tnum">{meta(entry)}</div>
           <div className="astrip">

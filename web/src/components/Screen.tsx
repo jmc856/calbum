@@ -1,4 +1,5 @@
 import { useEffect, useRef, type ReactNode } from "react";
+import type { CollapseApi } from "../views/props";
 
 /**
  * The chrome every tab shares: accent header, title, a subtitle slot, and the
@@ -24,6 +25,7 @@ export function Screen({
   onQuery,
   searchOpen,
   onToggleSearch,
+  collapse,
   children,
 }: {
   title: string;
@@ -32,6 +34,7 @@ export function Screen({
   onQuery: (q: string) => void;
   searchOpen: boolean;
   onToggleSearch: () => void;
+  collapse: CollapseApi;
   children: ReactNode;
 }) {
   const searchRef = useRef<HTMLInputElement>(null);
@@ -45,24 +48,58 @@ export function Screen({
       <header className="hdr">
         <div className="hdr-top">
           <h1 className="hdr-title">{title}</h1>
-          <button
-            className="icon-btn"
-            onClick={onToggleSearch}
-            aria-label="Search albums"
-            aria-expanded={searchOpen}
-          >
-            <svg
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2.4"
-              strokeLinecap="round"
-              aria-hidden="true"
+          {/* Wrapped so the right-edge bleed is a property of the group:
+              .icon-btn's negative right margin was tuned for being the last
+              child, and there are two of them now. Search stays rightmost. */}
+          <div className="hdr-acts">
+            <button
+              className="icon-btn"
+              onClick={collapse.onToggleAll}
+              aria-label={collapse.allCollapsed ? "Show album covers" : "Hide album covers"}
+              aria-pressed={collapse.allCollapsed}
             >
-              <circle cx="11" cy="11" r="7" />
-              <path d="M20 20l-3.5-3.5" />
-            </svg>
-          </button>
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.4"
+                strokeLinecap="round"
+                aria-hidden="true"
+              >
+                {collapse.allCollapsed ? (
+                  <>
+                    <rect x="3" y="3" width="7" height="7" />
+                    <rect x="14" y="3" width="7" height="7" />
+                    <rect x="3" y="14" width="7" height="7" />
+                    <rect x="14" y="14" width="7" height="7" />
+                  </>
+                ) : (
+                  <>
+                    <path d="M8 6h13M8 12h13M8 18h13" />
+                    <path d="M3 6h.01M3 12h.01M3 18h.01" />
+                  </>
+                )}
+              </svg>
+            </button>
+            <button
+              className="icon-btn"
+              onClick={onToggleSearch}
+              aria-label="Search albums"
+              aria-expanded={searchOpen}
+            >
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2.4"
+                strokeLinecap="round"
+                aria-hidden="true"
+              >
+                <circle cx="11" cy="11" r="7" />
+                <path d="M20 20l-3.5-3.5" />
+              </svg>
+            </button>
+          </div>
         </div>
 
         {subtitle.kind === "stats" ? <Stats albums={subtitle.albums} /> : <p className="hdr-sub tnum">{subtitle.text}</p>}

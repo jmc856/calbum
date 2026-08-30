@@ -12,7 +12,7 @@ const GENRE_COUNT = new Set(ALBUMS.flatMap((a) => a.genres)).size;
  * view's own state — App never sees it. That's the whole reason the view
  * split earns itself: the filter lives with the thing that sets it.
  */
-export function GenresView({ albums, ...chrome }: ViewProps) {
+export function GenresView({ albums, collapse, ...chrome }: ViewProps) {
   const [genre, setGenre] = useState<string | null>(null);
 
   // `albums` arrives already filtered by the search query; this narrows it
@@ -43,6 +43,7 @@ export function GenresView({ albums, ...chrome }: ViewProps) {
           ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
           : `${ALBUMS.length} albums · ${GENRE_COUNT} genres`,
       }}
+      collapse={collapse}
       {...chrome}
     >
       {/* Charts the whole catalogue, never the filtered set: a chart that
@@ -65,7 +66,12 @@ export function GenresView({ albums, ...chrome }: ViewProps) {
       )}
 
       {sections.map(([year, list]) => (
-        <Section key={`year-${year}`} label={String(year)} albums={list} />
+        <Section
+          key={`year-${year}`}
+          label={String(year)}
+          albums={list}
+          {...collapse.for(String(year))}
+        />
       ))}
       {visible.length === 0 && <Empty />}
     </Screen>

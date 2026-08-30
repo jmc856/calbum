@@ -17,12 +17,17 @@ export function ArtistRow({
   variant,
   expanded,
   onToggle,
+  textOnly,
   children,
 }: {
   entry: ArtistEntry;
   variant: "lane" | "row";
   expanded: boolean;
   onToggle: () => void;
+  /** Render the expansion as text rows instead of cover cards. Named for what
+   *  it does rather than `collapsed`, which sitting next to `expanded` would
+   *  read as its opposite — the two are unrelated. */
+  textOnly: boolean;
   children: ReactNode;
 }) {
   return (
@@ -40,11 +45,24 @@ export function ArtistRow({
       </button>
       {expanded && (
         <div className="aexp">
-          <div className="aexp-in">
-            {entry.albums.map((a) => (
-              <AlbumCard key={a.id} album={a} sub={String(a.year)} />
-            ))}
-          </div>
+          {/* The portrait and the cover strip above are untouched by collapse:
+              they identify the artist, they aren't an album grid. Only the
+              expansion's own covers go. */}
+          {textOnly ? (
+            <ul className="rows aexp-rows">
+              {entry.albums.map((a) => (
+                <li key={a.id}>
+                  <AlbumCard album={a} sub={String(a.year)} variant="row" />
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <div className="aexp-in">
+              {entry.albums.map((a) => (
+                <AlbumCard key={a.id} album={a} sub={String(a.year)} />
+              ))}
+            </div>
+          )}
         </div>
       )}
     </>
