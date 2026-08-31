@@ -1,0 +1,472 @@
+{
+  "album_type": "album",
+  "total_tracks": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+  },
+  "href": "https://api.spotify.com/v1/albums/5c2AzoNyr46fCQM5d8mxE0",
+  "id": "5c2AzoNyr46fCQM5d8mxE0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef51817e6a6563b6f7ce5872",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef51817e6a6563b6f7ce5872",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ef51817e6a6563b6f7ce5872",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "SATURATION III",
+  "release_date": "2017-12-15",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5c2AzoNyr46fCQM5d8mxE0",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+      "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+      "name": "BROCKHAMPTON",
+      "type": "artist",
+      "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5c2AzoNyr46fCQM5d8mxE0/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193154,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3NuN59jpH3B5cNa2M4r7XG",
+        "id": "3NuN59jpH3B5cNa2M4r7XG",
+        "name": "BOOGIE",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3NuN59jpH3B5cNa2M4r7XG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202086,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1m4C9zlV89rXTfXStluvec"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1m4C9zlV89rXTfXStluvec",
+        "id": "1m4C9zlV89rXTfXStluvec",
+        "name": "ZIPPER",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1m4C9zlV89rXTfXStluvec",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251908,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0q788echtkCMpQoQes4P6b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0q788echtkCMpQoQes4P6b",
+        "id": "0q788echtkCMpQoQes4P6b",
+        "name": "JOHNNY",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0q788echtkCMpQoQes4P6b",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 82285,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/557JEBNqSn0RU4H5RtY286"
+        },
+        "href": "https://api.spotify.com/v1/tracks/557JEBNqSn0RU4H5RtY286",
+        "id": "557JEBNqSn0RU4H5RtY286",
+        "name": "LIQUID",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:557JEBNqSn0RU4H5RtY286",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 45591,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2I1nii7UgtRh9zSvglybAJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2I1nii7UgtRh9zSvglybAJ",
+        "id": "2I1nii7UgtRh9zSvglybAJ",
+        "name": "CINEMA 1",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2I1nii7UgtRh9zSvglybAJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216715,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01oc1NWevpGhtCkiX5flPH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01oc1NWevpGhtCkiX5flPH",
+        "id": "01oc1NWevpGhtCkiX5flPH",
+        "name": "STUPID",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:01oc1NWevpGhtCkiX5flPH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273151,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dWOFwdXrbBUYqD9DLsoyK",
+        "id": "0dWOFwdXrbBUYqD9DLsoyK",
+        "name": "BLEACH",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0dWOFwdXrbBUYqD9DLsoyK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199194,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tI8c0zPTCulElXIw9aSbg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tI8c0zPTCulElXIw9aSbg",
+        "id": "7tI8c0zPTCulElXIw9aSbg",
+        "name": "ALASKA",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7tI8c0zPTCulElXIw9aSbg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197147,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5lbCjKgdT9pvYjrtmSiRvL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5lbCjKgdT9pvYjrtmSiRvL",
+        "id": "5lbCjKgdT9pvYjrtmSiRvL",
+        "name": "HOTTIE",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5lbCjKgdT9pvYjrtmSiRvL",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 38617,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0czE98V6Vm2twAZNSgXoME"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0czE98V6Vm2twAZNSgXoME",
+        "id": "0czE98V6Vm2twAZNSgXoME",
+        "name": "CINEMA 2",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0czE98V6Vm2twAZNSgXoME",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 364637,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ITHWKL9AmbFqtVnDnaXZh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ITHWKL9AmbFqtVnDnaXZh",
+        "id": "3ITHWKL9AmbFqtVnDnaXZh",
+        "name": "SISTER/NATION",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3ITHWKL9AmbFqtVnDnaXZh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213658,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4O9tOyMOq8Oioun2MsULH5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4O9tOyMOq8Oioun2MsULH5",
+        "id": "4O9tOyMOq8Oioun2MsULH5",
+        "name": "RENTAL",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4O9tOyMOq8Oioun2MsULH5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179150,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0R6UBiz3fJk4lxhKR5799F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0R6UBiz3fJk4lxhKR5799F",
+        "id": "0R6UBiz3fJk4lxhKR5799F",
+        "name": "STAINS",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:0R6UBiz3fJk4lxhKR5799F",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 51206,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2NYj7YnwO6MmcrLKVVab7V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2NYj7YnwO6MmcrLKVVab7V",
+        "id": "2NYj7YnwO6MmcrLKVVab7V",
+        "name": "CINEMA 3",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:2NYj7YnwO6MmcrLKVVab7V",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273682,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dzi1yJbrxUaPS3yjn9SgV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dzi1yJbrxUaPS3yjn9SgV",
+        "id": "3dzi1yJbrxUaPS3yjn9SgV",
+        "name": "TEAM",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:3dzi1yJbrxUaPS3yjn9SgV",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2017 QUESTION EVERYTHING, INC. / EMPIRE",
+      "type": "C"
+    },
+    {
+      "text": "2017 QUESTION EVERYTHING, INC. / EMPIRE",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "888915487846"
+  },
+  "genres": []
+}

@@ -1,0 +1,484 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7"
+  },
+  "href": "https://api.spotify.com/v1/albums/6sPcgDto5EI6EBPc2jhDC7",
+  "id": "6sPcgDto5EI6EBPc2jhDC7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730053d7ca31a7121a19a6610d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020053d7ca31a7121a19a6610d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510053d7ca31a7121a19a6610d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "ROADRUNNER: NEW LIGHT, NEW MACHINE",
+  "release_date": "2021-04-09",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:6sPcgDto5EI6EBPc2jhDC7",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+      "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+      "name": "BROCKHAMPTON",
+      "type": "artist",
+      "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/6sPcgDto5EI6EBPc2jhDC7/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+            },
+            "href": "https://api.spotify.com/v1/artists/7aA592KWirLsnfb5ulGWvU",
+            "id": "7aA592KWirLsnfb5ulGWvU",
+            "name": "Danny Brown",
+            "type": "artist",
+            "uri": "spotify:artist:7aA592KWirLsnfb5ulGWvU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201160,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6s24LFkjo06wYVpxJppovm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6s24LFkjo06wYVpxJppovm",
+        "id": "6s24LFkjo06wYVpxJppovm",
+        "name": "BUZZCUT (feat. Danny Brown)",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6s24LFkjo06wYVpxJppovm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+            },
+            "href": "https://api.spotify.com/v1/artists/6yJ6QQ3Y5l0s0tn7b0arrO",
+            "id": "6yJ6QQ3Y5l0s0tn7b0arrO",
+            "name": "JPEGMAFIA",
+            "type": "artist",
+            "uri": "spotify:artist:6yJ6QQ3Y5l0s0tn7b0arrO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201253,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Tutv8aK0ZJFciloVv6WDT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Tutv8aK0ZJFciloVv6WDT",
+        "id": "5Tutv8aK0ZJFciloVv6WDT",
+        "name": "CHAIN ON (feat. JPEGMAFIA)",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Tutv8aK0ZJFciloVv6WDT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 155200,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0hprLLUDMgFU0nL4yVCWTg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0hprLLUDMgFU0nL4yVCWTg",
+        "id": "0hprLLUDMgFU0nL4yVCWTg",
+        "name": "COUNT ON ME",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0hprLLUDMgFU0nL4yVCWTg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+            },
+            "href": "https://api.spotify.com/v1/artists/13ubrt8QOOCPljQ2FL1Kca",
+            "id": "13ubrt8QOOCPljQ2FL1Kca",
+            "name": "A$AP Rocky",
+            "type": "artist",
+            "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+            },
+            "href": "https://api.spotify.com/v1/artists/5dHt1vcEm9qb8fCyLcB3HL",
+            "id": "5dHt1vcEm9qb8fCyLcB3HL",
+            "name": "A$AP Ferg",
+            "type": "artist",
+            "uri": "spotify:artist:5dHt1vcEm9qb8fCyLcB3HL"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202560,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3MK6OsCb4VJGdPxvXjW8Q9",
+        "id": "3MK6OsCb4VJGdPxvXjW8Q9",
+        "name": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3MK6OsCb4VJGdPxvXjW8Q9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222786,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Gq8chvpF43Ioy2etluRcq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Gq8chvpF43Ioy2etluRcq",
+        "id": "0Gq8chvpF43Ioy2etluRcq",
+        "name": "THE LIGHT",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0Gq8chvpF43Ioy2etluRcq",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/59TV2OX3lSIlALY4zlFPh4"
+            },
+            "href": "https://api.spotify.com/v1/artists/59TV2OX3lSIlALY4zlFPh4",
+            "id": "59TV2OX3lSIlALY4zlFPh4",
+            "name": "SoGone SoFlexy",
+            "type": "artist",
+            "uri": "spotify:artist:59TV2OX3lSIlALY4zlFPh4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 371133,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HlfcKfWPWM0s59fIgPBoi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HlfcKfWPWM0s59fIgPBoi",
+        "id": "7HlfcKfWPWM0s59fIgPBoi",
+        "name": "WINDOWS (feat. SoGone SoFlexy)",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7HlfcKfWPWM0s59fIgPBoi",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+            },
+            "href": "https://api.spotify.com/v1/artists/6CxZzQFUTM6AzgluGwtq5w",
+            "id": "6CxZzQFUTM6AzgluGwtq5w",
+            "name": "Charlie Wilson",
+            "type": "artist",
+            "uri": "spotify:artist:6CxZzQFUTM6AzgluGwtq5w"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HeHUhpH7heTjyJU5pBnBp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HeHUhpH7heTjyJU5pBnBp",
+        "id": "3HeHUhpH7heTjyJU5pBnBp",
+        "name": "I'LL TAKE YOU ON (feat. Charlie Wilson)",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3HeHUhpH7heTjyJU5pBnBp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7GdGZWPHxDEu0ppvLoB4GO",
+            "id": "7GdGZWPHxDEu0ppvLoB4GO",
+            "name": "Baird",
+            "type": "artist",
+            "uri": "spotify:artist:7GdGZWPHxDEu0ppvLoB4GO"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193560,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Ib6RGb1Wmdl0r7D9PY36i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ib6RGb1Wmdl0r7D9PY36i",
+        "id": "1Ib6RGb1Wmdl0r7D9PY36i",
+        "name": "OLD NEWS (feat. Baird)",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1Ib6RGb1Wmdl0r7D9PY36i",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 225026,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xwYRcY0NQnvc66fMgo5bE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xwYRcY0NQnvc66fMgo5bE",
+        "id": "5xwYRcY0NQnvc66fMgo5bE",
+        "name": "WHAT'S THE OCCASION?",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5xwYRcY0NQnvc66fMgo5bE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203226,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4ZsxteFcjn4BKp5hGMnTt3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ZsxteFcjn4BKp5hGMnTt3",
+        "id": "4ZsxteFcjn4BKp5hGMnTt3",
+        "name": "WHEN I BALL",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4ZsxteFcjn4BKp5hGMnTt3",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3X0Tof7fViQGV95EKIY5x1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3X0Tof7fViQGV95EKIY5x1",
+        "id": "3X0Tof7fViQGV95EKIY5x1",
+        "name": "DON'T SHOOT UP THE PARTY",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3X0Tof7fViQGV95EKIY5x1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 122213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fjJxOWKe6GnR4BM2AS09u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fjJxOWKe6GnR4BM2AS09u",
+        "id": "2fjJxOWKe6GnR4BM2AS09u",
+        "name": "DEAR LORD",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2fjJxOWKe6GnR4BM2AS09u",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+            "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+            "name": "BROCKHAMPTON",
+            "type": "artist",
+            "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258203,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4xobzRJgFOlLpGzZVaV4B8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xobzRJgFOlLpGzZVaV4B8",
+        "id": "4xobzRJgFOlLpGzZVaV4B8",
+        "name": "THE LIGHT PT. II",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4xobzRJgFOlLpGzZVaV4B8",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2021 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886449084791"
+  },
+  "genres": []
+}

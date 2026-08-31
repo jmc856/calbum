@@ -1,0 +1,364 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+  },
+  "href": "https://api.spotify.com/v1/albums/1KNUCVXgIxKUGiuEB8eG0i",
+  "id": "1KNUCVXgIxKUGiuEB8eG0i",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02193c2fafdce8f116b5ca0a78",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851193c2fafdce8f116b5ca0a78",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Charm",
+  "release_date": "2024-07-12",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1KNUCVXgIxKUGiuEB8eG0i",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag",
+      "name": "Clairo",
+      "type": "artist",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1KNUCVXgIxKUGiuEB8eG0i/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 225572,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4WJPxTsvWIdRZ9vMtqk7fj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4WJPxTsvWIdRZ9vMtqk7fj",
+        "id": "4WJPxTsvWIdRZ9vMtqk7fj",
+        "name": "Nomad",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4WJPxTsvWIdRZ9vMtqk7fj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207795,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3awweDjWIuXNMogMClJnvE",
+        "id": "3awweDjWIuXNMogMClJnvE",
+        "name": "Sexy to Someone",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3awweDjWIuXNMogMClJnvE",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227409,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7cFwopK7QTOgaEwF9JgipA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7cFwopK7QTOgaEwF9JgipA",
+        "id": "7cFwopK7QTOgaEwF9JgipA",
+        "name": "Second Nature",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7cFwopK7QTOgaEwF9JgipA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qmmnbJ9JR3f7vofbyje5r",
+        "id": "2qmmnbJ9JR3f7vofbyje5r",
+        "name": "Slow Dance",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2qmmnbJ9JR3f7vofbyje5r",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205069,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mMlo76aVZHpuvoR6fjBSK",
+        "id": "0mMlo76aVZHpuvoR6fjBSK",
+        "name": "Thank You",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0mMlo76aVZHpuvoR6fjBSK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180289,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32fwe7MW5koort1Ua3YFx6",
+        "id": "32fwe7MW5koort1Ua3YFx6",
+        "name": "Terrapin",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:32fwe7MW5koort1Ua3YFx6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195109,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mWfVxEo4xZYDaz0v7hYrN",
+        "id": "2mWfVxEo4xZYDaz0v7hYrN",
+        "name": "Juna",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2mWfVxEo4xZYDaz0v7hYrN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205263,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6FcDxtnGfsYHOcGkXN2OIG",
+        "id": "6FcDxtnGfsYHOcGkXN2OIG",
+        "name": "Add Up My Love",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6FcDxtnGfsYHOcGkXN2OIG",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 229853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QlSPjiXHc1XwGKeEls6Gh",
+        "id": "6QlSPjiXHc1XwGKeEls6Gh",
+        "name": "Echo",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6QlSPjiXHc1XwGKeEls6Gh",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170832,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JLBaHFkjxnbf9X0D8G3zQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JLBaHFkjxnbf9X0D8G3zQ",
+        "id": "4JLBaHFkjxnbf9X0D8G3zQ",
+        "name": "Glory of the Snow",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4JLBaHFkjxnbf9X0D8G3zQ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205072,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lnEcmIHlkeqcgDiZ5cgN3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lnEcmIHlkeqcgDiZ5cgN3",
+        "id": "3lnEcmIHlkeqcgDiZ5cgN3",
+        "name": "Pier 4",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3lnEcmIHlkeqcgDiZ5cgN3",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2024 Clairo Records LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2024 Clairo Records LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00196922936043"
+  },
+  "genres": []
+}
