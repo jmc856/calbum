@@ -1,0 +1,3111 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886448398486",
+    "artist": "Fiona Apple",
+    "title": "Fetch The Bolt Cutters",
+    "year": 2020
+  },
+  "results": [
+    {
+      "id": 15132572,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15132572-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ZFcOcXv5NrJMk7haYmjN_W5jXR6pp7kFuIyZWlROTQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/NTcyLTE1ODcxMTI2/MzctMjI3MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/txHg_KNSnTuFbp2Qyxmn3gy7hOeb2TZwN4bGRibgK7w/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/NTcyLTE1ODcxMTI2/MzctMjI3MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15132572",
+      "community": {
+        "want": 119,
+        "have": 59
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "256kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15143054,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15143054-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/dfCH6luUMr1TpNdiq5OAVUwKbVSQo5hO4SdndztXTqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQz/MDU0LTE1ODcyMzE4/ODgtNTk3Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/v3_NnX9_zV3RU5mZcvEHiJ0mjB6vmeuxwCQ876o5w38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQz/MDU0LTE1ODcyMzE4/ODgtNTk3Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15143054",
+      "community": {
+        "want": 90,
+        "have": 45
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "24bit-48kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17066682,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "France",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Sony Music",
+        "Sony Music Entertainment International Services GmbH",
+        "Epic Records",
+        "FNAC",
+        "Amazon.fr"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77540-4 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/17066682-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439775404",
+      "thumb": "https://i.discogs.com/6E-NTIr9kGMrcThd0Ybp9nZ1vuY1-sO0xkDhaFnsCvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY2/NjgyLTE2MTE0MjEx/NDctMzM0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AGgIbXp4ar0Mc_58hdHkvRKPXMk7gIZrEmfeiaeUipc/rs:fit/g:sm/q:90/h:946/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY2/NjgyLTE2MTE0MjEx/NDctMzM0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17066682",
+      "community": {
+        "want": 98,
+        "have": 15
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15638113,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Barnes & Noble",
+        "HHV",
+        "FNAC",
+        "Discoteca Laziale S.r.l.",
+        "Epic Records",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation",
+        "Sterling Sound",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 94397 79571 4",
+        "194397795714",
+        "1 9439- 77403- 1 8",
+        "194397740318",
+        "LC 00199",
+        "BIEM/GEMA",
+        "19439779571",
+        "20-0217 / 19439774031-A   JN-H STERLING",
+        "20-0217 / 19439774031-B   JN-H STERLING",
+        "20-0217 / 19439774031-C   JN-H STERLING   [MPO logo] 20169781",
+        "20-0217 / 19439774031-D   JN-H STERLING",
+        "20-0217 / 19439774031-A   JN-H STERLING",
+        "20-0217 / 19439774031-B   JN-H STERLING  [MPO logo] 20169647",
+        "20-0217 / 19439774031-C   JN-H STERLING  [MPO logo] 20169721",
+        "20-0217 / 19439774031-D   JN-H STERLING",
+        "19439774031-A",
+        "19439774031-B",
+        "19439774031-C",
+        "19439774031-D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15638113-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/FV5vAfPTNUH0MXDAHJWLP4xJtAlXcxBSytF8LoEAUVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM4/MTEzLTE2MzgxMzgx/OTgtMTU4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dOWeOc0yZ7No49zU7WZJ-J1f3Wd9g4TjrNQ5A5fOHB8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM4/MTEzLTE2MzgxMzgx/OTgtMTU4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15638113",
+      "community": {
+        "want": 595,
+        "have": 890
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Bronze, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15661969,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Clean Slate"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77540-4 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15661969-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439775404",
+      "thumb": "https://i.discogs.com/PzJeXIA1W-rAMXnOG1-l1-X_lkQu9lAk0TkZ8Yw-oKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/OTY5LTE2ODkyMjIw/OTgtNjk5MS5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/P5InUc6mJc7pd0oeL6swRuFsf3ihZqn4gsMfEvkRdts/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/OTY5LTE2ODkyMjIw/OTgtNjk5MS5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15661969",
+      "community": {
+        "want": 241,
+        "have": 143
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15686363,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Canada",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment Canada Inc.",
+        "The ADS Group",
+        "Stanley Recordings",
+        "Waystation",
+        "Sonic Ranch Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77443-2 3",
+        "19439774432 20-137-20",
+        "IFPI LK13",
+        "IFPI L820"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15686363-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774432",
+      "thumb": "https://i.discogs.com/66qoRbWMUUh3YbDrhDoSCH9BuoTwNJ7yPIvPta4fzRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/MzYzLTE1OTU4OTgx/OTQtMzMyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MKTTDbD3ODO2bBDOi4a0WtByD3zb2Z08crsy82K3Vss/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/MzYzLTE1OTU4OTgx/OTQtMzMyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15686363",
+      "community": {
+        "want": 153,
+        "have": 170
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15922253,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Japan",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Epic Records",
+        "The ADS Group",
+        "Stanley Recordings",
+        "Waystation",
+        "Sonic Ranch Studios",
+        "Sony Music Labels Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "4547366460551"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15922253-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "SICP-6338",
+      "thumb": "https://i.discogs.com/rm-XFhnm42T0-bus5PxZS327mIuCjtsqbWmlRbBKw-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIy/MjUzLTE2MDAyNTQz/NDktMzExMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wq_tGx82nZysoBNwSGYAEIva1si0yd-_SkHbkrgYgP0/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIy/MjUzLTE2MDAyNTQz/NDktMzExMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15922253",
+      "community": {
+        "want": 125,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15718982,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Sony Music Entertainment International Services GmbH",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77403-1 8",
+        "194397797312",
+        "BIEM/GEMA",
+        "LC00199",
+        "20-0217 / 19439774031-A JN-H STERLING ",
+        "20-0217 / 19439774031-B JN-H STERLING",
+        "20-0217 / 19439774031-C JN-H STERLING ",
+        "20-0217 / 19439774031-D JN-H STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15718982-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/eM4r13euEUsmn9ITE88Du5JrMVn-u-PlPzWIrqPjuuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE4/OTgyLTE1OTkzMjA5/OTktMzYzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3ZuzmVz0_VkplxswpL23_P5Q_bSRhqLEKV0GVHOsH10/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE4/OTgyLTE1OTkzMjA5/OTktMzYzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15718982",
+      "community": {
+        "want": 546,
+        "have": 746
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pearl Opaque, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15661634,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Experimental",
+        "Art Rock",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment International Services GmbH",
+        "Sony Music Entertainment",
+        "Fiona's House",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation",
+        "Thousand Roses Songs",
+        "Grow Your Own Music",
+        "Housebear Music",
+        "Hazel's Revenge Music",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77443-2 3",
+        "194397744323",
+        "BIEM/GEMA",
+        "BMI",
+        "ASCAP",
+        "LC00199",
+        "[Sony Music logo] 57493733/19439774432 21",
+        "IFPI LP 73",
+        "IFPI 072Z",
+        "[Sony Music logo] 57493733/19439774432 21",
+        "IFPI LP 73",
+        "IFPI 0718",
+        "[Sony Music logo] 57493733/19439774432 21",
+        "IFPI LP 73",
+        "IFPI 073Z",
+        "[Sony Music logo] 57493733/19439774432 21",
+        "IFPI LP 73",
+        "IFPI 0717"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15661634-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774432",
+      "thumb": "https://i.discogs.com/VyRFgxYw1__ghIn7nTKGjQPDyqankLleriSj-j8QGAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNTY5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9ESl7jlM_0dpFhB4CbzIxjG0yHf31eFFjw2mHPc4zl0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNTY5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15661634",
+      "community": {
+        "want": 652,
+        "have": 1183
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15669264,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Experimental",
+        "Alternative Rock",
+        "Indie Pop"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Sony Music",
+        "Sony Music Entertainment International Services GmbH",
+        "Epic Records",
+        "Noiseland Industries",
+        "Epic Records",
+        "Epic Records",
+        "Fiona's House",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397740318",
+        "1 9439-77403-1 8",
+        "LC00199",
+        "BIEM/GEMA",
+        "20-0217 / 19439774031-A [MPO logo]\u00ae20 168638 JN-H STERLING",
+        "20-0217 / 19439774031-B JN-H STERLING",
+        "20-0217 / 19439774031-C JN-H STERLING",
+        "20-0217 / 19439774031-D JN-H STERLING",
+        "20-0217 / 19439774031-A [MPO logo]\u00ae 21 211662 JN-H STERLING",
+        "20-0217 / 19439774031-B [MPO logo]\u00ae 21 211663 JN-H STERLING",
+        "20-0217 / 19439774031-C [MPO logo]\u00ae 20 169688 JN-H STERLING",
+        "20-0217 / 19439774031-D [MPO logo]\u00ae 21 212536 JN-H STERLING",
+        "20-0217 / 19439774031-A [MPO logo]\u00ae 22 289118 JN-H STERLING",
+        "20-0217 / 19439774031-B [MPO logo]\u00ae 22 289085 JN-H STERLING",
+        "20-0217 / 19439774031-C [MPO logo]\u00ae 22 289074 JN-H STERLING",
+        "20-0217 / 19439774031-D JN-H STERLING [MPO logo]\u00ae 22 289083",
+        "20-0217 / 19439774031-A JN-H STERLING [MPO logo]\u00ae 23 305085",
+        "20-0217 / 19439774031-B JN-H STERLING [MPO logo]\u00ae 23 305084",
+        "20-0217 / 19439774031-C JN-H STERLING [MPO logo]\u00ae 23 305626",
+        "20-0217 / 19439774031-D JN-H STERLING [MPO logo]\u00ae 23 305627",
+        "20-0217 / 19439774031-A JN-H STERLING [MPO logo]\u00ae 24 305085",
+        "20-0217 / 19439774031-B JN-H STERLING [MPO logo]\u00ae 24 305084",
+        "20-0217 / 19439774031-C JN-H STERLING",
+        "20-0217 / 19439774031-D JN-H STERLING [MPO logo]\u00ae 24 305627"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15669264-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/C9v8a_XTUJ_Rhj2E2q4gaBVwasHy1MJZEHQMfdpf8oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY5/MjY0LTE2NTg1NjE3/NTctODY4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VP8qRYyu1pbuu_m4KSNLw-PVEekztUynZ_MeNkjm_qs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY5/MjY0LTE2NTg1NjE3/NTctODY4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15669264",
+      "community": {
+        "want": 607,
+        "have": 4563
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "180 Gram",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15155196,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Cassette",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Epic"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15155196-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/OB9w2ZHuJ52mUzWc285H-hkhpSzeFImxnv1uKaSzcrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/MTk2LTE1ODc0MDI5/ODAtMjEwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zBT2bltDe31SitC8QlfuYDG8pTJqvg5oKmCo6O0KR68/rs:fit/g:sm/q:90/h:944/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/MTk2LTE1ODc0MDI5/ODAtMjEwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15155196",
+      "community": {
+        "want": 99,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16493439,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Art Rock",
+        "Avantgarde",
+        "Experimental",
+        "Indie Pop",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Epic Records",
+        "Sonopress",
+        "Epic Records",
+        "Thousand Roses Songs",
+        "Grow Your Own Music",
+        "Housebear Music",
+        "Hazel's Revenge Music",
+        "Fiona's House",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77541-2 4",
+        "194397754124",
+        "57473932/19439775412RD1 22",
+        "IFPI LB 45",
+        "IFPI 078Z",
+        "USSM12001949",
+        "USSM12001950",
+        "USSM12001951",
+        "USSM12001952",
+        "USSM12001953",
+        "USSM12001954",
+        "USSM12001955",
+        "USSM12001956",
+        "USSM12001957",
+        "USSM12001958",
+        "USSM12001959",
+        "USSM12001960",
+        "USSM12001961",
+        "BMI",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/16493439-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439775412",
+      "thumb": "https://i.discogs.com/iNMV6P5j2tDM9zbUdgzgx2-9vddeV7eOCcNTygdwKm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkz/NDM5LTE2MTAyMTQ5/NTAtOTk5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_HlTbSzMuluXA0XQgSM3i-6_dXATJ2Xmh3zPQld9H7I/rs:fit/g:sm/q:90/h:780/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkz/NDM5LTE2MTAyMTQ5/NTAtOTk5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16493439",
+      "community": {
+        "want": 307,
+        "have": 450
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15887142,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Epic"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397795714",
+        "1 94397 79571 4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15887142-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/m4uSDHNPQd8W7Ze9tc8L14G4uzZZEbJ3RvF6lNVU4Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MTQyLTE1OTk2MDI4/MjEtOTc5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vNukVehyG8lCh4k7Wa0H8xACch2Dq4QeBNop8hSoI0g/rs:fit/g:sm/q:90/h:590/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MTQyLTE1OTk2MDI4/MjEtOTc5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15887142",
+      "community": {
+        "want": 453,
+        "have": 388
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Bronze, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16197924,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Japan",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records",
+        "Epic Records",
+        "The ADS Group",
+        "Stanley Recordings",
+        "Waystation",
+        "Sonic Ranch Studios",
+        "Sony Music Labels Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "4547366460551"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/16197924-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "SICP-6338",
+      "thumb": "https://i.discogs.com/MDl2WI5xOS745_1eyeodvGGEPy9xZgzpaF6MD75IeZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk3/OTI0LTE3Mzk2OTA1/ODItNjgzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NoTkjisxAptCeiquA-UXa0pAAKcdzdRdO5kt8uy2sGk/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk3/OTI0LTE3Mzk2OTA1/ODItNjgzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16197924",
+      "community": {
+        "want": 133,
+        "have": 30
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15133163,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Epic"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15133163-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-Yghmm00gU9E9dOkbkEuM5JbKlvEjF9SRPURM3Wyidw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMz/MTYzLTE1ODcxMTg5/MTItODI3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lbhvOx88XbU_KZpzM4XZxnRuTvb8LNHXIejVKlAbA-A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMz/MTYzLTE1ODcxMTg5/MTItODI3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15133163",
+      "community": {
+        "want": 94,
+        "have": 77
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "320kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15628825,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397797312",
+        "20-0217 / 19439774031-A JN-H STERLING MPO 20170115",
+        "20-0217 / 19439774031-B JN-H STERLING MPO 20169942",
+        "20-0217 / 19439774031-C JN-H STERLING MPO 20169071",
+        "20-0217 / 19439774031-D JN-H STERLING MPO 20166834"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15628825-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/goA3MOgotwZfUVf6dYDMuquvIitn1K9U78YG00dTyVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/ODI1LTE1OTU2OTY2/MDktOTEwOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m-FZxW8JkMW9SUNnjiobKQ3p6uDTUWamY3Pajh_mDL0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI4/ODI1LTE1OTU2OTY2/MDktOTEwOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15628825",
+      "community": {
+        "want": 973,
+        "have": 2562
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pearl Opaque, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15705079,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Australia",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Sony Music",
+        "Clean Slate",
+        "Epic",
+        "Epic Records",
+        "Epic Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment Australia Pty Ltd.",
+        "Technicolor, Australia",
+        "Technicolor, Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0194397744323",
+        "19439774432 FETCH THE BOLT 01 technicolor [logo]",
+        "ifpi L283",
+        "IFPI 4687"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15705079-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774432",
+      "thumb": "https://i.discogs.com/fXarctJAvw5uuXCfAcgnx9ZotjCGJAJpV-pVj-I9QTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/MDc5LTE1OTYyNTYw/ODgtMjg3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KRi4UilII6v0G6uss5RmHCoT7PMlYhR0dtC29GeSShE/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/MDc5LTE1OTYyNTYw/ODgtMjg3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15705079",
+      "community": {
+        "want": 146,
+        "have": 173
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15705755,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397797312",
+        "LC00199",
+        "20-0217 / 19439774031-A JN-H STERLING ",
+        "20-0217 / 19439774031-B JN-H STERLING",
+        "20-0217 / 19439774031-C JN-H STERLING MPO 20168383",
+        "20-0217 / 19439774031-D JN-H STERLING MPO 20167993"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15705755-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/F4bZZrfxTow1K33NWtJDLkDp8g4dmOu8A2FoNgO8Nbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/NzU1LTE1OTYyNzYy/MTYtNTM4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hG7jdIr2RaP-0x8zRO-iCje7o2LJJX9PqNTxMHpgaEc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/NzU1LTE1OTYyNzYy/MTYtNTM4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15705755",
+      "community": {
+        "want": 421,
+        "have": 387
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pearl Opaque, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15382366,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Epic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15382366-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/_oL_22riI5qDkAvIPEohtPDe3TSJ6VDLY58sGm0i-iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzY2LTE1OTA2MjI2/MDMtNDk0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FzNoZcW0P_-AwLDUf1NgrQJ06DHt-cfOYhyk2PS6N3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/MzY2LTE1OTA2MjI2/MDMtNDk0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15382366",
+      "community": {
+        "want": 71,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "text": "16bit-44.1kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15698988,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397797312",
+        "19439779731-S1",
+        "20-0217 / 19439774031-A JN-H [MPO\u00ae 20169589 STERLING]",
+        "20-0217 / 19439774031-B JN-H [MPO\u00ae 20168166 STERLING]",
+        "260-0217 / 19439774031-C JN-H [MPO\u00ae 20167421  STERLING]",
+        "20-0217 / 19439774031-D JN-H [MPO\u00ae 20170014  STERLING]"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15698988-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/X-wbMWIrgoOYtEVIAU0mCd2eGFP_tjgl77EmGAVTktA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/OTg4LTE1OTYxMzky/NDItMTA4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NEmCo4Vqz48r8Nqsh7KElyoCRVYDhOOnK0HLuIDi8dk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk4/OTg4LTE1OTYxMzky/NDItMTA4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15698988",
+      "community": {
+        "want": 664,
+        "have": 1563
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pearl Opaque, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15634237,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Art Rock",
+        "Avantgarde",
+        "Experimental",
+        "Indie Pop",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Clean Slate",
+        "Epic",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Epic Records",
+        "Epic Records",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397744323",
+        "19439774432-S1",
+        "57472611/19439774432RD1 21",
+        "IFPI LB 45",
+        "IFPI 078Z"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15634237-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774432",
+      "thumb": "https://i.discogs.com/ABlCqj5Mlsf8U_dnqVpl9Jk0fqxYdkFppOd2cWt6PL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MjM3LTE1OTY1MDM5/OTktOTg1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3rMWokseaHCItlbOFWNLyB6JfFIC6OHeSZ2gvd6F7dY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MjM3LTE1OTY1MDM5/OTktOTg1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15634237",
+      "community": {
+        "want": 480,
+        "have": 1592
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15634031,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Sony Music Entertainment",
+        "Epic Records",
+        "Noiseland Industries",
+        "Epic Records",
+        "Epic Records",
+        "MPO",
+        "Grow Your Own Music",
+        "Hazel's Revenge Music",
+        "Housebear Music",
+        "Thousand Roses Songs",
+        "Sonic Ranch Studios",
+        "Stanley Recordings",
+        "Waystation",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9439-77403-1 8",
+        "194397740318",
+        "20-0217 / 19439774031-A MPO\u00ae 20 166920 JN-H STERLING",
+        "20-0217 / 19439774031-B JN-H STERLING MPO\u00ae 20 166921",
+        "20-0217 / 19439774031-C JN-H STERLING  MPO\u00ae 20 166324",
+        "20-0217 / 19439774031-D JN-H STERLING MPO\u00ae 20 168301",
+        "20-0217 / 19439774031-A JN-H STERLING MPO\u00ae20 168325",
+        "20-0217 / 19439774031-B JN-H STERLING MPO\u00ae20 167473",
+        "20-0217 / 19439774031-C JN-H STERLING MPO\u00ae20 166324",
+        "20-0217 / 19439774031-D JN-H STERLING MPO\u00ae20 168301",
+        "20-0217 / 19439774031-A JN-H STERLING MPO\u00ae20 167474",
+        "20-0217 / 19439774031-B JN-H STERLING MPO\u00ae20 166921",
+        "20-0217 / 19439774031-C JN-H STERLING MPO\u00ae20 164663",
+        "20-0217 / 19439774031-D JN-H STERLING MPO\u00ae20 166244",
+        "20-0217 / 19439774031-A JN-H STERLING ",
+        "20-0217 / 19439774031-B JN-H STERLING MPO\u00ae21 198366",
+        "20-0217 / 19439774031-C JN-H STERLING MPO\u00ae21 211509",
+        "20-0217 / 19439774031-D JN-H STERLING MPO\u00ae21 211658",
+        "ASCAP",
+        "BMI",
+        "19439774031-S1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15634031-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/PSdrnKikJVqxparsbJLMS0EyUtuvCPWmy-SSeplxbu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MDMxLTE1OTYyODQ3/NzUtODA4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/p0ybFuInc2GWw8ra0HXk6Wv94Vw-h5d5uWaNrUlfijs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MDMxLTE1OTYyODQ3/NzUtODA4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15634031",
+      "community": {
+        "want": 1611,
+        "have": 8038
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "180 Gram",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15569212,
+      "title": "Fiona Apple - Fetch The Bolt Cutters",
+      "master_id": 1719775,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Art Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "Ballad"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition"
+      ],
+      "label": [
+        "Epic",
+        "Clean Slate",
+        "Epic Records",
+        "Epic Records",
+        "Vinyl Me, Please",
+        "Vinyl Me, Please. Exclusive Pressing",
+        "Sterling Sound",
+        "MPO",
+        "Stanley Recordings",
+        "Sonic Ranch Studios",
+        "Waystation",
+        "Thousand Roses Songs",
+        "Grow Your Own Music",
+        "Housebear Music",
+        "Hazel's Revenge Music",
+        "Epic Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "194397795615",
+        "1 94397 79561 5",
+        "19439779561-S1",
+        "19439774031-A",
+        "19439774031-B",
+        "19439774031-C",
+        "19439774031-D",
+        "20-0217 / 19439774031-A JN-H STERLING [MPO logo] 20 166854",
+        "20-0217 / 19439774031-B JN-H STERLING [MPO logo] 20 168851",
+        "260-0217 / 19439774031-C JN-H STERLING [MPO logo] 20 169476",
+        "20-0217 / 19439774031-D JN-H STERLING [MPO logo] 20 168944",
+        "20-0217 / 19439774031-A [MPO logo] 20 166822 JN-H STERLING",
+        "20-0217 / 19439774031-B JN-H STERLING [MPO logo] 20 166262",
+        "260-0217 / 19439774031-C JN-H STERLING [MPO logo] 20 169486",
+        "20-0217 / 19439774031-C JN-H STERLING [MPO logo] 20 169528",
+        "20-0217 / 19439774031-A JN-H STERLING [MPO logo] 20 170115",
+        "20-0217 / 19439774031-B JN-H STERLING [MPO logo] 20 169942",
+        "20-0217 / 19439774031-C JN-H STERLING",
+        "20-0217 / 19439774031-D JN-H STERLING",
+        "BMI",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1719775",
+      "uri": "/release/15569212-Fiona-Apple-Fetch-The-Bolt-Cutters",
+      "catno": "19439774031",
+      "thumb": "https://i.discogs.com/O7M-IdUvEewuOMEKcAn3CTUTk-rANUupdRMJ3Azrh_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MjEyLTE1OTU1MjYy/NjItNjE1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LaN5seg9vBwoLMZ0R55gxDgL5ppEThCiMJjFDiptdpQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MjEyLTE1OTU1MjYy/NjItNjE1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15569212",
+      "community": {
+        "want": 1600,
+        "have": 5330
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Aubergine, 180g",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1719775,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Experimental",
+      "Art Rock",
+      "Alternative Rock",
+      "Indie Pop"
+    ],
+    "main_release": 15661634,
+    "most_recent_release": 36017917,
+    "resource_url": "https://api.discogs.com/masters/1719775",
+    "uri": "https://www.discogs.com/master/1719775-Fiona-Apple-Fetch-The-Bolt-Cutters",
+    "versions_url": "https://api.discogs.com/masters/1719775/versions",
+    "main_release_url": "https://api.discogs.com/releases/15661634",
+    "most_recent_release_url": "https://api.discogs.com/releases/36017917",
+    "num_for_sale": 293,
+    "lowest_price": 11.02,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/9ESl7jlM_0dpFhB4CbzIxjG0yHf31eFFjw2mHPc4zl0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNTY5Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9ESl7jlM_0dpFhB4CbzIxjG0yHf31eFFjw2mHPc4zl0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNTY5Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VyRFgxYw1__ghIn7nTKGjQPDyqankLleriSj-j8QGAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNTY5Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/XyrDf9eXjrHYXD8jUqBAKKrhOSGfDXdM7koUm49WVto/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjM0NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/XyrDf9eXjrHYXD8jUqBAKKrhOSGfDXdM7koUm49WVto/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjM0NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2phLJLud6ztBk4YG26MjQ7OsQ6lRfDMQmqObNMFQ910/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjM0NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 471
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZUP9pxP1XvdAr5QBLC3CapJKjc79hI1rJnHmFUlDypQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzMwOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZUP9pxP1XvdAr5QBLC3CapJKjc79hI1rJnHmFUlDypQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzMwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zo7SMz1wJENQs_HhTXCttCux0Iyf391ltEXX2ju1Ges/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzMwOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QirYwCOhPw6X7cVLQXg6ZhP0isL35MXCv2wpD-ajTrM/rs:fit/g:sm/q:90/h:544/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNjM4NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/QirYwCOhPw6X7cVLQXg6ZhP0isL35MXCv2wpD-ajTrM/rs:fit/g:sm/q:90/h:544/w:545/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNjM4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WYQY5gUIUJeQZY6pU-pX7okJIuztbowq71bAktuVi1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNjM4NS5qcGVn.jpeg",
+        "width": 545,
+        "height": 544
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hKQGH8bsnoul_f48Uiws0kH60vFWOnqHWnI4ZNNejxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/hKQGH8bsnoul_f48Uiws0kH60vFWOnqHWnI4ZNNejxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Kyj6k4cPsSYcAEmzQTC7avWJTv4LHY1zax-EXwZNUpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgwMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/V-tMu0vjFOtoV3T9uAJW8Kgvz5JXSpsRlKWAZcBYr7g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDYyOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/V-tMu0vjFOtoV3T9uAJW8Kgvz5JXSpsRlKWAZcBYr7g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDYyOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/w7MmrS8mNaXdADf6uryXlPWF_6ITZqzmFfcWvP5rabo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDYyOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FnLSwsFX5CT8FB9QIenxrlGiv96ZjrUTvxN4AuvMJ3k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgxNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FnLSwsFX5CT8FB9QIenxrlGiv96ZjrUTvxN4AuvMJ3k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lanBSyezdjct48Ncw7otiVlB9wns-Awv8WtzBy2NVgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNjgxNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UFBH_sPb8jdbHzxZJ6y_kztQNANXuHr1tBw5mg6CSUg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDcyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UFBH_sPb8jdbHzxZJ6y_kztQNANXuHr1tBw5mg6CSUg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDcyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tijvQi0RHcmxDqpgwYN3X1EiSaqKm2ndstep3Vq0Dks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDcyNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nI_uuKzXcRctt24OrVo3tyXc_UqkM5EY8Ep0FPnzSQg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtODE0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/nI_uuKzXcRctt24OrVo3tyXc_UqkM5EY8Ep0FPnzSQg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtODE0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Nf2KkD-yPBx9dBDh4MSZIsTYUTk-fW4ayWxsKF-nCzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtODE0OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4pn96oL82VQ0xfpNoPyMgrLRALn_jFP1HI37-698AmU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU5/ODktMjMwMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/4pn96oL82VQ0xfpNoPyMgrLRALn_jFP1HI37-698AmU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU5/ODktMjMwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wd5Po4xng8hxn9iWTa2jHQ_-O3RNjrd4EUH43_ryTgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU5/ODktMjMwMi5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3LdyQcno_l81eqznAALgtV3WLeciKA0btiWLLrvlC0w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDk1OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3LdyQcno_l81eqznAALgtV3WLeciKA0btiWLLrvlC0w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDk1OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/r-3lVTDMg4QPpxlTyn03JGUMtIaOx3u0x_Bw5jECWk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDk1OS5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RpYpXh-6Mk9CUJiMX7NHOGdJ9T83UxjCIBJ68mqqzuU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzM1Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/RpYpXh-6Mk9CUJiMX7NHOGdJ9T83UxjCIBJ68mqqzuU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzM1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/hq0UO1TDJbzI6Y8csvqCTqZzoGbud_zMBlIOikfaOsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzM1Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fwPK920HguC3Leqa9lRAzXR3VQbrjt-lr1ZroDnIXWY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzgwOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fwPK920HguC3Leqa9lRAzXR3VQbrjt-lr1ZroDnIXWY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzgwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mJLmK74ZW2AH8o12RURcv_CtXW5_mYM8l5ngyyVlXTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzgwOS5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8QoCmOKaT8Btv3JH_xKWE6wBuWrQwdtl9vEz60HGohc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNTk1MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/8QoCmOKaT8Btv3JH_xKWE6wBuWrQwdtl9vEz60HGohc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNTk1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/FKvjOpKxH2oOWoLZO_aDuHcq14mdr0UQa0x0di29DuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNTk1MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OTtsN6v8zcrCEK-6mU0IylQf21zaQ-yYpggPev_XLv8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjM0Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/OTtsN6v8zcrCEK-6mU0IylQf21zaQ-yYpggPev_XLv8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjM0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/B4JDzF1kz9VuHJyZKKoVvl_59hMcVdXXJjn8-Aej0S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjM0Ni5qcGVn.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/IAWMayjSVB2hHi7D1-HhTWBLEQtiO5YtrG4kQVmGwXQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtOTU2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/IAWMayjSVB2hHi7D1-HhTWBLEQtiO5YtrG4kQVmGwXQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtOTU2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4mpNFT6Tt49OR1LQhTvadppc6twGJrH3IJOVTGSkHuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtOTU2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/y-poPrAfitfja3u3NYGC3NJdPxxgTaIACMcXe-pRgzI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtMTQwMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/y-poPrAfitfja3u3NYGC3NJdPxxgTaIACMcXe-pRgzI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtMTQwMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5y7VwVEwR6o8vBX-gHvZTrQZxnu7Ls7XGapFz35n3Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtMTQwMi5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SBWvxeFw8gNkptf7zJgHUkR6U649uFpIpj5FPoOS2Ek/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDExMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SBWvxeFw8gNkptf7zJgHUkR6U649uFpIpj5FPoOS2Ek/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDExMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3ZWyYunLjXLGMemlCFMHsOKTLVVnTCgsjvdTAjJTfhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNDExMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/z9px-gYL8JwK_4DAndRbONX0krXWFDe-DxDhprEmDac/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzk4NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/z9px-gYL8JwK_4DAndRbONX0krXWFDe-DxDhprEmDac/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzk4NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N87T8xkltqVGyur3Mtx6N5l5-MjTEGJds13Nw5b9x5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODQtNzk4NC5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9lK76jpdOpSE9KPUG-nbANHMYcLS2Gw_swlaXhzSLR0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtOTQzMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9lK76jpdOpSE9KPUG-nbANHMYcLS2Gw_swlaXhzSLR0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtOTQzMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NE78ZMLXd7VKTJ9t5fGyTt05MQU-ARrsnXPrqjeN-Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtOTQzMi5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/1UgYx3nUEzZij5caoh8iS3TYiGjJAwj6JsVl4QegJ6g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzg5Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/1UgYx3nUEzZij5caoh8iS3TYiGjJAwj6JsVl4QegJ6g/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzg5Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uGXSoDm2fNWrzDOxABuEHUu6OEUyN2O1UQ1mhCXZ9Jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtNzg5Ni5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/avFUivco0wmY8Fgof1j-o2w2wBpDY95YieNLv_Mb6Fk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNDM4Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/avFUivco0wmY8Fgof1j-o2w2wBpDY95YieNLv_Mb6Fk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNDM4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/YdNuCO-4AeWODekJZXoQxdd_ZJsCeRLpD6Lo-7PVXEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtNDM4Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Rah88udA9lmpe3FdfiCGSBCd9nlLUM3hJBa97eEWp_c/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjQyNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Rah88udA9lmpe3FdfiCGSBCd9nlLUM3hJBa97eEWp_c/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjQyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/wk_iCMcivMj7YkWXaL3JCZoiehKjzbIoP03tvFWGwUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODMtMjQyNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/D6voqr92gaglIn50gxjNHeGrYRclssikYTI_2hySlCc/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtMzc4MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/D6voqr92gaglIn50gxjNHeGrYRclssikYTI_2hySlCc/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtMzc4MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cDp5TNQvZy3DqDfoCcrzK_uMICnu-6uYlL_V7c6nQXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYx/NjM0LTE1OTY2MjU4/ODUtMzc4MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 582
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "I Want You To Love Me",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Drums",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano, Electronic Drums [Casio Drums]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:58"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Shameika",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Percussion, Handclaps [Claps]",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion, Handclaps [Claps]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Bobb Bruno",
+            "anv": "",
+            "join": "",
+            "role": "Effects [Special Effects]",
+            "tracks": "",
+            "id": 583617,
+            "resource_url": "https://api.discogs.com/artists/583617"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Percussion, Handclaps [Claps]",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano, Percussion, Handclaps [Claps], Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "4:09"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "FTBC",
+        "extraartists": [
+          {
+            "name": "Cara Delevingne",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 5924213,
+            "resource_url": "https://api.discogs.com/artists/5924213"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "Alfie (36)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Backing Barks]",
+            "tracks": "",
+            "id": 8057347,
+            "resource_url": "https://api.discogs.com/artists/8057347"
+          },
+          {
+            "name": "Leo (170)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Backing Barks]",
+            "tracks": "",
+            "id": 8057348,
+            "resource_url": "https://api.discogs.com/artists/8057348"
+          },
+          {
+            "name": "Maddie (8)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Backing Barks]",
+            "tracks": "",
+            "id": 8057349,
+            "resource_url": "https://api.discogs.com/artists/8057349"
+          },
+          {
+            "name": "Mercy (48)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Backing Barks]",
+            "tracks": "",
+            "id": 8057350,
+            "resource_url": "https://api.discogs.com/artists/8057350"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Mellotron, Percussion, Instruments [Metal Butterfly], Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "4:59"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Under The Table",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Electric Piano [Wurly], Organ, Piano, Vibraphone [Vibes]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Mellotron",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Piano, Backing Vocals, Percussion",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Relay",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Percussion",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Bobb Bruno",
+            "anv": "",
+            "join": "",
+            "role": "Effects [Special Effects]",
+            "tracks": "",
+            "id": 583617,
+            "resource_url": "https://api.discogs.com/artists/583617"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "Little (18)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Collar Jangles], Noises [Thrashing]",
+            "tracks": "",
+            "id": 8057351,
+            "resource_url": "https://api.discogs.com/artists/8057351"
+          },
+          {
+            "name": "Mercy (48)",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Collar Jangles], Noises [Thrashing]",
+            "tracks": "",
+            "id": 8057350,
+            "resource_url": "https://api.discogs.com/artists/8057350"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Percussion, Guitar",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Percussion, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Sample From \"My Kettle, My Cats\" By]",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          }
+        ],
+        "duration": "4:49"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Rack Of His",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Mellotron, Percussion",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:42"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Newspaper",
+        "extraartists": [
+          {
+            "name": "Maude Maggart",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 3265601,
+            "resource_url": "https://api.discogs.com/artists/3265601"
+          },
+          {
+            "name": "Winifred Ada Lucky",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 7993201,
+            "resource_url": "https://api.discogs.com/artists/7993201"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electronic Drums, Drums, Timpani, Percussion, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "5:33"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Ladies",
+        "extraartists": [
+          {
+            "name": "Maude Maggart",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 3265601,
+            "resource_url": "https://api.discogs.com/artists/3265601"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Guitarr\u00f3n [Guitarron]",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Lyrics By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Music By",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Vibraphone [Vibes], Mellotron, Backing Vocals, Percussion",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Piano [Wurlitzer], Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "5:25"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Heavy Balloon ",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Guitar, Percussion",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Dave Way",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 106415,
+            "resource_url": "https://api.discogs.com/artists/106415"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Percussion, Backing Vocals, Vibraphone [Vibes]",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electronic Drums [Casio], Percussion, Drums, Bells, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:26"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Cosmonauts",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Autoharp [Electric Autoharp], Bass, 12-String Acoustic Guitar [Acoustic 12 String Guitar], Slide Guitar",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Loops, Percussion",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Electric Guitar, Electric Piano [Wurlitzer], Piano",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Percussion, Piano, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:59"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "For Her",
+        "extraartists": [
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "2:44"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Drumset",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Electric Piano [Lighter On Wurlitzer], Harp [Harp Thing], Backing Vocals",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Organ, Backing Vocals, Percussion",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Instruments [Chair], Backing Vocals, Mellotron",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "2:40"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "On I Go",
+        "extraartists": [
+          {
+            "name": "Sebastian Steinberg",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Noises [Stomps], Noises [Breathing], Autoharp [Electric Autoharp], Instruments [Water Tower]",
+            "tracks": "",
+            "id": 313760,
+            "resource_url": "https://api.discogs.com/artists/313760"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Drums, Percussion, Instruments [Water Tower]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Amy Aileen Wood",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 7993200,
+            "resource_url": "https://api.discogs.com/artists/7993200"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "John Would",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineers]",
+            "tracks": "",
+            "id": 891743,
+            "resource_url": "https://api.discogs.com/artists/891743"
+          },
+          {
+            "name": "Tchad Blake",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 129495,
+            "resource_url": "https://api.discogs.com/artists/129495"
+          },
+          {
+            "name": "Spencer Maggart",
+            "anv": "",
+            "join": "",
+            "role": "Noises [Soft Shoe Stomp]",
+            "tracks": "",
+            "id": 7028350,
+            "resource_url": "https://api.discogs.com/artists/7028350"
+          },
+          {
+            "name": "David Garza",
+            "anv": "Dav\u00edd Garza",
+            "join": "",
+            "role": "Percussion, Instruments [Water Tower]",
+            "tracks": "",
+            "id": 472389,
+            "resource_url": "https://api.discogs.com/artists/472389"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Percussion, Backing Vocals",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          },
+          {
+            "name": "Fiona Apple",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 255740,
+            "resource_url": "https://api.discogs.com/artists/255740"
+          }
+        ],
+        "duration": "3:09"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Fiona Apple",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 255740,
+        "resource_url": "https://api.discogs.com/artists/255740",
+        "thumbnail_url": "https://i.discogs.com/vTd9TKIMqyOtr7MbuWIFBAFSxHHFP0sZh_H8E83xqEE/rs:fit/g:sm/q:90/h:557/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTc0/MC0xNzcwMjI2Nzg1/LTE0NDMuanBlZw.jpeg"
+      }
+    ],
+    "title": "Fetch The Bolt Cutters",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=N541HLPeG6Y",
+        "title": "Fiona Apple - I Want You To Love Me (Official Audio)",
+        "description": "Official audio for \u201cI Want You To Love Me\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe",
+        "duration": 240,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MbkugCPqxQY",
+        "title": "Fiona Apple - Shameika (Official Audio)",
+        "description": "Official audio for \u201cShameika\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n\"Shameika\" Official Musi",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=emXYPRlVBas",
+        "title": "Fiona Apple - Fetch The Bolt Cutters (Official Audio)",
+        "description": "Official audio for \u201cFetch The Bolt Cutters\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscrib",
+        "duration": 300,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WBUxinJhntk",
+        "title": "Fiona Apple - Under The Table (Official Audio)",
+        "description": "Official audio for \u201cUnder The Table\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to th",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=OI1KfJTrixQ",
+        "title": "Fiona Apple - Relay (Official Audio)",
+        "description": "Official audio for \u201cRelay\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the official",
+        "duration": 291,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RYIkFmoLREc",
+        "title": "Fiona Apple - Rack of His (Official Audio)",
+        "description": "Official audio for \u201cRack Of His\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the offici",
+        "duration": 224,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HOz7VBuv0wg",
+        "title": "Fiona Apple - Newspaper (Official Audio)",
+        "description": "Official audio for \u201cNewspaper\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the offi",
+        "duration": 334,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=n46e8m2pOAw",
+        "title": "Fiona Apple - Ladies (Official Audio)",
+        "description": "Official audio for \u201cLadies\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the officia",
+        "duration": 327,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8whTAkkBv6U",
+        "title": "Fiona Apple - Heavy Balloon (Official Audio)",
+        "description": "Official audio for \u201cHeavy Balloon\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the ",
+        "duration": 208,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Htumn1dIgYs",
+        "title": "Fiona Apple - Cosmonauts (Official Audio)",
+        "description": "Official audio for \u201cCosmonauts\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the off",
+        "duration": 241,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_ewavfe-mMQ",
+        "title": "Fiona Apple - For Her (Official Audio)",
+        "description": "Official audio for \u201cFor Her\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the offici",
+        "duration": 166,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=KtrhlSXmTOk",
+        "title": "Fiona Apple - Drumset (Official Audio)",
+        "description": "Official audio for \u201cDrumset\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the official Y",
+        "duration": 162,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5kCbIOcfTIA",
+        "title": "Fiona Apple - On I Go (Official Audio)",
+        "description": "Official audio for \u201cOn I Go\u201d by Fiona Apple off her new album Fetch the Bolt Cutters\nFetch the Bolt Cutters available at: https://FionaApple.lnk.to/FetchTheBoltCutters\nListen to Fiona Apple: https://FionaApple.lnk.to/listenYD\n \nSubscribe to the official Y",
+        "duration": 191,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1719775,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Art Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

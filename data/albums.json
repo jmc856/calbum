@@ -183,8 +183,44 @@
       "Fiona Apple"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27358e51e35730fcfd6e4aeef51",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1719775,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Art Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0fO1KemWL2uCCQmM22iKlj",
     "release_date": "2020-04-17",
     "release_year": 2020,
@@ -300,8 +336,29 @@
       "Snail Mail"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2734bfcc1a7e45edf5b608651dc",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2365852,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0zNWhYDalgisc4uweLIGZJ",
     "release_date": "2021-11-05",
     "release_year": 2021,
@@ -2244,8 +2301,19 @@
       "Leon Bridges"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27369101a9ff9d0653a753eab10",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 829990,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "4svLfrPPk2npPVuI4kXPYg",
     "release_date": "2015-06-15",
     "release_year": 2015,
@@ -2474,8 +2542,19 @@
       "The Lemon Twigs"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab764b74918b0adf45fce723",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3084356,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5X0MAnUVN7eEZyO1LjprIk",
     "release_date": "2023-05-05",
     "release_year": 2023,

@@ -1,0 +1,891 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "817949035839",
+    "artist": "The Lemon Twigs",
+    "title": "Everything Harmony",
+    "year": 2023
+  },
+  "results": [
+    {
+      "id": 28677619,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "Unknown",
+      "year": "2023",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Captured Tracks"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/28677619-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/OH_6KmdLlIZpSCHWVosknN3d4VA7I-dz4kmdf6rJuVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc3/NjE5LTE2OTgwMzcy/OTEtMjgwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9P2f_L1LG7kCRE3pocYeB6jOsU4CuC9hz1Gx0uvLhYI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njc3/NjE5LTE2OTgwMzcy/OTEtMjgwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28677619",
+      "community": {
+        "want": 8,
+        "have": 10
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "13",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27063441,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "UK",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Picture Disc"
+      ],
+      "label": [
+        "Captured Tracks",
+        "Blood Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/27063441-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT-358",
+      "thumb": "https://i.discogs.com/dpqAnNTt_cBsMlDs_zvH1_JeA4pmgeBA9N9fU7ibFdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYz/NDQxLTE2ODM5ODI0/MTYtMzk5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iCGibup1RXg25MMgaWerECS4mL3uO8GIZZLUm7-umnc/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYz/NDQxLTE2ODM5ODI0/MTYtMzk5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27063441",
+      "community": {
+        "want": 158,
+        "have": 169
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Zoetrope",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Picture Disc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27059337,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Captured Tracks",
+        "Captured Tracks Records",
+        "Captured Tracks Records",
+        "Omnian Music Group",
+        "The Music Building",
+        "Hyde Street Studios",
+        "The Lemon Twigs' Home Studio",
+        "Bug Sound East",
+        "Salt Mastering",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "817949035822",
+        "LC 30356",
+        "CT358 19915-CD-0054 23-075-11-2",
+        "IFPI LY89",
+        "IFPI L817",
+        "CT358 19915-CD-0054 23-075-11-2",
+        "IFPI LY89",
+        "IFPI L824"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/27059337-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT-358",
+      "thumb": "https://i.discogs.com/t90UDRiQj90JZSvONWyCWKV2CfuRJFnRu-cWWXs2Rbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU5/MzM3LTE2ODQwODYy/ODItMTA1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BRPl__zRUn1Qb1lg79vN8F7Mk3b_kgORgfaNOd9jtTk/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU5/MzM3LTE2ODQwODYy/ODItMTA1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27059337",
+      "community": {
+        "want": 94,
+        "have": 367
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26957522,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "USA & Europe",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Flexi-disc",
+        "7\"",
+        "45 RPM",
+        "Shape",
+        "Single Sided",
+        "All Media",
+        "Limited Edition"
+      ],
+      "label": [
+        "Captured Tracks",
+        "Captured Tracks Records",
+        "Omnian Music Group",
+        "Bug Sound East",
+        "Salt Mastering",
+        "The Music Building",
+        "Hyde Street Studios",
+        "The Lemon Twigs' Home Studio",
+        "Salt Mastering",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "8-17949-03585-3",
+        "817949035853",
+        "CT-358FLEXI",
+        "CT 358A 255082E1 1472934 Salt",
+        "CT 358B 255082E2 1444362 Salt"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/26957522-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT-358",
+      "thumb": "https://i.discogs.com/OWmwfkkUjBpDmygGeV5Zbvmk4Pzg2hCHQMSAFudgk2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU3/NTIyLTE2ODQwMDA3/MDUtODAxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_PptLLbr7tMk-a-aXTZDz3akkwY_4uOU3IrB-5LpgvU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU3/NTIyLTE2ODQwMDA3/MDUtODAxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26957522",
+      "community": {
+        "want": 245,
+        "have": 320
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple [Grape]",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Flexi-disc",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Shape",
+            "Single Sided"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28064424,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "Japan",
+      "year": "2023",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Captured Tracks",
+        "The Music Building",
+        "Hyde Street Studios",
+        "The Lemon Twigs' Home Studio",
+        "Bug Sound East",
+        "Salt Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "JASRAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/28064424-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT358JCD",
+      "thumb": "https://i.discogs.com/a0K6qNiD90i04UwrEhd1zyB5ilweKGD1BbfEAORVA64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY0/NDI0LTE3MTUxMTIw/NjAtOTI4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tqP8L7XGcdUeehwMlZXhsenY6fSAXF9gkZCZQPxmja0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDY0/NDI0LTE3MTUxMTIw/NjAtOTI4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28064424",
+      "community": {
+        "want": 30,
+        "have": 16
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26982719,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock",
+        "Baroque Pop",
+        "Jangle Pop",
+        "Folk"
+      ],
+      "country": "UK, Europe & US",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Captured Tracks"
+      ],
+      "type": "release",
+      "barcode": [
+        "CT-358LPC1",
+        "817949035860 "
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/26982719-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT-358",
+      "thumb": "https://i.discogs.com/d9J3BVuWfsnyn6I35nOx-3rlJziVrPzNooM2Y3bHn8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/NzE5LTE2ODMzMjk5/MjktNjE0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iZBLV9Att4Ish_wsb3oH88lVMu_r-9gbJE03yVZBQi0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgy/NzE5LTE2ODMzMjk5/MjktNjE0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26982719",
+      "community": {
+        "want": 220,
+        "have": 776
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26993526,
+      "title": "The Lemon Twigs - Everything Harmony",
+      "master_id": 3084356,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "country": "Worldwide",
+      "year": "2023",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Captured Tracks",
+        "Omnian Music Group",
+        "Captured Tracks Records",
+        "GZ Media",
+        "Hyde Street Studios",
+        "The Music Building",
+        "The Lemon Twigs' Home Studio",
+        "Bug Sound East",
+        "Salt Mastering",
+        "Salt Mastering"
+      ],
+      "type": "release",
+      "barcode": [
+        "817949035815",
+        "CT358 A   1619491   255082E1  Salt",
+        "CT358 B   1489405   255082E2  Salt",
+        "CT358 A   255082E1  1472934   Salt",
+        "CT358 B   255082E2  1444362   Salt"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3084356",
+      "uri": "/release/26993526-The-Lemon-Twigs-Everything-Harmony",
+      "catno": "CT-358",
+      "thumb": "https://i.discogs.com/Y8klLy7EvrivaBr5akN_D9WMnTM1GlBGBpwu52o9HiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNjYzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qSGIu1PPwj97V4RTUkXDubt-EH2LIXarzSkLHAVGbGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNjYzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26993526",
+      "community": {
+        "want": 346,
+        "have": 1752
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3084356,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "main_release": 26993526,
+    "most_recent_release": 31492685,
+    "resource_url": "https://api.discogs.com/masters/3084356",
+    "uri": "https://www.discogs.com/master/3084356-The-Lemon-Twigs-Everything-Harmony",
+    "versions_url": "https://api.discogs.com/masters/3084356/versions",
+    "main_release_url": "https://api.discogs.com/releases/26993526",
+    "most_recent_release_url": "https://api.discogs.com/releases/31492685",
+    "num_for_sale": 80,
+    "lowest_price": 8.14,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qSGIu1PPwj97V4RTUkXDubt-EH2LIXarzSkLHAVGbGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNjYzMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qSGIu1PPwj97V4RTUkXDubt-EH2LIXarzSkLHAVGbGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNjYzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Y8klLy7EvrivaBr5akN_D9WMnTM1GlBGBpwu52o9HiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNjYzMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/s45UoVWNwolXiuwNZ0H7itso03cXhCApFj2dRL-RExw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMzc1Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/s45UoVWNwolXiuwNZ0H7itso03cXhCApFj2dRL-RExw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMzc1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/9TaX7_u_kP-3v8HofzFoEoAsV8RfCGtBT25tQCdHVWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMzc1Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GmJgJsfDE7MTIK60CBGFL5ebNZ1s58phOaiW0d0zsaw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMTkzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GmJgJsfDE7MTIK60CBGFL5ebNZ1s58phOaiW0d0zsaw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMTkzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5zr3NOM1A0r3oWzwBei8wsNtAOsvu7FnQKUNElCibHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzQtMTkzOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SolXiID61YgO1lBQh2bjvhuFcQM5h5EUxd-QPTDQTsA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNDUyMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SolXiID61YgO1lBQh2bjvhuFcQM5h5EUxd-QPTDQTsA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNDUyMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/QPnUalAYx7ouveeQ2BxY4lSg1lYrJuUmXcv9aWn9-SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtNDUyMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SAKpzsXsv3aGuJ_ftDue1anPUeB2NdZ__ESbY3gjsZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtMzk3My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SAKpzsXsv3aGuJ_ftDue1anPUeB2NdZ__ESbY3gjsZk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtMzk3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/cN6ctzS3ZlBe85NfNwcEWWvod-5aqb5wUfwlUNERPq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzYtMzk3My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ulfchwv2W4FHtoaZZP62InM2dvLqbjVFmsN9hn4Zvi4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzctNTc2MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ulfchwv2W4FHtoaZZP62InM2dvLqbjVFmsN9hn4Zvi4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzctNTc2MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Goo1BEe-66k5VtXiQAwSo7scDdQkeU0YTeyHXvkYEvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2ODMzODIy/MzctNTc2MC5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pF-uXBXDoMgs8XQU4OpmAgwewui-3Wcqh78Pk_vlp-w/rs:fit/g:sm/q:90/h:204/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNDY1OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/pF-uXBXDoMgs8XQU4OpmAgwewui-3Wcqh78Pk_vlp-w/rs:fit/g:sm/q:90/h:204/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNDY1OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kw6VcuEZl-w-aaeoq4Csq_DEVD9luCRRGxhPL1Mb6Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNDY1OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 204
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kVQC_-iJo3tZFYECcdY20pdmdnBpmICHj5-tiSIFhCQ/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjMtMzI4MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kVQC_-iJo3tZFYECcdY20pdmdnBpmICHj5-tiSIFhCQ/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjMtMzI4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/I4dDoKFMrynyffkWXoAER47wYTly0ZXN0w_beLP7zIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjMtMzI4MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 415
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/desJ8jL8FoW2UKoH-dbE7YB239nRruN43fEozrq2QL0/rs:fit/g:sm/q:90/h:410/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNTQ0MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/desJ8jL8FoW2UKoH-dbE7YB239nRruN43fEozrq2QL0/rs:fit/g:sm/q:90/h:410/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNTQ0MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7Cg1t6c7YN7jXbP8QJ7EJCFJROsFmPt0e3fH2C5z2T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkz/NTI2LTE2OTIyMzU3/NjItNTQ0MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 410
+      }
+    ],
+    "year": 2023,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "When Winter Comes Around",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "In My Head",
+        "extraartists": [
+          {
+            "name": "Michael D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 5314326,
+            "resource_url": "https://api.discogs.com/artists/5314326"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Corner Of My Eye",
+        "extraartists": [
+          {
+            "name": "Andres Valbuena",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7844864,
+            "resource_url": "https://api.discogs.com/artists/7844864"
+          },
+          {
+            "name": "Daryl Johns",
+            "anv": "",
+            "join": "",
+            "role": "Electric Upright Bass",
+            "tracks": "",
+            "id": 4493031,
+            "resource_url": "https://api.discogs.com/artists/4493031"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Any Time Of Day",
+        "extraartists": [
+          {
+            "name": "Michael D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 5314326,
+            "resource_url": "https://api.discogs.com/artists/5314326"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "What You Were Doing",
+        "extraartists": [
+          {
+            "name": "Michael D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 5314326,
+            "resource_url": "https://api.discogs.com/artists/5314326"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "I Don\u2019t Belong To Me",
+        "extraartists": [
+          {
+            "name": "Andres Valbuena",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7844864,
+            "resource_url": "https://api.discogs.com/artists/7844864"
+          },
+          {
+            "name": "Daryl Johns",
+            "anv": "",
+            "join": "",
+            "role": "Electric Upright Bass",
+            "tracks": "",
+            "id": 4493031,
+            "resource_url": "https://api.discogs.com/artists/4493031"
+          },
+          {
+            "name": "Alicia Mastromonaco",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 5837184,
+            "resource_url": "https://api.discogs.com/artists/5837184"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "A7",
+        "type_": "track",
+        "title": "Every Day Is The Worst Day Of My Life",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "What Happens To A Heart",
+        "extraartists": [
+          {
+            "name": "Kevin Basko",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, Electric Guitar",
+            "tracks": "",
+            "id": 5230820,
+            "resource_url": "https://api.discogs.com/artists/5230820"
+          },
+          {
+            "name": "Andres Valbuena",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7844864,
+            "resource_url": "https://api.discogs.com/artists/7844864"
+          },
+          {
+            "name": "Michael D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 5314326,
+            "resource_url": "https://api.discogs.com/artists/5314326"
+          },
+          {
+            "name": "Daryl Johns",
+            "anv": "",
+            "join": "",
+            "role": "Electric Bass",
+            "tracks": "",
+            "id": 4493031,
+            "resource_url": "https://api.discogs.com/artists/4493031"
+          },
+          {
+            "name": "Alicia Mastromonaco",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 5837184,
+            "resource_url": "https://api.discogs.com/artists/5837184"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Still It\u2019s Not Enough",
+        "extraartists": [
+          {
+            "name": "Andres Valbuena",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 7844864,
+            "resource_url": "https://api.discogs.com/artists/7844864"
+          },
+          {
+            "name": "Daryl Johns",
+            "anv": "",
+            "join": "",
+            "role": "Electric Upright Bass",
+            "tracks": "",
+            "id": 4493031,
+            "resource_url": "https://api.discogs.com/artists/4493031"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Born To Be Lonely",
+        "extraartists": [
+          {
+            "name": "Michael D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 5314326,
+            "resource_url": "https://api.discogs.com/artists/5314326"
+          },
+          {
+            "name": "Cameron Carrella",
+            "anv": "",
+            "join": "",
+            "role": "Euphonium",
+            "tracks": "",
+            "id": 6704734,
+            "resource_url": "https://api.discogs.com/artists/6704734"
+          },
+          {
+            "name": "Alicia Mastromonaco",
+            "anv": "",
+            "join": "",
+            "role": "French Horn",
+            "tracks": "",
+            "id": 5837184,
+            "resource_url": "https://api.discogs.com/artists/5837184"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Ghost Run Free",
+        "extraartists": [
+          {
+            "name": "Brian D'Addario",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 4181835,
+            "resource_url": "https://api.discogs.com/artists/4181835"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Everything Harmony",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "New To Me",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Lemon Twigs",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4664316,
+        "resource_url": "https://api.discogs.com/artists/4664316",
+        "thumbnail_url": "https://i.discogs.com/xrknKVa5Jt3yO4yJ7JhVaMBBqyu4nOxRmlytlaCzrx0/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2NjQz/MTYtMTc4NjU0NzUy/Mi0zODc5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Everything Harmony",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=vrsO5Au5AkE",
+        "title": "Everything Harmony",
+        "description": "Provided to YouTube by BWSCD Inc\n\nEverything Harmony \u00b7 The Lemon Twigs\n\nEverything Harmony\n\n\u2117 2023 Captured Tracks\n\nReleased on: 2023-05-05\n\nMain  Artist: The Lemon Twigs\nProducer: The Lemon Twigs\nAuthor: Brian D'Addario\nAuthor: Michael D'Addario\nMusic  P",
+        "duration": 224,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hmX2wsnzEGE",
+        "title": "The Lemon Twigs - Any Time Of Day (Official Video)",
+        "description": "Official video for Any Time Of Day by The Lemon Twigs, from their album Everything Harmony, out May 5, 2023.\nListen: https://lemontwigs.ffm.to/anytimeofday.oyd\n\nDirector: Ambar Navarro / https://www.ambarnavarro.com/\nDP: Max Flick\nAC: Todd Kappelt\nGaffer:",
+        "duration": 173,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=D5XGx5bWttc",
+        "title": "The Lemon Twigs - In My Head (Official Video)",
+        "description": "Official video for In My Head by The Lemon Twigs, from their album Everything Harmony, out May 5, 2023.\nListen/Order: https://lemontwigs.ffm.to/EverythingHarmony.oyd\n\nDirected by The Lemon Twigs and Paul D. Millar\nD.O.P. Paul D. Millar\nEdited by Michael D",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cdzDRhTTfnc",
+        "title": "The Lemon Twigs - Every Day Is The Worst Day Of My Life (Official Video)",
+        "description": "Official video for Every Day Is The Worst Day Of My Life by The Lemon Twigs, from their album Everything Harmony, out May 5, 2023.\nListen/Order: https://lemontwigs.ffm.to/EverythingHarmony.oyd\n\nFollow The Lemon Twigs on Spotify: https://open.spotify.com/a",
+        "duration": 206,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=B2w4moS3oFU",
+        "title": "The Lemon Twigs - Corner Of My Eye (Official Video)",
+        "description": "Official video for Corner Of My Eye by The Lemon Twigs.\nListen: https://lemontwigs.ffm.to/cornerofmyeye.oyd\n\nDirected: Hilla Eden and Brian D'Addario\nD.P: Hilla Eden\nEdited: Eva Chambers and Michael D'Addario\nColorist: Ashley Woods at The Mill\n\nFollow The",
+        "duration": 200,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3084356,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

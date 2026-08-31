@@ -1,0 +1,1501 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "191401178556",
+    "artist": "Snail Mail",
+    "title": "Valentine",
+    "year": 2021
+  },
+  "results": [
+    {
+      "id": 21335575,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401900874",
+        "OLE1785LPE7"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/21335575-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/c5nc8Hhn9jr9atKvVos8Pp1kBzW3wT_9bLyUKt3GM9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM1/NTc1LTE2NDA4NTAx/OTctODc3Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Vj68yrP24vcV1YM9rBkM0B69LRhyk0o7ThO90n6dYKA/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM1/NTc1LTE2NDA4NTAx/OTctODc3Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21335575",
+      "community": {
+        "want": 93,
+        "have": 111
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink and Gold Split",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20870134,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn",
+        "Diamond City Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401900850",
+        "1 91401 17851 8",
+        "OLE-1785-LP A",
+        "OLE-1785-LP B",
+        "OLE1785LPE5"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20870134-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/7JiWTmwWUGDtQoPvIq5l1y0tnKILcry5xfWS8Ws3dj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcw/MTM0LTE2MzY0OTA5/OTQtMjI5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wCagj9oMysFWcM9b3PdLLngGe7auoTTCN0Jj_8cecuI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcw/MTM0LTE2MzY0OTA5/OTQtMjI5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20870134",
+      "community": {
+        "want": 220,
+        "have": 310
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Red (Dark) Swirl [Merlot Wave]",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32544495,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & US",
+      "year": "2021",
+      "format": [
+        "File",
+        "WAV",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Matador",
+        "Beggars Group Ltd.",
+        "Spacebomb Studios",
+        "Outlier Inn",
+        "Drop Of Sun Studios",
+        "Mattitude Music, LLC",
+        "Peermusic Ltd.",
+        "Hipgnosis Songs Group",
+        "Matador Records",
+        "Matador Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/32544495-Snail-Mail-Valentine",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/88odYNdo9dhocI-i7kV1WpFiLImJcEhXOkNUgVwXa_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ0/NDk1LTE3MzQwMDI1/NzQtNjE0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8mq64h70PaGqmlvIXXWpMQVJ3qnrOu4sD2ws0sN7gtw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ0/NDk1LTE3MzQwMDI1/NzQtNjE0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32544495",
+      "community": {
+        "want": 1,
+        "have": 0
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "24-Bit / 96-kHz",
+          "descriptions": [
+            "WAV",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20853871,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Unknown",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178525",
+        "OLE1785CD AL52449-01 manufactured by optimal media GmbH",
+        "IFPI L577",
+        "IFPI 9703"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20853871-Snail-Mail-Valentine",
+      "catno": "OLE1785CD",
+      "thumb": "https://i.discogs.com/m_o8GYkDzO0Nk1If18V5-agx_dp5hUq9JLWs0MiirM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/ODcxLTE2Mzg3MDA4/NDUtOTI4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RGe7D6Fl5rRXw4da2PoQ_Bud1F55qR63Iw9AjWvQQtA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/ODcxLTE2Mzg3MDA4/NDUtOTI4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20853871",
+      "community": {
+        "want": 86,
+        "have": 466
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Digisleeve",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29993890,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop",
+        "Alternative Rock"
+      ],
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "231317E1/A",
+        "231317E1/B",
+        "OLE1785LP 231317E1/A",
+        "OLE1785LP 231317E2/B",
+        "191401178518"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/29993890-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/u-xphsVDEwuY-EKKifd-Girwk3Ns75gJIBfybVckaaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTkz/ODkwLTE3MDk1MTQ2/MzMtMzAwMC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/GEpnobjbNo4KlrYzZwNf6GcaZpL8YYbPHT6b9MUBjbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTkz/ODkwLTE3MDk1MTQ2/MzMtMzAwMC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29993890",
+      "community": {
+        "want": 21,
+        "have": 86
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20878306,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "1 91401 17853 2",
+        "OLE-1785-LP A",
+        "OLE-1785-LP B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20878306-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/pU35qrb3CGC4PZyxv93Xjk4uc258eiaM_5Jzyp5HghU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODc4/MzA2LTE2MzYyMjYx/NTQtODE1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5znKqxA1JbW83MGVOUR-AiekMa7NdcLyv11qDu1BuPU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODc4/MzA2LTE2MzYyMjYx/NTQtODE1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20878306",
+      "community": {
+        "want": 137,
+        "have": 2354
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32820456,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn",
+        "Newbury Comics"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "1 91401 17853 2",
+        "OLE-1785-LP A",
+        "OLE-1785-LP B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/32820456-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/rC3_grUJUhKe_3SYreon2BB6mAOnbdM_6wqPOxZNFm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NDU2LTE3MzY2NDc4/MzQtODA4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HsS4_hOk9TiI3irj-NZNnz9yVRxqbJtR0_BZp-rwSxE/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODIw/NDU2LTE3MzY2NDc4/MzQtODA4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32820456",
+      "community": {
+        "want": 28,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gold, Autographed",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20840122,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178518",
+        "OLE1785LPE3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20840122-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/NIsn0LVXNAWVyDd4Qsl5KhItI5ysEmixHVLoTxdlMKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NzctNDk4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CYLNkCn0bDjm7uDNJGBXRw8wgiew2fbLyAtXh5cTrRM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NzctNDk4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20840122",
+      "community": {
+        "want": 288,
+        "have": 1037
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink Glass",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20864467,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Kung Fu Merch",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Rhino Entertainment Company",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178518",
+        "191401900867",
+        "OLE1785LP 231317E1/A",
+        "OLE1785LP 231317E2/B",
+        "OLE1785LPE6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20864467-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/UBeObaeN9oooXy1QcKNzRwJP8X4g51hC2ZRFosVtT4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY0/NDY3LTE2MzYyMTYx/MjItMzczNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WbMUlBSyr-5q5AxSEN1_liY_seCRxMiGKhRX1RMcGXM/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY0/NDY3LTE2MzYyMTYx/MjItMzczNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20864467",
+      "community": {
+        "want": 103,
+        "have": 528
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink Hot",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20881897,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Japan",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Beat Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "4580211855218"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20881897-Snail-Mail-Valentine",
+      "catno": "OLE1785LPJP",
+      "thumb": "https://i.discogs.com/8C4lTXbiT1jZEiZmYFqoRfjywvDrPT547mhHKEAREEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgx/ODk3LTE2MzgxNTU2/MjAtNDQ3MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BlBksxcp1wvmcLFiNbX6YiJgSwC9YkEsDaIRIJhehMQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODgx/ODk3LTE2MzgxNTU2/MjAtNDQ3MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20881897",
+      "community": {
+        "want": 88,
+        "have": 94
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White and Gold Explosion",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21023077,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Matador",
+        "Independent Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/21023077-Snail-Mail-Valentine",
+      "catno": "OLE1785",
+      "thumb": "https://i.discogs.com/SBdKWVttHZhRvfgO4VNomW_pNlD-6QwUR2gCw_xLee4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIz/MDc3LTE2MzcyMDI1/NTEtNTE2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/k3i4ReK-_q2_XdFHJNUQL926J3I0cm3aGyBuBatsIrI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIz/MDc3LTE2MzcyMDI1/NTEtNTE2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21023077",
+      "community": {
+        "want": 81,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20850856,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178587",
+        "OLE1785LPE2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20850856-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/phvyfhXpeon7FpPTpQTflg4Yo02YUZtE0sg15V7IgCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUw/ODU2LTE2MzYwNDYz/NjQtNjIxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/BTipiQNgizC2zlAPUkzmmtOJ4VX_gqMkt3nzDiAgQ38/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUw/ODU2LTE2MzYwNDYz/NjQtNjIxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20850856",
+      "community": {
+        "want": 204,
+        "have": 1097
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "White and Gold Explosion",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23506577,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Unknown",
+      "year": "2021",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Matador"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/23506577-Snail-Mail-Valentine",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/SoQDkBWn1-S7MUIFM_dYITVzuJrQLXyLjCPfs60ja_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/NTc3LTE2NTQ2ODcy/NDUtMzUxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qlAm1j77pgO21oByRRsvuUpz0M-4Hr53KEH-ymqniBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/NTc3LTE2NTQ2ODcy/NDUtMzUxNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23506577",
+      "community": {
+        "want": 3,
+        "have": 14
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "16b/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20958808,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "OLE1785LP BLU7360-01 A1 ICR",
+        "OLE1785LP BLU7360-01 B1 ICR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20958808-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/gYJyUiL9ZR6JmNBIt7SaGR8lvYFeHGN8hlESVwoiHNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTU4/ODA4LTE2MzY3ODAy/MzctNDgyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-KEncN4aJfnnUMgU9qkVlPPzUsoeTkLC-9Yd70JHTuo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTU4/ODA4LTE2MzY3ODAy/MzctNDgyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20958808",
+      "community": {
+        "want": 81,
+        "have": 489
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20923372,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered",
+        "Flexi-disc",
+        "7\"",
+        "45 RPM",
+        "Shape",
+        "Single Sided"
+      ],
+      "label": [
+        "Matador",
+        "Dinked Edition"
+      ],
+      "type": "release",
+      "barcode": [
+        "19140190083",
+        "OLE1785LP 231317E1/A",
+        "OLE1785LP 231317E2/B",
+        "OLE1785LPXE"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20923372-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/bb41hhyOK7EI72zrqytUEkj2XXelv67ztxXQW8_boDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIz/MzcyLTE2NTY0OTk1/NjgtODA0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8Uf_sFCqMfmJBlAV0y4wuzBn96WiBigCtVHVOQ1RC2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIz/MzcyLTE2NTY0OTk1/NjgtODA0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20923372",
+      "community": {
+        "want": 210,
+        "have": 504
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink & Gold Galaxy",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        },
+        {
+          "name": "Flexi-disc",
+          "qty": "1",
+          "text": "White [Milk White]",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Shape",
+            "Single Sided"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20853076,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "UK & US",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Rough Trade",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178532",
+        "1 91401 17853 2",
+        "0191401900812",
+        "1 91401 90081 2",
+        "OLE1785LP 231317E1/A",
+        "OLE1785LP 231317E2/B",
+        "OLE1785LPE4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20853076-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/L6A6gBuyUUImnRundRSJr1sUD8EsEiUZSrn9ueUo4V8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/MDc2LTE2MzYxMDE4/NTctMzMxNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lwQWn13qQPT7mSuOC6GWZrDLogoatYpAuUYmGxCCJqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/MDc2LTE2MzYxMDE4/NTctMzMxNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20853076",
+      "community": {
+        "want": 89,
+        "have": 356
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Clear",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20853718,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "OLE-1785-LP A",
+        "OLE-1785-LP B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20853718-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/3segTXT6m9XUswV_pRDJWn5dGZXily9-WfKuVXzbCtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/NzE4LTE2MzYwNjE1/MDQtNjY1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IDbk62D7wOqGkoWTsoIoVtXeusqPL1WcT4NY9dLbrrM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/NzE4LTE2MzYwNjE1/MDQtNjY1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20853718",
+      "community": {
+        "want": 174,
+        "have": 2170
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22018120,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "Outlier Inn",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 91401 17851 8",
+        "1 91401 17853 2",
+        "OLE1785LP BLU7360-01 A1 ICR",
+        "OLE1785LP BLU7360-01 B1 ICR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/22018120-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/q9lZ3J7QKJdBV-yxEb8FVD4aWYbHr76qfRBvYCKsphQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE4/MTIwLTE2NDM5NjU3/NjctOTUyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hBXX8qptLxWSjXDukjboVE1JRKO9JuGFzFU1HUpzZ9o/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE4/MTIwLTE2NDM5NjU3/NjctOTUyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22018120",
+      "community": {
+        "want": 67,
+        "have": 341
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21101863,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Japan",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Beat Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "4580211855249"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/21101863-Snail-Mail-Valentine",
+      "catno": "OLE1785CDJP",
+      "thumb": "https://i.discogs.com/LsizeXNIyQPAx6qhum4RsV4UEX9RKJpnbIokLRz-RGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTAx/ODYzLTE2MzgyMTAx/NjctNDE5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MphcAXyz4yIhSuOJFV1iawfY9hgiRMG4AS5gCk0-rIM/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTAx/ODYzLTE2MzgyMTAx/NjctNDE5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21101863",
+      "community": {
+        "want": 35,
+        "have": 17
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20863321,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "Europe",
+      "year": "2021",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "Spacebomb Studios",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178532",
+        "231317E1/A",
+        "231317E1/B",
+        "OLE1785LP 231317E1/A",
+        "OLE1785LP 231317E2/B"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/20863321-Snail-Mail-Valentine",
+      "catno": "OLE1785LP",
+      "thumb": "https://i.discogs.com/tgkfToPm8kLR6Tnq3-GQ2IlcDDkg20fxL4_V6d8885M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODYz/MzIxLTE2MzYxMjk4/MDMtMzI4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UnaiV61cFdN9F1EZpPfXOjokt2JANhsNmWEcI5bTe14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODYz/MzIxLTE2MzYxMjk4/MDMtMzI4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20863321",
+      "community": {
+        "want": 103,
+        "have": 985
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36953298,
+      "title": "Snail Mail (2) - Valentine",
+      "master_id": 2365852,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Matador",
+        "Matador Records",
+        "Matador Records",
+        "The ADS Group"
+      ],
+      "type": "release",
+      "barcode": [
+        "191401178525",
+        "OLE1785CD 6745-CD-4899 21-265-19",
+        "IFPI LK13",
+        "IFPI L817"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/2365852",
+      "uri": "/release/36953298-Snail-Mail-Valentine",
+      "catno": "OLE1785CD",
+      "thumb": "https://i.discogs.com/3rWFzsX_XLiE1RzD49G0ujNh9kCrSokpUhi0dWq-uXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTUz/Mjk4LTE3NzUxNTM3/MDctMTAyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/cixOdb29fZbh3CGcSf7A9pjaeLNQ7_Bo6KxWshweUps/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTUz/Mjk4LTE3NzUxNTM3/MDctMTAyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36953298",
+      "community": {
+        "want": 5,
+        "have": 9
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 2365852,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Indie Rock",
+      "Indie Pop"
+    ],
+    "main_release": 20840122,
+    "most_recent_release": 36467959,
+    "resource_url": "https://api.discogs.com/masters/2365852",
+    "uri": "https://www.discogs.com/master/2365852-Snail-Mail-2-Valentine",
+    "versions_url": "https://api.discogs.com/masters/2365852/versions",
+    "main_release_url": "https://api.discogs.com/releases/20840122",
+    "most_recent_release_url": "https://api.discogs.com/releases/36467959",
+    "num_for_sale": 310,
+    "lowest_price": 4.79,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/CYLNkCn0bDjm7uDNJGBXRw8wgiew2fbLyAtXh5cTrRM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NzctNDk4NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/CYLNkCn0bDjm7uDNJGBXRw8wgiew2fbLyAtXh5cTrRM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NzctNDk4NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NIsn0LVXNAWVyDd4Qsl5KhItI5ysEmixHVLoTxdlMKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NzctNDk4NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cwgiWF_8TaYs-JkGet7uq_zwcc3_EoaggJlWhZNBMDc/rs:fit/g:sm/q:90/h:413/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NTMtODczMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/cwgiWF_8TaYs-JkGet7uq_zwcc3_EoaggJlWhZNBMDc/rs:fit/g:sm/q:90/h:413/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NTMtODczMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-H3ANk4Hx6ayjil3D9rwpJuWIBYbltbvRc6Ta0uhC1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NTMtODczMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 413
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FI7cOgdoA-cd3W9FO9r0zBLJroUJ_rm5qXFUVU85Vxs/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MzktODYzNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/FI7cOgdoA-cd3W9FO9r0zBLJroUJ_rm5qXFUVU85Vxs/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MzktODYzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/bR41h-K-kYOxV-OwJVN6A_MYSYv1-Jk1rFtryTh_8QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MzktODYzNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 570
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ytGT7yAO3VefBMlOG5MQTBQK_1F2lrriMDI5DijEfx0/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MjMtMzI3Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ytGT7yAO3VefBMlOG5MQTBQK_1F2lrriMDI5DijEfx0/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MjMtMzI3Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/96o43lVeqsmFnLpg259uxVTgGwXyZx1En9xBgcYc_j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/MjMtMzI3Ni5qcGVn.jpeg",
+        "width": 582,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/z07z0TLe1oRifK8wktLQl_CKLuegYb05DUS3MJ6vrhE/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NDUtMTUzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/z07z0TLe1oRifK8wktLQl_CKLuegYb05DUS3MJ6vrhE/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NDUtMTUzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/dBxBCrw5LzmP3a8cJuRbGSMm05F6cdG6JSSGIkCFLIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQw/MTIyLTE2MzU5NjQ4/NDUtMTUzNi5qcGVn.jpeg",
+        "width": 419,
+        "height": 600
+      }
+    ],
+    "year": 2021,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Valentine",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Ben Franklin",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Headlock",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Light Blue",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Forever (Sailing)",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Madonna",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "C. Et Al.",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Glory",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Automate",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Mia",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Snail Mail (2)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 5207788,
+        "resource_url": "https://api.discogs.com/artists/5207788",
+        "thumbnail_url": "https://i.discogs.com/MBHTKsnZVsTWMOE7Ai78rdjKI4tKuT4_JnpOI43jjTo/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyMDc3/ODgtMTc2OTAzODg4/Ny05MDcwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Valentine",
+    "notes": "Vinyl Pressing Information:\r\n\r\n??? [url=https://www.discogs.com/release/21023077-Snail-Mail-Valentine]Test Pressing[/url]\r\n??? Black ([url=https://www.discogs.com/release/20853718-Snail-Mail-Valentine]US[/url] / [url=https://www.discogs.com/release/20958808-Snail-Mail-Valentine]UK[/url])\r\n??? Gold (Indie Exclusive; [url=https://www.discogs.com/release/20878306-Snail-Mail-Valentine]US[/url] / [url=https://www.discogs.com/release/20863321-Snail-Mail-Valentine]UK[/url])\r\n500 [url=https://www.discogs.com/release/20870134-Snail-Mail-Valentine]Merlot Wave (Webstore Exclusive)[/url]\r\n500 [url=https://www.discogs.com/release/21335575-Snail-Mail-Valentine]Split Pink and Gold (Tour Exclusive)[/url]\r\n700 [url=https://www.discogs.com/release/20853076-Snail-Mail-Valentine]Clear (Rough Trade Exclusive)[/url]\r\n1000 [url=https://www.discogs.com/release/20923372-Snail-Mail-Valentine]Pink & Gold Galaxy (Dinked Edition)[/url]\r\n1500 [url=https://www.discogs.com/release/20840122-Snail-Mail-Valentine]Pink Glass (Spotify Fans First Exclusive)[/url]\r\n2000 [url=https://www.discogs.com/release/20864467-Snail-Mail-Valentine]Hot Pink (Webstore Exclusive)[/url]\r\n4300 White and Gold Explosion (Matador Webstore Exclusive; [url=https://www.discogs.com/release/20850856-Snail-Mail-Valentine]US[/url] / [url=https://www.discogs.com/release/20881897-Snail-Mail-Valentine]Japan[/url])",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=ZxarOZ0JBcc",
+        "title": "Snail Mail - \"Valentine\" (Official Music Video)",
+        "description": "Taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nCredits:\nThe Designer: Lindsey Jordan \nThe Model: Barbara Ramos \nThe Dandy: Scott Watson \n  \nDirector: Josh Coll \nOrigi",
+        "duration": 197,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DUU9xxIb91g",
+        "title": "Snail Mail - \"Ben Franklin\" (Official Music Video)",
+        "description": "\"Ben Franklin\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Order / stream here: https://snailmail.ffm.to/valentine\n  \nDirected by Josh Coll \n\nProduced by W. Ian Ross & Emily Miller\nProduction Manager: Hannah Tom\n\n1st Ass",
+        "duration": 183,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vNQLKC0KlJE",
+        "title": "Snail Mail - \"Headlock\" (Official Audio)",
+        "description": "\"Headlock\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.com",
+        "duration": 193,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JGVfje8IqxM",
+        "title": "Snail Mail - \"Light Blue\" (Official Audio)",
+        "description": "\"Light Blue\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.c",
+        "duration": 155,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lUdhD_NMSWE",
+        "title": "Snail Mail - \"Forever (Sailing)\" (Official Audio)",
+        "description": "\"Forever (Sailing)\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.inst",
+        "duration": 259,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ll1PDZOIMh4",
+        "title": "Snail Mail - \"Madonna\" (Official Audio)",
+        "description": "\"Madonna\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.com/",
+        "duration": 174,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=u-CmDbBdhRY",
+        "title": "Snail Mail - \"c. et al.\" (Official Audio)",
+        "description": "\"c. et al.\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.co",
+        "duration": 204,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cW3jvHjgPAw",
+        "title": "Snail Mail - \"Glory\" (Official Audio)",
+        "description": "\"Glory\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.com/sn",
+        "duration": 141,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Vhatr4ksdLo",
+        "title": "Snail Mail - \"Automate\" (Official Audio)",
+        "description": "\"Automate\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.com",
+        "duration": 190,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Zx4vvTgsbuI",
+        "title": "Snail Mail - \"Mia\" (Official Audio)",
+        "description": "\"Mia\" is taken from the album 'Valentine' by Snail Mail, out now on Matador Records. Purchase / stream here: https://snailmail.ffm.to/valentine\n\nSnail Mail:\nhttps://www.snailmail.band/\nhttps://www.facebook.com/snailmailband/\nhttps://www.instagram.com/snai",
+        "duration": 208,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 2365852,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

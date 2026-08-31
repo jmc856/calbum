@@ -1,0 +1,1334 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886445223897",
+    "artist": "Leon Bridges",
+    "title": "Coming Home",
+    "year": 2015
+  },
+  "results": [
+    {
+      "id": 10470063,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul"
+      ],
+      "country": "UK",
+      "year": "2015",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/10470063-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/j4ezKI_-rGqaOnqNSpDfDnad2DQjPaQnF9MM6b6Od4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcw/MDYzLTE0OTgwODA2/NTUtNzE1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bp9TN84FMApz6ijdp74weHsOHQM5zuM8a0v_Ge-G8vs/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcw/MDYzLTE0OTgwODA2/NTUtNzE1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10470063",
+      "community": {
+        "want": 4,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Single",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6956357,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single",
+        "Limited Edition"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 78017 1",
+        "888750780171"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/6956357-Leon-Bridges-Coming-Home",
+      "catno": "38-123598",
+      "thumb": "https://i.discogs.com/HcihIBrO99gztMIgPDBAZj0vrh9zcghlWsi98hn_wnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk0/OS03MTYwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xy5vX0XsWh1bNLd_hGzSHvSpbgXjMDFgl200iK7HgBo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk0/OS03MTYwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6956357",
+      "community": {
+        "want": 330,
+        "have": 267
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7146187,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia Records",
+        "Noiseland Industries",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Sony Music Entertainment",
+        "Niles City Sound",
+        "Eartha's Gumbo",
+        "Warneparker Music",
+        "Joshua Block Music",
+        "Downtown DLJ Songs",
+        "Chris Vivion Music",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Sterling Sound",
+        "SST Br\u00fcggemann GmbH",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89141 9",
+        "888750891419",
+        "ASCAP",
+        "88875089141 S1",
+        "88875089141 - I1",
+        "AL88875089141",
+        "BL88875089141",
+        "88875089141-A MPO K SST 15-0205NL ",
+        "88875089141-B MPO K SST 15-0205NL"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7146187-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 1",
+      "thumb": "https://i.discogs.com/YL80S5EWJVkz-ab96Cbn67q-XBcx8BbW9gEvykmNUw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTc3NzY5OTMy/OC02NDIyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vo5u0Qn12fDzE0Yme4HWhE6huIERCYiboeUk9mHnOuI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTc3NzY5OTMy/OC02NDIyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7146187",
+      "community": {
+        "want": 2764,
+        "have": 19690
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "180 Gram",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7161665,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7161665-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 1",
+      "thumb": "https://i.discogs.com/BMQarX1vermmCEbdvn2OANOWlnt-SqzBkpRfAnA557Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjE2/NjUtMTQzNTA5MTY2/My03MDA1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/j5hKRcFTldq9QuQ6JCPBVNoBfqUwz6OLvlPJrIa9bLk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjE2/NjUtMTQzNTA5MTY2/My03MDA1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7161665",
+      "community": {
+        "want": 458,
+        "have": 207
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29045146,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Rhythm & Blues"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89141 9",
+        "888750891419",
+        "888 75089141-A MPO 15-0205NL K SST",
+        "888 75089141-B MPO 15-0205NL K SST"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/29045146-Leon-Bridges-Coming-Home",
+      "catno": "C-125898",
+      "thumb": "https://i.discogs.com/oGZKGlYU2ah25uDILKguErUBJbPLEUD71cQ9J1rSQOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTQ2LTE3MDExNzA3/NTEtODYyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Lng6xo8sDFUG2S9VsZmuahrQzNGRJyK-MBmFs8fyKWs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTQ2LTE3MDExNzA3/NTEtODYyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29045146",
+      "community": {
+        "want": 82,
+        "have": 363
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7161468,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89142 6",
+        "LC 00162",
+        "BIEM/GEMA",
+        "Sony DADC A0102518538-0101 15",
+        "IFPI L555",
+        "IFPI 94V5",
+        "Sony DADC A0102518538-0101 15",
+        "IFPI L555",
+        "IFPI 94K1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7161468-Leon-Bridges-Coming-Home",
+      "catno": "88875089142",
+      "thumb": "https://i.discogs.com/czl_hw3COpN_zFy2J4OkElSLH7EAkuDtXPCDVAtfhQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjE0/NjgtMTQzNTA4OTI3/My04NTkxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/fU9xZaoUFu-8vc5DnnbbR34DtISFj0Y3ioX68YfBQOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjE0/NjgtMTQzNTA4OTI3/My04NTkxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7161468",
+      "community": {
+        "want": 143,
+        "have": 833
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8940873,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Canada",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Sony Music Entertainment Canada Inc.",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Sterling Sound",
+        "Eartha's Gumbo",
+        "Warneparker Music",
+        "Joshua Block Music",
+        "Downtown DLJ Songs",
+        "Chris Vivion Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89142 6",
+        "888750891426",
+        "DIDX-1074685 1 A02",
+        "IFPI L327",
+        "IFPI 50BR"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/8940873-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 2",
+      "thumb": "https://i.discogs.com/fd9jQVtwZppzgskiXPXfBc8MS8jQHa4NE3t1mxl9xX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDA4/NzMtMTQ3ODE0OTE0/My03NTY3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/RIlnPgrBS38dPX38DKblDqAr6Bp9JycWuHQtXQSPuvw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDA4/NzMtMTQ3ODE0OTE0/My03NTY3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8940873",
+      "community": {
+        "want": 93,
+        "have": 191
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7146213,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89142 6",
+        "888750891426"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7146213-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 2",
+      "thumb": "https://i.discogs.com/gjIf7F9Nm0eQlcSWpbd0ntsMIqj9cUtmCq1gY6Vw8eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYy/MTMtMTQzNTEyODIw/MC0zMjE5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/gi0SMjYQz-zMnod14oBmYL8UtnazzPLK8HLmzjdFCZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYy/MTMtMTQzNTEyODIw/MC0zMjE5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7146213",
+      "community": {
+        "want": 503,
+        "have": 1541
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14044013,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul"
+      ],
+      "country": "Finland",
+      "year": "2015",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Sony Music",
+        "Eartha's Gumbo",
+        "Joshua Block Music",
+        "Warneparker Music",
+        "Downtown DLJ Songs",
+        "Chris Vivion Music Of USA",
+        "LisaSawyer63, Inc.",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "USQX91500057",
+        "4066 38 MB05:05",
+        "ZE4347-CDR-A80A AZ0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/14044013-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/wBxJcs0SzAPHsSSosOeDv8PRhPi1OfFxfcmUNKhJ3Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ0/MDEzLTE1NjY3MjA4/NzctMjA1NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HTQcByT20iOR8BWyebiIxN2xOG-fqvBVvW_lFa5VKKA/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ0/MDEzLTE1NjY3MjA4/NzctMjA1NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14044013",
+      "community": {
+        "want": 2,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Single",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11607041,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Colombia",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89142 6"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/11607041-Leon-Bridges-Coming-Home",
+      "catno": "88875 089142",
+      "thumb": "https://i.discogs.com/VBuGq6AcP78Blw9DlRYFdLuG7naGDYP4LskjSfVi3uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA3/MDQxLTE1MTkzMjI0/MTUtMTM4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NwknxxkudROMSkzRroSeEgpa6ZMipIbKRg6IO5DuZ3k/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA3/MDQxLTE1MTkzMjI0/MTUtMTM4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11607041",
+      "community": {
+        "want": 74,
+        "have": 19
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7625783,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul"
+      ],
+      "country": "UK",
+      "year": "2015",
+      "format": [
+        "CDr",
+        "Single",
+        "Promo"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/7625783-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/tQ7FbgMOdT5PmqcWzRoPL5kP_jPlH9ZxW8Yk-qZ4TqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjU3/ODMtMTQ0NTQyMTEw/My01MzE1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/oO6a9YtLz04zyKG8zdRL1fxQNRKZNkLNVCqkVP8LxII/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjU3/ODMtMTQ0NTQyMTEw/My01MzE1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7625783",
+      "community": {
+        "want": 9,
+        "have": 4
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Single",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6856069,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "File",
+        "AAC",
+        "Single"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/6856069-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/K_frvZ449LVwMmkiVe9eGnp0_4GbcW0LYbng8eYaLEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTYw/NjktMTQyODA3OTM3/OS0yMTY1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/55Iw0CpBbycZyg6sLsEhiPSzDGdsqW-WE5Fb4t3j54Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTYw/NjktMTQyODA3OTM3/OS0yMTY1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6856069",
+      "community": {
+        "want": 7,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25466869,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/25466869-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/YeoKCHdRnKpKP-DbITRLzkMrIf1Qkm7_xl-PuS4kmsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY2/ODY5LTE2NzEwNjI1/ODUtMjc5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4Qmmd-dWDQeBtmga4OncpQ5yc8Uwc8V185ZMuO4V6-4/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY2/ODY5LTE2NzEwNjI1/ODUtMjc5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25466869",
+      "community": {
+        "want": 12,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9333027,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Australia",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment Australia Pty Ltd.",
+        "Sony DADC Australia",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Sterling Sound",
+        "Eartha's Gumbo",
+        "Warneparker Music",
+        "Joshua Block Music",
+        "Chris Vivion Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 88750 891426",
+        "0888750891426",
+        "Sony DADC Australia  A0101065763-0101  02",
+        "IFPI L681",
+        "IFPI 6548"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/9333027-Leon-Bridges-Coming-Home",
+      "catno": "88875089142",
+      "thumb": "https://i.discogs.com/QkAjsqVApYsj1EZ5Ca4A92xPrn_N_a-2GNHrfki6_Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzMw/MjctMTU0NDU3ODYy/My04MzMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xg9zeePzbJNcFvJgF2HPszAV-Sl5pyg8FiuX2BjNhXk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzMw/MjctMTU0NDU3ODYy/My04MzMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9333027",
+      "community": {
+        "want": 93,
+        "have": 182
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10836034,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Argentina",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Sony Music Entertainment Argentina S.A.",
+        "Laser Disc Argentina"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89142 6",
+        "72718-L.D.A.- INDUSTRIA ARGENTINA- SONY BMG- 5089142",
+        "IFPI L701",
+        "IFPI Q9P1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/10836034-Leon-Bridges-Coming-Home",
+      "catno": "8887 508914-2",
+      "thumb": "https://i.discogs.com/UBGq3-qjUE0p3fG3esEoFAOkPunLWKcxN7l1xx7ORZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/MDM0LTE1MDUwODQ2/NTAtOTU3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QvqHb1gvTPeyux9kEdixBVoASnfc943cb_GSoPdIWB0/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/MDM0LTE1MDUwODQ2/NTAtOTU3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10836034",
+      "community": {
+        "want": 77,
+        "have": 21
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7162027,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album",
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7162027-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 2",
+      "thumb": "https://i.discogs.com/Vz9QuoErxIg_nWVw05fMqDD9vtmnAZ4Ky1L7Bkt4F6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjIw/MjctMTQzNTA5ODcw/Mi03MzY0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/R3yXDbnB-BxCF_c_GV8wZEQFlySKlpRuvrawSqha3y4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjIw/MjctMTQzNTA5ODcw/Mi03MzY0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7162027",
+      "community": {
+        "want": 175,
+        "have": 23
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13736540,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 888750 8141 9",
+        "888875081419"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/13736540-Leon-Bridges-Coming-Home",
+      "catno": "none",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/7c6493cb26320e0c0760de1d1a67ead6de8332f6/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/13736540",
+      "community": {
+        "want": 68,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7409459,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Funk",
+        "Rhythm & Blues"
+      ],
+      "country": "Europe",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Columbia Records",
+        "Sony Music Entertainment International Services GmbH",
+        "Columbia Records",
+        "LisaSawyer63, Inc.",
+        "LisaSawyer63, Inc.",
+        "Eartha's Gumbo",
+        "Warneparker Music",
+        "Joshua Block Music",
+        "Downtown DLJ Songs",
+        "Chris Vivion Music",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Niles City Sound",
+        "Sterling Sound",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88750 89141 9",
+        "888750891419",
+        "LC00162",
+        "ASCAP",
+        "C-125898 AL88875089141",
+        "C-125898 BL88875089141",
+        "K SST 15-0205NL 88875089141-A",
+        "K SST 15-0205NL 88875089141-B",
+        "K SST 15-0205NL 88875089141-A MPO",
+        "K SST 15-0205NL 88875089141-B MPO"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7409459-Leon-Bridges-Coming-Home",
+      "catno": "C-125898",
+      "thumb": "https://i.discogs.com/h7JST_tpftXb-XN_1tT4s_BkW12W1pNfn2OZKJgJkSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk0/NTktMTQ0MTMwMDkx/MS00MzQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/U6V6GgK1xATGsVb79osCsDDeM4FqF2sbe9SNrgc6H88/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk0/NTktMTQ0MTMwMDkx/MS00MzQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7409459",
+      "community": {
+        "want": 1282,
+        "have": 6642
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7166263,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 829990,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "7\"",
+        "45 RPM",
+        "Single"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "8875078017"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/829990",
+      "uri": "/release/7166263-Leon-Bridges-Coming-Home",
+      "catno": "38-123598",
+      "thumb": "https://i.discogs.com/NZWbwmlmCugCUwKV2dlEkOAFPZ1btXiwCsORpMqCppw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYy/NjMtMTQzNTE5Nzk4/NS00NTYzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/BC5byvkCmqyfQcOtUvPUbJLMptZBdBw8AV_X1s44U3Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYy/NjMtMTQzNTE5Nzk4/NS00NTYzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7166263",
+      "community": {
+        "want": 182,
+        "have": 31
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lithograph",
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Single"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7166269,
+      "title": "Leon Bridges - Coming Home",
+      "master_id": 850448,
+      "genre": [
+        "Funk / Soul"
+      ],
+      "style": [
+        "Soul",
+        "Rhythm & Blues"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/850448",
+      "uri": "/release/7166269-Leon-Bridges-Coming-Home",
+      "catno": "88875 08914 1",
+      "thumb": "https://i.discogs.com/ByomppKb3XOVsF5IF92GTPJQOD9m6L35vDsL-5D8Hnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYy/NjktMTQzNTE5ODIw/MS04MTIyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/ErilrOZso5NytLyEgkcmialiIsb0gXL7iReFrq4Xx7s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjYy/NjktMTQzNTE5ODIw/MS04MTIyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7166269",
+      "community": {
+        "want": 365,
+        "have": 241
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Lithograph",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7853775,
+      "title": "Mick* & Leon Bridges - Coming Home To Texas",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Contemporary R&B",
+        "Thug Rap"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "File",
+        "MP3",
+        "File",
+        "MP3",
+        "All Media",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Mick Boogie Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/7853775-Mick-Leon-Bridges-Coming-Home-To-Texas",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/NhP5PdxFg5AT5lPQf2VN2JoftyEk1rlRet0-4qtw9Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTM3/NzUtMTYyODMwNDg4/Ny04MTQxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/hTtpKBWg-Wx7CXIGLsvzkBlsON85_I2TCNXtTtRJkXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTM3/NzUtMTYyODMwNDg4/Ny04MTQxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7853775",
+      "community": {
+        "want": 21,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "5",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        },
+        {
+          "name": "File",
+          "qty": "2",
+          "text": "192 kbps",
+          "descriptions": [
+            "MP3"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Mixtape"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 829990,
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "main_release": 6956357,
+    "most_recent_release": 14044013,
+    "resource_url": "https://api.discogs.com/masters/829990",
+    "uri": "https://www.discogs.com/master/829990-Leon-Bridges-Coming-Home",
+    "versions_url": "https://api.discogs.com/masters/829990/versions",
+    "main_release_url": "https://api.discogs.com/releases/6956357",
+    "most_recent_release_url": "https://api.discogs.com/releases/14044013",
+    "num_for_sale": 12,
+    "lowest_price": 30.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/8PzCeXo6vpeFJPFeHlDSvBEUoqhJvhq09fxP-w0_Hg0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk0/OS03MTYwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8PzCeXo6vpeFJPFeHlDSvBEUoqhJvhq09fxP-w0_Hg0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk0/OS03MTYwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/HcihIBrO99gztMIgPDBAZj0vrh9zcghlWsi98hn_wnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk0/OS03MTYwLmpwZWc.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fKRwn5BFZ_hZng5ZUqEhCsqC9ruKrropl3mTdT9ZSbk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk2/OS03MzQ2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/fKRwn5BFZ_hZng5ZUqEhCsqC9ruKrropl3mTdT9ZSbk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk2/OS03MzQ2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/qwXsFa83EHXGK1aJrdkjwml7HS9RImo6xDlyIgZyZ6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk2/OS03MzQ2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 580
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Hzz5LIBxDxtuRZ0NMzdeZ_UI6elCdD-k9BUhcqFMquc/rs:fit/g:sm/q:90/h:600/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk5/NS03MDMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Hzz5LIBxDxtuRZ0NMzdeZ_UI6elCdD-k9BUhcqFMquc/rs:fit/g:sm/q:90/h:600/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk5/NS03MDMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/_qWVgE-YUdKYdZ3KdqC7k9T7ibxkQsEh7XlhchFar54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NTctMTQzMDM2MDk5/NS03MDMwLmpwZWc.jpeg",
+        "width": 547,
+        "height": 600
+      }
+    ],
+    "year": 2015,
+    "tracklist": [
+      {
+        "position": "A",
+        "type_": "track",
+        "title": "Coming Home",
+        "duration": "3:26"
+      },
+      {
+        "position": "B",
+        "type_": "track",
+        "title": "Better Man",
+        "duration": "2:21"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Leon Bridges",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4332385,
+        "resource_url": "https://api.discogs.com/artists/4332385",
+        "thumbnail_url": "https://i.discogs.com/SRavFDNSGPqa_kReyNth_kBEAzDSv8pUQK0yZojybBM/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzMzIz/ODUtMTU3NTUwNTIz/Ni0xMDMyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Coming Home",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=MTrKkqE9p1o",
+        "title": "Leon Bridges - Coming Home (Video)",
+        "description": "\"Coming Home\" taken from Leon Bridges' debut album 'Coming Home' - available now.\n\nGet it on iTunes: http://smarturl.it/ComingHomeiT\nGet it on Amazon: http://smarturl.it/ComingHomeAmzn\nStream it on Spotify: http://smarturl.it/ComingHomeSp \n\nLyrics: http:/",
+        "duration": 245,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pgS_xob1x4A",
+        "title": "Leon Bridges - Better Man",
+        "description": "\"Better Man\" taken from Leon Bridges' new album 'Coming Home' -  available now.\n\nGet it on iTunes: http://smarturl.it/ComingHomeiT\nGet it on Amazon: http://smarturl.it/ComingHomeAmzn\nStream it on Spotify: http://smarturl.it/ComingHomeSp\n\nLyrics: http://ge",
+        "duration": 143,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 829990,
+  "genres": [
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}
