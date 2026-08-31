@@ -1,0 +1,1898 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "888915487846",
+    "artist": "BROCKHAMPTON",
+    "title": "SATURATION III",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 11292020,
+      "title": "Brockhampton - Saturation III",
+      "master_id": 1768490,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Experimental",
+        "Pop Rap",
+        "Contemporary R&B"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Question Everything, Inc.",
+        "Empire",
+        "Question Everything, Inc.",
+        "Empire",
+        "Question Everything, Inc.",
+        "Empire",
+        "The Brockhampton Factory",
+        "Empire Distribution",
+        "Perfect Haircut Publishing",
+        "Summer LaBeouf Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1768490",
+      "uri": "/release/11292020-Brockhampton-Saturation-III",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qxqEr4K68ZBQEEIjwZ6WcVyptnhuD9WC3rUWfLckxFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11292020",
+      "community": {
+        "want": 460,
+        "have": 157
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24739556,
+      "title": "Brockhampton - Saturation III",
+      "master_id": 1768490,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Experimental",
+        "Pop Rap",
+        "Contemporary R&B"
+      ],
+      "country": "Worldwide",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Question Everything, Inc.",
+        "Empire",
+        "Question Everything, Inc.",
+        "Empire",
+        "Question Everything, Inc.",
+        "Empire",
+        "The Brockhampton Factory",
+        "Empire Distribution",
+        "Perfect Haircut Publishing",
+        "Summer LaBeouf Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1768490",
+      "uri": "/release/24739556-Brockhampton-Saturation-III",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/3Jtv_4Bbdl937VI0kiML_6WJjMwhF1Vb9hg-RFlt8NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM5/NTU2LTE2NjUwNzMx/MjctMTI0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iMBgqYyVu-F-MB_1V6Fq4xxFdkqxT1G0uOFeDt7rg5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM5/NTU2LTE2NjUwNzMx/MjctMTI0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24739556",
+      "community": {
+        "want": 15,
+        "have": 6
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1768490,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Experimental",
+      "Pop Rap",
+      "Contemporary R&B"
+    ],
+    "main_release": 11292020,
+    "most_recent_release": 21487687,
+    "resource_url": "https://api.discogs.com/masters/1768490",
+    "uri": "https://www.discogs.com/master/1768490-Brockhampton-Saturation-III",
+    "versions_url": "https://api.discogs.com/masters/1768490/versions",
+    "main_release_url": "https://api.discogs.com/releases/11292020",
+    "most_recent_release_url": "https://api.discogs.com/releases/21487687",
+    "num_for_sale": 0,
+    "lowest_price": null,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qxqEr4K68ZBQEEIjwZ6WcVyptnhuD9WC3rUWfLckxFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qxqEr4K68ZBQEEIjwZ6WcVyptnhuD9WC3rUWfLckxFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Pi8mBwuHstkiVeRUWQCdd_8_kfXoqoXno6MuTvq44q8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTkzMjYy/ODUtNzMxNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Pi8mBwuHstkiVeRUWQCdd_8_kfXoqoXno6MuTvq44q8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTkzMjYy/ODUtNzMxNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4aogGPhghqcyYoGIJzsR3BKDVApWkXYFOyIpG2sbA4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTkzMjYy/ODUtNzMxNC5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Boogie",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:13"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Zipper",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:22"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Johnny",
+        "extraartists": [
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Kiko Merley",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming [Additional]",
+            "tracks": "",
+            "id": 5832157,
+            "resource_url": "https://api.discogs.com/artists/5832157"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          }
+        ],
+        "duration": "4:12"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Liquid",
+        "extraartists": [
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "1:22"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Cinema 1",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "R. Ontenient",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          }
+        ],
+        "duration": "0:46"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Stupid",
+        "extraartists": [
+          {
+            "name": "Q3 (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832347,
+            "resource_url": "https://api.discogs.com/artists/5832347"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:37"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Bleach",
+        "extraartists": [
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Bear//Face",
+            "anv": "bearface.",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Ryan Beatty (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 3417340,
+            "resource_url": "https://api.discogs.com/artists/3417340"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Ciarian McDonald",
+            "anv": "C. McDonald",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824814,
+            "resource_url": "https://api.discogs.com/artists/5824814"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ryan Beatty (2)",
+            "anv": "R. Beatty",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3417340,
+            "resource_url": "https://api.discogs.com/artists/3417340"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "4:33"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Alaska",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Ciarian McDonald",
+            "anv": "C. McDonald",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5824814,
+            "resource_url": "https://api.discogs.com/artists/5824814"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          }
+        ],
+        "duration": "3:19"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Hottie",
+        "extraartists": [
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:17"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Cinema 2",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "R. Ontenient",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          }
+        ],
+        "duration": "0:39"
+      },
+      {
+        "position": "11a",
+        "type_": "track",
+        "title": "Sister",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "3:48"
+      },
+      {
+        "position": "11b",
+        "type_": "track",
+        "title": "Nation",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "Merlyn Wood",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "William Wood (4)",
+            "anv": "W. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824815,
+            "resource_url": "https://api.discogs.com/artists/5824815"
+          }
+        ],
+        "duration": "2:16"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Rental",
+        "extraartists": [
+          {
+            "name": "Q3 (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832347,
+            "resource_url": "https://api.discogs.com/artists/5832347"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          }
+        ],
+        "duration": "3:34"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Stains",
+        "extraartists": [
+          {
+            "name": "Jabari Manwarring",
+            "anv": "Jabari Manwa",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832345,
+            "resource_url": "https://api.discogs.com/artists/5832345"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Ashlan Grey",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 6191220,
+            "resource_url": "https://api.discogs.com/artists/6191220"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Joba (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826390,
+            "resource_url": "https://api.discogs.com/artists/5826390"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "R. Boring",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Toilet (8)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6322124,
+            "resource_url": "https://api.discogs.com/artists/6322124"
+          }
+        ],
+        "duration": "2:59"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Cinema 3",
+        "extraartists": [
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Robert Ontenient",
+            "anv": "R. Ontenient",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5832160,
+            "resource_url": "https://api.discogs.com/artists/5832160"
+          }
+        ],
+        "duration": "0:51"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Team",
+        "extraartists": [
+          {
+            "name": "Bear//Face",
+            "anv": "Bearface",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Romil Hemnani",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832297,
+            "resource_url": "https://api.discogs.com/artists/5832297"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Russell Boring",
+            "anv": "Russell \"Joba\" Boring",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 5832296,
+            "resource_url": "https://api.discogs.com/artists/5832296"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Bear//Face",
+            "anv": "bearface.",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 3101736,
+            "resource_url": "https://api.discogs.com/artists/3101736"
+          },
+          {
+            "name": "Dom McLennon",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5826386,
+            "resource_url": "https://api.discogs.com/artists/5826386"
+          },
+          {
+            "name": "Kevin Abstract",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 4751064,
+            "resource_url": "https://api.discogs.com/artists/4751064"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "Matt Champion",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          },
+          {
+            "name": "Ameer Vann",
+            "anv": "A. Vann",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824812,
+            "resource_url": "https://api.discogs.com/artists/5824812"
+          },
+          {
+            "name": "Ciarian McDonald",
+            "anv": "C. McDonald",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824814,
+            "resource_url": "https://api.discogs.com/artists/5824814"
+          },
+          {
+            "name": "Dominique Simpson",
+            "anv": "D. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824811,
+            "resource_url": "https://api.discogs.com/artists/5824811"
+          },
+          {
+            "name": "Ian Simpson (14)",
+            "anv": "I. Simpson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824810,
+            "resource_url": "https://api.discogs.com/artists/5824810"
+          },
+          {
+            "name": "Matthew Champion",
+            "anv": "M. Champion",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 5824813,
+            "resource_url": "https://api.discogs.com/artists/5824813"
+          }
+        ],
+        "duration": "4:34"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Brockhampton",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4581123,
+        "resource_url": "https://api.discogs.com/artists/4581123",
+        "thumbnail_url": "https://i.discogs.com/xnGEeNeKp5eWzkT3nKSPx1-fZBLbZatB99LTrrvSrC4/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1ODEx/MjMtMTc1NjA2ODUz/OC02MTcwLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Saturation III",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=4cucHc2vef4",
+        "title": "BOOGIE - BROCKHAMPTON",
+        "description": "BROCKHAMPTON TOUR TICKETS ON SALE: http://brckhmptn.com/dates/\n\nDirected by Kevin Abstract\nDP - Ashlan Grey\nEdit & Color - Henock Sileshi\nStylist - Nick Lenzini\nPA- Kevin Doan\n\nSTREAM \"BOOGIE\":\nSpotify: https://open.spotify.com/album/4PQtODnHlq5ETTwv6J3NY",
+        "duration": 212,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1768490,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Experimental",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

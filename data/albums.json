@@ -457,8 +457,34 @@
       "Clairo"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 3540664,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Soft Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Acoustic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1KNUCVXgIxKUGiuEB8eG0i",
     "release_date": "2024-07-12",
     "release_year": 2024,
@@ -647,8 +673,39 @@
       "BROCKHAMPTON"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2736f3faf235f4251dfa575f843",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1645717,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Trap",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      }
+    ],
     "id": "1jToVugwBEzcak8gJNZG2f",
     "release_date": "2019-08-23",
     "release_year": 2019,
@@ -2357,8 +2414,29 @@
       "BROCKHAMPTON"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef51817e6a6563b6f7ce5872",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1768490,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Experimental",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5c2AzoNyr46fCQM5d8mxE0",
     "release_date": "2017-12-15",
     "release_year": 2017,
@@ -2758,8 +2836,14 @@
       "Isaiah Rashad"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed5e0ac2ad3fd4932103bd19",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1352158,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6jjX8mGrsWtrpYpFhGMrg1",
     "release_date": "2016-09-02",
     "release_year": 2016,
@@ -2818,8 +2902,24 @@
       "BROCKHAMPTON"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2730053d7ca31a7121a19a6610d",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 2070505,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      }
+    ],
     "id": "6sPcgDto5EI6EBPc2jhDC7",
     "release_date": "2021-04-09",
     "release_year": 2021,

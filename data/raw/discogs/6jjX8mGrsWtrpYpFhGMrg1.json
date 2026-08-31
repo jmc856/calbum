@@ -1,0 +1,510 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "859718121367",
+    "artist": "Isaiah Rashad",
+    "title": "The Sun's Tirade",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 15665638,
+      "title": "Isaiah Rashad - The Sun's Tirade",
+      "master_id": 1352158,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Top Dawg Entertainment"
+      ],
+      "type": "release",
+      "barcode": [
+        "1149506748"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1352158",
+      "uri": "/release/15665638-Isaiah-Rashad-The-Suns-Tirade",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/IEYDC97LO9N3vI21BLo2cljYGhzBsUdRQGyxdF8Yl4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY1/NjM4LTE2NTk0MjU4/NjQtODcxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OFWAp3Wi_tTJES0nD2OkO7UAMzwuuyTF0WEk3G4wtlg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY1/NjM4LTE2NTk0MjU4/NjQtODcxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15665638",
+      "community": {
+        "want": 66,
+        "have": 20
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8994714,
+      "title": "Isaiah Rashad - The Sun's Tirade",
+      "master_id": 1352158,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Top Dawg Entertainment",
+        "Disc Makers"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 88295 49654 4",
+        "MAI0912 DISCMAKERS",
+        "IFPI lZ74"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1352158",
+      "uri": "/release/8994714-Isaiah-Rashad-The-Suns-Tirade",
+      "catno": "NA",
+      "thumb": "https://i.discogs.com/Nwhnuxe-Lhh_XzJ0HFTeut1lJCBBLjoL9O4z8QyCydg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xIWJZ4fqXo2IWEdS_O0vt6voZdu3aJKOtU9-uYBH1aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8994714",
+      "community": {
+        "want": 972,
+        "have": 242
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1352158,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 8994714,
+    "most_recent_release": 16065259,
+    "resource_url": "https://api.discogs.com/masters/1352158",
+    "uri": "https://www.discogs.com/master/1352158-Isaiah-Rashad-The-Suns-Tirade",
+    "versions_url": "https://api.discogs.com/masters/1352158/versions",
+    "main_release_url": "https://api.discogs.com/releases/8994714",
+    "most_recent_release_url": "https://api.discogs.com/releases/16065259",
+    "num_for_sale": 1,
+    "lowest_price": 99.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/xIWJZ4fqXo2IWEdS_O0vt6voZdu3aJKOtU9-uYBH1aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/xIWJZ4fqXo2IWEdS_O0vt6voZdu3aJKOtU9-uYBH1aw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Nwhnuxe-Lhh_XzJ0HFTeut1lJCBBLjoL9O4z8QyCydg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/L2ZrFW_dypYnnqo5tpFgSV1pOvsaZJC9d55fIfk4XhQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MS01OTYzLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/L2ZrFW_dypYnnqo5tpFgSV1pOvsaZJC9d55fIfk4XhQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MS01OTYzLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/vAjWThPyJTiS7Mt6EevZZiVo2Wc_VlirPmqe76M27ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MS01OTYzLmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BXS7z7Fy_hb_I7KcRsVwO8BTi7T-4JqwfmiVhCYqfFw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MC0zMTA5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/BXS7z7Fy_hb_I7KcRsVwO8BTi7T-4JqwfmiVhCYqfFw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MC0zMTA5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r6tsoJXWt7KTSnnFE0PHQiZbrwZRH-WA5HDu7frq2Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODA4OTMw/MC0zMTA5LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/cllXRChRjpztZ8a5M-5bDLpxhVhBe0-31YZVp-ULh-8/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODEwNzA2/NC0yODcxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/cllXRChRjpztZ8a5M-5bDLpxhVhBe0-31YZVp-ULh-8/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODEwNzA2/NC0yODcxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2CTBcw2Y6XOLDNoDuxJvcfP1GzsKqOtzNwV-zedhsDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTY0ODEwNzA2/NC0yODcxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 577
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Where U At?",
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "4r Da Squaw",
+        "extraartists": [
+          {
+            "name": "FrancisGotHeat",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 3956967,
+            "resource_url": "https://api.discogs.com/artists/3956967"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Free Lunch",
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Rope/Rosegold",
+        "extraartists": [
+          {
+            "name": "SiR (12)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4613460,
+            "resource_url": "https://api.discogs.com/artists/4613460"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Wat's Wrong",
+        "extraartists": [
+          {
+            "name": "Kendrick Lamar",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1778977,
+            "resource_url": "https://api.discogs.com/artists/1778977"
+          },
+          {
+            "name": "Zacari",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5225088,
+            "resource_url": "https://api.discogs.com/artists/5225088"
+          },
+          {
+            "name": "Al B Smoov",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 4270724,
+            "resource_url": "https://api.discogs.com/artists/4270724"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Park",
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Bday",
+        "extraartists": [
+          {
+            "name": "Deacon Blues",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5246460,
+            "resource_url": "https://api.discogs.com/artists/5246460"
+          },
+          {
+            "name": "Kari Faux",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4110880,
+            "resource_url": "https://api.discogs.com/artists/4110880"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Silkk Da Shocka",
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Tity And Dolla",
+        "extraartists": [
+          {
+            "name": "Hugh Augustine The MC",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3632025,
+            "resource_url": "https://api.discogs.com/artists/3632025"
+          },
+          {
+            "name": "Jay Rock (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 921864,
+            "resource_url": "https://api.discogs.com/artists/921864"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Stuck In The Mud",
+        "extraartists": [
+          {
+            "name": "SZA (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3272791,
+            "resource_url": "https://api.discogs.com/artists/3272791"
+          }
+        ],
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "A Lot",
+        "duration": ""
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "AA",
+        "duration": ""
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Dressed Like Rappers",
+        "duration": ""
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Don't Matter",
+        "duration": ""
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Brenda",
+        "duration": ""
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "By George (Outro)",
+        "duration": ""
+      },
+      {
+        "position": "17",
+        "type_": "track",
+        "title": "Find A Topic (Homies Begged)",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Isaiah Rashad",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3662798,
+        "resource_url": "https://api.discogs.com/artists/3662798",
+        "thumbnail_url": "https://i.discogs.com/S5lL-KqNzB5yiERvdUqMvkIaB6mMkh3wVtZ1s5H2UVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2NjI3/OTgtMTQ3MzE0Nzc1/My0yNTQxLnBuZw.jpeg"
+      }
+    ],
+    "title": "The Sun's Tirade",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=B-NAvraSy2U",
+        "title": "where u at?",
+        "description": "Provided to YouTube by TuneCore\n\nwhere u at? \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 45,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=nppKPgdc_u0",
+        "title": "Isaiah Rashad - 4r Da Squaw",
+        "description": "\"4r Da Squaw\"\nIsaiah Rashad\n\nDirected by Dave Free of the little homies & Christian Sutton \nTop Dawg Entertainment / Psycho Films\n\nThe Sun's Tirade\nAlbum Available 09.02.16\nhttps://t.co/NHxa2cLyfV\n\ntxdxe.com",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QJksTRgY8-c",
+        "title": "Isaiah Rashad - Free Lunch",
+        "description": "Isaiah Rashad\n\"Free Lunch\"\n\nProduced by Cam O'bi\nAdditional Production by Benjamin J Shepherd\n\nhttps://itun.es/us/oJjdeb\n\n\ndir. aplus\n\n\nhttp://txdxe.com",
+        "duration": 198,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=3EFFJ3dPaVs",
+        "title": "Rope (feat. SiR) // rosegold",
+        "description": "Provided to YouTube by TuneCore\n\nRope (feat. SiR) // rosegold \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 284,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=huqwH3ROy8o",
+        "title": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
+        "description": "Provided to YouTube by TuneCore\n\nWat's Wrong (feat. Zacari & Kendrick Lamar) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 331,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NTJNaR_hPXQ",
+        "title": "Isaiah Rashad - Park",
+        "description": "Isaiah Rashad\n\"Park\"\n\nThe Sun's Tirade\nAlbum Available:\nhttps://t.co/NHxa2cLyfV\n\nDirector: aplus + aplusfilmz.com \nProducers: Top Dawg, Dave Free, aplus\nProduction Co: TDE Films / Top Dawg Entertainment \n\ntxdxe.com\n#TDE",
+        "duration": 180,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hKDS7fajWIo",
+        "title": "Bday (feat. Deacon Blues & Kari Faux)",
+        "description": "Provided to YouTube by TuneCore\n\nBday (feat. Deacon Blues & Kari Faux) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 233,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=L2xLbDlNhFo",
+        "title": "Silkk da Shocka (feat. Syd)",
+        "description": "Provided to YouTube by TuneCore\n\nSilkk da Shocka (feat. Syd) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 167,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vgvgFxrRurA",
+        "title": "Tity and Dolla (feat. Hugh Augustine & Jay Rock)",
+        "description": "Provided to YouTube by TuneCore\n\nTity and Dolla (feat. Hugh Augustine & Jay Rock) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 299,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MWM3IUVCi3U",
+        "title": "Stuck in the Mud (feat. SZA)",
+        "description": "Provided to YouTube by TuneCore\n\nStuck in the Mud (feat. SZA) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 424,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=So2dbVw8Hy8",
+        "title": "A lot",
+        "description": "Provided to YouTube by TuneCore\n\nA lot \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 206,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hq_AfOeGmV8",
+        "title": "AA",
+        "description": "Provided to YouTube by TuneCore\n\nAA \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 211,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=O1dRcRvSq7E",
+        "title": "Dressed Like Rappers",
+        "description": "Provided to YouTube by TuneCore\n\nDressed Like Rappers \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YYKGG0cS9NQ",
+        "title": "Don't Matter",
+        "description": "Provided to YouTube by TuneCore\n\nDon't Matter \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 177,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QYHpipLP3BE",
+        "title": "Brenda",
+        "description": "Provided to YouTube by TuneCore\n\nBrenda \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=GpdGTo_RRO0",
+        "title": "by george (outro)",
+        "description": "Provided to YouTube by TuneCore\n\nby george (outro) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 199,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=9mejP3DpNqM",
+        "title": "Find a Topic (homies begged)",
+        "description": "Provided to YouTube by TuneCore\n\nFind a Topic (homies begged) \u00b7 Isaiah Rashad\n\nThe Sun's Tirade\n\n\u2117 2016 Top Dawg Entertainment\n\nReleased on: 2016-09-02\n\nAuto-generated by YouTube.",
+        "duration": 167,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1352158,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

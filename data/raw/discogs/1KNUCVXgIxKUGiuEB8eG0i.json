@@ -1,0 +1,1699 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00196922936043",
+    "artist": "Clairo",
+    "title": "Charm",
+    "year": 2024
+  },
+  "results": [
+    {
+      "id": 31215304,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87055 2",
+        "196922870552"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31215304-Clairo-Charm",
+      "catno": "196922870552",
+      "thumb": "https://i.discogs.com/42OjWjbVcxWb8nGYGZgOrRXyTDSmkTxxRvnVqWvxhCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE1/MzA0LTE3MjA5MTg1/OTYtNzk2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Go4Rrqa2oaiak3t3_Dd1HvlAzDdJq1PZmd7SXayzRZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE1/MzA0LTE3MjA5MTg1/OTYtNzk2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31215304",
+      "community": {
+        "want": 564,
+        "have": 1028
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blue Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31215022,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Big Crown Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922875328"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31215022-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/rD9vjsizE6B_obUyiJGRSeHOwl40H66ZJGObbAg0RYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE1/MDIyLTE3MjA5MTQz/MTQtNDY2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LA8aSmhcgQE_gaOZy5UZYf-SiuxSbL3Mv3eZVlrrJgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE1/MDIyLTE3MjA5MTQz/MTQtNDY2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31215022",
+      "community": {
+        "want": 340,
+        "have": 247
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Maroon",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31240957,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870552",
+        "C-196922870552-A NT 1888551 280825E1",
+        "C-196922870552-B NT 1959477 280825E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31240957-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/opY96NzH0G0ulqufibLG-J66ETJwQg2p4CofAeGXEw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQw/OTU3LTE3MjExNjcw/MzMtMjgxNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rMjq-U-lo0X9JGnWWHoicRMHMT9Q4K5R0xLrmcznw9Q/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQw/OTU3LTE3MjExNjcw/MzMtMjgxNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31240957",
+      "community": {
+        "want": 1070,
+        "have": 6185
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31311432,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock",
+        "Acoustic",
+        "Indie Pop"
+      ],
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo",
+        "Box Set",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records, LLC",
+        "Allaire Studios",
+        "The Diamond Mine",
+        "Diamond Mine North",
+        "Fred Short Sound",
+        "Electric Lady Studios",
+        "Jensquarters",
+        "The Bunker, Brooklyn",
+        "Clairo Records",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 88016 2",
+        "[Universal logo] 2287053 [Universal logo] AO17434-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9708"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31311432-Clairo-Charm",
+      "catno": "0019692287053",
+      "thumb": "https://i.discogs.com/t15zj8S208RaL_8nXD1gllIYjdutu9NRmAhHvOi3IOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzEx/NDMyLTE3MjE4NzUw/NTItNzM0NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tFhJvcFBXDL3MIVQ-MVFyHfqEzJFvYSoeu3m5V_VoXQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzEx/NDMyLTE3MjE4NzUw/NTItNzM0NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31311432",
+      "community": {
+        "want": 91,
+        "have": 56
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34503301,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Test Pressing"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "C-196922870552-A NT 1888551 280825E1",
+        "C-196922870552-B NT 1959477 280825E2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/34503301-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/YRZ8T96gXgIhzpkLj4XIJ5HJZyxg-hIsGt2XincwTvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTAz/MzAxLTE3NTIxNjc4/MzMtNDAwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/H9QtLbqACG2fxFIh5gv_nfzS5qX0l9rnG4VZxvGGM8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTAz/MzAxLTE3NTIxNjc4/MzMtNDAwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34503301",
+      "community": {
+        "want": 79,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Test Pressing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31208539,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Jazz",
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Soft Rock",
+        "Soul-Jazz"
+      ],
+      "country": "UK",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "The Diamond Mine",
+        "Diamond Mine North",
+        "Allaire Studios",
+        "Electric Lady Studios",
+        "Fred Short Sound",
+        "Jensquarters",
+        "The Bunker, Brooklyn",
+        "Blood Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31208539-Clairo-Charm",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/O_RO4520ZjVEM07N2nV8EzLLzDavBJdTmzI5LrgMG_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA4/NTM5LTE3MjA4NzIy/MTItMzM5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/e1CNeiH_Q3Ia71EAZFjqck_LNqoEe_al-DzU0GboJhA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA4/NTM5LTE3MjA4NzIy/MTItMzM5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31208539",
+      "community": {
+        "want": 1179,
+        "have": 486
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink & White",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31200277,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "USA & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records, LLC",
+        "Clairo Records, LLC",
+        "Virgin Music Group",
+        "The Diamond Mine",
+        "Diamond Mine North",
+        "Allaire Studios",
+        "Electric Lady Studios",
+        "Fred Short Sound",
+        "Jensquarters",
+        "Electric Lady Studios",
+        "The Bunker Studio",
+        "GZ Media",
+        "Precision Record Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87055 2",
+        "196922870552",
+        "1 96922 87059 0",
+        "196922870590",
+        "C-196922870552-A NT 1923093 280825E1",
+        "C-196922870552-B NT 1918649 280825E2",
+        "C-196922870552-A NT 1932724 280825E1",
+        "C-196922870552-B NT 1929472 280825E2",
+        "MADE IN CANADA 05 06 1156 2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31200277-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/udopw05SktvFU9UW-J66bMoigUSekekXb3_EUDpz3fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/Mjc3LTE3MjY4NTg1/MTItMTI1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m-rUowWBpXLwwA8cww3pLhmOY-3kXiJlGjqco08SHmA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/Mjc3LTE3MjY4NTg1/MTItMTI1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31200277",
+      "community": {
+        "want": 1975,
+        "have": 6855
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31202173,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87055 2",
+        "196922870552",
+        "1 96922 90136 2",
+        "196922901362"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31202173-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/WJcoMItPZePlWoVeixIKmBDNaYhhCdtLj4Gy8tkAUc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAy/MTczLTE3MjA3OTQ5/OTktMjY4OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/9ftBUKjZv69d4UoXh9uGANa0myh9R2Gs0DndvjmI434/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAy/MTczLTE3MjA3OTQ5/OTktMjY4OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31202173",
+      "community": {
+        "want": 458,
+        "have": 1118
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32375193,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "UK & US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Rough Trade"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 9870409094"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/32375193-Clairo-Charm",
+      "catno": "00198704090943",
+      "thumb": "https://i.discogs.com/fonT0mM0s-wYJCJMFnb7r3Dyt72xbOxkBGfAVbt6VPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/MTkzLTE3MzIzNjU0/NjktNzUyNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XgI2LJto4IkkxYTSWwnrLyefgNvhuIAzkijFeJ7rXzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/MTkzLTE3MzIzNjU0/NjktNzUyNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32375193",
+      "community": {
+        "want": 372,
+        "have": 386
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Blood Orange Marble",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31206211,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870569"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31206211-Clairo-Charm",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/L8jNBcSKU8YnIKv72I3sS9aQezJbhtnzE9Mg-wKvYIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA2/MjExLTE3MjA4Mjgw/OTMtNjUyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/FgwwOaOVypbUxJvNZ0NH0svDlUBU4xvMbismLN18oNI/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA2/MjExLTE3MjA4Mjgw/OTMtNjUyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31206211",
+      "community": {
+        "want": 208,
+        "have": 251
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Purple Shell",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31225102,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock",
+        "Acoustic",
+        "Indie Pop"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Universal Music LLC",
+        "Virgin Music Group",
+        "Clairo Records, LLC",
+        "Allaire Studios",
+        "The Diamond Mine",
+        "Diamond Mine North",
+        "Fred Short Sound",
+        "Electric Lady Studios",
+        "Jensquarters",
+        "The Bunker, Brooklyn"
+      ],
+      "type": "release",
+      "barcode": [
+        "4988031654736",
+        "UICB-1026 1 [2x Universal logo]",
+        "4x SHM-CD logo",
+        "IFPI L278",
+        "IFPI 45MB"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31225102-Clairo-Charm",
+      "catno": "UICB-1026",
+      "thumb": "https://i.discogs.com/2CCeM6p8IOWYh2CObw9BD4MyagUsZ81mB4ku4NNvx7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI1/MTAyLTE3MjEwMjIz/OTAtNDkxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wXpOyQMKn1gfNbXKlGecSs1dhodcfwtp81RLkP339EI/rs:fit/g:sm/q:90/h:518/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI1/MTAyLTE3MjEwMjIz/OTAtNDkxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31225102",
+      "community": {
+        "want": 95,
+        "have": 49
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "SHM-CD",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37385394,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870552",
+        "198704431951",
+        "C-196922870552-A NT 280825E1 02533086 2472146",
+        "C-196922870552-B NT 280825E2 02533137 2422873"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/37385394-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/usPWj7x_vDuRMBQHiRhAiokKAiWjWMwkX3BMpkDvB5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg1/Mzk0LTE3NzkyMDQy/NjEtMjQ2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hUVPucltcW3ZmAjXt-lzJeov5mLAu-GJBL0UroTkWlA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg1/Mzk0LTE3NzkyMDQy/NjEtMjQ2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37385394",
+      "community": {
+        "want": 18,
+        "have": 113
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31200250,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Clairo Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "1742301413"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31200250-Clairo-Charm",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Go0CtJkMdzCwtFijooql6dN-EBxqmEJ9S2Fkwj8d7xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/MjUwLTE3MjA3Nzc4/MTMtNjc3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/V7x-2IOSbANI2BlmxUQJmC4lQGLJDu3XHjdi_sZjWa8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/MjUwLTE3MjA3Nzc4/MTMtNjc3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31200250",
+      "community": {
+        "want": 86,
+        "have": 73
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36559153,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Jazz",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alt-Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Clairo Records, LLC",
+        "Good Buddy",
+        "Clairo Records, LLC",
+        "Clairo Records, LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87054 5",
+        "196922870545",
+        "1 96922 87053 8",
+        "196922870538",
+        "(1267715) 6922870538 02 0001",
+        "IFPI LV77",
+        "IFPI KKTV"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/36559153-Clairo-Charm",
+      "catno": "196922870545",
+      "thumb": "https://i.discogs.com/qEnPaSqGKgvHrxQRnn8p9umegoXCEKaqfwzCZNnx9Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTU5/MTUzLTE3NzE1ODUx/MDMtOTA3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/L0AArSitWkdnpRfWHwx1X8s1ZP9DFJV_pfZOl2JTElc/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTU5/MTUzLTE3NzE1ODUx/MDMtOTA3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36559153",
+      "community": {
+        "want": 38,
+        "have": 24
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Signed, Newbury Comics Exclusive",
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31337218,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records, LLC",
+        "Clairo Records, LLC"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87055 2",
+        "196922870552",
+        "C-196922870552-A 280825E1 1932734 (see note)",
+        "C-196922870552-B 280825E2 1929472 (see note)"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31337218-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/VWJJNuutikSqm-kbXJimHdMkxpeF9TNTmRjMUgJi7eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzM3/MjE4LTE3MjIxNDY0/MTMtOTEwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4oP-IggvgPrQEiaukcTALU-9taU_uKjbX16R5bK_LhM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzM3/MjE4LTE3MjIxNDY0/MTMtOTEwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31337218",
+      "community": {
+        "want": 352,
+        "have": 79
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple, OBI",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31247317,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Pop"
+      ],
+      "style": [
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records, LLC",
+        "Clairo Records, LLC",
+        "Vantiva, Guadalajara, Mexico",
+        "Vantiva, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87053 8",
+        "USA2P2416223",
+        "USA2P2416224",
+        "USA2P2416225",
+        "USA2P2416226",
+        "USA2P2416227",
+        "USA2P2416228",
+        "USA2P2416229",
+        "USA2P2416230",
+        "USA2P2416231",
+        "USA2P2416232",
+        "USA2P2416233",
+        "(1267715) 6922870538 02 0001",
+        "(1267715) 6922870538 03 0001",
+        "IFPI LV77",
+        "IFPI LW86",
+        "IFPI KKTV"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31247317-Clairo-Charm",
+      "catno": "196922870538",
+      "thumb": "https://i.discogs.com/pmw_aBdtoKoiSkuGG4_jDDEqNy1flBKVYpnhXEwG_mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ3/MzE3LTE3NDA1Mjcy/NjYtOTYwMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/u_qZGUapz2gk4Vl89z_Q3mFPGUtg25tO-HV3bzfgTdk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ3/MzE3LTE3NDA1Mjcy/NjYtOTYwMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31247317",
+      "community": {
+        "want": 524,
+        "have": 2086
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31307970,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Urban Outfitters"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87058 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31307970-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/HGQHv1V_fKaCDe2dTuts20OvfvZdlGzF_qiOdfG4iMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA3/OTcwLTE3MzIwNTIy/NjgtMjk3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/TLi5fgo7tp-iM9xUhZK-meSRedOefBWo315QpamjVok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA3/OTcwLTE3MzIwNTIy/NjgtMjk3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31307970",
+      "community": {
+        "want": 654,
+        "have": 1083
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31213885,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock",
+        "Indie Pop"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Turntable Lab",
+        "TTL Editions",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87060 6",
+        "196922870606",
+        "1 96922 87055 2",
+        "196922870552",
+        "C-196922870552-A 280825E1 1906676",
+        "C-196922870552-B 280825E2 1918650"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31213885-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/STqrT3YDpRw5xZMKzd0FlLpvxl_88z8Z2xjaTfvFJIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/ODg1LTE3MjA5MDM2/MDQtNzg1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3TC9RCBKzaWbBJBH79dweaaY4ebODcbKg4CY6VYPHk8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/ODg1LTE3MjA5MDM2/MDQtNzg1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31213885",
+      "community": {
+        "want": 397,
+        "have": 978
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Yellow",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31204618,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "Europe",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "GZ Media"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870552",
+        "1 96922 87055 2",
+        "198704431951",
+        "1 98704 43195 1",
+        "C-196922870552 -A  280825E1  02400966  2398208",
+        "C-196922870552 -B  280825E2  2380965  02411020 ",
+        "C-196922870552 -A  280825E1  2372485  02374679",
+        "C-196922870552 -B  02375050  280825E2  2372482"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31204618-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/LIzubjLUzLY8xlvT5IxNcjlxBlxRC8DVixVGIiZRGbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA0/NjE4LTE3MjA4NDM4/NzgtMTY1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Z6EkY3eOAszcMUJMXKZYh_0wvyWPG1uWSTosKbGEMAA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA0/NjE4LTE3MjA4NDM4/NzgtMTY1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31204618",
+      "community": {
+        "want": 886,
+        "have": 2434
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31214758,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Clairo Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870552"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31214758-Clairo-Charm",
+      "catno": "196922870552",
+      "thumb": "https://i.discogs.com/LKvXzIdffiHtDVwpbNLWhFi3eK8Q4lVyVOlKAq6zUFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE0/NzU4LTE3MjA5MTE1/NzEtOTUzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/beUO2duz4rPgN3vwkEIiGdoLjWcaEmilRThxOhCYXnk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE0/NzU4LTE3MjA5MTE1/NzEtOTUzNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31214758",
+      "community": {
+        "want": 749,
+        "have": 1197
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Purple Marbled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31209607,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock",
+        "Acoustic",
+        "Indie Pop"
+      ],
+      "country": "UK & Europe",
+      "year": "2024",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Universal International Music B.V.",
+        "Clairo Records, LLC",
+        "Clairo Records, LLC",
+        "Allaire Studios",
+        "The Diamond Mine",
+        "Diamond Mine North",
+        "Fred Short Sound",
+        "Electric Lady Studios",
+        "Jensquarters",
+        "The Bunker, Brooklyn",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "1 96922 87053 8",
+        "[Universal logo] 2287053 [Universal logo] AO17424-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9708",
+        "[Universal logo] 2287053 [Universal logo] AO17424-01 manufactured by optimal media GmbH",
+        "IFPI L578",
+        "IFPI 9706"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31209607-Clairo-Charm",
+      "catno": "0019692287053",
+      "thumb": "https://i.discogs.com/S3hY1qahyLSSBzkFbz8JIDatljdkQQ_mf6EYcbLFdV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjA4NzA4/MjgtNTMzNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-F_mAAhH2tK6FoW1JnaB1Ys9EnWndfKMEjh_fBEsW_Q/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjA4NzA4/MjgtNTMzNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31209607",
+      "community": {
+        "want": 759,
+        "have": 1175
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31246951,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock"
+      ],
+      "country": "US",
+      "year": "2024",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Clairo Records",
+        "Good Buddy",
+        "Spotify"
+      ],
+      "type": "release",
+      "barcode": [
+        "196922870576",
+        "196922870552"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31246951-Clairo-Charm",
+      "catno": "C-196922870552",
+      "thumb": "https://i.discogs.com/GH5gAL2KQCnY2vOFKmuDGMXHcZN5oGfsb8G4aIwXFYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ2/OTUxLTE3MjEyMzAw/MDUtNDIwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Zg3i8q_OzhtbDR3SVknPSxFf3wx__CukvrCzmUES8Uo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ2/OTUxLTE3MjEyMzAw/MDUtNDIwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31246951",
+      "community": {
+        "want": 297,
+        "have": 318
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Navy",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31411739,
+      "title": "Clairo (2) - Charm",
+      "master_id": 3540664,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Soft Rock",
+        "Acoustic",
+        "Indie Pop"
+      ],
+      "country": "Worldwide",
+      "year": "2024",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Clairo Records",
+        "Clairo Records, LLC",
+        "Clairo Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "00196922948305",
+        "USA2P2416223",
+        "USA2P2416224",
+        "USA2P2416225",
+        "USA2P2416226",
+        "USA2P2416227",
+        "USA2P2416228",
+        "USA2P2416229",
+        "USA2P2416230",
+        "USA2P2416231",
+        "USA2P2416232",
+        "USA2P2416233"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/3540664",
+      "uri": "/release/31411739-Clairo-Charm",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/isf_cQ_X60bRf31bM7h1-pSg5atxqfs9yepTobKimOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/NzM5LTE3MjI5MDMy/MzgtMTgxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/yKjthaQzD-XOO5ls09gU0E6rRMj4IAhpJMFrvmCNxak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEx/NzM5LTE3MjI5MDMy/MzgtMTgxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31411739",
+      "community": {
+        "want": 51,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-bit, 96 khz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 3540664,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Soft Rock",
+      "Acoustic",
+      "Indie Pop"
+    ],
+    "main_release": 31209607,
+    "most_recent_release": 35000954,
+    "resource_url": "https://api.discogs.com/masters/3540664",
+    "uri": "https://www.discogs.com/master/3540664-Clairo-2-Charm",
+    "versions_url": "https://api.discogs.com/masters/3540664/versions",
+    "main_release_url": "https://api.discogs.com/releases/31209607",
+    "most_recent_release_url": "https://api.discogs.com/releases/35000954",
+    "num_for_sale": 251,
+    "lowest_price": 8.11,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/0cmtJDecFfUD3BduPRepC7aX9tfeulQXXHRDtn58gG8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjA4NzA4/MjgtNTMzNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/0cmtJDecFfUD3BduPRepC7aX9tfeulQXXHRDtn58gG8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjA4NzA4/MjgtNTMzNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/S3hY1qahyLSSBzkFbz8JIDatljdkQQ_mf6EYcbLFdV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjA4NzA4/MjgtNTMzNC5qcGVn.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/A1w0FHfpjIl2f71w7avg9Nqnydm2k-PhB6YcrDGB1_Y/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNDkxNy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/A1w0FHfpjIl2f71w7avg9Nqnydm2k-PhB6YcrDGB1_Y/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNDkxNy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/rA0tOMoYCoS44O1dSTpIXEvdQCfVUPu3Ys8mstvXYbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNDkxNy5qcGVn.jpeg",
+        "width": 600,
+        "height": 463
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nW7dMDU71b60i6oIw_lUhP2ALuPDQ_HqsNTXwFMhp2E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNjU2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/nW7dMDU71b60i6oIw_lUhP2ALuPDQ_HqsNTXwFMhp2E/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNjU2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/7rZ-udd-bbpf-we1klU_P5O0s9-BMdTFQHcpK1FIwZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNjU2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/e-FBqfUwx4GBGtaxoLcOe5SeD_dKuHPS6rnve0YNUcY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNTcxMy5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/e-FBqfUwx4GBGtaxoLcOe5SeD_dKuHPS6rnve0YNUcY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNTcxMy5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/MmYiu5uptDJds-OtW0cMj5ptZN8QkAA7xqSiwePDGi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjItNTcxMy5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EoMcDE4SvuMtU8RhCbSRtsM_B82q4I2GHIOK1sVNC3A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjEtMjExMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EoMcDE4SvuMtU8RhCbSRtsM_B82q4I2GHIOK1sVNC3A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjEtMjExMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qS6xZZpiNV9vOke_Z8EYCNVfSxzFaW_CH9gZO7uvee4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/NjEtMjExMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/kA2yPUJ7eThOwlLbod8oY1erg0NIUTHs-PO_0f5yIBE/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDUw/MzYtMjUwOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/kA2yPUJ7eThOwlLbod8oY1erg0NIUTHs-PO_0f5yIBE/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDUw/MzYtMjUwOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/tTI7FWwv_M91IG5JTcJ8dxYvr0LlOJ3PlVHCFexrZmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDUw/MzYtMjUwOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 466
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/X5pXm4C_Hm-Hfdq9jOAliR0y5ovTsqTOyidrtgp8ffw/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjExMzI4/NzEtOTY2MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/X5pXm4C_Hm-Hfdq9jOAliR0y5ovTsqTOyidrtgp8ffw/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjExMzI4/NzEtOTY2MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/kXoDQkJQFVzZq7vmO1oecf293C-NyZYVi11_BtHBG5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjExMzI4/NzEtOTY2MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 516
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2-SM-9WE4TbkskDMQBl0Ye4WbFNuT_Rp2CFPs5hRacI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/OTItMzU2Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/2-SM-9WE4TbkskDMQBl0Ye4WbFNuT_Rp2CFPs5hRacI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/OTItMzU2Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0_UodWMbhEXWqnuu1l8PKFliIXEWxUrMms3uyNqRJaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA5/NjA3LTE3MjEzMDQ5/OTItMzU2Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2024,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Nomad",
+        "duration": "3:46"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Sexy To Someone",
+        "duration": "3:28"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Second Nature",
+        "duration": "3:47"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Slow Dance",
+        "duration": "3:55"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Thank You",
+        "duration": "3:25"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Terrapin",
+        "duration": "3:00"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Juna",
+        "duration": "3:15"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Add Up My Love",
+        "duration": "3:25"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Echo",
+        "duration": "3:50"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Glory Of The Snow",
+        "duration": "2:51"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Pier 4",
+        "duration": "3:35"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Clairo (2)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 6512329,
+        "resource_url": "https://api.discogs.com/artists/6512329",
+        "thumbnail_url": "https://i.discogs.com/zA7P9q2lgM44lQeoICXNCoPgm7vsKg3bNU5nLS0w7vQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MTIz/MjktMTcyMTE2MTgw/MC00MjkwLnBuZw.jpeg"
+      }
+    ],
+    "title": "Charm",
+    "notes": "2024:\r\nVinyl:\r\n- [url=https://www.discogs.com/release/31204618]Standard Black EU[/url]\r\n- [url=https://www.discogs.com/release/31240957]Standard Black US[/url]\r\n- [url=https://www.discogs.com/release/37385394]Standard Black with Unique Runouts[/url]\r\n- [url=https://www.discogs.com/release/31200277]Purple (Indie Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31337218]OBI Version of Purple (Big Love Records Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31202173]Pink (Rough Trade Exclusive for UK & EU)[/url]\r\n- [url=https://www.discogs.com/release/31307970]Pink (Urban Outfitters Exclusive for US)[/url]\r\n- [url=https://www.discogs.com/release/31208539]Pink & White (Blood Records Exclusive][/url]\r\n- [url=https://www.discogs.com/release/31213885]Yellow (Turntable Lab TTL Editions #146)[/url]\r\n- [url=https://www.discogs.com/release/31214758]Purple Marble (Clairo's Webstore Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31215304]Blue Marble (Clairo's Webstore Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31215022]Maroon (Big Crown Records Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31246951]Navy (Spotify Fans First Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/32375193]Blood Orange Marble (Rough Trade Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/34503301]Test Pressing EU[/url]\r\nCD:\r\n- [url=https://www.discogs.com/release/31209607]UK & EU[/url]\r\n- [url=https://www.discogs.com/release/31311432]UK & EU, Box Set (Clairo's Webstore Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31247317]US[/url]\r\n- [url=https://www.discogs.com/release/36559153]US, Signed (Newbury Comics Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/31225102]Japan, SHM-CD[/url]\r\nCasette:\r\n- [url=https://www.discogs.com/release/31206211]Purple Shell[/url]\r\nFile:\r\n- [url=https://www.discogs.com/release/31200250]AAC, 256 kbps[/url]\r\n- [url=https://www.discogs.com/release/31411739]FLAC, 24-bit, 96 khz[/url]\r\n2025:\r\nVinyl:\r\n- [url=https://www.discogs.com/release/33337991]Pink & White Swirl [Transparent Magenta With Cream] (Blood Records Exclusive][/url]\r\n- [url=https://www.discogs.com/release/34511377]3-Color Stripe [Yellow, Light Blue, Purple], 1st Anniversary (Target Exclusive in US / Retail Exclusive in EU)[/url]\r\n- [url=https://www.discogs.com/release/35000954]3-Color Stripe [Pink, White, Brown], 1st Anniversary (Clairo's Webstore Exclusive)[/url]\r\n- [url=https://www.discogs.com/release/34644664]OBI Version of 3-Color Stripe [Yellow, Light Blue, Purple], 1st Anniversary (Big Love Records Exclusive)[/url]",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Eg4FWiow2Ak",
+        "title": "Clairo - Nomad",
+        "description": "Charm out July 12th\n\nPurchase/Save the album:\nhttps://clairo.lnk.to/charm\n\nFollow Clairo:\nhttps://clairo.com\nhttps://Clairo.lnk.to/Instagram\nhttps://Clairo.lnk.to/Twitter\nhttps://Clairo.lnk.to/Facebook\nhttps://Clairo.lnk.to/Spotify\nhttps://Clairo.lnk.to/A",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=w18NGVqm0bg",
+        "title": "Clairo - Sexy to Someone",
+        "description": "Charm out July 12th\n\nPurchase/Save the album:\nhttps://clairo.lnk.to/charm\n\nFollow Clairo:\nhttps://clairo.com\nhttps://Clairo.lnk.to/Instagram\nhttps://Clairo.lnk.to/Twitter\nhttps://Clairo.lnk.to/Facebook\nhttps://Clairo.lnk.to/Spotify\nhttps://Clairo.lnk.to/A",
+        "duration": 208,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=mU8IqUb_dWs",
+        "title": "Clairo - Second Nature",
+        "description": "Charm out now\n\nPurchase/Save the album:\nhttps://clairo.lnk.to/charm\n\nFollow Clairo:\nhttps://clairo.com\nhttps://Clairo.lnk.to/Instagram\nhttps://Clairo.lnk.to/Twitter\nhttps://Clairo.lnk.to/Facebook\nhttps://Clairo.lnk.to/Spotify\nhttps://Clairo.lnk.to/AppleMu",
+        "duration": 228,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8BH5sxq1yaI",
+        "title": "Clairo - Slow Dance",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 235,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Egb3kRRsOxk",
+        "title": "Clairo - Thank You",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 206,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lZZvilITFdw",
+        "title": "Clairo - Terrapin",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 181,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=i_rw1C9eG_Q",
+        "title": "Clairo - Juna",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 196,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hLrGvkul3_k",
+        "title": "Clairo - Add Up My Love",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 206,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IAyxJ7QBUnI",
+        "title": "Clairo - Echo",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0h5MQIxutNU",
+        "title": "Clairo - Glory Of The Snow",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 171,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DdNsrQXfvDQ",
+        "title": "Clairo - Pier 4",
+        "description": "Charm out now\n\nPurchase/Save the album:\nclairo.lnk.to/charm\n\nFollow Clairo:\nclairo.com\nClairo.lnk.to/Instagram\nClairo.lnk.to/Twitter\nClairo.lnk.to/Facebook\nClairo.lnk.to/Spotify\nClairo.lnk.to/AppleMusic\nClairo.lnk.to/SoundCloud\n\nCredits:\nWritten By: Clair",
+        "duration": 206,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BwX9eTMDkPg",
+        "title": "Clairo - Charm (Album) 2024",
+        "description": "0:00 Nomad\n3:45 Sexy to Someone\n7:13 Second Nature\n11:01 Slow Dance\n14:55 Thank You\n18:21 Terrapin\n21:21 Juna\n24:36 Add Up My Love\n28:01 Echo\n31:51 Glory of the Snow\n34:42 Pier",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 3540664,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Soft Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Acoustic",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}
