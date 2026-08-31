@@ -1,0 +1,418 @@
+{
+  "album_type": "album",
+  "total_tracks": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk"
+  },
+  "href": "https://api.spotify.com/v1/albums/5X0MAnUVN7eEZyO1LjprIk",
+  "id": "5X0MAnUVN7eEZyO1LjprIk",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab764b74918b0adf45fce723",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab764b74918b0adf45fce723",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851ab764b74918b0adf45fce723",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Everything Harmony",
+  "release_date": "2023-05-05",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5X0MAnUVN7eEZyO1LjprIk",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+      },
+      "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+      "id": "7eYZSXnQVCODCVmTV8Hk2T",
+      "name": "The Lemon Twigs",
+      "type": "artist",
+      "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5X0MAnUVN7eEZyO1LjprIk/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 282213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/13G6COhMO4hUKkqTs0xvgH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/13G6COhMO4hUKkqTs0xvgH",
+        "id": "13G6COhMO4hUKkqTs0xvgH",
+        "name": "When Winter Comes Around",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:13G6COhMO4hUKkqTs0xvgH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TriIq6IJXEwLKu44clEb7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TriIq6IJXEwLKu44clEb7",
+        "id": "0TriIq6IJXEwLKu44clEb7",
+        "name": "In My Head",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0TriIq6IJXEwLKu44clEb7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2OkyvqHJxPkBLZIrtSSJQo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2OkyvqHJxPkBLZIrtSSJQo",
+        "id": "2OkyvqHJxPkBLZIrtSSJQo",
+        "name": "Corner Of My Eye",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2OkyvqHJxPkBLZIrtSSJQo",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 171280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ImHLPj7ilfn4dHBFLDone"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ImHLPj7ilfn4dHBFLDone",
+        "id": "0ImHLPj7ilfn4dHBFLDone",
+        "name": "Any Time Of Day",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0ImHLPj7ilfn4dHBFLDone",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oGpWFgiKVcehEy6hw92Sp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oGpWFgiKVcehEy6hw92Sp",
+        "id": "1oGpWFgiKVcehEy6hw92Sp",
+        "name": "What You Were Doing",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1oGpWFgiKVcehEy6hw92Sp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6x5Ea5CLf9Tf2z5kzBwyC2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6x5Ea5CLf9Tf2z5kzBwyC2",
+        "id": "6x5Ea5CLf9Tf2z5kzBwyC2",
+        "name": "I Don\u2019t Belong To Me",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6x5Ea5CLf9Tf2z5kzBwyC2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205253,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Si160S7Zy1SpSTu44uVUf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Si160S7Zy1SpSTu44uVUf",
+        "id": "6Si160S7Zy1SpSTu44uVUf",
+        "name": "Every Day Is The Worst Day Of My Life",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6Si160S7Zy1SpSTu44uVUf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235333,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45wPXWeakcRQ718RhlC3pA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45wPXWeakcRQ718RhlC3pA",
+        "id": "45wPXWeakcRQ718RhlC3pA",
+        "name": "What Happens To A Heart",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:45wPXWeakcRQ718RhlC3pA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bOTX60B40h85Yto5B2RX5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1bOTX60B40h85Yto5B2RX5",
+        "id": "1bOTX60B40h85Yto5B2RX5",
+        "name": "Still It\u2019s Not Enough",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1bOTX60B40h85Yto5B2RX5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1VL8RugnPgkyR7FxirpeL0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VL8RugnPgkyR7FxirpeL0",
+        "id": "1VL8RugnPgkyR7FxirpeL0",
+        "name": "Born To Be Lonely",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1VL8RugnPgkyR7FxirpeL0",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0bU6RVQ109ArcFB2JlGcBe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bU6RVQ109ArcFB2JlGcBe",
+        "id": "0bU6RVQ109ArcFB2JlGcBe",
+        "name": "Ghost Run Free",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0bU6RVQ109ArcFB2JlGcBe",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aIBZz8dwQnWZSKH5fKGWO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aIBZz8dwQnWZSKH5fKGWO",
+        "id": "3aIBZz8dwQnWZSKH5fKGWO",
+        "name": "Everything Harmony",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3aIBZz8dwQnWZSKH5fKGWO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+            },
+            "href": "https://api.spotify.com/v1/artists/7eYZSXnQVCODCVmTV8Hk2T",
+            "id": "7eYZSXnQVCODCVmTV8Hk2T",
+            "name": "The Lemon Twigs",
+            "type": "artist",
+            "uri": "spotify:artist:7eYZSXnQVCODCVmTV8Hk2T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238693,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BeZkZG0g6l5da8E5zijjs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BeZkZG0g6l5da8E5zijjs",
+        "id": "7BeZkZG0g6l5da8E5zijjs",
+        "name": "New To Me",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7BeZkZG0g6l5da8E5zijjs",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2023 Captured Tracks",
+      "type": "C"
+    },
+    {
+      "text": "2023 Captured Tracks",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "817949035839"
+  },
+  "genres": []
+}

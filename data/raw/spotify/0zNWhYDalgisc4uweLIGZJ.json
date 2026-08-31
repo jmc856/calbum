@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+  },
+  "href": "https://api.spotify.com/v1/albums/0zNWhYDalgisc4uweLIGZJ",
+  "id": "0zNWhYDalgisc4uweLIGZJ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2734bfcc1a7e45edf5b608651dc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e024bfcc1a7e45edf5b608651dc",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048514bfcc1a7e45edf5b608651dc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Valentine",
+  "release_date": "2021-11-05",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0zNWhYDalgisc4uweLIGZJ",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+      },
+      "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+      "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+      "name": "Snail Mail",
+      "type": "artist",
+      "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0zNWhYDalgisc4uweLIGZJ/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196173,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RcGoniZzjY3oOatGifYK1",
+        "id": "1RcGoniZzjY3oOatGifYK1",
+        "name": "Valentine",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1RcGoniZzjY3oOatGifYK1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181760,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2S55DmUzdp1n67Y0x0CuoT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2S55DmUzdp1n67Y0x0CuoT",
+        "id": "2S55DmUzdp1n67Y0x0CuoT",
+        "name": "Ben Franklin",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2S55DmUzdp1n67Y0x0CuoT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 192853,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mqceEgI5vhogd5pOAlwUO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mqceEgI5vhogd5pOAlwUO",
+        "id": "5mqceEgI5vhogd5pOAlwUO",
+        "name": "Headlock",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5mqceEgI5vhogd5pOAlwUO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154213,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1arhLLK6PZNd5g4OupOJyZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1arhLLK6PZNd5g4OupOJyZ",
+        "id": "1arhLLK6PZNd5g4OupOJyZ",
+        "name": "Light Blue",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1arhLLK6PZNd5g4OupOJyZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3r9oTks9lv5HvT5ABzxsNc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3r9oTks9lv5HvT5ABzxsNc",
+        "id": "3r9oTks9lv5HvT5ABzxsNc",
+        "name": "Forever (Sailing)",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3r9oTks9lv5HvT5ABzxsNc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 173000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ocqOdnVSxojdhFEodwjl0",
+        "id": "0ocqOdnVSxojdhFEodwjl0",
+        "name": "Madonna",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0ocqOdnVSxojdhFEodwjl0",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5jqwlhDQ6KZyBW5JPZFNcw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5jqwlhDQ6KZyBW5JPZFNcw",
+        "id": "5jqwlhDQ6KZyBW5JPZFNcw",
+        "name": "c. et al.",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5jqwlhDQ6KZyBW5JPZFNcw",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 140760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77fRc8iT858bzRdcR4k8T8",
+        "id": "77fRc8iT858bzRdcR4k8T8",
+        "name": "Glory",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:77fRc8iT858bzRdcR4k8T8",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZXH6YfcouRBWanewWxuuz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ZXH6YfcouRBWanewWxuuz",
+        "id": "6ZXH6YfcouRBWanewWxuuz",
+        "name": "Automate",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6ZXH6YfcouRBWanewWxuuz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+            },
+            "href": "https://api.spotify.com/v1/artists/4QkSD9TRUnMtI8Fq1jXJJe",
+            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
+            "name": "Snail Mail",
+            "type": "artist",
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207093,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1huimz45MXmRscXQX7XQmo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1huimz45MXmRscXQX7XQmo",
+        "id": "1huimz45MXmRscXQX7XQmo",
+        "name": "Mia",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1huimz45MXmRscXQX7XQmo",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2021 Matador Records",
+      "type": "C"
+    },
+    {
+      "text": "2021 Matador Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "191401178556"
+  },
+  "genres": []
+}
