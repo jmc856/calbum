@@ -1,0 +1,634 @@
+{
+  "album_type": "album",
+  "total_tracks": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1PHYzL4Yq4W1GfRahD6W1H"
+  },
+  "href": "https://api.spotify.com/v1/albums/1PHYzL4Yq4W1GfRahD6W1H",
+  "id": "1PHYzL4Yq4W1GfRahD6W1H",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02251adf76d00dcb1356e25b10",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851251adf76d00dcb1356e25b10",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Everything So Far",
+  "release_date": "2015-10-15",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1PHYzL4Yq4W1GfRahD6W1H",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+      },
+      "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+      "id": "2gbT6GPXMis0OAkZbEQCYB",
+      "name": "Pinegrove",
+      "type": "artist",
+      "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1PHYzL4Yq4W1GfRahD6W1H/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 21,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199275,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3UyqyYDgSCPnLKctbtEr0t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3UyqyYDgSCPnLKctbtEr0t",
+        "id": "3UyqyYDgSCPnLKctbtEr0t",
+        "name": "New Friends",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3UyqyYDgSCPnLKctbtEr0t",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 101053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NJqAk406Ro7MGxXsYRMaZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NJqAk406Ro7MGxXsYRMaZ",
+        "id": "4NJqAk406Ro7MGxXsYRMaZ",
+        "name": "Angelina",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4NJqAk406Ro7MGxXsYRMaZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 80489,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0cOSqEFAqgkMJAkUJFzJjQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0cOSqEFAqgkMJAkUJFzJjQ",
+        "id": "0cOSqEFAqgkMJAkUJFzJjQ",
+        "name": "Problems",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0cOSqEFAqgkMJAkUJFzJjQ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 110940,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AIyEFW7aET5gFB0tjRxP9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1AIyEFW7aET5gFB0tjRxP9",
+        "id": "1AIyEFW7aET5gFB0tjRxP9",
+        "name": "Need",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1AIyEFW7aET5gFB0tjRxP9",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 93609,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qaWuAHvesXvBINoIFKgm6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qaWuAHvesXvBINoIFKgm6",
+        "id": "5qaWuAHvesXvBINoIFKgm6",
+        "name": "Overthrown",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5qaWuAHvesXvBINoIFKgm6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247904,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5AAuKBElZ0nDCeGrO4OhMq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5AAuKBElZ0nDCeGrO4OhMq",
+        "id": "5AAuKBElZ0nDCeGrO4OhMq",
+        "name": "Size of the Moon",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5AAuKBElZ0nDCeGrO4OhMq",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191796,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BDRKVuooLvqayamtAEV4z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BDRKVuooLvqayamtAEV4z",
+        "id": "1BDRKVuooLvqayamtAEV4z",
+        "name": "Need 2",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1BDRKVuooLvqayamtAEV4z",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187199,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4MKyQi6Naf1xfDYkrRWR6y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4MKyQi6Naf1xfDYkrRWR6y",
+        "id": "4MKyQi6Naf1xfDYkrRWR6y",
+        "name": "Namesake",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:4MKyQi6Naf1xfDYkrRWR6y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 160684,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DCvyfjYP6vgKVQ0XBiHyf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DCvyfjYP6vgKVQ0XBiHyf",
+        "id": "2DCvyfjYP6vgKVQ0XBiHyf",
+        "name": "V",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2DCvyfjYP6vgKVQ0XBiHyf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243577,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tNl5CDKLkJ245RZqB45on"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tNl5CDKLkJ245RZqB45on",
+        "id": "0tNl5CDKLkJ245RZqB45on",
+        "name": "&",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0tNl5CDKLkJ245RZqB45on",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254351,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1qetWDGEHNxCEtXD8DrwUb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1qetWDGEHNxCEtXD8DrwUb",
+        "id": "1qetWDGEHNxCEtXD8DrwUb",
+        "name": "Unison",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1qetWDGEHNxCEtXD8DrwUb",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200248,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4hGC8LF7HiL45pqIDH141W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hGC8LF7HiL45pqIDH141W",
+        "id": "4hGC8LF7HiL45pqIDH141W",
+        "name": "Palisade",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4hGC8LF7HiL45pqIDH141W",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200043,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tuaMCcO2tlBBWOHkVksGk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tuaMCcO2tlBBWOHkVksGk",
+        "id": "3tuaMCcO2tlBBWOHkVksGk",
+        "name": "The Metronome",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3tuaMCcO2tlBBWOHkVksGk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230991,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1cqg0WAiAX6J80CxovOcME"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cqg0WAiAX6J80CxovOcME",
+        "id": "1cqg0WAiAX6J80CxovOcME",
+        "name": "Mather Knoll",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:1cqg0WAiAX6J80CxovOcME",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 240838,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pkoKOgAvCSOtUXCSn9lEf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pkoKOgAvCSOtUXCSn9lEf",
+        "id": "5pkoKOgAvCSOtUXCSn9lEf",
+        "name": "Over My Shoulder",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5pkoKOgAvCSOtUXCSn9lEf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238515,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1I9XbA5tQLCyV3bhvLPJvT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1I9XbA5tQLCyV3bhvLPJvT",
+        "id": "1I9XbA5tQLCyV3bhvLPJvT",
+        "name": "Peeling off the Bark",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:1I9XbA5tQLCyV3bhvLPJvT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 293479,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BgwM0klwvm14svlLeSHFr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BgwM0klwvm14svlLeSHFr",
+        "id": "3BgwM0klwvm14svlLeSHFr",
+        "name": "Morningtime",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:3BgwM0klwvm14svlLeSHFr",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 275514,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5iWpHhTR6Elmd1x8mPnAR7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5iWpHhTR6Elmd1x8mPnAR7",
+        "id": "5iWpHhTR6Elmd1x8mPnAR7",
+        "name": "Recycling",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:5iWpHhTR6Elmd1x8mPnAR7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 371824,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1XVVxBz2hCyaybwciViLhI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1XVVxBz2hCyaybwciViLhI",
+        "id": "1XVVxBz2hCyaybwciViLhI",
+        "name": "Sunday",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:1XVVxBz2hCyaybwciViLhI",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216309,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ITqXC1aTmM7XjFK9pJNoN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ITqXC1aTmM7XjFK9pJNoN",
+        "id": "7ITqXC1aTmM7XjFK9pJNoN",
+        "name": "On Jet Lag",
+        "track_number": 20,
+        "type": "track",
+        "uri": "spotify:track:7ITqXC1aTmM7XjFK9pJNoN",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+            },
+            "href": "https://api.spotify.com/v1/artists/2gbT6GPXMis0OAkZbEQCYB",
+            "id": "2gbT6GPXMis0OAkZbEQCYB",
+            "name": "Pinegrove",
+            "type": "artist",
+            "uri": "spotify:artist:2gbT6GPXMis0OAkZbEQCYB"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265979,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2WCweVHg0QDiopWyP1adC0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2WCweVHg0QDiopWyP1adC0",
+        "id": "2WCweVHg0QDiopWyP1adC0",
+        "name": "Days",
+        "track_number": 21,
+        "type": "track",
+        "uri": "spotify:track:2WCweVHg0QDiopWyP1adC0",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2015 Pinegrove / R&R",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2015 Pinegrove / R&R",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "811774023566"
+  },
+  "genres": []
+}

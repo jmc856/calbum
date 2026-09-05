@@ -1,0 +1,337 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+  },
+  "href": "https://api.spotify.com/v1/albums/0xWfhCMYmaiCXtLOuyPoLF",
+  "id": "0xWfhCMYmaiCXtLOuyPoLF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273396bd4537ee966711c5bf7de",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02396bd4537ee966711c5bf7de",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851396bd4537ee966711c5bf7de",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "The Head and the Heart",
+  "release_date": "2010",
+  "release_date_precision": "year",
+  "type": "album",
+  "uri": "spotify:album:0xWfhCMYmaiCXtLOuyPoLF",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+      },
+      "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+      "id": "0n94vC3S9c3mb2HyNAOcjg",
+      "name": "The Head And The Heart",
+      "type": "artist",
+      "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0xWfhCMYmaiCXtLOuyPoLF/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 115520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/65b63I81CnJHvUh9P23UfR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/65b63I81CnJHvUh9P23UfR",
+        "id": "65b63I81CnJHvUh9P23UfR",
+        "name": "Cats and Dogs",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:65b63I81CnJHvUh9P23UfR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7pPpktBix6VFxm3D2pNSNK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7pPpktBix6VFxm3D2pNSNK",
+        "id": "7pPpktBix6VFxm3D2pNSNK",
+        "name": "Couer d'Alene",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7pPpktBix6VFxm3D2pNSNK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2mSuo3pB7VknzwD0WCS3RS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2mSuo3pB7VknzwD0WCS3RS",
+        "id": "2mSuo3pB7VknzwD0WCS3RS",
+        "name": "Ghosts",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2mSuo3pB7VknzwD0WCS3RS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 303653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Gtn8HgCAo0TUiaKKgP6us"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Gtn8HgCAo0TUiaKKgP6us",
+        "id": "5Gtn8HgCAo0TUiaKKgP6us",
+        "name": "Down in the Valley",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5Gtn8HgCAo0TUiaKKgP6us",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Q6Kuze3wNMQRjamyBjHUR",
+        "id": "4Q6Kuze3wNMQRjamyBjHUR",
+        "name": "Rivers and Roads",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4Q6Kuze3wNMQRjamyBjHUR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uGPqR2OCNimv0kPiLmA35"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uGPqR2OCNimv0kPiLmA35",
+        "id": "1uGPqR2OCNimv0kPiLmA35",
+        "name": "Honey Come Home",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1uGPqR2OCNimv0kPiLmA35",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259120,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gvAGvbMCRvVDDp8ZaIPV5",
+        "id": "3gvAGvbMCRvVDDp8ZaIPV5",
+        "name": "Lost in My Mind",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3gvAGvbMCRvVDDp8ZaIPV5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 163973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/01NSrsQkOZ3PgRcGLGrOT5",
+        "id": "01NSrsQkOZ3PgRcGLGrOT5",
+        "name": "Winter Song",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:01NSrsQkOZ3PgRcGLGrOT5",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190293,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ABYGT6fB6ocDDYZ7vj4lj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ABYGT6fB6ocDDYZ7vj4lj",
+        "id": "3ABYGT6fB6ocDDYZ7vj4lj",
+        "name": "Sounds Like Hallelujah",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3ABYGT6fB6ocDDYZ7vj4lj",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+            },
+            "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+            "id": "0n94vC3S9c3mb2HyNAOcjg",
+            "name": "The Head And The Heart",
+            "type": "artist",
+            "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 340386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OTZSyRWCb8cYxGU2hWue4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0OTZSyRWCb8cYxGU2hWue4",
+        "id": "0OTZSyRWCb8cYxGU2hWue4",
+        "name": "Heaven Go Easy on Me",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0OTZSyRWCb8cYxGU2hWue4",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "2011 Sub Pop Records",
+      "type": "C"
+    },
+    {
+      "text": "2011 Sub Pop Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "098787091564"
+  },
+  "genres": []
+}

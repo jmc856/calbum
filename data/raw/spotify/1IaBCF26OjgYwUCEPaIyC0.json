@@ -1,0 +1,478 @@
+{
+  "album_type": "album",
+  "total_tracks": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+  },
+  "href": "https://api.spotify.com/v1/albums/1IaBCF26OjgYwUCEPaIyC0",
+  "id": "1IaBCF26OjgYwUCEPaIyC0",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0284be563c5931d7ef35706148",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485184be563c5931d7ef35706148",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "ATLiens",
+  "release_date": "1996-08-27",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:1IaBCF26OjgYwUCEPaIyC0",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+      },
+      "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+      "id": "1G9G7WwrXka3Z1r7aIDjI7",
+      "name": "Outkast",
+      "type": "artist",
+      "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/1IaBCF26OjgYwUCEPaIyC0/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 66133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5katW3JH8JM3jiEdrr2zuR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5katW3JH8JM3jiEdrr2zuR",
+        "id": "5katW3JH8JM3jiEdrr2zuR",
+        "name": "You May Die (Intro)",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5katW3JH8JM3jiEdrr2zuR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 162000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2q8lHMMso6wx6pb5uwqzOs",
+        "id": "2q8lHMMso6wx6pb5uwqzOs",
+        "name": "Two Dope Boyz (In a Cadillac)",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2q8lHMMso6wx6pb5uwqzOs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230693,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vfvGlqCB7oertO5VLE0sz",
+        "id": "2vfvGlqCB7oertO5VLE0sz",
+        "name": "ATLiens",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2vfvGlqCB7oertO5VLE0sz",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qKqRkWnRTXNVWbEOOmGxk",
+        "id": "5qKqRkWnRTXNVWbEOOmGxk",
+        "name": "Wheelz of Steel",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5qKqRkWnRTXNVWbEOOmGxk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251666,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6w4MlvpuxtbjGdL9YeTx89",
+        "id": "6w4MlvpuxtbjGdL9YeTx89",
+        "name": "Jazzy Belle",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6w4MlvpuxtbjGdL9YeTx89",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265200,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2oLwDI8tZUOh6SmTMRRfKs",
+        "id": "2oLwDI8tZUOh6SmTMRRfKs",
+        "name": "Elevators (Me & You)",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2oLwDI8tZUOh6SmTMRRfKs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227533,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1SrDDrw3ZMElLdnTjvWJOg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1SrDDrw3ZMElLdnTjvWJOg",
+        "id": "1SrDDrw3ZMElLdnTjvWJOg",
+        "name": "Ova Da Wudz",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1SrDDrw3ZMElLdnTjvWJOg",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264600,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OkHiYsPJBwhR5Jb0hz9Q1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OkHiYsPJBwhR5Jb0hz9Q1",
+        "id": "1OkHiYsPJBwhR5Jb0hz9Q1",
+        "name": "Babylon",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1OkHiYsPJBwhR5Jb0hz9Q1",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 118706,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nfGrjZf34FxqS0FWXM5B7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7nfGrjZf34FxqS0FWXM5B7",
+        "id": "7nfGrjZf34FxqS0FWXM5B7",
+        "name": "Wailin'",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7nfGrjZf34FxqS0FWXM5B7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 318266,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3lecA86POu0jRaFIubASoT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lecA86POu0jRaFIubASoT",
+        "id": "3lecA86POu0jRaFIubASoT",
+        "name": "Mainstream",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3lecA86POu0jRaFIubASoT",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238360,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5aC5KtkmNBfX1iFX4EVfCO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5aC5KtkmNBfX1iFX4EVfCO",
+        "id": "5aC5KtkmNBfX1iFX4EVfCO",
+        "name": "Decatur Psalm",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5aC5KtkmNBfX1iFX4EVfCO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189040,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50Fp9rUhDZvGJ4UUz4mTwp",
+        "id": "50Fp9rUhDZvGJ4UUz4mTwp",
+        "name": "Millennium",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:50Fp9rUhDZvGJ4UUz4mTwp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186800,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3HTaKftetB9nQ4Vv3KnmvU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3HTaKftetB9nQ4Vv3KnmvU",
+        "id": "3HTaKftetB9nQ4Vv3KnmvU",
+        "name": "E.T. (Extraterrestrial)",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3HTaKftetB9nQ4Vv3KnmvU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 410933,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5oKpqxuTm4kg8BRQwIBFzk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oKpqxuTm4kg8BRQwIBFzk",
+        "id": "5oKpqxuTm4kg8BRQwIBFzk",
+        "name": "13th Floor/Growing Old",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5oKpqxuTm4kg8BRQwIBFzk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+            },
+            "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+            "id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "name": "Outkast",
+            "type": "artist",
+            "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kPOOboEQdkSNC5h3Qj6zo"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kPOOboEQdkSNC5h3Qj6zo",
+            "id": "2kPOOboEQdkSNC5h3Qj6zo",
+            "name": "Organized Noize Productions",
+            "type": "artist",
+            "uri": "spotify:artist:2kPOOboEQdkSNC5h3Qj6zo"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 277426,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3VO93aw7fZhxKk43pr2RTE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VO93aw7fZhxKk43pr2RTE",
+        "id": "3VO93aw7fZhxKk43pr2RTE",
+        "name": "Elevators (Me & You) - ONP 86 Mix",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:3VO93aw7fZhxKk43pr2RTE",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 1996 Arista Records LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "730082602921"
+  },
+  "genres": []
+}

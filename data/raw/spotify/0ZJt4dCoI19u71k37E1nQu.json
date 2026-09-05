@@ -1,0 +1,367 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
+  },
+  "href": "https://api.spotify.com/v1/albums/0ZJt4dCoI19u71k37E1nQu",
+  "id": "0ZJt4dCoI19u71k37E1nQu",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc25254953d3e29508b27363",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc25254953d3e29508b27363",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851dc25254953d3e29508b27363",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "A Written Testimony",
+  "release_date": "2020-03-13",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:0ZJt4dCoI19u71k37E1nQu",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+      },
+      "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+      "id": "0TkqXdyWLsssJH7okthMPQ",
+      "name": "J A Y E L E C T R O N I C A",
+      "type": "artist",
+      "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/0ZJt4dCoI19u71k37E1nQu/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 137004,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lWkreHFTUhYyLy1GRQk7O",
+        "id": "7lWkreHFTUhYyLy1GRQk7O",
+        "name": "The Overwhelming Event",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7lWkreHFTUhYyLy1GRQk7O",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266373,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4T9PRL2ykQDKxgF3XWsPga"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4T9PRL2ykQDKxgF3XWsPga",
+        "id": "4T9PRL2ykQDKxgF3XWsPga",
+        "name": "Ghost Of Soulja Slim",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4T9PRL2ykQDKxgF3XWsPga",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "type": "artist",
+            "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168379,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tnJIJVNuVziKgY38J2HZP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tnJIJVNuVziKgY38J2HZP",
+        "id": "3tnJIJVNuVziKgY38J2HZP",
+        "name": "The Blinding feat. Travis Scott",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3tnJIJVNuVziKgY38J2HZP",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260722,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4B2oBPbkxxmTOuIHmPryic"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4B2oBPbkxxmTOuIHmPryic",
+        "id": "4B2oBPbkxxmTOuIHmPryic",
+        "name": "The Neverending Story",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4B2oBPbkxxmTOuIHmPryic",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+            },
+            "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+            "id": "1W3FSF1BLpY3hlVIgvenLz",
+            "name": "THE-DREAM",
+            "type": "artist",
+            "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243565,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/51u3nlTacgtiWxRQGPd4go"
+        },
+        "href": "https://api.spotify.com/v1/tracks/51u3nlTacgtiWxRQGPd4go",
+        "id": "51u3nlTacgtiWxRQGPd4go",
+        "name": "Shiny Suit Theory feat. The-Dream",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:51u3nlTacgtiWxRQGPd4go",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258560,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4KGh0MZ1dJaTTLsFIRIhb7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KGh0MZ1dJaTTLsFIRIhb7",
+        "id": "4KGh0MZ1dJaTTLsFIRIhb7",
+        "name": "Universal Soldier",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4KGh0MZ1dJaTTLsFIRIhb7",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206505,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1PL4eTnRS9bdjDtPJrmj3Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PL4eTnRS9bdjDtPJrmj3Y",
+        "id": "1PL4eTnRS9bdjDtPJrmj3Y",
+        "name": "Flux Capacitor",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1PL4eTnRS9bdjDtPJrmj3Y",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 94507,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2U5c6C6A3yg6rGUpnhwHfc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2U5c6C6A3yg6rGUpnhwHfc",
+        "id": "2U5c6C6A3yg6rGUpnhwHfc",
+        "name": "Fruits Of The Spirit",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2U5c6C6A3yg6rGUpnhwHfc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+            },
+            "href": "https://api.spotify.com/v1/artists/1W3FSF1BLpY3hlVIgvenLz",
+            "id": "1W3FSF1BLpY3hlVIgvenLz",
+            "name": "THE-DREAM",
+            "type": "artist",
+            "uri": "spotify:artist:1W3FSF1BLpY3hlVIgvenLz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 407506,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4zG69Sedw2TDizSAmOfaYw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4zG69Sedw2TDizSAmOfaYw",
+        "id": "4zG69Sedw2TDizSAmOfaYw",
+        "name": "Ezekiel\u2019s Wheel feat. The-Dream",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4zG69Sedw2TDizSAmOfaYw",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+            "id": "0TkqXdyWLsssJH7okthMPQ",
+            "name": "J A Y E L E C T R O N I C A",
+            "type": "artist",
+            "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 328365,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wJC8qlivbwAx29bnTecSn",
+        "id": "5wJC8qlivbwAx29bnTecSn",
+        "name": "A.P.I.D.T.A.",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5wJC8qlivbwAx29bnTecSn",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2020 Roc Nation, LLC",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2020 Roc Nation, LLC",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00810045110455"
+  },
+  "genres": []
+}
