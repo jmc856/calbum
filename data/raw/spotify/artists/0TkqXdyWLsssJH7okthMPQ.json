@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+  },
+  "href": "https://api.spotify.com/v1/artists/0TkqXdyWLsssJH7okthMPQ",
+  "id": "0TkqXdyWLsssJH7okthMPQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17385ceb1d72a778ce30ccc2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517417385ceb1d72a778ce30ccc2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17817385ceb1d72a778ce30ccc2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "J A Y E L E C T R O N I C A",
+  "type": "artist",
+  "uri": "spotify:artist:0TkqXdyWLsssJH7okthMPQ"
+}

@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+  },
+  "href": "https://api.spotify.com/v1/artists/0n94vC3S9c3mb2HyNAOcjg",
+  "id": "0n94vC3S9c3mb2HyNAOcjg",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad20de0e4a289e3320c2406f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ad20de0e4a289e3320c2406f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ad20de0e4a289e3320c2406f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "The Head And The Heart",
+  "type": "artist",
+  "uri": "spotify:artist:0n94vC3S9c3mb2HyNAOcjg"
+}
