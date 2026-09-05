@@ -1,0 +1,1588 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "730082605328",
+    "artist": "Outkast",
+    "title": "Aquemini",
+    "year": 1998
+  },
+  "results": [
+    {
+      "id": 25578118,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "0730082605328"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/25578118-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/GHNgFirYqivaPVcghn1NlKua-uDyp8e73_nKP3rrzB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTc4/MTE4LTE2NzIxMDM2/NTUtNTk5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kjSGJ-WE6l7panP4eMcD8Y9aplLfpFRmdigSXmj6ylk/rs:fit/g:sm/q:90/h:507/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTc4/MTE4LTE2NzIxMDM2/NTUtNTk5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25578118",
+      "community": {
+        "want": 137,
+        "have": 442
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27453399,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "Arvato, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "0730082605328",
+        "IFPI LP74",
+        "IFPI 0786",
+        "56899763/73008260532RD1 21"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/27453399-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "",
+      "cover_image": "https://st.discogs.com/be24d94f528d12abd3ee121c05a397959cf0754d/images/spacer.gif",
+      "resource_url": "https://api.discogs.com/releases/27453399",
+      "community": {
+        "want": 115,
+        "have": 13
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14984336,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "Arvato, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "0730082605328",
+        "56899763/73008260532RD1 21",
+        "IFPI LP74",
+        "IFPI 10K1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/14984336-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/vPJQTCia4epGSKWIdb7KwyL3fg5SjropDUJLrwC4VcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg0/MzM2LTE1ODUwOTQ0/MDUtODkxNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ONMpSHCufdvtsZlSyvNHXGYGWK4vNV6Vqzo-NtVGKA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg0/MzM2LTE1ODUwOTQ0/MDUtODkxNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14984336",
+      "community": {
+        "want": 242,
+        "have": 270
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26443961,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "BMG Entertainment",
+        "NHP Sound, Inc.",
+        "RCA Records Label",
+        "LaFace Records",
+        "LaFace Records",
+        "Organized Noize Productions, Inc.",
+        "Earthtone",
+        "EMI Gold Horizon Music Corp.",
+        "Organized Noize",
+        "Hitco Music",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "EMI April Music Inc.",
+        "Wu-Tang",
+        "Careers Music",
+        "BMG",
+        "Tick Free Music",
+        "Slic Flo Music",
+        "Cool People Music",
+        "Dungeon Ratz Music",
+        "Assasta Music, Inc.",
+        "Dez Only One Music",
+        "Brown Branches & Green Bottles Music",
+        "Stronghouse",
+        "Point East Music",
+        "Death To The Fakers",
+        "Divine Pimp",
+        "Tribes Of Kedar",
+        "Skelter Sane Music",
+        "Butter Jinx",
+        "Whild Peach Music, Inc.",
+        "God Given Music",
+        "Tree Sound Studios",
+        "Doppler Studios",
+        "The Dungeon Recording Studios",
+        "Ocean Way Recording",
+        "Southern Tracks",
+        "Purple Dragon Studios",
+        "Bosstown Recording Studios",
+        "Doppler Studios",
+        "Patchwerk Recording Studios",
+        "DARP Studios",
+        "Sound On Sound, New York",
+        "Tree Sound Studios",
+        "Bernie Grundman Mastering",
+        "Arista Records, Inc.",
+        "Cinram, Richmond, IN",
+        "Cinram, Richmond, IN"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60532 8",
+        "730082605328",
+        "8608 73008260532 C80904-02 A",
+        "L385",
+        "IFPI 6100"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/26443961-OutKast-Aquemini",
+      "catno": "73008 26053-2",
+      "thumb": "https://i.discogs.com/pGUFdDn7FUVLWTy_bHQL1EjEPhoOFUxsOMnRM8xLaWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/OTYxLTE2NzkwNzg0/NDUtMjY3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y8_WuKTN4N_LDyqUp_jI9D07O-JGH6vfy2SK6MRtJ8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/OTYxLTE2NzkwNzg0/NDUtMjY3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26443961",
+      "community": {
+        "want": 141,
+        "have": 87
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 363625,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Allied DT"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "730082605328",
+        "3171-1-1  ALLIED DT  73008-26053-2*",
+        "IFPI L451"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/363625-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/JeBYuHQZkFrbioBv58t_GAdlCwVMET7sv-ZOdLD2t7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYy/NS0xMzk1OTQ1MTAx/LTYzNzIuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/vXIHxCtzzbnaHTUmoWK1Eh5cLsVid2IwDfk-WguvQTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYy/NS0xMzk1OTQ1MTAx/LTYzNzIuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/363625",
+      "community": {
+        "want": 993,
+        "have": 3093
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18463429,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "JVC Disc America",
+        "JVC Disc America"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "73008260532 8J 14 X",
+        "73008260532 9J 23 X",
+        "IFPI L239",
+        "IFPI 4121",
+        "73008260532 9J 22 X"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/18463429-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/ErCbZyn8-iNCHHNJcWWy-RlGpZQ_YqVRHYe-oUAWBsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDYz/NDI5LTE2MTk0MDg2/MDktMjY0MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aexOxE9JExXQZIYV4cfzWU2b1Ro6CnyK0nUkSIWgX7Q/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDYz/NDI5LTE2MTk0MDg2/MDktMjY0MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18463429",
+      "community": {
+        "want": 271,
+        "have": 751
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34724307,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1999",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Sonopress USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "730082605328",
+        "SONOPRESS USA 73008260532 + + 91778-01",
+        "IFPI L027",
+        "IFPI 1007"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/34724307-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/yfumfTzb7BSuQWut-IBIUzNCZbbLskqGd7CIohheEkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzI0/MzA3LTE3ODA0MzM4/NjctNjUzNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tEGMYcNhqgKUXcNrC-vSOCRnZasiMzgJVGGGrbriUX8/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzI0/MzA3LTE3ODA0MzM4/NjctNjUzNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/34724307",
+      "community": {
+        "want": 62,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23060390,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Sonopress USA",
+        "Sonopress USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "730082605328",
+        "73008260532 [Sonopress Logo] + + D367101",
+        "IFPI LB48"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/23060390-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/vO8SGDMQyi6LLulW2IaJpSXiKqZJNl09LMsY2gP1ozU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDYw/MzkwLTE2NTEyOTI0/NDctNzM4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SqVi42frWuce0DBHcmF0L0JVKFfXwNJU6VXpzQVnTHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDYw/MzkwLTE2NTEyOTI0/NDctNzM4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23060390",
+      "community": {
+        "want": 143,
+        "have": 50
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20719654,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "DIDX-249668  2",
+        "IFPI L327",
+        "IFPI 507C"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/20719654-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/Xxr-0K87jSTanNIe-nx1yWVtPcGI1o5h0juQ5TAVW1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE5/NjU0LTE2MzUxMjU0/NTItODgxMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tt4hwjSsNY-PMx4tqehq9MsMyonTe-u6bbK52szhYQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE5/NjU0LTE2MzUxMjU0/NTItODgxMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20719654",
+      "community": {
+        "want": 160,
+        "have": 45
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29251477,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "BMG",
+        "Arista",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG",
+        "Organized Noize Productions, Inc.",
+        "Earthtone",
+        "Doppler Studios",
+        "Patchwerk Recording Studios",
+        "DARP Studios",
+        "Sound On Sound, New York",
+        "Tree Sound Studios",
+        "Tree Sound Studios",
+        "Doppler Studios",
+        "The Dungeon Recording Studios",
+        "Ocean Way Recording",
+        "Southern Tracks",
+        "Purple Dragon Studios",
+        "Bosstown Recording Studios",
+        "Bernie Grundman Mastering",
+        "EMI Gold Horizon Music Corp.",
+        "Organized Noize",
+        "Hitco Music",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "EMI April Music Inc.",
+        "Wu-Tang",
+        "Careers Music",
+        "BMG",
+        "Tick Free Music",
+        "Slic Flo Music",
+        "Cool People Music",
+        "Dungeon Ratz Music",
+        "Assasta Music, Inc.",
+        "Dez Only One Music",
+        "Brown Branches & Green Bottles Music",
+        "Point East Music",
+        "Death To The Fakers",
+        "Divine Pimp",
+        "Tribes Of Kedar",
+        "Skelter Sane Music",
+        "Butter Jinx",
+        "Whild Peach Music, Inc.",
+        "God Given Music",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60532 8",
+        "730082605328",
+        "LC 3484",
+        "F: BM150",
+        "[Sonopress logo] 50148877/73008260532 23",
+        "IFPI LB 45",
+        "IFPI 0733",
+        "BIEM/GEMA",
+        "BMI",
+        "ASCAP"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/29251477-OutKast-Aquemini",
+      "catno": "73008 26053 2",
+      "thumb": "https://i.discogs.com/ydJAunYHQW_uRupN_JQt2BnAmCcjyE7XCtSuiiKf5rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUx/NDc3LTE3MDM5ODAw/NDYtMzkxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wnny2hPdm-sp9mhNK7udvbx9RRtxO2a4JONJHfKhhdE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUx/NDc3LTE3MDM5ODAw/NDYtMzkxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29251477",
+      "community": {
+        "want": 108,
+        "have": 61
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sonopress",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8781419,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "BMG",
+        "Arista",
+        "BMG Entertainment",
+        "NHP Sound, Inc.",
+        "RCA Records Label",
+        "BMG",
+        "LaFace Records",
+        "LaFace Records",
+        "Organized Noize Productions, Inc.",
+        "Earthtone",
+        "EMI Gold Horizon Music Corp.",
+        "Organized Noize",
+        "Hitco Music",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "EMI April Music Inc.",
+        "Wu-Tang",
+        "Careers Music",
+        "BMG",
+        "Tick Free Music",
+        "Slic Flo Music",
+        "Cool People Music",
+        "Dungeon Ratz Music",
+        "Assasta Music, Inc.",
+        "Dez Only One Music",
+        "Brown Branches & Green Bottles Music",
+        "Stronghouse",
+        "Point East Music",
+        "Death To The Fakers",
+        "Divine Pimp",
+        "Tribes Of Kedar",
+        "Skelter Sane Music",
+        "Butter Jinx",
+        "Whild Peach Music, Inc.",
+        "God Given Music",
+        "Tree Sound Studios",
+        "Doppler Studios",
+        "The Dungeon Recording Studios",
+        "Ocean Way Recording",
+        "Southern Tracks",
+        "Purple Dragon Studios",
+        "Bosstown Recording Studios",
+        "Doppler Studios",
+        "Patchwerk Recording Studios",
+        "DARP Studios",
+        "Sound On Sound, New York",
+        "Tree Sound Studios",
+        "Bernie Grundman Mastering",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60532 8",
+        "730082605328",
+        "BIEM/ GEMA",
+        "BMI",
+        "ASCAP",
+        "LC 3484",
+        "BM150",
+        "Sony DADC A0102275148-0101 13 A00",
+        "IFPI L553",
+        "IFPI 942L"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/8781419-OutKast-Aquemini",
+      "catno": "73008 26053 2",
+      "thumb": "https://i.discogs.com/zKMG-KFPsZljp8K4pcQ6_clgk4ph8akUXmoIfHrXOx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODE0/MTktMTQ2ODY1MjQw/Mi02MTExLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/qYRmPl1sy0hGnSimb1lDxgQlZ8gYph6YQVjOSk8m2qQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODE0/MTktMTQ2ODY1MjQw/Mi02MTExLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8781419",
+      "community": {
+        "want": 375,
+        "have": 449
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24577253,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "Denon Digital Industries"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "*1D* 73008260532 C10 B",
+        "IFPI L431",
+        "IFPI 7482",
+        "*1D* 73008260532 A7 B",
+        "IFPI L431",
+        "IFPI 7493"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/24577253-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/9Ns_LC41gHHOA9tD5WRLd-iMZrDBjms8l-Z4ChRGBJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc3/MjUzLTE2NzE5NDA2/NDYtNDI5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y99iZGbQeMAGwe-7bnpXTIEiUf350xYJYzmwqIVNcPk/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc3/MjUzLTE2NzE5NDA2/NDYtNDI5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24577253",
+      "community": {
+        "want": 136,
+        "have": 54
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3266292,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Music Canada",
+        "BMG Music Canada",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "73008260532",
+        "BMI",
+        "ASCAP",
+        "Cinram",
+        "#980916CC 73008260532 L382 CINRAM",
+        "L382",
+        "IFPI 6000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/3266292-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/VY6WZqhQTTFwolj9ovWAuADH8HSU_pj03kks0y25nH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjYy/OTItMTU2MDAxOTAy/My0zNTIzLnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/ByndjVF_1DEyxr5vGLkKH6jPUC43782jmnEIO9EtLT4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjYy/OTItMTU2MDAxOTAy/My0zNTIzLnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3266292",
+      "community": {
+        "want": 417,
+        "have": 410
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16164489,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Music Canada",
+        "BMG Music Canada",
+        "Earthtone",
+        "EMI Gold Horizon Music Corp.",
+        "Organized Noize",
+        "Hitco Music",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "EMI April Music Inc.",
+        "Wu-Tang",
+        "Careers-BMG Music",
+        "Tick Free Music",
+        "Slic Flo Music",
+        "Cool People Music",
+        "Organized Noize Productions, Inc.",
+        "Dungeon Ratz Music",
+        "Brown Branches & Green Bottles Music",
+        "Stronghouse",
+        "Point East Music",
+        "Death To The Fakers",
+        "Divine Pimp Publishing",
+        "Tribes Of Kedar",
+        "Skelter Sane Music",
+        "Butter Jinx Music",
+        "Whild Peach Music, Inc.",
+        "God Given Music",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26053-2 8",
+        "73008260532",
+        "BMI",
+        "ASCAP",
+        "[Cinram Logo] L387 73008260532 #40125Y16",
+        "L387",
+        "IFPI 6000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/16164489-OutKast-Aquemini",
+      "catno": "73008-26053-2",
+      "thumb": "https://i.discogs.com/FR4u5gHa6CSSmpbxD9GXWB6V2Z5AxBIesPEn8acLoD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY0/NDg5LTE2MDQ4NTkw/NTEtOTM0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3jMeNLccDrgYkPMsiKq6H4oACy7yVrek5oQRTT1gymM/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY0/NDg5LTE2MDQ4NTkw/NTEtOTM0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16164489",
+      "community": {
+        "want": 23,
+        "have": 2
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 402676,
+      "title": "OutKast - Aquemini",
+      "master_id": 25976,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "Europe",
+      "year": "1998",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "BMG",
+        "Arista",
+        "BMG Entertainment",
+        "NHP Sound, Inc.",
+        "RCA Records Label",
+        "BMG",
+        "LaFace Records",
+        "LaFace Records",
+        "Organized Noize Productions, Inc.",
+        "Earthtone",
+        "EMI Gold Horizon Music Corp.",
+        "Organized Noize",
+        "Hitco Music",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "EMI April Music Inc.",
+        "Wu-Tang",
+        "Careers Music",
+        "BMG",
+        "Tick Free Music",
+        "Slic Flo Music",
+        "Cool People Music",
+        "Dungeon Ratz Music",
+        "Assasta Music, Inc.",
+        "Dez Only One Music",
+        "Brown Branches & Green Bottles Music",
+        "Stronghouse",
+        "Point East Music",
+        "Death To The Fakers",
+        "Divine Pimp",
+        "Tribes Of Kedar",
+        "Skelter Sane Music",
+        "Butter Jinx",
+        "Whild Peach Music, Inc.",
+        "God Given Music",
+        "Tree Sound Studios",
+        "Doppler Studios",
+        "The Dungeon Recording Studios",
+        "Ocean Way Recording",
+        "Southern Tracks",
+        "Purple Dragon Studios",
+        "Bosstown Recording Studios",
+        "Doppler Studios",
+        "Patchwerk Recording Studios",
+        "DARP Studios",
+        "Sound On Sound, New York",
+        "Tree Sound Studios",
+        "Bernie Grundman Mastering",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60532 8",
+        "730082605328",
+        "LC 3484",
+        "BM150",
+        "BIEM/ GEMA",
+        "BMI",
+        "ASCAP",
+        "[Sonopress logo] X-3418/3008260532 B",
+        "[Sonopress logo] X-3418/3008260532 A",
+        "[Sonopress logo] X-3418/3008260532 C",
+        "IFPI LB 45",
+        "IFPI L030",
+        "IFPI LB 46",
+        "IFPI 0776",
+        "IFPI 0725",
+        "IFPI 0788",
+        "IFPI 0772",
+        "IFPI 0748",
+        "IFPI 0749",
+        "IFPI 0767",
+        "IFPI 0761",
+        "IFPI 0773"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25976",
+      "uri": "/release/402676-OutKast-Aquemini",
+      "catno": "73008 26053 2",
+      "thumb": "https://i.discogs.com/Oxq7k7-NIyHapHSTmPFriN1L1NPAu_igg7ByJUDqqFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjY3/Ni0xMjg3MjI3ODc0/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/kfUw-ONqoX5DlnscdMKThfNXqXCoFQgo2k8Yg6ERKas/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjY3/Ni0xMjg3MjI3ODc0/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/402676",
+      "community": {
+        "want": 577,
+        "have": 2009
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 25976,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Reggae",
+      "Gangsta",
+      "Soul",
+      "Conscious"
+    ],
+    "main_release": 169325,
+    "most_recent_release": 33862263,
+    "resource_url": "https://api.discogs.com/masters/25976",
+    "uri": "https://www.discogs.com/master/25976-OutKast-Aquemini",
+    "versions_url": "https://api.discogs.com/masters/25976/versions",
+    "main_release_url": "https://api.discogs.com/releases/169325",
+    "most_recent_release_url": "https://api.discogs.com/releases/33862263",
+    "num_for_sale": 331,
+    "lowest_price": 1.74,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Lu0iLwS0rJ3xJr-0N-FGD6x-riN0fcnLAeZnRpS9CJg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MzAy/LTgzODYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/Lu0iLwS0rJ3xJr-0N-FGD6x-riN0fcnLAeZnRpS9CJg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MzAy/LTgzODYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/H56UcC-lNqTCMwnlKPoMbUWRodeDOuNWDTXEq2IWXnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MzAy/LTgzODYuanBlZw.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_I1A5BrLrHauvfdi1JJ52pvDVFPhwfXVir0XG7D3BUc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MjY4/LTU0NDUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/_I1A5BrLrHauvfdi1JJ52pvDVFPhwfXVir0XG7D3BUc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MjY4/LTU0NDUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/XdNFKuhx_FKWvV8n1_1vGMlAtreolIe8O2qmY1jUAP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xNzM2OTQ3MjY4/LTU0NDUuanBlZw.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KewJZWTABo9P9LBnohTGE5hQKp_LIhrAoWZZn1o1wv8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI3OTkw/LTc3OTUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/KewJZWTABo9P9LBnohTGE5hQKp_LIhrAoWZZn1o1wv8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI3OTkw/LTc3OTUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/EY4osr0ekX0VKU5ZPbSuJDxnBeSbLwSqUl3-CHSi3gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI3OTkw/LTc3OTUuanBlZw.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/q9YqIMysO-QDBYLDcLS3-Rxj-kqUyU1DSnISOb8c7Ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI4MDA1/LTI0ODcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/q9YqIMysO-QDBYLDcLS3-Rxj-kqUyU1DSnISOb8c7Ig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI4MDA1/LTI0ODcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/AFhyU5ZogU5eyBuBAsh6YIefpMLD5Hp2urFL1JO34JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMzg3MTI4MDA1/LTI0ODcuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zi7QnCKEzu4Tf4_F0w_RCnR34WRSfWwReRzTuEJ_2sQ/rs:fit/g:sm/q:90/h:510/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzcy/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/zi7QnCKEzu4Tf4_F0w_RCnR34WRSfWwReRzTuEJ_2sQ/rs:fit/g:sm/q:90/h:510/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzcy/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4oPuRDMS8fciE5Aip9swn_s6hSEnfIl0DyihIfcBRcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzcy/LmpwZWc.jpeg",
+        "width": 500,
+        "height": 510
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/2pa9raTQ8uoHeVx5bC_oTdA8CqROLuDr35kX-22_jZ0/rs:fit/g:sm/q:90/h:507/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzc5/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/2pa9raTQ8uoHeVx5bC_oTdA8CqROLuDr35kX-22_jZ0/rs:fit/g:sm/q:90/h:507/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzc5/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Br37Dwvcrc-RZxVzSmOvhMjvG3vSODQ7Gs8_8kTu_UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzc5/LmpwZWc.jpeg",
+        "width": 500,
+        "height": 507
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/OvchqfmlNzheGPmRck721Ibqi2wy3UshmI9e1P-qwWE/rs:fit/g:sm/q:90/h:508/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzg3/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/OvchqfmlNzheGPmRck721Ibqi2wy3UshmI9e1P-qwWE/rs:fit/g:sm/q:90/h:508/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzg3/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/4AHVObGh7qpmDB7mbPxyfXdn9W5r1L0zdS80NSzylcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2Nzg3/LmpwZWc.jpeg",
+        "width": 500,
+        "height": 508
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dgkEBUo6MIsxAgw2waaXjtlNHFU2_oQ6BwUjFVtwgsU/rs:fit/g:sm/q:90/h:511/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2ODAx/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dgkEBUo6MIsxAgw2waaXjtlNHFU2_oQ6BwUjFVtwgsU/rs:fit/g:sm/q:90/h:511/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2ODAx/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/r8udenC20I1zaL64BnpEQmPHsT2gWj9jpM0FDSBismQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/NS0xMjU1ODM2ODAx/LmpwZWc.jpeg",
+        "width": 500,
+        "height": 511
+      }
+    ],
+    "year": 1998,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Hold On, Be Strong",
+        "extraartists": [
+          {
+            "name": "Donny Mathis",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 189276,
+            "resource_url": "https://api.discogs.com/artists/189276"
+          },
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "1:11"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Return Of The \"G\"",
+        "extraartists": [
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "4:49"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Rosa Parks",
+        "extraartists": [
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "5:24"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Skew It On The Bar-B",
+        "extraartists": [
+          {
+            "name": "Raekwon",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 100558,
+            "resource_url": "https://api.discogs.com/artists/100558"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "3:15"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Aquemini",
+        "extraartists": [
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          },
+          {
+            "name": "Erykah Badu",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 10995,
+            "resource_url": "https://api.discogs.com/artists/10995"
+          }
+        ],
+        "duration": "5:19"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Synthesizer",
+        "extraartists": [
+          {
+            "name": "George Clinton",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 29262,
+            "resource_url": "https://api.discogs.com/artists/29262"
+          },
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "5:11"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Slump",
+        "extraartists": [
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "5:09"
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "West Savannah",
+        "extraartists": [
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "4:03"
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Da Art Of Storytellin' (Pt. 1)",
+        "extraartists": [
+          {
+            "name": "David Sheats",
+            "anv": "David \"Mr. DJ\" Sheats",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "3:43"
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Da Art Of Storytellin' (Pt. 2)",
+        "extraartists": [
+          {
+            "name": "David Sheats",
+            "anv": "David \"Mr. DJ\" Sheats",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "2:48"
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Mamacita",
+        "extraartists": [
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "5:52"
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "SpottieOttieDopalicious",
+        "extraartists": [
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "7:07"
+      },
+      {
+        "position": "E1",
+        "type_": "track",
+        "title": "Y'all Scared",
+        "extraartists": [
+          {
+            "name": "Big Gipp",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53121,
+            "resource_url": "https://api.discogs.com/artists/53121"
+          },
+          {
+            "name": "Khujo Goodie",
+            "anv": "Khujo",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 147024,
+            "resource_url": "https://api.discogs.com/artists/147024"
+          },
+          {
+            "name": "T-Mo Goodie",
+            "anv": "T-Moll",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53124,
+            "resource_url": "https://api.discogs.com/artists/53124"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "David \"Mr. DJ\" Sheats",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "4:50"
+      },
+      {
+        "position": "E2",
+        "type_": "track",
+        "title": "Chonkyfire",
+        "extraartists": [
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          }
+        ],
+        "duration": "6:10"
+      },
+      {
+        "position": "F1",
+        "type_": "track",
+        "title": "Nathaniel",
+        "duration": "1:10"
+      },
+      {
+        "position": "F2",
+        "type_": "track",
+        "title": "Liberation",
+        "extraartists": [
+          {
+            "name": "Cee-Lo",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 57770,
+            "resource_url": "https://api.discogs.com/artists/57770"
+          },
+          {
+            "name": "OutKast",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 38561,
+            "resource_url": "https://api.discogs.com/artists/38561"
+          },
+          {
+            "name": "Erykah Badu",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Uncredited]",
+            "tracks": "",
+            "id": 10995,
+            "resource_url": "https://api.discogs.com/artists/10995"
+          }
+        ],
+        "duration": "8:46"
+      }
+    ],
+    "artists": [
+      {
+        "name": "OutKast",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 38561,
+        "resource_url": "https://api.discogs.com/artists/38561",
+        "thumbnail_url": "https://i.discogs.com/4dPQedPP7YrZBQXX4tyrxDJ0pmTQlq3Afgqau7kzN4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NTYx/LTE2NjE4MzU4NjUt/NTY5Ni5qcGVn.jpeg"
+      }
+    ],
+    "title": "Aquemini",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=KwhBreZic8I",
+        "title": "Outkast - SpottieOttieDopaliscious (Animated Music Video)",
+        "description": "Official Animated Video for \"SpottieOttieDopaliscious\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.t",
+        "duration": 430,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=F0tamp9XdqU",
+        "title": "Outkast - Da Art of Storytellin' (Part 1) (Official Video)",
+        "description": "\"Da Art of Storytellin'\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\n\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenID/youtube\n\nFollow Ou",
+        "duration": 234,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 25976,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Reggae",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Gangsta",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Soul",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}

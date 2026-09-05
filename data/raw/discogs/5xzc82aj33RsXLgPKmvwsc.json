@@ -1,0 +1,827 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "677517012156",
+    "artist": "Toro y Moi",
+    "title": "Boo Boo",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 10537809,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records",
+        "Carpark Records",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 012118"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/10537809-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/Ely0Fx-n5Ll6FZ-y6ty7g38qJylQQOb_sKUIOrLH8GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM3/ODA5LTE2NDQ0NTA5/NDgtNDI4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/_w1tPmcFX_bXLTfFT9FvR49PlcYB5-H1Aog7Z_rxuxE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM3/ODA5LTE2NDQ0NTA5/NDgtNDI4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10537809",
+      "community": {
+        "want": 455,
+        "have": 1589
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12430868,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Hostess Entertainment Unlimited",
+        "Carpark Records",
+        "Hostess Entertainment Unlimited",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "4582214516608",
+        "4 582214 516608",
+        "HSE-5184",
+        "IFPI LY21",
+        "IFPI 7602"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/12430868-Toro-Y-Moi-Boo-Boo",
+      "catno": "HSE-5184",
+      "thumb": "https://i.discogs.com/VFcI8C0boWy8d3JdC3lY-QJ7s0kgjQPnRSQ_rOPjFYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMw/ODY4LTE1MzUxNDMw/MDYtMzM5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/M4UUBpsNx78lBOAM_0u3ejSu-1ucWhXZhMHU0WIPSUA/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMw/ODY4LTE1MzUxNDMw/MDYtMzM5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12430868",
+      "community": {
+        "want": 35,
+        "have": 21
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10624908,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Synth-pop",
+        "Dance-pop",
+        "Chillwave"
+      ],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/10624908-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/a9qqgsMHi7rdzQiUvbhEhRrf3COalryHSA841zqDDAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI0/OTA4LTE1MDExNzUz/MDEtMTg1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AJUdui7fBlQNPTtTnWwpqp04KLelp5gX4H28dxw4B5U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI0/OTA4LTE1MDExNzUz/MDEtMTg1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10624908",
+      "community": {
+        "want": 23,
+        "have": 20
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "12",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36608953,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Carpark Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "677517012125",
+        "4 CPK2 70121-2 TEXT AF01",
+        "IFPI LT36"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/36608953-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/GWVQUNb3JQiw-aE-wnm1hFa3juycEQD9W9wFsTcj-Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjA4/OTUzLTE3NzIwMzAw/NDYtODU4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dAs57FyWTidmLzYeVOFETeeP9G3o2cfkF3hxYPvwoCQ/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjA4/OTUzLTE3NzIwMzAw/NDYtODU4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/36608953",
+      "community": {
+        "want": 2,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10514404,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records",
+        "Carpark Records",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "677517012149",
+        "6 77517 01214 9",
+        "LC 23488",
+        "CAK1-70121A 5-99800",
+        "RJ STERLING",
+        "CAK1-70121B 5-998001",
+        "RJ STERLING 5-99201",
+        "CAK1-70121C 5-99802",
+        "RJ STERLING",
+        "CAK1-70121D 5-99803",
+        "RJ STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/10514404-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/Kr0_G3Xf4wDzuPMWhZauUj0nNr570Sgvkh7yUp3pT0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMDk5/NTAtMjg3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/2T9XTPc9uIDyihaIyS2S2ppep0X6wf776s6OLP9BqwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMDk5/NTAtMjg3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10514404",
+      "community": {
+        "want": 583,
+        "have": 1011
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Blue and White Marbled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33625674,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Mistletone Records",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "9332727044915"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/33625674-Toro-Y-Moi-Boo-Boo",
+      "catno": "MIST079",
+      "thumb": "https://i.discogs.com/ELLOJ18pQcnr5AX-YXasTPRQdjMvgOpP_tP2ySoTAYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjI1/Njc0LTE3NDM5OTYz/MTctNTM1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/D_hWBrEjHnFdW53gfx63xjxYLMeGCkY18qt6XqBXAjE/rs:fit/g:sm/q:90/h:557/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjI1/Njc0LTE3NDM5OTYz/MTctNTM1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33625674",
+      "community": {
+        "want": 3,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10528989,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Sterling Sound",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "677517012125",
+        "6 77517 01212 5",
+        "(616229) 4.4.70121.SA.1 01 0001",
+        "IFPI L779",
+        "IFPI KK2Q"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/10528989-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/PnCnbNHexhbQ4lPTdjX4lswDyQVngPFgKb_kbeeZA-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/OTg5LTE0OTkyOTIw/MzItNzkzMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fmDKIHUkQrcQrhcg5RQqevBW4JUF739CitNOJEQJwFo/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/OTg5LTE0OTkyOTIw/MzItNzkzMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10528989",
+      "community": {
+        "want": 80,
+        "have": 216
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10560287,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Experimental"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Vinyl",
+        "LP",
+        "All Media",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered"
+      ],
+      "label": [
+        "Carpark Records",
+        "Vinyl Me, Please",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "677517012132",
+        "CAK1-70121A 5-99800 RT STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/10560287-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/tCQYtfgqFAweHo4jpuYaZpqo3HiPez00NebVNZouWrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYw/Mjg3LTE0OTk4OTk4/MjktNzU4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CNE7tlFFH9jrHYuX9SJIMXti18-vSLfV8Smqw1U7hIA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYw/Mjg3LTE0OTk4OTk4/MjktNzU4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10560287",
+      "community": {
+        "want": 385,
+        "have": 354
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Beige Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pink Marbled",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "descriptions": [
+            "Club Edition",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29760829,
+      "title": "Toro Y Moi - Boo Boo",
+      "master_id": 1205404,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Synth-pop"
+      ],
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Carpark Records",
+        "Carpark Records",
+        "Carpark Records",
+        "Sterling Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 77517 012118",
+        "0677517012118",
+        "LC 23488",
+        "CAK1-70121A  S-99800  RJ STERLING",
+        "CAK1-70121B  S-9980\uf06e1  RJ STERLING S-99801",
+        "CAK1-70121C  S-99802  RJ STERLING",
+        "CAK1-70121D  S-99803  RJ STERLING"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1205404",
+      "uri": "/release/29760829-Toro-Y-Moi-Boo-Boo",
+      "catno": "CAK121",
+      "thumb": "https://i.discogs.com/W8wztgAGw83EvFUzDGNMy4A3BDwhjx8AJTAIgF5uf7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzYw/ODI5LTE3MDc4MzYx/ODQtMjcyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KWlau8VXFyu8uxO6H6pVbNCfhDpPgZiK0vT8n9xfRms/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzYw/ODI5LTE3MDc4MzYx/ODQtMjcyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29760829",
+      "community": {
+        "want": 20,
+        "have": 74
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1205404,
+    "genres": [
+      "Electronic",
+      "Hip Hop",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Synth-pop"
+    ],
+    "main_release": 10514404,
+    "most_recent_release": 24401930,
+    "resource_url": "https://api.discogs.com/masters/1205404",
+    "uri": "https://www.discogs.com/master/1205404-Toro-Y-Moi-Boo-Boo",
+    "versions_url": "https://api.discogs.com/masters/1205404/versions",
+    "main_release_url": "https://api.discogs.com/releases/10514404",
+    "most_recent_release_url": "https://api.discogs.com/releases/24401930",
+    "num_for_sale": 84,
+    "lowest_price": 2.42,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/2T9XTPc9uIDyihaIyS2S2ppep0X6wf776s6OLP9BqwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMDk5/NTAtMjg3My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/2T9XTPc9uIDyihaIyS2S2ppep0X6wf776s6OLP9BqwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMDk5/NTAtMjg3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Kr0_G3Xf4wDzuPMWhZauUj0nNr570Sgvkh7yUp3pT0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMDk5/NTAtMjg3My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tsRQLCuNAoP10AdKvlfQ4LAST2CvRn5enQmQbOY74m0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDctNTAzOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/tsRQLCuNAoP10AdKvlfQ4LAST2CvRn5enQmQbOY74m0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDctNTAzOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jASDTe4uj6JV9ixAnNExyLwsbysQak_oTR0OxoZJPDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDctNTAzOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EuYccOk7oA97kNKCnuIEgLBl6_ArDr8g_-WZe_zG1Go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDgtNTAzNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EuYccOk7oA97kNKCnuIEgLBl6_ArDr8g_-WZe_zG1Go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDgtNTAzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yDryxh9CI7UqQ4r1nWL9VYHl32GNMOG6mmiwTCqd8aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MDgtNTAzNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VRYyd5enDeznq3tViGoscNadmFfZ9UbZsho4SaIRnck/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MjQtNjM0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/VRYyd5enDeznq3tViGoscNadmFfZ9UbZsho4SaIRnck/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MjQtNjM0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/T4saWxCT6efxe9goopFObx5t54Edlkss37_au1eDYTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTQ4/MjQtNjM0OS5qcGVn.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ANbD-uzeNiQNsfg6qati2WWVdUwG7AXKt3AziHOeWLg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMjE4MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ANbD-uzeNiQNsfg6qati2WWVdUwG7AXKt3AziHOeWLg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMjE4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GSBQJyLSG6qr0ASTJOc3QrsDelMmlzxv-nYNtc7dvt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMjE4MC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lYcvhOIKTgVy-ly2u7HLJCISpj0I70PZPZ6KIq7lQ7Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtOTE1Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lYcvhOIKTgVy-ly2u7HLJCISpj0I70PZPZ6KIq7lQ7Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtOTE1Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ACqHnlxNXD7iF_I8-HqSDcGD4jQs764xSzP-x0Er_Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtOTE1Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zt6tR2odzAHvSt7Mm8mUGxAOXPHMhvYH4HQF42UBN08/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMzg3MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/zt6tR2odzAHvSt7Mm8mUGxAOXPHMhvYH4HQF42UBN08/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMzg3MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/GRkuit7lcF_Op7XqcSrvQq1t3ywdszAxG49si3iaN_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMzg3MS5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/voeidJc6qtAsMQm2mFmTknYPEaAEjX4pLiTbpVultEs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMTM3MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/voeidJc6qtAsMQm2mFmTknYPEaAEjX4pLiTbpVultEs/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMTM3MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zvGEaPJ44K-_qlyQjgdSztJNM79Z2Zk1UVPmVuyCdx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTkwMTUw/ODAtMTM3MC5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VU_SLH_GktWFkomF3wOMBF6QKC0gKFOHpAZHhfEGKAk/rs:fit/g:sm/q:90/h:600/w:556/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjMtMzI0MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/VU_SLH_GktWFkomF3wOMBF6QKC0gKFOHpAZHhfEGKAk/rs:fit/g:sm/q:90/h:600/w:556/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjMtMzI0MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/vLyy8P-9gAkmMvPB03q5JwNPMoTjLyOrZr_hs12bNIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjMtMzI0MC5qcGVn.jpeg",
+        "width": 556,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bX95bLsTnbwQAU4mTSgytcsPrBbjMcYHAo4b_dqnw4E/rs:fit/g:sm/q:90/h:384/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjUtMTY3My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/bX95bLsTnbwQAU4mTSgytcsPrBbjMcYHAo4b_dqnw4E/rs:fit/g:sm/q:90/h:384/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjUtMTY3My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lUJdo1EJHsX_xtyLCtgNvNjnFkE7dVlxHHj-USNsxcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjUtMTY3My5qcGVn.jpeg",
+        "width": 600,
+        "height": 384
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jf1snT1BD5CZAycd2UEoc8b2gF5smKyud4mcMwKumrw/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjQtODExMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jf1snT1BD5CZAycd2UEoc8b2gF5smKyud4mcMwKumrw/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjQtODExMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/v4SLJRWZhk-uZ25R09mw6xm5LsMGAqkow4ZNKzxA6lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/NDA0LTE0OTk0Njk4/NjQtODExMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 392
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Mirage",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "No Show",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Mona Lisa",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Pavement",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Don't Try",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Windows",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "Embarcadero",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Girl Like You",
+        "duration": ""
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "You and I",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Labyrinth",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Inside My Head",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "type_": "track",
+        "title": "W.I.W.W.T.W.",
+        "duration": ""
+      },
+      {
+        "position": "D4",
+        "type_": "track",
+        "title": "(Be)",
+        "extraartists": [
+          {
+            "name": "Madeline Kenney",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 5268424,
+            "resource_url": "https://api.discogs.com/artists/5268424"
+          }
+        ],
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Toro Y Moi",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1362799,
+        "resource_url": "https://api.discogs.com/artists/1362799",
+        "thumbnail_url": "https://i.discogs.com/X0ViVL2odEGgYA5WCDgf_k8tzmfy2EKSMksYii3MtE4/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNjI3/OTktMTcyNTgxNjMy/Ny0xODYyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Boo Boo",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=9rPOuZ4vY50",
+        "title": "Toro y Moi - \"Boo Boo\" (album stream)",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\nToro y Moi's album, \"Boo Boo,\" is out now on Carpark Records.\n\nAVAILABLE HERE \ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smarturl.it/booboo_itunes\namazon - http://smartu",
+        "duration": 2962,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=jLbpMxZwZ-c",
+        "title": "Toro y Moi - \"No Show\" (official music video)",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\n\"No Show\" is taken from Toro y Moi's album \"Boo Boo\", available now on Carpark Records.\n\nAVAILABLE HERE\ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smarturl.it/booboo_itun",
+        "duration": 342,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=L1XOT9h33mE",
+        "title": "Toro y Moi - \"Pavement\" (official music video)",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\n\"Pavement\" is taken from Toro y Moi's album, \"Boo Boo,\" out now on Carpark Records.\n\nAVAILABILE HERE\ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smarturl.it/booboo_itunes\n",
+        "duration": 139,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=-7wtAlDxT5s",
+        "title": "Toro y Moi - \"Windows\" (official music video)",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\n\"Windows\" is taken from Toro y Moi's album, \"Boo Boo,\" out now on Carpark Records.\n\nAVAILABILE HERE\ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smarturl.it/booboo_itunes\na",
+        "duration": 247,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Fg7r4kQUbPw",
+        "title": "Toro y Moi - \"Girl Like You\"",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\n\"Girl Like You\" is taken from Toro y Moi's forthcoming album, \"Boo Boo,\" out July 7th, 2017 on Carpark Records.\n\nPRE-ORDER\ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smar",
+        "duration": 261,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=huA5-ViXEoo",
+        "title": "Toro y Moi - \"You and I\" (official music video)",
+        "description": "Outer Peace Tour 2018 on sale now. https://toroymoi.com/shows\n\n\"You and I\" is taken from Toro y Moi's forthcoming album, \"Boo Boo,\" out July 7th, 2017 on Carpark Records.\n\nPRE-ORDER\ncarpark shop - http://smarturl.it/booboo_carpark\nitunes - http://smarturl",
+        "duration": 222,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1205404,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Synth-pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

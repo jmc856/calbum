@@ -1,0 +1,1451 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602435648569",
+    "artist": "Taylor Swift",
+    "title": "evermore",
+    "year": 2020
+  },
+  "results": [
+    {
+      "id": 29181202,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Republic Records",
+        "Taylor Swift"
+      ],
+      "type": "release",
+      "barcode": [
+        "1544275966"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/29181202-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/iLJox8Luu0NHATv1sfedsJfXyf8S9LnvYnzc70B5qg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MjAyLTE3MDIzODEx/OTQtNTAxOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NBJppdLHJp9L6Ohzx0no9dsRxMJTz8e2hk-E5ekcgD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MjAyLTE3MDIzODEx/OTQtNTAxOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29181202",
+      "community": {
+        "want": 12,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps, Clean",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16889199,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Mexico",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Republic Records",
+        "Universal Music M\u00e9xico, S.A. de C.V.",
+        "Taylor Swift",
+        "Taylor Swift",
+        "UMG Commercial Services",
+        "Universal Music M\u00e9xico, S.A. de C.V."
+      ],
+      "type": "release",
+      "barcode": [
+        "602435648583",
+        "6 02435 64858 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16889199-Taylor-Swift-Evermore",
+      "catno": "602435648583",
+      "thumb": "https://i.discogs.com/kdzNamVweI7QkESNxuII4IpzgdPcvRQAr1Xxae1OXnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg5/MTk5LTE2MTk1ODY3/NjMtNDEwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pLKKVJws-Q_KZVHVRpFuQ_8wgSIxzZ1WR4BLA4Wc1B8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg5/MTk5LTE2MTk1ODY3/NjMtNDEwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16889199",
+      "community": {
+        "want": 139,
+        "have": 1046
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29888371,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/29888371-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-hpcdyxZqFTJmEOkNW7p9kFZ4Nx94FV8TZtZ4R3mR9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg4/MzcxLTE3MDg2MzA1/ODktOTA4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iiCSUJSsocGy3vV4q-LalNElFaDr9DG2R1ND6r6Df4Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg4/MzcxLTE3MDg2MzA1/ODktOTA4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29888371",
+      "community": {
+        "want": 11,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "24Bit - 88.2kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16424562,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16424562-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/EmIbfxp6oFI6hO3UUpYfS8nDhq3A-BE-fJF0YWGgoBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/NTYyLTE2MDc2Njc2/MzItNzM5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7oiyCA1a4gvBRtDMuCtdB68y1plOt1FQwGJuAPOmB3Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/NTYyLTE2MDc2Njc2/MzItNzM5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16424562",
+      "community": {
+        "want": 70,
+        "have": 68
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16436274,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16436274-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/uy4fAdJdY0No0w4xM_coR9iBZfF6x1L1vfhRVdvq0No/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDM2/Mjc0LTE2MDc3Mjgz/OTktOTM0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gMRvoZZ4qiswpR0VGWg2tErk2N5yfDAnjsCURkW-lSo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDM2/Mjc0LTE2MDc3Mjgz/OTktOTM0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16436274",
+      "community": {
+        "want": 57,
+        "have": 8
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "Clean Version 16-Bit 44.1 kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37380108,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "ALAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Taylor Swift Music"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/37380108-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Ea4jdLfI5_TRnaVOR_ibf1Q_0wsmUYEc84xTbCmdfK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgw/MTA4LTE3NzkxNTQw/NDMtNjQ5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jV7K7Q1R3oqolTB7VdlgfXUu1NwdBgdfCWYU8pAdvAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgw/MTA4LTE3NzkxNTQw/NDMtNjQ5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/37380108",
+      "community": {
+        "want": 2,
+        "have": 1
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "16-Bit/44.1 kHz",
+          "descriptions": [
+            "ALAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16425597,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16425597-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/VaOcAYSgMuyD3RDX2Css0RXuig26yCFQNtAzvh1zG4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI1/NTk3LTE2MDc2Nzc4/MzYtNDk1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/8y3xrgApFc2gcyaaf9L0iVlxKnYTJuz249-eohOFGUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI1/NTk3LTE2MDc2Nzc4/MzYtNDk1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16425597",
+      "community": {
+        "want": 207,
+        "have": 240
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "24-Bit 88.2 kHz",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16581441,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Australasia",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Republic Records",
+        "Taylor Swift",
+        "Taylor Swift",
+        "Universal Music Australia",
+        "Universal Music Australia",
+        "Technicolor, Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02435 64858 3",
+        "602435648583",
+        "B003340502 EVERMORE 03 [Technicolor logo] ",
+        "ifpi L285",
+        "IFPI 4687"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16581441-Taylor-Swift-Evermore",
+      "catno": "B003340502",
+      "thumb": "https://i.discogs.com/z1DEQ5K05xTDoAa1Kk4xGhcThwhH-RzYfymYQJHeuyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTgx/NDQxLTE2MDg2MTM4/NDUtNDQxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jVYsLtNArMGUV4MjJOQ35rwfXbcVAvHldfK4Q_bi9Z4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTgx/NDQxLTE2MDg2MTM4/NDUtNDQxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16581441",
+      "community": {
+        "want": 175,
+        "have": 970
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16535520,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Republic Records",
+        "UMG Commercial Services",
+        "Taylor Swift",
+        "Taylor Swift",
+        "TASRM Publishing",
+        "TASRM Publishing",
+        "Songs of Universal, Inc.",
+        "Ingrid Stella Music",
+        "Sony/ATV Tunes LLC",
+        "William Bowery Music Publishing",
+        "Ducky Donath Music",
+        "April Base Publishing",
+        "Kobalt Songs Music Publishing",
+        "Justin Deyarmond Edison Vernon",
+        "Sony/ATV Songs LLC",
+        "Long Pond",
+        "Rough Customer Studio",
+        "Kitty Committee Studio",
+        "The Dwelling",
+        "La Ga\u00eet\u00e9 Lyrique",
+        "Bone Hollow Recording",
+        "Salon Studio, St. Paul, MN",
+        "April Base",
+        "Electric Lady Studios",
+        "Conway Studios",
+        "Pleasure Hill Recording",
+        "Restoration Sound",
+        "Sound House Studios",
+        "Hook & Fade Studios",
+        "Long Pond",
+        "MixStar Studios",
+        "Sterling Sound",
+        "Technicolor, Guadalajara, Mexico",
+        "Technicolor, Guadalajara, Mexico",
+        "Hutchinson Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02435 64858 3",
+        "602435648583",
+        "(1158853) B003340502 04 0001",
+        "IFPI L779",
+        "IFPI KKAY",
+        "(1158853) B003340502 06 0001",
+        "IFPILV77",
+        "IFPI KK0E",
+        "(1158853) B003340502 03 0001",
+        "IFPI LV86",
+        "IFPI KK01",
+        "(1158853) B003340502 04 0001",
+        "IFPI L779",
+        "IFPI KKBX",
+        "(1158853) B003340502 05 0201",
+        "IFPI L779",
+        "IFPI KKTE",
+        "(1158853) B003340502 05 0101",
+        "IFPI L779",
+        "IFPI KK3K",
+        "(1158853) B003340502 05 0101",
+        "IFPI L779",
+        "IFPI KK20",
+        "(1158853) B003340502 05 0105",
+        "IFPI  L779",
+        "IFPI KKBB",
+        "(1158853) B003340502 04 0204",
+        "IFPI L779",
+        "IFPI KKAY",
+        "(1158853) B003340502 01 0001",
+        "IFPI LW86",
+        "IFPI KKTN"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16535520-Taylor-Swift-Evermore",
+      "catno": "B0033405-02",
+      "thumb": "https://i.discogs.com/gp3I9S2XzR9yoc6J3Y_7rsx4CUCqGXJmWhaAWHhmskQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM1/NTIwLTE2MDg0NzU0/MjItNjgxMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4xdK75uTjO7PzlsaZDjPo93RXpgqFNHPFgYW7bF-yEo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM1/NTIwLTE2MDg0NzU0/MjItNjgxMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16535520",
+      "community": {
+        "want": 925,
+        "have": 9441
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16601034,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Pop",
+        "Acoustic",
+        "Ballad",
+        "Folk"
+      ],
+      "country": "Europe",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Republic Records",
+        "Taylor Swift",
+        "Taylor Swift",
+        "Universal International Music B.V.",
+        "TASRM Publishing",
+        "Songs of Universal, Inc.",
+        "Ingrid Stella Music",
+        "Sony/ATV Tunes LLC",
+        "William Bowery Music Publishing",
+        "Sony/ATV Songs LLC",
+        "Ducky Donath Music",
+        "Cortelyou Publishing",
+        "BMG Rights Management (US) LLC",
+        "April Base Publishing",
+        "Kobalt Songs Music Publishing",
+        "Justin Deyarmond Edison Vernon",
+        "Long Pond",
+        "Electric Lady Studios",
+        "Rough Customer Studio",
+        "Hook & Fade Studios",
+        "Pleasure Hill Recording",
+        "Sound House Studios",
+        "Firehouse 12",
+        "Ariel's House, Los Angeles, CA",
+        "Salon Studio, St. Paul, MN",
+        "Scarlet Pimpernel, Devon",
+        "Kitty Committee Studio",
+        "Knobworld",
+        "April Base",
+        "Bone Hollow Recording",
+        "Long Pond",
+        "Sterling Sound",
+        "Sony DADC",
+        "Hutchinson Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02435 64858 3",
+        "602435648583",
+        "BIEM/SDRM",
+        "[Universal Logo] 00602435648583 A0103296511-0101 82 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 11 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 67 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 115 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 11 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 93 A00",
+        "[Universal Logo] 00602435648583 A0103296511-0101 33 A00",
+        "IFPI L552",
+        "IFPI L551",
+        "IFPI L557",
+        "IFPI L555",
+        "IFPI L551",
+        "IFPI L553",
+        "IFPI L553",
+        "IFPI 943P",
+        "IFPI 941Q",
+        "IFPI 947T",
+        "IFPI 944P",
+        "IFPI 947P",
+        "IFPI 94K6",
+        "IFPI 94Y4"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16601034-Taylor-Swift-Evermore",
+      "catno": "00602435648583",
+      "thumb": "https://i.discogs.com/o8TIC6jgnVHKzsTg7MSwwa9-fRygYcaRzJfsLm1pnCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAx/MDM0LTE2MDg4MDQ4/OTUtOTM4Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MOtHCmTFzKJGWi5YRWPgXI_XihxxXGbmx9C_1-u1qkE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAx/MDM0LTE2MDg4MDQ4/OTUtOTM4Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16601034",
+      "community": {
+        "want": 466,
+        "have": 6911
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17169859,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Republic Records",
+        "Taylor Swift"
+      ],
+      "type": "release",
+      "barcode": [
+        "1547315522"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/17169859-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/PYkW-aTuAM4VIWPv6R7FDJQG2hn3FsTRAn5rus8BjDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/ODU5LTE3MDIzODAz/NTMtMzQ5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tBo2lgu3qhOl1w2JCbvTW4jlKpViyFXF2DJW0F9b-wo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/ODU5LTE3MDIzODAz/NTMtMzQ5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17169859",
+      "community": {
+        "want": 51,
+        "have": 28
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17169922,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/17169922-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-b7mjFDc9HvVoASTzcyD788Pjzsz4O5hrwyIyXWOuVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/OTIyLTE2MTE5NjM5/NjctOTYzOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Mf5EiXxWZubGoue6ClZi50UE_7HvDJHsls2HwFGzGBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY5/OTIyLTE2MTE5NjM5/NjctOTYzOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17169922",
+      "community": {
+        "want": 50,
+        "have": 24
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "17",
+          "text": "24-Bit 88.2 kHz",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Deluxe Edition",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16415526,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Republic Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16415526-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/ddKbYF6X7MccG9ecyj8V85lBPzuTdme3iR2WyB2fFSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE1/NTI2LTE2MDc2MTA5/OTMtMjU1Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vUSsM18wStM5zEuR3euNR6UUOp74VE6gYUJLxFg80No/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE1/NTI2LTE2MDc2MTA5/OTMtMjU1Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16415526",
+      "community": {
+        "want": 262,
+        "have": 389
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16428204,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk"
+      ],
+      "country": "Worldwide",
+      "year": "2020",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Republic Records",
+        "Taylor Swift"
+      ],
+      "type": "release",
+      "barcode": [
+        "1544268281"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16428204-Taylor-Swift-Evermore",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Hj0zD2ChwniQuDfilBm2oRpG5cHTMrEmnN8UaRmO9ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI4/MjA0LTE3MDIzODAz/MzctNjQ5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/l5ioWzNdaBQR0jv9hbUiSXo2AJGH_eAt9rS1IzXGvGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI4/MjA0LTE3MDIzODAz/MzctNjQ5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16428204",
+      "community": {
+        "want": 556,
+        "have": 1135
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16618410,
+      "title": "Taylor Swift - Evermore",
+      "master_id": 1863903,
+      "genre": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2020",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Republic Records",
+        "UMG Commercial Services"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02435 64900 9"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1863903",
+      "uri": "/release/16618410-Taylor-Swift-Evermore",
+      "catno": "B0033404-02",
+      "thumb": "https://i.discogs.com/RR_9vuR67m0IyL5-KrUwHfAA51XX5jrLXqdU9yi9zBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE4/NDEwLTE3Mjg2MjQy/MzMtOTI5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iFFaNaPZwUJxDLJ0CoZtOUbPvWzStjCKtm2yeijzuxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE4/NDEwLTE3Mjg2MjQy/MzMtOTI5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16618410",
+      "community": {
+        "want": 186,
+        "have": 1350
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Clean Edition",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1863903,
+    "genres": [
+      "Rock",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk"
+    ],
+    "main_release": 16428204,
+    "most_recent_release": 36257245,
+    "resource_url": "https://api.discogs.com/masters/1863903",
+    "uri": "https://www.discogs.com/master/1863903-Taylor-Swift-Evermore",
+    "versions_url": "https://api.discogs.com/masters/1863903/versions",
+    "main_release_url": "https://api.discogs.com/releases/16428204",
+    "most_recent_release_url": "https://api.discogs.com/releases/36257245",
+    "num_for_sale": 599,
+    "lowest_price": 1.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/l5ioWzNdaBQR0jv9hbUiSXo2AJGH_eAt9rS1IzXGvGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI4/MjA0LTE3MDIzODAz/MzctNjQ5NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/l5ioWzNdaBQR0jv9hbUiSXo2AJGH_eAt9rS1IzXGvGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI4/MjA0LTE3MDIzODAz/MzctNjQ5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Hj0zD2ChwniQuDfilBm2oRpG5cHTMrEmnN8UaRmO9ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI4/MjA0LTE3MDIzODAz/MzctNjQ5NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Willow",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:34"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Champagne Problems",
+        "extraartists": [
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          },
+          {
+            "name": "William Bowery",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 8036691,
+            "resource_url": "https://api.discogs.com/artists/8036691"
+          }
+        ],
+        "duration": "4:04"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Gold Rush",
+        "extraartists": [
+          {
+            "name": "Jack Antonoff",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 585619,
+            "resource_url": "https://api.discogs.com/artists/585619"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:05"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "\u2018Tis The Damn Season",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:49"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Tolerate It",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "4:05"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "No Body, No Crime",
+        "extraartists": [
+          {
+            "name": "Haim (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 2870871,
+            "resource_url": "https://api.discogs.com/artists/2870871"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Happiness",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "5:15"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Dorothea",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Coney Island",
+        "extraartists": [
+          {
+            "name": "The National",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 261537,
+            "resource_url": "https://api.discogs.com/artists/261537"
+          },
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Bryce Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 511190,
+            "resource_url": "https://api.discogs.com/artists/511190"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          },
+          {
+            "name": "William Bowery",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 8036691,
+            "resource_url": "https://api.discogs.com/artists/8036691"
+          }
+        ],
+        "duration": "4:35"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Ivy",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Jack Antonoff",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 585619,
+            "resource_url": "https://api.discogs.com/artists/585619"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "4:20"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Cowboy Like Me",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "4:35"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Long Story Short",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Marjorie",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "4:17"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Closure",
+        "extraartists": [
+          {
+            "name": "Aaron Dessner",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436584,
+            "resource_url": "https://api.discogs.com/artists/436584"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "duration": "3:00"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Evermore",
+        "extraartists": [
+          {
+            "name": "Bon Iver",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1042739,
+            "resource_url": "https://api.discogs.com/artists/1042739"
+          },
+          {
+            "name": "Justin Vernon",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 818925,
+            "resource_url": "https://api.discogs.com/artists/818925"
+          },
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          },
+          {
+            "name": "William Bowery",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 8036691,
+            "resource_url": "https://api.discogs.com/artists/8036691"
+          }
+        ],
+        "duration": "5:04"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1124645,
+        "resource_url": "https://api.discogs.com/artists/1124645",
+        "thumbnail_url": "https://i.discogs.com/_X-FjwbVIHe5l1FvnpdLAQbCzeJzr6Kc3wXiBqJJ_qg/rs:fit/g:sm/q:90/h:416/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMjQ2/NDUtMTc4ODUzMjM4/OS03ODI1LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Evermore",
+    "notes": "Vinyl:\r\n\r\nOfficially released with two variants:\r\n- Green vinyl edition\r\n- Target exclusive Red vinyl\r\n\r\nDifferent manufacturers have released pressings with various differences:\r\n[l523699], Canada: \r\n- Opaque Red, 2021 Target exclusive\r\n- Opaque Green, 2021 US webstore exclusive\r\n- Translucent Green, 2021 US standard retail edition\r\n[l56025], France:\r\n- Translucent Red, 2021 Target exclusive\r\n- Translucent Green, 2021 US standard retail edition\r\n- Opaque Green, 2021 EU exclusive\r\n- Opaque Green, 2023 EU exclusive, repress\r\n[l430654], Czech Republic:\r\n- Translucent Red, Target exclusive\r\n- Translucent Green, US exclusive\r\n- Transparent Green, 2023 US exclusive, repress\r\n- Opaque Green, 2023 EU exclusive, repress",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=RsEZmictANA",
+        "title": "Taylor Swift - willow (Official Music Video)",
+        "description": "Official music video by Taylor Swift performing \u201cwillow\u201d \u2013 off her evermore album. \nListen to the album here: https://taylor.lnk.to/evermorealbum\n\nGet tickets to Taylor Swift | The Eras Tour concert film in theaters October 13: http://taylor.lnk.to/TSTheE",
+        "duration": 253,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1863903,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

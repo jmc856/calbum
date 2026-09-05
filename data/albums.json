@@ -356,8 +356,19 @@
       "The Head And The Heart"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273396bd4537ee966711c5bf7de",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 328805,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "0xWfhCMYmaiCXtLOuyPoLF",
     "release_date": "2010-01-01",
     "release_year": 2010,
@@ -594,8 +605,14 @@
       "Outkast"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 25965,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      }
+    ],
     "id": "1IaBCF26OjgYwUCEPaIyC0",
     "release_date": "1996-08-27",
     "release_year": 1996,
@@ -660,8 +677,19 @@
       "Pinegrove"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 879793,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1PHYzL4Yq4W1GfRahD6W1H",
     "release_date": "2015-10-15",
     "release_year": 2015,
@@ -932,8 +960,39 @@
       "Taylor Swift"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1777815,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Vocal",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Ballad",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "1pzvBxYgT6OVwJLtHkrdQK",
     "release_date": "2020-08-18",
     "release_year": 2020,
@@ -1432,8 +1491,14 @@
       "EARTHGANG"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27355bdf1c04317b3d8ba716750",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1649887,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2JtlTPzThXs3Pvz8V2iBIB",
     "release_date": "2019-09-06",
     "release_year": 2019,
@@ -1575,8 +1640,29 @@
       "Taylor Swift"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1863903,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Folk, World, & Country",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Folk",
+        "source": "discogs_search"
+      }
+    ],
     "id": "2Xoteh7uEpea4TohMxjtaq",
     "release_date": "2020-12-11",
     "release_year": 2020,
@@ -1842,8 +1928,44 @@
       "Outkast"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 26124,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Gangsta",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "P.Funk",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Crunk",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_style"
+      }
+    ],
     "id": "2tm3Ht61kqqRZtIYsBjxEj",
     "release_date": "2000-10-31",
     "release_year": 2000,
@@ -2774,8 +2896,34 @@
       "Outkast"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 25976,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_genre"
+      },
+      {
+        "kind": "style",
+        "name": "Reggae",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Gangsta",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Soul",
+        "source": "discogs_style"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_style"
+      }
+    ],
     "id": "5ceB3rxgXqIRpsOvVzTG28",
     "release_date": "1998-09-29",
     "release_year": 1998,
@@ -2967,8 +3115,29 @@
       "Toro y Moi"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5795e055e8f164f2a31b395",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1205404,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Synth-pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5xzc82aj33RsXLgPKmvwsc",
     "release_date": "2017-07-07",
     "release_year": 2017,
@@ -3698,8 +3867,54 @@
       "Thundercat"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1140592,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Jazz",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Funk / Soul",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Acid Jazz",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Contemporary R&B",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Downtempo",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Fusion",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Neo Soul",
+        "source": "discogs_search"
+      }
+    ],
     "id": "7vHBQDqwzB7uDvoE5bncMM",
     "release_date": "2017-02-24",
     "release_year": 2017,

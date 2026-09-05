@@ -1,0 +1,380 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602508230080",
+    "artist": "EARTHGANG",
+    "title": "Mirrorland",
+    "year": 2019
+  },
+  "results": [
+    {
+      "id": 14276877,
+      "title": "EarthGang - Mirrorland",
+      "master_id": 1649887,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1649887",
+      "uri": "/release/14276877-EarthGang-Mirrorland",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/QV9X6wVpwVusPCtrQ061_GzlDXDHBA9vTsjUDiaycpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc2/ODc3LTE2MTMwNzIy/OTEtOTYyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JEL-153f5lnxTcB-nJ7otcDzYPccNT8-oYHlKtA36Ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc2/ODc3LTE2MTMwNzIy/OTEtOTYyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14276877",
+      "community": {
+        "want": 20,
+        "have": 17
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14468224,
+      "title": "EarthGang - Mirrorland",
+      "master_id": 1649887,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "CDr",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "The Mix Unit",
+        "Mixtapes.com"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1649887",
+      "uri": "/release/14468224-EarthGang-Mirrorland",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/6foTira4xYvQVle5BaheE3BmmrVyfoq-WN40KK_E4Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/MjI0LTE1NzYwMjA0/MTAtNDE3My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sks64IAAtEcB9OfkAMZ32bNiWhxt9iw_7Xtbjj_K4xM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/MjI0LTE1NzYwMjA0/MTAtNDE3My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14468224",
+      "community": {
+        "want": 22,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21414103,
+      "title": "EarthGang - Mirrorland",
+      "master_id": 1649887,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2019",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Dreamville",
+        "Interscope Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1649887",
+      "uri": "/release/21414103-EarthGang-Mirrorland",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/X6NfCJFliV6llDFo78HWh1YfJE4yrd1XN1ha01OU3Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/MTAzLTE2Mzk5NDgz/MjMtNDg2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hU3OfubgSK42iUqlfPm9JMlPQbynjeRumXyOL_B-4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/MTAzLTE2Mzk5NDgz/MjMtNDg2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21414103",
+      "community": {
+        "want": 15,
+        "have": 13
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "14",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1649887,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 21414103,
+    "most_recent_release": 14687555,
+    "resource_url": "https://api.discogs.com/masters/1649887",
+    "uri": "https://www.discogs.com/master/1649887-EarthGang-Mirrorland",
+    "versions_url": "https://api.discogs.com/masters/1649887/versions",
+    "main_release_url": "https://api.discogs.com/releases/21414103",
+    "most_recent_release_url": "https://api.discogs.com/releases/14687555",
+    "num_for_sale": 37,
+    "lowest_price": 17.99,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/hU3OfubgSK42iUqlfPm9JMlPQbynjeRumXyOL_B-4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/MTAzLTE2Mzk5NDgz/MjMtNDg2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/hU3OfubgSK42iUqlfPm9JMlPQbynjeRumXyOL_B-4YU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/MTAzLTE2Mzk5NDgz/MjMtNDg2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/X6NfCJFliV6llDFo78HWh1YfJE4yrd1XN1ha01OU3Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDE0/MTAzLTE2Mzk5NDgz/MjMtNDg2My5qcGVn.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2019,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "LaLa Challenge",
+        "duration": "3:51"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "UP",
+        "duration": "3:35"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Top Down",
+        "duration": "3:16"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Bank",
+        "duration": "2:59"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Proud of U",
+        "duration": "3:58"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "This Side",
+        "duration": "4:37"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Swivel",
+        "duration": "3:14"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Avenue",
+        "duration": "3:03"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Tequila",
+        "duration": "4:33"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Blue Moon",
+        "duration": "3:58"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Trippin",
+        "extraartists": [
+          {
+            "name": "Kehlani",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3415529,
+            "resource_url": "https://api.discogs.com/artists/3415529"
+          }
+        ],
+        "duration": "4:17"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Stuck",
+        "extraartists": [
+          {
+            "name": "Arin Ray",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4520081,
+            "resource_url": "https://api.discogs.com/artists/4520081"
+          }
+        ],
+        "duration": "4:31"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Fields",
+        "extraartists": [
+          {
+            "name": "Malik (67)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 11513696,
+            "resource_url": "https://api.discogs.com/artists/11513696"
+          }
+        ],
+        "duration": "5:19"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Wings",
+        "duration": "4:07"
+      }
+    ],
+    "artists": [
+      {
+        "name": "EarthGang",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 3672765,
+        "resource_url": "https://api.discogs.com/artists/3672765",
+        "thumbnail_url": "https://i.discogs.com/-DJ81WIM9OJsNl0Mq9_uoQuMpbN6ckIEVIUjmpnqhqM/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2NzI3/NjUtMTY1MDIxNjQ0/MS0yMTIxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Mirrorland",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=o97bHDYihiU",
+        "title": "EARTHGANG - Bank (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 181,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NJz1V3GnerE",
+        "title": "EARTHGANG - Top Down (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 197,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WSuajDcfMIw",
+        "title": "EARTHGANG - Wings (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hKOj7xY6VHg",
+        "title": "EARTHGANG - Tequila Ft. T-Pain (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 276,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=EHtDQ2DYVTs",
+        "title": "EARTHGANG - Avenue (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 186,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=88hFim5AEJs",
+        "title": "EARTHGANG - Fields Ft. Malik (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 321,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=XDV4cmhV_ws",
+        "title": "EARTHGANG - Trippin Ft. Kehlani (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 261,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WxAXbkK3yq4",
+        "title": "EARTHGANG - UP (Mirrorland)",
+        "description": "EARTHGANG - \"Mirrorland\" | Stream/Download: https://smarturl.it/MirrorlandPS\n\nFollow our new Spotify Playlist \"HYPE - Hot 50\" https://hype.lnk.to/Spotify\n\nFollow HYPE:\nhttps://instagram.com/hypellc\nhttps://twitter.com/HYPEdmnd\nhttps://soundcloud.com/hypel",
+        "duration": 216,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1649887,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

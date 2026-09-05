@@ -1,0 +1,1254 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "5054429007756",
+    "artist": "Thundercat",
+    "title": "Drunk",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 23528870,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/23528870-Thundercat-Drunk",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/0y9QGQFvwU3XBzjkh4TBPOv8zMphqdDjXnWl57WnYP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/ODcwLTE2NTQ4Njg5/NTktNDE1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/G16NKx64LOHZe4_oEZMsRQbe7cjE-xR9MpV_hKbWnPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI4/ODcwLTE2NTQ4Njg5/NTktNDE1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23528870",
+      "community": {
+        "want": 39,
+        "have": 10
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "23",
+          "text": "24b/44.1kHz",
+          "descriptions": [
+            "FLAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33822150,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "File",
+        "WAV",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/33822150-Thundercat-Drunk",
+      "catno": "BFDNL064B",
+      "thumb": "https://i.discogs.com/PLmyK4Fg0HNDFU1XP3eCqht_wnmzxSIwS1C_dDIh574/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODIy/MTUwLTE3NDU3Mjg2/ODMtNzA5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/KZpmvq3v8a_BU6X9nb43YDOE0Q2KEwUtkorCBJGegkU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODIy/MTUwLTE3NDU3Mjg2/ODMtNzA5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33822150",
+      "community": {
+        "want": 15,
+        "have": 4
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "23",
+          "descriptions": [
+            "WAV",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15871921,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Brainfeeder",
+        "Brainfeeder",
+        "Brainfeeder",
+        "Just Isn't Music"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/15871921-Thundercat-Drunk",
+      "catno": "BFCD064",
+      "thumb": "https://i.discogs.com/5kMCBa4VsWkjOepjCEuf4L9SbiZVOC-DqExWr9-n2Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/OTIxLTE1OTkzMzM4/NzAtODEyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/OxBHtKtMNLJcOdfkXMnapsGJ-e3Pd2wgluOF7KtSSlw/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/OTIxLTE1OTkzMzM4/NzAtODEyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15871921",
+      "community": {
+        "want": 125,
+        "have": 20
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17242048,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Acid Jazz",
+        "Fusion",
+        "Downtempo",
+        "Chillwave",
+        "RnB/Swing",
+        "Neo Soul",
+        "Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Stereo"
+      ],
+      "label": [
+        "Brainfeeder"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/17242048-Thundercat-Drunk",
+      "catno": "R88",
+      "thumb": "https://i.discogs.com/0UcIVPzqe8bV35YTxRg9CgP44NHDbtOqHGsonnS4rKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQy/MDQ4LTE2MTIzNzY4/MjctOTEwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zWxbZvcgiJ_UOTM3_-7TKOWCoEWd8lnt7C00IPlEz1c/rs:fit/g:sm/q:90/h:538/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjQy/MDQ4LTE2MTIzNzY4/MjctOTEwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17242048",
+      "community": {
+        "want": 168,
+        "have": 59
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12426285,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazz-Funk",
+        "Soul-Jazz",
+        "Space-Age"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder",
+        "Beat Records",
+        "Brainfeeder",
+        "Brainfeeder",
+        "Beat Records",
+        "Just Isn't Music",
+        "Copyright Control",
+        "Wb Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "barcode": [
+        "4523132113425",
+        "IFPI LT48",
+        "IFPI 4454",
+        "BRC-542 MT J01",
+        "JASRAC",
+        "ASCAP Publishing Co."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/12426285-Thundercat-Drunk",
+      "catno": "BRC-542",
+      "thumb": "https://i.discogs.com/Wp4JDsDxhfbq0lwASL_ocqoDAU354jtDY2L78GEGTpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI2/Mjg1LTE1MzUwNTM4/MDAtODIwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qUVDsan7pxZ7CfX7usQ71HgmJZUESg7s2MyvL6HwIUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI2/Mjg1LTE1MzUwNTM4/MDAtODIwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12426285",
+      "community": {
+        "want": 262,
+        "have": 73
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9899130,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazz-Funk",
+        "Soul-Jazz",
+        "Space-Age"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder",
+        "Beat Records",
+        "Brainfeeder",
+        "Brainfeeder",
+        "Beat Records",
+        "Just Isn't Music",
+        "Copyright Control",
+        "Wb Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "barcode": [
+        "4523132113425",
+        "IFPI LT48",
+        "IFPI 4454",
+        "BRC-542 MT J01",
+        "JASRAC",
+        "ASCAP Publishing Co."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/9899130-Thundercat-Drunk",
+      "catno": "BRC-542",
+      "thumb": "https://i.discogs.com/nXBrYkGsVJXH9RgnxEDgAIlWm-BJ-GoS1HzNA9JRgBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkx/MzAtMTQ4ODIwNDY0/NS0zNTc2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/tJkHsLbKyQVMzI7F79LpjzjonSNqPkN2Rea2bHOLIDU/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkx/MzAtMTQ4ODIwNDY0/NS0zNTc2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9899130",
+      "community": {
+        "want": 324,
+        "have": 125
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13525058,
+      "title": "Thundercat - Drunk",
+      "master_id": 0,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CDr",
+        "Sampler"
+      ],
+      "label": [
+        "Brainfeeder"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/13525058-Thundercat-Drunk",
+      "catno": "BFCD064",
+      "thumb": "https://i.discogs.com/-kNiKtEZnXR7UHidTKAuWq0nsmZO4xzQrsC74ZHAiks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI1/MDU4LTE1NTU4NTc1/NjAtNzk1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ASrfLW7aEnI2BxLRruddYPSp0Zz5upVMU112R-DF8mQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI1/MDU4LTE1NTU4NTc1/NjAtNzk1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13525058",
+      "community": {
+        "want": 30,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Sampler"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9888163,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Jazz-Funk",
+        "Neo Soul",
+        "Fusion",
+        "Contemporary R&B",
+        "Experimental"
+      ],
+      "country": "Worldwide",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "10\"",
+        "45 RPM",
+        "Box Set",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder",
+        "Brainfeeder",
+        "Brainfeeder",
+        "The Exchange Vinyl",
+        "MPO",
+        "Just Isn't Music",
+        "Fidnadu Music",
+        "Sea Cough",
+        "Sounwave TDE Productions",
+        "Sony ATV",
+        "Genevieve Music",
+        "Wixen Music Publishing, Inc.",
+        "Milk Money Music",
+        "WB Music Corp.",
+        "Hard Working Black Folks Inc.",
+        "Top Dawg Music",
+        "EMI Pop Music Publishing",
+        "More Water From Nazareth",
+        "Jack Jimmy Music",
+        "Mono/Poly Media",
+        "EMI April Music Inc.",
+        "Bovina Music, Inc.",
+        "Wiz Khalifa Publishing"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429007763",
+        "LC-12885",
+        "ASCAP",
+        "BMI",
+        "BF 064 A MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 B MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 C MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 D MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 E MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 F MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 G MPO SIMON-THE EXCHANGE VINYL",
+        "BF 064 H MPO SIMON-THE EXCHANGE VINYL"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/9888163-Thundercat-Drunk",
+      "catno": "BF064",
+      "thumb": "https://i.discogs.com/sX86HCQfj5g8X5Nu0jxgf7DY_qplZO8zLys2yGFBJIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgx/NjMtMTQ4ODE0NTgx/My03MzEwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/VG68Tthqi31vu6KNVpna8Ih_O8fkWjYvKw8q4S6KhpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgx/NjMtMTQ4ODE0NTgx/My03MzEwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9888163",
+      "community": {
+        "want": 9920,
+        "have": 18203
+      },
+      "format_quantity": 4,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "4",
+          "text": "Red",
+          "descriptions": [
+            "10\"",
+            "45 RPM"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9872506,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Acid Jazz",
+        "Contemporary R&B",
+        "Downtempo",
+        "Fusion",
+        "Neo Soul"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Brainfeeder",
+        "Brainfeeder",
+        "Brainfeeder",
+        "Just Isn't Music",
+        "MPO"
+      ],
+      "type": "release",
+      "barcode": [
+        "5054429007770",
+        "LC-12885",
+        "CA BFCD064 @@ 1/25/2017 10:14:32 PM 0001233277",
+        "IFPI LY88",
+        "IFPI 1263"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/9872506-Thundercat-Drunk",
+      "catno": "BFCD064",
+      "thumb": "https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/P6TEUmkzG7n5SKyvEnqRafEZuWFbHP-GmjgnMYPCTuo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9872506",
+      "community": {
+        "want": 1208,
+        "have": 2290
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16282790,
+      "title": "Thundercat - Drunk",
+      "master_id": 1140592,
+      "genre": [
+        "Hip Hop",
+        "Jazz"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Brainfeeder"
+      ],
+      "type": "release",
+      "barcode": [
+        "1197789099"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1140592",
+      "uri": "/release/16282790-Thundercat-Drunk",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/VbG-i2w6iz5RwZbwpgLE0j3Ygy8p4jOFpTjryIno0Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/NzkwLTE2MDY1MzA0/NzQtMjQ5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JxYlk-pg8SeaYLdRSoBTBcIEb-hHHgiN2h2FCFpSF1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/NzkwLTE2MDY1MzA0/NzQtMjQ5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16282790",
+      "community": {
+        "want": 90,
+        "have": 17
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "23",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1140592,
+    "genres": [
+      "Electronic",
+      "Hip Hop",
+      "Jazz",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Acid Jazz",
+      "Contemporary R&B",
+      "Downtempo",
+      "Fusion",
+      "Neo Soul"
+    ],
+    "main_release": 9872506,
+    "most_recent_release": 36313468,
+    "resource_url": "https://api.discogs.com/masters/1140592",
+    "uri": "https://www.discogs.com/master/1140592-Thundercat-Drunk",
+    "versions_url": "https://api.discogs.com/masters/1140592/versions",
+    "main_release_url": "https://api.discogs.com/releases/9872506",
+    "most_recent_release_url": "https://api.discogs.com/releases/36313468",
+    "num_for_sale": 208,
+    "lowest_price": 5.23,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/P6TEUmkzG7n5SKyvEnqRafEZuWFbHP-GmjgnMYPCTuo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/P6TEUmkzG7n5SKyvEnqRafEZuWFbHP-GmjgnMYPCTuo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/zdeUIGQxEzJO56sVYo4bwU_4Seh-Qpbvz24jHMX2ue0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ni0yMDQ5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 538
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FJMV1IvCk9MW7VBbyqPfu4N8WgTBH5NGZ3yLZP1-9NQ/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ny0xNzU3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/FJMV1IvCk9MW7VBbyqPfu4N8WgTBH5NGZ3yLZP1-9NQ/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ny0xNzU3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/la16Fq86QMnNJf3a0S_3T_NHhvy3Sv1vZmA9fRaQRvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ5MTMyOTU4/Ny0xNzU3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 538
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7SHPZRlaY2EzxxYYJ7HDy6F7UYsX2BvKKCSNAoNFTeU/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ4NzcxOTEx/Mi0zNjM0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/7SHPZRlaY2EzxxYYJ7HDy6F7UYsX2BvKKCSNAoNFTeU/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ4NzcxOTEx/Mi0zNjM0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/S1sCc8OGERl5bsb_eNu6s-e4ARgAeenofKFWKgtmt5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTQ4NzcxOTEx/Mi0zNjM0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 556
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WPxZQvNqrJMQAd6vOiB8aBr3GNDzITxFoYwZh9-mxfU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MC0zMTU2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/WPxZQvNqrJMQAd6vOiB8aBr3GNDzITxFoYwZh9-mxfU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MC0zMTU2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hqOskIqqZ5Dt8KA8AbM9V_pw5TlzRSFrQm2LnkFRIdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MC0zMTU2LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-TTu7weBJUZarRegQurqwvNZIgs0mMTqEcj6qiWFqkY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MS0xNzgxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/-TTu7weBJUZarRegQurqwvNZIgs0mMTqEcj6qiWFqkY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MS0xNzgxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5tjgz2dm816QFzYZhoyFWafG_5MchU0GR7HZdKdK1NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIw/MS0xNzgxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SIyHaFGLCmkrvJBejRNMSi_rg8uU5sp2eauo1Cq9Ooo/rs:fit/g:sm/q:90/h:259/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIy/Ni05NDY3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/SIyHaFGLCmkrvJBejRNMSi_rg8uU5sp2eauo1Cq9Ooo/rs:fit/g:sm/q:90/h:259/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIy/Ni05NDY3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/57PWJ2Tev__jA94OX0eoT5a21tvjL44YH-jpBIfLLpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIy/Ni05NDY3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 259
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EOcygvq3f6fR7qCI77vKuFLwvldSQHS7w9aN-HYw6rU/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIz/NS02OTMwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/EOcygvq3f6fR7qCI77vKuFLwvldSQHS7w9aN-HYw6rU/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIz/NS02OTMwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/5dWBD6qSXl8BneQ-d1IU1GCGK0EomZYbk-kny4P3yf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODIz/NS02OTMwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 293
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Lg60AUqR8_saDoxA8lCIhvIpzlUmEx57dn-UcYhG2Js/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Mi05ODIwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Lg60AUqR8_saDoxA8lCIhvIpzlUmEx57dn-UcYhG2Js/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Mi05ODIwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/lgfylvofE2jTxDIub_xUNK5SDemE4xTPb_iIz-BN-T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Mi05ODIwLmpwZWc.jpeg",
+        "width": 600,
+        "height": 586
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rIGRCAhNFl-BRi6-QoCNW-kWfxdPRtPtJMUcUTssxI8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Ny0zMDg3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/rIGRCAhNFl-BRi6-QoCNW-kWfxdPRtPtJMUcUTssxI8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Ny0zMDg3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/2QZIMxX8J53TEHr7hferC-9I8LEpznFeIEYous0a5jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI0/Ny0zMDg3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/3EEOzoR6IUhpPeYmeOKR9R8dieEv1WO6BXp_2YDXXHA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/MC00MjQ5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/3EEOzoR6IUhpPeYmeOKR9R8dieEv1WO6BXp_2YDXXHA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/MC00MjQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/weuydq5HSGICQHWWUUPyZKRGRvVGlnpB9nUPguDJpJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/MC00MjQ5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 586
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/-2HgifYVFOnCMPOnXEAnpeASHuXw1dt69ZZqS-hRWPM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/My02MTQxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/-2HgifYVFOnCMPOnXEAnpeASHuXw1dt69ZZqS-hRWPM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/My02MTQxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/bwLxJ_RkRkLo1o_fXhKDn_8RSBoAeJ6pz0Qs192l64E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI2/My02MTQxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/g62Kqvw7f1QCFd2d5Zq3_-o7WTcO53lo8yV9EoiUqlw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI3/NS03NTY1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/g62Kqvw7f1QCFd2d5Zq3_-o7WTcO53lo8yV9EoiUqlw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI3/NS03NTY1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CfQ0KBjPORZgjKBnyb3BwuXBWupVRR1Qg7xudvVIVY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI3/NS03NTY1LmpwZWc.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/NDD7zoWrPEYn4fpthCXdTljyLz5oTSFxr1gXP6LNRJU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI4/MC0zMzA2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/NDD7zoWrPEYn4fpthCXdTljyLz5oTSFxr1gXP6LNRJU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI4/MC0zMzA2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/y5CiZpmuwJrm8b5ho7vroERblMgv3TgWkoG2TVQXLCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI4/MC0zMzA2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 591
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/f1e-76ppil61MEUE5xL5OM_02emSinH6AONPQ--fAbY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI5/Ny01MTA4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/f1e-76ppil61MEUE5xL5OM_02emSinH6AONPQ--fAbY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI5/Ny01MTA4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/musPZkrQ2ThYSxN_hFVegSEMexJk0kuSWcUYlbi80YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODI5/Ny01MTA4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/i_ArY850k4g1tLIkHrMllhjkFEW5kLwETzF2KkF0UBQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/MS05NjQ5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/i_ArY850k4g1tLIkHrMllhjkFEW5kLwETzF2KkF0UBQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/MS05NjQ5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/s_T7hWOevCT-rKS9qMpQhD8YeARxcSj8Y5MWpigZGMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/MS05NjQ5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/DABAt4_CZWw3a5jo1fyhP_PY1tL7WI2HEBeNOwztYXc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/NC0yODU5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/DABAt4_CZWw3a5jo1fyhP_PY1tL7WI2HEBeNOwztYXc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/NC0yODU5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/B1fB8YPSLPb1_xfNPjaXPXQrN5gHUnfq9VWOHk29Nqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMw/NC0yODU5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qWqFvTtpX4g_eDf26uZexuupKQ6lFbnRsQG5m3_5osk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/MS04Njk3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/qWqFvTtpX4g_eDf26uZexuupKQ6lFbnRsQG5m3_5osk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/MS04Njk3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RaNhoX1HDqX80geMvW4OAHLUdjqrhOrNkJ9ZFrRanlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/MS04Njk3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 588
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4ZIYvmM6dMn4iw0Rwj_Hi-WO03MVCKZrCDnQL9CXi24/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/OS04ODU5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/4ZIYvmM6dMn4iw0Rwj_Hi-WO03MVCKZrCDnQL9CXi24/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/OS04ODU5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/mxuhBj-tqC-iFEHL_YZOCeHe2PIwwTDGrMYJtCUtuKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMx/OS04ODU5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 583
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ckNqruFPGno5tquOltK72HiLqFmMJWM2bS4F1YZVai8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMy/NS03NzY5LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ckNqruFPGno5tquOltK72HiLqFmMJWM2bS4F1YZVai8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMy/NS03NzY5LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/Obx0m-nz2HAZfrSsnKkk9cs-AMArl-wzUWN1o68XZ4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMy/NS03NzY5LmpwZWc.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gE243vT9-ieuskPnZg5TOn9dNH8Si7Wrkn36J8hxyLc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMz/Ni00NzM4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/gE243vT9-ieuskPnZg5TOn9dNH8Si7Wrkn36J8hxyLc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMz/Ni00NzM4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ZDN1ApIOyuw-CvdmBMjud4SjuMnnO7VVefN6v3vbhkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODMz/Ni00NzM4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 591
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WUKc2RAulybw_IbLVWmgBqwEm7JE_3o0md8wh_eRnho/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODM0/NS0zNDMyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/WUKc2RAulybw_IbLVWmgBqwEm7JE_3o0md8wh_eRnho/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODM0/NS0zNDMyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/1YvWmOtYnt4IRK0FtlTSdaxI1u0r5BdK2jxlspcBLgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI1/MDYtMTU4NDYyODM0/NS0zNDMyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 591
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Rabbot Ho",
+        "duration": "0:38"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Captain Stupido",
+        "duration": "1:41"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Uh Uh",
+        "duration": "2:16"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Bus In These Streets",
+        "duration": "2:24"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "A Fan's Mail (Tron Song Suite II)",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "2:38"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Lava Lamp",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "2:58"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Jethro",
+        "duration": "1:34"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Day & Night",
+        "duration": "0:37"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Show You The Way",
+        "extraartists": [
+          {
+            "name": "Kenny Loggins",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 106467,
+            "resource_url": "https://api.discogs.com/artists/106467"
+          },
+          {
+            "name": "Michael McDonald",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 38258,
+            "resource_url": "https://api.discogs.com/artists/38258"
+          }
+        ],
+        "duration": "3:34"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Walk On By",
+        "extraartists": [
+          {
+            "name": "Kendrick Lamar",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 1778977,
+            "resource_url": "https://api.discogs.com/artists/1778977"
+          }
+        ],
+        "duration": "3:19"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Blackkk",
+        "extraartists": [
+          {
+            "name": "Sounwave",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1784576,
+            "resource_url": "https://api.discogs.com/artists/1784576"
+          }
+        ],
+        "duration": "1:59"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Tokyo",
+        "duration": "2:24"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Jameel's Space Ride",
+        "duration": "1:09"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Friend Zone",
+        "duration": "3:12"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Them Changes",
+        "duration": "3:08"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "Where I'm Going",
+        "duration": "2:09"
+      },
+      {
+        "position": "17",
+        "type_": "track",
+        "title": "Drink Dat",
+        "extraartists": [
+          {
+            "name": "Wiz Khalifa",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 614963,
+            "resource_url": "https://api.discogs.com/artists/614963"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "18",
+        "type_": "track",
+        "title": "Inferno",
+        "duration": "4:00"
+      },
+      {
+        "position": "19",
+        "type_": "track",
+        "title": "I Am Crazy",
+        "duration": "0:25"
+      },
+      {
+        "position": "20",
+        "type_": "track",
+        "title": "3AM",
+        "duration": "1:15"
+      },
+      {
+        "position": "21",
+        "type_": "track",
+        "title": "Drunk",
+        "duration": "1:42"
+      },
+      {
+        "position": "22",
+        "type_": "track",
+        "title": "The Turn Down",
+        "extraartists": [
+          {
+            "name": "Pharrell Williams",
+            "anv": "Pharrell",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 90037,
+            "resource_url": "https://api.discogs.com/artists/90037"
+          }
+        ],
+        "duration": "2:29"
+      },
+      {
+        "position": "23",
+        "type_": "track",
+        "title": "DUI",
+        "duration": "2:18"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Thundercat",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 1800656,
+        "resource_url": "https://api.discogs.com/artists/1800656",
+        "thumbnail_url": "https://i.discogs.com/aH9Hx9J-2DiRQOJgEGd8j0jZHZ6ncoY7kGUWLmQ5cqc/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4MDA2/NTYtMTYyMDE4NzMx/OC01NDQxLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Drunk",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=O0kS88zAzh8",
+        "title": "DUI",
+        "description": "Provided to YouTube by Ninja Tune\n\nDUI \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music & Fidnadu Music (ASCAP)\n\nAuto-generated by YouTube.",
+        "duration": 139,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=l3w47CT3BRw",
+        "title": "The Turn Down",
+        "description": "Provided to YouTube by Ninja Tune\n\nThe Turn Down \u00b7 Thundercat \u00b7 Pharrell\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nFeaturing: Pharrell\nMusic  Publisher: Just Isn\u2019t Music & EMI Pop Music Publishing / More Water From Nazareth (GMR)\n\nAuto-generated by ",
+        "duration": 150,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=McA_CgwoG-w",
+        "title": "Thundercat - 'Drunk'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 103,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=C1y2aFFD8Ok",
+        "title": "Thundercat - '3AM'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 76,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WiyfMPajVh8",
+        "title": "I Am Crazy",
+        "description": "Provided to YouTube by Ninja Tune\n\nI Am Crazy \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn't Music\n\nAuto-generated by YouTube.",
+        "duration": 26,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=cuJv1v62hx4",
+        "title": "Inferno",
+        "description": "Provided to YouTube by Ninja Tune\n\nInferno \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn't Music\n\nAuto-generated by YouTube.",
+        "duration": 241,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_pxpTZpdZ-U",
+        "title": "Thundercat - 'Drink Dat (feat. Wiz Khalifa)'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 216,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qpvlWQi1BCs",
+        "title": "Where I'm Going",
+        "description": "Provided to YouTube by Ninja Tune\n\nWhere I'm Going \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music\n\nAuto-generated by YouTube.",
+        "duration": 130,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BuzJ5NArvgw",
+        "title": "Them Changes",
+        "description": "Provided to YouTube by Ninja Tune\n\nThem Changes \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nComposer  Lyricist: C. Jasper\nComposer  Lyricist: E. Isley\nMusic  Publisher: Just Isn\u2019t Music & EMI April Music Inc. / Bovina Music Inc.\nComposer ",
+        "duration": 189,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=heDAio31LEk",
+        "title": "Friend Zone",
+        "description": "Provided to YouTube by Ninja Tune\n\nFriend Zone \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music & Mono/Poly Media (ASCAP)\n\nAuto-generated by YouTube.",
+        "duration": 193,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=muTL17Eh0Ks",
+        "title": "Jameel's Space Ride",
+        "description": "Provided to YouTube by Ninja Tune\n\nJameel's Space Ride \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music / Copyright Control\n\nAuto-generated by YouTube.",
+        "duration": 70,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QF_5xvSl6C8",
+        "title": "Thundercat - Tokyo (Sub espa\u00f1ol/Lyrics)",
+        "description": "Esta canci\u00f3n no me pertenece, solo hice una traducci\u00f3n",
+        "duration": 145,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1rBYb84sfvw",
+        "title": "Show You The Way",
+        "description": "Provided to YouTube by Ninja Tune\n\nShow You The Way \u00b7 Thundercat \u00b7 Michael McDonald \u00b7 Kenny Loggins\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nFeaturing: Kenny Loggins\nFeaturing: Michael McDonald\nMusic  Publisher: Just Isn\u2019t Music, Genevieve Music/Wi",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RTCmGcTaLXQ",
+        "title": "Day & Night",
+        "description": "Provided to YouTube by Ninja Tune\n\nDay & Night \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music / Copyright Control\n\nAuto-generated by YouTube.",
+        "duration": 38,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_ukKdTBwxCA",
+        "title": "Thundercat - 'Jethro'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 95,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wV8HYokDWeE",
+        "title": "Thundercat - 'Walk On By (feat. Kendrick Lamar)'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\n'Drunk' out now on Brainfeeder: https://thundercat.lnk.to/drunkYO\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: htt",
+        "duration": 200,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ts1YiJAs0cw",
+        "title": "Blackkk",
+        "description": "Provided to YouTube by Beatink Inc.\n\nBlackkk \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nProducer: Sounwave\nComposer: S. Bruner\nComposer: M. Spears\n\nAuto-generated by YouTube.",
+        "duration": 120,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=WFUEf8MHGnA",
+        "title": "A Fan's Mail (Tron Song Suite II)",
+        "description": "Provided to YouTube by Ninja Tune\n\nA Fan's Mail (Tron Song Suite II) \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music & Sounwave TDE Productions / Sony/ATV\n\nAuto-generated by YouTube.",
+        "duration": 159,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ppHQa2h2qiI",
+        "title": "Lava Lamp",
+        "description": "Provided to YouTube by Ninja Tune\n\nLava Lamp \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music & Sounwave TDE Productions / Sony/ATV\n\nAuto-generated by YouTube.",
+        "duration": 179,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=zxNHJXpH9QM",
+        "title": "Thundercat - 'Bus In These Streets'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\nBuy Hollywood Bowl Tickets: http://found.ee/B",
+        "duration": 149,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=9lHjeEkS1WE",
+        "title": "Thundercat - 'Uh Uh'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 137,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=e8TdgBWEOP8",
+        "title": "Captain Stupido",
+        "description": "Provided to YouTube by Ninja Tune\n\nCaptain Stupido \u00b7 Thundercat\n\nDrunk\n\n\u2117 Brainfeeder\n\nReleased on: 2017-02-24\n\nMusic  Publisher: Just Isn\u2019t Music\n\nAuto-generated by YouTube.",
+        "duration": 102,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=V4xGQDKDHBI",
+        "title": "Thundercat - 'Rabbot Ho'",
+        "description": "The new album 'It Is What It Is', out now on Brainfeeder: https://thundercat.lnk.to/it-is-what-it-isYo\n\nSubscribe to Thundercat: https://found.ee/thundercat-ys\nSubscribe to Brainfeeder: https://found.ee/bf-ys\n\n'Drunk' out now on Brainfeeder: https://thund",
+        "duration": 39,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1140592,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Jazz",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Acid Jazz",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Contemporary R&B",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Downtempo",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Fusion",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Neo Soul",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "098787091564",
+    "artist": "The Head And The Heart",
+    "title": "The Head and the Heart",
+    "year": 2010
+  },
+  "results": [
+    {
+      "id": 12843196,
+      "title": "The Head And The Heart - The Head And The Heart",
+      "master_id": 328805,
+      "genre": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Folk Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CDr",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (The Head And The Heart Self-Released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/328805",
+      "uri": "/release/12843196-The-Head-And-The-Heart-The-Head-And-The-Heart",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/7a00KNPUD0-Q1VaEVOfBy18gKmhc_cG86n196L_vzO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQz/MTk2LTE1NDMwMjQx/ODEtODU3NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y_v1N-D-Rvh8ZFto5rtjXW_skKY6RMSm_V4BW_BfaLU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQz/MTk2LTE1NDMwMjQx/ODEtODU3NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12843196",
+      "community": {
+        "want": 42,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2790823,
+      "title": "The Head And The Heart - The Head And The Heart",
+      "master_id": 328805,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2010",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (The Head And The Heart Self-Released)",
+        "Studio Litho",
+        "Bearhead Studio",
+        "Bearhead Studio",
+        "RFI Mastering",
+        "The Head And The Heart",
+        "Disc Makers"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8450135049 5",
+        "MUF5741"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/328805",
+      "uri": "/release/2790823-The-Head-And-The-Heart-The-Head-And-The-Heart",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/SZgA6EI6V4nhKGibm1AyfIB7wHUSWqmHhSa6mcdI7qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTEx/MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/qWd4Y23dU6YJzIxY5h-g7mDZv6wWTyM0Ju23CgUa7Gs/rs:fit/g:sm/q:90/h:443/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTEx/MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2790823",
+      "community": {
+        "want": 126,
+        "have": 129
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 328805,
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "main_release": 2790823,
+    "most_recent_release": 11935446,
+    "resource_url": "https://api.discogs.com/masters/328805",
+    "uri": "https://www.discogs.com/master/328805-The-Head-And-The-Heart-The-Head-And-The-Heart",
+    "versions_url": "https://api.discogs.com/masters/328805/versions",
+    "main_release_url": "https://api.discogs.com/releases/2790823",
+    "most_recent_release_url": "https://api.discogs.com/releases/11935446",
+    "num_for_sale": 130,
+    "lowest_price": 0.68,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/qWd4Y23dU6YJzIxY5h-g7mDZv6wWTyM0Ju23CgUa7Gs/rs:fit/g:sm/q:90/h:443/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTEx/MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qWd4Y23dU6YJzIxY5h-g7mDZv6wWTyM0Ju23CgUa7Gs/rs:fit/g:sm/q:90/h:443/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTEx/MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/SZgA6EI6V4nhKGibm1AyfIB7wHUSWqmHhSa6mcdI7qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTEx/MC5qcGVn.jpeg",
+        "width": 495,
+        "height": 443
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/v6-x-yA__E59VtR-u20inrU4pQYYu7Gfdeks44oOoT4/rs:fit/g:sm/q:90/h:447/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTE1/My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/v6-x-yA__E59VtR-u20inrU4pQYYu7Gfdeks44oOoT4/rs:fit/g:sm/q:90/h:447/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTE1/My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/0C2rwZoGq6qV3DuwQieWtwEo-Jy5eQqD0E2-g6mpDaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTE1/My5qcGVn.jpeg",
+        "width": 500,
+        "height": 447
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/tUnKk_GB38BGL2TuQ_AR-3BDdxI-PTKfg6HuHiqGemA/rs:fit/g:sm/q:90/h:216/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTIz/MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/tUnKk_GB38BGL2TuQ_AR-3BDdxI-PTKfg6HuHiqGemA/rs:fit/g:sm/q:90/h:216/w:489/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTIz/MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mm6Dl6VKqIXgt-nCE4ZFQ_Mi_voXmdxiVOK9NUs8KU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA4/MjMtMTMwMTE2OTIz/MC5qcGVn.jpeg",
+        "width": 489,
+        "height": 216
+      }
+    ],
+    "year": 2010,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Cats And Dogs",
+        "duration": "1:55"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Coeur D'Alene",
+        "duration": "4:21"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Ghosts",
+        "duration": "4:17"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Down In The Valley",
+        "duration": "5:04"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Honey Come Home",
+        "duration": "3:22"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Lost In My Mind",
+        "duration": "4:18"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Winter Song",
+        "duration": "2:42"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Sounds Like Hallelujah",
+        "extraartists": [
+          {
+            "name": "Kevin Matley",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Mixed By, Engineer",
+            "tracks": "",
+            "id": 4214630,
+            "resource_url": "https://api.discogs.com/artists/4214630"
+          }
+        ],
+        "duration": "3:05"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Heaven Go Easy On Me",
+        "duration": "5:40"
+      }
+    ],
+    "artists": [
+      {
+        "name": "The Head And The Heart",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2104840,
+        "resource_url": "https://api.discogs.com/artists/2104840",
+        "thumbnail_url": "https://i.discogs.com/vYMbeZ6-3P9krfJiAyfjLvdb3Xs527uX0RxDrFDC474/rs:fit/g:sm/q:90/h:385/w:540/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMDQ4/NDAtMTI5NjI2OTk3/NC5qcGVn.jpeg"
+      }
+    ],
+    "title": "The Head And The Heart",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=xjoA4nYBD5U",
+        "title": "The Head and the Heart - Lost In My Mind (OFFICIAL VIDEO)",
+        "description": null,
+        "duration": 270,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=nvZtVoItXxQ",
+        "title": "The Head and the Heart - Cats and Dogs & Coeur D'Alene (Live on KEXP)",
+        "description": null,
+        "duration": 397,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=2iSQGWpy0qY",
+        "title": "The Head and the Heart - Down in the Valley [OFFICIAL VIDEO]",
+        "description": "\"Down in the Valley\" from The Head and the Heart's 04/16/11 self-titled release\n\niTunes https://itunes.apple.com/us/album/the-head-and-the-heart/id413320594\nAmazon http://amzn.com/B004ID9KGU\nSub Pop Mega Mart https://megamart.subpop.com/releases/the_head_",
+        "duration": 309,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=TcScFA5SNjo",
+        "title": "Rivers and Roads",
+        "description": "Provided to YouTube by Awal Digital Ltd\n\nRivers and Roads \u00b7 The Head And The Heart\n\nThe Head And The Heart\n\n\u2117 THATH, LLC\n\nReleased on: 2011-01-11\n\nProducer: Steven Aguilar\nProducer: The Head And The Heart\nProducer: Alan Matley\nComposer  Lyricist: Charity ",
+        "duration": 284,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 328805,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

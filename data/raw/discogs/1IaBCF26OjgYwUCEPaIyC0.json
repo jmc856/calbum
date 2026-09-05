@@ -1,0 +1,2042 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "730082602921",
+    "artist": "Outkast",
+    "title": "ATLiens",
+    "year": 1996
+  },
+  "results": [
+    {
+      "id": 22936679,
+      "title": "Prljavo Kazali\u0161te - Best Of",
+      "master_id": 0,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Croatia",
+      "year": "1997",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Suzy"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "0019"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/22936679-Prljavo-Kazali%C5%A1te-Best-Of",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/kQPbcLPj-ktu9VOpea-UiveFQeP4X5zkrRILQuVepx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM2/Njc5LTE2NTAzODMz/MjMtMzA2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PkaAS8JsZ0LzWMFqt755JfdpjCg-ZWcr2ERR25K7TLM/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM2/Njc5LTE2NTAzODMz/MjMtMzA2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22936679",
+      "community": {
+        "want": 0,
+        "have": 5
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14759502,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arvato, Mexico",
+        "Arvato, Mexico"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "0730082602921",
+        "56896756/73008260292RD1 21",
+        "IFPI LP74",
+        "IFPI 10K0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/14759502-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/ato-Ng-TzZZb2mgd6OdiaZL7jUJIyvw0tgzkWsLP-f4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/NTAyLTE1ODEwNDMw/NTMtNTU1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NBXoVBB68Bbq7wbdQYhAw3gCnuJaK5eIgFScvNQvVys/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU5/NTAyLTE1ODEwNDMw/NTMtNTU1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14759502",
+      "community": {
+        "want": 203,
+        "have": 173
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Arvato, Mexico Pressing",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25578193,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "0730082602921",
+        "56896756/73008260292RD1 21",
+        "IFPI LP74",
+        "IFPI 0738"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/25578193-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/_TFvk8gCqe3jUzgFz0xHp3dAVCzI_czTFhngqzMNJ98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTc4/MTkzLTE2NzIxMDQy/NzItNTIyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/h3MbnzERaDqf9YVnsDUsm5aw2ImKRvmON5VP1wdgwD8/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTc4/MTkzLTE2NzIxMDQy/NzItNTIyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25578193",
+      "community": {
+        "want": 110,
+        "have": 215
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6551833,
+      "title": "Prljavo Kazali\u0161te - Najve\u0107i Hitovi",
+      "master_id": 0,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Vocal"
+      ],
+      "country": "Croatia",
+      "format": [
+        "CD",
+        "Compilation",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Suzy"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "GZ HA3119 TEO 010-2 311"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": null,
+      "uri": "/release/6551833-Prljavo-Kazali%C5%A1te-Najve%C4%87i-Hitovi",
+      "catno": "CDP5606",
+      "thumb": "https://i.discogs.com/a7Q43l8EdkzLckQPDInwRVgyM7J2ZaLtGxaquGrLE0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTE4/MzMtMTQyMTgyOTgz/MC05OTY0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/92ytjEFrXmo96WwnP9cSJUeYhZxI-7tWzpyb3dzMoHE/rs:fit/g:sm/q:90/h:591/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTE4/MzMtMTQyMTgyOTgz/MC05OTY0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6551833",
+      "community": {
+        "want": 0,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12096089,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Entertainment",
+        "The Hit Factory",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "DIDX-249502 3 A01",
+        "IFPI L329",
+        "IFPI 50C0"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/12096089-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/eAsA0P2r2shE8xrG__AeOPg7V6VoM2vbKP7GrbWG3js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk2/MDg5LTE1NzkwMzk1/NjMtMzE2Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QPqQynz4OtA7WdMBHiFRo9M332QYJp6kWYIPoSsApMQ/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk2/MDg5LTE1NzkwMzk1/NjMtMzE2Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12096089",
+      "community": {
+        "want": 241,
+        "have": 121
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sony DADC, Terre Haute",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8228808,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Entertainment",
+        "BMG",
+        "Arista Records, Inc.",
+        "Curtom Classics Inc.",
+        "Organized Noize Productions, Inc.",
+        "Earthtone Ideas, Inc.",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Chung King Studios",
+        "Bosstown Recording Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "Chung King Studios",
+        "Soundtrack Studios",
+        "DARP Studios",
+        "Doppler Studios",
+        "The Hit Factory",
+        "Organized Noize Music",
+        "Stiff Shirt Music, Inc.",
+        "Enjoi Music",
+        "Butter Jinx Music",
+        "Publishing Designee",
+        "Chrysalis Music",
+        "Gnat Booty Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Dez Only 1",
+        "Saliandra Publishing",
+        "Rondor Music",
+        "One Ol' Ghetto Hoe",
+        "Warner Chappell Music Ltd.",
+        "Goodie Mob Music",
+        "Cool People Music",
+        "Belt Star",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "7730082602921",
+        "730082602921",
+        "LC 3484",
+        "BM 650",
+        "BIEM/GEMA",
+        "Sony DADC A0102267759-0101 13 A00",
+        "IFPI L553",
+        "IFPI 94K7",
+        "IFPI 94K2"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/8228808-OutKast-ATLiens",
+      "catno": "73008 26029 2",
+      "thumb": "https://i.discogs.com/INVoWB1_nqpB2vpThcyv6yhvSLhWc_aSe6PmxHGqCH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjg4/MDgtMTQ1NzU0NTI0/NC02ODI5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/f9MPY7_ZF8gQM33MON1f-N-YJV6jKC1iIROpUCH6PcM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjg4/MDgtMTQ1NzU0NTI0/NC02ODI5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8228808",
+      "community": {
+        "want": 313,
+        "have": 553
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sony DADC",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307590,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "LaFace Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "73008-26029-2*",
+        "IFPI L451",
+        "73008260292 1J",
+        "IFPI L239",
+        "IFPI 4101",
+        "73008260292 3H 11",
+        "IFPI L238",
+        "IFPI 4121"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/10307590-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/H60Yf3ybnhbBliOPa_cypKihIg0-FvwX--r1qS0ITW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/NTkwLTE2ODUwMTUz/NDYtNjE2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/wjPmGTWu5_o79nkHD07SmSxt4JwdUWoyZP2tEe-LQRE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/NTkwLTE2ODUwMTUz/NDYtNjE2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10307590",
+      "community": {
+        "want": 362,
+        "have": 1282
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26664635,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Music Canada Inc.",
+        "BMG Music Canada Inc.",
+        "Organized Noise Music",
+        "Stiff Shirt Music, Inc.",
+        "Enjoi Music",
+        "Butter Jinx Music",
+        "Chrysalis Music",
+        "Gnat Booty Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Curtom Classics Inc.",
+        "Dez Only 1",
+        "Saliandra Publishing",
+        "Rondor Music",
+        "One Ol' Ghetto Hoe",
+        "Warner Chappell Music Ltd.",
+        "Goodie Mob Music",
+        "Cool People Music",
+        "Belt Star",
+        "Organized Noize Productions, Inc.",
+        "Earthtone Ideas, Inc.",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Bosstown Recording Studios",
+        "Chung King Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "Chung King Studios",
+        "Soundtrack Studios",
+        "DARP Studios",
+        "Doppler Studios",
+        "The Hit Factory",
+        "Sony DADC, Terre Haute",
+        "Sony DADC, Toronto"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "BMI",
+        "ASCAP ",
+        "DIDX-116069 1 73008260292",
+        "IFPI L327",
+        "6706"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/26664635-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/t0QlI_zgabpfqyjf45nVEdRPTZqtH0hiQsUGYXLZPmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY0/NjM1LTE2ODA3NTIy/OTYtMjA3Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xq8yUCr6hoN2eHrwnI1vzbaoqQHst536Rfd-B_sN0FY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY0/NjM1LTE2ODA3NTIy/OTYtMjA3Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26664635",
+      "community": {
+        "want": 96,
+        "have": 18
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29208292,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Boom Bap",
+        "Conscious"
+      ],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "BMG",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG",
+        "Arista Records, Inc.",
+        "Organized Noize Productions, Inc.",
+        "Earthtone Ideas, Inc.",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Chung King Studios",
+        "Bosstown Recording Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "Chung King Studios",
+        "Soundtrack Studios",
+        "DARP Studios",
+        "Doppler Studios",
+        "The Hit Factory",
+        "Organized Noize Music",
+        "Stiff Shirt Music, Inc.",
+        "Enjoi Music",
+        "Butter Jinx Music",
+        "Publishing Designee",
+        "Chrysalis Music",
+        "Gnat Booty Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Dez Only 1",
+        "Saliandra Publishing",
+        "Rondor Music",
+        "One Ol' Ghetto Hoe",
+        "Warner Chappell Music Ltd.",
+        "Goodie Mob Music",
+        "Cool People Music",
+        "Belt Star",
+        "Arvato"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "7730082602921",
+        "LC 3484",
+        "BM 650",
+        "BMI",
+        "ASCAP",
+        "BIEM/GEMA",
+        "[Arvato logo] 50148475/73008260292 21",
+        "IFPI LP 73",
+        "IFPI 077Z",
+        "IFPI 072Y"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/29208292-OutKast-ATLiens",
+      "catno": "73008 26029 2",
+      "thumb": "https://i.discogs.com/sAUIARWz53wUHw2hbNp17-QJfoctEg97ZeHA_oCGUaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjA4/MjkyLTE3MDI3ODE2/MzAtMjI1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NVuBVm_kBmeYn7BNwF0huC8wyONyLXE4c6BbYGxi7XQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjA4/MjkyLTE3MDI3ODE2/MzAtMjI1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29208292",
+      "community": {
+        "want": 118,
+        "have": 62
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Arvato",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11437166,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Entertainment",
+        "Arista Records, Inc.",
+        "The Hit Factory",
+        "Denon Digital Industries"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "*1D*  #  73008260292  A1",
+        "IFPI L431",
+        "*1D*  #  73008260292  B3",
+        "IFPI L431"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/11437166-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/FLpYhdelxPQE8XpLPvfyoslYGne1UNwU0Bh8T0gDsKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/MTY2LTE1MTYzMDgz/NTMtMjI4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MunPnJo5lPL2nl6-myOpGbt0_Yb8dMq_YmSdloPEisM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/MTY2LTE1MTYzMDgz/NTMtMjI4MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11437166",
+      "community": {
+        "want": 280,
+        "have": 179
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Denon",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4725642,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Music Canada Inc.",
+        "BMG Music Canada Inc.",
+        "Organized Noise Music",
+        "Stiff Shirt Music, Inc.",
+        "Enjoi Music",
+        "Butter Jinx Music",
+        "Chrysalis Music",
+        "Gnat Booty Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Curtom Classics Inc.",
+        "Dez Only 1",
+        "Saliandra Publishing",
+        "Rondor Music",
+        "One Ol' Ghetto Hoe",
+        "Warner Chappell Music Ltd.",
+        "Goodie Mob Music",
+        "Cool People Music",
+        "Belt Star",
+        "Organized Noize Productions, Inc.",
+        "Earthtone Ideas, Inc.",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Bosstown Recording Studios",
+        "Chung King Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "Chung King Studios",
+        "Soundtrack Studios",
+        "DARP Studios",
+        "Doppler Studios",
+        "The Hit Factory",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "BMI",
+        "ASCAP ",
+        "Cinram",
+        "#960831AA 73008260292 L382 CINRAM",
+        "L382",
+        "IFPI 6000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/4725642-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/-WCZvlS66_5FOPodaUBKFJKKsOVfBAO0TvbceDQ0Wx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjU2/NDItMTQxNzA1MTY4/Ny03NzE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/f3PbQhPsrH4mSfHOb2fC2d3Q3UorNlbqtIRKTSkIXRI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjU2/NDItMTQxNzA1MTY4/Ny03NzE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4725642",
+      "community": {
+        "want": 349,
+        "have": 326
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11836034,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Entertainment",
+        "The Hit Factory",
+        "Allied DT"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "2410-1-1 ALLIED DT *73008-26029-2*",
+        "IFPI L451",
+        "ifpi 7708"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/11836034-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/tI2A4nJ-j1IjH07zPD5iAmYbAJ9TJKbdsBjjjM02JqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM2/MDM0LTE2MDczNzIy/OTMtNjQ2My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xwl0xQe96NDqlWCUsqL8k3A4Z7P7uzd6tiOTwQjygi4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM2/MDM0LTE2MDczNzIy/OTMtNjQ2My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11836034",
+      "community": {
+        "want": 249,
+        "have": 69
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Allied DT",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29922634,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Canada",
+      "year": "2004",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG Music Canada Inc.",
+        "BMG Music Canada Inc.",
+        "Organized Noise Music",
+        "Stiff Shirt Music, Inc.",
+        "Enjoi Music",
+        "Butter Jinx Music",
+        "Chrysalis Music",
+        "Gnat Booty Music",
+        "Warner-Tamerlane Publishing Corp.",
+        "Curtom Classics Inc.",
+        "Dez Only 1",
+        "Saliandra Publishing",
+        "Rondor Music",
+        "One Ol' Ghetto Hoe",
+        "Warner Chappell Music Ltd.",
+        "Goodie Mob Music",
+        "Cool People Music",
+        "Belt Star",
+        "Organized Noize Productions, Inc.",
+        "Earthtone Ideas, Inc.",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Bosstown Recording Studios",
+        "Chung King Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "Chung King Studios",
+        "Soundtrack Studios",
+        "DARP Studios",
+        "Doppler Studios",
+        "The Hit Factory",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "BMI",
+        "ASCAP ",
+        "[Cinram logo] L387 73008260292 #40717Y15",
+        "MADE IN CANADA 16",
+        "L387",
+        "IFPI 6000"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/29922634-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/2tEf0XD5ZmifB8LiyOI2XStNUzhMQktyTVHioRH95PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIy/NjM0LTE3NzUwNzIx/MDktOTMwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kC4-u7BN07pSZfM9aDD7IbJUYG3s8n9smJSI_IMiizg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIy/NjM0LTE3NzUwNzIx/MDktOTMwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29922634",
+      "community": {
+        "want": 87,
+        "have": 6
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16252539,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2006",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Entertainment",
+        "Arista Records, Inc.",
+        "The Hit Factory",
+        "Sonopress Arvato, USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "73008260292 [Sonopress Arvato logo]  + A08 + F91003",
+        "IFPI LB48",
+        "IFPI 1029"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/16252539-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/uz7AYI7aBxnxcY9DHFLDKvaYV74EJvvjfFMWG_ipLQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTM5LTE2MDYwMjMy/ODItNjUxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hc-pY8AqNZGh_4aDRWz-2Y0yBf2nttp5ZzjwwYBYE90/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTM5LTE2MDYwMjMy/ODItNjUxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16252539",
+      "community": {
+        "want": 182,
+        "have": 57
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sonopress Arvato",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 229737,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "LaFace Records",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Entertainment",
+        "Arista Records, Inc.",
+        "The Hit Factory",
+        "Sonopress USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "730082602921",
+        "SONOPRESS USA 73008260292 + + 70742-01",
+        "IFPI L027",
+        "IFPI 1030",
+        "SONOPRESS USA 73008260292 + + 70742-01",
+        "IFPI L027",
+        "IFPI 1001",
+        "SONOPRESS USA 73008260292 + + 70742-01",
+        "IFPI L027",
+        "IFPI 1019"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/229737-OutKast-ATLiens",
+      "catno": "73008-26029-2",
+      "thumb": "https://i.discogs.com/oBMv2Hs_xvK9t05BwLh2AGa4i0p57bbuAqjc47vtbic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTUz/LTMzOTcuanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/KJytWYxPL-Qyok_wd5qhgz7Azzy8o7aHypb5jnKbvcU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTUz/LTMzOTcuanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/229737",
+      "community": {
+        "want": 1133,
+        "have": 1894
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sonopress USA",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2749726,
+      "title": "OutKast - ATLiens",
+      "master_id": 25965,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "1996",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "LaFace Records",
+        "LaFace Records",
+        "BMG",
+        "Studio LaCoCo",
+        "Doppler Studios",
+        "Chung King Studios",
+        "Bosstown Recording Studios",
+        "Patchwerk Recording Studios",
+        "Sound On Sound, New York",
+        "Purple Dragon Studios",
+        "The Hit Factory",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 73008-26029-2 1",
+        "7730082602921",
+        "730082602921",
+        "LC 3484",
+        "BM 650",
+        "BIEM/GEMA",
+        "[Sonopress logo] R-5277/3008260292 C",
+        "IFPI LB 47",
+        "IFPI 0749",
+        "[Sonopress logo] R-5277/3008260292 04",
+        "IFPI LB 47",
+        "IFPI 0749",
+        "[Sonopress logo] R-5277/3008260292 04",
+        "IFPI LB 47",
+        "IFPI 0755",
+        "[Sonopress logo] R-5277/3008260292 04",
+        "IFPI LB 47",
+        "IFPI 0715",
+        "[Sonopress logo] R-5277/3008260292 C",
+        "IFPI L030",
+        "IFPI 0714",
+        "[Sonopress logo] R-5277/3008260292 A",
+        "IFPI L030",
+        "IFPI 0772"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/25965",
+      "uri": "/release/2749726-OutKast-ATLiens",
+      "catno": "73008 26029 2",
+      "thumb": "https://i.discogs.com/v4sRtAxTgy9FQo_1hfCfzELbnOKU-N7QfwJqhzqA7MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDk3/MjYtMTcwOTQ1NzUx/OS01ODI3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/JfaKAXXRNSoWju_RNKq3tPnDUZkqPMNi8NRk8Qyj-tw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDk3/MjYtMTcwOTQ1NzUx/OS01ODI3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2749726",
+      "community": {
+        "want": 495,
+        "have": 1838
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Sonopress",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 25965,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 229737,
+    "most_recent_release": 37117410,
+    "resource_url": "https://api.discogs.com/masters/25965",
+    "uri": "https://www.discogs.com/master/25965-OutKast-ATLiens",
+    "versions_url": "https://api.discogs.com/masters/25965/versions",
+    "main_release_url": "https://api.discogs.com/releases/229737",
+    "most_recent_release_url": "https://api.discogs.com/releases/37117410",
+    "num_for_sale": 464,
+    "lowest_price": 1.07,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/KJytWYxPL-Qyok_wd5qhgz7Azzy8o7aHypb5jnKbvcU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTUz/LTMzOTcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/KJytWYxPL-Qyok_wd5qhgz7Azzy8o7aHypb5jnKbvcU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTUz/LTMzOTcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/oBMv2Hs_xvK9t05BwLh2AGa4i0p57bbuAqjc47vtbic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTUz/LTMzOTcuanBlZw.jpeg",
+        "width": 600,
+        "height": 591
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/b64SdkM6ezTkQNJHR3PQfhI8PP7u1YLtC41Ifo56QD4/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTA3/LTg3NzYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/b64SdkM6ezTkQNJHR3PQfhI8PP7u1YLtC41Ifo56QD4/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTA3/LTg3NzYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/d6C9nyGNkuZm9U92N56MPiWF1BepphUs8WsE8Y4s8ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NTA3/LTg3NzYuanBlZw.jpeg",
+        "width": 600,
+        "height": 470
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pIH1Xt4W6x-BQeRb7E8vy1rWXm0zzlXnWA6Lvl4n7DM/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk1/LTQ1NTQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/pIH1Xt4W6x-BQeRb7E8vy1rWXm0zzlXnWA6Lvl4n7DM/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk1/LTQ1NTQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/3mM9EDgT6VEtRDIMWtnhK8yvBSMuLJZJnZOkmk_u-r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk1/LTQ1NTQuanBlZw.jpeg",
+        "width": 600,
+        "height": 471
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7Az0xRlawkE0U61mn8Li1FAZ6CWB565XQ3pEjfpCHUo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk4/LTg3NTAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/7Az0xRlawkE0U61mn8Li1FAZ6CWB565XQ3pEjfpCHUo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk4/LTg3NTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/H7nRP1E2a52EwbcARMjjxpmuj5bT11okxffVkCP1BUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NDk4/LTg3NTAuanBlZw.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EWnl5O5vSqCOV76vsJH9C6ccMv2W7tP0GVP1A0VZglg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NjA0/LTQ0OTguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/EWnl5O5vSqCOV76vsJH9C6ccMv2W7tP0GVP1A0VZglg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NjA0/LTQ0OTguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ptrIcFkqY5xCjQQB7UaCrjLS-3vVeL0z7HOQkZ3bga4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3NjA0/LTQ0OTguanBlZw.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fFEkobQw4CFkYlTq-9Zs1rirxX9NG_ttG1K5s94vol4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjkw/LTI0MjkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/fFEkobQw4CFkYlTq-9Zs1rirxX9NG_ttG1K5s94vol4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjkw/LTI0MjkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/4dOm-atBL-8erxLecLrtRo_18m56szR34ChkZb-CRSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjkw/LTI0MjkuanBlZw.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/33jlDu-V6LlmLU2aAvwZO4VDTzvLLs43UVvGxMyg5jE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjky/LTY1MjMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/33jlDu-V6LlmLU2aAvwZO4VDTzvLLs43UVvGxMyg5jE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjky/LTY1MjMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/-FT5GfDNB3QVJ94z730ARzDJM3zEBfv8rEIadlhkDcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjky/LTY1MjMuanBlZw.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5_Q6F4gurfeAVVDmorkkOn_BFevLYizC66Or-rLqJic/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjk1/LTEzMTAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/5_Q6F4gurfeAVVDmorkkOn_BFevLYizC66Or-rLqJic/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjk1/LTEzMTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/60JFcEZPTx5Dj0JyHm1F84H1kfBGFrvRpEh7pNA7u60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3Mjk1/LTEzMTAuanBlZw.jpeg",
+        "width": 600,
+        "height": 587
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ohVLKjGKUhfDFoIgW9v5-A0cvN84SqBa2MAMmIi1qOI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzAz/LTI2MTMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/ohVLKjGKUhfDFoIgW9v5-A0cvN84SqBa2MAMmIi1qOI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzAz/LTI2MTMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/YQH-hCIhdsk-dYPaq-BWJBxdlboePnhLYwJumqF2hyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzAz/LTI2MTMuanBlZw.jpeg",
+        "width": 600,
+        "height": 587
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rbalYW6vSwk8-3ysn4yY2KaMNrEg_vuaMr2-oaJEPnc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA1/LTQ3MzkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/rbalYW6vSwk8-3ysn4yY2KaMNrEg_vuaMr2-oaJEPnc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA1/LTQ3MzkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/oDU3fT2Zr-eHghA9yLE9bzkoEIDX3eI02yzYhJjdojk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA1/LTQ3MzkuanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dgCJESEctsZNiF6QNtHT2Vc1VpGBWZOBVtOpqEQQ-dc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA3/LTM5NzguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/dgCJESEctsZNiF6QNtHT2Vc1VpGBWZOBVtOpqEQQ-dc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA3/LTM5NzguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/1LeYKARwVCW97zdIhkrPNW432X1cFheBO0StjV_uOG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA3/LTM5NzguanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/O3JRE1Rrw6k2Up5D7dWx3Qe73TPiusTo_-Kxm6kVxrw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA4/LTEzNTkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/O3JRE1Rrw6k2Up5D7dWx3Qe73TPiusTo_-Kxm6kVxrw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA4/LTEzNTkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/9D1_uB1IvJZzPA4o51uKDDir283RFy-KbsJ9ia0qjBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzA4/LTEzNTkuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wRAmaDpd73XOTqi3gGx2v-jzAWJAzha8sn-zxPKMmd0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEw/LTczMzAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/wRAmaDpd73XOTqi3gGx2v-jzAWJAzha8sn-zxPKMmd0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEw/LTczMzAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/odXJSKBBp-7ZwE2OmIkxs_NV-idj9tmQOKRt6ZYFAY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEw/LTczMzAuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nMmWKEUPZs6dFFs1UIJCaGzZvVCw8MjTIgn0s7bpado/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEy/LTQ4MjYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/nMmWKEUPZs6dFFs1UIJCaGzZvVCw8MjTIgn0s7bpado/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEy/LTQ4MjYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/VV4keB8lu-HnXsmJ1j-1WrDDdQWvCJnPkRyp29uO7Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzEy/LTQ4MjYuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/bWoTFoRxdmq-9bKones9HiyAcchRAJVJ5SHjPu5IXc0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE0/LTkzODYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/bWoTFoRxdmq-9bKones9HiyAcchRAJVJ5SHjPu5IXc0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE0/LTkzODYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/l2B_T5ZubT6vsdOUlaLVmgXcxJbaXi9GkJ-SQI_Fetg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE0/LTkzODYuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZqZ3VFh8LTUiTLNFa-ExDFxAILwrjh2BnU9baAMDpp8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE4/LTE2NzMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/ZqZ3VFh8LTUiTLNFa-ExDFxAILwrjh2BnU9baAMDpp8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE4/LTE2NzMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/jnAl3Jd7AfBvoQLHq8q1wKvFb2D1vYiNeaHZrt7ogUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzE4/LTE2NzMuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4Wl0fGl2i0rNeggvOzOexH2xffWoJjIkRU4_wz1Sqck/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIw/LTM2OTEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/4Wl0fGl2i0rNeggvOzOexH2xffWoJjIkRU4_wz1Sqck/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIw/LTM2OTEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/2If4O5N-xXxLKDWLx6DOFr9JBCWW2eTGY-XwiqWmVGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIw/LTM2OTEuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ysZRaoCrEXnQ2lQmX9xYUjIt4UzUiE4MTqdRY2PAM8o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIx/LTkyOTAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/ysZRaoCrEXnQ2lQmX9xYUjIt4UzUiE4MTqdRY2PAM8o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIx/LTkyOTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/eMmlPq8tiM3I9sfATyeE6gBUdljnmmZmClSAjT45CFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIx/LTkyOTAuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HFVkk-hGVipqV-eIzzq_iZawmArAAhKVIlQXEaR_s80/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIz/LTI2MzAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/HFVkk-hGVipqV-eIzzq_iZawmArAAhKVIlQXEaR_s80/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIz/LTI2MzAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/cy2FMdt6YwLPU5O1UMm89JyrSeR0T0IJtBwRPCi1Ulk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzIz/LTI2MzAuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pkNQqM3G7jRoDyMjLI3XeqdFOvgrr9wIUfk2zSKm2vA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI1/LTk3NDcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/pkNQqM3G7jRoDyMjLI3XeqdFOvgrr9wIUfk2zSKm2vA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI1/LTk3NDcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/fdgqQv-JxB0HJaF1JQGwSSWlUpOLRjauXU0yCaXY3Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI1/LTk3NDcuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_G1rXDg0Fusn_oYeGpfrQ21PAkq9QohegT66vc6So8M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI3/LTg2MTEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/_G1rXDg0Fusn_oYeGpfrQ21PAkq9QohegT66vc6So8M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI3/LTg2MTEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/atti6nlKCrTd2MMYK0ptSKUuU0sCKI-ivtV9qN8WQUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI3/LTg2MTEuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/LwcItNhvzwj8E38cDPIhtlCjaT1BCFWZ8txPhKZ23MA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI5/LTQxMDMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/LwcItNhvzwj8E38cDPIhtlCjaT1BCFWZ8txPhKZ23MA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI5/LTQxMDMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/r-V2-3rnXaQqx6fNHxObBwXbq7xo72Firkc-Ft5uC2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzI5/LTQxMDMuanBlZw.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/HcVt781Zc4kUYT5xFHVIjhR_Q37tKXvUbK-D5h7KHzI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMx/LTIxNzUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/HcVt781Zc4kUYT5xFHVIjhR_Q37tKXvUbK-D5h7KHzI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMx/LTIxNzUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/IQIXYeA8kuwhgxMS-nTObZpQUML2SIk0iToo4OR0fwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMx/LTIxNzUuanBlZw.jpeg",
+        "width": 600,
+        "height": 595
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Gxp47xT2Hlap6remgWYk7gesIeSPUAvTxE16nNBRiFI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMy/LTQ2NTkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/Gxp47xT2Hlap6remgWYk7gesIeSPUAvTxE16nNBRiFI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMy/LTQ2NTkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/Mo2RFh7O2yQmsgD9XxWbmcjaiQgS4T-EaEERiLvIG6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzMy/LTQ2NTkuanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Te-xZXsCyMbGRL4vdrGQ8Q3jusD5BLvN2_0jbEP4HOs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM0/LTY4MDAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/Te-xZXsCyMbGRL4vdrGQ8Q3jusD5BLvN2_0jbEP4HOs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM0/LTY4MDAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/GdNDJY0aMOSnHqRke6BXBQNrRlHahjR6UD4Juwqj_5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM0/LTY4MDAuanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/MroxL59FQL5Wyqx07lkzqGp0Mm9hGn-6ieGBqZUy3Nc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM2/LTk2MzIuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/MroxL59FQL5Wyqx07lkzqGp0Mm9hGn-6ieGBqZUy3Nc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM2/LTk2MzIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/m3pQ_PMXyoAUcU8J75K9Pypq-ff3KymV42HRtoi7rQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM2/LTk2MzIuanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5dh3kj6GvSdGbUGP9Z8d3KmbwNSY0zOlcQEBq9_dpR0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM3/LTQ3MTIuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/5dh3kj6GvSdGbUGP9Z8d3KmbwNSY0zOlcQEBq9_dpR0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM3/LTQ3MTIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/I_iXjDbUB_CsIhcAjUdp82JsOSSb3yKa-ZSuo6YNlqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM3/LTQ3MTIuanBlZw.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lZnGrZIBF6UobrLpJLUNhZrp8ZkkYix2UK9XFxg68U0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM5/LTU3MDUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/lZnGrZIBF6UobrLpJLUNhZrp8ZkkYix2UK9XFxg68U0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM5/LTU3MDUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ygtVARlbC4uojJJR5XcF9dLMF3T-KcBvXXqJqrwf_4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzM5/LTU3MDUuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6-kF6CvWv07uAL2fKinfIe-Wk1rb8pQSLNPOMAC0RnQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQx/LTQ5OTIuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/6-kF6CvWv07uAL2fKinfIe-Wk1rb8pQSLNPOMAC0RnQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQx/LTQ5OTIuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/HbWFJaJBs3-jWy53ulxiVNQ3w_tOjtXbCNSbiujORoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQx/LTQ5OTIuanBlZw.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/FF3hU_7YWkjbG5zp2M9yFE5fILg1BVpCSzpGaWQ37Ms/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQz/LTgxMDEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/FF3hU_7YWkjbG5zp2M9yFE5fILg1BVpCSzpGaWQ37Ms/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQz/LTgxMDEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/3OUvqKhm45CFUq-Ye-Yi504kSAL8wEe3AgFIosVD_bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQz/LTgxMDEuanBlZw.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/wC12YkHdXwY6ir0nvIVqd3CiKhuLppznqC3gJxs4Ows/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ2/LTU2NTcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/wC12YkHdXwY6ir0nvIVqd3CiKhuLppznqC3gJxs4Ows/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ2/LTU2NTcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/k0LD8Hvb4wBwYDzhO6XQOtF5ldYAPFIWmI040hmYxmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ2/LTU2NTcuanBlZw.jpeg",
+        "width": 600,
+        "height": 590
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/_dtZnY2uCYEYRZwlxmINL-LnuQmJmL3p7h8lCCmVsxQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ5/LTY5MzEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/_dtZnY2uCYEYRZwlxmINL-LnuQmJmL3p7h8lCCmVsxQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ5/LTY5MzEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/oM_HJyNNHjp3EmYaZnrjfMCP0aSOAV1MsqCIeQfsbyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcz/Ny0xNzA5NDU3MzQ5/LTY5MzEuanBlZw.jpeg",
+        "width": 600,
+        "height": 585
+      }
+    ],
+    "year": 1996,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "You May Die (Intro)",
+        "extraartists": [
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "Chanz",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Kerren Berz",
+            "anv": "",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 361003,
+            "resource_url": "https://api.discogs.com/artists/361003"
+          },
+          {
+            "name": "Joi (3)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 140804,
+            "resource_url": "https://api.discogs.com/artists/140804"
+          },
+          {
+            "name": "Trina Powell",
+            "anv": "Trina",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 1186310,
+            "resource_url": "https://api.discogs.com/artists/1186310"
+          },
+          {
+            "name": "Whild Peach",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 276777,
+            "resource_url": "https://api.discogs.com/artists/276777"
+          }
+        ],
+        "duration": "1:05"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Two Dope Boyz (In A Cadillac)",
+        "extraartists": [
+          {
+            "name": "Peaches (5)",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 361005,
+            "resource_url": "https://api.discogs.com/artists/361005"
+          },
+          {
+            "name": "LaMarquis Jefferson",
+            "anv": "Marq Jefferson",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 190318,
+            "resource_url": "https://api.discogs.com/artists/190318"
+          },
+          {
+            "name": "Edward Stroud",
+            "anv": "Ed Stroud",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 352881,
+            "resource_url": "https://api.discogs.com/artists/352881"
+          },
+          {
+            "name": "Five Stairsteps",
+            "anv": "The 5 Stairsteps",
+            "join": "",
+            "role": "Performer [Sample]",
+            "tracks": "",
+            "id": 353481,
+            "resource_url": "https://api.discogs.com/artists/353481"
+          },
+          {
+            "name": "Clarence Burke",
+            "anv": "Clarence Burke, Jr.",
+            "join": "",
+            "role": "Written-By [Sample]",
+            "tracks": "",
+            "id": 236006,
+            "resource_url": "https://api.discogs.com/artists/236006"
+          },
+          {
+            "name": "Curtis Mayfield",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Sample]",
+            "tracks": "",
+            "id": 17589,
+            "resource_url": "https://api.discogs.com/artists/17589"
+          },
+          {
+            "name": "Gregory Fowler (2)",
+            "anv": "G.Fowler",
+            "join": "",
+            "role": "Written-By [Sample]",
+            "tracks": "",
+            "id": 1059662,
+            "resource_url": "https://api.discogs.com/artists/1059662"
+          }
+        ],
+        "duration": "2:46"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "ATLiens",
+        "extraartists": [
+          {
+            "name": "Dee Simmons",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 176934,
+            "resource_url": "https://api.discogs.com/artists/176934"
+          },
+          {
+            "name": "Kenneth Wright",
+            "anv": "Kenny Wright",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 189278,
+            "resource_url": "https://api.discogs.com/artists/189278"
+          }
+        ],
+        "duration": "3:50"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Wheelz Of Steel",
+        "extraartists": [
+          {
+            "name": "Craig Love",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 170142,
+            "resource_url": "https://api.discogs.com/artists/170142"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "Chanz",
+            "join": "",
+            "role": "Organ",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          }
+        ],
+        "duration": "4:03"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Jazzy Belle",
+        "extraartists": [
+          {
+            "name": "Arlynn Page",
+            "anv": "Arlynn",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 289374,
+            "resource_url": "https://api.discogs.com/artists/289374"
+          },
+          {
+            "name": "Dawn Beckman",
+            "anv": "Dawn",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 175386,
+            "resource_url": "https://api.discogs.com/artists/175386"
+          },
+          {
+            "name": "Debra Killings",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170169,
+            "resource_url": "https://api.discogs.com/artists/170169"
+          },
+          {
+            "name": "Jazzyfatnastees",
+            "anv": "Jazzy Phat Nastee's",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 79986,
+            "resource_url": "https://api.discogs.com/artists/79986"
+          },
+          {
+            "name": "Tracey Moore",
+            "anv": "Tracy",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 257154,
+            "resource_url": "https://api.discogs.com/artists/257154"
+          }
+        ],
+        "duration": "4:12"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Elevators (Me & You)",
+        "extraartists": [
+          {
+            "name": "Debra Killings",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170169,
+            "resource_url": "https://api.discogs.com/artists/170169"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "NealHPogue",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Ricciano Lumpkins",
+            "anv": "Rico Lumpkin",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 245823,
+            "resource_url": "https://api.discogs.com/artists/245823"
+          }
+        ],
+        "duration": "4:25"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Ova Da Wudz",
+        "extraartists": [
+          {
+            "name": "Witchdoctor",
+            "anv": "EJ Tha Witch Doctor",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 143582,
+            "resource_url": "https://api.discogs.com/artists/143582"
+          }
+        ],
+        "duration": "3:48"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Babylon",
+        "extraartists": [
+          {
+            "name": "Carlos Glover",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 187658,
+            "resource_url": "https://api.discogs.com/artists/187658"
+          },
+          {
+            "name": "Martin Terry",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Wahwah]",
+            "tracks": "",
+            "id": 182136,
+            "resource_url": "https://api.discogs.com/artists/182136"
+          },
+          {
+            "name": "Andrea Martin",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 137978,
+            "resource_url": "https://api.discogs.com/artists/137978"
+          }
+        ],
+        "duration": "4:24"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Wailin'",
+        "extraartists": [
+          {
+            "name": "Skinny Miracles",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 187665,
+            "resource_url": "https://api.discogs.com/artists/187665"
+          },
+          {
+            "name": "Cee-Lo",
+            "anv": "Cee-Lo Green",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 57770,
+            "resource_url": "https://api.discogs.com/artists/57770"
+          }
+        ],
+        "duration": "2:00"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Mainstream",
+        "extraartists": [
+          {
+            "name": "Martin Terry",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Wahwah]",
+            "tracks": "",
+            "id": 182136,
+            "resource_url": "https://api.discogs.com/artists/182136"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "Chanz",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Khujo Goodie",
+            "anv": "Khujo",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 147024,
+            "resource_url": "https://api.discogs.com/artists/147024"
+          },
+          {
+            "name": "T-Mo Goodie",
+            "anv": "T-Bu",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 53124,
+            "resource_url": "https://api.discogs.com/artists/53124"
+          }
+        ],
+        "duration": "5:18"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Decatur Psalm",
+        "extraartists": [
+          {
+            "name": "Joi (3)",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 140804,
+            "resource_url": "https://api.discogs.com/artists/140804"
+          },
+          {
+            "name": "Tamara Powell",
+            "anv": "Tamara",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 714515,
+            "resource_url": "https://api.discogs.com/artists/714515"
+          },
+          {
+            "name": "Trina Powell",
+            "anv": "Trina",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 1186310,
+            "resource_url": "https://api.discogs.com/artists/1186310"
+          },
+          {
+            "name": "Whild Peach",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 276777,
+            "resource_url": "https://api.discogs.com/artists/276777"
+          },
+          {
+            "name": "Big Gipp",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 53121,
+            "resource_url": "https://api.discogs.com/artists/53121"
+          },
+          {
+            "name": "Cool Breeze (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 187660,
+            "resource_url": "https://api.discogs.com/artists/187660"
+          }
+        ],
+        "duration": "3:58"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Millennium",
+        "extraartists": [
+          {
+            "name": "Jay Nicholas",
+            "anv": "James \"Jay\" Nicholas",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 272097,
+            "resource_url": "https://api.discogs.com/artists/272097"
+          },
+          {
+            "name": "Craig Love",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Rhythm Guitar",
+            "tracks": "",
+            "id": 170142,
+            "resource_url": "https://api.discogs.com/artists/170142"
+          },
+          {
+            "name": "ShaJuanna Edghill",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 301233,
+            "resource_url": "https://api.discogs.com/artists/301233"
+          }
+        ],
+        "duration": "3:09"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "E.T. (Extraterrestrial)",
+        "extraartists": [
+          {
+            "name": "Witchdoctor",
+            "anv": "EJ Tha Witch Doctor",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 143582,
+            "resource_url": "https://api.discogs.com/artists/143582"
+          }
+        ],
+        "duration": "3:07"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "13th Floor / Growing Old",
+        "extraartists": [
+          {
+            "name": "Debra Killings",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170169,
+            "resource_url": "https://api.discogs.com/artists/170169"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "Chanz",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          }
+        ],
+        "duration": "7:50"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Elevators (ONP 86 Mix)",
+        "extraartists": [
+          {
+            "name": "Kenneth Wright",
+            "anv": "Kenny Wright",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 189278,
+            "resource_url": "https://api.discogs.com/artists/189278"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions",
+            "join": "",
+            "role": "Producer [Additional Production], Remix",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Blake Eiseman",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 292092,
+            "resource_url": "https://api.discogs.com/artists/292092"
+          },
+          {
+            "name": "Alex Lowe",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 309080,
+            "resource_url": "https://api.discogs.com/artists/309080"
+          },
+          {
+            "name": "Mike Wilson",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 57059,
+            "resource_url": "https://api.discogs.com/artists/57059"
+          }
+        ],
+        "duration": "4:36"
+      }
+    ],
+    "artists": [
+      {
+        "name": "OutKast",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 38561,
+        "resource_url": "https://api.discogs.com/artists/38561",
+        "thumbnail_url": "https://i.discogs.com/4dPQedPP7YrZBQXX4tyrxDJ0pmTQlq3Afgqau7kzN4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NTYx/LTE2NjE4MzU4NjUt/NTY5Ni5qcGVn.jpeg"
+      }
+    ],
+    "title": "ATLiens",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=ktc9hsSfUck",
+        "title": "Outkast - ATliens (Official HD Video)",
+        "description": "Official HD video for \"ATliens\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\n\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenID/youtube\n\nFo",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uqB_UVlhlPA",
+        "title": "Outkast - Elevators (Me & You) (Official HD Video)",
+        "description": "Official HD video for \"Elevators (Me & You)\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\n\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenI",
+        "duration": 276,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=8p8CWpoOOdE",
+        "title": "Outkast - Jazzy Belle (Official HD Video)",
+        "description": "The 25th Anniversary edition of Stankonia is out now \ud83d\udca5\u00a0Stream and get it on vinyl!\n https://outkast.lnk.to/StankoniaAnniversary\n\nOfficial HD video for \"Jazzy Belle\" by OutKast \nListen to OutKast: https://Outkast.lnk.to/listenYD\nSubscribe to the official O",
+        "duration": 248,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 25965,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    }
+  ]
+}

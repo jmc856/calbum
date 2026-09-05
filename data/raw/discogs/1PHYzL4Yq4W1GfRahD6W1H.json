@@ -1,0 +1,289 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "811774023566",
+    "artist": "Pinegrove",
+    "title": "Everything So Far",
+    "year": 2015
+  },
+  "results": [
+    {
+      "id": 7607159,
+      "title": "Pinegrove - Everything So Far",
+      "master_id": 879793,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "country": "US",
+      "year": "2015",
+      "format": [
+        "Cassette",
+        "Album",
+        "Compilation"
+      ],
+      "label": [
+        "Run For Cover Records"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/879793",
+      "uri": "/release/7607159-Pinegrove-Everything-So-Far",
+      "catno": "RFC:146",
+      "thumb": "https://i.discogs.com/-A-qBzriu4eV4b2p1oNhDpUaqb-dtlstHW9RpRCb8mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDcx/NTktMTUyMjY1ODIy/Ni00NTA3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/LeEz5kwnPbAt2A1YYn_6YM0ZsVNdCkoXO70bVRb5zEI/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDcx/NTktMTUyMjY1ODIy/Ni00NTA3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7607159",
+      "community": {
+        "want": 125,
+        "have": 160
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Navy Blue",
+          "descriptions": [
+            "Album",
+            "Compilation"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 879793,
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [],
+    "main_release": 7423782,
+    "most_recent_release": 25289179,
+    "resource_url": "https://api.discogs.com/masters/879793",
+    "uri": "https://www.discogs.com/master/879793-Pinegrove-Everything-So-Far",
+    "versions_url": "https://api.discogs.com/masters/879793/versions",
+    "main_release_url": "https://api.discogs.com/releases/7423782",
+    "most_recent_release_url": "https://api.discogs.com/releases/25289179",
+    "num_for_sale": 6,
+    "lowest_price": 54.05,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VE-8M4aXDAiycZZ7h0cpp6JLW8Ob4WgyCU_yJReW3aE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/MS02OTA3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/VE-8M4aXDAiycZZ7h0cpp6JLW8Ob4WgyCU_yJReW3aE/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/MS02OTA3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/VmWLLus0v2v1cPooNj3VY1-1Q_gu0lAthLQLwVHCyTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/MS02OTA3LmpwZWc.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ihxlxsmk8Jcwl3LD5TNp5_DCzhdTAzzVyNgihuAE1ts/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/OS00MTk2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ihxlxsmk8Jcwl3LD5TNp5_DCzhdTAzzVyNgihuAE1ts/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/OS00MTk2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/VXLFrjGSgGk4N5RumkdkL50x46FVfHOh_hK6dp7_Pkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTMz/OS00MTk2LmpwZWc.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sv4K-POmY4f14yAWcK2XTM3pfMTxoU_A61ZxygGsmU8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/My0yMDU1LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/sv4K-POmY4f14yAWcK2XTM3pfMTxoU_A61ZxygGsmU8/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/My0yMDU1LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9CczmiOv7NR3dxNTfQhhmF2RvQGB2ObyfyGAUM8awZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/My0yMDU1LmpwZWc.jpeg",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Jc_68vXS4X3yLhYcXRh0TTPR3CXRg13YW31Wy1d8c_w/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/OS0yNzkwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Jc_68vXS4X3yLhYcXRh0TTPR3CXRg13YW31Wy1d8c_w/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/OS0yNzkwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ZWkjGMd9lKD5hG2l5YYZAvGCb9LD-Ric8PbRWaaSzxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjM3/ODItMTQ0MTIyOTM0/OS0yNzkwLmpwZWc.jpeg",
+        "width": 450,
+        "height": 600
+      }
+    ],
+    "year": 0,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Namesake",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "V",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "&",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Unison",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Rose",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Problems",
+        "duration": ""
+      },
+      {
+        "position": "A7",
+        "type_": "track",
+        "title": "Need",
+        "duration": ""
+      },
+      {
+        "position": "A8",
+        "type_": "track",
+        "title": "Overthrown",
+        "duration": ""
+      },
+      {
+        "position": "A9",
+        "type_": "track",
+        "title": "Size of the Moon",
+        "duration": ""
+      },
+      {
+        "position": "A10",
+        "type_": "track",
+        "title": "Need 2",
+        "duration": ""
+      },
+      {
+        "position": "A11",
+        "type_": "track",
+        "title": "Palisade",
+        "duration": ""
+      },
+      {
+        "position": "A12",
+        "type_": "track",
+        "title": "The Metronome",
+        "duration": ""
+      },
+      {
+        "position": "A13",
+        "type_": "track",
+        "title": "Mather Knoll",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Over My Shoulder",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Peeling Off The Bark",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Morningtime",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Recycling",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Sunday",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "On Jet Lag",
+        "duration": ""
+      },
+      {
+        "position": "B7",
+        "type_": "track",
+        "title": "Days",
+        "duration": ""
+      },
+      {
+        "position": "B8",
+        "type_": "track",
+        "title": "The Metronome (demo)",
+        "duration": ""
+      },
+      {
+        "position": "B9",
+        "type_": "track",
+        "title": "Recycling (demo)",
+        "duration": ""
+      },
+      {
+        "position": "B10",
+        "type_": "track",
+        "title": "Problems (chicago)",
+        "duration": ""
+      }
+    ],
+    "artists": [
+      {
+        "name": "Pinegrove",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4203470,
+        "resource_url": "https://api.discogs.com/artists/4203470",
+        "thumbnail_url": "https://i.discogs.com/4fb_pswC6M8L-IUKS4E-A5JeX_acERkCj7UxDYZEcN8/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyMDM0/NzAtMTY2NTI4NzE3/My00MTc5LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Everything So Far",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=-BIjLiL9NT8",
+        "title": "Pinegrove - Everything So Far (FULL ALBUM STREAM)",
+        "description": "'Everything So Far' out now\n\nStream/Purchase: https://lnk.to/PG-ESF",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 879793,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Folk, World, & Country",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

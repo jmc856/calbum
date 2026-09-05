@@ -1,0 +1,4949 @@
+{
+  "step": "barcode",
+  "query": {
+    "upc": "730082607223",
+    "artist": "Outkast",
+    "title": "Stankonia",
+    "year": 2000
+  },
+  "results": [
+    {
+      "id": 16994862,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "USA & Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 3008 260722 3",
+        "LC 03484"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/16994862-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/DNb1AxoLOk8t2LncNa2hnJXzhZHAGKlqxepLF4guxbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk0/ODYyLTE2MTEwMTUx/MjctNjQ4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bqOYVaNKNyzS0KO0OUuMvWp0pq91F9R9ToWHl-0354c/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk0/ODYyLTE2MTEwMTUx/MjctNjQ4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/16994862",
+      "community": {
+        "want": 194,
+        "have": 862
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8990060,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "New Zealand",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/8990060-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/3vPCZq2Q7oWRDu-zRID4JgEwjA6F478QYfTp8tnqjZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAw/NjAtMTcxMjE4Mzg0/MS0zNjk2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/vIIpkCzgUTeO43ABdZTVaZQlj8pIcDh_fhIFJ4kzCHA/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAw/NjAtMTcxMjE4Mzg0/MS0zNjk2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8990060",
+      "community": {
+        "want": 336,
+        "have": 21
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9321313,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "Russia",
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "73008260722RE1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/9321313-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/gBXwjwlevw25zKgkAZfIBlvrSAogaX5hZH00AVuNG54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjEz/MTMtMTYxOTExMTg1/NS01MjA0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/fg-BDIISTyWc5lVYZ-R3Z5BEpkP6rNhEp3fG1ZRvrUg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjEz/MTMtMTYxOTExMTg1/NS01MjA0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9321313",
+      "community": {
+        "want": 294,
+        "have": 26
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11158286,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "Russia",
+      "format": [
+        "CD",
+        "Album",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Arista",
+        "Arista",
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "730082607223",
+        "73008260722RE1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/11158286-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/Z33TLSE6csdNesnSHkqkDxGouldrsFyzWasyt7YwQdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU4/Mjg2LTE1MTA5NjQ1/OTktODk2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dJea5brDXCXnMlttmOAfoI74ejYgS3eLcmrBEWC7aZE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU4/Mjg2LTE1MTA5NjQ1/OTktODk2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11158286",
+      "community": {
+        "want": 270,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Unofficial Release"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35166820,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "Indonesia",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "BMG Indonesia",
+        "BMG Indonesia"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/35166820-OutKast-Stankonia",
+      "catno": "73008260722",
+      "thumb": "https://i.discogs.com/3nLl4C_i1cpq_SEJxJhhdN0LTyvGf9GDatw_Bl4-bcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTY2/ODIwLTE3NTg1MDg0/OTItMzcwMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kmDfVHAS4NY19pDNMAFeSTn7o9cN-mOBDW9LYRjLrhc/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTY2/ODIwLTE3NTg1MDg0/OTItMzcwMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35166820",
+      "community": {
+        "want": 47,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26922590,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Absolute Audio, N.Y.C.",
+        "Denon Digital Industries",
+        "Denon Digital Industries"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "*2D* 73008260722 B A1",
+        "IFPI L431",
+        "IFPI 7402"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/26922590-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/RnBIezCApF5K_eMKAi3Voe2fR4MupdUPyL9rhzkhJ8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTIy/NTkwLTE2ODI3ODY3/MzQtNTYwNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/r3KkQlB6M-2gID46R7V2WcXP0pulSO8Q6idiXgOOYU0/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTIy/NTkwLTE2ODI3ODY3/MzQtNTYwNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26922590",
+      "community": {
+        "want": 128,
+        "have": 100
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Denon Pressing",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9722188,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Australia Limited",
+        "SMEA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "0139813 73008260722 01",
+        "IFPI L681",
+        "IFPI 651D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/9722188-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/tXlEr8_EfojBhMU3rjxhBLNW52RfuuGs465iL5Si51k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjIx/ODgtMTUzNDU3ODMw/OC04NjQ0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/Umr9vDxA_2IdFfgAEWXP7O38CyVVcU0X9IV1roQu5w8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjIx/ODgtMTUzNDU3ODMw/OC04NjQ0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9722188",
+      "community": {
+        "want": 305,
+        "have": 278
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24298811,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Gangsta",
+        "Conscious"
+      ],
+      "country": "Lebanon",
+      "format": [
+        "Cassette",
+        "Album"
+      ],
+      "label": [
+        "BMG",
+        "SIDI"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/24298811-OutKast-Stankonia",
+      "catno": "7 30082 60722 3",
+      "thumb": "https://i.discogs.com/tYbJrhD6DDxl5oVQuKaOvAnEECYqaeGv_4HmtxD12T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk4/ODExLTE2NjEzNDE2/NDEtMjkwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RnwA8trzgesa1-mSK_wL2zwu8hJBs8Ac6mW0ch_yYrs/rs:fit/g:sm/q:90/h:920/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk4/ODExLTE2NjEzNDE2/NDEtMjkwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24298811",
+      "community": {
+        "want": 71,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "text": "Dolby NR",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 241801,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "JVC CA"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "73008260722RE1 37L",
+        "IFPI L241",
+        "IFPI 4141",
+        "JVC CA",
+        "73008260722RE1 38L"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/241801-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/3rittoi0D1nRKdkCxudKKUDGX_Mb-dfFt6wmD9yWqkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgw/MS0xNTEwMTcwNjc4/LTkwODguanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/1p9L6BSSchsQ6DIaLa79NnLmPllCfP77-K4Ji_gh_aM/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgw/MS0xNTEwMTcwNjc4/LTkwODguanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/241801",
+      "community": {
+        "want": 1165,
+        "have": 5397
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11654223,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Repress"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "BMG",
+        "BMG Entertainment",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG",
+        "Sony DADC",
+        "Stankonia Recording",
+        "The Dungeon Recording Studios",
+        "Patchwerk Recording Studios",
+        "Stankonia Recording",
+        "Larrabee West",
+        "The Dungeon Recording Studios",
+        "Stankonia Recording",
+        "Absolute Audio",
+        "Earthtone",
+        "Organized Noize Productions, Inc.",
+        "Gnat Booty Music",
+        "Chrysalis Music Inc.",
+        "Dungeon Ratz Music, Inc.",
+        "Goodie Mob Music",
+        "Chrysalis Music",
+        "Organized Noize Music",
+        "Aniyah's Music",
+        "J-Sweet Music",
+        "Cory Andrews Publishing",
+        "Publishing Designee",
+        "Sincerely Success",
+        "Tef Noize Music Publishing",
+        "Hits From Da Bong Music",
+        "BMG Songs, Inc.",
+        "Dez Only 1",
+        "Chrysalis",
+        "Lil' Bree Music",
+        "Slic Flo Music",
+        "Divine Pimp Publishing",
+        "Carl Mo Music",
+        "Curbstone-LAILO Music",
+        "Death To The Fakers Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 30082 60722 3",
+        "LC 03484",
+        "Sony DADC A0102307408-0101 13 A00",
+        "IFPI L553",
+        "IFPI 941A",
+        "BIEM/GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/11654223-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/2OQYh4ovaZcfcH6_JW9CLEupdhx7I8jUsyIlsjvSC6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU0/MjIzLTE1MjAwOTc4/NzctNDI2Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fMRCpkYsfkrEUf3-BB_dLm7zhJq1KHaVvaGBCorvzWQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU0/MjIzLTE1MjAwOTc4/NzctNDI2Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11654223",
+      "community": {
+        "want": 295,
+        "have": 362
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1022804,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap"
+      ],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "BMG",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Stankonia Recording",
+        "Southern Living Studios",
+        "Stankonia Recording",
+        "BMG",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "730082607223",
+        "LC 03484",
+        "BIEM / GEMA",
+        "IFPI LP 73",
+        "50198300/73998260722",
+        "50198300/73008260722 21",
+        "IFPI 0788",
+        "IFPI 0738",
+        "IFPI 0792"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/1022804-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/lPjZrf7AmLJBGXWCryaaZWDzBb-oi9dxT2bZOV8-ous/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI4/MDQtMTIxODgxMDI5/NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YShqhuq3IsliIxIl9C1MxdgH-hBd0MUrin9J1_uJhyU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI4/MDQtMTIxODgxMDI5/NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/1022804",
+      "community": {
+        "want": 412,
+        "have": 1262
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24269360,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "L383 8608 73008260722RE1 E01010-06 A",
+        "IFPI 8100"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/24269360-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/v3zRRZo3FtupQL6OSsXmXGvTzH3B6x7nNlOeHSIjmO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY5/MzYwLTE2NjEwOTEz/MTMtNjYxOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/noM6_EmybM5QcUO6JJnAq5Ik81QP8lhhXlFh4aLRrgo/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY5/MzYwLTE2NjEwOTEz/MTMtNjYxOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24269360",
+      "community": {
+        "want": 159,
+        "have": 133
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10307632,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Denon Digital Industries",
+        "Denon Digital Industries"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "73008260722",
+        "*2D* 73008260722",
+        "IFPI L431",
+        "IFPI 7491",
+        "*2D* 73008260722 B A7",
+        "IFPI L431",
+        "IFPI 7402",
+        "73008260722RE1 1F 14 Y",
+        "IFPI L240",
+        "IFPI 4121"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/10307632-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/e-_WAcNpMH6AIkBsf8nitut0QuE0uoKfogYGxyn25c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/NjMyLTE0OTUwNDg5/ODItNzY0OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/iMhSEK5CztHpUxNcnp45R7dVLeROOjlQn0BMbHhOhq8/rs:fit/g:sm/q:90/h:447/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/NjMyLTE0OTUwNDg5/ODItNzY0OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10307632",
+      "community": {
+        "want": 369,
+        "have": 415
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Denon Pressing",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27572718,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Australia Limited",
+        "Digital Audio Technologies Australia",
+        "Digital Audio Technologies Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "D.A.T.A. 73008260722 A E6",
+        "IFPIL 311",
+        "ifpi 7957"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/27572718-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/CaHXaL8ph0ZdNsr90rJ0o80MQ8bIXVPVACNwj_rh4JI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTcy/NzE4LTE2ODg0Mjg1/ODQtNTc5OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/nfBc76BTFFm5VDfhERUEDU6jqfqaFPLay6iUJAYD4K8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTcy/NzE4LTE2ODg0Mjg1/ODQtNTc5OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27572718",
+      "community": {
+        "want": 95,
+        "have": 12
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22998308,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "USA & Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "BMG",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "56896757 / 73008260722RD1 21",
+        "BIEM/GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/22998308-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/iyKw402RYZm5f4a3evkLIHDMrHJMs3-H9z6oPzaJDDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk4/MzA4LTE3NDY4ODM4/NTMtMzAwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/6GXWc5gg_g-giPLlSoW0n87i-ZfNv19YOaWH7opmDGY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk4/MzA4LTE3NDY4ODM4/NTMtMzAwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22998308",
+      "community": {
+        "want": 128,
+        "have": 38
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15731859,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "A02 DIDX-248682 2",
+        "IFPI L327",
+        "IFPI 50A5",
+        "A02 DIDX-248682 2",
+        "IFPI L327",
+        "IFPI 5083"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/15731859-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/2I6M_w8cSP5EkxGNIFSrLTSnxZIXq9OwBkQ-CbBHQb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMx/ODU5LTE1OTY3NjI2/NjEtMzc5MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rYGdvKlVHqY8lN8AVc02S79EmmVQ_PzywJuZZNv5AJA/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMx/ODU5LTE1OTY3NjI2/NjEtMzc5MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15731859",
+      "community": {
+        "want": 225,
+        "have": 63
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8328255,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "JVC Disc America",
+        "JVC Disc America"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 3008-26072-2 3",
+        "73008260722RE1 3F14 Y IFPI L240",
+        "73008260722RE1 2F15 Y IFPI L240",
+        "IFPI L240",
+        "IFPI 4121"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/8328255-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/sfD7IGcJleMCuUpsjmjH8Ad3IsJO79Qoo-64e4lNlQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjgy/NTUtMTQ1OTU0MTQ1/Ni04NjM4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/49CY73LsmgNY_scVZz6Wlo5rbL1558swz3MS8lGCCbc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjgy/NTUtMTQ1OTU0MTQ1/Ni04NjM4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8328255",
+      "community": {
+        "want": 404,
+        "have": 361
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24913679,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "UK & Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "BMG",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "56896757/73008260722RD1 21",
+        "IFPI LV93",
+        "IFPI 6730",
+        "LC 03484",
+        "BIEM/GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/24913679-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/lNUpfzRt2MbknQr2Al7-Itu6XPiezI3kQC6XyUFH6aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEz/Njc5LTE2NjY1NDA4/NDAtNzk2OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/PaVq_7KBPOCuaprqPqXaaYENYLTpOQKQ4h0nRvPge4w/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEz/Njc5LTE2NjY1NDA4/NDAtNzk2OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/24913679",
+      "community": {
+        "want": 119,
+        "have": 68
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23012321,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious"
+      ],
+      "country": "USA & Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "BMG",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG",
+        "BMG Entertainment",
+        "Organized Noize Productions, Inc.",
+        "NHP Sound, Inc.",
+        "Absolute Audio, N.Y.C.",
+        "Stankonia Recording",
+        "Stankonia Recording",
+        "Stankonia Recording",
+        "The Dungeon Recording Studios",
+        "Patchwork Recording",
+        "Larrabee Sound Studios",
+        "The Dungeon Recording Studios",
+        "Southern Living Studios",
+        "Gnat Booty",
+        "Chrysalis Music Inc.",
+        "Dungeon Ratz Music, Inc.",
+        "Goodie Mob",
+        "Chrysalis Music",
+        "Organized Noize Music",
+        "Anyiah's Music",
+        "J-Sweet Music",
+        "Sincerely Success",
+        "Tef Noize Music Publishing",
+        "Hits From Da Bong Music",
+        "BMG Songs, Inc.",
+        "Dez Only 1",
+        "Goodie Mob Music",
+        "Chrysalis",
+        "Lil' Bree Music",
+        "Slic Flo Music",
+        "Divine Pimp Publishing",
+        "Carl Mo Music",
+        "Curbstone-LAILO Music",
+        "Death To The Fakers",
+        "Arista Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "56896757 / 73008260722RD1 21",
+        "LC 03484",
+        "BIEM/GEMA"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/23012321-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/sjkWcZIIcl9EIlmhuYayJvD8tUV1Awyei78725OA2jM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDEy/MzIxLTE2NTA5MjY4/OTEtMzM1OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rifnHNVm94A0jTmkEMik4d0QQaW3X4namFLZoa-jLXc/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDEy/MzIxLTE2NTA5MjY4/OTEtMzM1OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23012321",
+      "community": {
+        "want": 125,
+        "have": 15
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14825010,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arvato Digital Services, USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 3008-26072-2 3",
+        "73008260722RE1 [Arvato Digital Services logo] +A01+ HU79204",
+        "IFPI L028"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/14825010-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/Weg5YE1JtnPDN1CvJ7Y6sj-0DJBGyNaVVdGwNjwLyl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI1/MDEwLTE1ODIzMjAx/NzgtMjI4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VyiJ1nk8TqR3aBXw8z04dg0bCaPXfB0kno-Bqb3y1JQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI1/MDEwLTE1ODIzMjAx/NzgtMjI4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14825010",
+      "community": {
+        "want": 246,
+        "have": 21
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4951578,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "Europe",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Arista",
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "Stankonia Recording",
+        "Southern Living Studios",
+        "Stankonia Recording",
+        "BMG",
+        "Absolute Audio, N.Y.C.",
+        "Sonopress"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "730082607223",
+        "LC 03484",
+        "BIEM / GEMA",
+        "[Sonopress logo] A-43203/3008260722 A",
+        "IFPI LB 45",
+        "IFPI 0726",
+        "IFPI 0760",
+        "IFPI 0759",
+        "IFPI 0783",
+        "IFPI 0787",
+        "IFPI 0755",
+        "IFPI 0781",
+        "IFPI 0743",
+        "IFPI 0750",
+        "IFPI 0744",
+        "IFPI 0749",
+        "IFPI 0752"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/4951578-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/pBuPtU_NjjpeJ0VpXRlx6NopoNdCM61JZS16NgnZ4O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE1/NzgtMTYxNTAzNTU0/OC03MTgyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/OM03mtWqMMrKU76msTdqiFhlvTHTC1rZV7aF4KLc7YQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTE1/NzgtMTYxNTAzNTU0/OC03MTgyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4951578",
+      "community": {
+        "want": 525,
+        "have": 2587
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 718215,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "Australia",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "BMG Australia Limited",
+        "BMG Australia Limited",
+        "PMI"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "IFPI 4604",
+        "* 73008260722 * #01 MADE BY PMI."
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/718215-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/CC_ykBRZGbn09OlqKTS62Oo7nZo-zQh3KnzXp14wzv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODIx/NS0xMzE5MDEwNTAz/LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/u-kDS4uEsKvqgA0INDBkSfieP3rwSAsrqUIjmz5fAuE/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODIx/NS0xMzE5MDEwNTAz/LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/718215",
+      "community": {
+        "want": 379,
+        "have": 180
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2584373,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Gangsta",
+        "P.Funk",
+        "Crunk",
+        "Conscious",
+        "Pop Rap"
+      ],
+      "country": "Canada",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG Music Canada",
+        "BMG Music Canada",
+        "Cinram"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 3008-26072-2 3",
+        "730082607223",
+        "[Cinram Logo] L387 73008260722 #01020Y24 46",
+        "[Cinram Logo] L387 73008260722 #01020Y24 43",
+        "IFPI 6000",
+        "L387",
+        "28",
+        "25"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/2584373-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/-K6J8hQCviuJvcMXzQrfHzDyaQUIUfJ8W4-1QgJRUHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQz/NzMtMTQ4NTQ4OTIw/NC03ODQ4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dyO0sg6p_KfIN-PzvzxJKthbMFSos5vzoG4uvmo_GEk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQz/NzMtMTQ4NTQ4OTIw/NC03ODQ4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2584373",
+      "community": {
+        "want": 409,
+        "have": 554
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13609313,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Sonopress USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 3008-26072-2 3",
+        "73008260722RE1 A4461-02 SONOPRESS USA",
+        "73008260722RE1 A3091-02 SONOPRESS USA",
+        "73008260722RE1 A3091-01 SONOPRESS USA",
+        "IFPI L028",
+        "IFPI 1020",
+        "IFPI 1075"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/13609313-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/QO_dXN47ZkL0KBLyqzz6DHBgBa7YFyTex7lFxiNlqZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MzEzLTE1NTc0NDI4/NDctNTk2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VCo5AlQRKkNhqP0olg5Xelu1U81e80b-RKtcKtEc34I/rs:fit/g:sm/q:90/h:515/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MzEzLTE1NTc0NDI4/NDctNTk2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13609313",
+      "community": {
+        "want": 307,
+        "have": 209
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33069924,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [],
+      "country": "US",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "LaFace Records",
+        "Arista",
+        "Sonopress Arvato, USA"
+      ],
+      "type": "release",
+      "barcode": [
+        "730082607223",
+        "7 3008-26072-2 3",
+        "73008260722RE1 [Sonopress Arvato, USA logo] + + FA59903 [barcode]",
+        "IFPI L028",
+        "IFPI 1079"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/33069924-OutKast-Stankonia",
+      "catno": "73008-26072-2",
+      "thumb": "https://i.discogs.com/fXuAOCAMIMHexwRhFkuUK4FIMBdhyE0IfnXekc4FFW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY5/OTI0LTE3Mzg5MjYy/NTgtNjk2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/g5sa5srlibc9hcKQ7INxyb-yu1qF_KRZBIF1e7zSXzo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY5/OTI0LTE3Mzg5MjYy/NTgtNjk2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33069924",
+      "community": {
+        "want": 105,
+        "have": 51
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7292142,
+      "title": "OutKast - Stankonia",
+      "master_id": 26124,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "Europe",
+      "format": [
+        "CD",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Arista",
+        "LaFace Records",
+        "BMG",
+        "BMG Entertainment",
+        "Arista Records, Inc.",
+        "Arista Records, Inc.",
+        "BMG",
+        "Sonopress Arvato",
+        "Stankonia Recording",
+        "The Dungeon Recording Studios",
+        "Patchwerk Recording Studios",
+        "Stankonia Recording",
+        "Larrabee West",
+        "The Dungeon Recording Studios",
+        "Stankonia Recording",
+        "Absolute Audio",
+        "Earthtone",
+        "Organized Noize Productions, Inc.",
+        "Gnat Booty Music",
+        "Chrysalis Music Inc.",
+        "Dungeon Ratz Music, Inc.",
+        "Goodie Mob Music",
+        "Chrysalis Music",
+        "Organized Noize Music",
+        "Aniyah's Music",
+        "J-Sweet Music",
+        "Cory Andrews Publishing",
+        "Publishing Designee",
+        "Sincerely Success",
+        "Tef Noize Music Publishing",
+        "Hits From Da Bong Music",
+        "BMG Songs, Inc.",
+        "Dez Only 1",
+        "Chrysalis",
+        "Lil' Bree Music",
+        "Slic Flo Music",
+        "Divine Pimp Publishing",
+        "Carl Mo Music",
+        "Curbstone-LAILO Music",
+        "Death To The Fakers Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "7 30082 60722 3",
+        "730082607223",
+        "LC 03484",
+        "BIEM/GEMA",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0738",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0789",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0792",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0742",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0725",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0734",
+        "['Sonopress Arvato' logo] 50198300/73008260722 21",
+        "IFPI LP 73",
+        "IFPI 0786"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/26124",
+      "uri": "/release/7292142-OutKast-Stankonia",
+      "catno": "73008 26072 2",
+      "thumb": "https://i.discogs.com/x5Aa_ZR6Wu5taG6CmhWJacpW7ezTCDSEYabpdlciq0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTIx/NDItMTQzODIxMzcy/MS00MjI1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/JzbLvj-Vyv_0P1QJKE6f4Mk0KceLRrtmimuWQGRxeoE/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTIx/NDItMTQzODIxMzcy/MS00MjI1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7292142",
+      "community": {
+        "want": 366,
+        "have": 320
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 26124,
+    "genres": [
+      "Hip Hop",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Gangsta",
+      "P.Funk",
+      "Crunk",
+      "Conscious",
+      "Pop Rap"
+    ],
+    "main_release": 225181,
+    "most_recent_release": 34101592,
+    "resource_url": "https://api.discogs.com/masters/26124",
+    "uri": "https://www.discogs.com/master/26124-OutKast-Stankonia",
+    "versions_url": "https://api.discogs.com/masters/26124/versions",
+    "main_release_url": "https://api.discogs.com/releases/225181",
+    "most_recent_release_url": "https://api.discogs.com/releases/34101592",
+    "num_for_sale": 756,
+    "lowest_price": 1.0,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/MayUfg5mqH5VU3_nA_BDErCUissIYH-mK7_ONPbxqFU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI3MjMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/MayUfg5mqH5VU3_nA_BDErCUissIYH-mK7_ONPbxqFU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI3MjMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/H2bUY4mwkSHPDGNhfDWoSjXU4PTsPpiBc9xavmQWmXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI3MjMuanBlZw.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RNHOStVpPl_rpzCmwAKpAHWDCSt71MrqQMp_7TaxaZc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI5ODYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/RNHOStVpPl_rpzCmwAKpAHWDCSt71MrqQMp_7TaxaZc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI5ODYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/XyhPFaxcH7nhDEdaHFIWHc4MEfQ2e2luM-aRZmCRfno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDE3/LTI5ODYuanBlZw.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BcNCfCpDGvX8eTwFNeONKz_i3XaYtYzeAZHaTR_FSeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTY5NTEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/BcNCfCpDGvX8eTwFNeONKz_i3XaYtYzeAZHaTR_FSeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTY5NTEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/eDhOXK8Jcna3xKpZqg0xiQmKb1uvskKw5xVNvst07LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTY5NTEuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yvEJxM469J4t0fvFthH-re_8-OhKMFMUgjLutp4J4rQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTIwNTMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/yvEJxM469J4t0fvFthH-re_8-OhKMFMUgjLutp4J4rQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTIwNTMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/nFtk21kMd7uFVQJDOHjQz6K9kTHs_fS-S6lhVmS9b9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIx/LTIwNTMuanBlZw.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GXdpdsuH_4mCwtAm-CYGa3u9r7rBYnzzDiNbWcEF1xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTM1NzMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/GXdpdsuH_4mCwtAm-CYGa3u9r7rBYnzzDiNbWcEF1xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTM1NzMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/fPREgq08lByrUVc1PTqkV9iV446Z_jU-S-R2m60xqzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTM1NzMuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pQ3b-oFzxiKg_zWy5AG1gXGlRIVbnTipkKjvGT_beAo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTc2NDMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/pQ3b-oFzxiKg_zWy5AG1gXGlRIVbnTipkKjvGT_beAo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTc2NDMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/A9LwyBkuYunS81yol_wW0GaIcARFFvjJQ_FJjG3s6Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDIy/LTc2NDMuanBlZw.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/78826pUStx8O4DMvIVtsLnc5DXcEE9lWxN5e5cA3T-o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI4/LTEyMzUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/78826pUStx8O4DMvIVtsLnc5DXcEE9lWxN5e5cA3T-o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI4/LTEyMzUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/ipuoztbfOooM1KD9SA8CYhPxVmhj_u_TRJrMZ6yHSak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI4/LTEyMzUuanBlZw.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5fD373e47cQZvtyD7mHlG6xsr3ljB4JsLTmFb8pT_vs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI3/LTQyMzMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/5fD373e47cQZvtyD7mHlG6xsr3ljB4JsLTmFb8pT_vs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI3/LTQyMzMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/_tOZw7UgXuPejMJpJ2YsvzYu-VVByjC3VJ9yledN69A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xNjU2MzY4NDI3/LTQyMzMuanBlZw.jpeg",
+        "width": 595,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/JIj4aZsTQ3WkCVdHZJndQAHGtLUgSmpJ5pPDeTd3Qm8/rs:fit/g:sm/q:90/h:148/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xMzA3NzI0MjQ4/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/JIj4aZsTQ3WkCVdHZJndQAHGtLUgSmpJ5pPDeTd3Qm8/rs:fit/g:sm/q:90/h:148/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xMzA3NzI0MjQ4/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/9tViMPKzRZMU0Oq3TrUK85Vn8gJi10ktRbhDf2yXmcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE4/MS0xMzA3NzI0MjQ4/LmpwZWc.jpeg",
+        "width": 595,
+        "height": 148
+      }
+    ],
+    "year": 2000,
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Intro",
+        "extraartists": [
+          {
+            "name": "Chaterpal Kala",
+            "anv": "",
+            "join": "",
+            "role": "Harmonium, Tabla",
+            "tracks": "",
+            "id": 189267,
+            "resource_url": "https://api.discogs.com/artists/189267"
+          },
+          {
+            "name": "Rajinder Kala",
+            "anv": "",
+            "join": "",
+            "role": "Harmonium, Tabla",
+            "tracks": "",
+            "id": 172238,
+            "resource_url": "https://api.discogs.com/artists/172238"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By], Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          }
+        ],
+        "duration": "1:10"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Gasoline Dreams",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Khujo Goodie",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 147024,
+            "resource_url": "https://api.discogs.com/artists/147024"
+          },
+          {
+            "name": "David Whild",
+            "anv": "David \"Whild\" Brown",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 187667,
+            "resource_url": "https://api.discogs.com/artists/187667"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Khujo Goodie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 147024,
+            "resource_url": "https://api.discogs.com/artists/147024"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Willie Knighton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654336,
+            "resource_url": "https://api.discogs.com/artists/654336"
+          }
+        ],
+        "duration": "3:35"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "I'm Cool (Interlude)",
+        "duration": "0:42"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "So Fresh, So Clean",
+        "extraartists": [
+          {
+            "name": "Rico Wade",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189270,
+            "resource_url": "https://api.discogs.com/artists/189270"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Electric Piano [Fender Rhodes]",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Music By, Drum Programming",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions, Inc.",
+            "join": "",
+            "role": "Production Manager [Production Coordinator, For]",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Dee Dee Murray",
+            "anv": "",
+            "join": "",
+            "role": "Production Manager [Production Coordinator]",
+            "tracks": "",
+            "id": 1985638,
+            "resource_url": "https://api.discogs.com/artists/1985638"
+          },
+          {
+            "name": "Bernasky Wall",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 414223,
+            "resource_url": "https://api.discogs.com/artists/414223"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Malik Albert",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 458603,
+            "resource_url": "https://api.discogs.com/artists/458603"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "4:00"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Ms. Jackson",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Aaron Mills",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 189281,
+            "resource_url": "https://api.discogs.com/artists/189281"
+          },
+          {
+            "name": "Rajinder Kala",
+            "anv": "",
+            "join": "",
+            "role": "Congas [Backwards]",
+            "tracks": "",
+            "id": 172238,
+            "resource_url": "https://api.discogs.com/artists/172238"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards, Programmed By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "Neal H. Pogue",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Malik Albert",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 458603,
+            "resource_url": "https://api.discogs.com/artists/458603"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "4:32"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Snappin' & Trappin'",
+        "extraartists": [
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "J-Sweet (2)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 143748,
+            "resource_url": "https://api.discogs.com/artists/143748"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Jason Stokes (2)",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 437493,
+            "resource_url": "https://api.discogs.com/artists/437493"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "J-Sweet (2)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 143748,
+            "resource_url": "https://api.discogs.com/artists/143748"
+          },
+          {
+            "name": "Killer Mike",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53116,
+            "resource_url": "https://api.discogs.com/artists/53116"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "Cory Andrews",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654345,
+            "resource_url": "https://api.discogs.com/artists/654345"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "John E.E. Smith",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654338,
+            "resource_url": "https://api.discogs.com/artists/654338"
+          },
+          {
+            "name": "Michael Render",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654341,
+            "resource_url": "https://api.discogs.com/artists/654341"
+          }
+        ],
+        "duration": "4:20"
+      },
+      {
+        "position": "A7",
+        "type_": "track",
+        "title": "D.F. (Interlude)",
+        "duration": "0:27"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Spaghetti Junction",
+        "extraartists": [
+          {
+            "name": "Myrna \"Skreechy Peach\" Crenshaw",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189277,
+            "resource_url": "https://api.discogs.com/artists/189277"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Programmed By [Keyboard]",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Josh Butler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 377970,
+            "resource_url": "https://api.discogs.com/artists/377970"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "ONP, Inc.",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions, Inc.",
+            "join": "",
+            "role": "Production Manager [Production Coordinator, For]",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Dee Dee Murray",
+            "anv": "",
+            "join": "",
+            "role": "Production Manager [Production Coordinator]",
+            "tracks": "",
+            "id": 1985638,
+            "resource_url": "https://api.discogs.com/artists/1985638"
+          },
+          {
+            "name": "Derrick Williams",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 242729,
+            "resource_url": "https://api.discogs.com/artists/242729"
+          },
+          {
+            "name": "Jarvis Blackshear",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 407033,
+            "resource_url": "https://api.discogs.com/artists/407033"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Manuel K. Morris",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483260,
+            "resource_url": "https://api.discogs.com/artists/483260"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "3:57"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Kim & Cookie (Interlude)",
+        "duration": "1:13"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "I'll Call Before I Come",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Eco (3)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 143750,
+            "resource_url": "https://api.discogs.com/artists/143750"
+          },
+          {
+            "name": "Gangsta Boo",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 143749,
+            "resource_url": "https://api.discogs.com/artists/143749"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By], Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Eco (3)",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 143750,
+            "resource_url": "https://api.discogs.com/artists/143750"
+          },
+          {
+            "name": "Gangsta Boo",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 143749,
+            "resource_url": "https://api.discogs.com/artists/143749"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Lola Mitchell",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654335,
+            "resource_url": "https://api.discogs.com/artists/654335"
+          },
+          {
+            "name": "Rashida Roberts",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654337,
+            "resource_url": "https://api.discogs.com/artists/654337"
+          }
+        ],
+        "duration": "4:18"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "B.O.B.",
+        "extraartists": [
+          {
+            "name": "Neal Pogue",
+            "anv": "Neal H. Pogue",
+            "join": "",
+            "role": "Arranged By [Additional Arrangement]",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Morris Brown College Gospel Choir",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189275,
+            "resource_url": "https://api.discogs.com/artists/189275"
+          },
+          {
+            "name": "\"Captain\" James Majors",
+            "anv": "James Majors",
+            "join": "",
+            "role": "Edited By [Digital Editing]",
+            "tracks": "",
+            "id": 428033,
+            "resource_url": "https://api.discogs.com/artists/428033"
+          },
+          {
+            "name": "John Horesco IV",
+            "anv": "",
+            "join": "",
+            "role": "Edited By [Digital Editing]",
+            "tracks": "",
+            "id": 241708,
+            "resource_url": "https://api.discogs.com/artists/241708"
+          },
+          {
+            "name": "Donny Mathis",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 189276,
+            "resource_url": "https://api.discogs.com/artists/189276"
+          },
+          {
+            "name": "David Whild",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Soloist",
+            "tracks": "",
+            "id": 187667,
+            "resource_url": "https://api.discogs.com/artists/187667"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Kenneth Wright",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 189278,
+            "resource_url": "https://api.discogs.com/artists/189278"
+          },
+          {
+            "name": "Matt Still",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 189279,
+            "resource_url": "https://api.discogs.com/artists/189279"
+          },
+          {
+            "name": "Richard \"Segal\" Huredia",
+            "anv": "Richard H. Segal",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 441066,
+            "resource_url": "https://api.discogs.com/artists/441066"
+          },
+          {
+            "name": "Pete Novak",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 147030,
+            "resource_url": "https://api.discogs.com/artists/147030"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Ralph Cacciurri",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 414226,
+            "resource_url": "https://api.discogs.com/artists/414226"
+          },
+          {
+            "name": "Jason Stokes (2)",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 437493,
+            "resource_url": "https://api.discogs.com/artists/437493"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Cutmaster Swiff",
+            "anv": "",
+            "join": "",
+            "role": "Scratches [Cuts]",
+            "tracks": "",
+            "id": 189495,
+            "resource_url": "https://api.discogs.com/artists/189495"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "5:04"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Xplosion",
+        "extraartists": [
+          {
+            "name": "Debra Killings",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170169,
+            "resource_url": "https://api.discogs.com/artists/170169"
+          },
+          {
+            "name": "Dungeon Rats",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189280,
+            "resource_url": "https://api.discogs.com/artists/189280"
+          },
+          {
+            "name": "Witchdoctor",
+            "anv": "EJ the Witchdoctor",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 143582,
+            "resource_url": "https://api.discogs.com/artists/143582"
+          },
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "B-Real",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53119,
+            "resource_url": "https://api.discogs.com/artists/53119"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Jason Stokes (2)",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 437493,
+            "resource_url": "https://api.discogs.com/artists/437493"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Brad Hengerer",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 654350,
+            "resource_url": "https://api.discogs.com/artists/654350"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "B-Real",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53119,
+            "resource_url": "https://api.discogs.com/artists/53119"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Erin Johnson",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654349,
+            "resource_url": "https://api.discogs.com/artists/654349"
+          },
+          {
+            "name": "Louis Freese",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 639674,
+            "resource_url": "https://api.discogs.com/artists/639674"
+          }
+        ],
+        "duration": "4:09"
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Good Hair (Interlude)",
+        "duration": "0:15"
+      },
+      {
+        "position": "C1",
+        "type_": "track",
+        "title": "We Luv Deez Hoez",
+        "extraartists": [
+          {
+            "name": "Troncoso",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189268,
+            "resource_url": "https://api.discogs.com/artists/189268"
+          },
+          {
+            "name": "Backbone",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53120,
+            "resource_url": "https://api.discogs.com/artists/53120"
+          },
+          {
+            "name": "Big Gipp",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53121,
+            "resource_url": "https://api.discogs.com/artists/53121"
+          },
+          {
+            "name": "Josh Butler",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 377970,
+            "resource_url": "https://api.discogs.com/artists/377970"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Music By, Drum Programming",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "Organized Noize Productions, Inc.",
+            "join": "",
+            "role": "Production Manager [Production Coordinator, For]",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          },
+          {
+            "name": "Dee Dee Murray",
+            "anv": "",
+            "join": "",
+            "role": "Production Manager [Production Coordinator]",
+            "tracks": "",
+            "id": 1985638,
+            "resource_url": "https://api.discogs.com/artists/1985638"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Brad Hengerer",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 654350,
+            "resource_url": "https://api.discogs.com/artists/654350"
+          },
+          {
+            "name": "Malik Albert",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 458603,
+            "resource_url": "https://api.discogs.com/artists/458603"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Synth [Moog Bass]",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Backbone",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53120,
+            "resource_url": "https://api.discogs.com/artists/53120"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Big Gipp",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53121,
+            "resource_url": "https://api.discogs.com/artists/53121"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "Bolivar Troncoso",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 6159171,
+            "resource_url": "https://api.discogs.com/artists/6159171"
+          },
+          {
+            "name": "Cameron Gipp",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 888281,
+            "resource_url": "https://api.discogs.com/artists/888281"
+          },
+          {
+            "name": "Jamahr Williams",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654344,
+            "resource_url": "https://api.discogs.com/artists/654344"
+          },
+          {
+            "name": "Organized Noize",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 78193,
+            "resource_url": "https://api.discogs.com/artists/78193"
+          }
+        ],
+        "duration": "4:10"
+      },
+      {
+        "position": "C2",
+        "type_": "track",
+        "title": "Humble Mumble",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Erykah Badu",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 10995,
+            "resource_url": "https://api.discogs.com/artists/10995"
+          },
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "Erykah Badu",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 10995,
+            "resource_url": "https://api.discogs.com/artists/10995"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "Neal H. Pogue",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By], Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Erykah Badu",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 10995,
+            "resource_url": "https://api.discogs.com/artists/10995"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Erica Wright",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654334,
+            "resource_url": "https://api.discogs.com/artists/654334"
+          }
+        ],
+        "duration": "4:51"
+      },
+      {
+        "position": "C3",
+        "type_": "track",
+        "title": "Drinkin' Again (Interlude)",
+        "duration": "0:24"
+      },
+      {
+        "position": "C4",
+        "type_": "track",
+        "title": "?",
+        "extraartists": [
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Piano",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "1:29"
+      },
+      {
+        "position": "C5",
+        "type_": "track",
+        "title": "Red Velvet",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "Mr. Sheats",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Remion \"Uncle Mooney\" Patton",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189266,
+            "resource_url": "https://api.discogs.com/artists/189266"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kenneth Stallworth",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 472049,
+            "resource_url": "https://api.discogs.com/artists/472049"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By], Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "3:54"
+      },
+      {
+        "position": "C6",
+        "type_": "track",
+        "title": "Cruisin' In The ATL (Interlude)",
+        "duration": "0:19"
+      },
+      {
+        "position": "D1",
+        "type_": "track",
+        "title": "Gangsta Sh*t",
+        "extraartists": [
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Billie O",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189264,
+            "resource_url": "https://api.discogs.com/artists/189264"
+          },
+          {
+            "name": "Bobby B.",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189282,
+            "resource_url": "https://api.discogs.com/artists/189282"
+          },
+          {
+            "name": "C-Bone",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 53123,
+            "resource_url": "https://api.discogs.com/artists/53123"
+          },
+          {
+            "name": "J-Sweet (2)",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 143748,
+            "resource_url": "https://api.discogs.com/artists/143748"
+          },
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "C-Bone",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53123,
+            "resource_url": "https://api.discogs.com/artists/53123"
+          },
+          {
+            "name": "Slimm Calhoun",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 143751,
+            "resource_url": "https://api.discogs.com/artists/143751"
+          },
+          {
+            "name": "T-Mo Goodie",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53124,
+            "resource_url": "https://api.discogs.com/artists/53124"
+          },
+          {
+            "name": "Donny Mathis",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 189276,
+            "resource_url": "https://api.discogs.com/artists/189276"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Carl Mo",
+            "anv": "",
+            "join": "",
+            "role": "Music By, Drum Programming",
+            "tracks": "",
+            "id": 139514,
+            "resource_url": "https://api.discogs.com/artists/139514"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Music By, Drum Programming",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Carl Mo",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 139514,
+            "resource_url": "https://api.discogs.com/artists/139514"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Brad Hengerer",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 654350,
+            "resource_url": "https://api.discogs.com/artists/654350"
+          },
+          {
+            "name": "Malik Albert",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 458603,
+            "resource_url": "https://api.discogs.com/artists/458603"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "C-Bone",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53123,
+            "resource_url": "https://api.discogs.com/artists/53123"
+          },
+          {
+            "name": "Slimm Calhoun",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 143751,
+            "resource_url": "https://api.discogs.com/artists/143751"
+          },
+          {
+            "name": "T-Mo Goodie",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53124,
+            "resource_url": "https://api.discogs.com/artists/53124"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "Brian Loving",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654343,
+            "resource_url": "https://api.discogs.com/artists/654343"
+          },
+          {
+            "name": "Carlton Mahone, Jr.",
+            "anv": "Carlton Mahone",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1331054,
+            "resource_url": "https://api.discogs.com/artists/1331054"
+          },
+          {
+            "name": "Cory Andrews",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654345,
+            "resource_url": "https://api.discogs.com/artists/654345"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Robert Barnett",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654347,
+            "resource_url": "https://api.discogs.com/artists/654347"
+          }
+        ],
+        "duration": "3:57"
+      },
+      {
+        "position": "D2",
+        "type_": "track",
+        "title": "Toilet Tisha",
+        "extraartists": [
+          {
+            "name": "Preston Crump",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Synth [Bass]",
+            "tracks": "",
+            "id": 172239,
+            "resource_url": "https://api.discogs.com/artists/172239"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Guitar Synthesizer",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Leslie Brathwaite",
+            "anv": "Mr. Leslie Brathwaite",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 134617,
+            "resource_url": "https://api.discogs.com/artists/134617"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Mark \"Exit\" Goodchild",
+            "anv": "Mark \"DJ Exit\" Goodchild",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 445866,
+            "resource_url": "https://api.discogs.com/artists/445866"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By], Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Rosalin Heard",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 189271,
+            "resource_url": "https://api.discogs.com/artists/189271"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Vocals [Additional]",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          }
+        ],
+        "duration": "4:25"
+      },
+      {
+        "position": "D3",
+        "type_": "track",
+        "title": "Slum Beautiful",
+        "extraartists": [
+          {
+            "name": "Neal Pogue",
+            "anv": "Neal H. Pogue",
+            "join": "",
+            "role": "Arranged By [Additional Arrangement]",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Dookieblossumgame III",
+            "anv": "\"Dookie\" Blossumgame III",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 590994,
+            "resource_url": "https://api.discogs.com/artists/590994"
+          },
+          {
+            "name": "Cee-Lo",
+            "anv": "Cee-Lo Goodie",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 57770,
+            "resource_url": "https://api.discogs.com/artists/57770"
+          },
+          {
+            "name": "Donny Mathis",
+            "anv": "",
+            "join": "",
+            "role": "Guitar [Backwards]",
+            "tracks": "",
+            "id": 189276,
+            "resource_url": "https://api.discogs.com/artists/189276"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Kevin Parker",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 377962,
+            "resource_url": "https://api.discogs.com/artists/377962"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Jason Stokes (2)",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 437493,
+            "resource_url": "https://api.discogs.com/artists/437493"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Boi",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 137602,
+            "resource_url": "https://api.discogs.com/artists/137602"
+          },
+          {
+            "name": "Cee-Lo",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 57770,
+            "resource_url": "https://api.discogs.com/artists/57770"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Thomas Burton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654346,
+            "resource_url": "https://api.discogs.com/artists/654346"
+          }
+        ],
+        "duration": "4:08"
+      },
+      {
+        "position": "D4",
+        "type_": "track",
+        "title": "Pre-Nump (Interlude)",
+        "duration": "0:27"
+      },
+      {
+        "position": "D5",
+        "type_": "track",
+        "title": "Stankonia (Stanklove)",
+        "extraartists": [
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Joi Gilliam-Gipp",
+            "anv": "Joi \"Freeta Love\" Gilliam-Gipp",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 4558520,
+            "resource_url": "https://api.discogs.com/artists/4558520"
+          },
+          {
+            "name": "Myrna \"Skreechy Peach\" Crenshaw",
+            "anv": "Mryna \"Skreechy Peach\" Crenshaw",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "",
+            "id": 189277,
+            "resource_url": "https://api.discogs.com/artists/189277"
+          },
+          {
+            "name": "Robert Grister",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 189273,
+            "resource_url": "https://api.discogs.com/artists/189273"
+          },
+          {
+            "name": "Big Rube",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53126,
+            "resource_url": "https://api.discogs.com/artists/53126"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Donny Mathis",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "",
+            "id": 189276,
+            "resource_url": "https://api.discogs.com/artists/189276"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Marvin \"Chanz\" Parkman",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards",
+            "tracks": "",
+            "id": 172237,
+            "resource_url": "https://api.discogs.com/artists/172237"
+          },
+          {
+            "name": "Vincent Alexander",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By [Assisted By]",
+            "tracks": "",
+            "id": 407001,
+            "resource_url": "https://api.discogs.com/artists/407001"
+          },
+          {
+            "name": "The Gipps",
+            "anv": "",
+            "join": "",
+            "role": "Performer [Intro]",
+            "tracks": "",
+            "id": 189265,
+            "resource_url": "https://api.discogs.com/artists/189265"
+          },
+          {
+            "name": "Earthtone III",
+            "anv": "",
+            "join": "",
+            "role": "Producer, Arranged By",
+            "tracks": "",
+            "id": 188988,
+            "resource_url": "https://api.discogs.com/artists/188988"
+          },
+          {
+            "name": "Brad Hengerer",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 654350,
+            "resource_url": "https://api.discogs.com/artists/654350"
+          },
+          {
+            "name": "Warren Bletcher",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By [Assisted By]",
+            "tracks": "",
+            "id": 483258,
+            "resource_url": "https://api.discogs.com/artists/483258"
+          },
+          {
+            "name": "John Frye",
+            "anv": "",
+            "join": "",
+            "role": "Recorded By, Mixed By",
+            "tracks": "",
+            "id": 147021,
+            "resource_url": "https://api.discogs.com/artists/147021"
+          },
+          {
+            "name": "Andre 3000",
+            "anv": "Andr\u00e9 3000",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 170365,
+            "resource_url": "https://api.discogs.com/artists/170365"
+          },
+          {
+            "name": "Big Rube",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53126,
+            "resource_url": "https://api.discogs.com/artists/53126"
+          },
+          {
+            "name": "Sleepy Brown",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 53127,
+            "resource_url": "https://api.discogs.com/artists/53127"
+          },
+          {
+            "name": "Andre Benjamin",
+            "anv": "Andr\u00e9 Benjamin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 187668,
+            "resource_url": "https://api.discogs.com/artists/187668"
+          },
+          {
+            "name": "Antwan Patton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654348,
+            "resource_url": "https://api.discogs.com/artists/654348"
+          },
+          {
+            "name": "David Sheats",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 654342,
+            "resource_url": "https://api.discogs.com/artists/654342"
+          },
+          {
+            "name": "Patrick Brown",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 664732,
+            "resource_url": "https://api.discogs.com/artists/664732"
+          },
+          {
+            "name": "Ruben Bailey",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3200062,
+            "resource_url": "https://api.discogs.com/artists/3200062"
+          }
+        ],
+        "duration": "6:51"
+      }
+    ],
+    "artists": [
+      {
+        "name": "OutKast",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 38561,
+        "resource_url": "https://api.discogs.com/artists/38561",
+        "thumbnail_url": "https://i.discogs.com/4dPQedPP7YrZBQXX4tyrxDJ0pmTQlq3Afgqau7kzN4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4NTYx/LTE2NjE4MzU4NjUt/NTY5Ni5qcGVn.jpeg"
+      }
+    ],
+    "title": "Stankonia",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=MYxAiK6VnXw",
+        "title": "Outkast - Ms. Jackson (Official HD Video)",
+        "description": "Official HD Video for \"Ms. Jackson\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\n\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenID/youtube",
+        "duration": 299,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=lVehcuJXe6I",
+        "title": "Outkast - B.O.B. (Bombs Over Baghdad) (Official HD Video)",
+        "description": "\"B.O.B.\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenID/youtube\n\nFollow Outkast:\nFacebook: ",
+        "duration": 265,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=fVyVIsvQoaE",
+        "title": "Outkast - B.O.B. (Official HD Video)",
+        "description": "\"B.O.B.\" by OutKast\nListen to OutKast: https://Outkast.lnk.to/listenYD\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nWatch more videos by OutKast: https://OutKast.lnk.to/listenID/youtube\n\nFollow Outkast:\nFacebook: ",
+        "duration": 265,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=EADVHxEdHs4",
+        "title": "OutKast - Stankonia (Stanklove) (Official Audio) ft. Big Rube, Sleepy Brown",
+        "description": "\"Stankonia (Stanklove)\" by Outkast\nListen to Outkast: https://Outkast.lnk.to/listenYD\n\nSubscribe to the official Outkast YouTube channel: https://Outkast.lnk.to/subscribeYD\n\nFollow Outkast:\nFacebook: https://Outkast.lnk.to/followFI\nInstagram: https://Outk",
+        "duration": 413,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=CSD2J8yaMmM",
+        "title": "Ms. Jackson",
+        "description": "Provided to YouTube by Arista/LaFace Records\n\nMs. Jackson \u00b7 Outkast\n\nStankonia\n\n\u2117 2000 Arista Records LLC\n\nReleased on: 2000-10-31\n\nComposer, Lyricist: Andre Benjamin\nVocal: Big Boi\nBackground  Vocal, Guitar, Vocal: Andr\u00e9 3000\nComposer, Lyricist: Antwan P",
+        "duration": 271,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=3d7v9vmWJkA",
+        "title": "?",
+        "description": "Provided to YouTube by Arista/LaFace Records\n\n? \u00b7 Outkast\n\nStankonia\n\n\u2117 2000 Arista Records LLC\n\nReleased on: 2000-10-31\n\nComposer, Lyricist: Andr\u00e9 Benjamin\nVocal: Andr\u00e9 3000\nComposer, Lyricist: Antwan Patton\nKeyboards, Arranger, Producer: Earthtone III\nP",
+        "duration": 89,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 26124,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Funk / Soul",
+      "kind": "genre",
+      "source": "discogs_genre"
+    },
+    {
+      "name": "Gangsta",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "P.Funk",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Crunk",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Conscious",
+      "kind": "style",
+      "source": "discogs_style"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_style"
+    }
+  ]
+}
