@@ -7,13 +7,11 @@ import { ArtistsView } from "./views/ArtistsView";
 import { GenresView } from "./views/GenresView";
 
 /**
- * Collapse state is bucketed per tab *module*, not per `View` — Albums and
- * Search are one mounted AlbumsView (see the slot comment below), so keying on
- * `View` would swap the bucket underneath a component that never remounted and
- * sections would pop open on a "tab switch" that isn't one.
+ * Only the year-grouped tabs collapse; Artists expands artists in place and has
+ * no sections to fold. Albums and Genres keep separate buckets because their
+ * defaults differ — Genres opens collapsed, Albums opens as a grid.
  */
-type Tab = "albums" | "genres" | "artists";
-const tabOf = (view: View): Tab => (view === "search" ? "albums" : view);
+type CollapseTab = "albums" | "genres";
 
 /**
  * A section is collapsed iff `all` differs from an explicit exception for it.
@@ -28,12 +26,11 @@ const tabOf = (view: View): Tab => (view === "search" ? "albums" : view);
 type Collapse = { all: boolean; except: Set<string> };
 const isCollapsed = (c: Collapse, key: string) => c.all !== c.except.has(key);
 
-/** Genres opens collapsed; the others open as grids. Mount-time only — never
- *  re-applied on tab change, which would clobber whatever the user chose. */
-const INITIAL_COLLAPSE: Record<Tab, Collapse> = {
+/** Mount-time only — never re-applied on tab change, which would clobber
+ *  whatever the user chose. */
+const INITIAL_COLLAPSE: Record<CollapseTab, Collapse> = {
   albums: { all: false, except: new Set() },
   genres: { all: true, except: new Set() },
-  artists: { all: false, except: new Set() },
 };
 
 /**
@@ -49,7 +46,7 @@ export default function App() {
   const [collapse, setCollapse] = useState(INITIAL_COLLAPSE);
 
   const scrollRef = useRef<HTMLDivElement>(null);
-  const tab = tabOf(view);
+  const tab: CollapseTab = view === "genres" ? "genres" : "albums";
 
   // App owns the query filter because search is shell chrome, shared by every
   // tab. Any narrower filtering is the view's own business.
@@ -58,9 +55,11 @@ export default function App() {
     [query],
   );
 
+  // Deliberately does NOT close the search field: the query keeps filtering
+  // every tab, so hiding the field on navigation left the results narrowed
+  // with nothing on screen saying why.
   function changeView(next: View) {
     setView(next);
-    if (next !== "search") setSearchOpen(false);
     scrollRef.current?.scrollTo({ top: 0 });
   }
 
@@ -105,22 +104,16 @@ export default function App() {
     albums,
     query,
     onQuery: setQuery,
-    searchOpen: searchOpen || view === "search",
+    searchOpen,
     onToggleSearch: () => setSearchOpen((o) => !o),
-    collapse: collapseApi,
   };
 
   return (
     <div className="app">
       <div className="scroll" ref={scrollRef}>
-        {/* One slot, not one per title: two sibling AlbumsViews would make
-            React tear down and remount every card switching Albums<->Search,
-            instead of reconciling the same grid in place. */}
-        {(view === "albums" || view === "search") && (
-          <AlbumsView title={view === "search" ? "Search" : "Albums"} {...chrome} />
-        )}
+        {view === "albums" && <AlbumsView collapse={collapseApi} {...chrome} />}
         {view === "artists" && <ArtistsView {...chrome} />}
-        {view === "genres" && <GenresView {...chrome} />}
+        {view === "genres" && <GenresView collapse={collapseApi} {...chrome} />}
       </div>
 
       <Nav view={view} onChange={changeView} />

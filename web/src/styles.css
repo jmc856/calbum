@@ -106,20 +106,14 @@ button {
   margin: 0;
   color: var(--ink);
 }
-/* The header's right-hand controls. The -10px bleed lives on the group, not
-   on each button: it aligns the last icon's optical edge with the gutter, and
-   there are two icons now. */
-.hdr-acts {
-  display: flex;
-  align-items: center;
-  margin-right: -10px;
-}
+/* The negative margins keep the 44px tap target while aligning the icon's
+   optical edge with the gutter. */
 .icon-btn {
   width: 44px;
   height: 44px;
   display: grid;
   place-items: center;
-  margin: -8px 0;
+  margin: -8px -10px -8px 0;
   border-radius: 50%;
 }
 .icon-btn:active {
@@ -130,42 +124,12 @@ button {
   outline-offset: -4px;
 }
 
-/* What the Genres tab shows instead of the stat row. */
+/* Every tab's one-line count. */
 .hdr-sub {
   margin: 6px 0 0;
   font-size: 13px;
   color: var(--ink-on-accent);
   font-weight: 500;
-}
-
-.stats {
-  display: grid;
-  grid-template-columns: 1.35fr 1fr 1fr;
-  gap: 10px;
-  margin-top: 14px;
-}
-.stat .n {
-  font-size: 21px;
-  font-weight: 800;
-  letter-spacing: -0.04em;
-  color: var(--ink);
-  line-height: 0.92;
-}
-.stat.lead .n {
-  font-size: 30px;
-}
-.stat .l {
-  font-size: 11px;
-  color: var(--ink);
-  margin-top: 3px;
-  opacity: 0.9;
-}
-.stat .tick {
-  margin-top: 6px;
-  height: 5px;
-  border: 1.6px solid var(--ink);
-  border-top: none;
-  opacity: 0.85;
 }
 
 .search-wrap {
@@ -227,6 +191,20 @@ button {
   width: 14px;
   height: 14px;
   flex: none;
+}
+
+/* Collapse-all, at the top of the list it acts on. Borrows .sec-btn for the
+   full-width tap target and glyph sizing, and restates only the type — the
+   section headings inherit theirs from the <h2> this button doesn't have. */
+.all-btn {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  /* Replaces .sec-btn's heading padding, which is asymmetric (18/8) because a
+     heading hugs the list under it. This one is a control and needs its own
+     44px target, so the padding is symmetric and sized to reach it. */
+  padding: 14px var(--gutter);
 }
 
 /* Collapsed sections: the same albums as text. Vertical rhythm comes from the
@@ -614,14 +592,6 @@ a.card:active .cover-fb {
   border-radius: 10px;
   padding: 12px;
 }
-/* The collapsed expansion. Reproduces .aexp-in's tint and radius, because
-   those are what make the panel read as belonging to the row above it rather
-   than as a new section. */
-.aexp-rows {
-  background: #fafafa;
-  border-radius: 10px;
-  padding: 2px 12px;
-}
 .aexp-in .c-title {
   font-size: 11.5px;
   margin-top: 6px;
@@ -647,7 +617,7 @@ a.card:active .cover-fb {
   background: var(--ground);
   border-top: 1px solid var(--line);
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 .tab {
   display: grid;
@@ -737,8 +707,8 @@ a.card:active .cover-fb {
   }
 }
 
-/* Known and deliberately left alone: .stats and .gsvg both fill whatever
-   width they are handed. .gsvg is a viewBox, so it doesn't merely widen, it
-   SCALES — its 8.5px era labels and 9px bar counts render at roughly double
-   size across a desktop column. If that ever looks wrong, the fix is
-   `.stats, .gsvg { max-width: 440px }` inside the block above. */
+/* Known and deliberately left alone: .gsvg fills whatever width it is handed.
+   It is a viewBox, so it doesn't merely widen, it SCALES — its 8.5px era
+   labels and 9px bar counts render at roughly double size across a desktop
+   column. If that ever looks wrong, the fix is `.gsvg { max-width: 440px }`
+   inside the block above. */

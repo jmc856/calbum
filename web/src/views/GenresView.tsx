@@ -1,9 +1,9 @@
 import { useMemo, useState } from "react";
-import { ALBUMS, byYearDesc, groupBy, matches, stylesForGenre } from "../albums";
+import { ALBUMS, matches, plural, stylesForGenre } from "../albums";
 import { GenreChart } from "../components/GenreChart";
-import { Empty, Screen } from "../components/Screen";
-import { Section } from "../components/Section";
-import type { ViewProps } from "./props";
+import { Screen } from "../components/Screen";
+import { SectionList } from "../components/Section";
+import type { CollapseApi, ViewProps } from "./props";
 
 const GENRE_COUNT = new Set(ALBUMS.flatMap((a) => a.genres)).size;
 
@@ -12,7 +12,7 @@ const GENRE_COUNT = new Set(ALBUMS.flatMap((a) => a.genres)).size;
  * view's own state — App never sees it. That's the whole reason the view
  * split earns itself: the filter lives with the thing that sets it.
  */
-export function GenresView({ albums, collapse, ...chrome }: ViewProps) {
+export function GenresView({ albums, collapse, ...chrome }: ViewProps & { collapse: CollapseApi }) {
   const [genre, setGenre] = useState<string | null>(null);
 
   // `albums` arrives already filtered by the search query; this narrows it
@@ -29,23 +29,14 @@ export function GenresView({ albums, collapse, ...chrome }: ViewProps) {
     [genre],
   );
 
-  const sections = useMemo(
-    () => groupBy(visible, (a) => a.year, byYearDesc),
-    [visible],
-  );
+  // Counts `visible`, not ALBUMS, in both branches: a search narrows this tab
+  // too, and a header claiming 87 albums above three of them is the bug.
+  const subtitle = genre
+    ? `${plural(visible.length, "album")} · ${genre}`
+    : `${plural(visible.length, "album")} · ${GENRE_COUNT} genres`;
 
   return (
-    <Screen
-      title={genre ?? "Genres"}
-      subtitle={{
-        kind: "text",
-        text: genre
-          ? `${visible.length} album${visible.length === 1 ? "" : "s"} · ${genre}`
-          : `${ALBUMS.length} albums · ${GENRE_COUNT} genres`,
-      }}
-      collapse={collapse}
-      {...chrome}
-    >
+    <Screen title={genre ?? "Genres"} subtitle={subtitle} {...chrome}>
       {/* Charts the whole catalogue, never the filtered set: a chart that
           reshaped itself as you filtered would describe your filter rather
           than the collection. */}
@@ -65,15 +56,7 @@ export function GenresView({ albums, collapse, ...chrome }: ViewProps) {
         </div>
       )}
 
-      {sections.map(([year, list]) => (
-        <Section
-          key={`year-${year}`}
-          label={String(year)}
-          albums={list}
-          {...collapse.for(String(year))}
-        />
-      ))}
-      {visible.length === 0 && <Empty />}
+      <SectionList albums={visible} collapse={collapse} />
     </Screen>
   );
 }

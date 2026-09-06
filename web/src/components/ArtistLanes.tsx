@@ -15,12 +15,10 @@ export function ArtistLanes({
   entries,
   expanded,
   onToggle,
-  textOnly,
 }: {
   entries: ArtistEntry[];
   expanded: string | null;
   onToggle: (id: string) => void;
-  textOnly: boolean;
 }) {
   const scale = yearScale(entries);
 
@@ -33,7 +31,6 @@ export function ArtistLanes({
           variant="lane"
           expanded={expanded === entry.id}
           onToggle={() => onToggle(entry.id)}
-          textOnly={textOnly}
         >
           <Track entry={entry} scale={scale} />
         </ArtistRow>

@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { plural } from "../albums";
 import { artistEntries, isRepeat } from "../artists";
 import { ArtistLanes } from "../components/ArtistLanes";
 import { ArtistList } from "../components/ArtistList";
@@ -19,7 +20,7 @@ import type { ViewProps } from "./props";
  */
 type Section = "lanes" | "list";
 
-export function ArtistsView({ albums, collapse, ...chrome }: ViewProps) {
+export function ArtistsView({ albums, ...chrome }: ViewProps) {
   const [open, setOpen] = useState<{ id: string; section: Section } | null>(null);
 
   const entries = useMemo(() => artistEntries(albums), [albums]);
@@ -30,15 +31,7 @@ export function ArtistsView({ albums, collapse, ...chrome }: ViewProps) {
     setOpen((cur) => (cur?.id === id && cur.section === section ? null : { id, section }));
 
   return (
-    <Screen
-      title="Artists"
-      subtitle={{
-        kind: "text",
-        text: `${entries.length} artist${entries.length === 1 ? "" : "s"} · ${repeats.length} you came back to`,
-      }}
-      collapse={collapse}
-      {...chrome}
-    >
+    <Screen title="Artists" subtitle={plural(entries.length, "artist")} {...chrome}>
       {repeats.length > 0 && (
         <>
           <h2 className="sec-head">
@@ -48,7 +41,6 @@ export function ArtistsView({ albums, collapse, ...chrome }: ViewProps) {
             entries={repeats}
             expanded={expandedIn("lanes")}
             onToggle={toggle("lanes")}
-            textOnly={collapse.allCollapsed}
           />
         </>
       )}
@@ -62,7 +54,6 @@ export function ArtistsView({ albums, collapse, ...chrome }: ViewProps) {
             entries={entries}
             expanded={expandedIn("list")}
             onToggle={toggle("list")}
-            textOnly={collapse.allCollapsed}
           />
         </>
       )}

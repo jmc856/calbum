@@ -19,7 +19,7 @@ export interface Album {
 
 export const ALBUMS = raw as Album[];
 
-export type View = "albums" | "genres" | "artists" | "search";
+export type View = "albums" | "genres" | "artists";
 
 /**
  * The extensibility seam: grouping is a parameter, not a hard-coded axis.
@@ -143,6 +143,10 @@ export function matches(album: Album, query: string, genre: string | null): bool
   }
   return true;
 }
+
+/** "1 album" / "12 albums". Every tab's subtitle is a count of something. */
+export const plural = (n: number, noun: string): string =>
+  `${n} ${noun}${n === 1 ? "" : "s"}`;
 
 /** First alphanumeric of a title, for the no-artwork fallback tile. */
 export function initial(title: string): string {

@@ -124,9 +124,10 @@ Python is a real installable package, not a flat script directory — the previo
       src/App.tsx              # shell + routing only; each tab lives in views/
       src/albums.ts             # album data model, groupBy, matches, genre-chart math
       src/artists.ts             # artist grouping (primary-artist-only) + timeline scale
-      src/views/                  # one module per tab — Albums/Search, Genres, Artists
-      src/components/              # Screen (shared header), Nav, Section, AlbumCard,
-                                    #   GenreChart, ArtistRow/ArtistLanes/ArtistList
+      src/views/                  # one module per tab — Albums, Genres, Artists
+      src/components/              # Screen (shared header), Nav, Section/SectionList,
+                                    #   AlbumCard, GenreChart,
+                                    #   ArtistRow/ArtistLanes/ArtistList
       src/data/albums.json     # emitted by site.py, imported at BUILD time, not fetched —
                                 #   see Stage 4's deliberate deviation from the original
                                 #   same-origin-fetch plan
@@ -431,7 +432,10 @@ room.
    while removing the loading state, the error state, and a request from first
    paint (12KB today, ~125KB at 500 albums).
 3. Navigation is one model in two placements: a **bottom tab bar** on phones,
-   a wider grid on desktop. Destinations: Albums · Genres · Artists · Search.
+   a side rail on desktop. Destinations: Albums · Genres · Artists. Search is
+   header chrome on every tab, not a destination — it filters whichever tab you
+   are on, and the field stays open across navigation so a narrowed list always
+   shows why.
 4. **`groupBy(albums, keyFn)` in `src/albums.ts` is the extensibility seam** —
    Artists is the same function with a different `keyFn`, which is why that
    destination cost a line rather than a rewrite.
