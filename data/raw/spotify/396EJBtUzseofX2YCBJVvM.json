@@ -1,0 +1,569 @@
+{
+  "album_type": "album",
+  "total_tracks": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+  },
+  "href": "https://api.spotify.com/v1/albums/396EJBtUzseofX2YCBJVvM",
+  "id": "396EJBtUzseofX2YCBJVvM",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02e8be33a5e8efee9be2afffc3",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e8be33a5e8efee9be2afffc3",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Women In Music Pt. III",
+  "release_date": "2021-02-19",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:396EJBtUzseofX2YCBJVvM",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+      "id": "4Ui2kfOqGujY81UcPrb5KE",
+      "name": "HAIM",
+      "type": "artist",
+      "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/396EJBtUzseofX2YCBJVvM/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 18,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RXozqS8icK2YGcIggW7KM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3RXozqS8icK2YGcIggW7KM",
+        "id": "3RXozqS8icK2YGcIggW7KM",
+        "name": "Los Angeles",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3RXozqS8icK2YGcIggW7KM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247600,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5X2RisOZS9i5MsR8EVw58p",
+        "id": "5X2RisOZS9i5MsR8EVw58p",
+        "name": "The Steps",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5X2RisOZS9i5MsR8EVw58p",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0mACL7DVghZNMTJPectgoW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mACL7DVghZNMTJPectgoW",
+        "id": "0mACL7DVghZNMTJPectgoW",
+        "name": "I Know Alone",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0mACL7DVghZNMTJPectgoW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197413,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/63R86tm8sJkkU3GOOUGz7U"
+        },
+        "href": "https://api.spotify.com/v1/tracks/63R86tm8sJkkU3GOOUGz7U",
+        "id": "63R86tm8sJkkU3GOOUGz7U",
+        "name": "Up From A Dream",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:63R86tm8sJkkU3GOOUGz7U",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2oUq6l5hEPHQwHozEA4MjV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2oUq6l5hEPHQwHozEA4MjV",
+        "id": "2oUq6l5hEPHQwHozEA4MjV",
+        "name": "Gasoline",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2oUq6l5hEPHQwHozEA4MjV",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zLH9CLHFlCQ22stPDOgei"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zLH9CLHFlCQ22stPDOgei",
+        "id": "1zLH9CLHFlCQ22stPDOgei",
+        "name": "3 AM",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1zLH9CLHFlCQ22stPDOgei",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5hMffqN6nHPltws5nhjTpR",
+        "id": "5hMffqN6nHPltws5nhjTpR",
+        "name": "Don't Wanna",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5hMffqN6nHPltws5nhjTpR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205466,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3goL5ZW1OK2b1lQA5vcNrZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3goL5ZW1OK2b1lQA5vcNrZ",
+        "id": "3goL5ZW1OK2b1lQA5vcNrZ",
+        "name": "Another Try",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3goL5ZW1OK2b1lQA5vcNrZ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201440,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BsEKaermhlrzSQpouxlmM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BsEKaermhlrzSQpouxlmM",
+        "id": "1BsEKaermhlrzSQpouxlmM",
+        "name": "Leaning On You",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1BsEKaermhlrzSQpouxlmM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 171360,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1IBTccxl0oEa6Ea2HPnTXs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1IBTccxl0oEa6Ea2HPnTXs",
+        "id": "1IBTccxl0oEa6Ea2HPnTXs",
+        "name": "I've Been Down",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1IBTccxl0oEa6Ea2HPnTXs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 126866,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3T6RXxwTpkQ0h861Dd4zXi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3T6RXxwTpkQ0h861Dd4zXi",
+        "id": "3T6RXxwTpkQ0h861Dd4zXi",
+        "name": "Man from the Magazine",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:3T6RXxwTpkQ0h861Dd4zXi",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 150893,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/24VIbXVX71uwU54CYPV6tM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/24VIbXVX71uwU54CYPV6tM",
+        "id": "24VIbXVX71uwU54CYPV6tM",
+        "name": "All That Ever Mattered",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:24VIbXVX71uwU54CYPV6tM",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193240,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4IbsDEeHUBc5bvxslucY4T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4IbsDEeHUBc5bvxslucY4T",
+        "id": "4IbsDEeHUBc5bvxslucY4T",
+        "name": "FUBT",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4IbsDEeHUBc5bvxslucY4T",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+            },
+            "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "type": "artist",
+            "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/645Exr2lJIO45Guht3qyIa",
+        "id": "645Exr2lJIO45Guht3qyIa",
+        "name": "Gasoline (feat. Taylor Swift)",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:645Exr2lJIO45Guht3qyIa",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+            "id": "4frXpPxQQZwbCu3eTGnZEw",
+            "name": "Thundercat",
+            "type": "artist",
+            "uri": "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5S4a9WpiYFrlP3JfEEAfvd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5S4a9WpiYFrlP3JfEEAfvd",
+        "id": "5S4a9WpiYFrlP3JfEEAfvd",
+        "name": "3 AM (feat. Thundercat)",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5S4a9WpiYFrlP3JfEEAfvd",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5T8OICEqdqbx8Uz7L5abkH",
+        "id": "5T8OICEqdqbx8Uz7L5abkH",
+        "name": "Now I'm In It - Bonus Track",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:5T8OICEqdqbx8Uz7L5abkH",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ag4ODA4AwOhHG5pGcX0Lk",
+        "id": "3ag4ODA4AwOhHG5pGcX0Lk",
+        "name": "Hallelujah - Bonus Track",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:3ag4ODA4AwOhHG5pGcX0Lk",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pSRBmJhkfZm1eilG3VW3L",
+        "id": "5pSRBmJhkfZm1eilG3VW3L",
+        "name": "Summer Girl - Bonus Track",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:5pSRBmJhkfZm1eilG3VW3L",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2021 Haim Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886448983798"
+  },
+  "genres": []
+}

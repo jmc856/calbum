@@ -1,0 +1,360 @@
+{
+  "album_type": "album",
+  "total_tracks": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+  },
+  "href": "https://api.spotify.com/v1/albums/729Vh0HApsm7hGDVjbmtrf",
+  "id": "729Vh0HApsm7hGDVjbmtrf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27338afe545e0e182bdecdce081",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0238afe545e0e182bdecdce081",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485138afe545e0e182bdecdce081",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Days Are Gone",
+  "release_date": "2013-09-30",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:729Vh0HApsm7hGDVjbmtrf",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+      },
+      "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+      "id": "4Ui2kfOqGujY81UcPrb5KE",
+      "name": "HAIM",
+      "type": "artist",
+      "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/729Vh0HApsm7hGDVjbmtrf/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257813,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5wL742yBgvtbw1IibA3FMJ",
+        "id": "5wL742yBgvtbw1IibA3FMJ",
+        "name": "Falling",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5wL742yBgvtbw1IibA3FMJ",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245809,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2319gHincsCeSmc19Efi2j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2319gHincsCeSmc19Efi2j",
+        "id": "2319gHincsCeSmc19Efi2j",
+        "name": "Forever",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2319gHincsCeSmc19Efi2j",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6golelYKuy85o3u0cxIxFK",
+        "id": "6golelYKuy85o3u0cxIxFK",
+        "name": "The Wire",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6golelYKuy85o3u0cxIxFK",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230459,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/056mbYcqyQo86Rfr9XfyYm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/056mbYcqyQo86Rfr9XfyYm",
+        "id": "056mbYcqyQo86Rfr9XfyYm",
+        "name": "If I Could Change Your Mind",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:056mbYcqyQo86Rfr9XfyYm",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251661,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KM2YtlA69C6WKbxA1vdsR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KM2YtlA69C6WKbxA1vdsR",
+        "id": "1KM2YtlA69C6WKbxA1vdsR",
+        "name": "Honey & I",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1KM2YtlA69C6WKbxA1vdsR",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231218,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Je5Vjd8VXVpQYcOiav5KU",
+        "id": "6Je5Vjd8VXVpQYcOiav5KU",
+        "name": "Don't Save Me",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6Je5Vjd8VXVpQYcOiav5KU",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pKVh2W9oZkfRVmzf4UeYD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pKVh2W9oZkfRVmzf4UeYD",
+        "id": "5pKVh2W9oZkfRVmzf4UeYD",
+        "name": "Days Are Gone",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5pKVh2W9oZkfRVmzf4UeYD",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233133,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0jCGo9MLTR98iPUQCT0p5r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0jCGo9MLTR98iPUQCT0p5r",
+        "id": "0jCGo9MLTR98iPUQCT0p5r",
+        "name": "My Song 5",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:0jCGo9MLTR98iPUQCT0p5r",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257160,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5mKbFgEbuYRJRvl7SlPpRf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5mKbFgEbuYRJRvl7SlPpRf",
+        "id": "5mKbFgEbuYRJRvl7SlPpRf",
+        "name": "Go Slow",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5mKbFgEbuYRJRvl7SlPpRf",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 248400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/26Ij4Z5uXledB0fRg7V9av"
+        },
+        "href": "https://api.spotify.com/v1/tracks/26Ij4Z5uXledB0fRg7V9av",
+        "id": "26Ij4Z5uXledB0fRg7V9av",
+        "name": "Let Me Go",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:26Ij4Z5uXledB0fRg7V9av",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+            },
+            "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+            "id": "4Ui2kfOqGujY81UcPrb5KE",
+            "name": "HAIM",
+            "type": "artist",
+            "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242615,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7p3vvpBKc7QRY1ur4qj2jP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7p3vvpBKc7QRY1ur4qj2jP",
+        "id": "7p3vvpBKc7QRY1ur4qj2jP",
+        "name": "Running If You Call My Name",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7p3vvpBKc7QRY1ur4qj2jP",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(P) 2012, 2013 Haim Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "886444152655"
+  },
+  "genres": []
+}
