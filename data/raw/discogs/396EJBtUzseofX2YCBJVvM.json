@@ -1,0 +1,3282 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886448983798",
+    "artist": "HAIM",
+    "title": "Women In Music Pt. III",
+    "year": 2021
+  },
+  "results": [
+    {
+      "id": 18151060,
+      "title": "Haim (2) - Women In Music Pt. III",
+      "master_id": 1761616,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "country": "US",
+      "year": "2021",
+      "format": [
+        "File",
+        "MP3",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "B08WRQZ2DX"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1761616",
+      "uri": "/release/18151060-Haim-Women-In-Music-Pt-III",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/lafypAKxfsui8Y_Hi47Wxa3i9DkZZL7aGHPIaTLGSc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTUx/MDYwLTE2MTc1NTMx/MzEtOTk1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/85Tzz0IJ5Cwx8xnGt8YFkW2slEqGxOx72MD1-dEixTs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTUx/MDYwLTE2MTc1NTMx/MzEtOTk1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18151060",
+      "community": {
+        "want": 44,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "18",
+          "text": "VBR, (Expanded Edition)",
+          "descriptions": [
+            "MP3",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1761616,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Indie Rock",
+      "Pop Rock",
+      "Indie Pop"
+    ],
+    "main_release": 15528973,
+    "most_recent_release": 25177384,
+    "resource_url": "https://api.discogs.com/masters/1761616",
+    "uri": "https://www.discogs.com/master/1761616-Haim-2-Women-In-Music-Pt-III",
+    "versions_url": "https://api.discogs.com/masters/1761616/versions",
+    "main_release_url": "https://api.discogs.com/releases/15528973",
+    "most_recent_release_url": "https://api.discogs.com/releases/25177384",
+    "num_for_sale": 264,
+    "lowest_price": 5.81,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/3mlVYmT_2oz2b4x2DeExqdRLau_bPw0X0-vrwdqMNHk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtMzE4OC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/3mlVYmT_2oz2b4x2DeExqdRLau_bPw0X0-vrwdqMNHk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtMzE4OC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/XmJrsNvHINkh4sDqERtJJ4YProO9hAoIOu0QruYTuFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtMzE4OC5qcGVn.jpeg",
+        "width": 600,
+        "height": 584
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9rQtimzrAoAGPcCDQo5uOH_amZg3JRvSSRQC4Bf_8SU/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDItNzQ0Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9rQtimzrAoAGPcCDQo5uOH_amZg3JRvSSRQC4Bf_8SU/rs:fit/g:sm/q:90/h:463/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDItNzQ0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VERfd32hx98ItTe5vwev4F4s3dXLl3YtcVnWHvdfQuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDItNzQ0Ni5qcGVn.jpeg",
+        "width": 600,
+        "height": 463
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/RKIqupKmUTv6zWdRJyXwTdx28d7HBLfgJ5KYbW0ygjY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAy/OTItODA4Mi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/RKIqupKmUTv6zWdRJyXwTdx28d7HBLfgJ5KYbW0ygjY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAy/OTItODA4Mi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xlLPjD2MbGNadqzdwZGcf__x3Ev8ZorRHGkNSHeDkQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAy/OTItODA4Mi5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/G2obmHPhCq2Czaq8w0RP4nod3gCMM0eDm4j7Jis38Pg/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtODA4Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/G2obmHPhCq2Czaq8w0RP4nod3gCMM0eDm4j7Jis38Pg/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtODA4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WrIFTuctanfjk6hHM8mXIlQfUOLkQcpc5kyLWbmyQWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDEtODA4Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 465
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/45jdN0leJBmJcsEnGtwIDgWGE62hWIBNEgRTLsA7LCo/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDAtMjcxOS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/45jdN0leJBmJcsEnGtwIDgWGE62hWIBNEgRTLsA7LCo/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDAtMjcxOS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/ycWrG9BIY8IzHn01Mn3rhw3TSWeB-39jx_xu1CpxvWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE1OTMwODAz/MDAtMjcxOS5qcGVn.jpeg",
+        "width": 600,
+        "height": 576
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sdFMk5Lgekj_tSQtfXhws6gnrlGft4MgUOL3EbIjrdE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NzEtMTE0My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/sdFMk5Lgekj_tSQtfXhws6gnrlGft4MgUOL3EbIjrdE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NzEtMTE0My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/N4wrGxRH4x9GBPkDOku21_FEyRAUw7duBeyoS92UqLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NzEtMTE0My5qcGVn.jpeg",
+        "width": 600,
+        "height": 596
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/yKlCOHNLicF_Id89KOvw4xEZ5M-uVL_VXCP4RORM5zY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NTEtNzM5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/yKlCOHNLicF_Id89KOvw4xEZ5M-uVL_VXCP4RORM5zY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NTEtNzM5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/G0kZ7YOEj1ZuYRzm82KJjRGrKGp1b6EeBw8G3AQm1a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/OTczLTE3MTE3MjM3/NTEtNzM5NS5qcGVn.jpeg",
+        "width": 600,
+        "height": 588
+      }
+    ],
+    "year": 2020,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Los Angeles",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Organ, Piano, Bass, Arranged By [Horn Arrangement]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tristan Rodman",
+            "anv": "Tristan Friedberg Rodman",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7090990,
+            "resource_url": "https://api.discogs.com/artists/7090990"
+          },
+          {
+            "name": "Dave Fridmann",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 208546,
+            "resource_url": "https://api.discogs.com/artists/208546"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Organ, Piano, Bass, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:20"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "The Steps",
+        "extraartists": [
+          {
+            "name": "Benji Lysaght",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 1408177,
+            "resource_url": "https://api.discogs.com/artists/1408177"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, Vocals, Shaker",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Cass McCombs",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar",
+            "tracks": "",
+            "id": 394536,
+            "resource_url": "https://api.discogs.com/artists/394536"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Twelve-String Guitar [12-String Guitar]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Chris Kasych",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1063028,
+            "resource_url": "https://api.discogs.com/artists/1063028"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tom Elmhirst",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 122559,
+            "resource_url": "https://api.discogs.com/artists/122559"
+          },
+          {
+            "name": "Buddy Ross",
+            "anv": "",
+            "join": "",
+            "role": "Organ",
+            "tracks": "",
+            "id": 2773062,
+            "resource_url": "https://api.discogs.com/artists/2773062"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer, Bass, Organ",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Guitar, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "4:07"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "I Know Alone",
+        "extraartists": [
+          {
+            "name": "Phillip A. Peterson",
+            "anv": "Phillip Peterson",
+            "join": "",
+            "role": "Cello",
+            "tracks": "",
+            "id": 1140998,
+            "resource_url": "https://api.discogs.com/artists/1140998"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Electric Guitar, Synth, Acoustic Guitar, Vocals",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tom Elmhirst",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 122559,
+            "resource_url": "https://api.discogs.com/artists/122559"
+          },
+          {
+            "name": "Buddy Ross",
+            "anv": "",
+            "join": "",
+            "role": "Synth, Drum Programming",
+            "tracks": "",
+            "id": 2773062,
+            "resource_url": "https://api.discogs.com/artists/2773062"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Synth, Sounds [Side-Chained Hiss]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drums, Drum Programming",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Buddy Ross",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2773062,
+            "resource_url": "https://api.discogs.com/artists/2773062"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:46"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Up From A Dream",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Organ, Drum Programming, Synth, Vocals",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Cass McCombs",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar",
+            "tracks": "",
+            "id": 394536,
+            "resource_url": "https://api.discogs.com/artists/394536"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Acoustic Guitar, Synth, Piano, Vocals",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Dalton Ricks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 6934238,
+            "resource_url": "https://api.discogs.com/artists/6934238"
+          },
+          {
+            "name": "David Schiffman",
+            "anv": "Dave Schiffman",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 274751,
+            "resource_url": "https://api.discogs.com/artists/274751"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Dave Fridmann",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 208546,
+            "resource_url": "https://api.discogs.com/artists/208546"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:17"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Gasoline",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Electric Guitar [Flange Guitar]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Bass, Acoustic Guitar, Mellotron [Mellotron Accordion], Synthesizer [CS80]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "David Schiffman",
+            "anv": "Dave Schiffman",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 274751,
+            "resource_url": "https://api.discogs.com/artists/274751"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tom Elmhirst",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 122559,
+            "resource_url": "https://api.discogs.com/artists/122559"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drum",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:13"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "3 AM",
+        "extraartists": [
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, Vocals",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Synth, Turntables, Vocals",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Benji Lysaght",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar",
+            "tracks": "",
+            "id": 1408177,
+            "resource_url": "https://api.discogs.com/artists/1408177"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Chris Kasych",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1063028,
+            "resource_url": "https://api.discogs.com/artists/1063028"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tommy King (5)",
+            "anv": "",
+            "join": "",
+            "role": "Harpsichord [Chamberlin Harpsichord], Synth",
+            "tracks": "",
+            "id": 3153408,
+            "resource_url": "https://api.discogs.com/artists/3153408"
+          },
+          {
+            "name": "Neal Pogue",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 147027,
+            "resource_url": "https://api.discogs.com/artists/147027"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drum Programming",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Joe Thornalley",
+            "anv": "Joe Thornally",
+            "join": "",
+            "role": "Voice [Spoken Word]",
+            "tracks": "",
+            "id": 3932664,
+            "resource_url": "https://api.discogs.com/artists/3932664"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tommy King (5)",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3153408,
+            "resource_url": "https://api.discogs.com/artists/3153408"
+          }
+        ],
+        "duration": "3:10"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Don't Wanna",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Acoustic Guitar, Vocals, Organ, Drum Programming, Mandolin",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Tom Elmhirst",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 122559,
+            "resource_url": "https://api.discogs.com/artists/122559"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Synth",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Guitar, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Another Try",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Synth, Arranged By [Horn Arrangement], Electric Guitar",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Chris Kasych",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1063028,
+            "resource_url": "https://api.discogs.com/artists/1063028"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tommy King (5)",
+            "anv": "",
+            "join": "",
+            "role": "Piano, Synthesizer [Juno], Mellotron, Keyboards [Yamaha PS-20], Synthesizer [Moog]",
+            "tracks": "",
+            "id": 3153408,
+            "resource_url": "https://api.discogs.com/artists/3153408"
+          },
+          {
+            "name": "Buddy Ross",
+            "anv": "",
+            "join": "",
+            "role": "Synth",
+            "tracks": "",
+            "id": 2773062,
+            "resource_url": "https://api.discogs.com/artists/2773062"
+          },
+          {
+            "name": "JJ Kirkpatrick",
+            "anv": "",
+            "join": "",
+            "role": "Trumpet",
+            "tracks": "",
+            "id": 4498805,
+            "resource_url": "https://api.discogs.com/artists/4498805"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Congas",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:25"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Leaning On You",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tristan Rodman",
+            "anv": "Tristan Friedberg Rodman",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7090990,
+            "resource_url": "https://api.discogs.com/artists/7090990"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Harmonium, Drum [Hand Drum]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Julian McLanahan",
+            "anv": "Julian Maclanahan",
+            "join": "",
+            "role": "Mandolin",
+            "tracks": "",
+            "id": 7467390,
+            "resource_url": "https://api.discogs.com/artists/7467390"
+          },
+          {
+            "name": "Dave Fridmann",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 208546,
+            "resource_url": "https://api.discogs.com/artists/208546"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Acoustic Guitar",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Acoustic Guitar, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Twelve-String Guitar [12-String Guitar], Acoustic Guitar, Double Bass, Keyboards [Orchestron]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:21"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "I've Been Down",
+        "extraartists": [
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, Vocals, Electric Guitar, Organ, Piano, Arranged By [Horn Arrangement]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Horn Arrangement]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Electric Guitar, Drums, Congas",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "2:51"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Man From The Magazine",
+        "extraartists": [
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Acoustic Guitar",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "2:06"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "All That Ever Mattered",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Electric Guitar",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Synth, Electric Guitar",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Amir Yaghmai",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar",
+            "tracks": "",
+            "id": 572047,
+            "resource_url": "https://api.discogs.com/artists/572047"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Shawn Everett",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 579562,
+            "resource_url": "https://api.discogs.com/artists/579562"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drum Programming, Synth, Drums, Electric Guitar",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "2:30"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "FUBT",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jim-E Stack",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming",
+            "tracks": "",
+            "id": 2109859,
+            "resource_url": "https://api.discogs.com/artists/2109859"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Joey Messina-Doerning",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7073717,
+            "resource_url": "https://api.discogs.com/artists/7073717"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Manny Marroquin",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 67636,
+            "resource_url": "https://api.discogs.com/artists/67636"
+          },
+          {
+            "name": "Jim-E Stack",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional Production By]",
+            "tracks": "",
+            "id": 2109859,
+            "resource_url": "https://api.discogs.com/artists/2109859"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Rhythm Guitar, Drum Programming, Synth",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Jack Hallenbeck",
+            "anv": "",
+            "join": "",
+            "role": "Synth",
+            "tracks": "",
+            "id": 6041727,
+            "resource_url": "https://api.discogs.com/artists/6041727"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Lead Guitar",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Lead Guitar",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tayla Parx",
+            "anv": "Tayla Parks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4775829,
+            "resource_url": "https://api.discogs.com/artists/4775829"
+          }
+        ],
+        "duration": "3:13"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Now I'm In It",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drum Programming, Programmed By [Synth Programming], Synth, Vocals",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar, Piano, Drum Programming, Programmed By [Synth Programming], Synth",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Dalton Ricks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 6934238,
+            "resource_url": "https://api.discogs.com/artists/6934238"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Jeremie Inhaber",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineer Assisted By]",
+            "tracks": "",
+            "id": 7264380,
+            "resource_url": "https://api.discogs.com/artists/7264380"
+          },
+          {
+            "name": "Robin Florent",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineer Assisted By]",
+            "tracks": "",
+            "id": 4864753,
+            "resource_url": "https://api.discogs.com/artists/4864753"
+          },
+          {
+            "name": "Scott Desmarais",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineer Assisted By]",
+            "tracks": "",
+            "id": 5721781,
+            "resource_url": "https://api.discogs.com/artists/5721781"
+          },
+          {
+            "name": "Chris Galland",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineer]",
+            "tracks": "",
+            "id": 1608079,
+            "resource_url": "https://api.discogs.com/artists/1608079"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Acoustic Guitar, Electric Guitar, Congas",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Manny Marroquin",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 67636,
+            "resource_url": "https://api.discogs.com/artists/67636"
+          },
+          {
+            "name": "Buddy Ross",
+            "anv": "",
+            "join": "",
+            "role": "Synth",
+            "tracks": "",
+            "id": 2773062,
+            "resource_url": "https://api.discogs.com/artists/2773062"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Bass",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Congas",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ramesh Srivastava",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1108677,
+            "resource_url": "https://api.discogs.com/artists/1108677"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:24"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Hallelujah",
+        "extraartists": [
+          {
+            "name": "Tobias Jesso Jr.",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar",
+            "tracks": "",
+            "id": 4486100,
+            "resource_url": "https://api.discogs.com/artists/4486100"
+          },
+          {
+            "name": "Rob Moose",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [String Arrangement By]",
+            "tracks": "",
+            "id": 390950,
+            "resource_url": "https://api.discogs.com/artists/390950"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [String Arrangement By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Electric Guitar [Electric Guitar Drones]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Grace Banks (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 6504835,
+            "resource_url": "https://api.discogs.com/artists/6504835"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Michael Harris (10)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1893621,
+            "resource_url": "https://api.discogs.com/artists/1893621"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Tristan Rodman",
+            "anv": "Tristan Friedberg Rodman",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7090990,
+            "resource_url": "https://api.discogs.com/artists/7090990"
+          },
+          {
+            "name": "Matt Scatchell",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineer Assisted By]",
+            "tracks": "",
+            "id": 7595952,
+            "resource_url": "https://api.discogs.com/artists/7595952"
+          },
+          {
+            "name": "Brandon Bost",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Mix Engineered By]",
+            "tracks": "",
+            "id": 2441592,
+            "resource_url": "https://api.discogs.com/artists/2441592"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals, Electric Guitar",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Tom Elmhirst",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 122559,
+            "resource_url": "https://api.discogs.com/artists/122559"
+          },
+          {
+            "name": "Julian McLanahan",
+            "anv": "Julian Maclanahan",
+            "join": "",
+            "role": "Violin",
+            "tracks": "",
+            "id": 7467390,
+            "resource_url": "https://api.discogs.com/artists/7467390"
+          },
+          {
+            "name": "Rob Moose",
+            "anv": "",
+            "join": "",
+            "role": "Violin, Viola",
+            "tracks": "",
+            "id": 390950,
+            "resource_url": "https://api.discogs.com/artists/390950"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Tobias Jesso Jr.",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 4486100,
+            "resource_url": "https://api.discogs.com/artists/4486100"
+          }
+        ],
+        "duration": "3:10"
+      },
+      {
+        "position": "16",
+        "type_": "track",
+        "title": "Summer Girl",
+        "extraartists": [
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Acoustic Guitar, Synth, Organ, Drum Programming, Shaker, Slide Guitar, Arranged By [Sax Arrangement By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals, Guitar",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Double Bass [Upright Bass], Backing Vocals [Background Vocals]",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Jasmine Chen (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 7373478,
+            "resource_url": "https://api.discogs.com/artists/7373478"
+          },
+          {
+            "name": "Matt DiMona",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Assisted By]",
+            "tracks": "",
+            "id": 5320413,
+            "resource_url": "https://api.discogs.com/artists/5320413"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Chris Kasych",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1063028,
+            "resource_url": "https://api.discogs.com/artists/1063028"
+          },
+          {
+            "name": "Dalton Ricks",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 6934238,
+            "resource_url": "https://api.discogs.com/artists/6934238"
+          },
+          {
+            "name": "Grace Banks (2)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 6504835,
+            "resource_url": "https://api.discogs.com/artists/6504835"
+          },
+          {
+            "name": "John DeBold",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 4568171,
+            "resource_url": "https://api.discogs.com/artists/4568171"
+          },
+          {
+            "name": "Michael Harris (10)",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 1893621,
+            "resource_url": "https://api.discogs.com/artists/1893621"
+          },
+          {
+            "name": "Nate Head",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 7472105,
+            "resource_url": "https://api.discogs.com/artists/7472105"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Engineer [Engineered By]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Shawn Everett",
+            "anv": "",
+            "join": "",
+            "role": "Mixed By",
+            "tracks": "",
+            "id": 579562,
+            "resource_url": "https://api.discogs.com/artists/579562"
+          },
+          {
+            "name": "Henry Solomon",
+            "anv": "",
+            "join": "",
+            "role": "Saxophone",
+            "tracks": "",
+            "id": 6998364,
+            "resource_url": "https://api.discogs.com/artists/6998364"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Tambourine, Drums [Additional Drums], Performer [CDJ]",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Vocals, Drums, Programmed By [Bass Programming]",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Lou Reed",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11879,
+            "resource_url": "https://api.discogs.com/artists/11879"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Lou Reed",
+            "anv": "",
+            "join": "",
+            "role": "Written-By [Portion Of \"Walk On The Wild Side\"]",
+            "tracks": "",
+            "id": 11879,
+            "resource_url": "https://api.discogs.com/artists/11879"
+          }
+        ],
+        "duration": "3:25"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Haim (2)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2870871,
+        "resource_url": "https://api.discogs.com/artists/2870871",
+        "thumbnail_url": "https://i.discogs.com/nCht0ppXt9YWptcMzdMLaNOR_fp49zLZaYGO5E8HwBg/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4NzA4/NzEtMTc0NzI3OTI4/Ny0yNzEyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Women In Music Pt. III",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=BSFsMIqCijo",
+        "title": "HAIM - Los Angeles (Audio)",
+        "description": "Music video by Haim performing Los Angeles (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/qGymEg",
+        "duration": 202,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=J2O_xa8cems",
+        "title": "Haim - The Steps",
+        "description": "Haim - The Steps\n\nListen: https://HAIM.lnk.to/TheStepsVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nDirectors: Paul Thomas Anderson, Danielle Haim\nProducers: Sa",
+        "duration": 253,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vfZSgr_si4I",
+        "title": "HAIM - I Know Alone (Official Video)",
+        "description": "HAIM - I Know Alone // Listen: https://HAIM.lnk.to/IKnowAlone\nDirected remotely by Jake Schreier // Choreographed remotely by Francis and the Lights & Haim // Produced by Jackie Kelman // Bisbee and Cody Ryder // Color by Mikey Rossiter, The Mill\n\nPre-Ord",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=t3QXUEo-VT4",
+        "title": "HAIM - Up From A Dream (Audio)",
+        "description": "Music video by Haim performing Up From A Dream (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/IMt6AR",
+        "duration": 199,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kQ15Nq1XjRA",
+        "title": "HAIM - Gasoline (Audio) ft. Taylor Swift",
+        "description": "HAIM feat. Taylor Swift - Gasoline (Official Audio)\nListen now: https://haim.lnk.to/GasolineFtTaylorSwift\n\n'Gasoline' feat. Taylor Swift is taken from Women In Music Pt III (Extended Edition). Available to stream and download now: https://HAIM.lnk.to/WIMP",
+        "duration": 194,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=oEp2DkHMxJM",
+        "title": "HAIM - 3 AM (Audio)",
+        "description": "Music video by Haim performing 3am (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/PsNfEn",
+        "duration": 192,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=J3AT7eyeJeE",
+        "title": "HAIM - Don't Wanna (Official Audio)",
+        "description": "HAIM \u2013 Don\u2019t Wanna\n\nListen: https://HAIM.lnk.to/DontWanna \n\nPre-Order/Pre-Save Now: https://HAIM.lnk.to/WIMP3VD\n\nFollow HAIM:\nhttps://www.instagram.com/haimtheband/\nhttps://www.facebook.com/haimtheband\nhttps://twitter.com/haimtheband\nhttps://www.youtube.c",
+        "duration": 204,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pOWQVF6uu9k",
+        "title": "HAIM - Another Try (Audio)",
+        "description": "Music video by Haim performing Another Try (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/z85axE",
+        "duration": 207,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=dfOegMhb9DQ",
+        "title": "HAIM - Leaning On You (Audio)",
+        "description": "Music video by Haim performing Leaning On You (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/Mp39AS",
+        "duration": 203,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=s2GS8DUDfPM",
+        "title": "HAIM - I've Been Down (Audio)",
+        "description": "Music video by Haim performing I've Been Down (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/eQr3w6",
+        "duration": 173,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=QcsJxkje-AA",
+        "title": "HAIM - Man From The Magazine (Official Audio)",
+        "description": "HAIM - Man From The Magazine (Official Audio)\nListen now: https://HAIM.lnk.to/ManFromTheMagazineID\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nLyrics\n\nMan from t",
+        "duration": 129,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=X5cKI8H2QFw",
+        "title": "HAIM - All That Ever Mattered (Audio)",
+        "description": "Music video by Haim performing All That Ever Mattered (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/ankXu9",
+        "duration": 153,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=jL-gS7G0a_M",
+        "title": "HAIM - FUBT (Audio)",
+        "description": "Music video by Haim performing FUBT (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/fpHBVB",
+        "duration": 195,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=G-UnzRM24IM",
+        "title": "HAIM - Now I'm In It",
+        "description": "HAIM - Now I'm In It\n\nListen: https://HAIM.lnk.to/NowImInItVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nDirector: Paul Thomas Anderson\nProducers: Sara Murphy, ",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=fpfJFotlENk",
+        "title": "Haim - Hallelujah",
+        "description": "HAIM - Hallelujah\n\nListen: https://Haim.lnk.to/HallelujahVD\n\nDirector: Paul Thomas Anderson\nProducers: Sara Murphy, Erica Frauman\nEditor: Andy Jurgensen\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/h",
+        "duration": 193,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZjuA_o6Jzyo",
+        "title": "HAIM - Summer Girl",
+        "description": "HAIM - Summer Girl\n\nListen: https://HAIM.lnk.to/SummerGirlVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nPerformed by \nDanielle Haim\nEste Haim \nAlana Haim\nHenry ",
+        "duration": 232,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=5NsytSr3PFU",
+        "title": "I Know Alone",
+        "description": "Provided to YouTube by Universal Music Group\n\nI Know Alone \u00b7 HAIM\n\nWomen In Music Pt. III\n\n\u2117 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nReleased on: 2021-02-19\n\nDrumprogrammer, Producer, Vocalist, Composer L",
+        "duration": 227,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZjuA_o6Jzyo",
+        "title": "Haim - Summer Girl",
+        "description": "HAIM - Summer Girl\n\nListen: https://HAIM.lnk.to/SummerGirlVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nPerformed by \nDanielle Haim\nEste Haim \nAlana Haim\nHenry ",
+        "duration": 232,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=J2O_xa8cems",
+        "title": "Haim - The Steps (Official Video)",
+        "description": "Haim - The Steps\n\nListen: https://HAIM.lnk.to/TheStepsVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nDirectors: Paul Thomas Anderson, Danielle Haim\nProducers: Sa",
+        "duration": 253,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BSFsMIqCijo",
+        "title": "Haim - Los Angeles (Audio)",
+        "description": "Music video by Haim performing Los Angeles (Audio). \u00a9 2020 HAIM Productions Inc., under exclusive licence to Universal Music Operations Limited\n\nhttp://vevo.ly/qGymEg",
+        "duration": 202,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=vfZSgr_si4I",
+        "title": "HAIM - I Know Alone (Official Video)",
+        "description": "HAIM - I Know Alone // Listen: https://HAIM.lnk.to/IKnowAlone\nDirected remotely by Jake Schreier // Choreographed remotely by Francis and the Lights & Haim // Produced by Jackie Kelman // Bisbee and Cody Ryder // Color by Mikey Rossiter, The Mill\n\nPre-Ord",
+        "duration": 230,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=G-UnzRM24IM",
+        "title": "Haim - Now I'm In It",
+        "description": "HAIM - Now I'm In It\n\nListen: https://HAIM.lnk.to/NowImInItVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nDirector: Paul Thomas Anderson\nProducers: Sara Murphy, ",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=crZvtA9I4lY",
+        "title": "Haim - Don't Wanna (Official Video)",
+        "description": "Listen to 'Don't Wanna' now: https://HAIM.lnk.to/DontWannaID\n\nThe official video for HAIM - Don't Wanna \n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nMusic video ",
+        "duration": 168,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=kQ15Nq1XjRA",
+        "title": "Haim - Gasoline (Audio) ft. Taylor Swift",
+        "description": "HAIM feat. Taylor Swift - Gasoline (Official Audio)\nListen now: https://haim.lnk.to/GasolineFtTaylorSwift\n\n'Gasoline' feat. Taylor Swift is taken from Women In Music Pt III (Extended Edition). Available to stream and download now: https://HAIM.lnk.to/WIMP",
+        "duration": 194,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZjuA_o6Jzyo",
+        "title": "Haim - Summer Girl",
+        "description": "HAIM - Summer Girl\n\nListen: https://HAIM.lnk.to/SummerGirlVD\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nPerformed by \nDanielle Haim\nEste Haim \nAlana Haim\nHenry ",
+        "duration": 232,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NqIiYJX1Xw8",
+        "title": "Haim - Man From The Magazine (Official Video)",
+        "description": "HAIM - Man From The Magazine (Official Video)\nListen now: https://HAIM.lnk.to/ManFromTheMagazineID\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nDirector: Paul Tho",
+        "duration": 128,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1761616,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

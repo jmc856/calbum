@@ -1,0 +1,2130 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886444152655",
+    "artist": "HAIM",
+    "title": "Days Are Gone",
+    "year": 2013
+  },
+  "results": [
+    {
+      "id": 9872427,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/9872427-Haim-Days-Are-Gone",
+      "catno": "UICP-1159",
+      "thumb": "https://i.discogs.com/h4KtFT4A0kc1oksPOT0XmzddwQ3XGYPDIt8kOIwRFnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI0/MjctMTQ4Nzg4MDg2/OS05MDAxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/MGi7nHGsnhuyZT_qnMD4aPfs9Vpw8EPDjIQx2wl1Oc4/rs:fit/g:sm/q:90/h:507/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI0/MjctMTQ4Nzg4MDg2/OS05MDAxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9872427",
+      "community": {
+        "want": 66,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15948693,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Mexico",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Sony Music M\u00e9xico",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God Publishing",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8883-77097-2 9",
+        "BMI",
+        "DIDP 176337 01",
+        "IFPI LE81",
+        "IFPI 6402"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/15948693-Haim-Days-Are-Gone",
+      "catno": "88883 77097 2",
+      "thumb": "https://i.discogs.com/uka7ofbUX1TvkFJcdNWbbgvr3CeNubEWOgdSsTIJN9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ4/NjkzLTE2MDQ3MzAw/OTEtNTA0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/axf-F1_bOM2mZeuwLh8XnLTmAw4RrQA8mPu0TcRMK0g/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ4/NjkzLTE2MDQ3MzAw/OTEtNTA0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15948693",
+      "community": {
+        "want": 36,
+        "have": 28
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5057200,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Vertigo",
+        "Universal",
+        "Vertigo",
+        "Universal",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active",
+        "Optimal Media GmbH",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "0602537528127",
+        "BIEM",
+        "SDRM",
+        "LC14513",
+        "BD24792-01 A1 JP",
+        "BD24792-01 B1 JP",
+        "BD24792-02 C1 JP",
+        "BD24792-02 D1 JP",
+        "3754604",
+        "3754603",
+        "00602537528127"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/5057200-Haim-Days-Are-Gone",
+      "catno": "3752812",
+      "thumb": "https://i.discogs.com/NZiVmu0Tny04NLtwoWSrWeqyyHfhN3uRDMskwe2B71E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTcy/MDAtMTcwMTQzMzM2/MC05NzMzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/WRk3l-NPTUiRaH9AIcG4a1atoaN_FZ22rq4NuSQfvJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTcy/MDAtMTcwMTQzMzM2/MC05NzMzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5057200",
+      "community": {
+        "want": 909,
+        "have": 1134
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "non-gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5509224,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Australasia",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Universal Music Australia",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active",
+        "Sony DADC Australia",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537508143",
+        "IFPI LV87 [Universal logo] ANZ 3750814 A0101021120-0101 12",
+        "IFPI LV87",
+        "IFPI 6513",
+        "IFPI 651A",
+        "IFPI 6542",
+        "IFPI 6546"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/5509224-Haim-Days-Are-Gone",
+      "catno": "3750814",
+      "thumb": "https://i.discogs.com/W7UOTyW8ElFlLF95kfQciI22fMVoQ8jNdyoAUP4KrNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDky/MjQtMTY2MjQ1MDA4/MS01MTA2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/-yFTvZJqnuFoRDsTfOJ2V8Fsi_UzHx29Ur8M9xX7rm0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDky/MjQtMTY2MjQ1MDA4/MS01MTA2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5509224",
+      "community": {
+        "want": 72,
+        "have": 328
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22231732,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Poland",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God Publishing",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537528998 (86)",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/22231732-Haim-Days-Are-Gone",
+      "catno": "88883 77097 2",
+      "thumb": "https://i.discogs.com/YnKtv1AvAZeuXK8vL7Bgw-hcdgoIK0RVB-DVSWRkx5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/NzMyLTE2NDUzNTA4/NzAtMTY1MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/k9D_zAmWEYpcl67X0OsmLJ28ZfSJjG7t3C63yjNMsIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/NzMyLTE2NDUzNTA4/NzAtMTY1MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22231732",
+      "community": {
+        "want": 21,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31646489,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "UK",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Polydor",
+        "Plugged In"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/31646489-Haim-Days-Are-Gone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Z4hbT7CSCRHjzqNkDAUW1AofX5I2OwO3vknCTdCWjVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ2/NDg5LTE3MjUzOTg4/MDAtNTY4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fM7tCU3cVnBCcSl1AZBTA-6NMRlAd-lmt7S9doBSdkc/rs:fit/g:sm/q:90/h:496/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ2/NDg5LTE3MjUzOTg4/MDAtNTY4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31646489",
+      "community": {
+        "want": 11,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7152616,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Unknown",
+      "year": "2013",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Haim Productions Inc.",
+        "Columbia Records, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/7152616-Haim-Days-Are-Gone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/u7CvOw-I1uOfnPwp1_Ub-j1rEr_7m90xXdmLQRCNoFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTI2/MTYtMTQzNDkwNDA5/NS05NTg1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/6sU2V-5rwiw3apdJWd1piejq7IHJlOOcWG0Nlx7h-Q0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTI2/MTYtMTQzNDkwNDA5/NS05NTg1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7152616",
+      "community": {
+        "want": 45,
+        "have": 25
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5028492,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "USA & Canada",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Columbia Records",
+        "Columbia Records",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "United Record Pressing",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God Publishing",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Eldorado Recording Studios",
+        "Larrabee Sound Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Big Active"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8883-77097-1 2",
+        "888837709712",
+        "AL88883770971",
+        "BL88883770971",
+        "CL88883770971",
+        "DL88883770971",
+        "C-377097 A \u24ca 88883-77097-1 A",
+        "C-377097 B \u24ca 88883-77097-1 B",
+        "C-377097 C \u24ca 88883-77097-1 C",
+        "C-377097 D \u24ca 88883- \u03373\u033777097-1 D",
+        "BMI",
+        "C-377097"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/5028492-Haim-Days-Are-Gone",
+      "catno": "88883770971",
+      "thumb": "https://i.discogs.com/cjMPU6eoCh0GiPUq8m7Sy2l-hQQHN3lEGHUfS0-sPfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg0/OTItMTY2NjY3OTQ0/OC00OTgyLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/_mBq54PSl5cxHIKSi-7kxOR6SbSEudDcsalgoO-vhUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg0/OTItMTY2NjY3OTQ0/OC00OTgyLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5028492",
+      "community": {
+        "want": 1311,
+        "have": 7085
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "180 Gram",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4957128,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Synth-pop",
+        "Breaks",
+        "Electro",
+        "House"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album",
+        "CD",
+        "Compilation",
+        "All Media",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537509430",
+        "BIEM",
+        "SDRM",
+        "LC00309",
+        "06025 375 081-4 01 + 533337976",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI LV27",
+        "IFPI 0136",
+        "06025 375 459-9 01 + 53343722",
+        "MADE IN GERMANY BY EDC A",
+        "IFPI LV27",
+        "IFPI 0118"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/4957128-Haim-Days-Are-Gone",
+      "catno": "3750943",
+      "thumb": "https://i.discogs.com/GKinC4x7hiZOL1uHltbSqckr1DpgQCucQo0D5C8FEko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTcx/MjgtMTY0OTUxNjg1/Ni0xMDU5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xofZALoBYMHxpltD90hLlXZfRaLyzLhNn63MJgb_8Bc/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTcx/MjgtMTY0OTUxNjg1/Ni0xMDU5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4957128",
+      "community": {
+        "want": 136,
+        "have": 598
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Compilation"
+          ]
+        },
+        {
+          "name": "All Media",
+          "qty": "1",
+          "text": "Cardboard Sleeve",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7879083,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Germany",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "label": [
+        "Vertigo",
+        "Universal Music Group",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Vertigo/Capitol"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537528110",
+        "BIEM",
+        "SDRM",
+        "LC 14513",
+        "06025 375 281-3 01 + 53343770 Made in Germany by EDC A",
+        "06025 375 460-7 01 * 53343774 Made in Germany by EDC A",
+        "IFPI LV27",
+        "IFPI LV26",
+        "IFPI 0144"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/7879083-Haim-Days-Are-Gone",
+      "catno": "3752811",
+      "thumb": "https://i.discogs.com/Nt9npFoNxLFjM5KAH_CUtZRJoCjU_dsOll3Llp_rZQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzkw/ODMtMTQ1MDc3MTI5/Mi05MDA4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/aeDo2mxkmEgjLklHOrO5xcO0ZkIzLQBjybgi8w978Bo/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzkw/ODMtMTQ1MDc3MTI5/Mi05MDA4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7879083",
+      "community": {
+        "want": 100,
+        "have": 73
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "2",
+          "descriptions": [
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27322737,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537508143",
+        "00602537508143",
+        "BIEM/SDRM",
+        "LC00309",
+        "[4x Universal logo] 06025 375 081-4 01 + 53337976",
+        "MADE IN GERMANY BY EDC  B",
+        "MADE IN GERMANY BY EDC  E",
+        "IFPI 0136",
+        "IFPI 0118",
+        "IFPI 0142",
+        "IFPI LV27"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/27322737-Haim-Days-Are-Gone",
+      "catno": "3750814",
+      "thumb": "https://i.discogs.com/VpvOjRFSnVcAdcdswlbsfIRen1MNyDRaIbIdMbfwt_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzIy/NzM3LTE3NzA4MTUw/MjMtNTg5Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/9NEFofLdXp509o6DXbziWHNJ7KmHN25qCcuoCq6zmxI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzIy/NzM3LTE3NzA4MTUw/MjMtNTg5Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27322737",
+      "community": {
+        "want": 22,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22457395,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CDr",
+        "Album",
+        "Promo"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/22457395-Haim-Days-Are-Gone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/eEOs_eHCkxua2-Iy5-VSv07CTl-nQ6uRo1MlN6f5F7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/Mzk1LTE2NDY5MTgy/NjktNzE4NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/5x0yMpIS64IxobKyavMq8aPJzFjPqHGqsHYlFnYK3Ng/rs:fit/g:sm/q:90/h:316/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/Mzk1LTE2NDY5MTgy/NjktNzE4NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22457395",
+      "community": {
+        "want": 14,
+        "have": 3
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CDr",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4960848,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alt-Pop",
+        "Synth-pop",
+        "Electro",
+        "Alternative Rock"
+      ],
+      "country": "US",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God Publishing",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8883-77097-2 9",
+        "888837709729",
+        "BMI",
+        "DIDX-1030887 1 A03",
+        "IFPI L329",
+        "IFPI 50D8",
+        "DIDX-1030887 1 A01",
+        "IFPI L329",
+        "IFPI 50C5",
+        "DIDX-1030887 1 A03",
+        "IFPI L329",
+        "IFPI 50A8",
+        "DIDX-1030887 1 A03",
+        "IFPI L329",
+        "IFPI 50A5",
+        "DIDX-1030887 1 A01",
+        "IFPI L329",
+        "IFPI 5082"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/4960848-Haim-Days-Are-Gone",
+      "catno": "88883 77097 2",
+      "thumb": "https://i.discogs.com/UB0U9arxcIG1vTKuvWM1nI_5t7_Gt-xvqahi7cN6GKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTM4MDY1NjY0/Ni0xMjAwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/wNZW40CN6_kkoehTCfSsqlvWLh6M15LTyKWk4FhS3Vo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTM4MDY1NjY0/Ni0xMjAwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4960848",
+      "community": {
+        "want": 257,
+        "have": 1104
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15634076,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Pop Rock"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Vertigo",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Universal Publishing",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537528134",
+        "LC14513",
+        "[1x Universal Logo] 3752813 22 A00 Sony DADC",
+        "IFPI L552",
+        "IFPI 947R",
+        "BIEM/SDRM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/15634076-Haim-Days-Are-Gone",
+      "catno": "3752813",
+      "thumb": "https://i.discogs.com/94WrkThoY7_11WUR5XOcvhSHCQSVX9GWM8-sudVPKVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MDc2LTE1OTQ5Njcx/MDgtNjUwMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MnngLTtDV7tO0eWSTLFDiA1jrYw4OeU7mL9CyD8djU4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM0/MDc2LTE1OTQ5Njcx/MDgtNjUwMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15634076",
+      "community": {
+        "want": 49,
+        "have": 48
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4970526,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "Album",
+        "45 RPM"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active",
+        "Optimal Media GmbH"
+      ],
+      "type": "release",
+      "barcode": [
+        "602537524440",
+        "00602537524440",
+        "BIEM",
+        "SDRM",
+        "LC00309",
+        "3750943 A BD25979-01 A1",
+        "3750943 B BD25979-01 B1",
+        "3750943 C BD25979-02 C1",
+        "3750943 D BD25979-02 D1"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/4970526-Haim-Days-Are-Gone",
+      "catno": "3752444",
+      "thumb": "https://i.discogs.com/IAeBMBv23pj-E3nyIQ87RIX2jDpc4rmmmsRGl8LvbK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzA1/MjYtMTM4MDk3MDc0/OC0zNDk5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/VJyFzI8v3-soguDJ0sn8BnzIXohBDLZcpGw9EYOMQSk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzA1/MjYtMTM4MDk3MDc0/OC0zNDk5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4970526",
+      "community": {
+        "want": 811,
+        "have": 3694
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "Album",
+            "45 RPM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4970965,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Canada",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Sony Music Entertainment Canada Inc.",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God Music Publishing",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sony DADC, Terre Haute",
+        "Big Active"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 8883-77097-2 9",
+        "BMI",
+        "888837709729",
+        "DIDX-1032031 4 A01",
+        "IFPI L327",
+        "IFPI 50H1",
+        "IFPI 507F"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/4970965-Haim-Days-Are-Gone",
+      "catno": "88883 77097 2",
+      "thumb": "https://i.discogs.com/WDqgedazRiWW1d3xYK7Cnxs-B9-gNR7xppk0NqcvTaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzA5/NjUtMTM4MDk3NzY1/NS05MjYzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/JHKEXV6HWlSx-_SDTddzX-H8Ug4ZwGkTQ_-NrtPZmKU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzA5/NjUtMTM4MDk3NzY1/NS05MjYzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4970965",
+      "community": {
+        "want": 82,
+        "have": 218
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7988519,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Japan",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/7988519-Haim-Days-Are-Gone",
+      "catno": "UICP-1159",
+      "thumb": "https://i.discogs.com/8kC3pFcTwwX5-jvFCzFxOJ7MG1rlL9pyHONAWMN_SQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODg1/MTktMTQ5MDAwNzUx/OS0xMjYwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/dNLLQ4QgM2AM0N3VyMyPVX8GoRI7gRKXquFxzMGxkR8/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODg1/MTktMTQ5MDAwNzUx/OS0xMjYwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7988519",
+      "community": {
+        "want": 83,
+        "have": 27
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23460773,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Indonesia",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Polydor"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537508143",
+        "BIEM/SDRM",
+        "LC00309"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/23460773-Haim-Days-Are-Gone",
+      "catno": "3750814",
+      "thumb": "https://i.discogs.com/9Hg5rHXgyEAu27mMofmvVDeOci66aX7UCRb6FsO3jC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYw/NzczLTE2NTQzMjM1/NzEtMzc2Ni5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/1X6KBp2zWJ91k10TdsnkTlcPw4ZBBG2yl8L_o583DeY/rs:fit/g:sm/q:90/h:486/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYw/NzczLTE2NTQzMjM1/NzEtMzc2Ni5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23460773",
+      "community": {
+        "want": 20,
+        "have": 15
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5760295,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Indie Pop"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Vertigo",
+        "Universal Music Group",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Universal Publishing",
+        "The Lodge, New York",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537528134",
+        "LC14513",
+        "BIEM/SDRM",
+        "[4x Universal logo] 06025 375 281-3 01 + 53343770",
+        "MADE IN GERMANY BY EDC E",
+        "IFPI LV27",
+        "IFPI 0151"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/5760295-Haim-Days-Are-Gone",
+      "catno": "3752813",
+      "thumb": "https://i.discogs.com/tBvumBJNerop4NGTyVbqFLRktI1G5XIdYN32QPkh3dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjAy/OTUtMTcwNzA0NzM0/MS03MTAxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/-uwgZ2vRp88_ro9qN9_WHM6OK37pQfTMQSg5MBMNEKQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjAy/OTUtMTcwNzA0NzM0/MS03MTAxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5760295",
+      "community": {
+        "want": 93,
+        "have": 208
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4950732,
+      "title": "Haim (2) - Days Are Gone",
+      "master_id": 602725,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock"
+      ],
+      "country": "Europe",
+      "year": "2013",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records Ltd.",
+        "Haim Productions Inc.",
+        "Goldmeyn Music",
+        "Universal Publishing",
+        "Lion Of God",
+        "The Mix Suite",
+        "Electric Lady Studios",
+        "Larrabee Sound Studios",
+        "Eldorado Recording Studios",
+        "Stereoblue Studios",
+        "The Lodge, New York",
+        "Sunset Sound",
+        "Heavy Duty Studios",
+        "Sear Sound",
+        "Downtown Music Studios",
+        "Hyperion Sound",
+        "Vox Recording Studios",
+        "The Bank",
+        "The Premises Studio (London)",
+        "Box Studios, NYC",
+        "Big Active",
+        "EDC, Germany"
+      ],
+      "type": "release",
+      "barcode": [
+        "00602537508143",
+        "BIEM/SDRM",
+        "LC00309",
+        "[4x Universal logo] 06025 375 081-4 01 + 53337976",
+        "MADE IN GERMANY BY EDC  B",
+        "IFPI LV27",
+        "IFPI 0158",
+        "[4x Universal logo] 06025 375 081-4 01 + 53337976",
+        "MADE IN GERMANY BY EDC  H",
+        "IFPI LV27",
+        "IFPI 0152"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/602725",
+      "uri": "/release/4950732-Haim-Days-Are-Gone",
+      "catno": "3750814",
+      "thumb": "https://i.discogs.com/VSfGq33j5RiRBaOPYynx0ZW3oE8KnhTXkvKWMIBUunI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTA3/MzItMTYyMjYyNTEw/NC00MDU0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/SRvOVk5Ep1U2ulVNenYn0vM5cr7ejqrrBMoB3a7dCDQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTA3/MzItMTYyMjYyNTEw/NC00MDU0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4950732",
+      "community": {
+        "want": 119,
+        "have": 1663
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 602725,
+    "genres": [
+      "Electronic",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alt-Pop",
+      "Synth-pop",
+      "Electro",
+      "Alternative Rock"
+    ],
+    "main_release": 4960848,
+    "most_recent_release": 22068886,
+    "resource_url": "https://api.discogs.com/masters/602725",
+    "uri": "https://www.discogs.com/master/602725-Haim-2-Days-Are-Gone",
+    "versions_url": "https://api.discogs.com/masters/602725/versions",
+    "main_release_url": "https://api.discogs.com/releases/4960848",
+    "most_recent_release_url": "https://api.discogs.com/releases/22068886",
+    "num_for_sale": 325,
+    "lowest_price": 1.22,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/wNZW40CN6_kkoehTCfSsqlvWLh6M15LTyKWk4FhS3Vo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTM4MDY1NjY0/Ni0xMjAwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/wNZW40CN6_kkoehTCfSsqlvWLh6M15LTyKWk4FhS3Vo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTM4MDY1NjY0/Ni0xMjAwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/UB0U9arxcIG1vTKuvWM1nI_5t7_Gt-xvqahi7cN6GKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTM4MDY1NjY0/Ni0xMjAwLmpwZWc.jpeg",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/6yFB9ujw6wsbCkvwlHKmGaEVtRaAECj7sXEdEBCF1TA/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MS01MjkxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/6yFB9ujw6wsbCkvwlHKmGaEVtRaAECj7sXEdEBCF1TA/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MS01MjkxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MnJ0yuzMKkFjtSDY8GV55MjIMGfCi2zOIqBQqe4cPwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MS01MjkxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 523
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/QXjDHViXf-WCUlOutVoOGZ8Mx-MltHSbq65GSuQX_X0/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MC03NzQyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/QXjDHViXf-WCUlOutVoOGZ8Mx-MltHSbq65GSuQX_X0/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MC03NzQyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/hwbOBpawP1Bwu6vnPrPT3G7xacgNpq7UQlS_BCrJfXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjA4/NDgtMTQ5NTgzODY5/MC03NzQyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 512
+      }
+    ],
+    "year": 2013,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Falling",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Percussion, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Will Canzoneri",
+            "anv": "",
+            "join": "",
+            "role": "Clavinet, Electric Piano [Rhodes]",
+            "tracks": "",
+            "id": 1182961,
+            "resource_url": "https://api.discogs.com/artists/1182961"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Piano, Synthesizer, Percussion, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer, Programmed By, Guitar, Backing Vocals",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          }
+        ],
+        "duration": "4:17"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Forever",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards, Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Percussion, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          }
+        ],
+        "duration": "4:05"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "The Wire",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals, Programmed By, Synthesizer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          }
+        ],
+        "duration": "4:05"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "If I Could Change Your Mind",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards, Percussion",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          }
+        ],
+        "duration": "3:50"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Honey & I",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drums [Simmons], Synthesizer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Percussion, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          }
+        ],
+        "duration": "4:11"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Don't Save Me",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Percussion, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards, Percussion, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums, Percussion",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "James Ford",
+            "anv": "",
+            "join": "",
+            "role": "Percussion, Guitar",
+            "tracks": "",
+            "id": 290084,
+            "resource_url": "https://api.discogs.com/artists/290084"
+          }
+        ],
+        "duration": "3:51"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Days Are Gone",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals, Programmed By, Synthesizer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Piano, Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Jamie Muhoberac",
+            "anv": "",
+            "join": "",
+            "role": "Keyboards [Additional]",
+            "tracks": "",
+            "id": 109822,
+            "resource_url": "https://api.discogs.com/artists/109822"
+          }
+        ],
+        "duration": "3:33"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "My Song 5",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards, Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Programmed By, Electric Piano [Rhodes], Synthesizer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          }
+        ],
+        "duration": "3:53"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Go Slow",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards, Synthesizer, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Percussion, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          }
+        ],
+        "duration": "4:17"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Let Me Go",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Keyboards, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Mbira, Noises",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          }
+        ],
+        "duration": "4:08"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Running If You Call My Name",
+        "extraartists": [
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Bass, Vocals",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Drums [Simons], Synthesizer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Piano, Vocals",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Guitar, Vocals, Drums",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Greg Leisz",
+            "anv": "",
+            "join": "",
+            "role": "Pedal Steel Guitar",
+            "tracks": "",
+            "id": 284482,
+            "resource_url": "https://api.discogs.com/artists/284482"
+          }
+        ],
+        "duration": "4:02"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Haim (2)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2870871,
+        "resource_url": "https://api.discogs.com/artists/2870871",
+        "thumbnail_url": "https://i.discogs.com/nCht0ppXt9YWptcMzdMLaNOR_fp49zLZaYGO5E8HwBg/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4NzA4/NzEtMTc0NzI3OTI4/Ny0yNzEyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Days Are Gone",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=_acBVglVBcY",
+        "title": "HAIM - Falling (Official Audio)",
+        "description": "\"Falling\" by HAIM off the Falling EP. \n\nDebut album 'Days Are Gone' out now. \nPurchase standard: http://haaa.im/DaysAreGoneFB\nPurchase deluxe: http://haaa.im/DaysAreGoneDLXFB\n\nAvailable on vinyl-\nUS: http://haaa.im/HJ4qzm\nEU: http://haaa.im/Uxfa\n\nFalling ",
+        "duration": 259,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=F3yKMjNB3Po",
+        "title": "HAIM - Forever",
+        "description": "",
+        "duration": 247,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=9g0R17GIuzE",
+        "title": "Falling (Psychemagik Remix)",
+        "description": "Provided to YouTube by Universal Music Group\n\nFalling (Psychemagik Remix) \u00b7 HAIM\n\nFalling\n\n\u2117 2013 HAIM Productions Inc., under exclusive licence to Polydor Records, a division of Universal Music Operations Ltd\n\nReleased on: 2013-01-01\n\nProducer, Studio  P",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=AIjVpRAXK18",
+        "title": "HAIM - Falling (Official Video)",
+        "description": "The official video for 'Falling' by HAIM. Directed by Tabitha Denholm\n\nFollow HAIM: \nhttp://facebook.com/haimtheband \nhttp://twitter.com/haimtheband \nhttp://instagram.com/haimtheband \nhttp://haimtheband.com\n\nLyrics\n\nI give a little into the moment\nLike I'",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=sEwM6ERq0gc",
+        "title": "HAIM - Forever (Official Music Video)",
+        "description": "\"Forever\" by HAIM.\n\nDebut album 'Days Are Gone' out now. \nPurchase standard: http://haaa.im/DaysAreGoneFB\nPurchase deluxe: http://haaa.im/DaysAreGoneDLXFB\n\nAvailable on vinyl-\nUS: http://haaa.im/HJ4qzm\nEU: http://haaa.im/Uxfa\n\n\nhttp://facebook.com/HAIMthe",
+        "duration": 246,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1TffpkE2GU4",
+        "title": "HAIM - The Wire (Official Music Video)",
+        "description": "\u2018The Wire\u2019 is taken from 'Days Are Gone'\nAvailable now: http://smarturl.it/DaysAreGone\n \nAvailable on vinyl-\nUS: http://haaa.im/HJ4qzm\nEU: http://haaa.im/Uxfa\n\n\u00a9 2013 Haim Productions Inc. under exclusive license to Columbia Records, a Division of So",
+        "duration": 254,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ukyxDgr_neY",
+        "title": "HAIM - Days Are Gone",
+        "description": "No copyright intended. All materials belong to their respected owners.\n\nTumblr: http://thebandhaim.tumblr.com\nTwitter: https://twitter.com/thebandhaim_",
+        "duration": 215,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=IUshy3OSDCA",
+        "title": "HAIM - Days are gone",
+        "description": "",
+        "duration": 214,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=sTTGxW0jSyc",
+        "title": "HAIM - Days Are Gone - LIVE - Days Are Gone 10 Years Anniversary - Shepherds Bush Empire, London UK",
+        "description": "Haim performing live for their Days Are Gone 10 years anniversary at Shepherds Bush Empire in London, UK on 31st August 2023.\nSong: Days Are Gone\nArtists:  @HaimTheBand Danielle Haim, Alana Haim, Este Haim",
+        "duration": 257,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 602725,
+  "genres": [
+    {
+      "name": "Electronic",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alt-Pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Synth-pop",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Electro",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

@@ -1,0 +1,2168 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "886446507194",
+    "artist": "HAIM",
+    "title": "Something to Tell You",
+    "year": 2017
+  },
+  "results": [
+    {
+      "id": 30636133,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album",
+        "Test Pressing",
+        "Stereo"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records",
+        "Universal Music Operations Ltd.",
+        "MPO",
+        "Baby Haim Music",
+        "Dyella Music",
+        "Don't Threaten Me With A Good Time",
+        "Lion Of God Publishing",
+        "Kobalt Songs Music Publishing",
+        "Zapata Zabala",
+        "BMG Rights Management US",
+        "Rostam Batmanglij Music",
+        "Eva Jackson Music",
+        "The Lodge, New York",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "Ariel's House, Los Angeles, CA",
+        "Vox Recording Studios",
+        "Valentine Recording Studios",
+        "Sargent Recorders",
+        "Echo Park Back House Studios",
+        "Sunset Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 66904 6",
+        "602557669046",
+        "BIEM/SDRM",
+        "MPO 0602557669114 A 5766911 A ",
+        "MPO 0602557669114 B 5766911 B ",
+        "00602557669114",
+        "MPO 0602557669138 A 5766913 C ",
+        "MPO 0602557669138 B 5766913 D ",
+        "00602557669138",
+        "ASCAP",
+        "SESAC",
+        "PRS",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/30636133-Haim-Something-To-Tell-You",
+      "catno": "5768221",
+      "thumb": "https://i.discogs.com/d_QDMoAZUcqHtQOrgDwXeJdQhkC8CkJLQl5Z6hvOSoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM2/MTMzLTE3MTYyODAx/ODUtNzU5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/MrxD0TR8jwa1xBw2zkqK7h7vgaF1S9IOJbawMK_vH_A/rs:fit/g:sm/q:90/h:478/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM2/MTMzLTE3MTYyODAx/ODUtNzU5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30636133",
+      "community": {
+        "want": 30,
+        "have": 1
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Test Pressing",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35376970,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "File",
+        "FLAC",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Haim Productions Inc.",
+        "Columbia Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "q209whlfy08ba"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/35376970-Haim-Something-To-Tell-You",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/pe6QTzLmvg0X_E2vS5aWXcjfesBGg4-EC5YvOym_y9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzc2/OTcwLTE3NjA0ODE1/MzctODM0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hdNRyGct0HuKLnGMf-EVucSLLSZDVtIUem9eTX8wTZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzc2/OTcwLTE3NjA0ODE1/MzctODM0NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/35376970",
+      "community": {
+        "want": 2,
+        "have": 2
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "11",
+          "text": "24-Bit/96 kHz  Hi-Res Audio",
+          "descriptions": [
+            "FLAC",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10540004,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Vertigo",
+        "Vertigo/Capitol",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Sony DADC"
+      ],
+      "type": "release",
+      "barcode": [
+        "0602557682199",
+        "BIEM/SDRM",
+        "IFPI L555",
+        "IFPI 941Q",
+        "[Universal Logo] 5768219 15 A00"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10540004-Haim-Something-To-Tell-You",
+      "catno": "5768219",
+      "thumb": "https://i.discogs.com/owQccgGEBFCx1drS_zUat0bxUIVxmecXZtgsDzORHoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQw/MDA0LTE0OTk1MTYy/NTYtOTkzMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VoMDpe99Gxu6zAehsKFSqJH4N7Q9tAnqZFrN3QgvzFc/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQw/MDA0LTE0OTk1MTYy/NTYtOTkzMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10540004",
+      "community": {
+        "want": 47,
+        "have": 132
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10595913,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "country": "Canada",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Sony Music",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Sony Music Entertainment Canada Inc.",
+        "Baby Haim Music",
+        "Dyella Music",
+        "Don't Threaten Me With A Good Time",
+        "Lion Of God Publishing",
+        "Kobalt Songs Music Publishing",
+        "Vox Recording Studios",
+        "The Sound Factory",
+        "The Lodge, New York",
+        "Valentine Recording Studios",
+        "Sargent Recorders",
+        "Zapata Zabala",
+        "BMG Rights Management US",
+        "Domino Publishing Co. Ltd.",
+        "Sunset Sound",
+        "Rostam Batmanglij Music",
+        "Echo Park Back House Studios",
+        "Tarbox Road Studios",
+        "Larrabee Sound Studios",
+        "Lion Of God Publishing Co.",
+        "Eva Jackson Music",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "8 89854 50222 5",
+        "ASCAP",
+        "SESAC",
+        "PRS",
+        "BMI",
+        "DIDX-1086258 1 A02",
+        "IFPI L329",
+        "IFPI 50BK"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10595913-Haim-Something-To-Tell-You",
+      "catno": "88985 45022 2",
+      "thumb": "https://i.discogs.com/5I6cTmwjmS6YLpUbWTypk-EPJn6XjQMdDZx15arEeF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk1/OTEzLTE1MDc2NzU2/NzEtODI5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pSeQQAhu-RRvNZllRj1iHev5FJzWP0JTtr9LElp2Vy0/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk1/OTEzLTE1MDc2NzU2/NzEtODI5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10595913",
+      "community": {
+        "want": 37,
+        "have": 67
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10753252,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 66904 6",
+        "0602557669 114 A  5766911 A",
+        "0602557669 114 B  5766911 B",
+        "0602557669 138 A  5766913 C",
+        "0602557669 138 B  5766913 D",
+        "MPO"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10753252-Haim-Something-To-Tell-You",
+      "catno": "5766904",
+      "thumb": "https://i.discogs.com/xk4yvgVizBi9XFOTHxWFQVrK3TUf8C2wHkxBtMF2Kr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUz/MjUyLTE1MDQ4NTcy/NTYtNDU1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CUDSrphrx_saNlTQOIWuL0xkd_XrBoT4keqqBN1F3aU/rs:fit/g:sm/q:90/h:487/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUz/MjUyLTE1MDQ4NTcy/NTYtNDU1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10753252",
+      "community": {
+        "want": 325,
+        "have": 1411
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10687706,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Pop Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album",
+        "Club Edition",
+        "Limited Edition",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Vinyl Me, Please",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Echo Park Back House Studios",
+        "Sargent Recorders",
+        "Sunset Sound",
+        "Valentine Recording Studios",
+        "Vox Recording Studios",
+        "Ariel's House, Los Angeles, CA",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "The Lodge, New York",
+        "Baby Haim Music",
+        "BMG Rights Management (US) LLC",
+        "Domino Publishing Co. Ltd.",
+        "Don't Threaten Me With A Good Time",
+        "Dyella Music",
+        "Eva Jackson Music",
+        "Kobalt Songs Music Publishing",
+        "Lion Of God Music Publishing",
+        "Rostam Batmanglij Music",
+        "Zapata Zabala",
+        "Record Technology Incorporated",
+        "Vinyl Me, Please. Exclusive Pressing"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854580414",
+        "8 89854 58041 4",
+        "5766911 A 88985452261 A \u03c028138.1(3)...",
+        "5766911 B 88985452261 B \u03c028138.2(3)...",
+        "5766913 C 88985452261 C 28138.3(3)...",
+        "5766913 D 88985452261 D 28138.4(3)...",
+        "5766911 A 88985452261 A 28138.1(3)...",
+        "5766911 B 88985452261 B 28138.2(3)...",
+        "5766913 C 88985452261 C 28138.3(3)...",
+        "5766913 D 88985452261 D 28138.4(3)...",
+        "ASCAP",
+        "BMI",
+        "PRS",
+        "SESAC"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10687706-Haim-Something-To-Tell-You",
+      "catno": "88985458041",
+      "thumb": "https://i.discogs.com/jx02kxqDJRrnAKFRgK6XdJ2dSc2WqpLKZy1sdhRM_oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg3/NzA2LTE1MDI0MTY0/NDEtNzc0Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/hDsQiz80x2Yesp3OsNXVF3Swg6INPost_ZaGRKTiQk0/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg3/NzA2LTE1MDI0MTY0/NDEtNzc0Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10687706",
+      "community": {
+        "want": 936,
+        "have": 1213
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Yellow/Gold",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11550953,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "country": "Australia",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor",
+        "Universal Music Australia",
+        "Sony DADC Australia",
+        "Sony DADC Australia"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 602557 669039",
+        "Sony DADC [Universal logo] 5766903 15",
+        "IFPI LV90",
+        "IFPI 6548"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/11550953-Haim-Something-To-Tell-You",
+      "catno": "5766903",
+      "thumb": "https://i.discogs.com/GsMZno6sFQ-D7_z5QK2jvrzm21jMbNWibc2GdKhCHlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUw/OTUzLTE3NDAwOTc2/MzEtODc4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pquxHNFFT0UsBxiq6PbJlMZZOou7Kw0YKypGDD_Em3Q/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUw/OTUzLTE3NDAwOTc2/MzEtODc4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11550953",
+      "community": {
+        "want": 38,
+        "have": 114
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10538275,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "AOR",
+        "Pop Rock"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Universal Music",
+        "Columbia Records",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "barcode": [
+        "4988031230756",
+        "JASRAC",
+        "UICP-1179 MT 463",
+        "IFPI L154",
+        "IFPI 447J"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10538275-Haim-Something-To-Tell-You",
+      "catno": "UICP-1179",
+      "thumb": "https://i.discogs.com/gsiYcJ6cAsTiYFPSDfeuO6bHinvdLK4xnWL84HxxaGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/Mjc1LTE3Mjc3NDk2/NTctOTE4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bfA1P4aUxh8NCT0rkFteT8pFDGHgUqLPyJZ3IWlPRC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/Mjc1LTE3Mjc3NDk2/NTctOTE4Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10538275",
+      "community": {
+        "want": 73,
+        "have": 39
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27694791,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Vertigo",
+        "Universal Music Group",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Vertigo/Capitol",
+        "Universal Music GmbH",
+        "Optimal Media GmbH",
+        "Baby Haim Music",
+        "Dyella Music",
+        "Don't Threaten Me With A Good Time",
+        "Lion Of God Publishing",
+        "Kobalt Songs Music Publishing",
+        "Zapata Zabala",
+        "BMG Rights Management US",
+        "Rostam Batmanglij Music",
+        "Eva Jackson Music",
+        "The Lodge, New York",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "Ariel's House, Los Angeles, CA",
+        "Vox Recording Studios",
+        "Valentine Recording Studios",
+        "Sargent Recorders",
+        "Echo Park Back House Studios",
+        "Sunset Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "0 602557 682212",
+        "0602557682212",
+        "BIEM/SDRM",
+        "0602557682229",
+        "0602557282236",
+        "BH 84160 - 01 A1 5768222 A",
+        "BH 84160 - 01 B1 5768222 B",
+        "BH 84160 - 02 C1 5768223 C",
+        "BH 84160 - 02 D1 5768223 D ",
+        "0602557682229",
+        "5768223"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/27694791-Haim-Something-To-Tell-You",
+      "catno": "5768221",
+      "thumb": "https://i.discogs.com/-ishJIbrUC8yIOsHsYJLkQLCH_Sb8UGjeOqI2OxHaoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk0/NzkxLTE2ODk2MTI2/MjItNDA3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/p5XItFuQQPgvVSHsrBGsixDIiKxxwzrlvrSIJNqafz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk0/NzkxLTE2ODk2MTI2/MjItNDA3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27694791",
+      "community": {
+        "want": 72,
+        "have": 91
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21965149,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock"
+      ],
+      "style": [],
+      "country": "Unknown",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor"
+      ],
+      "type": "release",
+      "barcode": [
+        "60255766903"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/21965149-Haim-Something-To-Tell-You",
+      "catno": "00602557669039",
+      "thumb": "https://i.discogs.com/lve_9sB9XHLcwf4NK00pIpOWshz3IuAxKnAJFIbW6Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTY1/MTQ5LTE2NDM2MjYz/MDYtNDUzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LX4BjmD_dYr7pbMReyAFsRq7ga5QVW_X7rvePWJOde8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTY1/MTQ5LTE2NDM2MjYz/MDYtNDUzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21965149",
+      "community": {
+        "want": 31,
+        "have": 27
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "text": "Signed",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27582924,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "style": [
+        "Soul",
+        "AOR"
+      ],
+      "country": "Japan",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album",
+        "Promo",
+        "Stereo"
+      ],
+      "label": [
+        "Universal Music",
+        "Columbia Records",
+        "Memory-Tech"
+      ],
+      "type": "release",
+      "barcode": [
+        "4988031230756",
+        "JASRAC",
+        "UICP-1179 MT 463",
+        "IFPI L154",
+        "IFPI 447J"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/27582924-Haim-Something-To-Tell-You",
+      "catno": "UICP-1179",
+      "thumb": "https://i.discogs.com/uVi2rzOgRJbK2AIsFg12NXXPg4dqtJ1K2j1Ldr1grz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTgy/OTI0LTE2ODg1MjAw/OTktMTQ1My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/o_5J6V7oLVEgIAMH-m3iuJ9RuPWBM2V9iCA0xKbkNq8/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTgy/OTI0LTE2ODg1MjAw/OTktMTQ1My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27582924",
+      "community": {
+        "want": 19,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Promo",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10539921,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Indie Rock",
+        "Pop Rock"
+      ],
+      "country": "UK & Europe",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records",
+        "Universal Music Operations Ltd.",
+        "Sony DADC",
+        "Vox Recording Studios",
+        "Valentine Recording Studios",
+        "Sargent Recorders",
+        "Sunset Sound",
+        "Echo Park Back House Studios",
+        "Ariel's House, Los Angeles, CA",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "The Lodge, New York",
+        "Larrabee Sound Studios"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 66903 9",
+        "BIEM/SDRM",
+        "Sony DADC [Universal logo] 5766903 15 A01",
+        "IFPI L555",
+        "IFPI 94U4",
+        "Sony DADC [Universal logo] 5766903 15 A01",
+        "IFPI L555",
+        "IFPI 947T",
+        "Sony DADC [Universal logo] 5766903 15 A00",
+        "IFPI L555",
+        "IFPI 94U3"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10539921-Haim-Something-To-Tell-You",
+      "catno": "5766903",
+      "thumb": "https://i.discogs.com/9pebSzlTWh4x3-8WlbQNQu1ewuTTyW4rBXowGGRhuiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM5/OTIxLTE2NDk1MTUz/MTYtNTA2OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zh-oqO3AA7GSv0Gt8RCljdDjGg3RCSv55fjV-KP8X5A/rs:fit/g:sm/q:90/h:549/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM5/OTIxLTE2NDk1MTUz/MTYtNTA2OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10539921",
+      "community": {
+        "want": 78,
+        "have": 782
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10528569,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "CD",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Columbia Records",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony DADC, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854502225",
+        "8 89854 50222 5",
+        "DIDX-1086158 1 A01",
+        "DIDX-1086158 1 A03",
+        "IFPI L329",
+        "IFPI 50BP",
+        "IFPI 50BM"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10528569-Haim-Something-To-Tell-You",
+      "catno": "88985 45022 2",
+      "thumb": "https://i.discogs.com/mPy87jOxthG0bt76RazFO6NiEVxr43LcIDrdn6MiLbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/ODYtMzc4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HKgc6kz0esJuOQKdsOwlMSMbJKjpPUZx7lU0b2og0S0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/ODYtMzc4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10528569",
+      "community": {
+        "want": 182,
+        "have": 489
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10713924,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Columbia",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Echo Park Back House Studios",
+        "Sargent Recorders",
+        "Sunset Sound",
+        "Valentine Recording Studios",
+        "Vox Recording Studios",
+        "Ariel's House, Los Angeles, CA",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "The Lodge, New York",
+        "Baby Haim Music",
+        "BMG Rights Management (US) LLC",
+        "Domino Publishing Co. Ltd.",
+        "Don't Threaten Me With A Good Time",
+        "Dyella Music",
+        "Eva Jackson Music",
+        "Kobalt Songs Music Publishing",
+        "Lion Of God Music Publishing",
+        "Rostam Batmanglij Music",
+        "Zapata Zabala",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "barcode": [
+        "889854522612",
+        "8 89854 52261 2",
+        "ASCAP",
+        "BMI",
+        "PRS",
+        "SESAC",
+        "28138.1(3)... 5766911 A 88985452261 A",
+        "28138.2(3)... 5766911 B 88985452261 B",
+        "28138.3(3)... 5766913 C 88985452261 C",
+        "28138.4(3)... 5766913 D 88985452261 D"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10713924-Haim-Something-To-Tell-You",
+      "catno": "88985452261",
+      "thumb": "https://i.discogs.com/2uWk35wUL0M8BBTvm6AfwFSaEAp8PGZHM09zphqjVUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEz/OTI0LTE2Njk2NTk2/MjItMjY4OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/g2fGKzfSxvLTWn8N6_BusS4w5jH2ocDUvp-VM29G7FA/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEz/OTI0LTE2Njk2NTk2/MjItMjY4OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10713924",
+      "community": {
+        "want": 601,
+        "have": 4563
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10734768,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "country": "US",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "12\"",
+        "45 RPM",
+        "Album"
+      ],
+      "label": [
+        "Columbia",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Columbia Records",
+        "Sony Music Entertainment",
+        "Columbia Records",
+        "Echo Park Back House Studios",
+        "Sargent Recorders",
+        "Sunset Sound",
+        "Valentine Recording Studios",
+        "Vox Recording Studios",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "The Lodge, New York",
+        "Baby Haim Music",
+        "BMG Rights Management (US) LLC",
+        "Domino Publishing Co. Ltd.",
+        "Don't Threaten Me With A Good Time",
+        "Dyella Music",
+        "Eva Jackson Music",
+        "Kobalt Songs Music Publishing",
+        "Lion Of God Music Publishing",
+        "Rostam Batmanglij Music",
+        "Zapata Zabala",
+        "Urban Outfitters",
+        "Columbia"
+      ],
+      "type": "release",
+      "barcode": [
+        "ASCAP",
+        "BMI",
+        "PRS",
+        "SESAC",
+        "889854580315"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10734768-Haim-Something-To-Tell-You",
+      "catno": "88985458031",
+      "thumb": "https://i.discogs.com/QKjRVyyfnOxX5DcN3Qz_bXjiVTuK36JtE_U1jxYZiAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM0/NzY4LTE1MDMzMzAy/NDYtMzg0Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bs4ReIbJpfzoI525GWW4mj9xdfIqXiEQVKVwtXi4gwo/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM0/NzY4LTE1MDMzMzAy/NDYtMzg0Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10734768",
+      "community": {
+        "want": 484,
+        "have": 627
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Alternate Cover",
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10723880,
+      "title": "Haim (2) - Something To Tell You",
+      "master_id": 1206419,
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Soft Rock"
+      ],
+      "country": "Europe",
+      "year": "2017",
+      "format": [
+        "Vinyl",
+        "LP",
+        "45 RPM",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Polydor",
+        "Haim Productions Inc.",
+        "Haim Productions Inc.",
+        "Polydor Records",
+        "Universal Music Operations Ltd.",
+        "MPO",
+        "Baby Haim Music",
+        "Dyella Music",
+        "Don't Threaten Me With A Good Time",
+        "Lion Of God Publishing",
+        "Kobalt Songs Music Publishing",
+        "Zapata Zabala",
+        "BMG Rights Management US",
+        "Rostam Batmanglij Music",
+        "Eva Jackson Music",
+        "The Lodge, New York",
+        "Larrabee Sound Studios",
+        "The Sound Factory",
+        "Tarbox Road Studios",
+        "Ariel's House, Los Angeles, CA",
+        "Vox Recording Studios",
+        "Valentine Recording Studios",
+        "Sargent Recorders",
+        "Echo Park Back House Studios",
+        "Sunset Sound"
+      ],
+      "type": "release",
+      "barcode": [
+        "6 02557 66904 6",
+        "602557669046",
+        "BIEM/SDRM",
+        "MPO 0602557669114 A 5766911 A ",
+        "MPO 0602557669114 B 5766911 B ",
+        "00602557669114",
+        "MPO 0602557669138 A 5766913 C ",
+        "MPO 0602557669138 B 5766913 D ",
+        "00602557669138",
+        "ASCAP",
+        "SESAC",
+        "PRS",
+        "BMI"
+      ],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1206419",
+      "uri": "/release/10723880-Haim-Something-To-Tell-You",
+      "catno": "5768221",
+      "thumb": "https://i.discogs.com/LWRkM3kE4vx2CGdcetl59_5BZhPu4RPjh2bWS4sVrdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIz/ODgwLTE2NjE4MTc1/NjQtMzgwOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4CLUjjYMAcKudaa_c1VpHq-mP9U-Rg8HlqDdMIa6cc8/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIz/ODgwLTE2NjE4MTc1/NjQtMzgwOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10723880",
+      "community": {
+        "want": 232,
+        "have": 656
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1206419,
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "main_release": 10528569,
+    "most_recent_release": 32084517,
+    "resource_url": "https://api.discogs.com/masters/1206419",
+    "uri": "https://www.discogs.com/master/1206419-Haim-2-Something-To-Tell-You",
+    "versions_url": "https://api.discogs.com/masters/1206419/versions",
+    "main_release_url": "https://api.discogs.com/releases/10528569",
+    "most_recent_release_url": "https://api.discogs.com/releases/32084517",
+    "num_for_sale": 159,
+    "lowest_price": 1.35,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/B0xOpdKOfNhPg8mFRA2JNEB9CcJXRAgOOtGOE-hMyLo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/ODYtMzc4OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/B0xOpdKOfNhPg8mFRA2JNEB9CcJXRAgOOtGOE-hMyLo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/ODYtMzc4OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/mPy87jOxthG0bt76RazFO6NiEVxr43LcIDrdn6MiLbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/ODYtMzc4OS5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EOu9xv75zGEvjuY7R3s_1zAyMtQc7iELWGZttxjp_z8/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTUtNzQxMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EOu9xv75zGEvjuY7R3s_1zAyMtQc7iELWGZttxjp_z8/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTUtNzQxMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Vgu6kJBQSCjOGK_GuyJa1ce1FEdFuWwOWkccBajSUzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTUtNzQxMS5qcGVn.jpeg",
+        "width": 600,
+        "height": 465
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/WMlPMA_lylWMRf-txKts_m75cMmCLuiHVBlXqYKNrrs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTgtNzAzOC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/WMlPMA_lylWMRf-txKts_m75cMmCLuiHVBlXqYKNrrs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTgtNzAzOC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/IjZpZIoZDqE_r3nccINw1CAGaz_e_VRR4OhtCUqv0oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTgtNzAzOC5qcGVn.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oGTZVmbvNKAEQtjtYACLnNABSutGHdslWTQRMVC3sys/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTktNjQ5NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/oGTZVmbvNKAEQtjtYACLnNABSutGHdslWTQRMVC3sys/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTktNjQ5NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/yzQFwMyjlzhOXv02p84tRvv-KLCFKhrExzrE7KNsLBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTktNjQ5NC5qcGVn.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/SlupIUeBiJeiaDD0ECrVBH_vdmZmMRlJ8XrZcB6gu9A/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTctNjMzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/SlupIUeBiJeiaDD0ECrVBH_vdmZmMRlJ8XrZcB6gu9A/rs:fit/g:sm/q:90/h:464/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTctNjMzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/xFsLTIeXktJxvJ-S9q6CvbKqinHUjvKBY4DPTXiUbiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTMz/OTctNjMzNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 464
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZXEHDVuQL-cyTAj3g_-loHI04oMmGi3MWp3LrnybwSQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDQ3NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ZXEHDVuQL-cyTAj3g_-loHI04oMmGi3MWp3LrnybwSQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDQ3NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/pTGGK4xRoZ2uTA3idsupSHXInxPTFdiqaz71Kq3AEZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDQ3NS5qcGVn.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/U7sN8TLZ4vEz2m0ZRe_B0yJ7XD0GhT4HrMKB7af7kZQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtODE1NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/U7sN8TLZ4vEz2m0ZRe_B0yJ7XD0GhT4HrMKB7af7kZQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtODE1NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/2jP1ZkWBo9gWdAz2Otf8pn6rK9AgQZDaKc7nAe65y30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtODE1NS5qcGVn.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/rErMp8moa7DQIUA1C-J_jK0YmArBVVJdR5cnljz30aw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQ0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/rErMp8moa7DQIUA1C-J_jK0YmArBVVJdR5cnljz30aw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQ0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/uqARLnnFTahkoYSukQKb9uLhK-crlGoXfIUhdq8Q2b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQ0OS5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/VjJ82vv1-KCdpgbjTS6881I-yQ_BWfNJ4nq_4RZJUmI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjU5My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/VjJ82vv1-KCdpgbjTS6881I-yQ_BWfNJ4nq_4RZJUmI/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjU5My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/77oEXmtwVBJ5rZkCmM7ULb6_a0j-XPUpQ4amjacXqFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjU5My5qcGVn.jpeg",
+        "width": 589,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ttBv7IyxAlaV_yytHTAESk3e5GyKnKTm5Z0vQy5nso0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzQzMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ttBv7IyxAlaV_yytHTAESk3e5GyKnKTm5Z0vQy5nso0/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzQzMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-oy_IBbgCStmpRUm8ybb2m5wjJ4FN-dRaeTXhKPB31c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzQzMS5qcGVn.jpeg",
+        "width": 584,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qznhFrJOC3tDQ6j9DwGiRQ0_fSQTka-0AVhw75Qcu70/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMjM4Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/qznhFrJOC3tDQ6j9DwGiRQ0_fSQTka-0AVhw75Qcu70/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMjM4Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jwytTFOQHEWM_e1xKB0PrONeiFFLJnLrBJlqDWd-Vfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMjM4Ny5qcGVn.jpeg",
+        "width": 593,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/5nsaU3376EqLQjE7nufBfx_Z1GtPeuvI7sxAO8OEkfI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzk0OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/5nsaU3376EqLQjE7nufBfx_Z1GtPeuvI7sxAO8OEkfI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzk0OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/R3xghrPemekQ4d7EMATmt9QU1aOe9KqgNVNVO5WhMyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzk0OS5qcGVn.jpeg",
+        "width": 592,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UOBlXUs2sWQbD5h1WrPPY4-tQxyqy80w8_vn6a052KM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNDI1NC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UOBlXUs2sWQbD5h1WrPPY4-tQxyqy80w8_vn6a052KM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNDI1NC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/4MNgtMFkuHhHwyqm4IjQTIjdMPfA_56aWAZr4UQfb10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNDI1NC5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/zBiLva35-lx82M6Vb8RqysNFPpLkyReJElAjKVY9JLM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMTEzNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/zBiLva35-lx82M6Vb8RqysNFPpLkyReJElAjKVY9JLM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMTEzNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/-gK7aECWBEz3DioDYPCYILxHVNLVqytvP8-mNjmm-K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtMTEzNi5qcGVn.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9xQxgW_J_KwINwkTM_PHvtvqGdlVwK67LU_GZaH8xR4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNTk2My5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/9xQxgW_J_KwINwkTM_PHvtvqGdlVwK67LU_GZaH8xR4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNTk2My5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/NSGw1eZghZeaQE6OYbSkHiE21KfeQnBbWPewg87EPj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtNTk2My5qcGVn.jpeg",
+        "width": 588,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PAlB3SnMJ1a2iqxKbtEkkeD1fTwnEsm8dDDjsr78JlI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODQ0Ny5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/PAlB3SnMJ1a2iqxKbtEkkeD1fTwnEsm8dDDjsr78JlI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODQ0Ny5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/JG9aqwIP9QX_j4X7Y5yxy7QBRpYjCI3RzNtb80_oijY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODQ0Ny5qcGVn.jpeg",
+        "width": 600,
+        "height": 598
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/CEH3hcetjm5L86-bplTiBGZbykbBxnO27-pUvimWyM0/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQyNC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/CEH3hcetjm5L86-bplTiBGZbykbBxnO27-pUvimWyM0/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQyNC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/lFuktnMpf1olZGb-_eTjCKfL99uZ_CpnhkhOc5ffgGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMjQyNC5qcGVn.jpeg",
+        "width": 583,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/lFv_JJNk-lb-84YQswM48-q9JCSbf7ZCKjYCseKV8Z0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDMxNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/lFv_JJNk-lb-84YQswM48-q9JCSbf7ZCKjYCseKV8Z0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDMxNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/j55XUoWOQBTh55p5j0SFzYhfbMK_egJA8denTJONN_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNDMxNS5qcGVn.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EHoy518ZsKA3me-1VnJ5zSIGwlQykxaQr-Da5EA2X5k/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjg4MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/EHoy518ZsKA3me-1VnJ5zSIGwlQykxaQr-Da5EA2X5k/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjg4MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/jevtvQ9HIxMcrUJFyYwFYkJS9JxLEOXeg3Mz5Qw31xI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjg4MC5qcGVn.jpeg",
+        "width": 592,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GhUjeiIDPC4QovSYX1_dwmRDnygfDbN0FKlpZxw0miQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODE0Ni5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GhUjeiIDPC4QovSYX1_dwmRDnygfDbN0FKlpZxw0miQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODE0Ni5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/5G_p6dgxSrBG5dDADilsvOu0B5THpMgXfIT7U1y1ZlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtODE0Ni5qcGVn.jpeg",
+        "width": 591,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/fURhf_J_tvpRbF3Q6G4qdgvkHZkqN89cWNDT_Kex8hg/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzU0MS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/fURhf_J_tvpRbF3Q6G4qdgvkHZkqN89cWNDT_Kex8hg/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzU0MS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/qGNAGFbdpk9JT6Mh85duIzmk-ZXncRrVChs17O6F384/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtNzU0MS5qcGVn.jpeg",
+        "width": 578,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/oUBsWekRRTh6TTkbPvruPvbtnLd8QMxE39Sx_REFdc8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTYyMC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/oUBsWekRRTh6TTkbPvruPvbtnLd8QMxE39Sx_REFdc8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTYyMC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/VNKo-LH42Pnqj8WrbI94KNJmIBNXjvZ_YrOUJ8-NXcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTYyMC5qcGVn.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/GfAzois3JVIxgUd1I4hadOSt-VgIM7S2m78fcEcMWN8/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNjYzNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/GfAzois3JVIxgUd1I4hadOSt-VgIM7S2m78fcEcMWN8/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNjYzNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/B-_Yav0lg3yP5lqylvZXJ7iPbjYuTCNBOGMeZnbIPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtNjYzNS5qcGVn.jpeg",
+        "width": 591,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Sl7D9btucSE2dwn44i6FjdLI699ePF5HcVOPwjONabE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjAxNi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Sl7D9btucSE2dwn44i6FjdLI699ePF5HcVOPwjONabE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjAxNi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/azs6HRiJTqUiOwK_qPKpIf7Sc-c7bR-qMOPlxEGD-mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzAtMjAxNi5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/jTxsPsI5iD8ZTfUBTBL-WqIm_2dT-_CRN1alJuRKttM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtOTEyNS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/jTxsPsI5iD8ZTfUBTBL-WqIm_2dT-_CRN1alJuRKttM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtOTEyNS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/zZ0IgSzG-3mh79HGHp1SWEsOmcQzO_l3T3lguv5KRHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzMtOTEyNS5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ue-RHCorL5D_qNbfmatXAOCsTBLw9knHQOjIx0GPYwI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTY1MC5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/ue-RHCorL5D_qNbfmatXAOCsTBLw9knHQOjIx0GPYwI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTY1MC5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/07FlTfCCJ1LhP09-7jrqGHhgiQH7PxMuMLZs1dX0z9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMTY1MC5qcGVn.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/B_e7lT_iImemQfiC8_4aNpw3sSqolnGh4WeWWZCMw0U/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzItNzEwMS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/B_e7lT_iImemQfiC8_4aNpw3sSqolnGh4WeWWZCMw0U/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzItNzEwMS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/WsIpavtCnNWDMQMj7WYy-VbGUpCzwT7X4JgQuH6fTRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzItNzEwMS5qcGVn.jpeg",
+        "width": 583,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/mcTjjraaYEPfHGxzkiW9sTcn7L2c7yyF-lHT8Ubiw_Q/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMzg2OS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/mcTjjraaYEPfHGxzkiW9sTcn7L2c7yyF-lHT8Ubiw_Q/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMzg2OS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/3-QWqqqq-m46df7sovvlkfxvpTUjcF6UFcDoJq2xZjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/MzQtMzg2OS5qcGVn.jpeg",
+        "width": 590,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/UYV4-S04Etm3IodeqLhTV5wvy6TYG-rb9goHwVPWHwk/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/NDktMzYxMi5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/UYV4-S04Etm3IodeqLhTV5wvy6TYG-rb9goHwVPWHwk/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/NDktMzYxMi5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/s6HyYMEN_yhFr49ZQ1QTZSOUXHT5YrScWNxkRo1DKD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NTY5LTE2NDk1MTM0/NDktMzYxMi5qcGVn.jpeg",
+        "width": 600,
+        "height": 526
+      }
+    ],
+    "year": 2017,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Want You Back",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Bloodpop",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 4765716,
+            "resource_url": "https://api.discogs.com/artists/4765716"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "3:52"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Nothing's Wrong",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "3:09"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Little Of Your Love",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "3:33"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Ready For You",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Twin Shadow",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 1876522,
+            "resource_url": "https://api.discogs.com/artists/1876522"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "George Lewis Jr.",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1201493,
+            "resource_url": "https://api.discogs.com/artists/1201493"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Something To Tell You",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "4:13"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "You Never Knew",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Devonte Hynes",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 853545,
+            "resource_url": "https://api.discogs.com/artists/853545"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "4:29"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Kept Me Crying",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:55"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Found It In Silence",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Producer [Additional]",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "4:23"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Walking Away",
+        "extraartists": [
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          },
+          {
+            "name": "Rostam Batmanglij",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 724168,
+            "resource_url": "https://api.discogs.com/artists/724168"
+          }
+        ],
+        "duration": "3:56"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Right Now",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "4:15"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Night So Long",
+        "extraartists": [
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Alana Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 3013203,
+            "resource_url": "https://api.discogs.com/artists/3013203"
+          },
+          {
+            "name": "Ariel Rechtshaid",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 284906,
+            "resource_url": "https://api.discogs.com/artists/284906"
+          },
+          {
+            "name": "Danielle Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 1788107,
+            "resource_url": "https://api.discogs.com/artists/1788107"
+          },
+          {
+            "name": "Este Haim",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 2734884,
+            "resource_url": "https://api.discogs.com/artists/2734884"
+          }
+        ],
+        "duration": "3:04"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Haim (2)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 2870871,
+        "resource_url": "https://api.discogs.com/artists/2870871",
+        "thumbnail_url": "https://i.discogs.com/nCht0ppXt9YWptcMzdMLaNOR_fp49zLZaYGO5E8HwBg/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4NzA4/NzEtMTc0NzI3OTI4/Ny0yNzEyLmpwZWc.jpeg"
+      }
+    ],
+    "title": "Something To Tell You",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=yPQfcG-eimk",
+        "title": "HAIM - Want You Back (Official Video)",
+        "description": "Directed by Jake Schreier\n\nNew album 'Something To Tell You' available now: http://haim.lnk.to/stty/\n\nCinematography by Adam Newport-Berra\nChoreography by Ian Eastwood, Haim & Francis and the Lights\nProduction Company: Park Pictures\nExecutive Producers: J",
+        "duration": 239,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Wzne4p0Bxu8",
+        "title": "HAIM - Nothing's Wrong (Audio)",
+        "description": "Music video by HAIM performing Nothing's Wrong. (C) 2017 Haim Productions Inc. under exclusive license to Columbia Records, a Division of Sony Music Entertainment\n\nhttp://vevo.ly/30R3n5",
+        "duration": 191,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DsCY4Tpen8E",
+        "title": "HAIM - Water's Running Dry",
+        "description": "",
+        "duration": 227,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=4NJYWgb6dQM",
+        "title": "HAIM - Little of Your Love",
+        "description": "New album 'Something To Tell You' available now: http://haim.lnk.to/stty\n\nDirector: Paul Thomas Anderson\nProducers: Sara Murphy, Erica Frauman\nEditor: Dylan Tichenor\n\nProduction Companies: Ghoulardi Film Company, Rattling Stick, Inc.\n\nFirst Assistant Dire",
+        "duration": 219,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DY9k-ozkei0",
+        "title": "HAIM - Something To Tell You (Audio)",
+        "description": "The new album \"Something To Tell You\" is out now!\n\niTunes: https://goo.gl/3raaRb\nSpotify: https://goo.gl/LcbZW7\nAmazon: https://goo.gl/d5c524\nGoogle Play: https://goo.gl/Lb6B1m",
+        "duration": 253,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1206419,
+  "genres": [
+    {
+      "name": "Rock",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Alternative Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Indie Rock",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

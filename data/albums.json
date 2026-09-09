@@ -2097,8 +2097,34 @@
       "HAIM"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273e8be33a5e8efee9be2afffc3",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1761616,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Pop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "396EJBtUzseofX2YCBJVvM",
     "release_date": "2021-02-19",
     "release_year": 2021,
@@ -3048,8 +3074,29 @@
       "HAIM"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b2733b95b2912a5808ef501d73e8",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1206419,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Indie Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5m9rXTBF7mHFGQlFsiEHrY",
     "release_date": "2017-07-07",
     "release_year": 2017,
@@ -3563,8 +3610,44 @@
       "HAIM"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b27338afe545e0e182bdecdce081",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 602725,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Electronic",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Rock",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "genre",
+        "name": "Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alt-Pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Synth-pop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Electro",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Alternative Rock",
+        "source": "discogs_search"
+      }
+    ],
     "id": "729Vh0HApsm7hGDVjbmtrf",
     "release_date": "2013-09-30",
     "release_year": 2013,
