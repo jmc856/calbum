@@ -1,0 +1,447 @@
+{
+  "album_type": "album",
+  "total_tracks": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
+  },
+  "href": "https://api.spotify.com/v1/albums/5kjqLxeQxdW3CcUdOXuO2c",
+  "id": "5kjqLxeQxdW3CcUdOXuO2c",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d684ea63f359ff9a83c10bc8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d684ea63f359ff9a83c10bc8",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d684ea63f359ff9a83c10bc8",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Telefone",
+  "release_date": "2016-07-31",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:5kjqLxeQxdW3CcUdOXuO2c",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+      },
+      "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+      "id": "1EpyA68dKpjf7jXmQL88Hy",
+      "name": "Noname",
+      "type": "artist",
+      "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/5kjqLxeQxdW3CcUdOXuO2c/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 189509,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5v62yYE9oyTpnjgHpECtN2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5v62yYE9oyTpnjgHpECtN2",
+        "id": "5v62yYE9oyTpnjgHpECtN2",
+        "name": "Yesterday",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5v62yYE9oyTpnjgHpECtN2",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
+            },
+            "href": "https://api.spotify.com/v1/artists/5ZK5YGazICLXEXlaNnEBqP",
+            "id": "5ZK5YGazICLXEXlaNnEBqP",
+            "name": "theMIND",
+            "type": "artist",
+            "uri": "spotify:artist:5ZK5YGazICLXEXlaNnEBqP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 162490,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1OEArA0rZfg6l9lsgKNEqy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OEArA0rZfg6l9lsgKNEqy",
+        "id": "1OEArA0rZfg6l9lsgKNEqy",
+        "name": "Sunny Duet",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1OEArA0rZfg6l9lsgKNEqy",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2PU4qFehXQF7WnlFsJpBiJ",
+            "id": "2PU4qFehXQF7WnlFsJpBiJ",
+            "name": "Raury",
+            "type": "artist",
+            "uri": "spotify:artist:2PU4qFehXQF7WnlFsJpBiJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4jqFe1fd5uul2XSSxsRvbZ",
+            "id": "4jqFe1fd5uul2XSSxsRvbZ",
+            "name": "Cam O'bi",
+            "type": "artist",
+            "uri": "spotify:artist:4jqFe1fd5uul2XSSxsRvbZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 208000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7CRPXJt3IVC7V0VcM0PSQi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7CRPXJt3IVC7V0VcM0PSQi",
+        "id": "7CRPXJt3IVC7V0VcM0PSQi",
+        "name": "Diddy Bop",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7CRPXJt3IVC7V0VcM0PSQi",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UjPnt2nRmw10N58bBeNOg",
+            "id": "3UjPnt2nRmw10N58bBeNOg",
+            "name": "Xavier Om\u00e4r",
+            "type": "artist",
+            "uri": "spotify:artist:3UjPnt2nRmw10N58bBeNOg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 240461,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4668yE5DFMEOyFUZC04brA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4668yE5DFMEOyFUZC04brA",
+        "id": "4668yE5DFMEOyFUZC04brA",
+        "name": "All I Need",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4668yE5DFMEOyFUZC04brA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+            },
+            "href": "https://api.spotify.com/v1/artists/5xI4mPixKfrCCspATqbpy3",
+            "id": "5xI4mPixKfrCCspATqbpy3",
+            "name": "Eryn Allen Kane",
+            "type": "artist",
+            "uri": "spotify:artist:5xI4mPixKfrCCspATqbpy3"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2pHQOZq131jMXYSTjP3Ncx",
+            "id": "2pHQOZq131jMXYSTjP3Ncx",
+            "name": "Akenya",
+            "type": "artist",
+            "uri": "spotify:artist:2pHQOZq131jMXYSTjP3Ncx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183135,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4mWqmihBqG4EBRe86NheY6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4mWqmihBqG4EBRe86NheY6",
+        "id": "4mWqmihBqG4EBRe86NheY6",
+        "name": "Reality Check",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4mWqmihBqG4EBRe86NheY6",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199029,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1WwRIctiw8mXhuQmBK4AzA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1WwRIctiw8mXhuQmBK4AzA",
+        "id": "1WwRIctiw8mXhuQmBK4AzA",
+        "name": "Freedom Interlude",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1WwRIctiw8mXhuQmBK4AzA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 110503,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/40myXrYPCBaYOt7AqBdoFO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/40myXrYPCBaYOt7AqBdoFO",
+        "id": "40myXrYPCBaYOt7AqBdoFO",
+        "name": "Casket Pretty",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:40myXrYPCBaYOt7AqBdoFO",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5RTLRtXjbXI2lSXc6jxlAz",
+            "id": "5RTLRtXjbXI2lSXc6jxlAz",
+            "name": "Ravyn Lenae",
+            "type": "artist",
+            "uri": "spotify:artist:5RTLRtXjbXI2lSXc6jxlAz"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+            },
+            "href": "https://api.spotify.com/v1/artists/6lirZ0ouvh4l3fz3HSnIwi",
+            "id": "6lirZ0ouvh4l3fz3HSnIwi",
+            "name": "Joseph Chilliams",
+            "type": "artist",
+            "uri": "spotify:artist:6lirZ0ouvh4l3fz3HSnIwi"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218627,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3MoQWxjYFWm5wh7Q5XwSBp",
+        "id": "3MoQWxjYFWm5wh7Q5XwSBp",
+        "name": "Forever",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3MoQWxjYFWm5wh7Q5XwSBp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 169241,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7yJN1tBOx3XD9zsrAqKDri"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7yJN1tBOx3XD9zsrAqKDri",
+        "id": "7yJN1tBOx3XD9zsrAqKDri",
+        "name": "Bye Bye Baby",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7yJN1tBOx3XD9zsrAqKDri",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+            },
+            "href": "https://api.spotify.com/v1/artists/1ybINI1qPiFbwDXamRtwxD",
+            "id": "1ybINI1qPiFbwDXamRtwxD",
+            "name": "Smino",
+            "type": "artist",
+            "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2TKC2gVUNBUAlFqfLUoaj0",
+            "id": "2TKC2gVUNBUAlFqfLUoaj0",
+            "name": "Phoelix",
+            "type": "artist",
+            "uri": "spotify:artist:2TKC2gVUNBUAlFqfLUoaj0"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Hjbimq43OgxaBRpFXic4x",
+            "id": "7Hjbimq43OgxaBRpFXic4x",
+            "name": "Saba",
+            "type": "artist",
+            "uri": "spotify:artist:7Hjbimq43OgxaBRpFXic4x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 311000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0EN4QjJqiAufEh6g4xPNvC",
+        "id": "0EN4QjJqiAufEh6g4xPNvC",
+        "name": "Shadow Man",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0EN4QjJqiAufEh6g4xPNvC",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "(C) 2016 Noname",
+      "type": "C"
+    },
+    {
+      "text": "(P) 2016 Noname",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "859718078043"
+  },
+  "genres": []
+}

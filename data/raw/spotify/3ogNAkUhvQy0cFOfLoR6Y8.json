@@ -1,0 +1,472 @@
+{
+  "album_type": "album",
+  "total_tracks": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8"
+  },
+  "href": "https://api.spotify.com/v1/albums/3ogNAkUhvQy0cFOfLoR6Y8",
+  "id": "3ogNAkUhvQy0cFOfLoR6Y8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb22c7162d3867dc3c2af466",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb22c7162d3867dc3c2af466",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851fb22c7162d3867dc3c2af466",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Whack World",
+  "release_date": "2018-05-30",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:3ogNAkUhvQy0cFOfLoR6Y8",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+      },
+      "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+      "id": "4lPl9gqgox3JDiaJ1yklKh",
+      "name": "Tierra Whack",
+      "type": "artist",
+      "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/3ogNAkUhvQy0cFOfLoR6Y8/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 58453,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/50PvTiqi0cZne4mKR7HRck"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50PvTiqi0cZne4mKR7HRck",
+        "id": "50PvTiqi0cZne4mKR7HRck",
+        "name": "Black Nails",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:50PvTiqi0cZne4mKR7HRck",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 58413,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4lLdrM9fpLA1Pcng9WNMLp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4lLdrM9fpLA1Pcng9WNMLp",
+        "id": "4lLdrM9fpLA1Pcng9WNMLp",
+        "name": "Bugs Life",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4lLdrM9fpLA1Pcng9WNMLp",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Gnx5bNAglWcclJkuJnrys"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Gnx5bNAglWcclJkuJnrys",
+        "id": "5Gnx5bNAglWcclJkuJnrys",
+        "name": "Flea Market",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5Gnx5bNAglWcclJkuJnrys",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aLMgdQGyb5Dd7rMbKSynB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aLMgdQGyb5Dd7rMbKSynB",
+        "id": "3aLMgdQGyb5Dd7rMbKSynB",
+        "name": "Cable Guy",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3aLMgdQGyb5Dd7rMbKSynB",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/43QHgtUoaHY7tRfhdCE4yn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43QHgtUoaHY7tRfhdCE4yn",
+        "id": "43QHgtUoaHY7tRfhdCE4yn",
+        "name": "4 Wings",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:43QHgtUoaHY7tRfhdCE4yn",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kTkoT7mNXTJ21WwFTIDxA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kTkoT7mNXTJ21WwFTIDxA",
+        "id": "4kTkoT7mNXTJ21WwFTIDxA",
+        "name": "Hookers",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4kTkoT7mNXTJ21WwFTIDxA",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0WpDeBJ22LcwF4QoERQOTv",
+        "id": "0WpDeBJ22LcwF4QoERQOTv",
+        "name": "Hungry Hippo",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0WpDeBJ22LcwF4QoERQOTv",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pmoQSAU9y2EIz6ee2hBwc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pmoQSAU9y2EIz6ee2hBwc",
+        "id": "6pmoQSAU9y2EIz6ee2hBwc",
+        "name": "Pet Cemetery",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6pmoQSAU9y2EIz6ee2hBwc",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4iFgO0Rmg5hXcPpM3RpayS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4iFgO0Rmg5hXcPpM3RpayS",
+        "id": "4iFgO0Rmg5hXcPpM3RpayS",
+        "name": "Fuck Off",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4iFgO0Rmg5hXcPpM3RpayS",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4x4cclsdcnzWphsjJzD4Bs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4x4cclsdcnzWphsjJzD4Bs",
+        "id": "4x4cclsdcnzWphsjJzD4Bs",
+        "name": "Silly Sam",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4x4cclsdcnzWphsjJzD4Bs",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IUWe1lprVhev4JwubwNMF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IUWe1lprVhev4JwubwNMF",
+        "id": "0IUWe1lprVhev4JwubwNMF",
+        "name": "Fruit Salad",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0IUWe1lprVhev4JwubwNMF",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PsjiKghYKF3k13NOIiFFW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PsjiKghYKF3k13NOIiFFW",
+        "id": "2PsjiKghYKF3k13NOIiFFW",
+        "name": "Pretty Ugly",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2PsjiKghYKF3k13NOIiFFW",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1hXuODVWe5E3GEouSN9HtC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1hXuODVWe5E3GEouSN9HtC",
+        "id": "1hXuODVWe5E3GEouSN9HtC",
+        "name": "Sore Loser",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1hXuODVWe5E3GEouSN9HtC",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0IShCbw4JJEpcmZiTwAena"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0IShCbw4JJEpcmZiTwAena",
+        "id": "0IShCbw4JJEpcmZiTwAena",
+        "name": "Dr. Seuss",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:0IShCbw4JJEpcmZiTwAena",
+        "is_local": false
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lPl9gqgox3JDiaJ1yklKh",
+            "id": "4lPl9gqgox3JDiaJ1yklKh",
+            "name": "Tierra Whack",
+            "type": "artist",
+            "uri": "spotify:artist:4lPl9gqgox3JDiaJ1yklKh"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 60000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vUuBXZGymDmcVFuf6SicJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0vUuBXZGymDmcVFuf6SicJ",
+        "id": "0vUuBXZGymDmcVFuf6SicJ",
+        "name": "Waze",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:0vUuBXZGymDmcVFuf6SicJ",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "\u00a9 2018 Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "\u2117 2018 Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602567665779"
+  },
+  "genres": []
+}
