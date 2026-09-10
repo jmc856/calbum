@@ -1,0 +1,27 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+  },
+  "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+  "id": "1EpyA68dKpjf7jXmQL88Hy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff06bac9abd774f452ee4fbe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ff06bac9abd774f452ee4fbe",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ff06bac9abd774f452ee4fbe",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Noname",
+  "type": "artist",
+  "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+}
