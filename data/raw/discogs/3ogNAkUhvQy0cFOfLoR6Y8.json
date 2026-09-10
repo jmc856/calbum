@@ -1,0 +1,336 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "00602567665779",
+    "artist": "Tierra Whack",
+    "title": "Whack World",
+    "year": 2018
+  },
+  "results": [
+    {
+      "id": 12242081,
+      "title": "Tierra Whack - Whack World",
+      "master_id": 1467807,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "AAC",
+        "Album"
+      ],
+      "label": [
+        "UMG Recordings, Inc."
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1467807",
+      "uri": "/release/12242081-Tierra-Whack-Whack-World",
+      "catno": "00602567665779",
+      "thumb": "https://i.discogs.com/9x6K05TB3QridWGFr6FDDisvKRrXmpRgzHZHm1Ap7KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQy/MDgxLTE1MzEyNDAw/ODktMjUzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/InbDpawv7AYXIyIQ1IbyDFG29zrQdRoSpni2jerAb1I/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQy/MDgxLTE1MzEyNDAw/ODktMjUzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12242081",
+      "community": {
+        "want": 56,
+        "have": 18
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "descriptions": [
+            "AAC",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12922854,
+      "title": "Tierra Whack - Whack World",
+      "master_id": 1467807,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [
+        "Pop Rap"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "File",
+        "MP3",
+        "Album"
+      ],
+      "label": [
+        "Not On Label (Tierra Whack Self-released)",
+        "Tierra Whack",
+        "Tierra Whack"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1467807",
+      "uri": "/release/12922854-Tierra-Whack-Whack-World",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Ragz577E2piOf7a1tkL4jAFifOatLNhIuafhlbKZyqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIy/ODU0LTE1NDQ2MDI0/MjktODA5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Gfw9fhPSkQ2mZxg27V_36dQ54EnIKyLrffgfCTyTtmg/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIy/ODU0LTE1NDQ2MDI0/MjktODA5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12922854",
+      "community": {
+        "want": 82,
+        "have": 31
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "15",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13827711,
+      "title": "Tierra Whack - Whack World",
+      "master_id": 1467807,
+      "genre": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rap"
+      ],
+      "country": "US",
+      "year": "2018",
+      "format": [
+        "Cassette",
+        "Album",
+        "Limited Edition"
+      ],
+      "label": [
+        "Not On Label (Tierra Whack Self-released)",
+        "Scary Hours"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1467807",
+      "uri": "/release/13827711-Tierra-Whack-Whack-World",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/oJBp1BOwilO1WdfYJduCodcZo6qY_0uJK49tmmJcYRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NzExLTE1NjIwMTQz/MzYtOTM4My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JY5kymE_n3WjpbwsTZ0oD3HJtWs6FC-L-ggiWAWi2eM/rs:fit/g:sm/q:90/h:801/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NzExLTE1NjIwMTQz/MzYtOTM4My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/13827711",
+      "community": {
+        "want": 245,
+        "have": 0
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Cassette",
+          "qty": "1",
+          "descriptions": [
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1467807,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Pop Rap"
+    ],
+    "main_release": 12922854,
+    "most_recent_release": 37045809,
+    "resource_url": "https://api.discogs.com/masters/1467807",
+    "uri": "https://www.discogs.com/master/1467807-Tierra-Whack-Whack-World",
+    "versions_url": "https://api.discogs.com/masters/1467807/versions",
+    "main_release_url": "https://api.discogs.com/releases/12922854",
+    "most_recent_release_url": "https://api.discogs.com/releases/37045809",
+    "num_for_sale": 11,
+    "lowest_price": 69.99,
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Gfw9fhPSkQ2mZxg27V_36dQ54EnIKyLrffgfCTyTtmg/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIy/ODU0LTE1NDQ2MDI0/MjktODA5NS5qcGVn.jpeg",
+        "resource_url": "https://i.discogs.com/Gfw9fhPSkQ2mZxg27V_36dQ54EnIKyLrffgfCTyTtmg/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIy/ODU0LTE1NDQ2MDI0/MjktODA5NS5qcGVn.jpeg",
+        "uri150": "https://i.discogs.com/Ragz577E2piOf7a1tkL4jAFifOatLNhIuafhlbKZyqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIy/ODU0LTE1NDQ2MDI0/MjktODA5NS5qcGVn.jpeg",
+        "width": 320,
+        "height": 320
+      }
+    ],
+    "year": 2018,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Black Nails",
+        "duration": "1:00"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Bugs Life",
+        "duration": "1:00"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Flea Market",
+        "duration": "1:00"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "Cable Guy",
+        "duration": "1:00"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "4 Wings",
+        "duration": "1:00"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Hookers",
+        "duration": "1:00"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Hungry Hippo",
+        "duration": "1:00"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Pet Cemetery",
+        "duration": "1:00"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "F**k Off",
+        "duration": "1:00"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Silly Sam",
+        "duration": "1:00"
+      },
+      {
+        "position": "11",
+        "type_": "track",
+        "title": "Fruit Salad",
+        "duration": "1:00"
+      },
+      {
+        "position": "12",
+        "type_": "track",
+        "title": "Pretty Ugly",
+        "duration": "1:00"
+      },
+      {
+        "position": "13",
+        "type_": "track",
+        "title": "Sore Loser",
+        "duration": "1:00"
+      },
+      {
+        "position": "14",
+        "type_": "track",
+        "title": "Dr. Seuss",
+        "duration": "1:00"
+      },
+      {
+        "position": "15",
+        "type_": "track",
+        "title": "Waze",
+        "duration": "1:00"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Tierra Whack",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 4133405,
+        "resource_url": "https://api.discogs.com/artists/4133405",
+        "thumbnail_url": "https://i.discogs.com/xsLPKI4JlwA0kgKHgV0L8a3jyF6bXvZq70M9DDI0NiE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxMzM0/MDUtMTUyNzk5OTY2/NC0xODk2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Whack World",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=EOTebhPy04g",
+        "title": "Tierra Whack - Whack World",
+        "description": "WELCOME TO WHACK WORLD\nA Visual And Auditory Project by Tierra Whack\nhttp://smarturl.it/WhackWorld\n\nMusic video by Tierra Whack performing Whack World. \u00a9 2018 Tierra Whack\n\nhttp://vevo.ly/hv2cqj",
+        "duration": 948,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rgOu-1YVWQk",
+        "title": "Tierra Whack - Bugs Life",
+        "description": "WELCOME TO WHACK WORLD\nA Visual And Auditory Project by Tierra Whack\nhttp://smarturl.it/WhackWorld\n\nMusic video by Tierra Whack performing Bugs Life. \u00a9 2018 Tierra Whack\n\nhttp://vevo.ly/82d4gj",
+        "duration": 61,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=HuX8yOdrCVc",
+        "title": "Tierra Whack - Fruit Salad",
+        "description": "WELCOME TO WHACK WORLD\nA Visual And Auditory Project by Tierra Whack\nhttp://smarturl.it/WhackWorld\n\nMusic video by Tierra Whack performing Fruit Salad. \u00a9 2018 Tierra Whack\n\nhttp://vevo.ly/iAGpEE",
+        "duration": 61,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=_xnpy8HL-y8",
+        "title": "Tierra Whack - Pet Cemetery",
+        "description": "WELCOME TO WHACK WORLD\nA Visual And Auditory Project by Tierra Whack\nhttp://smarturl.it/WhackWorld\n\nMusic video by Tierra Whack performing Pet Cemetery. \u00a9 2018 Tierra Whack\n\nhttp://vevo.ly/wAKCmM",
+        "duration": 62,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1467807,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    },
+    {
+      "name": "Pop Rap",
+      "kind": "style",
+      "source": "discogs_search"
+    }
+  ]
+}

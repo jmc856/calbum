@@ -1,0 +1,484 @@
+{
+  "step": "search",
+  "query": {
+    "upc": "859718078043",
+    "artist": "Noname",
+    "title": "Telefone",
+    "year": 2016
+  },
+  "results": [
+    {
+      "id": 15432205,
+      "title": "Noname (18) - Telefone",
+      "master_id": 1199418,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Neo Soul"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "FLAC",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Noname (18) Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1199418",
+      "uri": "/release/15432205-Noname-Telefone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/rbuamoWOK7HPeeu0M5bPOzC8Epru2H9UxBQBIXR9l88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDMy/MjA1LTE1OTE0NDMw/MDUtNjQxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/AE2WErbP5dhKsTbgcpehNLuNrkCB0HcperZVeNr0N5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDMy/MjA1LTE1OTE0NDMw/MDUtNjQxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15432205",
+      "community": {
+        "want": 38,
+        "have": 15
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "FLAC",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10925899,
+      "title": "Noname (18) - Telefone",
+      "master_id": 1199418,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Neo Soul"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "AAC",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Noname (18) Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1199418",
+      "uri": "/release/10925899-Noname-Telefone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/-syQEB3AxIR9Jv0LBXqHkmtWeD8dh8mLKRQONd_XpM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI1/ODk5LTE2OTQ0NDAz/NDMtODcwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gbid-qVj3hUcvJ7jfQCJVoI6m826AjaCwOBr52eyD8M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI1/ODk5LTE2OTQ0NDAz/NDMtODcwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10925899",
+      "community": {
+        "want": 68,
+        "have": 5
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "256 kbps",
+          "descriptions": [
+            "AAC",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8918296,
+      "title": "Noname (18) - Telefone",
+      "master_id": 1199418,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "File",
+        "MP3",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Noname (18) Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1199418",
+      "uri": "/release/8918296-Noname-Telefone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/eMkMCx59CjEgjCvlzXWO5XdUOAyFmBNu01Tw02byocY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/11VcuPP_7Q-7WLi_ZmPCK2Lw732pmeWlskwJtQEc06w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8918296",
+      "community": {
+        "want": 280,
+        "have": 99
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "text": "320 kbps",
+          "descriptions": [
+            "MP3",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10777014,
+      "title": "Noname (18) - Telefone",
+      "master_id": 1199418,
+      "genre": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Conscious",
+        "Neo Soul"
+      ],
+      "country": "Unknown",
+      "year": "2016",
+      "format": [
+        "File",
+        "WAV",
+        "Mixtape"
+      ],
+      "label": [
+        "Not On Label (Noname (18) Self-released)"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1199418",
+      "uri": "/release/10777014-Noname-Telefone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/Cjwytd_Vy4gnoeocr7Ds0CnSqhAt1leDV6mpow9Hfpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/MDE0LTE1MDQxMjYz/NjQtMzY0OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eJVWAtOw27ha_mgZHJqENYaJHjTJWYYZmkNFVOC532U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/MDE0LTE1MDQxMjYz/NjQtMzY0OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10777014",
+      "community": {
+        "want": 68,
+        "have": 17
+      },
+      "format_quantity": 0,
+      "formats": [
+        {
+          "name": "File",
+          "qty": "10",
+          "descriptions": [
+            "WAV",
+            "Mixtape"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9386519,
+      "title": "NoName Gypsy - Telefone",
+      "master_id": 1199418,
+      "genre": [
+        "Hip Hop"
+      ],
+      "style": [],
+      "country": "US",
+      "year": "2016",
+      "format": [
+        "CD",
+        "Unofficial Release"
+      ],
+      "label": [
+        "Not On Label"
+      ],
+      "type": "release",
+      "barcode": [],
+      "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+      },
+      "master_url": "https://api.discogs.com/masters/1199418",
+      "uri": "/release/9386519-NoName-Gypsy-Telefone",
+      "catno": "none",
+      "thumb": "https://i.discogs.com/1o1XkYRBMo45DvmASGvEVCxHfheRDfkxXTb_emkVwmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODY1/MTktMTQ3OTY1NzE3/Ny0zMzMwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/9Kow24YeJKu14hzgG3B5nBDkAkHO7PIoL3Jt0ttz7Z4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODY1/MTktMTQ3OTY1NzE3/Ny0zMzMwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9386519",
+      "community": {
+        "want": 189,
+        "have": 25
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "CD",
+          "qty": "1",
+          "descriptions": [
+            "Unofficial Release"
+          ]
+        }
+      ]
+    }
+  ],
+  "master": {
+    "id": 1199418,
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [],
+    "main_release": 8918296,
+    "most_recent_release": 38051904,
+    "resource_url": "https://api.discogs.com/masters/1199418",
+    "uri": "https://www.discogs.com/master/1199418-Noname-18-Telefone",
+    "versions_url": "https://api.discogs.com/masters/1199418/versions",
+    "main_release_url": "https://api.discogs.com/releases/8918296",
+    "most_recent_release_url": "https://api.discogs.com/releases/38051904",
+    "num_for_sale": 24,
+    "lowest_price": 120.0,
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/11VcuPP_7Q-7WLi_ZmPCK2Lw732pmeWlskwJtQEc06w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/11VcuPP_7Q-7WLi_ZmPCK2Lw732pmeWlskwJtQEc06w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/eMkMCx59CjEgjCvlzXWO5XdUOAyFmBNu01Tw02byocY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/OTYtMTQ3MTQ0OTM0/OC0xODE4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "year": 2016,
+    "tracklist": [
+      {
+        "position": "1",
+        "type_": "track",
+        "title": "Yesterday",
+        "duration": "3:09"
+      },
+      {
+        "position": "2",
+        "type_": "track",
+        "title": "Sunny Duet",
+        "extraartists": [
+          {
+            "name": "theMIND",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5137877,
+            "resource_url": "https://api.discogs.com/artists/5137877"
+          }
+        ],
+        "duration": "2:42"
+      },
+      {
+        "position": "3",
+        "type_": "track",
+        "title": "Diddy Bop",
+        "extraartists": [
+          {
+            "name": "Cam O'bi",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4454785,
+            "resource_url": "https://api.discogs.com/artists/4454785"
+          },
+          {
+            "name": "Raury",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3848233,
+            "resource_url": "https://api.discogs.com/artists/3848233"
+          }
+        ],
+        "duration": "3:28"
+      },
+      {
+        "position": "4",
+        "type_": "track",
+        "title": "All I Need",
+        "extraartists": [
+          {
+            "name": "Xavier Om\u00e4r",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5209402,
+            "resource_url": "https://api.discogs.com/artists/5209402"
+          }
+        ],
+        "duration": "4:00"
+      },
+      {
+        "position": "5",
+        "type_": "track",
+        "title": "Reality Check",
+        "extraartists": [
+          {
+            "name": "Akenya",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3889564,
+            "resource_url": "https://api.discogs.com/artists/3889564"
+          },
+          {
+            "name": "Eryn Allen Kane",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3866055,
+            "resource_url": "https://api.discogs.com/artists/3866055"
+          }
+        ],
+        "duration": "3:03"
+      },
+      {
+        "position": "6",
+        "type_": "track",
+        "title": "Freedom Interlude",
+        "duration": "3:19"
+      },
+      {
+        "position": "7",
+        "type_": "track",
+        "title": "Casket Pretty",
+        "duration": "1:50"
+      },
+      {
+        "position": "8",
+        "type_": "track",
+        "title": "Forever",
+        "extraartists": [
+          {
+            "name": "Joseph Chilliams",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270994,
+            "resource_url": "https://api.discogs.com/artists/3270994"
+          },
+          {
+            "name": "Ravyn Lenae",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4732204,
+            "resource_url": "https://api.discogs.com/artists/4732204"
+          }
+        ],
+        "duration": "3:38"
+      },
+      {
+        "position": "9",
+        "type_": "track",
+        "title": "Bye Bye Baby",
+        "duration": "2:49"
+      },
+      {
+        "position": "10",
+        "type_": "track",
+        "title": "Shadow Man",
+        "extraartists": [
+          {
+            "name": "Phoelix",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 5209400,
+            "resource_url": "https://api.discogs.com/artists/5209400"
+          },
+          {
+            "name": "Saba (14)",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 3270638,
+            "resource_url": "https://api.discogs.com/artists/3270638"
+          },
+          {
+            "name": "Smino",
+            "anv": "",
+            "join": "",
+            "role": "Featuring",
+            "tracks": "",
+            "id": 4786421,
+            "resource_url": "https://api.discogs.com/artists/4786421"
+          }
+        ],
+        "duration": "5:11"
+      }
+    ],
+    "artists": [
+      {
+        "name": "Noname (18)",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 5934594,
+        "resource_url": "https://api.discogs.com/artists/5934594",
+        "thumbnail_url": "https://i.discogs.com/8dQOLA6l8HNLeAuR5AVKxyY8Xxr8x8Q_gKXgaKcuUQA/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5MzQ1/OTQtMTU0MDk0Mjg1/Ny0xNTk2LmpwZWc.jpeg"
+      }
+    ],
+    "title": "Telefone",
+    "data_quality": "Correct",
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=eSX7LmESZQ4",
+        "title": "Noname - Telefone (Full Album)",
+        "description": "HELP ME GET TO MY DREAM OF 100,000 SUBSCRIBERS \n\n-------------------------------------------\n\nSupport Royal Rap, Like, Share Comment And Subscribe :) \n2nd Channel - Speed Music - https://www.youtube.com/channel/UChyNBaYZ6F6t5xKsZGBnn0A\n\n------------------",
+        "duration": 0,
+        "embed": true
+      }
+    ]
+  },
+  "discogs_release_id": 1199418,
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "kind": "genre",
+      "source": "discogs_search"
+    }
+  ]
+}

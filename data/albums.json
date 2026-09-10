@@ -2312,8 +2312,19 @@
       "Tierra Whack"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb22c7162d3867dc3c2af466",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1467807,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Pop Rap",
+        "source": "discogs_search"
+      }
+    ],
     "id": "3ogNAkUhvQy0cFOfLoR6Y8",
     "release_date": "2018-05-30",
     "release_year": 2018,
@@ -2783,8 +2794,24 @@
       "Noname"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273f65df5cd2490bff182ddd2fd",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1427994,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Conscious",
+        "source": "discogs_search"
+      },
+      {
+        "kind": "style",
+        "name": "Jazzy Hip-Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5GV2nBx7O67vu9NYHbMfXl",
     "release_date": "2018-09-14",
     "release_year": 2018,
@@ -3114,8 +3141,14 @@
       "Noname"
     ],
     "cover_url": "https://i.scdn.co/image/ab67616d0000b273d684ea63f359ff9a83c10bc8",
-    "discogs_release_id": null,
-    "genres": [],
+    "discogs_release_id": 1199418,
+    "genres": [
+      {
+        "kind": "genre",
+        "name": "Hip Hop",
+        "source": "discogs_search"
+      }
+    ],
     "id": "5kjqLxeQxdW3CcUdOXuO2c",
     "release_date": "2016-07-31",
     "release_year": 2016,
